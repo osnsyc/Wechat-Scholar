@@ -20,6 +20,8 @@
 
 - 在[channels.json](./channels.json)中寻找公众号名称，复制Links栏地址至RSS阅读器;
 
+- **或**通过`subscriptions.opml`直接导入所有频道;
+
 - 如列表中找不到您需要的公众号，请移步[Issues](https://github.com/osnsyc/Wechat-Scholar/issues).
 
 
@@ -34,5 +36,6 @@
 ## 相关项目
 
 - [osnsyc/Scholar-to-RSS](https://github.com/osnsyc/Scholar-to-RSS), 谷歌学术转RSS.
+- [osnsyc/WoS-to-RSS](https://github.com/osnsyc/WoS-to-RSS), Web of Science Alert to RSS
 
 
