@@ -31,22 +31,43 @@
 
 
 
-
-
-
-
-
     <item>
-      <title><![CDATA[ROS中MPC局部路径规划器使用方法及源码流程解读]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>本文主要介绍ROS中Navigation导航框架中MPC局部路径规划器mpc_local_planner的使用方法，并对源码进行解读，梳理其规划流程等具体包含MPC模型预测控制算法简介、mpc_loc</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586789&amp;idx=1&amp;sn=adcfa4aaf2958dd68af33f580e5b9ac2&amp;chksm=fbc9ea81ccbe639722aa7b590ece45c1a9aa49fee4241ea0956267bf6292f40151c8ee51bf07&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 30 Nov 2023 20:08:00 +0000</pubdate>
+      <title><![CDATA[ROS机器人如何使用Navigation导航包实现实时定位]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztkoJ1Oz0l3xEjfeZlkTpngRMFOaiccxpxJGicEELA6sgbkMa8lJOuNubfP5oyszIJiaAhw0DdS2ibR9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇文章主要分析，常规的ROS机器人是如何使用Navigation导航包实现实时定位的，定位精度的决定性因素等内容，结构上分为详细介绍、概括总结、深入思考三大部分。一、详细介绍常规的ROS机器人一般都</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586819&amp;idx=1&amp;sn=a7d6dc61256d74858bdc8310f7c825ad&amp;chksm=fbc9ed67ccbe64713e80768daad6a2ef4f4b003043a682d3e378c6daa358e571536cd7b12dbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 01 Dec 2023 21:58:45 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[经典文献阅读之—RLAD(城市环境中自动驾驶从像素进行强化学习)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_png/ZUHCFZqSZzsShPmP8wSOBichy9YRQBadbYgRexB8kqUwXvKvgmibp2dz8P0hYzpbJtjvaWTTeSPmE7W4QE7cjIQQ/300?wxtype=png&amp;wxfrom=0"/><p>0. 简介强化学习在自动驾驶中的应用已经日渐普及，虽然由于一些伦理问题，目前真正的使用这种强化学习的还不是很多但是目前已经有很多应用在自动驾驶中的强化学习的工作，但是我们发现这类方法基本都是将卷积编码</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586789&amp;idx=2&amp;sn=3f7739f00dd519c5ce926777aa21932c&amp;chksm=fbc9ea81ccbe639735b195f1fae0c5d165ec025f9320271cd27abe094d65e24120db5d247d37&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <title><![CDATA[ROS中MPC局部路径规划器使用方法及源码流程解读]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>本文主要介绍ROS中Navigation导航框架中MPC局部路径规划器mpc_local_planner的使用方法，并对源码进行解读，梳理其规划流程等具体包含MPC模型预测控制算法简介、mpc_loc</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586789&amp;idx=1&amp;sn=adcfa4aaf2958dd68af33f580e5b9ac2&amp;chksm=fbc9ea81ccbe639722aa7b590ece45c1a9aa49fee4241ea0956267bf6292f40151c8ee51bf07&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 30 Nov 2023 20:08:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[经典文献阅读之—RLAD(城市环境中自动驾驶从像素进行强化学习)]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_png/ZUHCFZqSZzsShPmP8wSOBichy9YRQBadbYgRexB8kqUwXvKvgmibp2dz8P0hYzpbJtjvaWTTeSPmE7W4QE7cjIQQ/300?wxtype=png&amp;wxfrom=0"/><p>0. 简介强化学习在自动驾驶中的应用已经日渐普及，虽然由于一些伦理问题，目前真正的使用这种强化学习的还不是很多但是目前已经有很多应用在自动驾驶中的强化学习的工作，但是我们发现这类方法基本都是将卷积编码</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586789&amp;idx=2&amp;sn=3f7739f00dd519c5ce926777aa21932c&amp;chksm=fbc9ea81ccbe639735b195f1fae0c5d165ec025f9320271cd27abe094d65e24120db5d247d37&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 30 Nov 2023 20:08:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
