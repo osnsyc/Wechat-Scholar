@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[无人车、无人船、海陆空协同套件，阿木实验室科研产品线远不止无人机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsYFwJMkckhuHEvZicz6VCcSAgAmBW0UQaHD4ib2lXg7B9Hica0bQfl0bydET3c4wsJibX0ZeskmpGImQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>提到科研无人车，大家可能首先想到的是其在自动驾驶和其他先进技术领域的应用。然而，随着科技的不断进步，科研无人车已经在智慧城市建设、商业服务、地质勘探、环境保护、农业技术革新、灾害应急和自动化服务等多个</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587327&amp;idx=1&amp;sn=2e5a02b30c59ee3869666e79268fff41&amp;chksm=fac05f35bd169a8cc39f7d41038f47c880366069cc6e2d7db882f18ec3d59a693bbe237260e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 21 Dec 2023 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[《详解》如何在ROS中建立MQTT通信]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuhyeN1wgibXR2CudhyV4llUM9TT6daLawnJR95G6mXGm8hrPuNQVL8odZcvujPnNEeTMqP6oPgqqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、复习一下：ROS通信机制&amp;MQTT通信异同点ROS通信机制概述ROS中的主要通信机制有以下几种：1.话题 (Topics)○发布/订阅模型（Publish/Subscribe）：这种通信方式中，节</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587297&amp;idx=1&amp;sn=0e5ab9c3610d6e84aece299dbf67a3c7&amp;chksm=fa628d5d65cc5e1b1af3b9c23a3becd754845cd0b8f59f394d97ddade7d7644de85f949551e2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 20 Dec 2023 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -119,230 +136,6 @@
       
 
       <pubdate>Fri, 15 Dec 2023 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《保姆级》手把手教你做一个物联网智能水龙头（三）客户端程序设计]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztGYoxSGUBK9ibG0AvTFFh2YnICib88NX0oxqDYQPHibibXiazLNUJticdEhGXr3nONSrMIY94eVQQwndJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文主要内容为Python实现MQTT服务器连接及话题发布&amp;Python窗体实现MQTT服务器的搭建参考如下：http://www.guyuehome.com/44993设计目标：实现遥控水龙头开关实</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587202&amp;idx=1&amp;sn=268322c32444584855782952c7ad9d95&amp;chksm=fa430143786b6913ecbb1030e2443e0d2847a51032ad7a510abf228b7b2233e0b975e962c482&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 14 Dec 2023 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《保姆级》手把手教你做一个物联网智能水龙头（二）电路设计及EPS32程序设计]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt4k0PJdNh0UXA2H7fOGFghWibcmEEWBkCM3DCMO0YGgpsljBdHXL2OZmABUJAuSswrS7aZ2VKpg5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、电路补完计划上一章我们已经确定了智能水龙头所需要的电路模块，接下来我们将来确定这些电路模块如何连接组成为一个完整的“系统”。介于我们的系统结构简单，元器件相对较少，可以大致分为三个部分：•供电&amp;充</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587190&amp;idx=1&amp;sn=ba392b9e2503605f93290d3f88b71703&amp;chksm=faa08a6f75839854317beb4fa00284577400e300b8b019c5b3d75fe5c0963cee00f355949d6a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 13 Dec 2023 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《保姆级》手把手教你做一个物联网智能水龙头（一）总体和机械结构设计]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztUqZPgNOvib6cc1fCdpH9NjtWMFSplzM3wxcGbaLUVIrRNJyTB8DLYcZFobjzthCELMjwqrCjzEMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、设计需求（我们要做个什么样的水龙头？）1.支持电动开关水龙头2.支持遥控、接入互联网（不能上网叫什么智能家居）3.支持溢水检测二、技术栈（我们需要哪些技术才能满足上述需求）1.solidworks</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587166&amp;idx=1&amp;sn=3d2a67ce54231d6eff67a27a8a715019&amp;chksm=fadc499519569ca9b56351e837900fca7fd5e86123685fd01191ca22745a0db522730c0a63e8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 12 Dec 2023 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[古月居年终活动周惊喜回馈，诚邀各位开发者参与！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztjJnAic9WtiaWJGicsAQCibxd6ZyibUxH4sqDX4p5Zo85FflYFJClP2DibPr42vZewu6tKsWIKTdkcQHoA/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587145&amp;idx=1&amp;sn=ecf0bcd632e03bbeba7673540fa038f2&amp;chksm=fbc9ec2dccbe653b150c7bb09efcf610d040de53089ca7d1b0589d3e6a8816e24512ef1f3c4e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Dec 2023 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[直播预告|《手把手教你学习OriginBot》倒计时1天！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztjJnAic9WtiaWJGicsAQCibxd6lr9Jy9keiciapdzia3AotBiaUBsyUdtIc3HUJofpbsMNRvkz9a5H4be47A/300?wxtype=jpeg&amp;wxfrom=0"/><p>直播内容直播时间2023年12月12日下午14:00~17:00直播形式全程线上直播平台：古月学院主讲人介绍吴忠昊田，古月居ROS机器人应用工程师曾在中国大学生无人驾驶方程式大赛、睿抗机器人开发者大赛</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587145&amp;idx=2&amp;sn=48215a508297b1299747e289e00c767b&amp;chksm=fbc9ec2dccbe653b0ca67ab6c0a1a52242dc1ef90ffa722716c124b6ccc1ac327b1c0303a7eb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Dec 2023 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[送书送资源！《机器人操作系统ROS》实战教材配套资源出来啦！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztVtqwGzhqkQAJzrG0D4sCsocHJPMoXrnoznkUicFHrQwUqonvyZqyFvhqY2pexBe1Eo5U2nzCXFIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>"世界一流的本科教育依托世界一流的本科教材"本文将为机器人工程、自动化、人工智能、机电一体化等相关专业，教授《机器人系统原理》《机器人操作系统》《机器人系统应用开发》等课程的老师，推荐一本集理论+实践</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587134&amp;idx=1&amp;sn=ee3ccb29398a515eff4f08295c86bf32&amp;chksm=fbc9ec5accbe654c1dacfd3a50ac7dfc62453ba48738afd28eaf9ed3e6d43fad12762abdc548&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 10 Dec 2023 17:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【SLAM】SuperPoint 语义 SLAM 深度学习用于特征提取]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu12vTIaOKAv3nMFNYXoz3gAJU64G3GcgbXGLjrib9icA76ib1kQeAaPo1SNiaxiarvfiaq2WmkGOCD2DfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 概况作者的写作思路很清晰，把各个技术点这么做的原因写的很清楚，全文共三篇，可以看清作者在使用深度学习进行位姿估计这一方法上的思路演变过程，为了把这一脉络理清楚，我们按照时间顺序对这三篇文章分别解</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587070&amp;idx=1&amp;sn=d1d46f9be6e89ad172d15decada1415d&amp;chksm=fbc9ed9accbe648caeacf80a92f3ec4c413dc7d6df5540116067edc5a783658a4a4da3bfa548&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 09 Dec 2023 17:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[玩转OriginBot机器人 :: 控制器电路分析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuhvRD4NQlvrS78E0LURAsvGjhjbGm9mAJHx2pHOM90AzwxwMONjULIpdbVwvfSczuxQ3IPhBgyIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x00 官方仓库originbot ：originbot 机器人端功能包仓库;originbot_desktop : originbot电脑端功能包仓库;originbot_controller :</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587051&amp;idx=1&amp;sn=423df449cf8203c7ceddbf9e618902ca&amp;chksm=fbc9ed8fccbe64997e2f9b87a0fe54ae4bbd92a2def8793bfd3fd6cd31fbe69ad89273d030cf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 08 Dec 2023 17:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[玩转OriginBot机器人 :: 红绿灯颜色识别]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsO5ZItibGLicPHGibPcDGkJN1KDtvkYeaibWwfTTBB51GnBpDriaq9LlOg3WQ3NWnF8JuXicXbrGY76taA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x00 往期博文BPU初体验::红绿灯（https://www.guyuehome.com/43261）旭日X3pi :: 三原色识别（https://www.guyuehome.com/44044</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587023&amp;idx=1&amp;sn=142b101b379eda0b7489f21c821c33c6&amp;chksm=fbc9edabccbe64bdecb68ff6a018313ce977fbeefcd7542302f2da3dc34e4a8ede39f5410ba4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 07 Dec 2023 17:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenCV中的图像特征提取描述以及算法介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuDOicSrrFe7rtdg14ElbAkfspPtTHJ2aibcHShf6E4IjorjwoSoRNFibqlunvG8IUg9vdEE4lmbXaDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>图像特征提取与描述主要内容是：•图像的特征•Harris和Shi-Tomasi算法的原理及角点检测的实现•SIFT/SURF算法的原理及使用SIFT/SURF进行关键点的检测方法•Fast算法角点检测</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587001&amp;idx=1&amp;sn=c7f759d5112f70544556041f6158084d&amp;chksm=fbc9edddccbe64cb5c78cddfc68799616d81e44fd93e15edf15e94d224c22a5f83fd9c733c5e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Dec 2023 17:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐| ROS Qt环境的搭建及基础知识介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztEJKnX3slobwAMsuMvZmFW2VyGfPvhic28icVvugpsJSnzwRqdGMMTZBYWev0lXKrXRPTRP3hyemSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>● 1.课程目的 ●ROS使用过程中，涉及许多命令和终端的操作，虽然有Rviz做显示，但依然没办法充分满足多种多样的需求，那不如开发一款集成各种自定义功能的可视化软件吧！古月居推出“如何开发一个ROS</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586920&amp;idx=1&amp;sn=1e6b2c6499f941ab531fab946a556354&amp;chksm=fbc9ed0cccbe641a28302cb093d68a7655c0f134ab65879f366eb8f1e26a98ed09e8a5c0e248&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Dec 2023 17:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[搭载大语言模型 地平线开发者打造“小芒狗ManGo”智能导盲机器人]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvFJNZbibdhJzibHsn9BJ4CwrjtL5KWWg2RIibLU2u8icLXoiaVGMC2MVOCRL0hzfHrIO6k98llgwYc5QA/640?wxtype=jpeg&amp;wxfrom=0"/><p>你能想象如果周围的世界陷入一片黑暗，你的世界不再出现五彩斑斓，甚至生活起居都需要别人照顾，此时的你内心将会产生怎样的涟漪？在中国约有1730万人视力残障人士，但在现实世界当中，我们却很少能够在公共场合</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586899&amp;idx=1&amp;sn=898a84e86bea7430bbd0cb33fb91b68c&amp;chksm=fbc9ed37ccbe642156b8e18f2daf89d20b39effc8a4c9e9cb8cc4ab897868b185ab4e91227bf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 04 Dec 2023 17:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于导纳控制（Admittance control）的机器人拖动示教原理及其性能实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztUT1Bqmz4ndacXibib3x2QRUWib8ShNnrIgax6wP1Ih0jUUtxwBe7vKibibuu4ZKXamrMb3Zw75c0Eymg/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于导纳控制的机器人拖动示教是一种常用的机器人控制策略，它允许人与机器人直接互动，实现自然、直观的控制。在导纳控制中，机器人被建模为一个力控制系统，其动力学特性由一个等效的导纳（Admittance）</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586866&amp;idx=1&amp;sn=7fe38ac9a8327e99baa2c55d12700b0e&amp;chksm=fbc9ed56ccbe64405ef57e37228b56a076a5103aed82ebecaeb839bbe0d0dcbc2f3bbdf01a23&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 03 Dec 2023 21:15:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS机器人如何使用Navigation导航包实现实时定位]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztkoJ1Oz0l3xEjfeZlkTpngRMFOaiccxpxJGicEELA6sgbkMa8lJOuNubfP5oyszIJiaAhw0DdS2ibR9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇文章主要分析，常规的ROS机器人是如何使用Navigation导航包实现实时定位的，定位精度的决定性因素等内容，结构上分为详细介绍、概括总结、深入思考三大部分。一、详细介绍常规的ROS机器人一般都</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247586819&amp;idx=1&amp;sn=a7d6dc61256d74858bdc8310f7c825ad&amp;chksm=fbc9ed67ccbe64713e80768daad6a2ef4f4b003043a682d3e378c6daa358e571536cd7b12dbd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Dec 2023 21:58:45 +0000</pubdate>
       
 
     </item>
