@@ -35,11 +35,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[【移动机器人原理与应用】6-移动机器人分布式通信、运动控制编程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztm2ZgCPvCCExtNvTJ0LzmD9iaklibvV47qnhalJ3B3Ij65piazvz26b4gIvLTu5sOdCmwHkE7gvicuhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>移动机器人分布式通信前边我们编写并运行的代码都是在机器人的控制器上实现的，需要我们先远程登录到机器人上再进行操作。我们讲到ROS是一个分布式框架，那我们是不是可以在自己的电脑上编写并运行代码，再通过网</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587730&amp;idx=1&amp;sn=89d04ea66c87103ec170d4244ac133d5&amp;chksm=fa8e596e4fea23921a9af2eb1fdbe765387b693bf2ec37570e21667a6b4f9b440fb1c67990e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 04 Jan 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[【移动机器人原理与应用】3-移动机器人的运行架构]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztKshL7QXAXcibGfZddlUf8FAZCrtSW3dcsEHfYlu2JN32foBlfIKVjTy35qylKiaWVn40WP6ic8FV7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>移动机器人ROS架构分析1.1小海龟仿真ROS的核心概念不少，有节点、话题、消息、服务等，在实际机器人运行过程中，这些概念是如何体现的呢？我们先来运行ROS系统一个经典的例程——小海龟。请大家按照以下</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587642&amp;idx=1&amp;sn=33f8556f16ad465b0b615bda8ad06bc3&amp;chksm=faafe38a5b2e279c02fb4bdbf17f660a9e3551b8a7de7b77254a87ef8017060bcccd9f096e86&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 01 Jan 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
