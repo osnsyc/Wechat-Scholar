@@ -27,11 +27,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[激光SLAM：Faster-Lio 算法编译与测试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztDViamJCX8PJWV9myRaPRJUb9j61Dy9Dl4wiawt4uy5PvsxvHgkia03LHpib94UeR1n5ywibzdFUfW6hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言Faster-LIO是基于FastLIO2开发的。FastLIO2是开源LIO中比较优秀的一个，前端用了增量的kdtree（ikd-tree），后端用了迭代ESKF（IEKF），流程短，计算快。F</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587883&amp;idx=1&amp;sn=5d910510eafac38d430e0f61c2af0dd6&amp;chksm=fa772a0900723946ed661319ea4c7fa0d0cb7797086a369347ef095e93364c34d2bfdedca6a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 11 Jan 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[C++ 之Google benchmark测试与分析]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuWtB2uJ6go9HCYASGDMJTBRnn0r06tNMZOfy1iavoG03p9BynngtnsbAQ0OvqIcMVHsibr7EqUZurQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介作为一个程序而言，benchmark是非常关键的一个衡量指标，无论是程序算法的指标还是程序运行性能的指标，这些我们都可以去完成衡量。对于性能衡量而言google benchmark无疑是一个</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587859&amp;idx=1&amp;sn=dc2173c95379cd10606fbd0258349df3&amp;chksm=fa3935cce085db735d614f5962df5d4d7c80e7e81e4fa572a852eb2ccc0f62071ef52a944bbb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 10 Jan 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
