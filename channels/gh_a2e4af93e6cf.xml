@@ -1,59 +1,210 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  
+
   <channel>
+    
+
     <title><![CDATA[专知]]></title>
+    
+
     <link>https://mp.weixin.qq.com/</link>
+    
+
     <description><![CDATA[专知公众号]]></description>
+    
+
     <language>zh-cn</language>
+    
+
+
+
+
+
+
+
+
+
     <item>
-      <title><![CDATA[《数据驱动的自动驾驶》最新综述，详述大数据系统、数据挖掘和闭环技术]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOombtwNvkzjuLicQUBT6yic3PSqxqAyTSue0FMYibSwms3xU921A0z57ibldw/640?wxtype=jpeg&amp;wxfrom=0"/><p>下一代自动驾驶（AD）技术的抱负依赖于智能感知、预测、规划和低级控制之间的专注整合和交互。在自动驾驶算法性能的上限方面存在巨大瓶颈，来自学术界和工业界的共识认为，克服这一瓶颈的关键在于以数据为中心的自</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=1&amp;sn=75651d68842c0e62ed7d9d92713be9ef&amp;chksm=fdd6e9ceba900248e0807b59ff8b96ca4b8ad814980c77bab3029d531d65da7ca1822ae28dd4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      <title><![CDATA[大模型如何用于科学发现？浙大等最新《科学大型语言模型：生物学与化学领域》综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw345CjNmFDh04FCiaPJ5pLmKhhV5a27dkNz7Ak8ib9OPwVNKn29aWmopzkOjrnQL5th40tSPqJiaMvrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）已成为增强自然语言理解的转型力量，代表了向人工通用智能迈出的重要步伐。LLMs的应用超越了传统语言学边界，包括了各个科学学科内发展的特殊语言系统。这一日益增长的兴趣促成了科学L</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644026&amp;idx=1&amp;sn=98e86b669832eb436924603bdcc8de87&amp;chksm=fda49cec7ded25c5e1ebe5088bba9f8c33f1ed3da55a54a735f9e864bbffccbbef9f5a229350&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 09:21:26 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【博士论文】时序知识图谱嵌入与推理，178页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOomwgqrjpBNq4CBQEhURCMiaswuAxXxOUWUcR0K5esrK2EaoJZeVE9MCHA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知识图谱（KGs）已成为一种高效的知识组织和表示方式，通过存储实体之间的底层关系来实现。最近，大量研究工作致力于KG嵌入，旨在将KG中的实体和关系映射到低维连续向量空间中，以便快速推理。KG嵌入模型已</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=2&amp;sn=056ab277367104c2ffbe6edf04a78175&amp;chksm=fdd95db3347109082b81bad28b80142cb9037c1e0b358078acf6ea0f3edc724e416426c1766d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      <title><![CDATA[【剑桥大学博士论文】朝向深度贝叶斯模型的改进变分推断，226页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw345CjNmFDh04FCiaPJ5pLmKlVxfeBWuKYT0g24dFM6aa28NxQ7l9hzNmu7yxangnFiarZzTP8AeLrg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习在过去十年里引发了革命性变化，它在计算机视觉、自然语言处理和强化学习等众多任务中取得了非凡的进展，仅举几例。然而，众所周知，通过最大似然估计训练的深度模型往往过于自信，并给出校准不良的预测。贝</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644026&amp;idx=2&amp;sn=42bc1059d85b15f2ba43432c261c381f&amp;chksm=fd6bbc9f365b88610f6744032bb45742fb207dc7b1eea37440aa59ac115ac25aa3cc040e4483&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 09:21:26 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[人机协同：《基于强化学习的有人-无人飞机编队任务规划： 敌方防空压制（SEAD）任务》最新论文]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS9IX5CfEP01ZZREksnjL2daiaQUhw3k30oZgDEDH9koqCviavKczS8Bjv7DOmao4lJh5F4C0nVpbLQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本研究探讨了无人驾驶飞行器（UAV）与有人驾驶飞机合作进行集中任务规划的发展情况。我们采用经过近端策略优化（PPO）训练的单一智能体来模拟敌方防空压制（SEAD）场景。我们的目标是掌握最佳任务策略。我</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=3&amp;sn=b3b37a45da970f37f06727a638950ad1&amp;chksm=fd089933abb0e754b5903b99d19cb5cc5702106ce6ed0773994b6a73be727ad42aa9c560da27&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      <title><![CDATA[强化学习提高空战模拟训练的实用性]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSKfj3wWELanNI2y5f49NxEgL8FtCzYz3N9UuBdjib5vcQbNoySvu6hEbsWFzRQZicI2lxkBkCt32TA/300?wxtype=jpeg&amp;wxfrom=0"/><p>复杂领域的团队训练往往需要大量资源，如车辆、机器和角色扮演者。因此，要在真实世界中实现高效和有效的训练场景可能比较困难。相反，部分训练可以在计算机生成的合成环境中进行。在这些环境中，受训人员可以操作模</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644026&amp;idx=3&amp;sn=5eaecded509750fc8602f347311b0347&amp;chksm=fdad17ac2f2e2e41d27c3231abee0b38074b7958ac07e1531181dbe73383bf5d65787f7d61e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 09:21:26 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[何恺明等最新步步解构扩散模型，最后竟成经典去噪自编码器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOomq7LUb4bIQP4YEfibLVB9LyX0OBvFe7P58M9s0tM5PEUYg8NkxZ88VqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道编辑：Panda去噪扩散模型（DDM）是当前图像生成技术的一大主流方法。近日，Xinlei Chen、Zhuang Liu、谢赛宁与何恺明四人团队对 DDM 进行了解构研究 —— 通过</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=4&amp;sn=a36abc26ada6d3b9eca3c906dcea0737&amp;chksm=fd944664c6adfadbcb39eb1f195409f7ff3b001e6f2c5e131f7de8b8b63cd4bc61e14263d274&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      <title><![CDATA[【新书】《自然语言处理应用中的情感分析的计算智能》，704页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw345CjNmFDh04FCiaPJ5pLmKPhPOpwQN4ejMjPmyUGAl1S4r9Sl7iaB1fjyn7gDHiaKIDFhsPevY4FkQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>《自然语言处理应用中的情感分析的计算智能》通过详细技术覆盖基于AI的情感分析方法，为这一问题提供了解决方案。本书的作者为读者提供了对挑战及其解决方案的深入了解，包括来自全球各地的案例研究和实际场景。涵</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644026&amp;idx=4&amp;sn=03055265808ec4d02f56e53aad4e094e&amp;chksm=fd26da23247df4588e5816e33d0f4797312b16392b014e6ddc1bcf3bc253e1dde862448b1a0b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 09:21:26 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[机甲战中的人机协同：释放无人系统的力量]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS9IX5CfEP01ZZREksnjL2dbwhOSn8IvH3a02IibwTDDNOqqn4EYgJib8eRibMKRG8Vm6bgJ1cHn27jw/300?wxtype=jpeg&amp;wxfrom=0"/><p>图：机甲战中MUMT的概念描述本文重点介绍在常规机甲战方法中控制增强技术的使用。战斗战术涉及战略、战役和战术考虑的结合。坦克战的有效性取决于各种要素的协调和整合，以实现战场目标。我们生活在一个时代，许</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=5&amp;sn=9b11d29441bbb59e23476459b7f27b35&amp;chksm=fde3594814aa635b71041ee241240774e25d44fa8a20363eb3e0eccccf179b85579fa923a641&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      <title><![CDATA[大模型专题报告：百模渐欲迷人眼，AI应用繁花开，42页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw345CjNmFDh04FCiaPJ5pLmKRgwdK8VTibUAPjvEsEib9bp3w6DDCkMVD1rZSFA0GtibhMmxUF5H11l7g/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型演进：工业革命级的生产力工具。目前，ANI已经广泛应用，AGI处于研发阶段，大模型是实现AGI的重要路径。AI大模型通过预先在海量数据上进行大规模训练，而后能通过微调以适应一系列下游任务的通用人</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644026&amp;idx=5&amp;sn=1f281e86d17376b261da89975f330096&amp;chksm=fd12f69aa4caffbce78c0b0edb8557c3a602e30387ea61bed3ec43d9e08817475907525c8c8e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 09:21:26 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【WWW2024】HetGPT：在预训练的异质图神经网络中利用提示微调的力量]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOomXrDkxUbGUAa3Qag562gZWK2gC0BDPOp6WhiaFYlUdSduY8BgpDhQViaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>图已经成为表示和分析网络复杂模式和丰富信息的自然选择，使得在线页面分类和社交推荐等应用成为可能。在图机器学习任务中，特别是在标记节点有限的情况下，普遍采用了“预训练，微调”范式。然而，这种方法经常表现</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=6&amp;sn=7a855e40fe24f83e02389a831a3ab100&amp;chksm=fdfb30d975f646684404589af551344206c8d6bcc42d02f70e8815f82a6963a6ca20214f73eb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      <title><![CDATA[【WWW2024】基于提示增强的联邦内容表征学习的跨域推荐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw345CjNmFDh04FCiaPJ5pLmK0E2oic36Fzcc6UYa5NtkZWY3icLneeHz3j7AwFKqN91QoAIndUqZNv4w/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，跨域推荐（CDR）作为缓解数据稀疏问题的有效技术之一已被广泛研究。然而，之前的工作可能导致领域隐私泄露，因为它们在训练过程中需要将不同领域的数据聚集到一个中心服务器上。尽管一些研究通过联邦学习</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644026&amp;idx=6&amp;sn=57e265f099415a9027e4149e497f6fcb&amp;chksm=fd3ac017f8c1647483a8e5318de32e53059cbad553c71f4edd863b73b32db68f45ed35d45393&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 09:21:26 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[自动驾驶开源数据体系：现状与未来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOomtvva3DuPLwRWYkxEu30HBqQHjY3D4NTonl38icx6IxKPJ50phL1DMcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着自动驾驶技术的不断成熟与应用，系统性梳理开源自动驾驶数据集有利于产业生态良性
-循环。现有自动驾驶数据集可大致分为两代，第一代数据集的传感模态复杂度相对较低、数据集规
-模相对较小，且大多局限于感知级</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=7&amp;sn=8fb52a2875a7a22db7694e536226d0bf&amp;chksm=fda6431f7fe92cee7d4ba44394d7e83d16da5e8bdb058f6e4acac6f47597d78a6fd017ae03e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      <title><![CDATA[直升机与无人机协同作战研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw345CjNmFDh04FCiaPJ5pLmKcuXnOeT9ouMNrMno5OZnicm6ICQYpic2VJOrqwXKly6iaicj5Tr4K540Xg/300?wxtype=jpeg&amp;wxfrom=0"/><p>有人与无人协同作战样式是世界军事强国着眼于未来强对抗环境而探讨的全新作战样式。论文从直升机与
+无人机协同作战概念出发，探讨了直升机与无人机协同的基本模式，构想了直升机与无人机协同典型作战行动，旨在为有</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644026&amp;idx=7&amp;sn=af820812613fb8cc990735a23c349a34&amp;chksm=fd5ccdc9b19f1041212faa84267d893c967cc2d61e7551e0d9ddadebb08b45199ed340ec6a9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 09:21:26 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2023年来在ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024必看的十大</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=8&amp;sn=6297acd71ee9953059276c48d21a2841&amp;chksm=fde1dfd3ae88bce479ce41a6949465ae1cd721f146a126739089a938cf41a01d87c73365c38f&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644026&amp;idx=8&amp;sn=aa89afdb1aeda1d320809597adbaff4b&amp;chksm=fd5a513986697e189cc8d3165401f5be3565bcbaafc8e38ff180141e986856982fd1a75571e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 09:21:26 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《数据驱动的自动驾驶》最新综述，详述大数据系统、数据挖掘和闭环技术]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOombtwNvkzjuLicQUBT6yic3PSqxqAyTSue0FMYibSwms3xU921A0z57ibldw/640?wxtype=jpeg&amp;wxfrom=0"/><p>下一代自动驾驶（AD）技术的抱负依赖于智能感知、预测、规划和低级控制之间的专注整合和交互。在自动驾驶算法性能的上限方面存在巨大瓶颈，来自学术界和工业界的共识认为，克服这一瓶颈的关键在于以数据为中心的自</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=1&amp;sn=75651d68842c0e62ed7d9d92713be9ef&amp;chksm=fdd6e9ceba900248e0807b59ff8b96ca4b8ad814980c77bab3029d531d65da7ca1822ae28dd4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【博士论文】时序知识图谱嵌入与推理，178页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOomwgqrjpBNq4CBQEhURCMiaswuAxXxOUWUcR0K5esrK2EaoJZeVE9MCHA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知识图谱（KGs）已成为一种高效的知识组织和表示方式，通过存储实体之间的底层关系来实现。最近，大量研究工作致力于KG嵌入，旨在将KG中的实体和关系映射到低维连续向量空间中，以便快速推理。KG嵌入模型已</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=2&amp;sn=056ab277367104c2ffbe6edf04a78175&amp;chksm=fdd95db3347109082b81bad28b80142cb9037c1e0b358078acf6ea0f3edc724e416426c1766d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[人机协同：《基于强化学习的有人-无人飞机编队任务规划： 敌方防空压制（SEAD）任务》最新论文]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS9IX5CfEP01ZZREksnjL2daiaQUhw3k30oZgDEDH9koqCviavKczS8Bjv7DOmao4lJh5F4C0nVpbLQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本研究探讨了无人驾驶飞行器（UAV）与有人驾驶飞机合作进行集中任务规划的发展情况。我们采用经过近端策略优化（PPO）训练的单一智能体来模拟敌方防空压制（SEAD）场景。我们的目标是掌握最佳任务策略。我</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=3&amp;sn=b3b37a45da970f37f06727a638950ad1&amp;chksm=fd089933abb0e754b5903b99d19cb5cc5702106ce6ed0773994b6a73be727ad42aa9c560da27&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[何恺明等最新步步解构扩散模型，最后竟成经典去噪自编码器]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOomq7LUb4bIQP4YEfibLVB9LyX0OBvFe7P58M9s0tM5PEUYg8NkxZ88VqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道编辑：Panda去噪扩散模型（DDM）是当前图像生成技术的一大主流方法。近日，Xinlei Chen、Zhuang Liu、谢赛宁与何恺明四人团队对 DDM 进行了解构研究 —— 通过</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=4&amp;sn=a36abc26ada6d3b9eca3c906dcea0737&amp;chksm=fd944664c6adfadbcb39eb1f195409f7ff3b001e6f2c5e131f7de8b8b63cd4bc61e14263d274&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[机甲战中的人机协同：释放无人系统的力量]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS9IX5CfEP01ZZREksnjL2dbwhOSn8IvH3a02IibwTDDNOqqn4EYgJib8eRibMKRG8Vm6bgJ1cHn27jw/300?wxtype=jpeg&amp;wxfrom=0"/><p>图：机甲战中MUMT的概念描述本文重点介绍在常规机甲战方法中控制增强技术的使用。战斗战术涉及战略、战役和战术考虑的结合。坦克战的有效性取决于各种要素的协调和整合，以实现战场目标。我们生活在一个时代，许</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=5&amp;sn=9b11d29441bbb59e23476459b7f27b35&amp;chksm=fde3594814aa635b71041ee241240774e25d44fa8a20363eb3e0eccccf179b85579fa923a641&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【WWW2024】HetGPT：在预训练的异质图神经网络中利用提示微调的力量]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOomXrDkxUbGUAa3Qag562gZWK2gC0BDPOp6WhiaFYlUdSduY8BgpDhQViaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>图已经成为表示和分析网络复杂模式和丰富信息的自然选择，使得在线页面分类和社交推荐等应用成为可能。在图机器学习任务中，特别是在标记节点有限的情况下，普遍采用了“预训练，微调”范式。然而，这种方法经常表现</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=6&amp;sn=7a855e40fe24f83e02389a831a3ab100&amp;chksm=fdfb30d975f646684404589af551344206c8d6bcc42d02f70e8815f82a6963a6ca20214f73eb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[自动驾驶开源数据体系：现状与未来]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw20pVpiaRZaepVcqzpqwmOomtvva3DuPLwRWYkxEu30HBqQHjY3D4NTonl38icx6IxKPJ50phL1DMcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着自动驾驶技术的不断成熟与应用，系统性梳理开源自动驾驶数据集有利于产业生态良性
+循环。现有自动驾驶数据集可大致分为两代，第一代数据集的传感模态复杂度相对较低、数据集规
+模相对较小，且大多局限于感知级</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=7&amp;sn=8fb52a2875a7a22db7694e536226d0bf&amp;chksm=fda6431f7fe92cee7d4ba44394d7e83d16da5e8bdb058f6e4acac6f47597d78a6fd017ae03e7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2023年来在ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024必看的十大</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247643976&amp;idx=8&amp;sn=6297acd71ee9953059276c48d21a2841&amp;chksm=fde1dfd3ae88bce479ce41a6949465ae1cd721f146a126739089a938cf41a01d87c73365c38f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 29 Jan 2024 09:26:32 +0000</pubdate>
+      
+
     </item>
   </channel>
+  
+
 </rss>
