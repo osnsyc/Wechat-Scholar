@@ -1,33 +1,115 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  
+
   <channel>
+    
+
     <title><![CDATA[arXiv每日学术速递]]></title>
+    
+
     <link>https://mp.weixin.qq.com/</link>
+    
+
     <description><![CDATA[arXiv每日学术速递公众号]]></description>
+    
+
     <language>zh-cn</language>
+    
+
+
+
+
+
     <item>
+      <title><![CDATA[基于SAM的超强医学影像分割模型！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GdTaGsj8bY2aPiadxhKv7zVY6WFRswGaB8Olqeb7BBXYhMuBDFX5I1uOx96GvkPjd0NtPhMeDmibt8kSDdhzQd0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>在实际应用中，医学影像的主要问题有：受限于成像设备的原理与技术；手工阅片通常只能做到定性，很多细微的、定量的改变用肉眼无法判断；人工阅片耗费医生很多的时间和精力，而且很难做到大范围的确诊。而人工智能的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247540801&amp;idx=1&amp;sn=809e9db0d7d4e9554ed328dd796a45d1&amp;chksm=ceb17c5ef811334db94b36d857ac07026a6895cb6b5aac97b2c5db8b69324c77875780eef6f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 05:29:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[arXiv每日学术速递2024.1.30]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbMb48nibodqy2zrJvurxkKKib7WC2MlEriaxjTH1DlGFog95oCMSjntdvuyCTNbsSicQhhW1Rsqyszbibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！ arXiv每日学术速递2024.1.30 人工智能相关计算机视觉与模式识别(cs.CV) </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247540801&amp;idx=2&amp;sn=89038750c79d2e9b070b5076949581e6&amp;chksm=ce44a73704740df0941f3558c4ecfa34c0c17dbc1c494f696d0e58f485fe684beda47fccc9c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 05:29:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯提出M2CLIP | 视觉TED-Adapter增强视觉编码+文本Adapter增强语义标签学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVUD2PXs116Xj15gfztfCNUS8ibia40ia0xACf1sf0tLUVDxTOrq8WS5L7bAme0p2TOKYgdooBiaGk6f9g/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近，大规模视觉语言预训练模型（如CLIP）的兴起，以及参数高效的微调（PEFT）技术的应用，在视频动作识别领域引起了广泛关注。然而，当前的方法通常优先考虑在迁移过程中牺牲模型的泛化能力，以换取强大的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247540801&amp;idx=3&amp;sn=d8e766b5a64f36a68c454880ad423920&amp;chksm=ce04142447554e848b3b74b0a3e21a16c22a8bb90df4ed7c8268d668e66cb0b1588b1d6d3bae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 05:29:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[近200+自动驾驶数据集全面调研！一览如何完成数据标注、采集、评测等]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Ef2ZCfs8ZL5cibtust0ViaFCxMGBicwgZiafIFe4775NFLgF1SBUAm2Y52gC1uP4aPKp6eH5ibAfXZtWmB4oSrHSBPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天自动驾驶Daily为大家分享一篇自动驾驶数据集相关调研，涉及近200+数据集，如果您有相关工作需要分享，请在文末联系我们！写在前面&amp;个人理解自动驾驶技术在硬件和深度学习方法的最新进展中迅速发展，并</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247540801&amp;idx=4&amp;sn=3bf958ef864840cf75762ac7e371cbe9&amp;chksm=ce62389bbde0477d4094270d24ac20770b7e9ba0ed2082265432d2efb0699c89e1881a5eaed6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jan 2024 05:29:32 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[《Kaggle 2023年鉴》500条金牌方案分享]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5mUr2jjo0gr2ouDiab97DbkdOk1OTAOG651opu7zsGPcPIwOfH6gLIrsMiapqpKd3AL556aFCRBMG2SAaxteicCag/640?wxtype=jpeg&amp;wxfrom=0"/><p>2023年，Kaggle共举办65场比赛，总奖金300万美金，共吸引了全球8万支队伍参加。如今，Kaggle是全球最顶级的权威性数据科学竞赛平台，以及全球最大的数据科学家社区。2024年，无论你需要求</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247540681&amp;idx=1&amp;sn=f5d93478f30e9285806d102a852e0422&amp;chksm=cecbc56d2c16d5fe360163ebb7533f639329c7383710747155207d363469f8136fb504d1c5ed&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 03:47:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[arXiv每日学术速递2024.1.29]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbNFicM92kPdKRzTMWmA5chdzqtyXmOdqKdvE8ZOaGGiakOc9Z7ZLlDPp3IorV6bL0AcGKnY1BjVV3hQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！ arXiv每日学术速递2024.1.29 人工智能相关计算机视觉与模式识别(cs.CV) </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247540681&amp;idx=2&amp;sn=0c63404a9a3e4fc9bb14434cb9f24fa9&amp;chksm=ce1e6f6f3185ba74020162b2197ec8a7ae23a578f236a6726640599c0b35ed92c5d09d69fe62&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 03:47:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[帕金森早期诊断准确率提高至 90.2%，深圳先进院联合中山一院提出 GSP-GCNs 模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QkCvnz083AhGt7xDC4icLcdffW1BXDmHic2m16CtJU1Z5xeiaIahY8KKRdibst6OqRqg5EtlA5eKuhcfh1AeVm26jg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：彬彬编辑：李宝珠，三羊中山大学附属第一医院&amp;中科大先进院等研究团队，提出了一种深度学习模型——图信号处理-图卷积网络 (GSP-GCNs)，利用从涉及声调调节的特定任务中获得的事件相关脑电图数据</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247540681&amp;idx=3&amp;sn=5e4d182525df4261d334c51a35e86b55&amp;chksm=cef8add0370545cb459117c07ad77a4d0c91dd61463047900bb9ffa3f4881831442fe365f695&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 03:47:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[论文一起读 | 从大模型中蒸馏功能性重排列任务的先验知识]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/G3miadARVe891ScksYn2HKj8ibiaxytsIyeqzHptShUWibLwUcxE7glHMjicfCwyic1onVAJQ3USUzLf4eZ8vgrk6niaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>‍导读本文是VCC朱家辉同学对论文 Distilling Functional Rearrangement Priors from Large Models 的解读，该工作来自北京大学和中山大学，并已</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247540681&amp;idx=4&amp;sn=a362b5432791278bf36ccd3f922e1e19&amp;chksm=ce61885b47b403c4ccd7d65429d259c47defe478be315ab74e28488993a3388c69817a3163cf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 03:47:25 +0000</pubdate>
+      
+
     </item>
   </channel>
+  
+
 </rss>
