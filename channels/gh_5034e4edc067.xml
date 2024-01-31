@@ -22,35 +22,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[万字长文聊聊LLM Agents的现状，问题与未来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQfl8v1YuNw43bE2ibmHHcDDm7mWnSFeEVhS9cpBKOgibwa4fnIBiaJ4ibHibnrjuiaypZUaz2D4JtkiaXqZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hadiii@知乎链接：https://zhuanlan.zhihu.com/p/679177488跨年之前，想总结一下去年上半年以来关于LLM Agents的学习经历，同时记录一下我在其中过程</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=1&amp;sn=2ea1a2fb6c8bd1ee2633ad51fa1442b2&amp;chksm=bfd16c769cf68458372a85f5d156552184fe32774a220cf1a7d45eafb41ff76e9d4675239087&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ALiBi位置编码深度解析：代码实现、长度外推]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic29g80WSG1u70T2a0080CX3wBYGVM5rvaSuBnreqiaicyd1rXicwRShPLbNqoqcLhXaka3ggbupfevcA/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言在前面的文章中，我们深入探讨了RoPE（旋转位置编码）的理论推导过程、ChatGLM/LLAMA的RoPE代码实现以及如何针对RoPE编码进行长度外推。此次，我们将聚焦于另一种编码方式——ALiB</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=2&amp;sn=a9fce51c0160ac4eb42d030283749fb2&amp;chksm=bf5a3d14b1062ba4402662a4fd35e39bd0ffa3a50d1d7176d5a78de1a4f20df611ab9544618e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【字节跳动日常算法实习生】]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJPrFJVicZa4bHnthYnz9zzf1fVtqJbj4YznxcrtOmhmld24HAnuiaNqBxcPcWWYDIm6WFfvWicicPMCA/300?wxtype=jpeg&amp;wxfrom=0"/><p>【字节跳动日常算法实习生】【岗位职责】1. 开发及优化算法，与产品和业务团队紧密合作，调研并实现前沿技术并应用于落地场景，包括但不限于激励、理解、增长营销等场景；2. 对现有算法、数据进行分析和评估，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=3&amp;sn=8c32ea490783996970a5fcada0ebb7c5&amp;chksm=bf5eff38793d8bfc156c2686fe9f87488720c9a33563f8e333a10db5d5f741002c2f6f7278b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[使用KTO进行更好、更便宜、更快速的LLM对齐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdAdWGq0ckiay6nrs3mW5R6QPVzMNVzo87lqibjJYJqDs364WUUu8GvH2J6utxh9a17ePkuSWqjpY9w/300?wxtype=jpeg&amp;wxfrom=0"/><p>KTO全称为Kahneman-Tversky Optimisation，这种对齐方法使在我们的数据上对大型语言模型（LLM）进行对齐变得前所未有地容易和便宜，而且不会损害性能。大型语言模型的成功在很大</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=4&amp;sn=87ad47c8bc05729eb8c8a77a97b08b06&amp;chksm=bf3050ddddc3364c57b584f78a92da77ab6658b6e3a7e641673cf866950959f8c523f5b19cfe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[“激活信标”，一招解决LLMs中“上下文过长”难题！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/sevcrQuQ41GYvpfgu1BVHlGthMLRE7yxJNvKVicF1r9B9iah1ltwzqeboxDalLEmApibeNWksx1eyUULDpfibWtj8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型面临巨大挑战？？上下文太长了怎么办？？虽然精调可以拓展上下文窗口，但成本太高了！并且可能会影响LLM的原始能力！！！因此，该研究提出“激活信标”！！！01导读激活信标将LLM的原始激活（即键</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=5&amp;sn=d8b0a4ed1bf95ded591e7bac9a4b99a2&amp;chksm=bfd7573c73deb2f90b2c66da9bdacaf4a078559b13f815f284a39cd78f9217c6f3609c509b85&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[《Kaggle 2023年鉴》下载]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5mUr2jjo0gr2ouDiab97DbkdOk1OTAOG651opu7zsGPcPIwOfH6gLIrsMiapqpKd3AL556aFCRBMG2SAaxteicCag/640?wxtype=jpeg&amp;wxfrom=0"/><p>2023年，Kaggle共举办65场比赛，总奖金300万美金，共吸引了全球8万支队伍参加。如今，Kaggle是全球最顶级的权威性数据科学竞赛平台，以及全球最大的数据科学家社区。2024年，无论你需要求</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440763&amp;idx=1&amp;sn=3027e867344d6972ad3cb009aa3abc90&amp;chksm=bf1f1ca15725e122c8b5775107b698902c8c8c523cb2452700a37f17883133e577c656a46dd7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RoPE旋转位置编码深度解析：理论推导、代码实现、长度外推]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic2h1VziajMFZQhoddCeNxl7YVf17jMHHQZPTwwbqHDDaRFSTcBWyXyciaP3J7sV9Ckufof0vkjseBSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>RoPE旋转位置编码深度解析：理论推导、代码实现、长度外推更新记录0731 更新ChatGLM2-32K长度外推示例引言开篇引用一下苏神博客的介绍，对于Transformer模型来说，位置编码的加入是</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440763&amp;idx=2&amp;sn=f65851c835c27e42c817586063f51924&amp;chksm=bf47a08af82be564ab4cc2623ccde500d161b3b79e42295e4aae558b437b4a049f04745b41cc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[一张图系列 - “kv_cache”]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2KUCQBHkydmGyz5O5Hq8GibOreUcdfUNw91U3nQqO0zRHnicicxHfNPULdE9XibFZMFB4pv2sKrU9ibArKic3SDr1mCQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>【问题】Transformer推理性能优化技术很重要的一个就是KV cache，能否通俗分析，可以结合代码? 【知识点】1、multi-head-attention是如何计算的？attention的数</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440763&amp;idx=3&amp;sn=27119fa2c85522a03fbdfd1f2da403ff&amp;chksm=bf2189b205c69c59f4555aca8372e435ec4089954368206f7d6a5ce76574e7f2c8033f0d5561&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM | Gemini语言能力深度观察]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1SicmXv6ghyJmnCNPibPYassT8ycZFEiafEzPel3SqeohyrcqH5n9mib8nBuzWmXxI1RNiayqhVXAGVmxFVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文地址：https://simg.baai.ac.cn/paperfile/fc2138ce-cadb-4a36-b9f7-c4000dea3369.pdf      谷歌最近发布的Gemini系列</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440763&amp;idx=4&amp;sn=b6255e8c8aca62018c661ae269c79205&amp;chksm=bfa804066cc909f981ec684e6c820846ababff4aa20b6eac3c6e51deaf4bb5fa49d70a736283&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型检索增强生成误区总结]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh6k3APclKsQj93sMKxHibIpnTbrGXnhhGrAxNcICQPzMFd8twePoTpD9pia4ev55AI2eSqmX4TlICrg/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：Seven Failure Points When Engineering a Retrieval Augmented Generation System摘要：随着大型语言模型（LLMs）如</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440763&amp;idx=5&amp;sn=d3d5eed22c22ed45f24e2a89260546fb&amp;chksm=bfd8dcd24edff7c725bb8b64203fc5d42d7f137445af0b9993140e03984db6ce2458c7cc8b5f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 29 Jan 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
