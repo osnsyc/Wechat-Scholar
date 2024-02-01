@@ -27,35 +27,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[解决幻觉、跨语言两大难题！多模态大模型新SOTA来了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GdTaGsj8bY1X1T2RiaWhDfLs8vzs7oTAPjH6wLeBs7wibejfXasFO2EpYwlNHIyBbRrTKDlwcm3MbGDxW6Z5OXpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>多模态大语言模型（MLLM）是近年来兴起的一个新的研究热点，它利用强大的大语言模型作为大脑来执行多模态任务。MLLM令人惊讶的新兴能力，如基于图像写故事和无OCR的数学推理，在传统方法中是罕见的，这表</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440798&amp;idx=1&amp;sn=dd98cb5d9685e57cdbdde8450dce0db6&amp;chksm=bf1ecb4bc74206111d7f444370d25376e5349526678c28640c52c317f78989bda1a1f0de9dcf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Feb 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[上下文扩展探索：FOT与MT的外部存储策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic29g80WSG1u70T2a0080CX3RKbrezWGxiaey0OfMWJArF5M0sSH0Y613CnZ1JBm1bRibicrDzqtwTgug/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言Transformer已经成为一种非常流行的架构，在大语言模型上得到了广泛的应用。然而，扩展Transformer上下文长度仍然是一个具有挑战性的问题，值得我们深入研究。在本文中，我们将重点介绍M</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440798&amp;idx=2&amp;sn=a5f688119eed974b1afd0b5af6a4dc0a&amp;chksm=bf05e833275325a6596ddd09dd99f9b03202d5a24ef9c88eb05b74bfcad3ce3d55b47f8489a5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Feb 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM之RAG理论 |  高级RAG技术全面汇总]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1Sicm8EmszAuic6HlIR9lbLt0jQFp7aUm6bz71fFzjq5A2HgQ5KxwKYlaicoHwYwJCeeQcaU6jBQAX2AmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>       检索增强生成（Retrieval-Augmented Generation，又称RAG）通过检索LLMs之外的数据源来支持其生成答案。RAG=搜索+LLM提示，根据用户的查询要求，LLM</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440798&amp;idx=3&amp;sn=223b734fe7091d6d74299f59cfbbb14e&amp;chksm=bfee6053f0bdaff801796699aa174c0ac1cd9635dd3d3ae2f3d305b9b4e9cf89e1c294a6ec61&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Feb 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[值得一看的大模型RAG问答总括性梳理：模块化(Modular)RAG范式的定义、构成及机遇]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/fUBU1yiaEmJhNRuORpASlDKrUXybg42cWziaaQFIQ4yHlhVuDrLMKRwS7PckpoooX69MBqa0LIjujicudFibnticRJg/300?wxtype=jpeg&amp;wxfrom=0"/><p>关于RAG的综述文章《Retrieval-Augmented Generation for Large Language Models: A Survey》(https://arxiv.org/abs</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440798&amp;idx=4&amp;sn=fe962ba3b0bfaeb28377d15774200f8d&amp;chksm=bf4cdae24218736ceeae3579305a32ef0b8e3086e80dfa0ee4bbd136cdcf9d5a0c9ede702385&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Feb 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP'23：大模型时代的数据标注—FreeAL]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQc14a8W9lvErDGJ3FuYHlHb3geQeGYEtvnDaK17bYuBaaKjC2ET3BPyqqAhicaic4uQ0JxWoiaqmI2dQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 皓波@浙江大学 https://zhuanlan.zhihu.com/p/672287298本文跟大家介绍我们和网易伏羲合作发表在EMNLP'23主会的工作FreeAL: Towards H</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440798&amp;idx=5&amp;sn=ff638a86ab429ca4e76b66a9dacb498b&amp;chksm=bf24a353eddfbcf65440474b8ac98da2541248d29da354ec0c19c722173825a84a2050086516&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Feb 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[万字长文聊聊LLM Agents的现状，问题与未来]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQfl8v1YuNw43bE2ibmHHcDDm7mWnSFeEVhS9cpBKOgibwa4fnIBiaJ4ibHibnrjuiaypZUaz2D4JtkiaXqZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hadiii@知乎链接：https://zhuanlan.zhihu.com/p/679177488跨年之前，想总结一下去年上半年以来关于LLM Agents的学习经历，同时记录一下我在其中过程</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=1&amp;sn=2ea1a2fb6c8bd1ee2633ad51fa1442b2&amp;chksm=bfd16c769cf68458372a85f5d156552184fe32774a220cf1a7d45eafb41ff76e9d4675239087&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ALiBi位置编码深度解析：代码实现、长度外推]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic29g80WSG1u70T2a0080CX3wBYGVM5rvaSuBnreqiaicyd1rXicwRShPLbNqoqcLhXaka3ggbupfevcA/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言在前面的文章中，我们深入探讨了RoPE（旋转位置编码）的理论推导过程、ChatGLM/LLAMA的RoPE代码实现以及如何针对RoPE编码进行长度外推。此次，我们将聚焦于另一种编码方式——ALiB</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=2&amp;sn=a9fce51c0160ac4eb42d030283749fb2&amp;chksm=bf5a3d14b1062ba4402662a4fd35e39bd0ffa3a50d1d7176d5a78de1a4f20df611ab9544618e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【字节跳动日常算法实习生】]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJPrFJVicZa4bHnthYnz9zzf1fVtqJbj4YznxcrtOmhmld24HAnuiaNqBxcPcWWYDIm6WFfvWicicPMCA/300?wxtype=jpeg&amp;wxfrom=0"/><p>【字节跳动日常算法实习生】【岗位职责】1. 开发及优化算法，与产品和业务团队紧密合作，调研并实现前沿技术并应用于落地场景，包括但不限于激励、理解、增长营销等场景；2. 对现有算法、数据进行分析和评估，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=3&amp;sn=8c32ea490783996970a5fcada0ebb7c5&amp;chksm=bf5eff38793d8bfc156c2686fe9f87488720c9a33563f8e333a10db5d5f741002c2f6f7278b7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[使用KTO进行更好、更便宜、更快速的LLM对齐]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdAdWGq0ckiay6nrs3mW5R6QPVzMNVzo87lqibjJYJqDs364WUUu8GvH2J6utxh9a17ePkuSWqjpY9w/300?wxtype=jpeg&amp;wxfrom=0"/><p>KTO全称为Kahneman-Tversky Optimisation，这种对齐方法使在我们的数据上对大型语言模型（LLM）进行对齐变得前所未有地容易和便宜，而且不会损害性能。大型语言模型的成功在很大</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=4&amp;sn=87ad47c8bc05729eb8c8a77a97b08b06&amp;chksm=bf3050ddddc3364c57b584f78a92da77ab6658b6e3a7e641673cf866950959f8c523f5b19cfe&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[“激活信标”，一招解决LLMs中“上下文过长”难题！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/sevcrQuQ41GYvpfgu1BVHlGthMLRE7yxJNvKVicF1r9B9iah1ltwzqeboxDalLEmApibeNWksx1eyUULDpfibWtj8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型面临巨大挑战？？上下文太长了怎么办？？虽然精调可以拓展上下文窗口，但成本太高了！并且可能会影响LLM的原始能力！！！因此，该研究提出“激活信标”！！！01导读激活信标将LLM的原始激活（即键</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440788&amp;idx=5&amp;sn=d8b0a4ed1bf95ded591e7bac9a4b99a2&amp;chksm=bfd7573c73deb2f90b2c66da9bdacaf4a078559b13f815f284a39cd78f9217c6f3609c509b85&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 31 Jan 2024 12:05:39 +0000</pubdate>
+      
+
     </item>
     <item>
       
