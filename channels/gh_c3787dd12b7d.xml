@@ -35,11 +35,40 @@
 
 
 
+
     <item>
+      <title><![CDATA[OriginBot智能机器人项目 - 摄像头驱动源代码解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTF9SXCqpMX1dZrudUv70uibV9ovtcf92MiaJ7tqhZJNibyaliaL7yZsHTXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇博文主要记录自己对于OriginBot-相机驱动与可视化（http://originbot.org/manual/camera_visualization/#ros）代码的学习与理解，我会注释写在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=1&amp;sn=18c923a5ff02e2e5faa507d39d694747&amp;chksm=fa779d4576a4b705739de8578dabbcb97728c98b94e05835e60414df718c53dee5caa223cbb1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DI-engine强化学习入门（七）如何自定义神经网络模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTMoh7FkxA5SMg3q6HhBHVslNvpktq2AAHYanDuAyBAeJZzC8TRf4VVA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在强化学习中,需要根据决策问题和策略选择合适的神经网络。DI-engine中,神经网络模型可以通过两种方式指定:1.使用配置文件中的cfg.policy.model自动生成默认模型。这种方式下,可以在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=2&amp;sn=2d0ba085f6c5345af2aae19ff486eb52&amp;chksm=fad8cf5c039db14de73225128eced04b79ce0a392a12573126b2f17ae2448cecb0d5da70db3b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DI-engine强化学习入门（八）如何高效构建决策环境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTWalmu6WoqarcjlqArEXKr99t90G4MRpuSkOpsjCibr2BaTtAAT3xyPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文章将介绍 DI-engine 中用于高效构建和标准化不同类型决策环境的系列工具，从而方便我们将各式各样的原始决策问题转化为适合使用强化学习方法解决的形式。前言对于“决策环境复杂性”的问题，这里描述</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=3&amp;sn=5de8764085b7a24a7311d95c7fd7522f&amp;chksm=faaf4007d18a5690d4f97911fb65c1bae00584f438ad02b9de3f5813af8ee742669eac852c52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[OriginBot智能机器人项目开发案例详解 - 宝宝看护小助手]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt00Hr9g8zicsVwt7ScJyo2riazeINoXHVmiafs8S7j8Nf1h4Sqt18VXc74FV748lhESbbbOdeB1A5sg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇主要讲述了如何通过OriginBot来实现看护宝宝，当宝宝的脸不在摄像头的范围之内时，发送消息到钉钉群组，通知家人及时查看。前言我在上个月有了宝宝，为了方便照看宝宝，就买了一个带有宝宝看护功能的摄</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588196&amp;idx=1&amp;sn=76630e501c9314ab0f1e1a0a1451a348&amp;chksm=faea2a2af50449a52af7308f908925f0e532ca424dccbe3d1b9b08a7bc1ff2b2c7fb3a4ab534&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 01 Feb 2024 14:59:13 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -118,214 +147,6 @@
       
 
       <pubdate>Sat, 27 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DI-engine强化学习入门（二）如何训练和导出模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuralbnC8pJ81c5qv3Flmt5jagrPZvr6KekXCdGI1XVaBg3EKHicl47AibnDkbs8kjZUYhORgo8qM2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本章介绍了如何通过DI-engine使用DQN算法训练强化学习模型一、什么是DQN算法DQN算法，全称为Deep Q-Network算法，是一种结合了Q学习（一种价值基础的强化学习算法）和深</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588109&amp;idx=1&amp;sn=740f2a2f9699b4798179acfe3254f392&amp;chksm=fa5dce59ec3eaa13e85c0bb4f4424f576a692ab19478926d4b883412c782b8fa96a328afbd4c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 26 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DI-engine强化学习入门（一）使用强化学习模型控制月球着陆器]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvkPc3nXr4tQ09KofJVaoWMmmUlLI6gwZ0qTtNFLkgSVO082rh20C275ibw65gTKvl291gvwpXlkibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本章内容为训练一个强化学习模型，并使用强化学习模型控制月球着陆器。安装和运行DI-engine示例。什么是DI-engine?DI-engine 是一个由 OpenDILab 提供的开源强化</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588095&amp;idx=1&amp;sn=3b309ba3c493017cfae8ac02e25ff220&amp;chksm=fa3db9298679c226cb0078762c625902159779c50a095c8e7369bf23d3e368bf218fa3cfb791&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 25 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS2 语音合成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsWhehTJG9hIcSUWBAjZEJqkmAqDAhG9Tog9QOeDarVCGFrjiciaNEPGOs2K50CM4DHfKthwF88aGFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>简介语音合成技术的本质是将文本信息转化成语音信息，如果我们要将这句文本信息变成语音信息，首先需要在语音合成数据库里面挑选出这句文本信息所包含的元素，挑选完元素之后将这些元素按照一定的顺序组合排列，最后</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588080&amp;idx=1&amp;sn=05a9e2f97f0f1fd786ef57d64379372b&amp;chksm=fa457c538269142fe31f30be954521f30ad11cddc08189e08629433b38e7399b9b385acd37e4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 24 Jan 2024 12:12:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS2 颜色识别]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv2iarwGdscPNGoqNNL9j0NQY5Fb2lp949HKEwo2m1oxz9F3P2kUCqiacIHr18jBbZdkAMk6F69ibiaOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>计算机视觉中的颜色识别是指计算机系统能够自动识别图像或视频中的不同颜色，以便进行分析、分类、跟踪和其他视觉任务。颜色是物体的一个重要属性，它提供了有关对象的重要信息。颜色识别在各种应用中都有重要作用，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588070&amp;idx=1&amp;sn=d16583e7402563cbfb036b99f823c0f5&amp;chksm=faa34a65c022a48bd84e304fe9ec8a766f3735e1ae101b40396fc54fe2a2733b328e5086ccab&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 23 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐：ROS Qt环境的搭建及基础知识介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvIJicYAXWljZqeymg1lavuPFBRwdGsg6Z2NgAEO41ibszEH2XQ908hQZaBLn8MGyRvT6pkIF3pibZhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>*课程资料请在微信公众号“古月居”后台回复“人机交互资料”获取该课程已开通专门交流答疑区《ROS Qt环境的搭建及基础知识介绍》课程答疑汇总课程目的ROS使用过程中，涉及许多命令和终端的操作，虽然有R</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588056&amp;idx=1&amp;sn=74bcf15c9b3956c78be585c60a20aa0f&amp;chksm=fa2b1067ffd86db8e1b5485cbdc48688eaf6cdee6981d2adcd1ba69ffaf1b51a4249a77a1be5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 22 Jan 2024 08:58:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS2 HSV值获取]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuficQhd9Pic3SAwTvVVZiczRTwm15BPYhecibHOgw17daYVwJib29x2CtkebudMSwr9MZV1wCWyfZib8zQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在计算机视觉中，颜色提取是一种常用的图像处理技术，其中HSV（色相、饱和度、明度）是一种常见的颜色空间，用于描述和提取图像中的颜色信息。HSV颜色空间将颜色表示为三个分量：色相（H）、饱和度（S）和明</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588034&amp;idx=1&amp;sn=0ca873d454f27689c9c55874852d1bf7&amp;chksm=fa5e8d1b15cd778a29ff28912482839f0d1559d2a24692633d81c2ef0d2fb1c2ff9366e966d5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 21 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS2 robot-localization配置]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvF5QuOoENflenXvT3Pib87R8X3TaXVuJ2AY1ncGMSwDa5uInk1BV2Dd454rrYrVNqhv16FyOdCf9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>robot-localizationrobot_localization是一个ROS的包，基于卡尔曼滤波，对多种传感器进行数据融合，进而完成机器人的定位。近期确实遇到了需要实现更高精度定位的问题，在多</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588025&amp;idx=1&amp;sn=65623a8b7ef04974ea4e7e7212d33e14&amp;chksm=fa4920a509538469ec61f9f5048e1dd97094bbf3e48d1afc99b9eb7c85aef4f8777e08277d83&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 20 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OriginBot智能机器人特别篇 - 常见问题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvic0wibMLSVpicckDzbtt8cCYIc0BllVh4pCzChxm3YRnowepljrO5QpTyUSK1gFcha26xibNtVWiaeqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>常见问题机器人硬件相关蜂鸣器一直作响如果在使用OriginBot的过程中，发现蜂鸣器一直作响，不用担心，这是控制器默认的电池保护程序，当电压低于9.6V时，蜂鸣器就会一直作响，请及时关机充电。另外在烧</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588016&amp;idx=1&amp;sn=6ebbdfc66a62b1f2be789731545d7523&amp;chksm=fa61d316b2385bc2c83996077f810262f5b602aae13bd6da09f4ec1160d091e70ab37e861b86&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 19 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何在OriginBot上实现人脸识别]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuO8VPN4Q18bhZKKoMlQubIvEv9EiacL2Gy5VNvCkicvOicTRBgSd2SXOd3CshGgF3PFXG54Xlic0gZwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>人脸识别大家在生活中经常会看到在我们进入商城时，门口会有相机在拍摄我们，并且会统计有多少人数进入商店，它是如何进行人数量统计的呢？这就是是计算机视觉领域的一项关键技术——人脸识别，它使计算机系统能够自</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588008&amp;idx=1&amp;sn=3b00a17a595ecc1cd6e8e791333452ea&amp;chksm=fad5f0b81c6ff9d2e502dd51cb41862927ea48f1d5925a2bb18068efc2dd9a3391b276cd934b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jan 2024 09:36:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[第十九届全国大学生智能汽车竞赛-地平线智慧医疗挑战赛规则]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztlPF0Vve7nickE0nUPQNvFtMov4siaaN76rKnSXGpPVoXMEsgwicAXJAiciaWWgnyFkY7tGjzGrXYSx9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 赛项简介1.1 赛事背景随着人工智能、数字孪生、智能机器人等相关技术的快速发展，多种技术的结合已经成为未来社会发展的必然趋势。人工智能是计算机软硬件系统模拟人类智慧，从而实现对数据的自主分析和决</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587997&amp;idx=1&amp;sn=9b51a2b93fb5549c1b4304a380e7e5a3&amp;chksm=fac4da0fe77bcde55bf5bd642b47c6e68f404cde1d35a36cd264678d489fb513fec3a6a56699&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[通过开发板来学习ROS2 21讲（节点案例三、四C++实现）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvjM8FR3IziaSrxyEHwgfY8rZtgc1OIIq5iahiapxGxwsEXJPYGCjlRXD59O6v27zIEN3yiaTSY66jrlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>上一节已经和大家分享了节点关于C++和Python的使用区别，这一节开始将带大家来看以下引入其他模块后的一些实现差别参考资料ROS2 21讲视频 ：【古月居】古月·ROS2入门21讲 | 带你认识一个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587982&amp;idx=1&amp;sn=c617d0fb642434670e595736d54b1c78&amp;chksm=fa4ac01000629d8778aa29e6d6a68cb6af13936532ea06d8e8524286c646511365f2867e4e17&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jan 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐：MATLAB+ROS开发MPC轨迹跟踪算法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs7D7dA1OoB16AsibsVic7gWeQfkKkuDfw0dXeXSTG9KKiaqOG8ac9ViaYNqdSJl5ic1r3nntYYyy6AlCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>*课程资料请到微信公众号“古月居”后台回复“仿真控制资料”获取该课程已开通专门交流答疑区课程目的在《MATLAB+ROS快速开发控制算法》中已经向大家介绍了控制器开发过程中常用的“V字”开发流程，这种</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587969&amp;idx=1&amp;sn=8f79550a87a459ddfbca6e122f3643aa&amp;chksm=fa392f0d0e33c05dac47e226039f73ce08d9da489776721b577eec41c98b9b955cd0d851bb62&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Jan 2024 09:05:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[通过开发板来学习ROS2 21讲（节点案例C++版本）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzukMXd6icCZE2O3RJ2WE8enQib0CMx0ULTkJtI6j5SVJic9FcSiauCLLCF1FgOcjvpATZyUXmfzP2gpUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>上一节已经和大家分享了如何在板端配置环境，这一节开始将和大家逐步聊到ros2中关键的一些点。参考资料ROS2 21讲视频 ：【古月居】古月·ROS2入门21讲 | 带你认识一个全新的机器人操作系统_哔</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247587946&amp;idx=1&amp;sn=c4ee1fe09451e6230cc588bd658bb410&amp;chksm=fafdcd5e06a0932aadce5060ee2a9066492930a96088300d9610726f93956961743585ac7b25&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Jan 2024 09:00:00 +0000</pubdate>
       
 
     </item>
