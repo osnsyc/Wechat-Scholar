@@ -26,33 +26,71 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[如何在pybullet环境中实现 - 无人机的飞行控制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzure4CROE9vpaeE7yJklS7gIibG2plaaFmy9PibkKLtxVvtibiaDYZRXL36CMTPrmXJm03tBZcC71Loqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇将介绍tello无人机在pybullet环境中的飞行控制，实现无人机的速度控制。本环境最终要实现强化学习算法下的飞行任务，故采用通用的gym接口进行环境搭建。Gym环境接口OpenAI Gym 包</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588248&amp;idx=1&amp;sn=739cf64a0ecfb47011e22b6a9f989c63&amp;chksm=fa4d0b80b42d9fec1a13dd74ca94e601335a8da32b81a4705e7612a94febc2cbd2c28131bd6d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 03 Feb 2024 13:09:03 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DI-engine强化学习入门（九）环境包裹器（Env Wrapper）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzure4CROE9vpaeE7yJklS7gqVXeLUb5tENbjy8tVBibAyrcqTN1zw2c91zic6JvPIjzd7G3uryibUx6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>在强化学习中，环境（Environment）是智能体（Agent）进行学习和互动的场所，它定义了状态空间、动作空间以及奖励机制。Env Wrapper（环境包装器）提供了一种方便的机制来增强或修改原始</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588248&amp;idx=2&amp;sn=d9f69a69687e54cf7e0d7a86f8aeb0c0&amp;chksm=fa4bb2394af2572f6150c094e7090d7e9ed64abb614038a5d9481a41fa697e22132e589221b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 03 Feb 2024 13:09:03 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DI-engine强化学习入门（十）如何使用RNN——模型构建和包装]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzure4CROE9vpaeE7yJklS7gFm66hJOlULZiajekGRTK5fwQp33qHvgUveJWkOvch100V9YU76T62Vg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、RNN简介循环神经网络（Recurrent Neural Network, RNN）是一类用于处理序列数据的神经网络。与传统的前馈神经网络不同，RNN引入了“内部状态”（或称为“隐藏状态”），使得</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588248&amp;idx=3&amp;sn=4ab6174d48a5ef817eac53d8a159fd91&amp;chksm=fa1e6f3c1b330185b1d282c109fd48fd40d972bcfbf8a8f2be4b8a05406b5b989974d588e09c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 03 Feb 2024 13:09:03 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[OriginBot智能机器人项目 - 摄像头驱动源代码解析]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTF9SXCqpMX1dZrudUv70uibV9ovtcf92MiaJ7tqhZJNibyaliaL7yZsHTXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇博文主要记录自己对于OriginBot-相机驱动与可视化（http://originbot.org/manual/camera_visualization/#ros）代码的学习与理解，我会注释写在</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=1&amp;sn=18c923a5ff02e2e5faa507d39d694747&amp;chksm=fa779d4576a4b705739de8578dabbcb97728c98b94e05835e60414df718c53dee5caa223cbb1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DI-engine强化学习入门（七）如何自定义神经网络模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTMoh7FkxA5SMg3q6HhBHVslNvpktq2AAHYanDuAyBAeJZzC8TRf4VVA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在强化学习中,需要根据决策问题和策略选择合适的神经网络。DI-engine中,神经网络模型可以通过两种方式指定:1.使用配置文件中的cfg.policy.model自动生成默认模型。这种方式下,可以在</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=2&amp;sn=2d0ba085f6c5345af2aae19ff486eb52&amp;chksm=fad8cf5c039db14de73225128eced04b79ce0a392a12573126b2f17ae2448cecb0d5da70db3b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DI-engine强化学习入门（八）如何高效构建决策环境]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTWalmu6WoqarcjlqArEXKr99t90G4MRpuSkOpsjCibr2BaTtAAT3xyPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文章将介绍 DI-engine 中用于高效构建和标准化不同类型决策环境的系列工具，从而方便我们将各式各样的原始决策问题转化为适合使用强化学习方法解决的形式。前言对于“决策环境复杂性”的问题，这里描述</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=3&amp;sn=5de8764085b7a24a7311d95c7fd7522f&amp;chksm=faaf4007d18a5690d4f97911fb65c1bae00584f438ad02b9de3f5813af8ee742669eac852c52&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
