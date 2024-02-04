@@ -26,23 +26,74 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[求贤招聘 - 柯力机器人开发岗位]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztW0UTmcbMjHvnxNO2EnuFicrSE3XHuqmo9EvLfBd2VC6ggsmAFDzjbADib66KVBMpPbKQAa5a6acqA/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588263&amp;idx=1&amp;sn=67d197ec3dea344ec68ddb98ac25bf28&amp;chksm=faadc1e618b2a9faa7e3146c508b505cff0337e036e4c8172bc6601adf8145659d20eabfdf68&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 04 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DI-engine强化学习入门（十又二分之一）如何使用RNN——数据处理、隐藏状态、Burn-in]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztW0UTmcbMjHvnxNO2EnuFic0I4lGC4Dty9KEoSdSXBz0tKQ2wnKiadsIK24iajwaiaN2bPsJicb8jj6uQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、数据处理用于训练 RNN 的 mini-batch 数据不同于通常的数据。 这些数据通常应按时间序列排列。 对于 DI-engine, 这个处理是在 collector 阶段完成的。 用户需要在配</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588263&amp;idx=2&amp;sn=da2bbfc527fa6d2050d1b8719413f8eb&amp;chksm=fac74597cdb1c61d0c227395e0db715ab718058fce6d235b57089e83b6d28defd5f32bc7513a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 04 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DI-engine强化学习入门（十一）——多重离散动作空间示例代码分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztW0UTmcbMjHvnxNO2EnuFic4ufx8gQgIZ08ga6QCVPlcgxXWiazmHs0pFxBR0SEicEPaNjtFZfWicz6A/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、什么是多重离散动作空间？多重离散动作空间是指一个环境中具有多个离散动作空间的情况。在传统的强化学习中，通常假设环境的动作空间是离散的，即代理可以选择的动作是有限且离散的。然而，在某些情况下，一个环</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588263&amp;idx=3&amp;sn=7b5c4831aeea1f3584f2f6c3c51ed25c&amp;chksm=fa38fea06f952fb1de2744d14db862cf76a1b4d9184d61c3b196b2a6274f6ff65ef64bd02d7d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 04 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[如何在pybullet环境中实现 - 无人机的飞行控制]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzure4CROE9vpaeE7yJklS7gIibG2plaaFmy9PibkKLtxVvtibiaDYZRXL36CMTPrmXJm03tBZcC71Loqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇将介绍tello无人机在pybullet环境中的飞行控制，实现无人机的速度控制。本环境最终要实现强化学习算法下的飞行任务，故采用通用的gym接口进行环境搭建。Gym环境接口OpenAI Gym 包</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588248&amp;idx=1&amp;sn=739cf64a0ecfb47011e22b6a9f989c63&amp;chksm=fa4d0b80b42d9fec1a13dd74ca94e601335a8da32b81a4705e7612a94febc2cbd2c28131bd6d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 03 Feb 2024 13:09:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DI-engine强化学习入门（九）环境包裹器（Env Wrapper）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzure4CROE9vpaeE7yJklS7gqVXeLUb5tENbjy8tVBibAyrcqTN1zw2c91zic6JvPIjzd7G3uryibUx6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>在强化学习中，环境（Environment）是智能体（Agent）进行学习和互动的场所，它定义了状态空间、动作空间以及奖励机制。Env Wrapper（环境包装器）提供了一种方便的机制来增强或修改原始</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588248&amp;idx=2&amp;sn=d9f69a69687e54cf7e0d7a86f8aeb0c0&amp;chksm=fa4bb2394af2572f6150c094e7090d7e9ed64abb614038a5d9481a41fa697e22132e589221b8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 03 Feb 2024 13:09:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DI-engine强化学习入门（十）如何使用RNN——模型构建和包装]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzure4CROE9vpaeE7yJklS7gFm66hJOlULZiajekGRTK5fwQp33qHvgUveJWkOvch100V9YU76T62Vg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、RNN简介循环神经网络（Recurrent Neural Network, RNN）是一类用于处理序列数据的神经网络。与传统的前馈神经网络不同，RNN引入了“内部状态”（或称为“隐藏状态”），使得</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588248&amp;idx=3&amp;sn=4ab6174d48a5ef817eac53d8a159fd91&amp;chksm=fa1e6f3c1b330185b1d282c109fd48fd40d972bcfbf8a8f2be4b8a05406b5b989974d588e09c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 03 Feb 2024 13:09:03 +0000</pubdate>
+      
+
     </item>
     <item>
       
