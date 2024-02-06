@@ -32,11 +32,40 @@
 
 
 
+
     <item>
+      <title><![CDATA[PyBullet 四足机器人仿真入门（1）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztddmYuibEuNyjhGAMPO5micUjQkZE6cjVaCVicEj3MdxP8S5qjCCibd1agyvMMiatr4oqLmZ3evxMpm4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、PyBullet 简介1.1 PyBullet是什么？PyBullet 是一个用于机器人学、游戏开发和图形研究的开源物理仿真库。它是基于 Bullet Physics SDK，这是一个成熟的、广泛</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588298&amp;idx=1&amp;sn=6984064c4456470331f9ca0889e6cc2a&amp;chksm=fa1478090e880e30208dffcae0ae64acfa1bdecebc4580b5068e069f14a7f3f33ee8023c323b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 06 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[PyBullet 四足机器人仿真入门（2）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztddmYuibEuNyjhGAMPO5micUnMs1Mm7hOr21pwnDtDPpf1jcRSGibhjibAC0ZxtcEEwQVA4tibYWq8NWA/300?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本章主要内容是通过PyBullet仿真kuka机械臂，并控制机械臂末端按照预定轨迹运动一、什么是运动学？运动学是物理学的一个分支，专注于物体的运动描述，包括位移、速度、加速度等，而不考虑这些</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588298&amp;idx=2&amp;sn=cb19130d999d1dcae118c91de224bb5f&amp;chksm=fa67d498d23dd2e4611d7e70c1549b759b18eaf1034624b794adda09fd21a1930e81d7627b71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 06 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[PyBullet 四足机器人仿真入门（3）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztddmYuibEuNyjhGAMPO5micU4Z9Owcr7r5vZN20F4RUYnHE7ibVQ7oWibvtMVyXhUj6q4NQBHw26DFPQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒，本章主要内容为分析四足机器人步态实现和姿态控制，碰撞体积等程序步态效果：一、完整代码如下# -*- coding: utf-8 -*-import pybullet as pimport t</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588298&amp;idx=3&amp;sn=24ea4df9c3fc60826751f8cf580aeee6&amp;chksm=fa612bbf1fe8c461f846dec5889ecb0a006b9e9030339a1051019a62f152f198ba981f500a93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 06 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[好课推荐：ROS入门21讲]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztX9FvApNAnJ3IYd8ias3gnoDjhApOHEuj9BJy9e8XNn42vkwV9auVvtjIQKaJueA8H4BQ0LVg5aicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前言，应广大朋友的要求，我们再次上线ROS入门经典课程，《ROS入门21讲》，并将价格下调为9.9元。本课程由古月老师亲自讲授，帮助学员开启ROS入门体验，扬帆机器人开发之旅。*课程资料请在微信公</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588272&amp;idx=1&amp;sn=bf7f7f3a223d04518ae4912de84f5b47&amp;chksm=fa64a51b5ac39f3901b9315ddf3fcf11f2892ee54f87a873efe47413d14cfa012273cebba24e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 05 Feb 2024 09:00:06 +0000</pubdate>
+      
+
     </item>
     <item>
       
