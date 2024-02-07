@@ -42,40 +42,115 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[抽奖了！给你一点程序员新年的震撼]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI2xKDk7cJX4EbHNjz1JRicaibGaTrLLcn5bm1vvdLKHpJQzMgjClJYx2AYVs9SbkIFQ2ZWdoJghXvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在这个数字化时代，技术日新月异，稍不留神，可能就会被“弯道超车”。春节的钟声即将敲响，这是一个团圆、温馨的时刻，对于那些热爱技术追求创新的开发者们，春节也是“充电”的好时机。文心大模型携手飞桨，以“龙</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440858&amp;idx=1&amp;sn=0ab0c522a25429bcd840a505d9c0599a&amp;chksm=bfdc61ac04d2571e0aa40bfa7bd615f020b6e26622cff2e734b1bcb4800d7d790405b2263f8a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 07 Feb 2024 04:08:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解大模型训练系列之：DeepSpeed-Megatron MoE并行训练（源码解读篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkON9dQfUsworsThbX65FDBn3vTPO5gCgT5Vj8wuib5Fc3crFDeKJM7GGibKs2Hib3f8wwqcYiaKA3kpXg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这篇文章中，我们会先介绍deepspeed moe并行训练实现，然后引入Megatron moe并行训练做对比，涉及到的git仓库有：Megatron-DeepSpeed: https://gith</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440858&amp;idx=2&amp;sn=b5250b99b75f1f222bdfc8bfd03f8e30&amp;chksm=bf73bc9841001fdc7c3980dfdecc0e534a85856c403ba525ad8783079454e0d5662f8901d8c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 07 Feb 2024 04:08:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Megatron-LM学习：流水线并行的设计与实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvIvJ5jWHqlqqvguGqjkFgl1MBjBwT6JqX30bVuCm7JQHdlWMH6Gd2bgueaOCC1lpjBfQOOR6YILTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>Megatron中包含了大多数目前大模型预训练中所需要的并行技术，并且相较于Deepspeed在硬件层面可以得到更多的优化支持。Megatron的优势体现在其先进的并行化设计上面，而其中流水线并行是非</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440858&amp;idx=3&amp;sn=7337bb3af1419d7104ee393715046b27&amp;chksm=bf83502b801d36c34952c1673babd8a2149ae7281ab0aa781e2630de7f0dd4923a6b1572c12d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 07 Feb 2024 04:08:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[随机 Transformer]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2oqDe4zJ7fzxPfy52HbEKicDehfURia8SapfHhFeNWxOweE5u3LXiaHh0hNdia3GNhtfHlD0sJ40EKoZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这篇博客中，我们将通过一个端到端的示例来讲解 Transformer 模型中的数学原理。我们的目标是对模型的工作原理有一个良好的理解。为了使内容易于理解，我们会进行大量简化。我们将减少模型的维度，以</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440858&amp;idx=4&amp;sn=d17a6e701cc1e246400548a7cf765bd6&amp;chksm=bf9ccbc056e7778a89492e7cfa88b8a0917bb7db3cb883ff967fdbdfbc24d1dbd68eca7c7cec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 07 Feb 2024 04:08:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[微软Phi系列——教科书级合成数据的力量]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDBGCfsuaMLoFOoNDJjJSdc8uoO4eR3eAicVpj0iavCyM8KsVGtwicK4ze2obcJ0f1iawk7ibtn1WotOjow/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景分享三篇微软推出的「合成数据」研究的系列文章——Phi系列。整个系列的宗旨是研究在「模型尺寸小」，「数据规模小」，「数据质量高」的综合配置下，小模型（SLM）能达到怎样的效果，研究的核心是「数据质</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440858&amp;idx=5&amp;sn=8a289b282118ecca0c4c173a95eda45f&amp;chksm=bf9186601688cb92ac2cf113be5b804024ef530d4ec192cb2f64087bec8d9d6d58cbbf4eb5d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 07 Feb 2024 04:08:08 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[YYDS!  大模型LLM从理论到实战]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLhb7ZiaHx1ZnyFwI5c8kbHKcDEZksRGMZ3rny5X92sTsiasDIEAscd273iaZ77qUicn2DqBX1akY5iaSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2023年大西洋彼岸的OpenAi公司，首次向世界吹响「大模型主导未来世界变革」的号角。AI大模型，正在构建的颠覆力，为了更好的入局AI大模型，这次我特意复盘和整理大模型学习脉络，开了30节大模型的课</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=1&amp;sn=24dad0fe28222a3f881aa8aac4ff75d8&amp;chksm=bfdf165eb05e91d0d35c1f046fd0bdc5d95f7cd5c4f0701aed0cb78621d44b587b68b101eff8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[复刻ChatGPT语言模型系列-（三）指令学习微调]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic06XsITuUpaMrqVQTXnWOtWr67UjLib1xo5bvZQKFg6EnC4Mslf7vSPGWOjWibPBHlQgksYnUhFoGaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言今天开始我将会推出一系列关于复刻ChatGPT语言模型的博文。本系列将包括以下内容：复刻ChatGPT语言模型系列-（一）基座模型选取复刻ChatGPT语言模型系列-（二）参数高效微调复刻Chat</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=2&amp;sn=41b4827aae7b136d53ba8d39950708a1&amp;chksm=bf1feeaa3c88c1ac9cea975dc2c4fde42117e8a68cd632f161b05dea02031c68ee86ad210066&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM &amp; KBQA】FlexKBQA：一种结合LLM的KBQA框架]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGBmkdJKCkicgFU1WhzfsmiakquDyltIbjQLnMq5kEEDISRFwt9RRpiaV8OBCPgH80ibdNpEN9nHGBqo3Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言 大语言模型（LLMs）在知识库问答（KBQA）领域的应用主要集中在包括但不限于以下几个方面：直接生成答案：一些方法直接利用LLMs生成答案，而不是生成中间的程序（如SPARQL查询）。这种方法通</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=3&amp;sn=4ff0a937bc43b70cba3d73de58df3007&amp;chksm=bf9712c9f942cdfb6b1555a612349b416c144e5a9abbd46b5c9b7146eaad45fe45b5908a103f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM之RAG实战 | 如何构建一个RAG支持的聊天机器人，包括聊天、嵌入和重排序]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1Sickjjl7zah14T3S3nhLxEUGvoHBv45bPojsstCfiaxYU1nZDr6pukfXwewyHIea0jHL8CtYI2vFqSDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>      在人工智能和机器学习不断发展的环境中，聊天机器人变得越来越复杂，从简单的基于规则的回复转变为基于上下文的对话。在这篇博客文章中，我们将深入研究创建一个RAG支持的聊天机器人，该聊天机器人利</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=4&amp;sn=6184042081f13191f8a11dcb81f81c33&amp;chksm=bff54cc829aedc41969200e389b32230ce1cb616c508a3b41beafc43ffe76ed15129122ba999&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[GLM4 介绍]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HIKk7OFDjoTv6mQl5EUOKicPicncVEQdJFaCOjmjItKpv9fMCERmQz5gbLygF3fAXHxXibeeWO8nOuBzHCHCMCeiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>GLM-42024年1月16日，智谱AI正式推出GLM-4新一代基座大模型，整体性能相比ChatGLM3全面提升60%，根据实际测试，GLM-4在以中文为主的应用场景中实际性能逼近GPT-4的95%，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=5&amp;sn=335738b04123fb8506c132ebf53d512b&amp;chksm=bff007dd0fdd39c44ea9a8c12b83a7896371787247211e550763fb6b16c7951398457ecff1f9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
