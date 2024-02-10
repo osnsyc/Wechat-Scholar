@@ -35,17 +35,45 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[混合A*算法详解学习（一）路径搜索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztrO5OIqAMcowT8QEVFR7M5pgUibboJV6e8JnTXy1ko7JxjGRAze0CxGt1G4AIWibBqI29Myu7gFrrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>描述为了学习一下混合A*算法，我前面介绍了车辆运动学及非完整约束、差速轮及阿克曼运动学模型、Dubins曲线和RS曲线，现在终于可以看一下混合A*算法的相关内容了。原文名称：Practical Sea</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588409&amp;idx=1&amp;sn=67c28318b8c0ef00fb3abae7bc4dbe6c&amp;chksm=fad77d90ce67a2f8b7f86ecf1095c5956656cdc9ae52eba3abed15b68758c0c97cc21cb478eb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 09 Feb 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[古月居祝大家龙年大吉，万事兴！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt5HXiaDSJmykibwjiaWrpoxgyn2Cw0OrqAlmLj5y2EyyXtSrvsyXhicLBhAv55hMpuvpY8RW1zm9xVSw/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588415&amp;idx=1&amp;sn=3d7e888f75048edec26ebd2cf8b4825d&amp;chksm=fa62f480bad4f5e553406efccb3b7a58769ce884196569d907e935a057a23a7f32de9baed7a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 10 Feb 2024 08:59:48 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[混合A*算法详解学习（二）路径平滑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztrO5OIqAMcowT8QEVFR7M5t26oFH8h6jxhnklu91gwGkv9CphrHZVicyrkR1hxbGmHTNOgLZHD2EA/300?wxtype=jpeg&amp;wxfrom=0"/><p>描述上一篇文章混合A*算法详解学习（一）路径搜索，本篇介绍混合A*算法详解学习（二）路径平滑。路径损失函数使用Voroni势能图根据之前的文章分析，决定A*路径长度的有两点：路径长度和距离障碍物远近。</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588409&amp;idx=2&amp;sn=125ba5dcfa0c495cdde79e2de125a828&amp;chksm=fa43a7160eb263ae6d58ec2943969c2bc7bd93ace70c21ab58ae91d6abe394e65c50f09c16da&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <title><![CDATA[混合A*算法详解学习（一）路径搜索]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztrO5OIqAMcowT8QEVFR7M5pgUibboJV6e8JnTXy1ko7JxjGRAze0CxGt1G4AIWibBqI29Myu7gFrrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>描述为了学习一下混合A*算法，我前面介绍了车辆运动学及非完整约束、差速轮及阿克曼运动学模型、Dubins曲线和RS曲线，现在终于可以看一下混合A*算法的相关内容了。原文名称：Practical Sea</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588409&amp;idx=1&amp;sn=67c28318b8c0ef00fb3abae7bc4dbe6c&amp;chksm=fad77d90ce67a2f8b7f86ecf1095c5956656cdc9ae52eba3abed15b68758c0c97cc21cb478eb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 09 Feb 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[混合A*算法详解学习（二）路径平滑]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztrO5OIqAMcowT8QEVFR7M5t26oFH8h6jxhnklu91gwGkv9CphrHZVicyrkR1hxbGmHTNOgLZHD2EA/300?wxtype=jpeg&amp;wxfrom=0"/><p>描述上一篇文章混合A*算法详解学习（一）路径搜索，本篇介绍混合A*算法详解学习（二）路径平滑。路径损失函数使用Voroni势能图根据之前的文章分析，决定A*路径长度的有两点：路径长度和距离障碍物远近。</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588409&amp;idx=2&amp;sn=125ba5dcfa0c495cdde79e2de125a828&amp;chksm=fa43a7160eb263ae6d58ec2943969c2bc7bd93ace70c21ab58ae91d6abe394e65c50f09c16da&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 09 Feb 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -252,86 +280,6 @@
       
 
       <pubdate>Sat, 03 Feb 2024 13:09:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OriginBot智能机器人项目 - 摄像头驱动源代码解析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTF9SXCqpMX1dZrudUv70uibV9ovtcf92MiaJ7tqhZJNibyaliaL7yZsHTXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇博文主要记录自己对于OriginBot-相机驱动与可视化（http://originbot.org/manual/camera_visualization/#ros）代码的学习与理解，我会注释写在</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=1&amp;sn=18c923a5ff02e2e5faa507d39d694747&amp;chksm=fa779d4576a4b705739de8578dabbcb97728c98b94e05835e60414df718c53dee5caa223cbb1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DI-engine强化学习入门（七）如何自定义神经网络模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTMoh7FkxA5SMg3q6HhBHVslNvpktq2AAHYanDuAyBAeJZzC8TRf4VVA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在强化学习中,需要根据决策问题和策略选择合适的神经网络。DI-engine中,神经网络模型可以通过两种方式指定:1.使用配置文件中的cfg.policy.model自动生成默认模型。这种方式下,可以在</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=2&amp;sn=2d0ba085f6c5345af2aae19ff486eb52&amp;chksm=fad8cf5c039db14de73225128eced04b79ce0a392a12573126b2f17ae2448cecb0d5da70db3b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DI-engine强化学习入门（八）如何高效构建决策环境]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztM4sBEFmXnFOonsic1XkuicTWalmu6WoqarcjlqArEXKr99t90G4MRpuSkOpsjCibr2BaTtAAT3xyPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文章将介绍 DI-engine 中用于高效构建和标准化不同类型决策环境的系列工具，从而方便我们将各式各样的原始决策问题转化为适合使用强化学习方法解决的形式。前言对于“决策环境复杂性”的问题，这里描述</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588219&amp;idx=3&amp;sn=5de8764085b7a24a7311d95c7fd7522f&amp;chksm=faaf4007d18a5690d4f97911fb65c1bae00584f438ad02b9de3f5813af8ee742669eac852c52&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Feb 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OriginBot智能机器人项目开发案例详解 - 宝宝看护小助手]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt00Hr9g8zicsVwt7ScJyo2riazeINoXHVmiafs8S7j8Nf1h4Sqt18VXc74FV748lhESbbbOdeB1A5sg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇主要讲述了如何通过OriginBot来实现看护宝宝，当宝宝的脸不在摄像头的范围之内时，发送消息到钉钉群组，通知家人及时查看。前言我在上个月有了宝宝，为了方便照看宝宝，就买了一个带有宝宝看护功能的摄</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588196&amp;idx=1&amp;sn=76630e501c9314ab0f1e1a0a1451a348&amp;chksm=faea2a2af50449a52af7308f908925f0e532ca424dccbe3d1b9b08a7bc1ff2b2c7fb3a4ab534&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 01 Feb 2024 14:59:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐：多刚体系统动力学建模及MATLAB仿真]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztLtK7iaibKR4QlibUb3zmib6JSPiaweEePCORkxIb88r11ibo5CKkFuiahfz3HxAQYcs0opiaHSVjQ2WgxBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程资料请到微信公众号“古月居”后台回复“仿真控制资料”获取课程目的动力学建模及分析是工程研究中的重要组成部分，无论是规划控制算法开发，还是仿真测试，甚至后续的结构优化、参数优化都需要动力学模型来支撑</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588184&amp;idx=1&amp;sn=ad0cf9cc704c7a00ab86c0a018216e6e&amp;chksm=fa1a96f61b5fa46e2eec3cb8a9b4911dd4bd209f3c2d3b3a80eff27aa3f25e018b6f56bf6d45&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 31 Jan 2024 10:21:15 +0000</pubdate>
       
 
     </item>
