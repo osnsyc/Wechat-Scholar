@@ -38,23 +38,74 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[手把手教你，从零开始实现一个稀疏混合专家架构语言模型（MoE）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3Tkb0xy2fU9ZoJyNdr54J7RXTTibSNGHmmm3Kzur795hZniaysaGuStTuibKNAz9z7eLWlhmJVibKGxZXMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍了实现一个稀疏混合专家语言模型（MoE）的方法，详细解释了模型的实施过程，包括采用稀疏混合专家取代传统的前馈神经网络，实现 top-k 门控和带噪声的 top-k 门控，以及采用 Kaimin</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247559435&amp;idx=1&amp;sn=841ea2be6f05bec8d31b1eea620a7aab&amp;chksm=fa7ca6ba3cc3e93e422f6da4de6e64ed8694d94f97cfaa766e06a127fab2af09d52b823c24a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 11 Feb 2024 12:08:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[2024年技术招聘报告出炉，1/5程序员担心失业！Python和JavaScript成最受欢迎编程语言]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3Tkb0xy2fU9ZoJyNdr54J7RXTibpVovYhzlZJ22H9ePGe0q7CwHYdww21icDfCnfA8WspKve8c0f4YO4w/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近，技术招聘平台CoderPad发布了一份《2024年技术招聘现状》的报告。这份报告，是CoderPad调研了来自全球149个不同国家/地区的13000多名开发者，和143个国家的5500名HR之后</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247559435&amp;idx=2&amp;sn=ea8aa3f06a2c2c3e219b6ff20470fe83&amp;chksm=fa492e6902bc3dbc741e1cb45de6c79cdb05d5c96dab56027436e3359109592b141db6657713&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 11 Feb 2024 12:08:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[《图简化(Graph Reduction)》最新综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3Tkb0xy2fU9ZoJyNdr54J7RXTjYZm1CkR0oBro3elgLjkGUQsRqg7y9421q3CDt7XGFQRcL8efy6cSA/300?wxtype=jpeg&amp;wxfrom=0"/><p>许多现实世界的数据集可以自然地表示为图，涵盖了广泛的领域。然而，图数据集的日益增长的复杂性和大小为分析和计算带来了显著挑战。作为回应，图简化技术因其在简化大型图的同时保留关键属性而获得了重要地位。在这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247559435&amp;idx=3&amp;sn=d130b7fd647273c2b149e3aa59cd9df8&amp;chksm=fa2488a8c9f4fcb5bc1df354065268538bb2feaa25a8b6da21fb626b1f99354cd82374ec2626&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 11 Feb 2024 12:08:45 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[AI视频年大爆发！Gen-2/Pika成时代爆款，2023年AI视频生成领域的现状全盘点]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbjrJn9chCdrJjzI9PeRogZxZuUkggpmq1ZsiaCdic9jXbibbjbD9cMQKg6yk4b2hCxhjd52biaRObXdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去一年，AI视频领域我们见证了，Gen-2、Pika等爆款产品的诞生。来自a16z的Justine Moore，详细盘点了人工智能视频生成领域的现状、不同模型比较，以及还未解决的技术挑战。接下来，一</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247559390&amp;idx=1&amp;sn=17a4da87860f99bc9f22a8181c293e84&amp;chksm=fa963470133fdd48fa1aaea2d31244f6ede2162ce5424061121bf599e2331b290c9bc1887d5e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 10 Feb 2024 12:05:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[谷歌提出全新RLHF方法：消除奖励模型，且无需对抗性训练]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbjrJn9chCdrJjzI9PeRogZNXNgx4CbQq8MeCtBXtnx7OibTwhl4yT5sLMic6mHvCB2lh7NZvLbu2bQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>效果更稳定，实现更简单。大型语言模型（LLM）的成功离不开「基于人类反馈的强化学习（RLHF）」。RLHF 可以大致可以分为两个阶段，首先，给定一对偏好和不偏好的行为，训练一个奖励模型，通过分类目标为</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247559390&amp;idx=2&amp;sn=720da524ea385bd3a8d72ef7224a5fcd&amp;chksm=faad33a3980e1faffa6096d0990c01da79c550a4105be2f922e9c35b6fc3aa54c03b31b05b39&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 10 Feb 2024 12:05:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[使用mergekit 合并大型语言模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbjrJn9chCdrJjzI9PeRogZ2MrE8PfeORyAu7RqV0B9hel3ibnNYq7xDs4RoDFNHqia7tWW6ohsNh9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>模型合并是近年来兴起的一种新技术。它允许将多个模型合并成一个模型。这样做不仅可以保持质量，还可以获得额外的好处。假设我们有几个模型:一个擅长解决数学问题，另一个擅长编写代码。在两种模型之间切换是一个很</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247559390&amp;idx=3&amp;sn=cd094fa23f3cd3e204bdfc9ba60b9143&amp;chksm=fa3f797b7dca192c13429b1032a000d26a425130a9c10547649a17abf713ab65dd6c510557d9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 10 Feb 2024 12:05:11 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -341,54 +392,6 @@
       
 
       <pubdate>Sun, 04 Feb 2024 14:13:29 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[陶哲轩看了都直呼内行！谷歌等用LLM自动证明定理拿顶会杰出论文，上下文越全证得越好]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbJN4RTG5nveAcRNz2ds0zBS62hGuYaXDRvGfeqhnDcTxgr2ew7sgg2ChdtvvekJTzSOVMhR2nmWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer的技能树是越来越厉害了。来自马萨诸塞大学、谷歌和伊利诺伊大学厄巴纳-香槟分校（UIUC）的研究人员发表了一篇论文，利用大语言模型自动生成定理的完整证明。论文地址：https://</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247558983&amp;idx=1&amp;sn=d5be4b2d2048e248146401852e3ce463&amp;chksm=fa6a02820b804a4c0be8e0a1cfa10ef3777e7c78a60f4194ce82fc906955cb5a74c7eb4b0172&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 03 Feb 2024 12:42:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[击败OpenAI，权重、数据、代码全开源，能完美复现的嵌入模型Nomic Embed来了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbJN4RTG5nveAcRNz2ds0zBSiaAL881y0Ba0dOicibJpYSdIO05BLqtN9SgQkb92icK5Q5OUicNoDia96aQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>模型参数量只有 137M，5 天就能训练好。一周前，OpenAI 给广大用户发放福利，在下场修复 GPT-4 变懒的问题后，还顺道上新了 5 个新模型，其中就包括更小且高效的 text-embeddi</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247558983&amp;idx=2&amp;sn=faeba514c46432c49f80be92ab5fff19&amp;chksm=fa3158d2e32433ccdd2dedc9a22376c160a6ddf4da8917e424c70d9afd72014f704b8ce278b2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 03 Feb 2024 12:42:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[像人类一样在批评中学习成长，1317条评语让LLaMA2胜率飙升30倍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbJN4RTG5nveAcRNz2ds0zBOWlJNXmsBMsIKhBeDQshWKFvfkJTtqzbqxxVyUPgUL2WkIa6QRKFEQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>除了分数，打出分数背后的理由对于大模型对齐更具价值。现有的大模型对齐方法包括基于示例的监督微调（SFT）和基于分数反馈的强化学习（RLHF）。然而，分数只能反应当前回复的好坏程度，并不能明确指出模型的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247558983&amp;idx=3&amp;sn=ad462e81022786e0bfe719716ba8f4ae&amp;chksm=fa8ed27b180273b96bbba98043a4a09e526660c2e18bc3db3409e15318084e10b2b60dafdb70&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 03 Feb 2024 12:42:07 +0000</pubdate>
       
 
     </item>
