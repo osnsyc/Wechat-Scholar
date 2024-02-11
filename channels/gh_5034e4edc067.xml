@@ -42,40 +42,97 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[回望做大模型一年后的感悟]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lKGTUyicG3cspInOicGZpecGVMrBlyq0ChwBkC4xAUKsiaZVwr4KqjMBsXZpicpkM8lQtEHBOGPADA0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面自ChatGPT问世以来，做大模型也有1年多了，今天给大家带来一篇文灏兄（知乎@黄文灏，零一科技Pretrain负责人）的回顾（已授权）。知乎原文: https://www.zhihu.com</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440887&amp;idx=1&amp;sn=9e7d0fb8ca125435c3cedc24d323d1ff&amp;chksm=bf472d8e1283d2b4a8d6d73ad783a9221aee902f9a010cefaa167c7315a8e7762cb7194d6f1b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 11 Feb 2024 03:23:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM训练指南:模型参数&amp;计算量&amp;显存&amp;计算时间计算]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic2h1VziajMFZQhoddCeNxl7YhBSiaBfga05wUgSicGL4rhowNDGISKMhkGibeFWAn39icIt1kpNXOM5VRg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言在上一篇文章LLM训练指南：Token及模型参数准备中，我们详细探讨了如何为预训练模型确定合适的大小和数据集规模，从而提高模型的性能表现。在本文中，我们将在前文的基础上，讨论如何在给定的参数量和训</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440887&amp;idx=2&amp;sn=c35fbdc4a2d90bdb3ef41cebf5cd681a&amp;chksm=bf6addcf0744e9ca6ab2d8e068f217cc721af041ed07795131a3ceca6c960edf694d74c224b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 11 Feb 2024 03:23:20 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[速领！2024龙年新春红包封面来啦]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKjTKZhAIwZwZWibDricdbEfoFKfiagee5F21zWqsDbWPvkGOY0L4RRYumKMRIFgK2NVc6SzVoyjs9xA/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440875&amp;idx=1&amp;sn=37686aafa1d4593e7b00d91d22079583&amp;chksm=bf0d4ad22ea458be78ee2873b470620ff2b1e3ad41b127be533dd6f2fbeb1df92619622f41e6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 08 Feb 2024 10:40:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[详解各种LLM系列｜LLaMA 1 模型架构、预训练、部署优化特点总结]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQcss8pHBLzYLxNSPZeB3yWJuyNT7cJQI0XqlQ5yLRN8y4OpJLGxU3z1iaoZ8oqqEhZZrFNl7vRNpXg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sunnyyyyy https://zhuanlan.zhihu.com/p/668698204LLaMA 是Meta在2023年2月发布的一系列从 7B到 65B 参数的基础语言模型。LL</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440875&amp;idx=2&amp;sn=17d34c0e95c4fd5c969777d41cf5acd5&amp;chksm=bf61681ae40881b2fac4d9321dcca1bd7104ecf1356f8219a363eb5173c7d2358b782752005a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 08 Feb 2024 10:40:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[全世界 LoRA 训练脚本，联合起来!]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2oTm4VSzmicmftwmV7x6qmnQiaoCmDySTPHOVIUjgtzzsbEYgHK5nNfMbCxCSyHKiaMP2PMfoLGN7ACQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>太长不看版我们把 Replicate 在 SDXL Cog 训练器中使用的枢轴微调 (Pivotal Tuning) 技术与 Kohya 训练器中使用的 Prodigy 优化器相结合，再加上一堆其他优</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440875&amp;idx=3&amp;sn=7122a66f53255e3abf9b0604bcc14ef2&amp;chksm=bf6fca277fa640861a241c404f5e0b8e551e7534a0259d7b51215ca5481e579dc53505e1ee65&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 08 Feb 2024 10:40:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM之RAG实战 | 使用Mistral-7B和Langchain搭建基于PDF文件的聊天机器人]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1Sickjjl7zah14T3S3nhLxEUGvKWBhe7IpSI1I5FHTFCwsGj7gIVhG6PULCiaAb1CKWLSISriaja8DH0Sg/300?wxtype=jpeg&amp;wxfrom=0"/><p>        在本文中，使用LangChain、HuggingFaceEmbeddings和HuggingFace的Mistral-7B LLM创建一个简单的Python程序，可以从任何pdf文件中</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440875&amp;idx=4&amp;sn=998b5d055579d2f98cb7e22ae9cf1666&amp;chksm=bf1aa0cc0418cee09a1137ae8a557bcc94136a54d680755a37e822c3d5b6131270bcaae7ed30&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 08 Feb 2024 10:40:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Smaug-72B 大模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/uibOQg13Dptzw14wczn20pHlkiayVico9LY4eWpb754yCJBwcAYgMVBT3Rw7OBZ1UVpu9x1Q1XlWEOM0s09UVia5YA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Smaug-72B是由Abacus AI推出的一款开源语言模型，目前在Hugging Face的LLM排行榜上名列榜首，成为第一个平均得分达到80分的模型。该模型采用了多种源自Qwen-72B的微调技</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440875&amp;idx=5&amp;sn=6f5463c3397636e5171d50f6b46d562f&amp;chksm=bf3415434f0951b63a8f885c6c77e4966872c451cc33664f836e2c661f5adf3219ff24c4c3a9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 08 Feb 2024 10:40:11 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -314,86 +371,6 @@
       
 
       <pubdate>Sun, 04 Feb 2024 10:38:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[HiFT全参数微调新范式---逐层微调]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKxsUzia3vHMcwJQNbWe8eOLsF9e4q4IibhTcby3GmxIa4YwMMfSTUXAK1JGWj9pwTyYUs3WkL2ibsGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：刘永康单位：东北大学、慕尼黑大学论文链接: https://arxiv.org/abs/2401.15207HiFT 是一个端到端的层级优化策略。目前论文的结果是原始混合精度的结果，目前最新进展</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440818&amp;idx=1&amp;sn=eca12dd3efd45d92f17bdc98d36ed99c&amp;chksm=bfdfa6e2381035c24e6820105831a7fc7df400a499cbc1b2fdf495c17b7c46c7daf8ea82bbf6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Feb 2024 13:28:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型训练系列之：DeepSpeed-Megatron MoE并行训练（原理篇）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkPcHSDaCg1w25tL8ScnHd1ljib4lE3I1X8icQakbqcRET7ibnJcT9oUQINP1KHMlzyrNtBmwfDFyMDPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，时隔不知多少月，LLM并行训练系列终于又有更新了（抱头防打），这一章我们来讲MoE并行，同样分为原理篇和源码篇做讲解（本来想合在一起的，但是MoE的细节太多实在写不完，所以还是分成两篇）。关于</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440818&amp;idx=2&amp;sn=0e0bb7931c2b55dc19814ccb37180ff6&amp;chksm=bf7fc512fe79291cc0b5704e06c8f7c7d181ab814d661a80400843512a0f72eca4e2e0c7de87&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Feb 2024 13:28:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[京东零售搜索算法团队招聘实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ3HGy24dbxwWCWEoAD0vRB2BSZOBCJiagylojllZJql85dUBiba750ap1x7A7KOaic9bqS9V9zCmNjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>团队介绍：我们是京东零售负责京东app搜索算法的团队，承担京东全站自然搜索流量的分发。团队氛围十分NICE，团队成员主要来自清华北大中科院等高校的硕博，团队成员曾在多个顶会上发表论文，包括不限于ICM</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440818&amp;idx=3&amp;sn=b854e1bf7ea17fc59909aacad1092d00&amp;chksm=bf11631dc4c80419bb0ee4123ae27fdd888f2482306f93f20c344d8a5142f9abe84c7480a99c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Feb 2024 13:28:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AAAI 2024 |大模型时代，什么是比代码更好的数值推理中间表示？——方程]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/58FUuNaBUjqCByXGW7gKibOQPlnYFxXHbeGmIEs8yVeG85PEhzKDE7aFvibopy6Dhic9eD4e3bu7QfuW88PfNIlGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：探索方程作为一种更好的数值推理中间表示作者：王丁子睿、窦隆绪、张文斌、曾俊瑀、车万翔链接：https://arxiv.org/abs/2308.10585项目链接：https://github.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440818&amp;idx=4&amp;sn=572534deb46cab949073b459bbc0e918&amp;chksm=bf25bcc7c7b2000233bf653f2b8ab87489448e945a4159642808247df826ed505f796a9a7bf4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Feb 2024 13:28:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ICLR 2024：无需标签即可评估模型性能？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQc14a8W9lvErDGJ3FuYHlHbB0EAomDJ8S2qVbmfIgKOdvTLMd2wYxz4icHJlGicWMMGsC14H15T87iaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 彭儒@浙江大学 https://arxiv.org/abs/2401.12689今天分享来自浙江大学ICLR 2024的关于自动模型评估AutoEval的最新工作：MDE。概要机器学习模型的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440818&amp;idx=5&amp;sn=da1b3ca4362d1ada9a0a9ab5eb1f32f2&amp;chksm=bf4195520faa6871e90b29cd79505ad3cd33f165036cdd6ec39f831f6b4ec91d4ae9a2a44c40&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Feb 2024 13:28:03 +0000</pubdate>
       
 
     </item>
