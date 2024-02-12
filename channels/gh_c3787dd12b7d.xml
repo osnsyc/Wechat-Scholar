@@ -33,17 +33,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[地平线 RDK X3 开发板 1.0 与2.0升级解读]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu2egKqk85KiboRrea3dnJFv4NtFN4wuUlIMvkdmfmb65ItqSSCPbpaiaiaWYju6iaq2Szw74yyVp7l4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x01 重新了解RDK X3旭日X3pi产品上市有一段时间了，从去年2023.1到现在2024.1，X3派社区（https://developer.horizon.ai/），地平线开发者平台HHP，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588454&amp;idx=1&amp;sn=e91e9546f246b8d7ecdbdc78b6f5420e&amp;chksm=fa3fbba53d15d784570f1ed21e49017496caf6cb4a9b899037cc4b416f235d5f482f9bb9fa59&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 11 Feb 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[STM32 F103C8T6系统板搭建图文教程（1）最小系统概述及电源系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs2lgUnZqD4OwwAS5rkBVpONVS0MVVZpkbAZv3biaQOpffDMm16Xicl2Kh6U1MF0LiaSgg34Dtqq3Zqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本系列教程，将会从最基础的理论及实践开始，详尽的介绍和分析如何构建STM32F103C8T6最小系统。行文上会将最小系统分为若干模块依次介绍，将详细的分析电路拓扑结构和电路中每一个元器件在电路中的作用</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588486&amp;idx=1&amp;sn=618ef9c9003355c55a0b293f4833bf2a&amp;chksm=fa6fee4d5b40bed2a1188dcfa75ed9ce0eb23d9b2b668809fcf1921c8c15710970f960671460&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 12 Feb 2024 15:24:08 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[车辆路径规划之Dubins曲线与RS曲线简述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu2egKqk85KiboRrea3dnJFvP6CFKS28Towfd05CcNBP1P3HzYTfjabP8UdMdZsmqnQLHqn78pibqUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>描述Dubins和RS曲线都是路径规划的经典算法，其中车辆运动学利用RS曲线居多，因此简单介绍Dubins并引出RS曲线。花了点时间看了二者的论文，并阅读了一个开源的代码。Dubins曲线Dubins</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588454&amp;idx=2&amp;sn=5fd6faee227dfb9ee7b54e74463d3c1d&amp;chksm=fa0469df26027097892ad73abcf065d0ed2259b0befe06d0ebd56cecd8893d2e563e88c50198&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[STM32 F103C8T6系统板搭建图文教程（2）复位电路设计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs2lgUnZqD4OwwAS5rkBVpOYUuqH5kOAwo4zicIicrJr0AeA4kcg1Tmwl7Hq3srMic6RYMtuA3icKLbyg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、复位（1）什么是单片机的复位STM32单片机的复位（Reset）是指将微控制器重置到其初始启动状态的过程。复位行为会导致所有运行中的程序终止，并将微控制器的寄存器和功能恢复到初始值。复位过程为程序</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588486&amp;idx=2&amp;sn=1d967fdc81fd56c56bb2b5eb5bc0c81a&amp;chksm=fa8307c628f6e18c7b26c3a34e8b40af6945705f38974847d8eea3011810a178a659d6279eb2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 12 Feb 2024 15:24:08 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[地平线 RDK X3 开发板 1.0 与2.0升级解读]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu2egKqk85KiboRrea3dnJFv4NtFN4wuUlIMvkdmfmb65ItqSSCPbpaiaiaWYju6iaq2Szw74yyVp7l4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x01 重新了解RDK X3旭日X3pi产品上市有一段时间了，从去年2023.1到现在2024.1，X3派社区（https://developer.horizon.ai/），地平线开发者平台HHP，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588454&amp;idx=1&amp;sn=e91e9546f246b8d7ecdbdc78b6f5420e&amp;chksm=fa3fbba53d15d784570f1ed21e49017496caf6cb4a9b899037cc4b416f235d5f482f9bb9fa59&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 11 Feb 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[车辆路径规划之Dubins曲线与RS曲线简述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu2egKqk85KiboRrea3dnJFvP6CFKS28Towfd05CcNBP1P3HzYTfjabP8UdMdZsmqnQLHqn78pibqUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>描述Dubins和RS曲线都是路径规划的经典算法，其中车辆运动学利用RS曲线居多，因此简单介绍Dubins并引出RS曲线。花了点时间看了二者的论文，并阅读了一个开源的代码。Dubins曲线Dubins</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588454&amp;idx=2&amp;sn=5fd6faee227dfb9ee7b54e74463d3c1d&amp;chksm=fa0469df26027097892ad73abcf065d0ed2259b0befe06d0ebd56cecd8893d2e563e88c50198&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 11 Feb 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
