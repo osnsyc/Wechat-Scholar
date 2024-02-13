@@ -39,20 +39,55 @@
 
 
 
-
-
-
     <item>
-      <title><![CDATA[回望做大模型一年后的感悟]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lKGTUyicG3cspInOicGZpecGVMrBlyq0ChwBkC4xAUKsiaZVwr4KqjMBsXZpicpkM8lQtEHBOGPADA0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面自ChatGPT问世以来，做大模型也有1年多了，今天给大家带来一篇文灏兄（知乎@黄文灏，零一科技Pretrain负责人）的回顾（已授权）。知乎原文: https://www.zhihu.com</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440887&amp;idx=1&amp;sn=9e7d0fb8ca125435c3cedc24d323d1ff&amp;chksm=bf472d8e1283d2b4a8d6d73ad783a9221aee902f9a010cefaa167c7315a8e7762cb7194d6f1b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 11 Feb 2024 03:23:20 +0000</pubdate>
+      <title><![CDATA[田渊栋：2023 狂飙的大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQf3wbEpekEhdIbhHRdWu5iaWtJDrpicl2SelDia54xq53ia3lgsqgia83h16omddW1XTEMlgEZSCS5EaTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 田渊栋，Meta FAIR研究院研究员 整理 | NewBeeNLPhttps://zhuanlan.zhihu.com/p/675287417今年是狂飙突进的一年，无论在技术上，还是在技术</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440891&amp;idx=1&amp;sn=a37ffc80830cba13cffe9810d97ea9b8&amp;chksm=bfe385275c4880bf6000d10a20b1c8c64403e2affd939c3bd9f2cbba3d4a645b8a0922f486c9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 13 Feb 2024 13:51:52 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[LLM训练指南:模型参数&amp;计算量&amp;显存&amp;计算时间计算]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic2h1VziajMFZQhoddCeNxl7YhBSiaBfga05wUgSicGL4rhowNDGISKMhkGibeFWAn39icIt1kpNXOM5VRg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言在上一篇文章LLM训练指南：Token及模型参数准备中，我们详细探讨了如何为预训练模型确定合适的大小和数据集规模，从而提高模型的性能表现。在本文中，我们将在前文的基础上，讨论如何在给定的参数量和训</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440887&amp;idx=2&amp;sn=c35fbdc4a2d90bdb3ef41cebf5cd681a&amp;chksm=bf6addcf0744e9ca6ab2d8e068f217cc721af041ed07795131a3ceca6c960edf694d74c224b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[国内AI大模型已近80个，哪个最有前途？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwGQ3icrndcxQY7cwPApuXFPG75sLqiaZxjh65yMrdMgp75fs1wXicQd8N8HibnseRYlOgjoU3iauibLzaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：李博杰 | 整理：包包算法笔记链接：https://www.zhihu.com/question/608763410/answer/3327836302利益无关：因为我没有在做基础大模型（做的是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440891&amp;idx=2&amp;sn=b5666dd593d81d076e4635fe49b52a78&amp;chksm=bf26b3b9e97773a32416453e94325ff649a47d39d7c61458605b2b81a7692816e293e89c561b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 13 Feb 2024 13:51:52 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM推理部署：LLM七种推理服务框架总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1SickpDTlVlMWrXhZjveIfXOFVnDvgB4OYj4TxnvophGb35PDz5AcgPGM10Njic0q6938hXGRr07knNpA/300?wxtype=jpeg&amp;wxfrom=0"/><p>       自从ChatGPT发布以来，国内外的开源大模型如雨后春笋般成长，但是对于很多企业和个人从头训练预训练模型不太现实，即使微调开源大模型也捉襟见肘，那么直接部署这些开源大模型服务于企业业务将</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440891&amp;idx=3&amp;sn=1e9e9989735aa2a0afd7fc78a4ee8600&amp;chksm=bff3c67504ce8a6f8c09a4b63be6b655b14a2e20ea2b3d081fafdfd08521094d58413cc2ec11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 13 Feb 2024 13:51:52 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[回望做大模型一年后的感悟]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lKGTUyicG3cspInOicGZpecGVMrBlyq0ChwBkC4xAUKsiaZVwr4KqjMBsXZpicpkM8lQtEHBOGPADA0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面自ChatGPT问世以来，做大模型也有1年多了，今天给大家带来一篇文灏兄（知乎@黄文灏，零一科技Pretrain负责人）的回顾（已授权）。知乎原文: https://www.zhihu.com</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440887&amp;idx=1&amp;sn=9e7d0fb8ca125435c3cedc24d323d1ff&amp;chksm=bf472d8e1283d2b4a8d6d73ad783a9221aee902f9a010cefaa167c7315a8e7762cb7194d6f1b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 11 Feb 2024 03:23:20 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[LLM训练指南:模型参数&amp;计算量&amp;显存&amp;计算时间计算]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic2h1VziajMFZQhoddCeNxl7YhBSiaBfga05wUgSicGL4rhowNDGISKMhkGibeFWAn39icIt1kpNXOM5VRg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言在上一篇文章LLM训练指南：Token及模型参数准备中，我们详细探讨了如何为预训练模型确定合适的大小和数据集规模，从而提高模型的性能表现。在本文中，我们将在前文的基础上，讨论如何在给定的参数量和训</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440887&amp;idx=2&amp;sn=c35fbdc4a2d90bdb3ef41cebf5cd681a&amp;chksm=bf6addcf0744e9ca6ab2d8e068f217cc721af041ed07795131a3ceca6c960edf694d74c224b3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 11 Feb 2024 03:23:20 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -211,166 +246,6 @@
       
 
       <pubdate>Wed, 07 Feb 2024 04:08:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[YYDS!  大模型LLM从理论到实战]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLhb7ZiaHx1ZnyFwI5c8kbHKcDEZksRGMZ3rny5X92sTsiasDIEAscd273iaZ77qUicn2DqBX1akY5iaSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2023年大西洋彼岸的OpenAi公司，首次向世界吹响「大模型主导未来世界变革」的号角。AI大模型，正在构建的颠覆力，为了更好的入局AI大模型，这次我特意复盘和整理大模型学习脉络，开了30节大模型的课</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=1&amp;sn=24dad0fe28222a3f881aa8aac4ff75d8&amp;chksm=bfdf165eb05e91d0d35c1f046fd0bdc5d95f7cd5c4f0701aed0cb78621d44b587b68b101eff8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[复刻ChatGPT语言模型系列-（三）指令学习微调]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic06XsITuUpaMrqVQTXnWOtWr67UjLib1xo5bvZQKFg6EnC4Mslf7vSPGWOjWibPBHlQgksYnUhFoGaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言今天开始我将会推出一系列关于复刻ChatGPT语言模型的博文。本系列将包括以下内容：复刻ChatGPT语言模型系列-（一）基座模型选取复刻ChatGPT语言模型系列-（二）参数高效微调复刻Chat</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=2&amp;sn=41b4827aae7b136d53ba8d39950708a1&amp;chksm=bf1feeaa3c88c1ac9cea975dc2c4fde42117e8a68cd632f161b05dea02031c68ee86ad210066&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM &amp; KBQA】FlexKBQA：一种结合LLM的KBQA框架]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGBmkdJKCkicgFU1WhzfsmiakquDyltIbjQLnMq5kEEDISRFwt9RRpiaV8OBCPgH80ibdNpEN9nHGBqo3Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言 大语言模型（LLMs）在知识库问答（KBQA）领域的应用主要集中在包括但不限于以下几个方面：直接生成答案：一些方法直接利用LLMs生成答案，而不是生成中间的程序（如SPARQL查询）。这种方法通</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=3&amp;sn=4ff0a937bc43b70cba3d73de58df3007&amp;chksm=bf9712c9f942cdfb6b1555a612349b416c144e5a9abbd46b5c9b7146eaad45fe45b5908a103f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM之RAG实战 | 如何构建一个RAG支持的聊天机器人，包括聊天、嵌入和重排序]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1Sickjjl7zah14T3S3nhLxEUGvoHBv45bPojsstCfiaxYU1nZDr6pukfXwewyHIea0jHL8CtYI2vFqSDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>      在人工智能和机器学习不断发展的环境中，聊天机器人变得越来越复杂，从简单的基于规则的回复转变为基于上下文的对话。在这篇博客文章中，我们将深入研究创建一个RAG支持的聊天机器人，该聊天机器人利</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=4&amp;sn=6184042081f13191f8a11dcb81f81c33&amp;chksm=bff54cc829aedc41969200e389b32230ce1cb616c508a3b41beafc43ffe76ed15129122ba999&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GLM4 介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HIKk7OFDjoTv6mQl5EUOKicPicncVEQdJFaCOjmjItKpv9fMCERmQz5gbLygF3fAXHxXibeeWO8nOuBzHCHCMCeiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>GLM-42024年1月16日，智谱AI正式推出GLM-4新一代基座大模型，整体性能相比ChatGLM3全面提升60%，根据实际测试，GLM-4在以中文为主的应用场景中实际性能逼近GPT-4的95%，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440845&amp;idx=5&amp;sn=335738b04123fb8506c132ebf53d512b&amp;chksm=bff007dd0fdd39c44ea9a8c12b83a7896371787247211e550763fb6b16c7951398457ecff1f9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Feb 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[在华为，请假一天的代价是3700…]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6fuT3emWI5Kw8tPicUuoMKvt6zZkkrMtFlaia9eGNPfdjiaVNias3Od5FSiaMxwPqQM0yUSls0qDEv6KiaDbZHmQuBMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，一篇「在华为，请假一天的代价是3700」的帖子引发网友热议原来，在华为请假会影响每个月的奖金和年终，所以很多人都会选择拿周末的加班来调。在华为周末加班是双倍工资，请假一天相当于扣除双倍的日工资，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440830&amp;idx=1&amp;sn=826708be8664e602be502818de8ebdd3&amp;chksm=bf9ead1622f548eb7931c01907258dfc34bca45611ad7e06f25689b127056d353a9259bd37d8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 04 Feb 2024 10:38:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[复刻ChatGPT语言模型系列-（二）参数高效微调]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic0KXWTjSbKPblT2EDkES9lLtVfOk4h1kMLQSwpsTgNVd1hGBh8nAtlXTqzYjwLuWxMSfdYXicKDuYw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言今天开始我将会推出一系列关于复刻ChatGPT语言模型的博文。本系列将包括以下内容：复刻ChatGPT语言模型系列-（一）基座模型选取复刻ChatGPT语言模型系列-（二）参数高效微调复刻Chat</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440830&amp;idx=2&amp;sn=03266e804eb9b72131a1a187f1b1b6eb&amp;chksm=bf400c5346cc8b4417cb680e6c5741085d297b9c87e9c30755a306c640427fc460dfa1d3a0ea&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 04 Feb 2024 10:38:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[BGE M3-Embedding：智源最新发布的text embedding模型，多语言检索效果超过微软跟openai]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKptTaLq0mFs3ypIxIkXJERY1vlGBl0ic3QvbfE02M3Pow0ZnK9FhPaesFNibM8stMXiaLF8AN2KDiatu2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲‍‍‍‍‍‍1 简介 2 BGE M3-Embedding    2.1 训练数据构建    2.2 混合检索    2.3 训练方式3 实验4 讨论参考文献1 简介    24年的第一个月，智源</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440830&amp;idx=3&amp;sn=0e37d46c60db7472945c5ae27b17449b&amp;chksm=bf9f1fa4181c10aea13733c2f0a526e843b51301917f2a70a6921f6fb72e9c0a5e37278f68a4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 04 Feb 2024 10:38:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM之RAG实战  | 高级RAG 03：多文档RAG体系结构]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1Sickjjl7zah14T3S3nhLxEUGvLuwDsM6kQ5KaZg0HzYvm6VkSk28WQPhhic5JqyHLY6ib2gibo8MqU5Cuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>       在RAG（检索和生成）这样的框架内管理和处理多个文档有很大的挑战。关键不仅在于提取相关内容，还在于选择包含用户查询所寻求的信息的适当文档。基于用户查询对齐的多粒度特性，需要动态选择文档，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440830&amp;idx=4&amp;sn=8b2278ebacaf7bf8adea49fc18ff9982&amp;chksm=bf2030b381dc8e98c4f60108691722438c0e1f5a090992ad8a723183b22e77c71c41071355e0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 04 Feb 2024 10:38:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[vllm的SamplingParams参数]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_png/1FD1x61uYVcRrJHP52OV89EaAkIk3BJ7O3WWAaKNAGSu9iariaafobkgKnWkkVW2TQQeLkqViaTDhvibgn8knmK6Wg/300?wxtype=png&amp;wxfrom=0"/><p>vllm部署示例from vllm import LLM, SamplingParams# Sample prompts.prompts = [    "Hello, my name is",    </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440830&amp;idx=5&amp;sn=2c7b80072c084dccb9d147a70a66fe34&amp;chksm=bfbb4fcb5caaf076240467350499b2e0c7c3a64b25858ac8135097e096050aa42c5c9a0eefe3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 04 Feb 2024 10:38:22 +0000</pubdate>
       
 
     </item>
