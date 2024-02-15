@@ -30,11 +30,40 @@
 
 
 
+
     <item>
+      <title><![CDATA[ESP32微控制器教程 - 多核任务编程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztn6yxtjwhyN8Oe0bVbKNExCFkFrKDdxicibAs0qZveLDQBZ9Cgux1IcMruJhGw41AJSGpEOe6aA4Sg/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本期内容为ESP32的FreeRTOS、ESP32多核任务编程。项目预告：一个无需计算机板卡，可以多机互动的，百元左右的物联ROS底盘车ESP32多线程编程深入解析在物联网(IoT)的项目中</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588570&amp;idx=1&amp;sn=64dc06c36be3c54e2f9968a12aeec447&amp;chksm=fa598ffc21106c2ba9996441ab25ba2c208caf5b33d301507d026ed176cb1b48290cd08bc7f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 15 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ESP32微控制器教程 - 启动流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztn6yxtjwhyN8Oe0bVbKNExJY79MAXbLSsvOrECKfxrVbvIrT9dicjXppGSQFuJol02ic23rewMHp7Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、概念介绍1.1什么是单片机的启动流程单片机的启动流程指的是单片机从上电或复位后到开始执行用户代码的一系列初始化步骤。不同的单片机的启动流程有其特定的细节，但大多数单片机的启动流程都遵循一个通用的模</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588570&amp;idx=2&amp;sn=97016159e9a400c8bbbebf2c1b6e55be&amp;chksm=fa0ed54be2bed78dc787a6e216081df1521c7ef13080645e617f910c690a1d534875ced0d2ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 15 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ESP32微控制器教程 - LED PWM Controller]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztn6yxtjwhyN8Oe0bVbKNExWVf2fQZIeVCwqZ1biaibSc8ynEUmNQcPkIZsmkbZDeqmdFicrzv4x1bqQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言在微控制器编程中，PWM（脉冲宽度调制）是一种重要的技术，它可以用于模拟模拟信号，控制LED亮度，驱动电机，以及生成音频信号等。ESP32是内置了一个高级LEDC（LED PWM Controll</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588570&amp;idx=3&amp;sn=02f1c8dded25d0fdc3bcf93ab756051d&amp;chksm=fa38676c1b2020b71b32425f507272c65cba90fa3e14928615ab38588ba3b323ae532317e540&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 15 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[好课推荐：Simulink仿真入门教学]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztIZJyEUCHYOLRTlZ7BCU0SQ8pibic6ic3mke3ONM9V3VB0m84Bol2ibnCPBicaEr5nB8RStRslesPk9cw/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前言，微信公众号“古月居”后台回复“仿真控制资料”可获取相关资料课程目的伴随着现代技术的快速发展，计算机仿真，即通过建立模型并利用所见模型对实际系统进行实验研究，已经成为任何复杂系统，特别是高技术</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588545&amp;idx=1&amp;sn=2f06983ccdc8d1648b0f7f0fb0a2f299&amp;chksm=fa6a379ff77195b34585cf624054e1aba84d37ef407924eb032e632bf56e53984bb3776b2d3b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 14 Feb 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
