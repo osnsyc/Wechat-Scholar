@@ -73,61 +73,181 @@
 
 
 
-
-
-
-
-
-
-
-
     <item>
-      <title><![CDATA[大型语言模型中提示工程的系统综述：技术与应用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic23oDH0icxkfyPUt7picj0llbHiczxelDXVLZwria8m9N1pasVWTNZnicoRsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示工程已成为扩展大型语言模型（LLMs）和视觉-语言模型（VLMs）能力的不可或缺的技术。这种方法利用特定于任务的指令，即提示，以增强模型效能，而无需修改核心模型参数。与其更新模型参数，不如使用提示</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=1&amp;sn=ec695219d31c171857d32587e0d0d1ca&amp;chksm=fd3f075edaa2f9b976db38a3b8a2e530d21c946998f7460825dbfdaa940cff0b0f44a99c3e02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[大型语言模型的模型压缩与高效推理：综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1lD0Upbicxp5D5ictGu965S5AhZicHODCVzbPJvJjPkiakQG4evQjJ2MzSXJzBrzh209l2Rs6EnKLcfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于Transformer的大型语言模型取得了巨大成功。然而，在推理过程中产生的显著内存和计算成本，使得在资源受限的设备上部署大型模型变得具有挑战性。在本文中，我们从算法角度调查了大型语言模型的压缩和</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644913&amp;idx=1&amp;sn=dcde07f91f69cc122840482807c7c03b&amp;chksm=fd6c34717b776eaf89d5d37c1baeca9caaef685b8ba2d1d7b26c0829ccf9b580f47afafee02d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【博士论文】拓扑神经网络：通过高阶交互缓解图神经网络的瓶颈]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2mEtvxu4cicJaeQwoWDqGdcR0icUribXWk7Nico8Spiaic6cJF2j4pkL0Fzmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>自然现象的不可约复杂性促使图神经网络成为执行图结构数据上表示学习任务的标准模型。尽管它们捕捉局部与全局模式的能力十分出色，但与长距离和高阶依赖相关的问题为这些模型带来了相当大的挑战。本工作通过首先识别</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=2&amp;sn=c4928babf18561633f20d478af91fbcd&amp;chksm=fd01303e46c9b1ed2daadd0e92503053010e08eeda1ab5aa50214a2a5d45e6e9d66597be2c0d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[OpenAI Sora视频生成模型技术报告中英全文]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1lD0Upbicxp5D5ictGu965S5ImKib7Lv2xMlzVXmrT2LibnX3K8ibdgN5SK5X5waVOq20CreibZwACw3IQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 探索了视频数据生成模型的大规模训练。具体来说，研究人员在可变持续时间、分辨率和宽高比的视频和图像上联合训练了一个文本条件扩散模型。作者利用对视频和图像潜在代码的时空补丁进行操作的 tra</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644913&amp;idx=2&amp;sn=74f2abfc317d30dc20bb121c16e32c3f&amp;chksm=fdd58314ea05b0f230bdaf17188509caff5cd0cd895467d564556ba229a208b17bfd974baf6e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[创新战争：利用生成式人工智能的力量]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRAe9hZumHiaV74RMfJKS5Iicpz5A0Yn1we2HiazpLoOfORrjDAIdYc01wGgR9Jzg273Eia7xvSoTVODQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能驱动的战争：生成式人工智能的前景人工智能在军事行动中的应用正在改变战争。生成式人工智能（Gen-Generation AI）是一种在战场上特别有前途的新兴人工智能能力。生成式 AI 利用算法通</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=3&amp;sn=3365405a1d59b131b2f72501f15b6633&amp;chksm=fd22b26c8c9943542b3c137dead28ff097d4974b86624b6b090bb31f3d2287489c02415e88c4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【ETHZ博士论文】增强现实中3D场景的重建、理解与编辑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1lD0Upbicxp5D5ictGu965S5xgllgUPJ6eEBaM3oBR1fQ77Alhla7ewOHxq7ZIR9VXpTIjdunHsrpg/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们正处于一个新技术时代的边缘，技术无缝地融入我们的日常生活。进入这个勇敢的新世界需要始终在线的人工智能和增强现实的融合。然而，我们仍然需要克服许多挑战才能实现这一愿景。这篇论文解决了仍然存在的三个关</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644913&amp;idx=3&amp;sn=0d2a9aad7b5834d50583928d0e30a252&amp;chksm=fd99ddff6c62a587191fc951931a9a943d9363ce10a828163b2b6742fc843dbd667275403e81&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[因果学习在可信赖推荐系统中的应用综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2qzXs7WzZSfYLpOj2PiaGyX5w4ceJ0r0KxLASXCuxichWSMb5eg6dIjicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>推荐系统（RS）已显著推进了在线内容发现和个性化决策制定。然而，RS中出现的脆弱性促使人们转向可信赖推荐系统（TRS）。尽管TRS取得了许多进展，但大多数研究侧重于数据相关性，而忽视了推荐中的基本因果</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=4&amp;sn=a39afe1787e33a1a4e1b6cb5c0c47657&amp;chksm=fded31e90620c1ece96057d009395dea53d64fea5b36e68f322357c316dca0d3a6f949663559&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【WWW2024】博弈论式反事实解释图神经网络]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1lD0Upbicxp5D5ictGu965S5RP7jDBoAARlPRowOjuSojn7sSeROLBwzO3Ff4jIrLLPwiccBSjAlQnA/300?wxtype=jpeg&amp;wxfrom=0"/><p>图神经网络（GNNs）已成为复杂网络中节点分类任务的强大工具。然而，它们的决策过程对用户来说仍是一个黑盒，这使得理解它们预测背后的推理变得具有挑战性。反事实解释（CFE）在增强机器学习模型的可解释性方</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644913&amp;idx=4&amp;sn=9d08822615edce90e560d1764ec88c1f&amp;chksm=fdaa2797873c596abadd65c03d7c29a546261a23595f55348e6d0fdb5e9c58ef147e60ec6510&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[因果学习在可信赖推荐系统中的应用综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2lbTia20zPuiaSULrogHLrV3roLNjX2V25UGqMqyemY6bX6LbCZMmnxdA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大型语言模型（LLMs）中的幻觉总被视为局限。然而，它们也可能成为创造力的来源吗？本综述探索了这种可能性，暗示幻觉可能通过培养创造力促进LLM的应用。本综述首先回顾了幻觉的分类及其对LLM在关键应用</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=5&amp;sn=ce1065c681b21dcc81a7a5cbf839d9bd&amp;chksm=fd435a43d0ffb22fec59dd00067c4b07d1aa1a4c3fcd5d0ab6a4a1349921d5e72cb61f6da6ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[工业供应链数字化白皮书]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2IWYyH71ocg9ZiaeboFDGLnVty4M8q1qPAB0lRaFN49MjBxZic6uxyfYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，全球供应链碎片化程度进一步加剧，制造企业频繁遇到材料短缺、生产中断、物流延误等问题，扰乱了企业正常生产秩序。当下，高效稳定的供应链体系对企业愈发重要，能使企业更有效配置产业资源，保持领先地位，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644913&amp;idx=5&amp;sn=f6705a572f11acb28fb85a0b6fbeaed3&amp;chksm=fddae830d61d970d17dccfdef6379a3b93896e67418854fcd432e9c629af028a1c477853feed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【WWW2024】使用图神经网络的消歧节点分类]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2mBpK5LA2KwOOnuKqsgRrhUicBdsDrdiaJNbzFzcFxE2FCGRI1VWTyNPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>图神经网络（GNNs）在各个领域的图结构数据学习中展示了显著的成功。尽管取得了巨大成功，现有工作经常忽视一个关键挑战，即消息传播的学习能否有效地泛化到代表性不足的图区域。这些少数区域经常展示不规则的同</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=6&amp;sn=c44b1013689dde0750907c61c63154ee&amp;chksm=fdbd9646973c2374ab5d01c6d4e54e5fdbccd05ebd0a2a22d6524e7e4474f990b28faab557de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[绿色数字经济：企业级低代码平台构建白皮书]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2qmsNq2ictt1zeyTSuOasCobB3xxaRFTXBcGwiaWeat35NatT7W6Hd4fQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>　　一、前言篇：数字经济与新兴科技加速融合　　（一）科技赋能数字经济　　1.新兴技术落地提速带来新机遇　　数字经济是一种新的经济形态，以数据作为核心生产要素，通过大数据、云计算、物联网、区块链、人工智</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644913&amp;idx=6&amp;sn=033fce3462628b68ac16e2ee866955f5&amp;chksm=fd4c4296952d771f737c0bf58cae1a946c04089b36fb19b084acc68954fdd672b4b4cba158dd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[无人集群试验评估现状及技术方法综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2zZ8e82gptkXia4MJotAiapn3ComKNvankseb0jjGFOV8icuuccNTa5SEQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>试验评估是促进装备系统作战能力生成和实战化应用的重要手段。无人集群依靠自组网实现复杂交互, 具备典型的智能性和涌现性, 开展无人集群试验评估研究面临着指标不清、标准模糊、技术方法落后等难题。为了进一步</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=7&amp;sn=5bed34ba6a1e1fbec0cee073dac56e0f&amp;chksm=fd0cf50390d6e3c17fd6e8b5a7e572c209c5bbd248c21585c9b58437420cb02dec96316b20ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[国防新兴技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRAe9hZumHiaV74RMfJKS5IicsxpDOPR5kPr1Rz8I4t5cbMGgSYQoWCmLhb8mduWytaNf5VSaOnmR2Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>美国《2022年国防战略》以及美国高级国防和情报官员都确定了一些新兴技术，这些技术可能在未来几年对国家安全产生颠覆性影响。这些技术包括：人工智能、致命的自主武器系统高超音速武器定向能武器生物技术和量子</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644913&amp;idx=7&amp;sn=43bccf73af7e3fe1517efeb68b04e7f4&amp;chksm=fde45622ff88060478eafd65935bde4be958557b2a34265760799f5c15549281847e74f51f28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024必看的十大</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=8&amp;sn=67980b3c4fb0843a34097615088edaeb&amp;chksm=fd1a11da5fa2f4802e08e3d3012b62a61260fe96aad19adbc49aea65be116dcbfa4a4270645a&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644913&amp;idx=8&amp;sn=85e429422ab7a1a4753c7eeac45b575f&amp;chksm=fddc48dd966165eaeb711ef3ce1072877a9b42c4574791349b85fa2fff21c9eb0056952ca132&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Feb 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大型语言模型中提示工程的系统综述：技术与应用]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic23oDH0icxkfyPUt7picj0llbHiczxelDXVLZwria8m9N1pasVWTNZnicoRsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示工程已成为扩展大型语言模型（LLMs）和视觉-语言模型（VLMs）能力的不可或缺的技术。这种方法利用特定于任务的指令，即提示，以增强模型效能，而无需修改核心模型参数。与其更新模型参数，不如使用提示</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=1&amp;sn=ec695219d31c171857d32587e0d0d1ca&amp;chksm=fd3f075edaa2f9b976db38a3b8a2e530d21c946998f7460825dbfdaa940cff0b0f44a99c3e02&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【博士论文】拓扑神经网络：通过高阶交互缓解图神经网络的瓶颈]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2mEtvxu4cicJaeQwoWDqGdcR0icUribXWk7Nico8Spiaic6cJF2j4pkL0Fzmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>自然现象的不可约复杂性促使图神经网络成为执行图结构数据上表示学习任务的标准模型。尽管它们捕捉局部与全局模式的能力十分出色，但与长距离和高阶依赖相关的问题为这些模型带来了相当大的挑战。本工作通过首先识别</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=2&amp;sn=c4928babf18561633f20d478af91fbcd&amp;chksm=fd01303e46c9b1ed2daadd0e92503053010e08eeda1ab5aa50214a2a5d45e6e9d66597be2c0d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[创新战争：利用生成式人工智能的力量]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRAe9hZumHiaV74RMfJKS5Iicpz5A0Yn1we2HiazpLoOfORrjDAIdYc01wGgR9Jzg273Eia7xvSoTVODQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能驱动的战争：生成式人工智能的前景人工智能在军事行动中的应用正在改变战争。生成式人工智能（Gen-Generation AI）是一种在战场上特别有前途的新兴人工智能能力。生成式 AI 利用算法通</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=3&amp;sn=3365405a1d59b131b2f72501f15b6633&amp;chksm=fd22b26c8c9943542b3c137dead28ff097d4974b86624b6b090bb31f3d2287489c02415e88c4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[因果学习在可信赖推荐系统中的应用综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2qzXs7WzZSfYLpOj2PiaGyX5w4ceJ0r0KxLASXCuxichWSMb5eg6dIjicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>推荐系统（RS）已显著推进了在线内容发现和个性化决策制定。然而，RS中出现的脆弱性促使人们转向可信赖推荐系统（TRS）。尽管TRS取得了许多进展，但大多数研究侧重于数据相关性，而忽视了推荐中的基本因果</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=4&amp;sn=a39afe1787e33a1a4e1b6cb5c0c47657&amp;chksm=fded31e90620c1ece96057d009395dea53d64fea5b36e68f322357c316dca0d3a6f949663559&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[因果学习在可信赖推荐系统中的应用综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2lbTia20zPuiaSULrogHLrV3roLNjX2V25UGqMqyemY6bX6LbCZMmnxdA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大型语言模型（LLMs）中的幻觉总被视为局限。然而，它们也可能成为创造力的来源吗？本综述探索了这种可能性，暗示幻觉可能通过培养创造力促进LLM的应用。本综述首先回顾了幻觉的分类及其对LLM在关键应用</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=5&amp;sn=ce1065c681b21dcc81a7a5cbf839d9bd&amp;chksm=fd435a43d0ffb22fec59dd00067c4b07d1aa1a4c3fcd5d0ab6a4a1349921d5e72cb61f6da6ab&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【WWW2024】使用图神经网络的消歧节点分类]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2mBpK5LA2KwOOnuKqsgRrhUicBdsDrdiaJNbzFzcFxE2FCGRI1VWTyNPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>图神经网络（GNNs）在各个领域的图结构数据学习中展示了显著的成功。尽管取得了巨大成功，现有工作经常忽视一个关键挑战，即消息传播的学习能否有效地泛化到代表性不足的图区域。这些少数区域经常展示不规则的同</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=6&amp;sn=c44b1013689dde0750907c61c63154ee&amp;chksm=fdbd9646973c2374ab5d01c6d4e54e5fdbccd05ebd0a2a22d6524e7e4474f990b28faab557de&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[无人集群试验评估现状及技术方法综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3PT0Sp4og9k440LvMR0bic2zZ8e82gptkXia4MJotAiapn3ComKNvankseb0jjGFOV8icuuccNTa5SEQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>试验评估是促进装备系统作战能力生成和实战化应用的重要手段。无人集群依靠自组网实现复杂交互, 具备典型的智能性和涌现性, 开展无人集群试验评估研究面临着指标不清、标准模糊、技术方法落后等难题。为了进一步</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=7&amp;sn=5bed34ba6a1e1fbec0cee073dac56e0f&amp;chksm=fd0cf50390d6e3c17fd6e8b5a7e572c209c5bbd248c21585c9b58437420cb02dec96316b20ab&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024必看的十大</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644823&amp;idx=8&amp;sn=67980b3c4fb0843a34097615088edaeb&amp;chksm=fd1a11da5fa2f4802e08e3d3012b62a61260fe96aad19adbc49aea65be116dcbfa4a4270645a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 16 Feb 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
