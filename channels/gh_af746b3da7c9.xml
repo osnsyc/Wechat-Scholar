@@ -29,29 +29,71 @@
 
 
 
-
-
-
-
-
-
     <item>
+      <title><![CDATA[Sora 和之前 Runway 那些在架构上有啥区别呢？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaPW6ic9N0QcW9o2KWBqLcWnQHTB9rCxT3Csia4aNMdWA6Onk6ibyghUjibxJlZlc3XDsaczql9RBibcCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>简单来说 Runway 是基于扩散模型（Diffusion Model）的，而 Sora 是基于 Diffusion Transformer。Runway、Stable Diffusion 是基于扩散</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=1&amp;sn=efd115b7213f320da3d625b8497e8800&amp;chksm=ea1aeed85da45da990c35f6bda41e8cacf6ee14bd4c9f9da1373bb2c00d9829dd97d44d3d794&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[挑战Transformer！Mamba的架构及实现（Pytorch）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来源：算法进阶本文详细研究这篇论文《Mamba:具有选择性状态空间的线性时间序列建模》。Mamba一经出现就在人工智能界掀起波澜，被吹捧为Transformer的竞争对手。到底是什么让Mamba在拥挤</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=2&amp;sn=78cce25816bc4ccf4483b3f4c0be9b0a&amp;chksm=ea577d836bcfddd87c5a0fef8fba8f6f9b4911586c404adbf41f554f8b9986478bc0f7a378c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[未来数据和模型应该是什么样的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>作者：王junjie，清华大学RA整理：青稞AI回顾LLM大语言模型（Large Language Model，LLM）在2022年到2023年发展的如火如荼，有3个点让这玩意从科研走向生活：• 基于</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=3&amp;sn=5f78ea4d2bf146613c0e117eb17cf0f8&amp;chksm=eacfa7665c5ac773d4b5477b612f3d59fb2604ae6a368324fdc84dfd77eff4762055149c0179&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[超全合集！467篇医学图像论文PDF分享]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5mUr2jjo0gpBpSDz4S145Lb8BIgdvIrVBUqrznCUUa27sx0mtbic6na0YCAeKCNcsAZG71nnGCTlETMdicRZJxsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新的《医疗大数据和人工智能产业报告》中显示，人工智能医学图像已经走到行业最前端，成为人工智能交叉领域中最有热度的方向之一。针对所有人工智能医学图像的同学们，我打造了16节医学图像系列课程。涵盖基础课</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525768&amp;idx=1&amp;sn=2eda83ef80b2f2386bc8bf5b5145edcf&amp;chksm=ea86e7babec4b407ae20cf27917442d6cb1c5d2ad450283ee61b0bcfc6dd5717a0cdd71215be&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 09 Feb 2024 07:39:23 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[人人都能看懂的PPO原理与源码解读]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMAFJTU4OcjZgBQI9a5Dkv1s5Dwr4OMibFIuMickmbuvUA6dPlHysEzvassgyHBOJkib736MTUPOZctg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记大家好，最近我又读了读RLHF的相关paper和一些开源实践，有了一些心得体会，整理成这篇文章。过去在RLHF的初学阶段，有一个问题最直接地困惑着我：如何在NLP语境下理解强化学习的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525768&amp;idx=2&amp;sn=4bbde2f81780a9205faaa238bd69b78a&amp;chksm=eaafbe383aa34e1a1042263a5872e75ec8006468342a2dc958bfd2c0cfd0797ebc173fd4562c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 09 Feb 2024 07:39:23 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[如何提高LLMs的文本表征(Text Embedding)能力?]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kibpHkd4Qiayy74qkxsHJhNjbuxSmOtLLwxvibY9BzS6IZFwZ6tia2ibaicG6QicRsRGypfOkfK5pIY5Hnw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：NLP工作站写在前面目前，大模型落地的可靠方案还是以RAG（retrieval-augmented-generation，检索增强生成）为主，那么检索在大模型落地中就起着重要的作用。而稠密检索可</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525768&amp;idx=3&amp;sn=645cfb934171f6e9a92a2186b2b0e3fa&amp;chksm=ea68e8d957f1d5f549a244d48f3eef1b9479d3611706d218f686ea2830b66726520175bcfc35&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 09 Feb 2024 07:39:23 +0000</pubdate>
+      
+
     </item>
     <item>
       

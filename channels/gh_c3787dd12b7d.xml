@@ -35,11 +35,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[如何实现跨不同ROS系统的通信]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuRuXYffzyR38ib5ibFyAJmarPZD0f6ACiaGYmYXK9icP0SgopibDAq9oREIH2LD3BxEUT01sd1EKfj8PQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当涉及到在机器人操作系统（ROS）环境中的通信时，标准做法通常是在同一个ROS网络内通过话题和服务进行。但在某些特定情况下，比如当你有两个分布在不同网络中的ROS系统时，标准的通信方法可能不太适用。此</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588623&amp;idx=1&amp;sn=14820ddb1041c7a263d08eec90fe5cbd&amp;chksm=fae380a35bd34417ede2a1c5135d92177b169ff04b2fae89fda3446dfe91869530dc16ab6fc5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 18 Feb 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Python环境功能介绍]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsepoTQeIbmbUJdfbBunMiaJMD1phHUia66ibIibpVf1nG7XLZjM6GOcHISG9iciaqvTvdwS4RqpvybggoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本文详细介绍了Python环境的结构、python虚拟环境基础用法，以及python中的环境&amp;依赖管理。0.什么是Python环境Python环境是指一个特定的设置，其中包含了运行Pytho</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588610&amp;idx=1&amp;sn=ddfb9bfc60587e0c3da6de7353d8dd8a&amp;chksm=fa795badc7a8674693c4fa45646f62362eac44697a2a56ba7026a212311d4d9e5f42f138692b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 17 Feb 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
