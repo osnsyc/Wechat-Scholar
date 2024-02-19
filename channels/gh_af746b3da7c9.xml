@@ -29,23 +29,74 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[如何在小公司做大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaGoet30xtAVXSHKrbSgM7XIPw24sEGpGVpWxd6fyf7lIoMa6GcIG2zib4XE8NSd2uEm7AVssvsIeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在小公司做大模型，这个事情是可以的。笔者在小公司，做了一年多的大模型。先列一下成绩单：开源了目前业界可能是分类较完整（50类）、数量较大（1100+万）的SFT数据集：匠数科技大模型sft数据集[1]</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525806&amp;idx=1&amp;sn=3759aae50043a16a39a0fc27443fc5d2&amp;chksm=eab82c7a04283af3e9aaf6ecebd4252a7a44d6f0ce35dde968d52dffffe98692cec64ff6320d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 19 Feb 2024 10:22:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解大模型计算加速系列：Flash Attention V2，从原理到并行计算]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来自：大猿搬砖简记大家好，这就为您献上不知鸽了多久的Flash Attention V2原理解读。在V1的讲解中，我们通过详细的图解和公式推导，一起学习了Flash Attention的整体运作流程。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525806&amp;idx=2&amp;sn=95fc7849fc57399d1b668c32b844f7e6&amp;chksm=ead96adca2a6beb417df7f01896baa02d07aad54bebc913ee9c93030200da988dadd6f670a3f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 19 Feb 2024 10:22:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[12个RAG常见痛点及解决方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来源：DeepHub IMBA本文探讨了在开发RAG管道过程中的12个痛点(其中7个来自论文，另外5个来自我们的总结)，并针对这些痛点提出了相应的解决方案。Barnett等人的论文《Seven Fai</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525806&amp;idx=3&amp;sn=184fd259f253772a01252d87e3bb01c0&amp;chksm=ea2a85397d7150f2464cba649b3e454dc6bd24520a5df3a80f53b99062a5d83d485e6fef07cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 19 Feb 2024 10:22:34 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Sora 和之前 Runway 那些在架构上有啥区别呢？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaPW6ic9N0QcW9o2KWBqLcWnQHTB9rCxT3Csia4aNMdWA6Onk6ibyghUjibxJlZlc3XDsaczql9RBibcCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>简单来说 Runway 是基于扩散模型（Diffusion Model）的，而 Sora 是基于 Diffusion Transformer。Runway、Stable Diffusion 是基于扩散</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=1&amp;sn=efd115b7213f320da3d625b8497e8800&amp;chksm=ea1aeed85da45da990c35f6bda41e8cacf6ee14bd4c9f9da1373bb2c00d9829dd97d44d3d794&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[挑战Transformer！Mamba的架构及实现（Pytorch）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来源：算法进阶本文详细研究这篇论文《Mamba:具有选择性状态空间的线性时间序列建模》。Mamba一经出现就在人工智能界掀起波澜，被吹捧为Transformer的竞争对手。到底是什么让Mamba在拥挤</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=2&amp;sn=78cce25816bc4ccf4483b3f4c0be9b0a&amp;chksm=ea577d836bcfddd87c5a0fef8fba8f6f9b4911586c404adbf41f554f8b9986478bc0f7a378c7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[未来数据和模型应该是什么样的？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>作者：王junjie，清华大学RA整理：青稞AI回顾LLM大语言模型（Large Language Model，LLM）在2022年到2023年发展的如火如荼，有3个点让这玩意从科研走向生活：• 基于</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=3&amp;sn=5f78ea4d2bf146613c0e117eb17cf0f8&amp;chksm=eacfa7665c5ac773d4b5477b612f3d59fb2604ae6a368324fdc84dfd77eff4762055149c0179&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
+      
+
     </item>
     <item>
       
