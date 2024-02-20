@@ -74,52 +74,180 @@
 
 
     <item>
-      <title><![CDATA[大模型如何统一生成和嵌入？最新《生成式表示指令微调》论文详细解答]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zwLKKKJjkpBnDhWlKzxwgcMYXiaiaWsL8ricvFedcibuSR00d7CoRQCiayOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>所有基于文本的语言问题都可以归结为生成任务或嵌入任务。当前模型只在其中一项上表现良好。我们引入了生成式表征指令调整（Generative Representational Instruction Tu</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=1&amp;sn=260b01febd65b5e3cca2afeb356d69cf&amp;chksm=fd6c2bcbf3fd0d445bda9dc58e47ee00824d27a1ab34d72610b5777deea14d2f94b1a29c8991&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[大型语言模型在预测和异常检测中的应用综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1NSWZbE31lDOsWGjicTDxUQEvY6bPelRl0iaOlz2MgQKmroDhjmBp1tBwn8FrPkPxCBOia13qTDoHww/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇系统性文献综述全面检视了大型语言模型（LLMs）在预测和异常检测中的应用，突出了当前研究的现状、固有挑战和未来的潜在方向。LLMs在解析和分析大规模数据集以识别模式、预测未来事件和检测各个领域中的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645047&amp;idx=1&amp;sn=a88ed687f667acdddaaf83c7df10e21a&amp;chksm=fd8bbd766d82e75e3226ded9aefe6cea812f2855fcac0a8ad79b984cf55c6f3e6ac2f87f8580&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【阿姆斯特丹博士论文】神经网络表示中的结构约束，125页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zicxLJ8JssowYdyhKAgm7ovnM3xibjVu3XDKTOObcn2uibc0fGGsK9SO5Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文探讨了对神经网络表示的结构性约束，作为在神经网络中编码先验知识的一种方式。神经网络已经证明具有处理感知数据的卓越能力，通过映射感知实体并预测缺失或未来信息。尽管它们在建模方面表现出色，但神经网</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=2&amp;sn=e39607c9c80641568cc478b2a00b92d4&amp;chksm=fdad9c4a0cc8126a1ae2f476625be7fde928e170d402b73ff81aacdb537172af4eb0c3bb60c2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【ETHZ博士论文】机器学习系统的概率鲁棒性保证，312页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1NSWZbE31lDOsWGjicTDxUQFBqLx5gGFr18MKbZTPfzYib1caAuns69vyw4B9uhAsx7RKF3caicklvw/300?wxtype=jpeg&amp;wxfrom=0"/><p>广泛采用的机器学习（ML）系统开启了一个前所未有的机遇时代，转变了行业、医疗保健和整个社会。然而，与这些机遇并存的是，ML面临着需要全面理解并充分解决的重大挑战。ML系统的内在复杂性使它们容易受到各个</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645047&amp;idx=2&amp;sn=074980623183c131b472f198ee679afa&amp;chksm=fde2404a7bccf11c8953b1a5ae4317655e87d28b75583d5b3bc4d5b8b5d2a7f9d94868287bc1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[中国首部《脑机接口研究伦理指引》公布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zicBJrBwjOfdqdXK6yibysECqZ4x8vqcHcO7YJHN3iazn4ELQIcnPrKLcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：科学技术部 时间：2024-02-18 14:22:48 作者：　　日前，中国科学技术部在官方网站发布《脑机接口研究伦理指引》（以下简称“《指引》”），以供相关科研机构和人员参考。这是中国首次专</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=3&amp;sn=07dd1adf0aa362ebfcbe4bac7d53adc1&amp;chksm=fdf95a245c1d4cb1646e62bdcf6eae70c6ceaa34c0017b2b5ec8d2b88f9c32c0c2c79ee66890&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【2024新书】强化学习中利用环境可配置性，377页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1NSWZbE31lDOsWGjicTDxUQiaTvDp48qbvGABdWUozXRUI3wqnPxCZz0XF9dibPP4GgWBYtrYch09ibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在近几十年中，强化学习（RL）已经成为解决复杂控制任务的有效方法。在通常使用的马尔可夫决策过程（MDP）框架中，环境被假定为一个固定的实体，无法从外部进行修改。然而，在许多实际场景中，环境可以在一定范</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645047&amp;idx=3&amp;sn=ab758fc2f12024fd9e76bc128aadb780&amp;chksm=fd048d102ac810d9b055cc1201126883f4e29f59c21cf5f2cdc3917de0fcb0cbfc08ff3d4714&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[美陆军：重新构想指挥与控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicR1KkbuWUticR1BDOhzrb5icHgpDjo5U4p0JFMI4ia10ibJppTicUypAA1Wtia8kXOA0sFvQ0GibYN1lx1bA/300?wxtype=jpeg&amp;wxfrom=0"/><p>未来战争要求指挥与控制（C2）决策在更加复杂、快节奏、结构混乱和苛刻的条件下进行。拒绝、降级、间歇和限制（DDIL）通信等作战挑战，以及需要考虑许多数据流（可能跨越多个作战领域），将使指挥控制变得更加</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=4&amp;sn=645e6d3cdc4f3d738f1b2413c6b5f547&amp;chksm=fdc61f6023ecb9438c0f49eface3d9f291fc39980f83627d442d49bda7fc3f2e691e0edfeb40&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[OpenAI发布文生视频模型Sora，系统报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1NSWZbE31lDOsWGjicTDxUQoWuQBet7bcRawCdqZpZRflDWzXDRhuWQwDIiaUhd2rV6eO2pNMvicTvA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Sora问世，视频创作领域迎来“iPhone时刻”。2023年2月15日，OpenAI发布视频生成大模型Sora，通过文本指令，Sora可以直接输出长达60秒的高清视频，包含高度写实的背景、复杂的多角</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645047&amp;idx=4&amp;sn=8cd551a85ce039e15477a25151aacb85&amp;chksm=fdb1cd1a563e6c033e214e12a2e9485874b65cf61e0225600d79fa41c3006b66e27ab371d619&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[OpenAI Sora核心技术，被曝缝合自DeepMind和谢赛宁论文？机器模拟人类世界迈出第一步]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2cFPRz9l9dRmyJhYMVw6OY3tibOYhoARt9KSGBdYvyY8ttz12yMwTMib97Ggo8AeN9qtOW5GU886Rw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部【新智元导读】为何Sora会掀起滔天巨浪？Sora的技术，就是机器模拟我们世界的下一步。而且今天有人扒出，Sora创新的核心秘密时空Patches，竟是来自谷歌DeepM</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=5&amp;sn=f1155fa195a527b5c958f3578b54774e&amp;chksm=fd026c6cff93da4486bc89c333eb4490bd0bfe4ba1c0bd70e60c9df4d1897e6e299d702dc52d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[推进战争：面向集成和网络化多域能力的联合全域指挥与控制（JADC2）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQYMYl4KCI3gAMuOzCjbzQHbevC3pHU0XDSjibflWxfhSiaMUHrG611nx1ibTsTGTRuYOrbuqdb8wulQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍了美军的联合全域指挥与控制（JADC2）的关键组成部分、优势和挑战，以及推动其实施的战略和技术。未来战争正在迅速演变，技术的进步和拥有反介入/区域拒止（A2/AD）能力的复杂对手塑造了未来战争</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645047&amp;idx=5&amp;sn=fe9a456417dc5e4a4b907f073a1d5531&amp;chksm=fdf4708de45cf0e1a104994bddfeede3a232a9d9cf186baeb3f41950306d053952641a329a49&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Gemini 1.5突然发布，最新技术报告！总体上性能暴增，最惊艳的是支持100万Token窗口！58页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zkjZBgzS5LKX1Cf5C6QWlGF8wQcrCqHWYdxPqLNFmpHBKO0vh4xrAicA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这次的发布非常突然，并且距离1.0的正式发布，甚至不到3个月！整体模型性能大幅增强，并且支持100万token上下文窗口，为目前所有大模型中最长的存在！感兴趣的话下载原版或翻译版查看哦！这则技术报告比</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=6&amp;sn=6c5a7828d9f840c596c4b598ac8e02f6&amp;chksm=fd50fac924ec6f13fb5f20aede9af00c7e0d8865fc55c5bd19b9edcb06835b1a2830654ad19e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[解密Sora 13人团队：北大校友在内3名华人，应届博士带着21岁天才少年]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2rMBo26bQUQYhQrSGtlbRBRPQQVjXP070xybpRiaYDqEfqzux9Wwb5eKX3ZV0MzP0kVlVsUlVpIMA/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部【新智元导读】Sora团队，除了由伯克利应届生带队，有多名LeCun学生参与。其中还有包括北大校友在内的3位华人研究员，以及20岁就加入OpenAI的天才工程师。Open</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645047&amp;idx=6&amp;sn=d33eb640e0b8059c87389db89e2b64ae&amp;chksm=fdba3efbaadac3976b1c5393f2b72dff5714dd5bad1dba97eb9e85b04a7be71d639510c28faa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[美国空军先进作战管理系统透析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zqGW4spjjwkPrCJz8dKYeiboHbbx8qYamkCpGNee3g1BpicB1GgBQhJFw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在美军“联合全域作战”最顶层作战概念背景下应运而生的先进作战管理系统（Advanced Battle Management System，ABMS），是美国空军落实国防部发展联合全域指挥控制（Join</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=7&amp;sn=254d7847a997fa6ddec843737e5de6d5&amp;chksm=fd5983ff46d47eac294afee47d935a89e0888e935da1bace778cba9dcea3f1915ec17d9ddbd2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[结构保持图transformer综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1NSWZbE31lDOsWGjicTDxUQJ7AiagEMXygP7BYkicNEAp8f1ibqElLPgzCJJ1PCDWytqnPT8a7jVv8Yw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer架构在自然语言处理和计算机视觉等多个领域展现了显著的成功。当涉及到图学习时，transformer不仅需要捕捉节点对之间的交互，还需要保持揭示它们之间潜在关系和邻近性的图结构，显</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645047&amp;idx=7&amp;sn=c17f5ba324ea4bd9ba76349fc31b406b&amp;chksm=fd674bb29166a2914c1a7986d180d5dac84f3a2e5c9a68abc86beaaff514edb9af3d6368eaa6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024必看的十大</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=8&amp;sn=f01a18a480ad35977de954b4ceb50b76&amp;chksm=fdd8958aace3c9d4f7a5529622dbdf1b8ddecc8d35c1acb5293e6cdcb1d11a733beec811672a&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645047&amp;idx=8&amp;sn=3e8050eee851d26d5045e3460e14c13d&amp;chksm=fd1f42e90996721273512bcbe7349d08040d216a7227fcec646da3f992592d6761d36d8e862f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大模型如何统一生成和嵌入？最新《生成式表示指令微调》论文详细解答]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zwLKKKJjkpBnDhWlKzxwgcMYXiaiaWsL8ricvFedcibuSR00d7CoRQCiayOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>所有基于文本的语言问题都可以归结为生成任务或嵌入任务。当前模型只在其中一项上表现良好。我们引入了生成式表征指令调整（Generative Representational Instruction Tu</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=1&amp;sn=260b01febd65b5e3cca2afeb356d69cf&amp;chksm=fd6c2bcbf3fd0d445bda9dc58e47ee00824d27a1ab34d72610b5777deea14d2f94b1a29c8991&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【阿姆斯特丹博士论文】神经网络表示中的结构约束，125页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zicxLJ8JssowYdyhKAgm7ovnM3xibjVu3XDKTOObcn2uibc0fGGsK9SO5Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文探讨了对神经网络表示的结构性约束，作为在神经网络中编码先验知识的一种方式。神经网络已经证明具有处理感知数据的卓越能力，通过映射感知实体并预测缺失或未来信息。尽管它们在建模方面表现出色，但神经网</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=2&amp;sn=e39607c9c80641568cc478b2a00b92d4&amp;chksm=fdad9c4a0cc8126a1ae2f476625be7fde928e170d402b73ff81aacdb537172af4eb0c3bb60c2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[中国首部《脑机接口研究伦理指引》公布]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zicBJrBwjOfdqdXK6yibysECqZ4x8vqcHcO7YJHN3iazn4ELQIcnPrKLcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：科学技术部 时间：2024-02-18 14:22:48 作者：　　日前，中国科学技术部在官方网站发布《脑机接口研究伦理指引》（以下简称“《指引》”），以供相关科研机构和人员参考。这是中国首次专</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=3&amp;sn=07dd1adf0aa362ebfcbe4bac7d53adc1&amp;chksm=fdf95a245c1d4cb1646e62bdcf6eae70c6ceaa34c0017b2b5ec8d2b88f9c32c0c2c79ee66890&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[美陆军：重新构想指挥与控制]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicR1KkbuWUticR1BDOhzrb5icHgpDjo5U4p0JFMI4ia10ibJppTicUypAA1Wtia8kXOA0sFvQ0GibYN1lx1bA/300?wxtype=jpeg&amp;wxfrom=0"/><p>未来战争要求指挥与控制（C2）决策在更加复杂、快节奏、结构混乱和苛刻的条件下进行。拒绝、降级、间歇和限制（DDIL）通信等作战挑战，以及需要考虑许多数据流（可能跨越多个作战领域），将使指挥控制变得更加</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=4&amp;sn=645e6d3cdc4f3d738f1b2413c6b5f547&amp;chksm=fdc61f6023ecb9438c0f49eface3d9f291fc39980f83627d442d49bda7fc3f2e691e0edfeb40&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[OpenAI Sora核心技术，被曝缝合自DeepMind和谢赛宁论文？机器模拟人类世界迈出第一步]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2cFPRz9l9dRmyJhYMVw6OY3tibOYhoARt9KSGBdYvyY8ttz12yMwTMib97Ggo8AeN9qtOW5GU886Rw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部【新智元导读】为何Sora会掀起滔天巨浪？Sora的技术，就是机器模拟我们世界的下一步。而且今天有人扒出，Sora创新的核心秘密时空Patches，竟是来自谷歌DeepM</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=5&amp;sn=f1155fa195a527b5c958f3578b54774e&amp;chksm=fd026c6cff93da4486bc89c333eb4490bd0bfe4ba1c0bd70e60c9df4d1897e6e299d702dc52d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Gemini 1.5突然发布，最新技术报告！总体上性能暴增，最惊艳的是支持100万Token窗口！58页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zkjZBgzS5LKX1Cf5C6QWlGF8wQcrCqHWYdxPqLNFmpHBKO0vh4xrAicA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这次的发布非常突然，并且距离1.0的正式发布，甚至不到3个月！整体模型性能大幅增强，并且支持100万token上下文窗口，为目前所有大模型中最长的存在！感兴趣的话下载原版或翻译版查看哦！这则技术报告比</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=6&amp;sn=6c5a7828d9f840c596c4b598ac8e02f6&amp;chksm=fd50fac924ec6f13fb5f20aede9af00c7e0d8865fc55c5bd19b9edcb06835b1a2830654ad19e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[美国空军先进作战管理系统透析]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw088P7sK9UOAk6tURicqBo5zqGW4spjjwkPrCJz8dKYeiboHbbx8qYamkCpGNee3g1BpicB1GgBQhJFw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在美军“联合全域作战”最顶层作战概念背景下应运而生的先进作战管理系统（Advanced Battle Management System，ABMS），是美国空军落实国防部发展联合全域指挥控制（Join</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=7&amp;sn=254d7847a997fa6ddec843737e5de6d5&amp;chksm=fd5983ff46d47eac294afee47d935a89e0888e935da1bace778cba9dcea3f1915ec17d9ddbd2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024必看的十大</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645004&amp;idx=8&amp;sn=f01a18a480ad35977de954b4ceb50b76&amp;chksm=fdd8958aace3c9d4f7a5529622dbdf1b8ddecc8d35c1acb5293e6cdcb1d11a733beec811672a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 19 Feb 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -758,134 +886,6 @@
       
 
       <pubdate>Wed, 14 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型如何构建和部署？微软等最新《大型语言模型》综述，详述GPT, LLaMA, PaLM技术细节，Tomas等大牛撰写]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2j9FxKaQC6QHJVsIeDnvia34rE2nJo3oo7icIjEm0klbp6c1hHsbIziatOHGEfRnZuWqSCsZV53r2kA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）自从2022年11月ChatGPT发布以来，因其在广泛的自然语言任务上的强大表现而受到了大量关注。LLMs通过在海量文本数据上训练数十亿模型参数获得了通用语言理解和生成的能力，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644700&amp;idx=1&amp;sn=df10fc52a9d987a7d0744c4fd573da4d&amp;chksm=fd12b2251f62d4d1afe1a90cdea0c314870db91baba4fefc2932559437deffe7551c884ce286&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【牛津大学博士论文】强化学习时间抽象和泛化，196页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2j9FxKaQC6QHJVsIeDnvia3xyAEQmicPoA2xMibDxOg7ccZKMx89ib85cTLjraYWGvo2C3YtLTEMRLcw/300?wxtype=jpeg&amp;wxfrom=0"/><p>代理的泛化能力——在面对以前未见过的情况和数据时表现良好——对于人工智能系统的可靠性、自主性和功能性至关重要。泛化测试检查代理在抽象方式上推理世界的能力。在强化学习问题设置中，代理持续与环境交互，可能</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644700&amp;idx=2&amp;sn=079ce5276f4f7880c57ac40c0db1c81e&amp;chksm=fd4c38e76d649c7cbdf74ef72b3352abcf0b6c249e51fe4ffaf8a2e7301e8cc3ea1689a41ffb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年AIGC+教育行业报告：生命循环，人机共育]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2j9FxKaQC6QHJVsIeDnvia3MljfrbZdwQB5NCiaXIE56jgJo8rfjNVicfeMS2ktic0PRAxlQXvvbGDlw/300?wxtype=jpeg&amp;wxfrom=0"/><p>生命循环，人机共育　　在宏观层面上，如果把人工智能看作一种生命体，AIGC+教育的内涵其实是碳基生命和硅基生命的交互和培育问题。AIGC技术是对人脑计算、思考、判断等内在能力的延伸，是人的智能在机器形</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644700&amp;idx=3&amp;sn=6699832c03e4ce27d3f6a00613b463fc&amp;chksm=fd695590ee57d66c2558469ab311fe72ce0e45a2f1f8148fa3f1578d1c0f70eb59314a4a0c58&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【WWW2024】重新思考大规模图学习中的节点式传播]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2j9FxKaQC6QHJVsIeDnvia35tBhXWzYSticmme6X8Ux2VnWYUZNybmUnqQQaG23ZWcYPWbE7cJCMaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>可扩展的图神经网络（GNNs）已经成为一种有前途的技术，它在许多大规模基于图的网络应用中展现出了卓越的预测性能和高运行效率。然而，（i）大多数可扩展的GNNs倾向于使用相同的传播规则处理所有节点，忽略</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644700&amp;idx=4&amp;sn=a899473d11afc333f9b5b602f2f5bd6a&amp;chksm=fd6ca0339435971490bdfe505660ed7f411de50d9bb26b86f1ad34b662fbdcf2cde678843a64&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[无人系统与作战能力的变革]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicR4es7R2FL558YV6I6o1lEHye0FnKPqEDIXWIO2sqFrFdVZ6bf2vGSCZQwA82v1LV4MibnRrXB6T8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>二战中，地面、空中、海上和电磁频谱的新技术推动了系统性的调整，并导致了大规模联合两栖作战、大规模战略轰炸、遥控空中攻击武器的初步试验，以及联合作战和地面空陆协作。各种新技术、动员工业界大规模生产这些技</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644700&amp;idx=5&amp;sn=368787d5cba9ab56c3d586288ed84f87&amp;chksm=fdd60b904e1092238aff7d3607d3e8a08c208708c6b2d3a093d1cb98fa346cedcea23da37ecc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【2024新书】大型语言模型安全开发者手册，250页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2j9FxKaQC6QHJVsIeDnvia3vMZ5bw07RfEHXP9VX0HkKibRFoe5XUPMYsl4oS6Y1HFWm5YKDVVYB2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）不仅在塑造人工智能（AI）的发展轨迹，它们还揭示了新一代的安全挑战。这本实用书籍将直接带你进入这些威胁的核心。作者Steve Wilson，Exabeam的首席产品官，专门关注</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644700&amp;idx=6&amp;sn=70129be76dbfff5ceaa2a169b2167846&amp;chksm=fd9f3789fb6c7492502f03585ccef810fe290807e040f3f1a483cb4b8b982083b498327be827&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型时代还不理解自注意力(Self-Attention)？这篇文章教你从头写代码实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2j9FxKaQC6QHJVsIeDnvia3T645PSdwc1CuH0Z3Bu8syKPem8fMcStWDicSeXR2YcJXymibBrUrGVXg/300?wxtype=jpeg&amp;wxfrom=0"/><p>选自sebastianraschka转载机器之心自注意力是 LLM 的一大核心组件。对大模型及相关应用开发者来说，理解自注意力非常重要。近日，Ahead of AI 杂志运营者、机器学习和 AI 研究</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644700&amp;idx=7&amp;sn=4b898ab6d54c64a69972d4fe378cb250&amp;chksm=fd5f8fd1a0f7a6f34c94f8a710995a7c8addeed2d363533b0c925089f152d19fbd42960c7228&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024必看的十大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247644700&amp;idx=8&amp;sn=190bbd80fa2002907f5a0148ea50f1ad&amp;chksm=fdc93de102b1efbc2cc9bca0daba747af67e0b4ff3d013437aa68ade34ff6c6b755a8017bffc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 06:00:00 +0000</pubdate>
       
 
     </item>
