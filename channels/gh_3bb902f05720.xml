@@ -40,29 +40,94 @@
 
 
 
+
     <item>
+      <title><![CDATA[ConvNet 还是 Transformer？除了 ImageNet 性能之外，还应该关注什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqC2tbkVU96XSfyUlXaVIjvPc4zatSiaELzhMFibic4iblhGicbHicEYEdqamwLicZmxvLMKPdvLG14BXTsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 本文对于 ConvNet 和 Vision Transformer 架构在 ImageNet 精度之外的模型行为进行了深入分析，每个架构</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673674&amp;idx=1&amp;sn=cbd86c98225ddd2c8987996011efaece&amp;chksm=ed689267db55c379a5bb66d9a0f24c1c47ba9fbef01c8c9a2b174e852c1c4166d96c03a1b749&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 21 Feb 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[全网最细致大模型MoE原理+代码手撕版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqC2tbkVU96XSfyUlXaVIjvbW1mEjWscibm4Kiak0V1CaOsibMrfwxf5FgK7qtx5r3SvrLz0ehWScgHw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨大猿搬砖简记来源丨猛猿编辑丨极市平台极市导读 本文是在阅读DeepSpeed-Megatron / Megatron / Fairscale / Tutel等开源框架代</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673674&amp;idx=2&amp;sn=a0bd7a10e4ff3827548383191922b2fd&amp;chksm=ed1811b52a2570907342d74f087e6ad92890f21d65c6e834d471d1d7ffe1323c29ad0527df56&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 21 Feb 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[视觉类表面缺陷检测项目相关技术总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqC2tbkVU96XSfyUlXaVIjvs3Eia9qLvxScfwYrVQHMjZ1Q3Idg4Wz4EoXD7KN5jZzZFfS3xKk4Lgg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨海滨来源丨GaintPandaCV编辑丨极市平台极市导读 本文不仅仅涉及的是技术，也有一些对于项目管理，需求沟通的相关的内容，不会涉及太多技术细节相关的东西，主要是一些</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673674&amp;idx=3&amp;sn=8cb4663e82fff16a5f73f8c287eab0e2&amp;chksm=ed837c44b247b948bc69ef05079cc9588fdc3366be81ab85c55284c0d4db70421132a0c81dff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 21 Feb 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI员工自曝996作息表，网友：真正的卷不需要强迫]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqC2tbkVU96XSfyUlXaVIjvAbaSTKMFaJTib4wt2wsqdickt1dvzmv7yYqvIvicju3LK4u6b9youZ2zQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨量子位来源丨量子位极市导读 思维链作者、从谷歌跳槽OpenAI的Jason Wei刚刚分享了自己在OpenAI的一天 >>加入极市CV技术交流群，走在计算机视觉的最前沿</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673674&amp;idx=4&amp;sn=9a05200a500d8209eec9364bf9c6fdc3&amp;chksm=edd91f7c4f852e3ddf74181a95632d66a8eaae7eb21966cc2472c07ab932305109adb504fa66&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 21 Feb 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[MoE 系列超详细解读 (二)｜ImageNet准确率超过90%？V-MoE：视觉领域的稀疏门控混合专家模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrjfUvtFiaEkwjuh8zicGtcPTic5et2cQ6M1huNRfibjnwYl7LZMdEiax6iaqJruiclJcwZRG2lJcqdG0mLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 本文提出了视觉领域经典的稀疏门控混合专家网络 Vision MoE (V-MoE)，它是 Vision Transformer 的稀疏版</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673539&amp;idx=1&amp;sn=4a2bdea2d7d28b84bf1e83b19b7790f5&amp;chksm=ed6f2a245a9ea223fc240b7b2fe4a2751b59c4adb38575548ac8757dbfac90e7dc582fe8d27c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NeurIPS 2023 Spotlight｜VoxDet：基于3D体素表征学习的新颖实例检测器]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrjfUvtFiaEkwjuh8zicGtcPTLfUMv7xDO0GXRXTia5hpPKKXria21ESw2N7UibGPJNLSh9TGdaQWLkGRA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨李博文来源丨将门创投编辑丨极市平台极市导读 本文提出基于3D体素表征学习的新颖实例检测器VoxDet。给定目标实例的多视图，VoxDet建立该实例的三维体素表征。在更加</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673539&amp;idx=2&amp;sn=f37c1ab8c59a62313a8cbd6e50cdd35c&amp;chksm=ed0bd8ce55f2da33b99b3145d2273e2b2cebc3da535f3f626bf5f56fab2a45fe747ef41768c3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OpenAI 视频模型 Sora 科研贡献速览]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrjfUvtFiaEkwjuh8zicGtcPTXz8kZyEIia3famte2iaEniaHeHTFzIuY7z1icw5R0eyrdEXSelobTJIeBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨天才程序员周弈帆来源丨天才程序员周弈帆编辑丨极市平台极市导读 OpenAI 发布了视频模型 Sora，Sora 是一个惊艳的视频生成模型，它以卓越的生成能力（高分辨率、</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673539&amp;idx=3&amp;sn=e0737afdab9969b664d1e48cb2d18888&amp;chksm=ed8f6a806c2aa030c22080a513036b774adfb8461bac5e2a7e6709bddd767b0195ab6ae7c35f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[比GPT-4快18倍，世界最快大模型Groq登场！每秒500 token破纪录，自研LPU是英伟达GPU 10倍]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrjfUvtFiaEkwjuh8zicGtcPTe6Or21H88fQWu7a6uBc06xdsbvTugEMYUviaxqJpcVE7ia4d6VwrgBNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 卷疯了！世界最快的大模型Groq一夜之间爆火，能够每秒输出近500个token。如此神速的响应，背后全凭自研的LPU。>>加入极市CV技术交流群，走在计</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673539&amp;idx=4&amp;sn=d6fc8bd9fe6270f5c709cd5ee856b7be&amp;chksm=ed67a3aa0b8aac33e8baccc9e8d052d6231f947217036f8a86587d0cd7d6c672b1785bee13ac&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -333,54 +398,6 @@
       
 
       <pubdate>Thu, 15 Feb 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[怒肝万字！详解 PyTorch 2.0 Dynamo 字节码，自顶向下，由浅入深]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqt2olFnGzAzwPumJCnExSDxQ6H5oYePIc9NnEIVbeqXRjfzWUlBLLdXicJZaDyckdusqVENlwoWsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨HAOCHENYE（GitHub ID)来源丨OpenMMLab编辑丨极市平台极市导读 浅入深地好好聊一聊，PyTorch 2.0 中的 Dynamo，是如何完成 Gr</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673182&amp;idx=1&amp;sn=f39801070e18fecbb20201323c06b0d1&amp;chksm=edede75aa7679864758dec72d752ceef705af175b8d185afaa2d4ca85fa70cc582ddad2fc3a6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 14 Feb 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[16个图像分类方向开源数据集资源汇总（附下载链接）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfr7Sgt8uRzqHMnhEozc2VXjTXRibhnQdwJTzibewUMt2nw5ricbVAnteBgtypcsekylHklM6ds7YrJug/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 本文汇总了16个图像分类相关的开源数据集，均附有下载链接。 >>加入极市CV技术交流群，走在计算机视觉的最前沿FruitNet水果分类/识别数据集下载</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673182&amp;idx=2&amp;sn=1b54dd6d9749d8966c56306b4aed81ff&amp;chksm=ed85c9b6b6641a203ce9ddaea2d583e7f45e43be8b7bb35d71dc87946df1e696d531b4a7da02&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 14 Feb 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[三年16篇一作，前谷歌研究科学家Yi Tay官宣新模型，21B媲美Gemini Pro、GPT-3.5]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrqKSZHGKf7bgHuchJe8uFROykOU9LC2ppYTibllrPiaKEibXfzjpyrVXXShXeT2pYJGaj73MLqJdQibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 该团队的新模型在多个基准测试中都与 Gemini Pro 、GPT-3.5 相媲美。>>加入极市CV技术交流群，走在计算机视觉的最前沿如果你经常读 A</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247673182&amp;idx=3&amp;sn=c8225211d171045cc0eca33678280378&amp;chksm=eda40513cdb267a505c8203e586c6cc0761466e4b944e7304043c41e154bb387abd979c2702a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 14 Feb 2024 14:00:00 +0000</pubdate>
       
 
     </item>
