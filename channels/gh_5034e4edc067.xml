@@ -40,35 +40,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[详解大模型RLHF过程（配代码解读）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfq1z11WrQogZvALeoNWZInG5RPbbcEl4k64vzXiaT8WVnicqZpmpd09xMbBLuKocD6Lg011CcAcgN8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨战士金@知乎来源丨https://zhuanlan.zhihu.com/p/624589622编辑丨极市平台导读 本文结合代码详细讲解奖励模型训练和强化学习训练过程，大模型的强化学习微调过程看这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440966&amp;idx=1&amp;sn=c6fc9ac1cfbf6fe17ce4b8fd06a520cd&amp;chksm=bfa512e0ac51542e8ce1b3febc3a10a4707a6fc5b9b0598f23a5efbbe8d898b8ba617915cc05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 22 Feb 2024 10:51:23 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[开源大语言模型作为 LangChain 智能体]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2oicyFtkuEMSSlKHvcyIJPW06iaNAib22pibRYkCxqLzgaMhebHuWXHG0u0lkdlCxjUPl2Rzss5FJsQxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>概要开源大型语言模型 (LLMs) 现已达到一种性能水平，使它们适合作为推动智能体工作流的推理引擎: Mixtral 甚至在我们的基准测试中 超过了 GPT-3.5，并且通过微调，其性能可以轻易的得到</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440966&amp;idx=2&amp;sn=cc6e57afa8adf35fcdbdbc4b96da6086&amp;chksm=bfb2c9b369c897993da54af9763382ffd7d3fdfe47f0fe69ba05cc2712f144eba3bd1bf2365b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 22 Feb 2024 10:51:23 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[美团大模型基座强化算法实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIqo1McIromIrfgTPjqvIBMyUzXRvhjr4FeODYWZ60Ngn1o4EpUiaRibya8IIWhYfLibOGY9ZKNwjF2Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>美团大模型基座强化算法实习生（北京）岗位职责：1.参与LLM对齐技术（SFT、RLHF等）链路整体优化，包括数据探索与增强、奖励模型优化、RL策略迭代等；2.参与百亿参数以上超大模型的训练与性能优化；</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440966&amp;idx=3&amp;sn=6707193ff93a5d13621f350dc0676c10&amp;chksm=bf9bfbb35593b51c1d73bb1cb9c27d0e67463c3db49f885f680af6d356761ff65ea6668f41c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 22 Feb 2024 10:51:23 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Sora介绍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HIKk7OFDjoTZm8onh4ZlgpMDIAMicblWIB18wFmyyo9jyN53HCsEaZ9iauBia0wmBLy2eUyfzltjauUWYbCl79BqQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>春节假期最受关注的模型就是OpenAI release的Sora了，由于目前技术原理没有开放，且仅开放给部分用户用于测试，本文仅介绍官方技术文档所发布的信息。https://openai.com/re</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440966&amp;idx=4&amp;sn=a94bc9ede577adcd21350f38bf554474&amp;chksm=bf78c678b700f7442c1cd0ea13256e2cfdbe3dd80d55bcb01f0d9509e4e256c16fb5944222da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 22 Feb 2024 10:51:23 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLMLingua｜您有一份prompt压缩20倍的方案请查收]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gTSf9kr5zrMdkcD3wFnpvWqiakyPRcsBt8qDIA2Ct1YJ3wdTCKx3QdzK7F9T6gLFe880UkWCVUg81kK8fRCicXyg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天分享微软公司的一篇文章，Title: LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Mode</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440966&amp;idx=5&amp;sn=2fc52fda105c79bb9e8450bd11e73577&amp;chksm=bfd8eca41aed9c79ce7613463eb373f8712ab04f2ae35479217391a1b9442336e4e6edce8a3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 22 Feb 2024 10:51:23 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Sora 爆火，Llama 2 高调开源，大模型微调我已经上手了！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLOcquMAiahpesNB5SXcmNBLQ7tbjia9TdrIZgC1oxmjWm7w31xtjl5TEhsBDFib01odOOug1iaGPibVKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今大模型席卷AI界，已经成为所有人工智能从业者都要入局的领域。在2024开年，我系统梳理大模型学习脉络，邀请多位高校博士、国际顶会审稿人开了30节大模型课程：包含大模型理论课程、大模型论文带读、企业</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440952&amp;idx=1&amp;sn=c481f3ecccccf3990c17220483e36cf3&amp;chksm=bfd764fce8c4e65f954a8c0aafb1a5a0ef18c370b7907ec9225981888906dee25920b45c58ec&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM之RAG实战  |  在RAG管道中实现上下文压缩和过滤]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1SicnxhugfOrlaZ6JT1ib3Dp5jKqtFrt805JyGv2PTlN2ZuOKFDrWVmBJYU5YUBQ6KnM9apebqjuTCiabw/300?wxtype=jpeg&amp;wxfrom=0"/><p>               在RAG中可能面临的最大问题之一是检索器应该检索什么内容？       实际使用中，检索到的上下文并不完全有用，可能检索处理较大的块中只有非常小的一部分与答案相关，还可能</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440952&amp;idx=2&amp;sn=6fc47573f209deff7d319738d3993f66&amp;chksm=bf6455618156a492066220fd68ab268a6699fa80ccc74243da43869d91dca69d2108baeaf7ff&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[前沿重器 | 综述-面向大模型的检索增强生成（RAG）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPzCwkfYWt5KQv86sibia4QgCnV7e4borKeUMYvq5L2xHdAQ0rnBcXOu7VSiceJsLyZHAkYR0OccDuqNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>RAG最近有一篇广受关注的综述，最近是花了不少时间给啃了个大概，里面提及的挺多文章其实都挺精彩的，甚至是让人兴奋的。我先把链接放上。论文：Retrieval-Augmented Generation </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440952&amp;idx=3&amp;sn=e4a17d1eac305db04dcd15b1b6a252cc&amp;chksm=bf82906d42665ffcb4a2f73eee2f341e268ddbfad3e5aecc79477c6b4a19f29717edb45ea2cb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[论文浅尝 | PanGu-Coder2: 利用排序反馈增强代码的大型语言模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GNpj5fw72EpuVAAkyhOMWqCls5a4Y4QCibN088LU5OHdFCYU87pFKIrqLddnS9ZCIMLBYmRwgcTiaWl1cZkmGCRQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>笔记整理：李晓彤，浙江大学硕士，研究方向为蛋白质与大模型链接：https://arxiv.org/pdf/2307.14936.pdf1. 动机作为大语言模型最有前途的应用之一，代码大语言模型（Cod</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440952&amp;idx=4&amp;sn=e0844f8e546e16ebc76d141f571da844&amp;chksm=bf572711708e32441bf847383c07530f8aa1c6e04a337788cd5eba83e231168b1b9ae06b12e7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLaMA 2 - 你所需要的一切资源]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2oTm4VSzmicmftwmV7x6qmnQBd9Ewxymaw6cOe5eYVSf4blqrlIicbUrjflSQkVGhCLgQGXbgPgp5zQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘录关于 LLaMA 2 的全部资源，如何去测试、训练并部署它。LLaMA 2 是一个由 Meta 开发的大型语言模型，是 LLaMA 1 的继任者。LLaMA 2 可通过 AWS、Hugging F</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440952&amp;idx=5&amp;sn=8c2dcc78bd184d9580d2b206854fba49&amp;chksm=bfe768ca1ce2e002bc36386634132a4d22c5e0508870aad87152d33f71d46db3edf0c1593385&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 20 Feb 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -387,54 +472,6 @@
       
 
       <pubdate>Fri, 16 Feb 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[田渊栋：2023 狂飙的大模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQf3wbEpekEhdIbhHRdWu5iaWtJDrpicl2SelDia54xq53ia3lgsqgia83h16omddW1XTEMlgEZSCS5EaTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 田渊栋，Meta FAIR研究院研究员 整理 | NewBeeNLPhttps://zhuanlan.zhihu.com/p/675287417今年是狂飙突进的一年，无论在技术上，还是在技术</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440891&amp;idx=1&amp;sn=a37ffc80830cba13cffe9810d97ea9b8&amp;chksm=bfe385275c4880bf6000d10a20b1c8c64403e2affd939c3bd9f2cbba3d4a645b8a0922f486c9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 13:51:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[国内AI大模型已近80个，哪个最有前途？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwGQ3icrndcxQY7cwPApuXFPG75sLqiaZxjh65yMrdMgp75fs1wXicQd8N8HibnseRYlOgjoU3iauibLzaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：李博杰 | 整理：包包算法笔记链接：https://www.zhihu.com/question/608763410/answer/3327836302利益无关：因为我没有在做基础大模型（做的是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440891&amp;idx=2&amp;sn=b5666dd593d81d076e4635fe49b52a78&amp;chksm=bf26b3b9e97773a32416453e94325ff649a47d39d7c61458605b2b81a7692816e293e89c561b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 13:51:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM推理部署：LLM七种推理服务框架总结]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1SickpDTlVlMWrXhZjveIfXOFVnDvgB4OYj4TxnvophGb35PDz5AcgPGM10Njic0q6938hXGRr07knNpA/300?wxtype=jpeg&amp;wxfrom=0"/><p>       自从ChatGPT发布以来，国内外的开源大模型如雨后春笋般成长，但是对于很多企业和个人从头训练预训练模型不太现实，即使微调开源大模型也捉襟见肘，那么直接部署这些开源大模型服务于企业业务将</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650440891&amp;idx=3&amp;sn=1e9e9989735aa2a0afd7fc78a4ee8600&amp;chksm=bff3c67504ce8a6f8c09a4b63be6b655b14a2e20ea2b3d081fafdfd08521094d58413cc2ec11&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 13 Feb 2024 13:51:52 +0000</pubdate>
       
 
     </item>
