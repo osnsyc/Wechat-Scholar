@@ -1,15 +1,46 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  
+
   <channel>
+    
+
     <title><![CDATA[数字化设计CAX联盟]]></title>
+    
+
     <link>https://mp.weixin.qq.com/</link>
+    
+
     <description><![CDATA[数字化设计CAX联盟公众号]]></description>
+    
+
     <language>zh-cn</language>
+    
+
+
     <item>
+      <title><![CDATA[Hyperworks/Hypermesh二次开发：节点和几何元素的拓扑关系查询]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/lX9IY9b0ADUr5Gdh9K1vXiaVia5W879dYJWBYZMd1Js2Xx6EpCz0E6N9j6YibS5qp1uAzR6HDDVkBlY2GHZmqPHicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在Hyperworks/Hypermesh中进行二次开发时，可以通过命令hm_getgeometrynodes 和 hm_getnodegeometry来查询节点和几何特征之间的依附关系。1、查找几何</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzAxNTk3MjgxMQ==&amp;mid=2247491421&amp;idx=1&amp;sn=10e2d8b679a7265491803482736602f9&amp;chksm=9a8ca6b873aa67d1cfd1f9aec5b9efb1d3e7dc80117f0ce1d1bea69e79504f4dd22e784eade2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 26 Feb 2024 09:15:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Altair Hyperworks2023详细安装教程及软件汉化设置方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/lX9IY9b0ADXRUwcDJBKMib1Bka1MS2vBu9ibRLUa8aD5HyHXqPNcia78s1T7tHIHrEicHCVxeic8lVEJbFB8KpRIL7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>安装系统：win11家庭版1、软件安装下载下来的Hyperworks 2023安装文件如下所示，包含以下6个安装程序：hwDesktop2023_win64（Hyperworks主程序）、hwSolv</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzAxNTk3MjgxMQ==&amp;mid=2247491415&amp;idx=1&amp;sn=639165d3c7aa620ce31ac92a6b1be0d4&amp;chksm=9bfabff3ac8d36e5bed8ffd848f7cec0c60078601a306cd003102ed6a9c2345bf85bcc3914ea&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 04 Dec 2023 17:15:00 +0000</pubdate>
+      
+
     </item>
   </channel>
+  
+
 </rss>
