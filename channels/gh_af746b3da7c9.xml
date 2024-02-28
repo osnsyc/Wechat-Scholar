@@ -32,23 +32,74 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[要读博，6个月发CVPR2024经验分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajrubhz2QKFnww37gz4OJ5YUN6ictSUAAgKTlADMBK1DVia8VyGytCH5ibCYksBtIVWsHQlvdLFyRQJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>建议发论文的同学不要卡着deadline来，一定要给自己的科研论文留出足够的创作时间。科研论文写作时间安排国际顶级会议科研论文如果你要发国际会议建议预留4-6个月写论文的时间：以CVPR2024为例，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525912&amp;idx=1&amp;sn=698c5aa9f0fad288e5bc1744cda793b0&amp;chksm=ea50a0b19fecf76293ffdfe470b539d43534a803009fe94ab2e2964ff7d90bc46a43a14b3ef1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 28 Feb 2024 06:48:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[全网最细致大模型MoE原理+代码手撕版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajrubhz2QKFnww37gz4OJ5YrnVL0iaT8QC3ywNRhFpicPU0Z4ibdRJ5uhibiakaiahMJof7Vs49UrOc3mXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记大家好，时隔不知多少月，LLM并行训练系列终于又有更新了（抱头防打），这一章我们来讲MoE并行，同样分为原理篇和源码篇做讲解。关于MoE并行，我体感最深的一点是，它的定义不像tp/d</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525912&amp;idx=2&amp;sn=551b18bb023e761ee7e592431692e65c&amp;chksm=eaf30d6d8079ece50462c5b451b728cc27e1b65f54ce30a1a4acbf2e94b77ff7506c77921c45&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 28 Feb 2024 06:48:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[8/8/6/3的Mamba论文，最终还是被ICLR 2024拒了，网友：悬着的心终于死了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajrubhz2QKFnww37gz4OJ5Y5WBPcgorZIJ2NCRCLe3ftACQeWt7LlE2THJDM7Zeq8nGykAPXeU7FQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：蛋酱几天前，ICLR 2024 的最终接收结果出来了。大家应该还记得，Mamba 被 ICLR 2024 大会 Decision Pending（待定）的消息在 1 月份引发过一波社</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525912&amp;idx=3&amp;sn=e5f644440073260571a941fd21987fc2&amp;chksm=ea8f42f8617fa3e1e60fee8b2c081f2219b08b64ff960956479b87cb5529f1e3eaf7e6efd561&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 28 Feb 2024 06:48:39 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Mistral Large，Le Chat来了！Mistral AI连放两个大招！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcE96ibLxK6sJp4PWrNSGhSUqduIoKK0KLrq7Xv0MiaTEC46u06Lok7oCuTRLYiac5Dibe7JGMHLV8icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2月26日，因为开源8x7B Mistral模型而名声大噪的Mistral AI推出了自家的新旗舰大语言模型 Mistral Large。在推理能力方面，可以与 GPT-4 和 Claude 2 等其</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525894&amp;idx=1&amp;sn=d5d799362789fdde505018de2017091d&amp;chksm=eab38b6da367d10e19d7893bfa62af49fadf8d810b87ed5f922c45819b63709fce8039f01a9b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 27 Feb 2024 01:07:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NICE | LLM推理加速新范式！推测解码（Speculative Decoding）最新综述]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcE96ibLxK6sJp4PWrNSGhSUcYyhfo41eBWvNNRWlof93oVnD8De5x8Y3sMjgdaHN3tHSt4BmL9fg/300?wxtype=jpeg&amp;wxfrom=0"/><p>分享主题LLM推理加速新范式！推测解码（Speculative Decoding）最新综述分享大纲大模型推理加速动机: 自回归解码分析推测解码的早期探索：“推测-验证”新范式推测解码：定义、算法及代表</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525894&amp;idx=2&amp;sn=cf9d314674ed8a278062ba8bfe80db86&amp;chksm=eac6a1918c0d3ae08cae64170879e4eeef6ee245d588546ed921e6ab927fc99f643e00031660&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 27 Feb 2024 01:07:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型微调新范式：当LoRA遇见MoE]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcE96ibLxK6sJp4PWrNSGhSDSXw4jHwdyXyL6zEXp1Oib8Yug6Tyb2HlfY7uRl1XmvqxOpaBIB7Xow/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Sam多吃青菜，北京大学计算机本硕/准大厂算法工程师声明：本文只做分享，版权归原作者，侵权私信删除！https://zhuanlan.zhihu.com/p/683637455编辑：青稞AI引言</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525894&amp;idx=3&amp;sn=9aa72ab20d472b4c483281ccc0721238&amp;chksm=ea97fdba1f3ba06f223af5eee1ee9e1e74f7798ec709a018a5a894fb763ca79e6b70575c145e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 27 Feb 2024 01:07:17 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -111,182 +162,6 @@
       
 
       <pubdate>Sat, 24 Feb 2024 10:58:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[92秒 < 75秒？E-EVAL揭露一众大模型不会做小学题目！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahr78qPATrQpua0TFBaia1kODqykpEBlGu6BhqU9vvbAMGciaCbSgv2YTMJ667l7EsXcow6jlB5WCRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本项目由中国科学院深圳先进技术研究院、中国科学技术大学、南方科技大学、联合信息共同完成。官网：https://eevalbenchmark.comGithub：https://github.com/A</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525845&amp;idx=1&amp;sn=78448cb42c3debfb358382ab320236be&amp;chksm=eab9e8e3622a0ec66ad961caf8083120477cbb3f711da4b5e493b7bf0570a152baa43c410fb3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 20 Feb 2024 10:52:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一览大模型长文本能力]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来自：算法让生活更美好前言如今的大模型被应用在各个场景，其中有些场景则需要模型能够支持处理较长文本的能力(比如8k甚至更长)，其中已经有很多开源或者闭源模型具备该能力比如GPT4、Baichuan2-</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525845&amp;idx=2&amp;sn=bb203b5a7866f4b8b403109dc3813d39&amp;chksm=ea5d77a840c3fe3ea90b6f75273c549b9ec526c687d669ba8c460f5b6c8c69d89e30bdf529dc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 20 Feb 2024 10:52:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[借助知识图谱和Llama-Index实现基于大模型的RAG-上]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来自：爱吃牛油果的璐璐幻觉是在处理大型语言模型（LLMs）时常见的问题。LLMs生成流畅连贯的文本，但经常产生不准确或不一致的信息。防止LLMs中出现幻觉的一种方法是使用外部知识源，如提供事实信息的数</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525845&amp;idx=3&amp;sn=c2c1464e62c6be7344f6c4c8f36a9e48&amp;chksm=ea7604654fadfeb55eb2f1599849eb5aac9b35ca6a868a8aa54bf80f7743693dbd7242d4c032&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 20 Feb 2024 10:52:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[借助知识图谱和Llama-Index实现基于大模型的RAG-下]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来自：爱吃牛油果的璐璐7、构建知识图谱索引#setup the service contextservice_context = ServiceContext.from_defaults(    ch</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525845&amp;idx=4&amp;sn=586c057c426263d6a2e1c52c31ff566b&amp;chksm=ead92802acdcead201f34d5d7ae74241cf6b786a560f616a5d661b302090124f1553deecc86c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 20 Feb 2024 10:52:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLaMA 2 - 你所需要的一切资源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来自：hugging Face摘录关于 LLaMA 2 的全部资源，如何去测试、训练并部署它。LLaMA 2 是一个由 Meta 开发的大型语言模型，是 LLaMA 1 的继任者。LLaMA 2 可通</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525845&amp;idx=5&amp;sn=fa3891c4fb2aed4e95ba3b4f5d7f1d17&amp;chksm=eaac081b4c32477afbf70b24a9ed9ae39657e00901cc3e56c78bd31c86407b88f434d19c81a8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 20 Feb 2024 10:52:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何在小公司做大模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaGoet30xtAVXSHKrbSgM7XIPw24sEGpGVpWxd6fyf7lIoMa6GcIG2zib4XE8NSd2uEm7AVssvsIeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在小公司做大模型，这个事情是可以的。笔者在小公司，做了一年多的大模型。先列一下成绩单：开源了目前业界可能是分类较完整（50类）、数量较大（1100+万）的SFT数据集：匠数科技大模型sft数据集[1]</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525806&amp;idx=1&amp;sn=3759aae50043a16a39a0fc27443fc5d2&amp;chksm=eab82c7a04283af3e9aaf6ecebd4252a7a44d6f0ce35dde968d52dffffe98692cec64ff6320d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 19 Feb 2024 10:22:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型计算加速系列：Flash Attention V2，从原理到并行计算]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来自：大猿搬砖简记大家好，这就为您献上不知鸽了多久的Flash Attention V2原理解读。在V1的讲解中，我们通过详细的图解和公式推导，一起学习了Flash Attention的整体运作流程。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525806&amp;idx=2&amp;sn=95fc7849fc57399d1b668c32b844f7e6&amp;chksm=ead96adca2a6beb417df7f01896baa02d07aad54bebc913ee9c93030200da988dadd6f670a3f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 19 Feb 2024 10:22:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[12个RAG常见痛点及解决方案]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来源：DeepHub IMBA本文探讨了在开发RAG管道过程中的12个痛点(其中7个来自论文，另外5个来自我们的总结)，并针对这些痛点提出了相应的解决方案。Barnett等人的论文《Seven Fai</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525806&amp;idx=3&amp;sn=184fd259f253772a01252d87e3bb01c0&amp;chksm=ea2a85397d7150f2464cba649b3e454dc6bd24520a5df3a80f53b99062a5d83d485e6fef07cc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 19 Feb 2024 10:22:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Sora 和之前 Runway 那些在架构上有啥区别呢？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaPW6ic9N0QcW9o2KWBqLcWnQHTB9rCxT3Csia4aNMdWA6Onk6ibyghUjibxJlZlc3XDsaczql9RBibcCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>简单来说 Runway 是基于扩散模型（Diffusion Model）的，而 Sora 是基于 Diffusion Transformer。Runway、Stable Diffusion 是基于扩散</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=1&amp;sn=efd115b7213f320da3d625b8497e8800&amp;chksm=ea1aeed85da45da990c35f6bda41e8cacf6ee14bd4c9f9da1373bb2c00d9829dd97d44d3d794&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[挑战Transformer！Mamba的架构及实现（Pytorch）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>来源：算法进阶本文详细研究这篇论文《Mamba:具有选择性状态空间的线性时间序列建模》。Mamba一经出现就在人工智能界掀起波澜，被吹捧为Transformer的竞争对手。到底是什么让Mamba在拥挤</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=2&amp;sn=78cce25816bc4ccf4483b3f4c0be9b0a&amp;chksm=ea577d836bcfddd87c5a0fef8fba8f6f9b4911586c404adbf41f554f8b9986478bc0f7a378c7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[未来数据和模型应该是什么样的？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>作者：王junjie，清华大学RA整理：青稞AI回顾LLM大语言模型（Large Language Model，LLM）在2022年到2023年发展的如火如荼，有3个点让这玩意从科研走向生活：• 基于</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525783&amp;idx=3&amp;sn=5f78ea4d2bf146613c0e117eb17cf0f8&amp;chksm=eacfa7665c5ac773d4b5477b612f3d59fb2604ae6a368324fdc84dfd77eff4762055149c0179&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 18 Feb 2024 10:19:20 +0000</pubdate>
       
 
     </item>
