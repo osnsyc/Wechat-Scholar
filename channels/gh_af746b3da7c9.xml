@@ -27,35 +27,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[一文带你了解sora技术背后的论文【附32篇论文合集】]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaE6d3R7iagDxRcZjYa0bia8tm37l2OEuFHFFCWkuw1GkmBDhTf61AEHH7kuZcaC0LiaoTSWGzNTDPlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024开年，OpenAI 又发布王炸级产品——Sora，这是一款可以根据文本提示词直接生成视频的工具。（文末送sora书籍）而Sora技术报告中曾引用了一项研究成果——DiT模型，出自谢赛宁与Sor</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=1&amp;sn=7fb41d4eaecec3a4a453be57a2a56a86&amp;chksm=ea30977d9ece34e1d47310b38de3a649deadfc5580795145744d22a745af81eb88f0d8bcb788&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[GNER: 生成式实体识别的新 SoTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajWbMuYPhiasg38HRaY1icgxF4O3d2jmr7nJtq8diaKRVsudcibeTJA7oibXTQ0HhZ73iatIEWbkpYkwodA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：dyy深度学习自然语言处理 分享论文：Rethinking Negative Instances for Generative Named Entity Recognition地址：https:</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=2&amp;sn=239a6f44bebb9bab3994e000b8679055&amp;chksm=eaed58988f2722034f70fa5a935936407f752f9d1b48985889c742f45f6a675b80e1366632d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 用于参数高效微调的小型集成LoRA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaE6d3R7iagDxRcZjYa0bia8tupS58YOnauVmXtzZib0KeDGPg02Ffibz6lsoz9OdStFeNkjm4EBhv1uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppMini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning摘要：参数高效微调（PEFT）</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=3&amp;sn=5402af0ecdd6967da76cb5afb061ef8a&amp;chksm=eab0e61cb27933d3573fb7c52711c7da74af0bebecfadb350375efed0984ca184b6ef34bd4b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 当缩放遇到LLM微调:数据、模型和微调方法的影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaE6d3R7iagDxRcZjYa0bia8tupS58YOnauVmXtzZib0KeDGPg02Ffibz6lsoz9OdStFeNkjm4EBhv1uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppWhen Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=4&amp;sn=586e74e51aabbb6557430ee9804dcfd7&amp;chksm=ea69a4932a37c44d003a266064c240eaa90f654c340c8c8b4d6fa0fd2ab14412cd0d50782f67&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 语言模型的最优学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaE6d3R7iagDxRcZjYa0bia8tupS58YOnauVmXtzZib0KeDGPg02Ffibz6lsoz9OdStFeNkjm4EBhv1uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppTowards Optimal Learning of Language Models摘要：这项工作研究了改善语言模型（LM）学习的一般原则，旨在减少必要的训练步骤</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=5&amp;sn=407a845804f7b0ced6e01b4d1b6bc5fd&amp;chksm=ead6288643c83994c92ecea065b33d327d743c30a2eae2aafd96e2122eb1602c295e01e6f34d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[师姐1个月攻下LLM的所有知识的捷径]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajWbMuYPhiasg38HRaY1icgxFfXQkib0sGStmWQfA0dumhPq6XxEML8TOjeTPbicGaPSrISFIX6flxvVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>正月十五过去啦，有些同学已经上班了，有些同学假期可能刚结束（羡慕）~新的一年希望大家都有新的变化，对于咱们NLPer来说，估计LLM是咱们今年必定绕不开的地方，多模态的Sora也告诉我们，学不完根本学</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526060&amp;idx=1&amp;sn=a5e2cdcd4bf0c15b0e81b7a5e8d33155&amp;chksm=eae3fe8bef35c0eeae348219df55acf1a5afd95a4e4ca2d312a173826adab683507633f6da59&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Feb 2024 10:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 1-bit LLM时代：所有LLM都在1.58Bit中]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajWbMuYPhiasg38HRaY1icgxFvs5E1BhcrN5Hv0kfx4UY8gEIic2dgwXuKv1iav3tgOpXkLMRMMAia4D5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppThe Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits摘要：最近的研究，如BitNet，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526060&amp;idx=2&amp;sn=67b21136228cf5d7ff56ecce38c09587&amp;chksm=ea380569813acb8406b5695e66858e9f961caaa87f08c9c7c9a10816d87fc3b6cb7d54aa1aba&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Feb 2024 10:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 基于例子还是基于规则：Transformers是如何进行数学运算的？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajWbMuYPhiasg38HRaY1icgxFvs5E1BhcrN5Hv0kfx4UY8gEIic2dgwXuKv1iav3tgOpXkLMRMMAia4D5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppCase-Based or Rule-Based: How Do Transformers Do the Math?摘要：尽管在各种复杂任务中表现出色，但现代大型语</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526060&amp;idx=3&amp;sn=265c9952c080b9f5b5b2cdae937afbb7&amp;chksm=ea1e9932ce1415c8c105503be657f66a80eabfce5720be165c9789a0b141a9a4d3929f46e7ea&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Feb 2024 10:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | LLM中的大规模激活]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajWbMuYPhiasg38HRaY1icgxFvs5E1BhcrN5Hv0kfx4UY8gEIic2dgwXuKv1iav3tgOpXkLMRMMAia4D5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppMassive Activations in Large Language Models摘要：我们在大型语言模型（LLM）中观察到一种经验现象-很少有激活表现出比其</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526060&amp;idx=4&amp;sn=fe28921906663fc20bb6353b2240918a&amp;chksm=ea6edb12bb1f4072535a8970f9ac0e004bc2077fef7a0e92710b947ab601abb5ccf3b1b34b79&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Feb 2024 10:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | Agent-Pro：通过策略级反思和优化学习进化]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajWbMuYPhiasg38HRaY1icgxFvs5E1BhcrN5Hv0kfx4UY8gEIic2dgwXuKv1iav3tgOpXkLMRMMAia4D5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppAgent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization摘要：大型语言模</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526060&amp;idx=5&amp;sn=106084c4db6dc5c26c6c5f43cd0a7391&amp;chksm=ea55c0c2e3cdb73bd4d1a79f023d1128d5a5ada9aa5b14c9afb6d63044afc519def8f880c295&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Feb 2024 10:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
       
