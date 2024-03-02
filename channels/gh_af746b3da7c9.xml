@@ -32,35 +32,102 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[从0开始预训练1.4b中文大模型实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagkKMfGIPj1sxLHv1ibfqzGlpeeHnYa2wN2g99173g9SibWB2ZD4HoSiay4ia0zh9UtWvtdBcrCXGp7NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Lil2J@知乎（已授权）链接：https://zhuanlan.zhihu.com/p/684946331简介这篇文章主要记录了我个人对1.4b中文大模型的实践复现过程。我选择了QWEN作为基</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526159&amp;idx=1&amp;sn=5c9de926bc62fdcac8e227e3d392827a&amp;chksm=ea81e2c8da39f61b6f986d42ffa5ebeac8ba31913715a15f1ed909ffad4f8a8a08f38b4c7c23&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 02 Mar 2024 12:25:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[合成数据(Synthetic data)微调大语言模型实战指南：背景、方案、案例、代码、评估]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagkKMfGIPj1sxLHv1ibfqzGlxfZkbNtCqicLbR5ynhTL1lbaLsWMpygnWTiaicYKDGRbJMfWE6fPbFrOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：旺知识应该微调自己的模型还是使用公开大语言服务接口(LLM API)？创建自己的模型可以完全掌控，但需要数据收集、培训和部署方面的专业知识。LLM API更易于使用，但会迫使将数据发送给第三方，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526159&amp;idx=2&amp;sn=34e9830656726ceb81f15bd3ecfca77e&amp;chksm=eabc8e812e6ce0e24c7cf50c2e7a95b1f4c80de67dbd47d469582f6e861c532903d5f931c79c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 02 Mar 2024 12:25:34 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[一文带你了解sora技术背后的论文【附32篇论文合集】]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaE6d3R7iagDxRcZjYa0bia8tm37l2OEuFHFFCWkuw1GkmBDhTf61AEHH7kuZcaC0LiaoTSWGzNTDPlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024开年，OpenAI 又发布王炸级产品——Sora，这是一款可以根据文本提示词直接生成视频的工具。（文末送sora书籍）而Sora技术报告中曾引用了一项研究成果——DiT模型，出自谢赛宁与Sor</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=1&amp;sn=7fb41d4eaecec3a4a453be57a2a56a86&amp;chksm=ea30977d9ece34e1d47310b38de3a649deadfc5580795145744d22a745af81eb88f0d8bcb788&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[GNER: 生成式实体识别的新 SoTA]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajWbMuYPhiasg38HRaY1icgxF4O3d2jmr7nJtq8diaKRVsudcibeTJA7oibXTQ0HhZ73iatIEWbkpYkwodA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：dyy深度学习自然语言处理 分享论文：Rethinking Negative Instances for Generative Named Entity Recognition地址：https:</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=2&amp;sn=239a6f44bebb9bab3994e000b8679055&amp;chksm=eaed58988f2722034f70fa5a935936407f752f9d1b48985889c742f45f6a675b80e1366632d4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 用于参数高效微调的小型集成LoRA]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaE6d3R7iagDxRcZjYa0bia8tupS58YOnauVmXtzZib0KeDGPg02Ffibz6lsoz9OdStFeNkjm4EBhv1uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppMini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning摘要：参数高效微调（PEFT）</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=3&amp;sn=5402af0ecdd6967da76cb5afb061ef8a&amp;chksm=eab0e61cb27933d3573fb7c52711c7da74af0bebecfadb350375efed0984ca184b6ef34bd4b6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 当缩放遇到LLM微调:数据、模型和微调方法的影响]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaE6d3R7iagDxRcZjYa0bia8tupS58YOnauVmXtzZib0KeDGPg02Ffibz6lsoz9OdStFeNkjm4EBhv1uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppWhen Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=4&amp;sn=586e74e51aabbb6557430ee9804dcfd7&amp;chksm=ea69a4932a37c44d003a266064c240eaa90f654c340c8c8b4d6fa0fd2ab14412cd0d50782f67&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 语言模型的最优学习]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaE6d3R7iagDxRcZjYa0bia8tupS58YOnauVmXtzZib0KeDGPg02Ffibz6lsoz9OdStFeNkjm4EBhv1uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：ppTowards Optimal Learning of Language Models摘要：这项工作研究了改善语言模型（LM）学习的一般原则，旨在减少必要的训练步骤</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526131&amp;idx=5&amp;sn=407a845804f7b0ced6e01b4d1b6bc5fd&amp;chksm=ead6288643c83994c92ecea065b33d327d743c30a2eae2aafd96e2122eb1602c295e01e6f34d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 01 Mar 2024 08:23:08 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -235,70 +302,6 @@
       
 
       <pubdate>Tue, 27 Feb 2024 01:07:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[真心建议大家冲一冲新兴领域，工资高前景好]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj46t2lQibKictb0VfRkW98mvo4xMpezWWEsc7v9HQeJpe1VMyuiaF1nDXE9lzey9xTWdq4rwfEic0hsA/640?wxtype=jpeg&amp;wxfrom=0"/><p> AI界最新成果炸裂！AI 技术已经能理解和模拟现实世界， AGI（通用人工智能）又向前迈了一大步！“苹果”替代“诺基亚”的时代又要来临了！！2年内，传统 IT 岗位将失业被重塑！5年内，医疗/量化/</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525871&amp;idx=1&amp;sn=3efd1040a3d198539cfecae2256e97eb&amp;chksm=ea1c475232753c591f8298e69e8e6cf8044efdccfce9c01a4db6093eb19889ad00cb04546071&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 24 Feb 2024 10:58:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[南大俞扬教授：什么是world models/世界模型？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj46t2lQibKictb0VfRkW98mvNhKHVcSZiagkI3AhTIkLXakq0fvuOqTCz9aQOpwbKvSibq3rSqvI2gMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：俞扬，南京大学人工智能学院教授整理：青稞AIhttps://zhuanlan.zhihu.com/p/661768957随着媒体狂炒Sora，OpenAI的介绍材料中称Sora是 “world </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525871&amp;idx=2&amp;sn=3470c6078e8b2ec337c81dfaaf2104a7&amp;chksm=ea336672f9d5c0230fa516484d4290c461b2e93e8395062405ce4a4276f55c805a282fed6b33&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 24 Feb 2024 10:58:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[补齐Transformer规划短板，田渊栋团队的Searchformer火了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj46t2lQibKictb0VfRkW98mvvGppBzXOvPvdf4jclQARAQN3WRTpFU7WyicQNGxjnsGIPTgSuN2pBeQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：PandaTransformer 强大的泛化能力再次得到证明！最近几年，基于 Transformer 的架构在多种任务上都表现卓越，吸引了世界的瞩目。使用这类架构搭配大量数据，得到的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525871&amp;idx=3&amp;sn=d966f338ee79f10fde648069de29b6c7&amp;chksm=ea4750586a4f1a1b3ab93ae2acfe8ff5665e5aa5fdb98bce71bf8bb153001a084804269efc71&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 24 Feb 2024 10:58:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[欢迎 Gemma: Google 最新推出开源大语言模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj46t2lQibKictb0VfRkW98mv61ardfadoYibM8YMiaIiatAXEwBX1pGvGnKLOu2NcBbYZdan7ZwBqtjdw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：Hugging Face今天，Google 发布了一系列最新的开放式大型语言模型 —— Gemma！Google 正在加强其对开源人工智能的支持，我们也非常有幸能够帮助全力支持这次发布，并与 H</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525871&amp;idx=4&amp;sn=cf3b1d92132081d148a38fcb73eaa037&amp;chksm=ea725047858f77e40010639c2be4e86d3c22fce5d52a5a847c343f99ffca52a3ece915fafc61&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 24 Feb 2024 10:58:27 +0000</pubdate>
       
 
     </item>
