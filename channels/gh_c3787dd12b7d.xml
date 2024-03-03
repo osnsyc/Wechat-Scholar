@@ -25,11 +25,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[《STM32 HAL库》中断相关函数详尽解析-NVIC]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvgMNALicXrgEGib35V31DkKUKSicwIzu87qQcibNR1Hz3WGuesMwol89w2choqibGiaQ0MOGicZRe2IRHXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本文以外部中断点灯为例，分析了HAL库中中断服务相关函数的使用及相互关联、底层原理一、实例实现实例简介：主函数控制LED2进行闪烁，中断控制LED0开关：我们先使用CubeMX创建项目文件：</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588900&amp;idx=1&amp;sn=ff6e4f93a64dd1c40fe0354aad0b31e3&amp;chksm=fa91285eb78dc5abcd497cbb36b8133e861288d0cfeb24deb3cd53a0011d243ca072277ea90d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 03 Mar 2024 08:58:04 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[经典文献阅读  |  CamMap(基于SLAM地图对不共视相机进行外参标定)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzusXmEfndE87kIfh5PZcn3V7SKm32b9pibiapsld15CRytvQzeqoiaiaBCvxTwQsZcF2J95qQT8X131tQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介由于多相机之间通常存在有限或无重叠的视场，因此在估计外参相机参数时面临着一定的挑战，为了解决这个问题，本文提出了CamMap：一种新颖的6自由度外参标定流程。根据三个操作规则，使一个多相机系</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588868&amp;idx=1&amp;sn=d6314c2d6cb73955d5a9ea1c1b234b19&amp;chksm=fac1a860aec611497edbab065114cd9f1ae09e6082faa89ea910a1ac3224e9d97813c8c08267&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 02 Mar 2024 04:24:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
