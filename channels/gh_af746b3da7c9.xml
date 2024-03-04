@@ -35,19 +35,43 @@
 
 
 
-
-
     <item>
-      <title><![CDATA[从0开始预训练1.4b中文大模型实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagkKMfGIPj1sxLHv1ibfqzGlpeeHnYa2wN2g99173g9SibWB2ZD4HoSiay4ia0zh9UtWvtdBcrCXGp7NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Lil2J@知乎（已授权）链接：https://zhuanlan.zhihu.com/p/684946331简介这篇文章主要记录了我个人对1.4b中文大模型的实践复现过程。我选择了QWEN作为基</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526159&amp;idx=1&amp;sn=5c9de926bc62fdcac8e227e3d392827a&amp;chksm=ea81e2c8da39f61b6f986d42ffa5ebeac8ba31913715a15f1ed909ffad4f8a8a08f38b4c7c23&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 02 Mar 2024 12:25:34 +0000</pubdate>
+      <title><![CDATA[全栈大模型微调框架LLaMA Factory：从预训练到RLHF的高效实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaSWUfBaqRzXFEf3QHaOF4jiamLIvrtv3y0b9Jh5zEW3ic3qwVzrSjgicY0Qrg2JJ5ZFe4d5GThZuRjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题全栈大模型微调框架LLaMA Factory：从预训练到RLHF的高效实现个人简介郑耀威，北京航空航天大学博士生。以第一作者在CVPR、AAAI、WWW等国际会议发表多篇论文，担任AAAI、EMN</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526170&amp;idx=1&amp;sn=b6a46827c8487e79cd30a9a4cdb8d6c4&amp;chksm=ea76e2133fbdb2a537dde5e844c1a8b9410d4ff358045c44063459baddaa6a9ba19c0ccd22ca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 15:26:05 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[合成数据(Synthetic data)微调大语言模型实战指南：背景、方案、案例、代码、评估]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagkKMfGIPj1sxLHv1ibfqzGlxfZkbNtCqicLbR5ynhTL1lbaLsWMpygnWTiaicYKDGRbJMfWE6fPbFrOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：旺知识应该微调自己的模型还是使用公开大语言服务接口(LLM API)？创建自己的模型可以完全掌控，但需要数据收集、培训和部署方面的专业知识。LLM API更易于使用，但会迫使将数据发送给第三方，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526159&amp;idx=2&amp;sn=34e9830656726ceb81f15bd3ecfca77e&amp;chksm=eabc8e812e6ce0e24c7cf50c2e7a95b1f4c80de67dbd47d469582f6e861c532903d5f931c79c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <title><![CDATA[从0开始预训练1.4b中文大模型实践]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagkKMfGIPj1sxLHv1ibfqzGlpeeHnYa2wN2g99173g9SibWB2ZD4HoSiay4ia0zh9UtWvtdBcrCXGp7NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Lil2J@知乎（已授权）链接：https://zhuanlan.zhihu.com/p/684946331简介这篇文章主要记录了我个人对1.4b中文大模型的实践复现过程。我选择了QWEN作为基</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526159&amp;idx=1&amp;sn=5c9de926bc62fdcac8e227e3d392827a&amp;chksm=ea81e2c8da39f61b6f986d42ffa5ebeac8ba31913715a15f1ed909ffad4f8a8a08f38b4c7c23&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 02 Mar 2024 12:25:34 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[合成数据(Synthetic data)微调大语言模型实战指南：背景、方案、案例、代码、评估]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagkKMfGIPj1sxLHv1ibfqzGlxfZkbNtCqicLbR5ynhTL1lbaLsWMpygnWTiaicYKDGRbJMfWE6fPbFrOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：旺知识应该微调自己的模型还是使用公开大语言服务接口(LLM API)？创建自己的模型可以完全掌控，但需要数据收集、培训和部署方面的专业知识。LLM API更易于使用，但会迫使将数据发送给第三方，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526159&amp;idx=2&amp;sn=34e9830656726ceb81f15bd3ecfca77e&amp;chksm=eabc8e812e6ce0e24c7cf50c2e7a95b1f4c80de67dbd47d469582f6e861c532903d5f931c79c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 02 Mar 2024 12:25:34 +0000</pubdate>
+      
+
     </item>
     <item>
       
