@@ -74,52 +74,180 @@
 
 
     <item>
-      <title><![CDATA[《检索增强生成在AIGC中的应用》综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXddYgSqeHcsEPL3YZibUWPUNO3Oxzv0wbopOAEj93bic3NQCo1SztYJfcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能生成内容（AIGC）的发展得益于模型算法的进步、可扩展的基础模型架构以及大量高质量数据集的可用性。尽管AIGC取得了显著的性能，但仍面临一些挑战，例如维护最新和长尾知识的困难、数据泄露的风险以</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=1&amp;sn=0141cc180b30c406916c398e1f258af4&amp;chksm=fd97284219c1c707d68003848834bc5133896149c5dc6576de5abb2cbe14640cefcd372df297&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[大模型越训练越笨？详解AI灾难性遗忘和大模型持续学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVcnwsLW0J0zN4lbvYN18jtxia0GSyhd4TVKWr3G6jejYgs2mic1UVtzRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型出来之后，模型不变，但数据量日新月异，重新训练模型的时间成本和能量花费都是不可接受的。连续学习以其快速适应能力，以及对过去数据不做高要求的优势，成为大模型时代面向变化数据的主要学习方式。我们邀请</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=1&amp;sn=24cbaf482f2b75f61b711abcfdb3c911&amp;chksm=fd26e7a40ece041dbffcb67e465c39965260e5402965f40db1fcf34c7729ee90cd59f2192ffb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【CMU博士论文】通过示范提高智能体决策对人类的透明度，149页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXdv4C1g2CAiaIlLdwBmJibtAxRxy14MliaHjfY2nj8x4yqekoOVtxT470nQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了让智能体（例如机器人）无缝融入人类社会，人类必须能够理解它们的决策过程。例如，自动驾驶汽车的决策过程必须对认证其安全的工程师、乘坐它们的乘客以及同时在道路上驾驶的附近司机清晰可见。由于智能体的决策</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=2&amp;sn=24b22a59f64bc1871994436a1cf5894b&amp;chksm=fdf33c9bdfc3cbf02d99c75c9267cd05e4dc50d39313f71eea29cf079d73f3aeb57f26860773&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【MIT博士论文】在真实世界环境中的强化学习系统的鲁棒性，292页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapza8y8vWu2siaiau89ELzLzk0wiaj0yoicK3icnElLmAEKVeAfU1SQicc1NTw/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习（RL）被认为是一个有前景的范式，用以改进现实世界中的众多决策过程，潜在地构成许多未来自主系统的核心。然而，尽管在多个领域内非常流行，文献中的概念验证数量显著大于已报道的部署数量。这主要可以归</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=2&amp;sn=d5d86220407ca81b297d179ec92be2cd&amp;chksm=fde0d5577ae67055e940cb7e1955696cda8b4add4d2fe2b805de34190bbaecd87f31967fccc1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【CVPR2024】平衡之道：扩散模型中的分布指导去偏差]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXdfuaQX5AX5Oulm7ib7amGBrvwTjib1DlnCK36mENCYclyhuLA4icYc23NA/300?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型（DMs）已经成为具有前所未有的图像生成能力的强大生成模型。这些模型广泛用于数据增强和创意应用。然而，DMs反映了训练数据集中存在的偏见。在面部图像的上下文中，这一点尤其令人关注，其中DM倾向</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=3&amp;sn=e62e1c101dbaa9f85291b16cd644ff8b&amp;chksm=fd1d0a22e20ac38222f3f5adf885a3dc88db4bc6d2f81a982b8b9cd796fe50feaf4af205526f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【CVPR2024】VastGaussian: 用于大型场景重建的巨大三维高斯]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapjLN8U16InFibou81zibREKEKIJjTpKzaezdPLS398ydRbHu9T7RxCAxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>现有基于NeRF的大场景重建方法通常在视觉质量和渲染速度上有限制。虽然最近的3D高斯Splatting在小规模和以物体为中心的场景上表现良好，但将其扩展到大场景上存在挑战，因为受到视频内存有限、优化时</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=3&amp;sn=4cf406b77b391601a359c363f419abb0&amp;chksm=fd434b8f85e3271178eb50e79b852f786bfb0148b81cefcee80d1fb9ca82eba9b62c43868776&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[从Sora看AI应用发展探索 新质生产力有望推动TMT再下一城，34页ppt]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXd6oEKxwowkibkzgozUWseibflXDTI0TAZn5ficDmkVC08xZibBhhxojzmuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Sora推出有望推动内容创作变革也是AIGC组成一部分　　2024年2月迎Sora，推动多模态热度。Sora的核心技术是基于OpenAI在自然语言处理和图像生成方面的深厚积累（从LLM的ChatGPT</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=4&amp;sn=d6c4ebfe86e06697dadc48f24fa4d37b&amp;chksm=fd4c86bdca2db20588a93da98b38754585288ad63661311198f4fbe5b0642245b22e9f7c831b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[欧洲防务量子安全通信（DISCRETION）项目]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQQlUvTibibPHJ49ic62rGd4ovCpS2pKP3rJdib9Q0gHv8MG7hIHME9t3cj6OBnOsGyhO6BbUVd0PFzgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在军事背景下，信息和通信服务在各种作战和战略场景中至关重要。这些服务依赖于安全、可靠、通常是异构和隔离的基础设施。显然，密码系统或支持密码系统的通信渠道中的漏洞会危及整个网络和各个层面，造成巨大的机构</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=4&amp;sn=bd7ba9268a684988518a061bd9534393&amp;chksm=fdd89d2f3399833fcb453c31511f3e4e222e499c2bcd70518fa090051300eb0b56bc114a8a98&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】《Java版ChatGPT》，243页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXdlQfbpI6mlnBJ2C6R1mwmKWmzrwLEU3Jx0TDA4Cc8W9bPVcoyvALy5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>拥抱软件开发的未来！《Java版ChatGPT》是Java开发人员学习如何使用ChatGPT和OpenAI API构建智能应用的完美起点。本书从基础开始，展示如何以编程方式使用ChatGPT。您将学习</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=5&amp;sn=1459b499802b194c20bee5bf480c6791&amp;chksm=fdf766186f8596b79ef8ac4b92482f034d8b1b24d1988c7460ba0b5801aacf74b51c26f8ea0f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[无人机蜂群作战任务规划研究现状与展望]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapYss6uA0yvcKibxPBR2WATbmljZmhb3UCO5TTrLrIp3Jm1nd6ibNiaCrJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>无人机具有低成本、无伤亡、操作简便、灵活可靠等作战优势，在多次局部冲突中大放异彩，而无人机蜂群是一种以大量无人机为基础节点的新型作战样式，近年来受到各军事强国的持续关注。任务规划作为无人机蜂群遂行作战</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=5&amp;sn=aa6a8e18429be687085ee1d9a5664606&amp;chksm=fd4da429d8713bb0e799f1d330ffbb41d75eb491e5c8f98f6f9f7d34a4d0520bb4d8655b2714&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[自主无人机在现代战争中的潜在威胁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQn3W0mXGfstgs2rP2A9a2iaVjgvEE4GUxzhFf6DmOGSuN18CnNNWyribhG8sicwyFUhicmJd6ib5bHIpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍了无人机在现代战争中的兴起、一些典型无人机型号特点功能、乌克兰战争中的无人机、无人机伦理考量、反无人机等。在无人机技术快速发展的推动下，现代战争领域正在经历重大变革。这种转变的核心是自主无人机</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=6&amp;sn=df89b52490c8d8ac2f2f2d6bb3c64ac7&amp;chksm=fd6428b142fc4d8fc7ce68b4e0ff84ab451aa021b3875517292d706cf0eb570de8c3a565f910&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《中国区块链创新应用发展报告（2023）》《中国区块链创新应用案例集（2023）》发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapNvYMXamaibH6njrPlE0icjLB2mVe5wJEibly3GJY9Uad6xDoxeKYZWRDg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，由中央网信办信息化发展局指导，中央网信办数据与技术保障中心牵头编制的《中国区块链创新应用发展报告（2023）》（以下简称《报告》）在国家区块链创新应用试点总结交流会上正式发布。《报告》从顶层设计</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=6&amp;sn=52b0182383975d400688dba494a8e4cf&amp;chksm=fd47d0d1ce7ccf512ce1c28f2ddc14eb2f1587ef134c6359193db20247032c4941dc54ae97b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【AAAI2024教程】多目标学习 - 基础与应用，197页ppt]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXdzZI16mhGADkbcAoW7Hl8dLuoXSXzpwiamNwTMsSMjCmgbEMXZCPbE2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 是由国际人工智能促进协会主办的年会，是人工智能领域中历史最悠久、涵盖内容最广泛的国际顶级学术会议之一，也是中国计算机学会（CCF）推荐的 A 类国际学术会议，在人工智能领域享有较高的学术声誉</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=7&amp;sn=8e3b4022dac72a2feeb37884b754673b&amp;chksm=fd60c95b0dbaaa9fc18c6284ce8df631c0d44f4196322f8e9b4219a7d8b40b0d9227d78fbf07&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[Sora的诞生对智能驾驶行业的影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapGfcr4wQiaV0iatCY8yowwibWBfCxmCV4Tb4iafzgCMKS0ondyGqiaPyBOUA/300?wxtype=jpeg&amp;wxfrom=0"/><p>■Sora是文生视频的集大成者，核心创新点在于时空编码和DiT模型。Sora是Open AI推出的首个文本生视频模型，视频生成长度、逼真度等均远超现有竞品。从技术上看，Sora的核心创新点在于时空编码</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=7&amp;sn=dbef671f8630104dd994880fae489190&amp;chksm=fd828625656416efdc1d36af4f509d94a48e8f664c1dbc3c2dc9863015f363e0eebbac342246&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=8&amp;sn=3779a17bb9a80db51dfa0601e1094288&amp;chksm=fd5b1910eeb049aeae8138605733fefb8410d3ba0570d9bd68aecb523c5c08660fa68ae51eb2&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=8&amp;sn=483610decd99ab9869d79adc8198a038&amp;chksm=fdd73356aa4e2c7b9178b04c5353599ac3dc2bcd98472a5abe87974f4000a494c0b9c0e792cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《检索增强生成在AIGC中的应用》综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXddYgSqeHcsEPL3YZibUWPUNO3Oxzv0wbopOAEj93bic3NQCo1SztYJfcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能生成内容（AIGC）的发展得益于模型算法的进步、可扩展的基础模型架构以及大量高质量数据集的可用性。尽管AIGC取得了显著的性能，但仍面临一些挑战，例如维护最新和长尾知识的困难、数据泄露的风险以</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=1&amp;sn=0141cc180b30c406916c398e1f258af4&amp;chksm=fd97284219c1c707d68003848834bc5133896149c5dc6576de5abb2cbe14640cefcd372df297&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【CMU博士论文】通过示范提高智能体决策对人类的透明度，149页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXdv4C1g2CAiaIlLdwBmJibtAxRxy14MliaHjfY2nj8x4yqekoOVtxT470nQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了让智能体（例如机器人）无缝融入人类社会，人类必须能够理解它们的决策过程。例如，自动驾驶汽车的决策过程必须对认证其安全的工程师、乘坐它们的乘客以及同时在道路上驾驶的附近司机清晰可见。由于智能体的决策</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=2&amp;sn=24b22a59f64bc1871994436a1cf5894b&amp;chksm=fdf33c9bdfc3cbf02d99c75c9267cd05e4dc50d39313f71eea29cf079d73f3aeb57f26860773&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【CVPR2024】平衡之道：扩散模型中的分布指导去偏差]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXdfuaQX5AX5Oulm7ib7amGBrvwTjib1DlnCK36mENCYclyhuLA4icYc23NA/300?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型（DMs）已经成为具有前所未有的图像生成能力的强大生成模型。这些模型广泛用于数据增强和创意应用。然而，DMs反映了训练数据集中存在的偏见。在面部图像的上下文中，这一点尤其令人关注，其中DM倾向</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=3&amp;sn=e62e1c101dbaa9f85291b16cd644ff8b&amp;chksm=fd1d0a22e20ac38222f3f5adf885a3dc88db4bc6d2f81a982b8b9cd796fe50feaf4af205526f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[从Sora看AI应用发展探索 新质生产力有望推动TMT再下一城，34页ppt]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXd6oEKxwowkibkzgozUWseibflXDTI0TAZn5ficDmkVC08xZibBhhxojzmuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Sora推出有望推动内容创作变革也是AIGC组成一部分　　2024年2月迎Sora，推动多模态热度。Sora的核心技术是基于OpenAI在自然语言处理和图像生成方面的深厚积累（从LLM的ChatGPT</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=4&amp;sn=d6c4ebfe86e06697dadc48f24fa4d37b&amp;chksm=fd4c86bdca2db20588a93da98b38754585288ad63661311198f4fbe5b0642245b22e9f7c831b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】《Java版ChatGPT》，243页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXdlQfbpI6mlnBJ2C6R1mwmKWmzrwLEU3Jx0TDA4Cc8W9bPVcoyvALy5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>拥抱软件开发的未来！《Java版ChatGPT》是Java开发人员学习如何使用ChatGPT和OpenAI API构建智能应用的完美起点。本书从基础开始，展示如何以编程方式使用ChatGPT。您将学习</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=5&amp;sn=1459b499802b194c20bee5bf480c6791&amp;chksm=fdf766186f8596b79ef8ac4b92482f034d8b1b24d1988c7460ba0b5801aacf74b51c26f8ea0f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[自主无人机在现代战争中的潜在威胁]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQn3W0mXGfstgs2rP2A9a2iaVjgvEE4GUxzhFf6DmOGSuN18CnNNWyribhG8sicwyFUhicmJd6ib5bHIpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍了无人机在现代战争中的兴起、一些典型无人机型号特点功能、乌克兰战争中的无人机、无人机伦理考量、反无人机等。在无人机技术快速发展的推动下，现代战争领域正在经历重大变革。这种转变的核心是自主无人机</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=6&amp;sn=df89b52490c8d8ac2f2f2d6bb3c64ac7&amp;chksm=fd6428b142fc4d8fc7ce68b4e0ff84ab451aa021b3875517292d706cf0eb570de8c3a565f910&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【AAAI2024教程】多目标学习 - 基础与应用，197页ppt]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw00ZUEfyABue5x3ysZ29oXdzZI16mhGADkbcAoW7Hl8dLuoXSXzpwiamNwTMsSMjCmgbEMXZCPbE2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 是由国际人工智能促进协会主办的年会，是人工智能领域中历史最悠久、涵盖内容最广泛的国际顶级学术会议之一，也是中国计算机学会（CCF）推荐的 A 类国际学术会议，在人工智能领域享有较高的学术声誉</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=7&amp;sn=8e3b4022dac72a2feeb37884b754673b&amp;chksm=fd60c95b0dbaaa9fc18c6284ce8df631c0d44f4196322f8e9b4219a7d8b40b0d9227d78fbf07&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645852&amp;idx=8&amp;sn=3779a17bb9a80db51dfa0601e1094288&amp;chksm=fd5b1910eeb049aeae8138605733fefb8410d3ba0570d9bd68aecb523c5c08660fa68ae51eb2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -758,134 +886,6 @@
       
 
       <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型如何蒸馏知识？港大等最新《大型语言模型知识蒸馏》综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1IxY5EnJFmD0zAvc0MCibDqd0UcewJwhsmMjxtfoafQzbbavMCNGpk4iaKECTLO5JrfrzB9RuRxfgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本综述深入探讨了大型语言模型（LLMs）领域内的知识蒸馏（KD）技术，突出了KD在将GPT-4等专有巨头的复杂能力转移至LLaMA和Mistral等可访问的开源模型中的关键作用。在不断演变的人工智能领</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645372&amp;idx=1&amp;sn=313f6056a2e89942e54f649e97290f27&amp;chksm=fd2ed8539d43bd74fda66c22081e4d8d7291fc89492d9372f24c27d40a1f3129a1e403533005&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【AAAI2024教程】物理信息机器学习的最新进展]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1IxY5EnJFmD0zAvc0MCibDqj5PUiakIkibtQ4Yia3uAVGC4bQIEyWFLmfTZxQxBV4zgl3lgDhHicF7WnQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 是由国际人工智能促进协会主办的年会，是人工智能领域中历史最悠久、涵盖内容最广泛的国际顶级学术会议之一，也是中国计算机学会（CCF）推荐的 A 类国际学术会议，在人工智能领域享有较高的学术声誉</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645372&amp;idx=2&amp;sn=c4a8a719c06359f5574be771b3490d4d&amp;chksm=fd776703d52c37b6735a334f379bce95be57673314e50cdebd96f2d371af6cd1e601e6721f08&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AI大模型落地终端，AIPC驱动PC行业新增长]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1IxY5EnJFmD0zAvc0MCibDqLsTNVIPPzAtTHMDSOvQ2EHhs87jx1QIheo4aiaWvFByfHiaeRbT5QmNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型最佳载体，AI PC为PC行业发展提供新动力　　AI大模型在云端运行存在数据泄露、传输延迟、运营成本越来越高等诸多问题，阻碍大模型的商业化应用，因此将AI大模型嵌入终端设备，形成混合AI架构是促</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645372&amp;idx=3&amp;sn=890e29a25203781a3d8eabd990a8a605&amp;chksm=fd1fe2d84249af4da16b9cf755b1ea37f1c55aaade3b19601a6a3754591ea81f4a7268e7a208&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【AAAI2024教程】神经网络鲁棒性的形式化：可解释性、不确定性和可干预性]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1IxY5EnJFmD0zAvc0MCibDqM6UdicuG2o0R4o4dPSXM5N2Q7EMdQYicKSiaezk2V3RKmaL91hibdibghwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 是由国际人工智能促进协会主办的年会，是人工智能领域中历史最悠久、涵盖内容最广泛的国际顶级学术会议之一，也是中国计算机学会（CCF）推荐的 A 类国际学术会议，在人工智能领域享有较高的学术声誉</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645372&amp;idx=4&amp;sn=dae4deb50e85644443cb1ca88a267a59&amp;chksm=fd258725c42cddbe2aaa4128f2954d6273d79e696883c535409d6940e5ab4db362260938e748&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[颠覆性空战中的美军协同作战飞机]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTcbklK1EuuFSLaCRX7LjuFSlvrmsXAib3tuSsl63BpiaRibIwHSj2Jfrs1UU5jpjKZ7fZchUmKCf78Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>自动驾驶和无人系统技术的进步提供了一个重要机会，可将第五代战斗机的杀伤力与旨在破坏和击败大国反空作战行动的协同作战飞机（CCA）结合起来。而且，与许多正在研发中的先进系统不同，美空军拟在本十年内开始大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645372&amp;idx=5&amp;sn=bf64c0c11ab72be14f81d089ed0ccd74&amp;chksm=fd6a514ebcda93fe5b67414172b8a164645d64ef57c79e5b3a592a716209a8800577c3e03bc7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[爆火Sora背后的技术，UC伯克利最新《扩散模型》课程视频，210页ppt]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1IxY5EnJFmD0zAvc0MCibDqbHykJX8sm6BkBqZeF76lLfHjLcIYiaBBsYUCCqo3wBmh7gibVP20RK8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近OpenAI视频生成模型Sora爆火，背后使用了扩散模型。来自UC伯克利等《扩散模型》课程详细讲述，值得关注！为了使机器具有人类的想象力，深度生成模型取得了重大进展。这些模型能创造逼真的样本，尤其</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645372&amp;idx=6&amp;sn=c28e789b3514537cdf0de9ed5a61cf43&amp;chksm=fdba479822fdc3e90f46764c15b8c75f96b5015570c444d10e2ead4d135feade077dc5460688&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【博士论文】面向边缘智能的高效微型机器学习系统，212页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1IxY5EnJFmD0zAvc0MCibDqDGlULCrmarszrxxoSEqibZwZFHayWnUWtsckYOHUfsxibibpTx8edriajQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>现代机器学习（ML）应用经常部署在云环境中，以利用集群的计算能力。然而，传统的云计算方案无法满足新兴边缘智能场景的需求，包括提供个性化模型、保护用户隐私、适应实时任务和节省资源成本。为了克服传统云计算</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645372&amp;idx=7&amp;sn=afdbc32cf6bf73c253f88682a003ee5c&amp;chksm=fddcf27409194cd35143f8eae9e5d8b1231750a4bb7c3e1ead2d4965ade5e11ade1e89a97e5b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645372&amp;idx=8&amp;sn=e760037719a69dcdb69bdabfcf4489b3&amp;chksm=fda3f1dbc2ab976d9e2d07a4ca4bc59fa4a012c57fc349db3c506bcb11d36cf8eafa3c455034&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:00:00 +0000</pubdate>
       
 
     </item>
