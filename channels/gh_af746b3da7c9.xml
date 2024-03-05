@@ -35,11 +35,52 @@
 
 
 
+
     <item>
+      <title><![CDATA[Llama 2 高调开源，大模型微调我已经上手了(附99个大模型微调模型/数据/工具)!]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xkE3qUQywQyX30WxkEtFWkXLt0V36yIicrogmYMhSvAHo8lYWlib1DicsQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近出现了一系列令人激动的开源大语言模型，如meta的LLaMA、清华的ChatGLM等。伴随大模型一起爆火的，还有大模型的微调方法。然而随着模型规模和任务数量的增加，对整个Transformer模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=1&amp;sn=47a5bf39cdc319e6c111fa59548b5d4a&amp;chksm=ea7cbc236855625f46aeb6ae5a73c2aa5a952222845ce30f639ce5de66e9a33cfad6d24f0518&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | I-LoRA：解决PEFT中的灾难性遗忘问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xk5q7V9BwibnDlv7uRR3BIibzDciaXhs0ibW42cQfnrZ5LMyxreLRQibbticNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp师姐1个月攻下LLM的所有知识的捷径Analyzing and Reducing Catastrophic Forgetting in Parameter Effi</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=2&amp;sn=c8079e53ef2770ede1c0d72ade8c1599&amp;chksm=ea65b205f307023aad09b1bed717ed43498b8e2c6ed599297f44ffcefb21df509d65075abe6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 检索是更准确的生成（RAG相关）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xk5q7V9BwibnDlv7uRR3BIibzDciaXhs0ibW42cQfnrZ5LMyxreLRQibbticNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp师姐1个月攻下LLM的所有知识的捷径Retrieval is Accurate Generation摘要：标准语言模型通过从固定、有限和独立的词汇表中选择token</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=3&amp;sn=b977d47d9c0449167171979e2b0a99ff&amp;chksm=ea34ae8538310ec8845ef0db02bdbac940eb87bc1aaaab2f52078f2985a2bf375b8ad256d956&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 持续学习会给大模型带来什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xk5q7V9BwibnDlv7uRR3BIibzDciaXhs0ibW42cQfnrZ5LMyxreLRQibbticNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp师姐1个月攻下LLM的所有知识的捷径Investigating Continual Pretraining in Large Language Models: In</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=4&amp;sn=61e268f0910bcc6dc9bb8747143d8f7d&amp;chksm=ead0923a0aa133c0f158896f6f9ad9dc124d64b19fa7ddb1f30dc281fbb3da7ceecc894bae54&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 大模型是如何处理multilingual场景的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xk5q7V9BwibnDlv7uRR3BIibzDciaXhs0ibW42cQfnrZ5LMyxreLRQibbticNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp师姐1个月攻下LLM的所有知识的捷径How do Large Language Models Handle Multilingualism?摘要：大语言模型（LLM</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=5&amp;sn=c8ef3580d71eb22fd971729332244b26&amp;chksm=eac85623b0ffd00b070a049e1b5e60eba24796b23afd1a1ba46990407d4c33ba4cdb1adfec21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[全栈大模型微调框架LLaMA Factory：从预训练到RLHF的高效实现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaSWUfBaqRzXFEf3QHaOF4jiamLIvrtv3y0b9Jh5zEW3ic3qwVzrSjgicY0Qrg2JJ5ZFe4d5GThZuRjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题全栈大模型微调框架LLaMA Factory：从预训练到RLHF的高效实现个人简介郑耀威，北京航空航天大学博士生。以第一作者在CVPR、AAAI、WWW等国际会议发表多篇论文，担任AAAI、EMN</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526170&amp;idx=1&amp;sn=b6a46827c8487e79cd30a9a4cdb8d6c4&amp;chksm=ea76e2133fbdb2a537dde5e844c1a8b9410d4ff358045c44063459baddaa6a9ba19c0ccd22ca&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 04 Mar 2024 15:26:05 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -278,54 +319,6 @@
       
 
       <pubdate>Wed, 28 Feb 2024 06:48:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mistral Large，Le Chat来了！Mistral AI连放两个大招！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcE96ibLxK6sJp4PWrNSGhSUqduIoKK0KLrq7Xv0MiaTEC46u06Lok7oCuTRLYiac5Dibe7JGMHLV8icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2月26日，因为开源8x7B Mistral模型而名声大噪的Mistral AI推出了自家的新旗舰大语言模型 Mistral Large。在推理能力方面，可以与 GPT-4 和 Claude 2 等其</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525894&amp;idx=1&amp;sn=d5d799362789fdde505018de2017091d&amp;chksm=eab38b6da367d10e19d7893bfa62af49fadf8d810b87ed5f922c45819b63709fce8039f01a9b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 01:07:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NICE | LLM推理加速新范式！推测解码（Speculative Decoding）最新综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcE96ibLxK6sJp4PWrNSGhSUcYyhfo41eBWvNNRWlof93oVnD8De5x8Y3sMjgdaHN3tHSt4BmL9fg/300?wxtype=jpeg&amp;wxfrom=0"/><p>分享主题LLM推理加速新范式！推测解码（Speculative Decoding）最新综述分享大纲大模型推理加速动机: 自回归解码分析推测解码的早期探索：“推测-验证”新范式推测解码：定义、算法及代表</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525894&amp;idx=2&amp;sn=cf9d314674ed8a278062ba8bfe80db86&amp;chksm=eac6a1918c0d3ae08cae64170879e4eeef6ee245d588546ed921e6ab927fc99f643e00031660&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 01:07:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型微调新范式：当LoRA遇见MoE]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcE96ibLxK6sJp4PWrNSGhSDSXw4jHwdyXyL6zEXp1Oib8Yug6Tyb2HlfY7uRl1XmvqxOpaBIB7Xow/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Sam多吃青菜，北京大学计算机本硕/准大厂算法工程师声明：本文只做分享，版权归原作者，侵权私信删除！https://zhuanlan.zhihu.com/p/683637455编辑：青稞AI引言</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247525894&amp;idx=3&amp;sn=9aa72ab20d472b4c483281ccc0721238&amp;chksm=ea97fdba1f3ba06f223af5eee1ee9e1e74f7798ec709a018a5a894fb763ca79e6b70575c145e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 01:07:17 +0000</pubdate>
       
 
     </item>
