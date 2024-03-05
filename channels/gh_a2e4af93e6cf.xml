@@ -74,52 +74,180 @@
 
 
     <item>
-      <title><![CDATA[大模型越训练越笨？详解AI灾难性遗忘和大模型持续学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVcnwsLW0J0zN4lbvYN18jtxia0GSyhd4TVKWr3G6jejYgs2mic1UVtzRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型出来之后，模型不变，但数据量日新月异，重新训练模型的时间成本和能量花费都是不可接受的。连续学习以其快速适应能力，以及对过去数据不做高要求的优势，成为大模型时代面向变化数据的主要学习方式。我们邀请</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=1&amp;sn=24cbaf482f2b75f61b711abcfdb3c911&amp;chksm=fd26e7a40ece041dbffcb67e465c39965260e5402965f40db1fcf34c7729ee90cd59f2192ffb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[人大等最新《几何图神经网络》综述，详述数据结构、模型与应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVlibOWkvU6rF2D5icOvHibfmVTU3dbWv2TdCxMlS9qzFRicbIG66NCmqraw/640?wxtype=jpeg&amp;wxfrom=0"/><p>几何图神经网络最新综述几何图是一种具有几何特征的特殊图形，对于建模许多科学问题至关重要。与通用图不同，几何图通常展现出物理对称性，如平移、旋转和反射，使得现有的图神经网络（GNNs）处理它们时效率不高</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645955&amp;idx=1&amp;sn=97c2620bb48806f37425a41397d8dff4&amp;chksm=fd2a300e19f0c351bc6bd65170b6009dabeca749fc1b430a7c8100328113b70d3ae46ae64d80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【MIT博士论文】在真实世界环境中的强化学习系统的鲁棒性，292页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapza8y8vWu2siaiau89ELzLzk0wiaj0yoicK3icnElLmAEKVeAfU1SQicc1NTw/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习（RL）被认为是一个有前景的范式，用以改进现实世界中的众多决策过程，潜在地构成许多未来自主系统的核心。然而，尽管在多个领域内非常流行，文献中的概念验证数量显著大于已报道的部署数量。这主要可以归</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=2&amp;sn=d5d86220407ca81b297d179ec92be2cd&amp;chksm=fde0d5577ae67055e940cb7e1955696cda8b4add4d2fe2b805de34190bbaecd87f31967fccc1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[【CVPR2024】VastGaussian: 用于大型场景重建的巨大三维高斯]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapjLN8U16InFibou81zibREKEKIJjTpKzaezdPLS398ydRbHu9T7RxCAxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>现有基于NeRF的大场景重建方法通常在视觉质量和渲染速度上有限制。虽然最近的3D高斯Splatting在小规模和以物体为中心的场景上表现良好，但将其扩展到大场景上存在挑战，因为受到视频内存有限、优化时</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=3&amp;sn=4cf406b77b391601a359c363f419abb0&amp;chksm=fd434b8f85e3271178eb50e79b852f786bfb0148b81cefcee80d1fb9ca82eba9b62c43868776&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《图语言模型》最新教程，WSDM2024桥接文本数据和图形数据:走向语义和结构感知的知识发现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVllxC1nKChDw8SnVbAITX8kFt3GXUicqPosrD8g26p7FmL9YK6o34k0Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>图形和文本在数据挖掘中扮演着关键的角色，每种都具有独特的特性，通常需要不同的建模方法。挖掘图形数据和文本数据的技术通常是分开设计的。然而，数据经常包含这两种模态的混合，它们的信息常常相互补充。例如，在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645955&amp;idx=2&amp;sn=d8442fafeddf96e6a64df330009c583a&amp;chksm=fd72f9aa4a60ffb225413404db5936525b57f10f01486cca67f5d4d6903a302a231c30e5675a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[欧洲防务量子安全通信（DISCRETION）项目]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQQlUvTibibPHJ49ic62rGd4ovCpS2pKP3rJdib9Q0gHv8MG7hIHME9t3cj6OBnOsGyhO6BbUVd0PFzgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在军事背景下，信息和通信服务在各种作战和战略场景中至关重要。这些服务依赖于安全、可靠、通常是异构和隔离的基础设施。显然，密码系统或支持密码系统的通信渠道中的漏洞会危及整个网络和各个层面，造成巨大的机构</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=4&amp;sn=bd7ba9268a684988518a061bd9534393&amp;chksm=fdd89d2f3399833fcb453c31511f3e4e222e499c2bcd70518fa090051300eb0b56bc114a8a98&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645955&amp;idx=3&amp;sn=8034e294de8a8ec79d3701abd54b9a6a&amp;chksm=fd7cf42efc402c4779854ea1d9674463f3c7f4595bc4a1de40fbe4d4be6375fc1af039321875&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[无人机蜂群作战任务规划研究现状与展望]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapYss6uA0yvcKibxPBR2WATbmljZmhb3UCO5TTrLrIp3Jm1nd6ibNiaCrJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>无人机具有低成本、无伤亡、操作简便、灵活可靠等作战优势，在多次局部冲突中大放异彩，而无人机蜂群是一种以大量无人机为基础节点的新型作战样式，近年来受到各军事强国的持续关注。任务规划作为无人机蜂群遂行作战</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=5&amp;sn=aa6a8e18429be687085ee1d9a5664606&amp;chksm=fd4da429d8713bb0e799f1d330ffbb41d75eb491e5c8f98f6f9f7d34a4d0520bb4d8655b2714&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【普林斯顿博士论文】在多样化资源受限硬件环境中增强深度神经网络，314页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVm240Ega3J5mIIF4IzcLnP923snokOVxesUdQBAG91X3CwVTdcK3GAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在过去的十年里，人工智能（AI）在工业和学术界获得了显著的关注。深度神经网络（DNN）模型的大小随着时间的推移而急剧增加。对图形处理单元（GPUs）和机器学习（ML）加速器的更广泛访问，以及数据集大小</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645955&amp;idx=4&amp;sn=3ac88f099020b0ff5571b02f3f3918c5&amp;chksm=fd0b0f08cc2811c90cd747e73840cf9ac9f66068e018dee91ef9bec8d1abf778a2fcd1d0bf3f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《中国区块链创新应用发展报告（2023）》《中国区块链创新应用案例集（2023）》发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapNvYMXamaibH6njrPlE0icjLB2mVe5wJEibly3GJY9Uad6xDoxeKYZWRDg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，由中央网信办信息化发展局指导，中央网信办数据与技术保障中心牵头编制的《中国区块链创新应用发展报告（2023）》（以下简称《报告》）在国家区块链创新应用试点总结交流会上正式发布。《报告》从顶层设计</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=6&amp;sn=52b0182383975d400688dba494a8e4cf&amp;chksm=fd47d0d1ce7ccf512ce1c28f2ddc14eb2f1587ef134c6359193db20247032c4941dc54ae97b4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[人工智能的下一站：文生3D]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVPIDv8OCpTpQqwtu2t0ibfzyzEAIwx8YJuYjBblPUD9okYUGhibGcLAMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>以大模型、生成式为代表的新一代人工智能技术与产业变革如火如荼，从Chat GPT代表的文生文，到DALL·E代表的文生图，再到Sora代表的文生视频，“暴力美学”在持续突破技术的天花板，多模态也成为了</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645955&amp;idx=5&amp;sn=d62a7bf8faef7b320ff35b087e65f53e&amp;chksm=fd1b9d9ea1dd4d64800d306eeb1149f4bddda956de2e16f17e4b98e92a75665a55a88825f3af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Sora的诞生对智能驾驶行业的影响]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapGfcr4wQiaV0iatCY8yowwibWBfCxmCV4Tb4iafzgCMKS0ondyGqiaPyBOUA/300?wxtype=jpeg&amp;wxfrom=0"/><p>■Sora是文生视频的集大成者，核心创新点在于时空编码和DiT模型。Sora是Open AI推出的首个文本生视频模型，视频生成长度、逼真度等均远超现有竞品。从技术上看，Sora的核心创新点在于时空编码</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=7&amp;sn=dbef671f8630104dd994880fae489190&amp;chksm=fd828625656416efdc1d36af4f509d94a48e8f664c1dbc3c2dc9863015f363e0eebbac342246&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【CVPR2024】VideoMAC: 视频掩码自编码器与卷积神经网络]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVDic00RgtmYlLMj0n1crOq2YwScgJFyGwd1cwdKiaxgON2BegiaIicCuYfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>近期，自监督学习技术的进步，如遮罩自编码器（MAE），极大地影响了图像和视频的视觉表示学习。然而，值得注意的是，现有的遮罩图像/视频建模方法过度依赖于资源密集型的视觉变换器（ViTs）作为特征编码器。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645955&amp;idx=6&amp;sn=42db864950b16e4bf6ce91a5278224dc&amp;chksm=fdd63ce80e77cacfd08cfe78b83dbdb02a4f0e606929263fb8cbc92eee02147a06a5796bafd6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[无人机集群协同搜索研究综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVOEWTrp9jkjTePicFvR0lSX1n9adBfyO1az1RiaKAmAicbaCQbFXnNIVbQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>无人机集群协同区域搜索能够有效地获取任务区域地面信息,降低环境不确定度。基于区域划分、机群均衡分配以及启发式算法的传统集群协同区域搜索方法依赖于事前设计规则且计算量大,属于不可生成规则算法。考虑任务环</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645955&amp;idx=7&amp;sn=e2259243cd633d4f5d277016962e9411&amp;chksm=fdb1a350f696408281ac81e7ecf253ddaf30c84c1d905c0b11272c6831bab160c64487675b91&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=8&amp;sn=483610decd99ab9869d79adc8198a038&amp;chksm=fdd73356aa4e2c7b9178b04c5353599ac3dc2bcd98472a5abe87974f4000a494c0b9c0e792cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645955&amp;idx=8&amp;sn=167ef354f6f3b21e76d131eb67e3f804&amp;chksm=fd311043656d142bc78e5b074be1a5be046b2bd3f843ccc10db7f42b15ae145ce5edb3b8825b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Mar 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大模型越训练越笨？详解AI灾难性遗忘和大模型持续学习]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3OW7b6mGrbmqOUrhoawmicVcnwsLW0J0zN4lbvYN18jtxia0GSyhd4TVKWr3G6jejYgs2mic1UVtzRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型出来之后，模型不变，但数据量日新月异，重新训练模型的时间成本和能量花费都是不可接受的。连续学习以其快速适应能力，以及对过去数据不做高要求的优势，成为大模型时代面向变化数据的主要学习方式。我们邀请</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=1&amp;sn=24cbaf482f2b75f61b711abcfdb3c911&amp;chksm=fd26e7a40ece041dbffcb67e465c39965260e5402965f40db1fcf34c7729ee90cd59f2192ffb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【MIT博士论文】在真实世界环境中的强化学习系统的鲁棒性，292页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapza8y8vWu2siaiau89ELzLzk0wiaj0yoicK3icnElLmAEKVeAfU1SQicc1NTw/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习（RL）被认为是一个有前景的范式，用以改进现实世界中的众多决策过程，潜在地构成许多未来自主系统的核心。然而，尽管在多个领域内非常流行，文献中的概念验证数量显著大于已报道的部署数量。这主要可以归</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=2&amp;sn=d5d86220407ca81b297d179ec92be2cd&amp;chksm=fde0d5577ae67055e940cb7e1955696cda8b4add4d2fe2b805de34190bbaecd87f31967fccc1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【CVPR2024】VastGaussian: 用于大型场景重建的巨大三维高斯]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapjLN8U16InFibou81zibREKEKIJjTpKzaezdPLS398ydRbHu9T7RxCAxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>现有基于NeRF的大场景重建方法通常在视觉质量和渲染速度上有限制。虽然最近的3D高斯Splatting在小规模和以物体为中心的场景上表现良好，但将其扩展到大场景上存在挑战，因为受到视频内存有限、优化时</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=3&amp;sn=4cf406b77b391601a359c363f419abb0&amp;chksm=fd434b8f85e3271178eb50e79b852f786bfb0148b81cefcee80d1fb9ca82eba9b62c43868776&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[欧洲防务量子安全通信（DISCRETION）项目]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQQlUvTibibPHJ49ic62rGd4ovCpS2pKP3rJdib9Q0gHv8MG7hIHME9t3cj6OBnOsGyhO6BbUVd0PFzgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在军事背景下，信息和通信服务在各种作战和战略场景中至关重要。这些服务依赖于安全、可靠、通常是异构和隔离的基础设施。显然，密码系统或支持密码系统的通信渠道中的漏洞会危及整个网络和各个层面，造成巨大的机构</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=4&amp;sn=bd7ba9268a684988518a061bd9534393&amp;chksm=fdd89d2f3399833fcb453c31511f3e4e222e499c2bcd70518fa090051300eb0b56bc114a8a98&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[无人机蜂群作战任务规划研究现状与展望]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapYss6uA0yvcKibxPBR2WATbmljZmhb3UCO5TTrLrIp3Jm1nd6ibNiaCrJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>无人机具有低成本、无伤亡、操作简便、灵活可靠等作战优势，在多次局部冲突中大放异彩，而无人机蜂群是一种以大量无人机为基础节点的新型作战样式，近年来受到各军事强国的持续关注。任务规划作为无人机蜂群遂行作战</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=5&amp;sn=aa6a8e18429be687085ee1d9a5664606&amp;chksm=fd4da429d8713bb0e799f1d330ffbb41d75eb491e5c8f98f6f9f7d34a4d0520bb4d8655b2714&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《中国区块链创新应用发展报告（2023）》《中国区块链创新应用案例集（2023）》发布]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapNvYMXamaibH6njrPlE0icjLB2mVe5wJEibly3GJY9Uad6xDoxeKYZWRDg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，由中央网信办信息化发展局指导，中央网信办数据与技术保障中心牵头编制的《中国区块链创新应用发展报告（2023）》（以下简称《报告》）在国家区块链创新应用试点总结交流会上正式发布。《报告》从顶层设计</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=6&amp;sn=52b0182383975d400688dba494a8e4cf&amp;chksm=fd47d0d1ce7ccf512ce1c28f2ddc14eb2f1587ef134c6359193db20247032c4941dc54ae97b4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Sora的诞生对智能驾驶行业的影响]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0mNSGjHnyqp2G8zQUOLFapGfcr4wQiaV0iatCY8yowwibWBfCxmCV4Tb4iafzgCMKS0ondyGqiaPyBOUA/300?wxtype=jpeg&amp;wxfrom=0"/><p>■Sora是文生视频的集大成者，核心创新点在于时空编码和DiT模型。Sora是Open AI推出的首个文本生视频模型，视频生成长度、逼真度等均远超现有竞品。从技术上看，Sora的核心创新点在于时空编码</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=7&amp;sn=dbef671f8630104dd994880fae489190&amp;chksm=fd828625656416efdc1d36af4f509d94a48e8f664c1dbc3c2dc9863015f363e0eebbac342246&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645894&amp;idx=8&amp;sn=483610decd99ab9869d79adc8198a038&amp;chksm=fdd73356aa4e2c7b9178b04c5353599ac3dc2bcd98472a5abe87974f4000a494c0b9c0e792cd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -758,134 +886,6 @@
       
 
       <pubdate>Wed, 28 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《大型多模态智能体》综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1Dk1jjjacBcoK7JRGOHMdc5rtTHDKqU64EWph1aTulSrXgpTtvwgTz5Ax49SQGsicv7PjhibVxaibAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）在推动文本基础的智能体方面已经取得了超群的性能，赋予它们类似人类的决策和推理能力。与此同时，一个新兴的研究趋势集中于将这些LLM驱动的智能体扩展到多模态领域。这种扩展使得智能体</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645425&amp;idx=1&amp;sn=ddbcd00f7d126d4651ff28f410f40a33&amp;chksm=fd33046b27dbdd3ae7e3bd4bcddb388609400820ac27040dc128ec8a3d3335a37b4ce4d1d756&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【牛津大学博士论文】自然语言处理的鲁棒性研究，194页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1Dk1jjjacBcoK7JRGOHMdcPsWVr0QB9wldic2xnCicZeybXiay51gC7KC8ofeMSB9T9cq8I5wL3nO7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>在机器学习这一学科中，自然语言处理（NLP）方面的重大突破彰显了其贡献，旨在设计算法来处理文本并产生洞察力，例如分类和摘要，这些洞察力与人类相当。自然语言带来的挑战反映了人类智能的特殊性，例如理解句子</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645425&amp;idx=2&amp;sn=5b84828753a17b5b8ed8db622c6bd4d2&amp;chksm=fd83a908c60ea3298d6e8f07e91f734ce58c3c662a5946b76dfccc026191bf03d1aee03f40df&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Sora技术深度解析，21页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1Dk1jjjacBcoK7JRGOHMdcO2PnkJXytcKeR3fxSCQWQlibeM6JUVGdiaswgvb6aITtibRVYjdKZMYNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Sora横空出世引领多模态产业革命。美国时间2月15日，文生视频大模型Sora横空出世，能够根据文本指令或静态图像生成1分钟的视频。其中，视频生成包含精细复杂的场景、生动的角色表情以及复杂的镜头运动，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645425&amp;idx=3&amp;sn=659736dcf5615937b673ddc7d55207f5&amp;chksm=fd98d63ebd0f9523c4710d6dd963e72fd2412f4daff2173ead5bb164b7b1e98156ea2799fda6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[战术创新的四大支柱：具有影响力的颠覆之路]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTcbklK1EuuFSLaCRX7LjuF8pSpAPA1iahs7NLw3SdSiaECEG5lM4CEN9zHUVY1SaMY1RrD0ClGkVicw/300?wxtype=jpeg&amp;wxfrom=0"/><p>创新是进步的命脉，就军事而言，创新是跟上当今技术快速发展步伐的重要组成部分。创新的挑战是多方面的，它要求了解新出现的威胁、利用尖端技术、颠覆战术条令中的既定范式，这不仅至关重要，而且是一项战略要务。战</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645425&amp;idx=4&amp;sn=5d4d03eaaca44b2b476c9ca8427c6c1f&amp;chksm=fdb68b887a552587335892c0a642cb52a2944e4e08c07bc23570cd4fe63aa0b43db507ca8bf9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【AAAI2024教程】不完美数据下的可信机器学习]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1Dk1jjjacBcoK7JRGOHMdcciasp25ibOmYvdibbDI3Dg9ISia6icnNvQmng5z00WFpRrgWvspwFsqNWmA/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 是由国际人工智能促进协会主办的年会，是人工智能领域中历史最悠久、涵盖内容最广泛的国际顶级学术会议之一，也是中国计算机学会（CCF）推荐的 A 类国际学术会议，在人工智能领域享有较高的学术声誉</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645425&amp;idx=5&amp;sn=603abd913b739a2ec0205a0ccb69b6c9&amp;chksm=fd78205965fa1ad90f435f9da2b12661f41663a58ae03141090e4404fd17cfd80153c2b39e1a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[空地异构无人系统侦察任务规划方法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1Dk1jjjacBcoK7JRGOHMdcyl12KwicufDuW9V6SVlKecISjq9r4K91LM7g0xdGxKxrgGbgoviatnCQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>相对空中同构无人系统，空地异构无人系统的运动能力、资源载荷、作战场景等异构性质会导致约束条件增多，使求解模型计算量显著增加，协同作战任务的建模和大规模问题的高效求解是需要解决的关键问题。以无人系统完成</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645425&amp;idx=6&amp;sn=c2eafb71ce0401610facf73e34493770&amp;chksm=fdcaa560901ed0c433eb0a414e36f3dd163c94f7666dd8c90517c6d4af4ae89bfa75318c65be&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【WWW2024】元认知检索-增强大型语言模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1Dk1jjjacBcoK7JRGOHMdcXSoiamX16vniaiaQ4QYv43cq159uxCUibKLevdpHnevDd0dKT9Oor33ibXA/300?wxtype=jpeg&amp;wxfrom=0"/><p>检索增强生成已成为自然语言处理的核心，因为它们在生成事实内容方面的有效性。虽然传统方法采用单次检索，但更多最近的方法已转向多次检索，以执行多跳推理任务。然而，这些策略受到预定义推理步骤的限制，可能导致</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645425&amp;idx=7&amp;sn=79e6bce826e4684810df96fc262b2291&amp;chksm=fd9218921ad779dc264be65cbafcca4a971bfef3008bf4762c0ba58b7a55dbf800133f54c823&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645425&amp;idx=8&amp;sn=1d7fce4c5228a9b4ee7e59dbc6e58750&amp;chksm=fd481e9c33480aead7db7b6eea2ee7242478573680a5bcb6a8ece68294241951a811864b1710&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:00:00 +0000</pubdate>
       
 
     </item>
