@@ -74,52 +74,180 @@
 
 
     <item>
-      <title><![CDATA[多模态如何用于AI4Science？微软人大最新《生物分子和自然语言的多模态学习》综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxo5xfpZvgAmLwqZVBwD1VCD4fSJ1cC3deUXt59TskPUHL4Yu87L6OIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自微软和人大《生物分子和自然语言的多模态学习》综述生物分子建模与自然语言（BL）的整合已经成为一个前景光明的跨学科领域，位于人工智能、化学和生物学的交汇处。这种方法利用文本数据源中包含的关于生物分子</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=1&amp;sn=b9c9a8c3271a0cae53e591722cb7a8b0&amp;chksm=fd94ef6312c979c43adab257c22791fc8e1ecac7246530a6735e04fc079736c343ff574a2a87&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[基于LLM的多轮对话系统的最新进展综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25kP9ZsrAyc6ymjISpjAgKzDIH2gUn3BAiczNLicicX1HobhfdKFceYBoRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本综述提供了对多轮对话系统研究的全面回顾，特别关注基于大型语言模型（LLMs）的多轮对话系统。本文旨在：(a) 总结现有LLMs及其适配到下游任务的方法；(b) 阐述多轮对话系统的近期进展，涵盖基于L</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=1&amp;sn=8f9f6b70a361df1e45ab40035c24a25f&amp;chksm=fdf9f1cebcbbf3552953aaa5521867a7d964ff36b80d8d15d83241a8d4ac0ea68b91e7b2d359&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【阿姆斯特丹博士论文】具结构不变性的表示学习,113页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxZFIc0SG4VFOFp6lDRWuRfPehMMOaHedHPOjRW6MSXsAjHGdeRICnQA/300?wxtype=jpeg&amp;wxfrom=0"/><p>不变性对于神经网络至关重要，它使得神经网络能够有效地泛化处理输入数据的变化，通过聚焦于关键属性同时过滤掉不相关的细节。在这篇论文中，我们通过具结构不变性的视角来研究神经网络中的表示学习。我们首先研究神</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=2&amp;sn=d72fd31f0d034d9b52600f988f1d2f1d&amp;chksm=fd1cf913fdab4712e69290ab1b55569b0d00dcf9606181be8a326233747907873356968bf991&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[开放世界机器学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25SDoDYUan11gegicd34HZYFk2iaS4RBQsiajXO6y6BhLBaEicS2caauibuiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习在许多应用中取得了显著成功。然而，现有的研究大多基于封闭世界假设，该假设认为环境是静态的，一旦部署模型就是固定的。在许多真实世界的应用中，这一基本而又幼稚的假设可能不成立，因为一个开放的环境是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=2&amp;sn=a6ae33122d029971970940c69dd39c53&amp;chksm=fda593217d05def4f0d936c28f42bc4f0f360ccc8f213dd059cc52f5fe3d1b78a7a16237722f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[AAAI 2024 ｜ GCIL：因果视角下的图对比不变学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AYxz3cIHvyqzStQ67YCyJOV1YE1ja95lEiaUMfiauktUaic8T5M6oVArWnrU6sQE5rzRU1bfou1vnl8TALXG59bHw/300?wxtype=jpeg&amp;wxfrom=0"/><p>题目： Graph Contrastive Invariant Learning from the Causal Perspective作者：莫燕虎、王啸、范少华、石川论文链接： http://www</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=3&amp;sn=8c2010b72f64e4741febbe020f59f893&amp;chksm=fd2c152365d1c87221efa76a6f3344b0569a2b81cce15bd009e42755a3ecfb33ea13c264f03f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【CVPR2024】通过丰富的监督增强视觉-语言预训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25GD2cSicgFNg9pMosk2fYwOLx9Fpn3ZM371pvKCozz8QknJwFVicKMbPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们提出了一种新颖的预训练范式——强监督截屏预训练（S4），用于视觉-语言模型，该模型使用来自大规模网页截屏渲染的数据。使用网页截屏可以解锁视觉和文本提示的宝库，这些提示在使用图像-文本对时不存在。在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=3&amp;sn=db896377cdf1bdc3a23d9714fb30fabf&amp;chksm=fdcd94d6cd2dbb9af9d33344f08f5e4bc90accbc26f90689ad29ca81efbd51a41d4eb4f5f246&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[B-21“突袭者”及首飞揭示的一些新轰炸机细节]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRTXdMMNz1xE4L6qHTsuDTSDswgub1cZhXe75zIchc35nPVWGRESb5PicANibl7RQLM6RwcyNey1yEQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>B-21“突袭者”：专为低风险而设计B-21“突袭者”（B-21 Raider）由诺斯罗普·格鲁曼公司设计开发，是第一架第六代飞机。设计表明，美国空军快速能力办公室（Rapid Capabilitie</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=4&amp;sn=94abd95d9851c5bdd5dac2b5331c1379&amp;chksm=fd7fcf58d1f15c465d2a7f40ff59b8a25382a8d733a9ad2c46fdd35461221698f04f114cdff2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[未来空战：“机外传感站”无人机（OBSS ）计划及其与XQ-67A、机外武器站（OBWS）的广阔愿景]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSA10NAswWCt3gJBIPeyLWFZJ6naEeJlJ8ZfSGM4asPmqEapbcoD2HrLHRNwTm5ZteTibyogXExdXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>2021 年 11 月 18 日，通用原子航空系统公司 (GA-ASI) 在无人机系统 (UAS) 技术领域实现了一个重要里程碑。GA-ASI 采用两套复仇者（Avenger®） 无人机系统（每套均配</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=4&amp;sn=dd39019035cede472c77accfcb2f05d5&amp;chksm=fda543349f1d39af0357baf2d899a505a9bb755043662dc476bf89d9dfa4b04f8b10b0ac0266&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[AI应用专题：百花齐放，静待杀手级别应用, 25 页ppt]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxaweaLXcANnblSx1SG1mbHhf5LE39AkSTPSGmLggHo0StX0QsBmjbFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI产业研究框架&amp;海外生态概览基建层：AI硬件及云服务。以NVIDIA为首的AI硬件算力进步使大模型的单次训练成本降至可以接受的1000万美元以下；同时以Azure为首的云服务厂商集成了算力资源和AI</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=5&amp;sn=5045742ff04234e1f86095214e93a75b&amp;chksm=fd350a3151e59ee474f410ec67d45237ea253024a3f11810a95bcb08c69d0220c2dce59771c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《自主先进空中机动性——无人机及其他飞行器的端到端自主框架》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSA10NAswWCt3gJBIPeyLWFUcb68V7mq39xU7DoeVMUBlbGiblic2bcFoMLF7zsxTWyaMHjCW1vItibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>开发既能安全导航又能在无人干预的情况下执行指定任务的空中机器人--即乘客和货物的完全自主空中移动--是指导空中自主领域研究、设计和开发工作的更大愿景。然而，要同时实现所有类型的空中飞行器完全自主地共享</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=5&amp;sn=c48430121bdce150b9a67f2c26612a9d&amp;chksm=fda6177cce8a16a9129b81173d35e46e57c9852a60e47c9cd352a88d18070332cb6d10b6b2d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【CVPR2024】非自回归序列到序列的视觉-语言模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxCc0HFg4uOVoojs5mW4VVXTu6mM1dW2JO7lFp8ZsNcmibuOKdkIwbREg/300?wxtype=jpeg&amp;wxfrom=0"/><p>序列到序列的视觉-语言模型展现出了前景，但由于其自回归方式生成预测的方式，其应用受到了推理延迟的限制。我们提出了一种并行解码的序列到序列视觉-语言模型，该模型采用Query-CTC损失进行训练，可以在</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=6&amp;sn=f7559fa03f36f9a4951302508bb56db6&amp;chksm=fd5854e825098b782a564d91744de562700903bc4a3086fba821e66aed3767b071fc59f962ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【WSDM2024教程】无偏学习排序：关于近期进展和实际应用，198页ppt]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25KZ7mWwF2Hcd67PGtmx26YZBN3IjibH00bEoiav47MdRTal4Ocbnt2APw/300?wxtype=jpeg&amp;wxfrom=0"/><p>自从无偏学习排序（ULTR）这一领域成立以来，它一直非常活跃，并且在近年来见证了几项有影响力的进步。这个综述既提供了该领域核心概念的介绍，也概述了其基础的最新进展以及其方法的几个应用。本综述分为四个部</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=6&amp;sn=a5287da256950a2e5806294a0e88d7e8&amp;chksm=fd1dc99a061f23a82b1ca0304d75007785f62a8a32c6b5d41d177ad8a298289fc6bf929ebaaa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Claude3技术报告，全面升级多模态＋百万Token上下窗口，中英文版]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxiaaGlVQ6gcx5DKxZJPJdNLu9P2uQClomgWl0TuiahV7DlehStLw9u1cw/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道机器之心编辑部性能比 GPT-4 强很多。大模型的纯文本方向，已经卷到头了？昨晚，OpenAI 最大的竞争对手 Anthropic 发布了新一代 AI 大模型系列 ——Claude 3</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=7&amp;sn=14ed93d3a5c8a3485beb08f7b9b566b9&amp;chksm=fd3a6b2bae084296ffd5b113b82e9f6a929175af39d4f22f25cbc86ae4c632f9e8486dd8bdfe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[Stable Diffusion 3论文终于发布，架构细节大揭秘，对复现Sora有帮助？附中英文报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib251JPDPgITaCTbuUSedWwFy2lsiaXY43VUJusiajSvq5MIaIyjTE3czafQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道编辑：张倩在众多前沿成果都不再透露技术细节之际，Stable Diffusion 3 论文的发布显得相当珍贵。Stable Diffusion 3 的论文终于来了！这个模型于两周前发布</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=7&amp;sn=7733445e5ff2f5fa3d263e7a7197fa1a&amp;chksm=fd328e5720437a01f8a8d4fc5ef68a92648cf67ad42ecaff2c5a8f90abf16cb8dfd2e548d5fb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=8&amp;sn=155da806a5625f4b74c2e3ae988ad0d4&amp;chksm=fd37ca01ac4c60345e70306ee87bf1aeb67dbfe6482b54218d80ddc1cfd3cae0ab0d4187a944&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=8&amp;sn=11312cfbf6f3f56383cedfe0ad2a31c2&amp;chksm=fd57b23bfa6538cadc4a441618c24c131252c2349b5bf8e06208471d242efc359b4f800e3543&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[多模态如何用于AI4Science？微软人大最新《生物分子和自然语言的多模态学习》综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxo5xfpZvgAmLwqZVBwD1VCD4fSJ1cC3deUXt59TskPUHL4Yu87L6OIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自微软和人大《生物分子和自然语言的多模态学习》综述生物分子建模与自然语言（BL）的整合已经成为一个前景光明的跨学科领域，位于人工智能、化学和生物学的交汇处。这种方法利用文本数据源中包含的关于生物分子</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=1&amp;sn=b9c9a8c3271a0cae53e591722cb7a8b0&amp;chksm=fd94ef6312c979c43adab257c22791fc8e1ecac7246530a6735e04fc079736c343ff574a2a87&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【阿姆斯特丹博士论文】具结构不变性的表示学习,113页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxZFIc0SG4VFOFp6lDRWuRfPehMMOaHedHPOjRW6MSXsAjHGdeRICnQA/300?wxtype=jpeg&amp;wxfrom=0"/><p>不变性对于神经网络至关重要，它使得神经网络能够有效地泛化处理输入数据的变化，通过聚焦于关键属性同时过滤掉不相关的细节。在这篇论文中，我们通过具结构不变性的视角来研究神经网络中的表示学习。我们首先研究神</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=2&amp;sn=d72fd31f0d034d9b52600f988f1d2f1d&amp;chksm=fd1cf913fdab4712e69290ab1b55569b0d00dcf9606181be8a326233747907873356968bf991&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[AAAI 2024 ｜ GCIL：因果视角下的图对比不变学习]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AYxz3cIHvyqzStQ67YCyJOV1YE1ja95lEiaUMfiauktUaic8T5M6oVArWnrU6sQE5rzRU1bfou1vnl8TALXG59bHw/300?wxtype=jpeg&amp;wxfrom=0"/><p>题目： Graph Contrastive Invariant Learning from the Causal Perspective作者：莫燕虎、王啸、范少华、石川论文链接： http://www</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=3&amp;sn=8c2010b72f64e4741febbe020f59f893&amp;chksm=fd2c152365d1c87221efa76a6f3344b0569a2b81cce15bd009e42755a3ecfb33ea13c264f03f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[B-21“突袭者”及首飞揭示的一些新轰炸机细节]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRTXdMMNz1xE4L6qHTsuDTSDswgub1cZhXe75zIchc35nPVWGRESb5PicANibl7RQLM6RwcyNey1yEQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>B-21“突袭者”：专为低风险而设计B-21“突袭者”（B-21 Raider）由诺斯罗普·格鲁曼公司设计开发，是第一架第六代飞机。设计表明，美国空军快速能力办公室（Rapid Capabilitie</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=4&amp;sn=94abd95d9851c5bdd5dac2b5331c1379&amp;chksm=fd7fcf58d1f15c465d2a7f40ff59b8a25382a8d733a9ad2c46fdd35461221698f04f114cdff2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[AI应用专题：百花齐放，静待杀手级别应用, 25 页ppt]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxaweaLXcANnblSx1SG1mbHhf5LE39AkSTPSGmLggHo0StX0QsBmjbFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI产业研究框架&amp;海外生态概览基建层：AI硬件及云服务。以NVIDIA为首的AI硬件算力进步使大模型的单次训练成本降至可以接受的1000万美元以下；同时以Azure为首的云服务厂商集成了算力资源和AI</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=5&amp;sn=5045742ff04234e1f86095214e93a75b&amp;chksm=fd350a3151e59ee474f410ec67d45237ea253024a3f11810a95bcb08c69d0220c2dce59771c5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【CVPR2024】非自回归序列到序列的视觉-语言模型]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxCc0HFg4uOVoojs5mW4VVXTu6mM1dW2JO7lFp8ZsNcmibuOKdkIwbREg/300?wxtype=jpeg&amp;wxfrom=0"/><p>序列到序列的视觉-语言模型展现出了前景，但由于其自回归方式生成预测的方式，其应用受到了推理延迟的限制。我们提出了一种并行解码的序列到序列视觉-语言模型，该模型采用Query-CTC损失进行训练，可以在</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=6&amp;sn=f7559fa03f36f9a4951302508bb56db6&amp;chksm=fd5854e825098b782a564d91744de562700903bc4a3086fba821e66aed3767b071fc59f962ec&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Claude3技术报告，全面升级多模态＋百万Token上下窗口，中英文版]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw07urojSxckiaEou3CtHlLzxiaaGlVQ6gcx5DKxZJPJdNLu9P2uQClomgWl0TuiahV7DlehStLw9u1cw/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道机器之心编辑部性能比 GPT-4 强很多。大模型的纯文本方向，已经卷到头了？昨晚，OpenAI 最大的竞争对手 Anthropic 发布了新一代 AI 大模型系列 ——Claude 3</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=7&amp;sn=14ed93d3a5c8a3485beb08f7b9b566b9&amp;chksm=fd3a6b2bae084296ffd5b113b82e9f6a929175af39d4f22f25cbc86ae4c632f9e8486dd8bdfe&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646039&amp;idx=8&amp;sn=155da806a5625f4b74c2e3ae988ad0d4&amp;chksm=fd37ca01ac4c60345e70306ee87bf1aeb67dbfe6482b54218d80ddc1cfd3cae0ab0d4187a944&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 06 Mar 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -630,262 +758,6 @@
       
 
       <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[SORA底层模型用好了也能赚钱！DiffsFormer：基于扩散模型的股票因子生成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I9UBuGbRIxU02pAPwRE4C9EiagyHRsWuTiafsibhv43v2U560d8wQXTZb548pGy4kQfSibrCpALNW3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习模型已经被证明在股票价格预测任务中表现出了优越的性能。给定股票的历史数据（如开盘收盘价格，最高最低价格等），时序模型通过优化预测值和真实值之间的损失进行训练。然而，金融数据存在稀缺性这一固有挑</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645729&amp;idx=1&amp;sn=78f44c9ad15a136ed91b220fc5341d4f&amp;chksm=fd1f5c33bf9c4349f5cc93429c7868ca1e2a6aa8e614795b25105350fab5ecf605a9083d4631&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ICLR2024】3D-MoLM：增强语言模型对分子3D空间结构的理解]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I9UBuGbRIxU02pAPwRE4CpsCzmsYWm1Kial5cbmjQGeJW7aDr9cQ9JSv1nPlricnvfIJfYyibP9ExQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近来，大语言模型在自然语言处理方面展示了令人瞩目的理解和推理能力，促使不同领域纷纷探索这些模型在自己专业领域内的应用潜力。    在生化分子理解领域，分子结构，尤其是3D空间结构，对于理解分子动力学、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645729&amp;idx=2&amp;sn=f70e71147b9eb54613fc29be9050cd20&amp;chksm=fdff0cf588661941b7546ddaddc3c3578bb1bf1412d4beefd2371cb111ba5e795ae23996068d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[清华最新212页《AIGC发展研究资料2.0》报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oG0CZp2icickhVHY2ibbibZANrTJJxL7UjEOZPx0kic4AiaXwaVbks3o4no6iaGhsKCibo7I9zjpZialmNdg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：清华大学元宇宙文化实验室 　　近日 ，由清华大学沈阳教授领衔的清华大学元宇宙文化实验室发布了《AIGC发展研究资料2.0》，在1.0版报告基础上进行深化。　　《研究资料2.0》用AI研究AI发展</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645729&amp;idx=3&amp;sn=7b9586355e5176e163020876ce613f5f&amp;chksm=fd47f4a30ae8bf750602809fd4a9533b28d4ce56f142ab84b9a65ceffb9c5916a79c1835e66a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【AAAI2024教程】大模型知识编辑，192页ppt]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oG0CZp2icickhVHY2ibbibZANXtP4sxN4dKuXTXzzcK4DWtLRE78qayHm9PoSICgEIFgLkia39nXaI3Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 是由国际人工智能促进协会主办的年会，是人工智能领域中历史最悠久、涵盖内容最广泛的国际顶级学术会议之一，也是中国计算机学会（CCF）推荐的 A 类国际学术会议，在人工智能领域享有较高的学术声誉</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645729&amp;idx=4&amp;sn=32e80b914bd38c27285b1a4a15818477&amp;chksm=fd0ff6cdc8549af34fdc060c303f9f86f36b307daab2a41585e12901eda3af9fd250a9a2d4df&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[太空在实现联盟联合全域指挥与控制（CJADC2）中的关键作用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQgCoBIHYXkncg3Av3UAULYXC4qXKuNvZRkJozyZXRVznDCibYWbmRuiacxHngAcNc5ysyEIFtmQjCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>能否快速、无缝地汇集所有领域的感知和效应以实现任务目标，对于在未来任何能力强大的同级对手之间的冲突中取得胜利至关重要。这一预期构成了 2017 年美国呼吁多域指挥与控制和多域作战的基础。正如时任空军参</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645729&amp;idx=5&amp;sn=737fcb06671a0284ba9029f57fb6cd77&amp;chksm=fd051e535545b135e21a2d3dc3b62b08653f11fea056a6185d1bf2865c97f2f0478db7765740&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【新书】图论与分解，201页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oG0CZp2icickhVHY2ibbibZANPhXGFzUxhHckufux0cOdb9UT5N5RdpdYHLnA3iarNFpg7YEBW4icqSzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>《图论与分解》一书涵盖了图的分解的主要领域。这是一本分为三部分、共九章的参考书，旨在面向爱好者以及研究学者。书中不仅回顾了历史演变和基本术语，还讨论了图的循环分解，如圈图、有向图和K4-e分解等。除了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645729&amp;idx=6&amp;sn=fe9b73bbda03fa7ad56049af796f7f9e&amp;chksm=fd096f4a508da8017deb7c011584fca6b6373d90b413f0d1e73437f4473810bfc7e7d03b1754&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【NTU博士论文】朝着鲁棒且标签高效的时间序列表示学习]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oG0CZp2icickhVHY2ibbibZANDgB4GEVdZg0sW5OKILHQTn9adrMsU4RXcez9LIpdG14OadFicw4UEtA/300?wxtype=jpeg&amp;wxfrom=0"/><p>时间序列数据是从不同应用的各种源头随时间收集的顺序测量数据，例如，医疗保健和制造业。随着这些应用产生的时间序列数据量的增加，对它们的分析变得越来越重要以获得洞见。深度学习已经展现出在从大量数据中自动学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645729&amp;idx=7&amp;sn=db546efa164a22c58d27bedb11cde517&amp;chksm=fd18271d7fcbc1616a433dbf3149b255bf0d5d068be7705527ebf0cf921896c41244a09edf8a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645729&amp;idx=8&amp;sn=8b3c5c0ce5633261486b4f138008d3be&amp;chksm=fdbf323aeffa30b10a99bee640e3471fc53400f552a88c92863ca1904a67606d4d7de04de3fb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《扩散模型图像编辑》综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2srP44M5NuQHiay8ic9icrdk6wDKSslqYia1Uic0ibiba1ib1GVaNdE2BYJkNbu7OwFhufmd29J2k98Z6ibNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>去噪扩散模型已经成为各种图像生成和编辑任务的强大工具，促进了以无条件或输入条件方式合成视觉内容。它们背后的核心思想是学习逆转逐渐向图像添加噪声的过程，使它们能够从复杂分布中生成高质量样本。在这篇综述中</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645639&amp;idx=1&amp;sn=9565c0fa1c6dba3b0599f76935290a27&amp;chksm=fd752c79148c036f88d4e1d1f6f008bfb0b21de7c9d20ea865d67e40f1eb5bd57aae11b26fdb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【AAAI2024教程】图反事实可解释性：全面的景观，100页ppt]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2srP44M5NuQHiay8ic9icrdk6rXv5B6iaibNT0tTOXZVicbicKysLxiaXEDicINQg9dIMlrLk9h6chfsHhdMg/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 是由国际人工智能促进协会主办的年会，是人工智能领域中历史最悠久、涵盖内容最广泛的国际顶级学术会议之一，也是中国计算机学会（CCF）推荐的 A 类国际学术会议，在人工智能领域享有较高的学术声誉</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645639&amp;idx=2&amp;sn=810ef526cdbb79d8ca11263cb344c205&amp;chksm=fd38c7794e6fcbfea570ed57df32e1824e61196cfd33884be2a3fa68d09c41a0dea60a65a65f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CVPR2024】扩散模型的结构指导对抗训练]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2srP44M5NuQHiay8ic9icrdk6ibcGhRibKJCERBibw9LktI5rYM6gHWrPZ71JicssjpoVvnnqNwLfTeoaRA/300?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型在各种生成应用中已展现出卓越的效果。尽管现有模型关注于最小化用于数据分布建模的去噪分数匹配损失的加权和，它们的训练主要强调实例级优化，忽视了每个小批量中包含的有价值的结构信息，这些结构信息表明</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645639&amp;idx=3&amp;sn=a819f1991fa31ce2b0f810b7d3f0f48a&amp;chksm=fd20ecf7973908f3152fb61b61da3b068d11340b1dc9887b3e113e15540b24edae447b6c86f5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[军事能力概念及其与系统特性分析的相关性]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRvbNEiadQsOq0qMW4O4tfVv1wYcIvHvaIh03ibsxl1RmhtJ6JBeXiapasmGzwM7307PzJTaCnGueLag/300?wxtype=jpeg&amp;wxfrom=0"/><p>有关军事能力的观点、定义和概念繁多，可能会在国防和安全部门的学者和专业人员之间造成误解，也可能在重要问题上混淆公众视听。本研究捕捉并描述了一些概念，以提高人们的认识：战斗力（Combat Power）</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645639&amp;idx=4&amp;sn=b85dd0b0dec47f8c4236e0d922400300&amp;chksm=fd50618a09705ba333c236d6a31f2e6bbab8d2fad9be4b1117d8a0867c64bceae46e2df4cdbc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[“科技投资女王”《Big Ideas 2024》报告（中文版）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2srP44M5NuQHiay8ic9icrdk6h9BLUtH1bzWamLM0ExEFgiaYfclJJjRBnBY3HFeUyCXkicBzgZ4iavHtQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读该报告概述了未来科技趋势和创新投资机会。投资者需要关注技术进步如何重塑行业和市场，这些技术的发展和应用将为投资者提供前所未有的增长机会，同时对社会带来正面的变革。全文共计4534字，预计阅读时间9</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645639&amp;idx=5&amp;sn=4e740dfb0ac77f2ea03ba01335906b8a&amp;chksm=fd62760add8130a85d19c33856cd62cf9691aa5573d9a8ef980939a5523a1742f3b317093346&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI Sora专题：Transformer扩展优势凸显，视频理解与生成能力提升]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2srP44M5NuQHiay8ic9icrdk6B2mHx08dkMNTJ2g7sda5p2QiafB7OVXskJPzv5MF2iccvfa9O087kqJA/300?wxtype=jpeg&amp;wxfrom=0"/><p>　核心观点　　事件：2024年2月16日，OpenAI发布文生视频模型——Sora及其技术报告《Video generation models as world simulators》。　　从Sora</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645639&amp;idx=6&amp;sn=bc11e9ad1a2eee5fccaa63b0b9168e3d&amp;chksm=fd009eb967d40676879edd31fe83de9d771de95b56a5b7c4cf3d2f536ed74007495dcd37c232&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【普林斯顿博士论文】深度学习在自动定理证明中的应用, 95页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2srP44M5NuQHiay8ic9icrdk6JW9RhtBqOj9HjUs96vEfdApfflIvUHyPblUXgGxu96IUe82kWptk2Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>https://dataspace.princeton.edu/handle/88435/dsp014j03d298b自动定理证明是一项基本的AI任务，它对数学的形式化、软件和硬件的验证以及程序合成都</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645639&amp;idx=7&amp;sn=414922f6a52ac72caa6ba78b10e43941&amp;chksm=fdcc91a8934d3e803b33a80d8d1df4be58981a5632c8893ff198674f75d7b597956d17123ed5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645639&amp;idx=8&amp;sn=0858ee003994532af737d280e6925418&amp;chksm=fda547e0e4b85e2b4a888bd19fa1a20baef316c88469ac2f671ccb6e9c6a72d91799398487f4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 06:00:00 +0000</pubdate>
       
 
     </item>
