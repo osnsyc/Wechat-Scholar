@@ -65,61 +65,181 @@
 
 
 
-
-
-
-
-
-
-
-
     <item>
-      <title><![CDATA[基于LLM的多轮对话系统的最新进展综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25kP9ZsrAyc6ymjISpjAgKzDIH2gUn3BAiczNLicicX1HobhfdKFceYBoRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本综述提供了对多轮对话系统研究的全面回顾，特别关注基于大型语言模型（LLMs）的多轮对话系统。本文旨在：(a) 总结现有LLMs及其适配到下游任务的方法；(b) 阐述多轮对话系统的近期进展，涵盖基于L</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=1&amp;sn=8f9f6b70a361df1e45ab40035c24a25f&amp;chksm=fdf9f1cebcbbf3552953aaa5521867a7d964ff36b80d8d15d83241a8d4ac0ea68b91e7b2d359&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《大模型对齐方法》最新综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1zricQIXDdD97atvZibh4eibffQib7rJFnicTvqqwc3m1jUQAkmvLmibpO9U4v4picjls9TQj0JrKMDianoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型在人工智能领域取得了革命性的突破，但它们也可能带来潜在的担忧。为了解决这些担忧，引入了对齐技术，以使这些模型遵循人类的偏好和价值观。尽管过去一年取得了相当大的进展，但在建立最佳对齐策略时仍然存在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646186&amp;idx=1&amp;sn=56627bc6203775691b82bf39860b021e&amp;chksm=fdaba15babf29eb63c4ae6fb161f8a97bb42429cf39441e193e10bfefb96d56da08ba3a2bd19&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[开放世界机器学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25SDoDYUan11gegicd34HZYFk2iaS4RBQsiajXO6y6BhLBaEicS2caauibuiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习在许多应用中取得了显著成功。然而，现有的研究大多基于封闭世界假设，该假设认为环境是静态的，一旦部署模型就是固定的。在许多真实世界的应用中，这一基本而又幼稚的假设可能不成立，因为一个开放的环境是</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=2&amp;sn=a6ae33122d029971970940c69dd39c53&amp;chksm=fda593217d05def4f0d936c28f42bc4f0f360ccc8f213dd059cc52f5fe3d1b78a7a16237722f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【伯克利博士论文】对抗性鲁棒机器学习系统的新视角，171页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1zricQIXDdD97atvZibh4eibf1nKibTUVdbmLMgibDQNte4IjdmLxU8AcFKZGzT9Gl1KSzR5fD1oU8ia7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>安全性一直是计算机系统从硬件到软件再到网络的核心。通过近期的进步，机器学习和人工智能已在这一软件堆栈中找到了它们必不可少的空间。这个闪亮的新成员将计算机程序的边界推向了人类难以想象的地方，从多媒体编辑</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646186&amp;idx=2&amp;sn=47961d659eaa020c295d92699e5103f9&amp;chksm=fd9e747bd9f487b1269e7527f5de4d3a0683d18ed29338fa63ee69d752eb2112ad39b113e5dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【CVPR2024】通过丰富的监督增强视觉-语言预训练]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25GD2cSicgFNg9pMosk2fYwOLx9Fpn3ZM371pvKCozz8QknJwFVicKMbPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们提出了一种新颖的预训练范式——强监督截屏预训练（S4），用于视觉-语言模型，该模型使用来自大规模网页截屏渲染的数据。使用网页截屏可以解锁视觉和文本提示的宝库，这些提示在使用图像-文本对时不存在。在</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=3&amp;sn=db896377cdf1bdc3a23d9714fb30fabf&amp;chksm=fdcd94d6cd2dbb9af9d33344f08f5e4bc90accbc26f90689ad29ca81efbd51a41d4eb4f5f246&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[2024 人工智能安全报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1zricQIXDdD97atvZibh4eibfbu7ibib4fhQgslUlNDNkyAbwKefY1GgicG9sZLveB9ib53Sz4iaOBD5asCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：奇安信 　　近日，奇安信集团对外发布《2024人工智能安全报告》（以下简称《报告》）。据悉，这是我国首份人工智能安全报告。《报告》认为，人工智能是新一轮科技革命和产业变革的核心技术，被誉为下一个</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646186&amp;idx=3&amp;sn=7d12dbe30f57c02c51905fbc5c1ef290&amp;chksm=fd1ce8c4d1d1a3efc5debdd1c31e78bd458a576787d1f1a1f0d0dbf2041cbab0080e3434f314&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[未来空战：“机外传感站”无人机（OBSS ）计划及其与XQ-67A、机外武器站（OBWS）的广阔愿景]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSA10NAswWCt3gJBIPeyLWFZJ6naEeJlJ8ZfSGM4asPmqEapbcoD2HrLHRNwTm5ZteTibyogXExdXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>2021 年 11 月 18 日，通用原子航空系统公司 (GA-ASI) 在无人机系统 (UAS) 技术领域实现了一个重要里程碑。GA-ASI 采用两套复仇者（Avenger®） 无人机系统（每套均配</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=4&amp;sn=dd39019035cede472c77accfcb2f05d5&amp;chksm=fda543349f1d39af0357baf2d899a505a9bb755043662dc476bf89d9dfa4b04f8b10b0ac0266&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[美空军寻求人工智能无人机霸主地位，及俄罗斯无人机能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQwbWBS55tamlJ4YnoN8S8yISrD9QpeiakSkEenxibhWOEvoEJxibS4J8qTzL2LicqJW7jc1aWuHPzToQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在技术进步重新定义战争范式的时代，美国空军正在踏上利用人工智能 (AI) 实现空中优势的变革之旅。《华尔街日报》最近公布了五角大楼的愿景，即集成至少 1,000 架人工智能无人机，以增强 F-35 和</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646186&amp;idx=4&amp;sn=cdf1a986fe221697caae5f4422ac2116&amp;chksm=fdd0ab58e97f5d32299f1c68a3768c8de210ab65a7ac71ee08e9eeca036cb9c400c7b092e0f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《自主先进空中机动性——无人机及其他飞行器的端到端自主框架》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSA10NAswWCt3gJBIPeyLWFUcb68V7mq39xU7DoeVMUBlbGiblic2bcFoMLF7zsxTWyaMHjCW1vItibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>开发既能安全导航又能在无人干预的情况下执行指定任务的空中机器人--即乘客和货物的完全自主空中移动--是指导空中自主领域研究、设计和开发工作的更大愿景。然而，要同时实现所有类型的空中飞行器完全自主地共享</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=5&amp;sn=c48430121bdce150b9a67f2c26612a9d&amp;chksm=fda6177cce8a16a9129b81173d35e46e57c9852a60e47c9cd352a88d18070332cb6d10b6b2d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【CVPR2024】PromptKD: 无监督提示蒸馏用于视觉-语言模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1zricQIXDdD97atvZibh4eibfA8M1dClu8NrLHwoDt9VYoq1rzR7Giab9yXe06RFgyTwnPAViaIj8eLXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>提示学习已成为增强视觉-语言模型（如CLIP）用于特定领域下游任务的宝贵技术。现有工作主要集中在设计各种学习形式的提示上，忽略了提示作为从更大教师模型学习的有效蒸馏器的潜力。在本文中，我们介绍了一个无</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646186&amp;idx=5&amp;sn=6cedf44e454fcea204cc95b3a97db44e&amp;chksm=fdaa26464e8a35305e0b24a101535fb88a70d38bda55dbad46ea4a269bba9e15dc4723b690a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【WSDM2024教程】无偏学习排序：关于近期进展和实际应用，198页ppt]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25KZ7mWwF2Hcd67PGtmx26YZBN3IjibH00bEoiav47MdRTal4Ocbnt2APw/300?wxtype=jpeg&amp;wxfrom=0"/><p>自从无偏学习排序（ULTR）这一领域成立以来，它一直非常活跃，并且在近年来见证了几项有影响力的进步。这个综述既提供了该领域核心概念的介绍，也概述了其基础的最新进展以及其方法的几个应用。本综述分为四个部</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=6&amp;sn=a5287da256950a2e5806294a0e88d7e8&amp;chksm=fd1dc99a061f23a82b1ca0304d75007785f62a8a32c6b5d41d177ad8a298289fc6bf929ebaaa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[无人机集群任务分配技术研究综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1zricQIXDdD97atvZibh4eibfL1kLTNFagtIgbdQSyibWJBZFyiceRmJhT1AyxVFrLPicIdia6AKtHKGTaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>任务分配是无人机集群实现高效遂行作战任务的关键技术。随着无人机集群技术的发展和作战样式的转变, 无人机集群的作战任务领域不断拓展, 任务分配所涵盖的范围不断扩大, 任务分配问题的规模和复杂性不断增加,</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646186&amp;idx=6&amp;sn=371b2a137c4814edc5fcd66adff6cca2&amp;chksm=fd2723d06c89e717e1f3ce00830a49fecd27a5db6ac5bbe22e380205af580ef77b2bdf199ca1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Stable Diffusion 3论文终于发布，架构细节大揭秘，对复现Sora有帮助？附中英文报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib251JPDPgITaCTbuUSedWwFy2lsiaXY43VUJusiajSvq5MIaIyjTE3czafQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道编辑：张倩在众多前沿成果都不再透露技术细节之际，Stable Diffusion 3 论文的发布显得相当珍贵。Stable Diffusion 3 的论文终于来了！这个模型于两周前发布</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=7&amp;sn=7733445e5ff2f5fa3d263e7a7197fa1a&amp;chksm=fd328e5720437a01f8a8d4fc5ef68a92648cf67ad42ecaff2c5a8f90abf16cb8dfd2e548d5fb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[持续学习的研究进展与趋势]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1zricQIXDdD97atvZibh4eibfp6AVYJBfOEHSlzDCxls3QgibgFmtgF9bR14bVWEzCjAYGUlhfkwib4JQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着深度学习技术的发展与应用，特别是资源受限场景和数据安全场景对序列任务和数据进行快速学习需求的增多，持续学习逐渐成为机器学习领域关注的一个新热点. 不同于人类所具备的持续学习和迁移知识的能力，现有深</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646186&amp;idx=7&amp;sn=b781415a475c4cf555016e8d8d0f2a9a&amp;chksm=fd0b97f8d236e352bd87624e1dac49e95f0b7be3de5e5f9d4f80c015cd635550cb4a51ac37da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=8&amp;sn=11312cfbf6f3f56383cedfe0ad2a31c2&amp;chksm=fd57b23bfa6538cadc4a441618c24c131252c2349b5bf8e06208471d242efc359b4f800e3543&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646186&amp;idx=8&amp;sn=e076fb9b72be61403d0a6df6f1b4d3cc&amp;chksm=fd71964230bef93fb855314c1600ee60baa0c8cb7057dc8e24cbaf0278f90ce58420a41d3d6d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[基于LLM的多轮对话系统的最新进展综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25kP9ZsrAyc6ymjISpjAgKzDIH2gUn3BAiczNLicicX1HobhfdKFceYBoRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本综述提供了对多轮对话系统研究的全面回顾，特别关注基于大型语言模型（LLMs）的多轮对话系统。本文旨在：(a) 总结现有LLMs及其适配到下游任务的方法；(b) 阐述多轮对话系统的近期进展，涵盖基于L</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=1&amp;sn=8f9f6b70a361df1e45ab40035c24a25f&amp;chksm=fdf9f1cebcbbf3552953aaa5521867a7d964ff36b80d8d15d83241a8d4ac0ea68b91e7b2d359&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[开放世界机器学习]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25SDoDYUan11gegicd34HZYFk2iaS4RBQsiajXO6y6BhLBaEicS2caauibuiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习在许多应用中取得了显著成功。然而，现有的研究大多基于封闭世界假设，该假设认为环境是静态的，一旦部署模型就是固定的。在许多真实世界的应用中，这一基本而又幼稚的假设可能不成立，因为一个开放的环境是</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=2&amp;sn=a6ae33122d029971970940c69dd39c53&amp;chksm=fda593217d05def4f0d936c28f42bc4f0f360ccc8f213dd059cc52f5fe3d1b78a7a16237722f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【CVPR2024】通过丰富的监督增强视觉-语言预训练]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25GD2cSicgFNg9pMosk2fYwOLx9Fpn3ZM371pvKCozz8QknJwFVicKMbPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们提出了一种新颖的预训练范式——强监督截屏预训练（S4），用于视觉-语言模型，该模型使用来自大规模网页截屏渲染的数据。使用网页截屏可以解锁视觉和文本提示的宝库，这些提示在使用图像-文本对时不存在。在</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=3&amp;sn=db896377cdf1bdc3a23d9714fb30fabf&amp;chksm=fdcd94d6cd2dbb9af9d33344f08f5e4bc90accbc26f90689ad29ca81efbd51a41d4eb4f5f246&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[未来空战：“机外传感站”无人机（OBSS ）计划及其与XQ-67A、机外武器站（OBWS）的广阔愿景]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSA10NAswWCt3gJBIPeyLWFZJ6naEeJlJ8ZfSGM4asPmqEapbcoD2HrLHRNwTm5ZteTibyogXExdXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>2021 年 11 月 18 日，通用原子航空系统公司 (GA-ASI) 在无人机系统 (UAS) 技术领域实现了一个重要里程碑。GA-ASI 采用两套复仇者（Avenger®） 无人机系统（每套均配</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=4&amp;sn=dd39019035cede472c77accfcb2f05d5&amp;chksm=fda543349f1d39af0357baf2d899a505a9bb755043662dc476bf89d9dfa4b04f8b10b0ac0266&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《自主先进空中机动性——无人机及其他飞行器的端到端自主框架》]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSA10NAswWCt3gJBIPeyLWFUcb68V7mq39xU7DoeVMUBlbGiblic2bcFoMLF7zsxTWyaMHjCW1vItibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>开发既能安全导航又能在无人干预的情况下执行指定任务的空中机器人--即乘客和货物的完全自主空中移动--是指导空中自主领域研究、设计和开发工作的更大愿景。然而，要同时实现所有类型的空中飞行器完全自主地共享</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=5&amp;sn=c48430121bdce150b9a67f2c26612a9d&amp;chksm=fda6177cce8a16a9129b81173d35e46e57c9852a60e47c9cd352a88d18070332cb6d10b6b2d0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【WSDM2024教程】无偏学习排序：关于近期进展和实际应用，198页ppt]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib25KZ7mWwF2Hcd67PGtmx26YZBN3IjibH00bEoiav47MdRTal4Ocbnt2APw/300?wxtype=jpeg&amp;wxfrom=0"/><p>自从无偏学习排序（ULTR）这一领域成立以来，它一直非常活跃，并且在近年来见证了几项有影响力的进步。这个综述既提供了该领域核心概念的介绍，也概述了其基础的最新进展以及其方法的几个应用。本综述分为四个部</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=6&amp;sn=a5287da256950a2e5806294a0e88d7e8&amp;chksm=fd1dc99a061f23a82b1ca0304d75007785f62a8a32c6b5d41d177ad8a298289fc6bf929ebaaa&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Stable Diffusion 3论文终于发布，架构细节大揭秘，对复现Sora有帮助？附中英文报告]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2cUPV6KibqegADf42LYyib251JPDPgITaCTbuUSedWwFy2lsiaXY43VUJusiajSvq5MIaIyjTE3czafQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道编辑：张倩在众多前沿成果都不再透露技术细节之际，Stable Diffusion 3 论文的发布显得相当珍贵。Stable Diffusion 3 的论文终于来了！这个模型于两周前发布</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=7&amp;sn=7733445e5ff2f5fa3d263e7a7197fa1a&amp;chksm=fd328e5720437a01f8a8d4fc5ef68a92648cf67ad42ecaff2c5a8f90abf16cb8dfd2e548d5fb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646140&amp;idx=8&amp;sn=11312cfbf6f3f56383cedfe0ad2a31c2&amp;chksm=fd57b23bfa6538cadc4a441618c24c131252c2349b5bf8e06208471d242efc359b4f800e3543&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 08 Mar 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -630,134 +750,6 @@
       
 
       <pubdate>Sun, 03 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[181页《大型语言模型数据集》全面综述，444个数据集涵盖预训练、指令微调、偏好、评估等，附中英文版]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2Wiaiaop7APgpGqnqVcIGcllNB4wkmEqahlLQyfCkb8JGjalr9zkDoXCknaAJ6Lqvh14KoB4GDRLuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文着手探讨了大型语言模型（LLM）数据集，这些数据集在LLM的显著进步中扮演了关键角色。这些数据集作为类似根系的基础设施，支持并促进了LLM的发展。因此，对这些数据集的审查成为研究中的一个关键话题。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645799&amp;idx=1&amp;sn=39ef41df765ca51c8048dffc271fc3de&amp;chksm=fd46f1664e1b295cf6ed03c2b4241257074c7a99526a7ce184adf8db2b0a0851b43ba2896d22&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[重磅！Lehigh微软最新《Sora:综述大视觉模型的背景、技术、限制和机遇》报告，逆向工程Sora，得到了哪些结论？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2Wiaiaop7APgpGqnqVcIGcllQXMof3z9iaL7tibYVBjzGRlq9nHNGDnk7rxyfvVfnp2HpzWnJrQvoNbQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道机器之心编辑部一篇论文回顾 Sora 文生视频技术的背景、技术和应用。追赶 Sora，成为了很多科技公司当下阶段的新目标。研究者们好奇的是：Sora 是如何被 OpenAI 发掘出来的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645799&amp;idx=2&amp;sn=f9b5cf7c806f44ade62ce8ba5ba4d1ca&amp;chksm=fd4d7b7efccd1c5c9349c61b02c1697d7cd41a86b85f3cba907bed6329cc5d0dcd61efbb2044&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[俄乌战争：冲突两年后的战略评估]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTFmmUqPtsRibE5e0OCQWIjNYtDmOe3JfmWleKqFiaKszqDXia4DrSTVaQbh8bW8RcVjO09CsIHcORMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>简述研究俄乌战争中的战略平衡得出的结论是，俄罗斯占了上风。到 2024 年，乌克兰推翻俄罗斯领土吞并和增援被占领土的前景有限。随着美国财政和物资支持的减少，乌克兰抵御俄罗斯进攻行动的能力下降。乌克兰需</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645799&amp;idx=3&amp;sn=e682ac7aef37faf57c1fbba7a34644b0&amp;chksm=fd1cb2bb757ff67800372050742c2bae8b2b4791b4b0bdae7c48dd4af3448d0eb5f1f425835a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[美陆军：对抗性后勤环境定义]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTFmmUqPtsRibE5e0OCQWIjNf6mNTMYe919qA5OhxteCDrkbteFstSOBX8rQHuqdMLMX7Nul42S3gw/300?wxtype=jpeg&amp;wxfrom=0"/><p>目前美国陆军和美国国防部尚未将对抗性后勤和对抗性后勤环境这两个术语编入条令。军方必须对这些术语进行定义，以形成共同的理解，并提供有价值的概念，帮助军事专业人员了解他们在竞争连续体中的位置。通用术语可使</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645799&amp;idx=4&amp;sn=d32cc44075de8f69288a32aa8132bc10&amp;chksm=fda2eb45535e1d98e906780b5b6386384b18f8873ede6b66e8e35565c7de29509ebd84fa5b5d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【AAMAS教程】多智能体优化，241页ppt]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2Wiaiaop7APgpGqnqVcIGcllqzaiaDicIZCdlGku06Vr8bPmfBhmJ5iaOAI619VqWZqCeXMicpUtcFGbZA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在多智能体系统中，智能体团队通常需要以分布式的方式协调其决策，以实现个体和共享的目标。示例包括面向服务的计算、传感器网络问题以及智能设备在家庭中的协调问题。这样的问题可以用不同的方式来形式化和解决，但</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645799&amp;idx=5&amp;sn=2c6b3e7c6cc11449371b8f76d96ee51f&amp;chksm=fda1d1f5bf07a76feaf9ba7aae0cae994d79ae95d613844226240463f4bb04e88feb7ad2e95c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2023大模型落地应用案例集｜附119页PDF文件下载]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2Wiaiaop7APgpGqnqVcIGcll9bc6tJPcp9y3EicrdELKicRcaJFKEicWtknXw3qXeoNIshibODtiaJXHprA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型测试验证与协同创新中心牵头发布的《2023大模型落地应用案例集》，这是首部聚焦大模型落地应用的权威研究成果。《案例集》自10月启动征集以来，共计收到来自各行业有效案例百余个，地域覆盖北京、上海、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645799&amp;idx=6&amp;sn=9dda4330dc286edd17a38976e5c06dfe&amp;chksm=fdcb5528b1cb5d88b9b47737e991e11ec8f49704b2e86f10bdf1818f45fb7df5c559e2900ade&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CVPR2024】DistriFusion: 高分辨率扩散模型的分布式并行推理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2Wiaiaop7APgpGqnqVcIGcllrkTI49CgeApkibx0JKFqU7PI5ujb4tqjEeZ7bb6S9JOQAvgLKrEQKZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型在合成高质量图像方面取得了巨大成功。然而，由于巨大的计算成本，使用扩散模型生成高分辨率图像仍然是一个挑战，这导致交互式应用程序的延迟过高。在本文中，我们提出了DistriFusion来解决这个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645799&amp;idx=7&amp;sn=a61015127c85810d004796393c6a2009&amp;chksm=fdb2bee3d9d9f7228d8ca962010024113bcdb22d443bcd5a383df244dcf6d7c4d96d4947c88d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247645799&amp;idx=8&amp;sn=24cf56fdecf476fdb0930a0ae8cee01b&amp;chksm=fd63bbd0d84b671fad4c236a2cf325e76d2a407b7246b0f652aa4ebb3f01a405850eb857b2fa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:00:00 +0000</pubdate>
       
 
     </item>
