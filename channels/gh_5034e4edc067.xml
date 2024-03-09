@@ -53,34 +53,114 @@
 
 
     <item>
+      <title><![CDATA[LLM长上下文的问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464oX1Zic6HTunOUZUZWWMibAT6MXM7r1CKqk9j1uM6mYOKxkEHQDhia4duXLXrgFdoOCEgB2vuqFEPvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近长上下文的业务需求越来越多，刚好把这个能力现状和主流方案的基础内容简单梳理一下。跟长文本最相关的自然就是位置编码，现在很多模型都使用了RoPE这种位置编码，之前已经把RoPE的基础内容梳理了一遍：</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441219&amp;idx=1&amp;sn=5f0b179af52f8ab4cd3666298f80250d&amp;chksm=bfd4a440fbe152454c989c9b65a1852d533ab44169374acae49d0b3ce7887eb305f33334b663&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 13:15:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[俄罗斯套娃 (Matryoshka) 嵌入模型概述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2pa0Mkhjg845BnhA43As6pehic8auFzPAXx3boyibJG9pSvMDYcVTd1hZVnfpdicE1b7nrytn9IbKRaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这篇博客中，我们将向你介绍俄罗斯套娃嵌入的概念，并解释为什么它们很有用。我们将讨论这些模型在理论上是如何训练的，以及你如何使用 Sentence Transformers 来训练它们。除此之外，我们</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441219&amp;idx=2&amp;sn=190bff6dd42a8f3149401657a9ab4723&amp;chksm=bf299452e7637844e1262d54f868516a4f84333f188f0e1d45415023ef4c79ccb363792920b0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 13:15:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI：Superalignment的一种途径——Weak-to-Strong Generalization]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3ufJsv8rjl63OiajzlUxWXEibufG2icbRFKeI0DC6xVovmMglDodX47MWJS7TJxDoQoPthJIw0MmQv8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI：Superalignment的一种途径——Weak-to-Strong GeneralizationIIya在OpenAI出大新闻之前在好多场合讲了要推进“Superalignment”</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441219&amp;idx=3&amp;sn=c47ed3f7f2fb3f5a3a2401f8fd7dc9fd&amp;chksm=bfc819b497fb610ea4b547e6d628eb5ccbcda03a2c07e2cd0027f8ecd7d3dd64da4bc9110433&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 13:15:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Yi技术报告细节分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lWUmKVEqlaV7jv0QqEJ79uADXzlUicBDiakDoLicIb81U4uw17JnhodqxCjA8o6VaR7ZW9sE74C6w8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面Yi模型很早就发布了，但技术报告昨天才出来。之前分享过Llama2、Baichuan2、Qwen，今天来给大家进行细节分享。Yi模型在开篇就强调了模型设计思路是围绕模型规模、数据规模和数据质量</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441219&amp;idx=4&amp;sn=2cdc105ea9c9893be8286d0f3f791058&amp;chksm=bf70c0d1b91611e3b02a4e0214ca26e289fcb31814c872df4ea737985e387a0a7fc7a1c17640&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 13:15:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【文档智能】再谈基于Transformer架构的文档智能理解方法论和相关数据集]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGDgGIB4dVsVQKstxibLQ8mfEuP3wB04CVZRibggfQTclIxwaTak4Tric4jdGqUG3iawibXdicic9oOfb2iagQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言        文档的智能解析与理解成为知识管理的关键环节。特别是在处理扫描文档时，如何有效地理解和提取表单信息，成为了一个具有挑战性的问题。扫描文档的复杂性，包括其结构的多样性、非文本元素的融合</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441219&amp;idx=5&amp;sn=bb357691898282f1eafa1a1fd383b180&amp;chksm=bffbc7f189365ca948efaaf7fb10eeda3a885cac7617dbf9780c8350dd2cb95262d822acdb45&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 09 Mar 2024 13:15:43 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[当狂飙的LLM遇上推荐系统，一文说清大模型X推荐系统新范式]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GdTaGsj8bY0HZ6ibJgnkfKibyNt32WghvXALZPE7D0ThdrYpKibfkjyKgMvMBMWYetxyLnI8esGk98ZYyOlampNAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型技术的迅速发展，推荐系统正经历着一场革命性的变革。传统的推荐系统主要基于用户和物品的历史行为数据进行预测，大模型技术的出现，为推荐系统带来了更强的泛化能力和更高的效率，解决了传统推荐系统中的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=1&amp;sn=4ab4519d5c681c9364910fb4cf162d4f&amp;chksm=bfc78c183414d741811d97b17b403299a2b4d965d757537f46cc27ef8933c72a77ab10d2833e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[聊聊 DiT 和 GenTron]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3thIUC4lQu44VEdhSg1GfXpa3464Q9JI4GfmdaUfZY8YfmzfuxCmcbSiaWLwvEicI90BnRviauicXd4UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨无恶不作来源丨https://zhuanlan.zhihu.com/p/683930767编辑丨GiantPandaCV1.介绍随着 OpenAI 最新 Sora 的火爆出圈，Diffusion</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=2&amp;sn=a9bc141b6072afd90b5904527348e9c2&amp;chksm=bf312e2cead654da8bdaf2bf66b7f07e0f16d696042e582f0197e545af06e1beec6af68dec57&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【社招】【实习】【校招】【急】腾讯广告算法工程师]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLiazLdsHXNtF8O480s37Nd1HoBTLVGsr1Pa3D1NDkEcWKWiad1y38vCHoTeeiaTEoSEOrIhqkmygFng/300?wxtype=jpeg&amp;wxfrom=0"/><p>【社招】【实习】【校招】【急】腾讯广告算法工程师base深圳，hc充足社招职级：T7、T8、T925届校招实习+24届校招也招岗位职责1.负责流量收入，基于场景优化广告排序，提升流量变现效率；2.结合</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=3&amp;sn=3a8261b7679cb0d679e45baef1f958a1&amp;chksm=bfa212b817032352887a77a1a15a437dfac78b2963b1f26d9cc8591c7e8e26b0d4ce4afce0f0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DoRA：LoRA再升级｜参数高效微调｜原理代码]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh7b574wibAPK7BTLkOfh9icrbhUaWDsYAwbibJ8Cpsibf0K5Rc63nzabwsKaeUicSEXnoDdTThrLiaXTZhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>LoRA想必大家都熟悉，本质上就是把大矩阵拆成两个小矩阵的乘法具体的代码实现class LoRALayer(nn.Module):    def __init__(self, in_dim, out_</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=4&amp;sn=a57e7f8987427fc612f8aa9338c29401&amp;chksm=bfdd4dbefa715387328b35cc6d69e0fae97427737f304cb08d7b585586565592acda2882f0b8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Mamba精神！只能说ICLR输麻了其实更新频率还可以再快一点点的]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQf6tGN99FB1JZryoF2uM3NuUC1bgTOS0bicB9L0fZvWwI2EPDjGnE1sibYndgwWB2tia2c28dwicickaGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Github链接：https://github.com/yyyujintang/Awesome-Mamba-Papers/blob/main/README.mdMamba是一种基于选择性状态空间的线性</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=5&amp;sn=5412cfdd6801f9bbe1a70420737d1eee&amp;chksm=bf8aa81549bcd50f13e9a428d38531fb12c1825021b1131715f0196161759fe9e2926aeba79b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -319,246 +399,6 @@
       
 
       <pubdate>Sun, 03 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[国家最高科技奖候选人名单公示！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nJZZib3qIQW50Kzy0Z2auV5f8NrglbyyRj3FENMkMruKzzpo9NWt3fUwpVlaibpgdOYlo1hvxoCibdZf07YAK2nsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>转自 | 机器学习算法那些事2023年度国家科学技术奖提名工作已经结束，据各提名单位公示信息，备受关注的国家最高科学技术奖目前已知有13位专家被提名（不完全统计），其中来自高校的有7人。按照《国家科学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441088&amp;idx=1&amp;sn=1afc5284a534d2c7beb8d16a6d716330&amp;chksm=bf7113611969779e56af13c7cc44ea0afcd37d0514b17a2b5e34677989ab08bb9382929f0f52&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 05:56:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【赠书】​《大模型应用开发极简入门：基于GPT-4和ChatGPT》]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/riafuBXuN2hphVLiaiaKGqUhoE3YXxptz7N8oon5W1DOiaENEBnibiatfGlXNuMgOa7Tiauic8YtHbMEk0FKVdz5YQrYEQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>如果问个问题：有哪些产品曾经创造了伟大的奇迹？ChatGPT 应该会当之无愧入选。仅仅发布 5 天，ChatGPT 就吸引了 100 万用户——当然，数据不是关键，关键是其背后的技术开启了新的 AI </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441088&amp;idx=2&amp;sn=6ca214eeab28a088d4b60faf4d01b1ee&amp;chksm=bf26a7116ea84b00b6bbe5b8b934e4b69690f54c8396bc08d07c043ff84c7a9544a3b71509aa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 05:56:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【社招】云知声北京/厦门招聘【大语言模型研究员】]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLBEokedcFicDXuoIoiaqEeoGwlBlaF1EFQbZJTzHNXuHUy0KjbPPVCFs9zBJEeasdwYTYB5RH94x8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>【社招】云知声北京/厦门招聘【大语言模型研究员】云知声在招大语言模型相关算法研究员，对大语言模型结构有一定了解并熟练掌握主流深度学习框架者优先。北京/厦门/杭州同步招聘，团队优秀，多次获奖，技术氛围浓</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441088&amp;idx=3&amp;sn=02369ef8fea43e7baf2cad28ebf409f7&amp;chksm=bffa848853287e65a8b28b7f332dd11427e399a6e824112bda15c6b1f30d4ec35b4c0640482c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 05:56:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型量化技术原理-SmoothQuant]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/J0mLianhFicBECbVlrPmt5pn5Licyx07T9gaNnngzjISy6DMtQUGobYhrwwDSf7qwRflUOjnib9Wm97eGiccQBNhB1g/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，随着Transformer、MOE架构的提出，使得深度学习模型轻松突破上万亿规模参数，从而导致模型变得越来越大，因此，我们需要一些大模型压缩技术来降低模型部署的成本，并提升模型的推理性能。模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441088&amp;idx=4&amp;sn=ba5c14e10cb7a61178ab5d2d321e729d&amp;chksm=bf5484be73ce4eb7602df9870144fc856f9e11009699e2ca8b41aace063ae3e49611f645535c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 05:56:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[逐模块解析transformer结构]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hN1l83J6Ph8hjCKwxkXRptkjTiaUMnHOibCuRZ7dMp3CkmHcuVFchqIuClJf2yv8bz1eMHqFM4NH53rBOgqtzOdA/300?wxtype=jpeg&amp;wxfrom=0"/><p>transformer是一种编解码（encoder-decoer）结构，用于自然语言处理、计算机视觉等领域，编解码结构是当前大模型必包含的部分。编解码结构图：image-202402212212066</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441088&amp;idx=5&amp;sn=f4ec131e0f2174976fd3c58cd802d30c&amp;chksm=bf2c1c73c6341e80f48d1ab90ce09aca04a13c9d9d9b08c7457104819ffaecfa207b1dc77e6b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 05:56:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[成都IT公司公积金缴纳情况曝光！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OerFSZj1cQI6ZKm63BwMj9Zv9Zia3icEDR2A4ZSiaofniaMW6LQUY85fTHYwpSMVrUumyIFcFIthh25mZjkwPY5gRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理：Python爱好者社区大家好，作为一个打工人，对五险一金应该很熟悉吧。我还记得之前在北京的时候，公积金就是按照工资的 12% 缴纳的，个人+公司就是24%，而且是全部工资作为基数，每个月的公积金</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441070&amp;idx=1&amp;sn=782ebf5b35fa26fc0dd802cb659603a8&amp;chksm=bfc94b0ba43e724e534cae431cf73fed9cc0d13e7323d1d51e6b02ebdbef2e05b07b72c3081f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 07:06:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文带你了解sora技术背后的论文【附32篇论文合集】]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5mUr2jjo0goDBICASoh4bzZ5xB8MfpspSUFhtXB03iaZibGu7fwzTGecBvW8sjcAcgS1q4hKfUSV0qWbHjd8aBlA/300?wxtype=jpeg&amp;wxfrom=0"/><p>2024开年，OpenAI 又发布王炸级产品——Sora，这是一款可以根据文本提示词直接生成视频的工具。（文末送sora书籍）而Sora技术报告中曾引用了一项研究成果——DiT模型，出自谢赛宁与Sor</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441070&amp;idx=2&amp;sn=e75c7ae2da61c7e3be45f693aa8f3766&amp;chksm=bfbbb13e0545c81c6fefb15360b0c6311a26b5f6eb3f6b4147df84bc3eb40b36e7942e392194&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 07:06:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[美团大模型NLP算法实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKCONNbx9XEaAJQ2nyKzO3pp50Djw5k1c465XKYEHFoiacruTTnFyJxAaTzSL1KJpKXfvD6lQDFXHw/300?wxtype=jpeg&amp;wxfrom=0"/><p>美团大模型NLP算法实习生（北京）岗位职责1. 探索LLM前沿领域研究，包括但不限于数据建设、模型预训练、知识增强、Scaling law和模型评估等工作。2. 负责优化和提升LLM知识学习效率，持续</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441070&amp;idx=3&amp;sn=b4cb8cf522199344ad96a26674f6ed86&amp;chksm=bf7929f7ce7f529978baa62f05a39b361fac1e315fb045b5642660c0c7af1e83df8e0f2c39c3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 07:06:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【中科院计算所】WSDM 2024冠军方案：基于大模型进行多文档问答]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVf5FFaNNvfHy7LZiaeP6tFfRVBrYhTTLF4NicOXnTz1jXVustibjicuxOvz5SQO6lWficG1NiaZibDoCAbibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：李一鸣 张兆 中科院计算所会话式多文档问答旨在根据检索到的文档以及上下文对话来回答特定问题。在本文中，我们介绍了 WSDM Cup 2024 中“对话式多文档 QA”挑战赛的获胜方法，该方法利用</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441070&amp;idx=4&amp;sn=1bd61a9f5b9177f10ccc9e4e45389096&amp;chksm=bf6c17ae0df0f9b993a659080fb101d4edd810d379e32d54d544393d53160cc14dd884973be5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 07:06:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[人工智能水印技术入门：工具与技巧]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2pklB2nVSrfq2ySFqaLekCIcrBcSH3Q0Y0M64v0f2XsDmOLIR0epU8EPmj3jIQkJhWr8cWZOtz67Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>近几个月来，我们看到了多起关于“深度伪造 (deepfakes)”或人工智能生成内容的新闻报道：从 泰勒·斯威夫特的图片、汤姆·汉克斯的视频 到 美国总统乔·拜登的录音。这些深度伪造内容被用于各种目的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441070&amp;idx=5&amp;sn=138a8e4ec2dfce71c707b64f3f5e9e59&amp;chksm=bfde8958b907c7c66d183c6639585c278fec7213f0f6749c11215ddb6a9a7444e5689032fb2a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 07:06:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[卷了一篇top顶会论文]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKXY3dO5v734fpqY8ibhyUA3VUYqoXbeYFOKKGobUzuDIdicY7Iyz6cnORNKtMxgEriccowIcQABPNZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你的导师属于第一个课题就让你自己找，没钱，没资源，也没法做指导，唯一会的技能就是问进度的话！那么，你有idea（创新点）就发，别管水不水。没有idea，来研梦非凡！原始idea是重要的！写作表达也</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441056&amp;idx=1&amp;sn=0acdcf8fa590e17e36bd3e012efef6c9&amp;chksm=bfb3e2dedce77a320014c975731762915d983f5ad3259089a43f0eff4ff4a12b52eedc55f7e3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 07:08:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[使用 Hugging Face 微调 Gemma 模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2qXJtlwibpKTRiaCNicftMicXichPA6MMYQibGUZ7IbBOQ1O5zJE836cRy0HrYicXndx1VWomJibQ3J8ibY2pw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自 Google Deepmind 开放权重的语言模型 Gemma 现已通过 Hugging Face 面向更广泛的开源社区开放。该模型提供了两个规模的版本：2B 和 7B 参数，包括预训练版本和经</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441056&amp;idx=2&amp;sn=07168e7cf51751a2537480c3fde1a522&amp;chksm=bf70a1e13c70a570a841da5a9ae8f69c52b658559a066c68dd16cf84079f397161e705c95101&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 07:08:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[「急招」字节跳动搜索团队招聘算法工程师]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKXY3dO5v734fpqY8ibhyUA3ibjWCibYATGM9yBAAO69uTNpWIU5icLCt7upk22mavRsUWF8JzHfvYUsg/300?wxtype=jpeg&amp;wxfrom=0"/><p>团队介绍：字节跳动搜索团队主要负责抖音、今日头条、西瓜视频等产品的搜索算法创新和架构研发工作。我们使用最前沿的机器学习技术进行端到端建模并不断创新突破，同时专注于分布式系统、机器学习系统的构建和性能优</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441056&amp;idx=3&amp;sn=f08cccb110e78ada2eeda0a3f794880a&amp;chksm=bf4e18d75620e9853e1ba926a34cf430dabf255c996afb72fe287fbb56c358d56ba481c46e8c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 07:08:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM 的幻觉到底是什么，有什么办法解决？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQeR43UtykbrGXoHC7TkRpfFZgAtyrPXtiaxoU574VpmcMX4ZickumiaAicZLslHwBWHO1icIeDHnicf1FwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | ‍Conqueror712 ‍https://zhuanlan.zhihu.com/p/682697588大家好，今天分享关于大模型的幻觉现象。省流版：幻觉是指模型生成的信息可能或 不准确 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441056&amp;idx=4&amp;sn=20ca650a7bcb42c472d4f98b3db13f53&amp;chksm=bf423b4732837161d33ff328de53765dbe01ee16fb859718e51f8a862392b640a2fab4e3d79a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 07:08:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型量化技术原理-LLM.int8()、GPTQ]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/J0mLianhFicBFfW2BqnBLjXc9m4WLcGWAiaJEqLrbkrreHLH7psg0tqEY6XwWHzdicXMbGXrgR4hQYSLp6LSkiaCA6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，随着Transformer、MOE架构的提出，使得深度学习模型轻松突破上万亿规模参数，从而导致模型变得越来越大，因此，我们需要一些大模型压缩技术来降低模型部署的成本，并提升模型的推理性能。模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441056&amp;idx=5&amp;sn=77b189d0ab98b9fbf39783f1c78b4ce9&amp;chksm=bf41f32b9df4564e7b1e06e07471c4e81121e11a1d887effc60dbdc6e89c6bb8aac84c2d2a89&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 07:08:51 +0000</pubdate>
       
 
     </item>
