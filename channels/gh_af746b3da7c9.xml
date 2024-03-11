@@ -34,40 +34,109 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[自我分治解决复合问题: 详解Self Divide-and-Conquer]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsiatDXqyD6gicicgak1zFNiaQ5hWiat4U8IsKNL7ZRFpCicZJ3w9UiaTOjvxqnpReZMUlbx4KtQZHJQnzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：老刘说NLP（稍作修改）今天介绍下最近特别热的利用LLM评估啥时候使用内部知识和外部知识的论文。现有的工作非常关注大模型本身的知识边界，以达成对于大模型known和unknown的问题能够进行不</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526465&amp;idx=1&amp;sn=763ff2ea8bb2acd0b1da23274f085f24&amp;chksm=eaff9e14f22f05c8af1d613e675ac53e91b066c3c4636ffacf3eef5373e1a321e2cc99867b8e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 11 Mar 2024 14:24:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 邱锡鹏团队新作：In-Memory Learning 智能体声明式学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaib1eqoBLXn1CnTHo40DzRN674yM5mpsIKycCdblHWDgGhArlslOiaMGnA8wnhKxSHoQwYumCI2AaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：探索agent是否可以在不依赖于人工标记数据的情况下与其环境保持一致，提出了一个有意思的研究课题。从智能生物观察到的对齐过程中汲取灵感，我们提出了一种新颖的学</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526465&amp;idx=2&amp;sn=4d9b5e368ae429930d150665cfd3f411&amp;chksm=eaab022756ac1bd19a0b76fd3ca1bee05052d3b9f1de721effcfacfc1faeafab602c5cab49ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 11 Mar 2024 14:24:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 【ICLR24】用语言模型预测表格Tabular]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaib1eqoBLXn1CnTHo40DzRN674yM5mpsIKycCdblHWDgGhArlslOiaMGnA8wnhKxSHoQwYumCI2AaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：深度神经网络（DNNs）的可迁移性在图像和语言处理领域取得了显著进展。然而，由于表格之间的异构性，这种DNN的优势在表格数据预测（例如回归或分类任务）方面仍未</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526465&amp;idx=3&amp;sn=6844426fa9113bdc09bcd23878f0c37b&amp;chksm=ea49671d83f80e78d6b55d10f2bc46e32a14e38dba519355ef7428cbe01a688a7a8363a3d90c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 11 Mar 2024 14:24:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 使用LoRA微调也会过拟合？探索LoRA中的Dropout]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaib1eqoBLXn1CnTHo40DzRN674yM5mpsIKycCdblHWDgGhArlslOiaMGnA8wnhKxSHoQwYumCI2AaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：以显著的能力，大语言模型（LLMs）已成为许多自然语言处理应用中不可或缺的元素，而参数高效的微调，特别是 LoRA，已经因其轻量级的模型定制方法而备受青睐。与</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526465&amp;idx=4&amp;sn=ce0f9884cf2e2712b4d710782bd60ec3&amp;chksm=ea598ca21652f10132b46f849df4e72887fb4a01af6fd6f25c71b6b0024bc3615b4d0ff6fce5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 11 Mar 2024 14:24:41 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[详解大模型微调全流程]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahLjMAw7j7vftz4diaIVEoNUjnMLeGvF33jna3HEmjibOabPaWBk5CYL5gVhnibTcdmj3D6KFCStFvXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：1050Ti全量微调.，东北大学软件工程原文：https://zhuanlan.zhihu.com/p/684691249声明：本文只做分享，版权归原作者，侵权私信删除！编辑：青稞AI微调实战经</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526390&amp;idx=1&amp;sn=f0ac8f5ab500013ed63a385533436145&amp;chksm=ea82267dc8c402c11f706deb78bea5421c087665bea13104db199249f24462bc46fe1b369c5b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 09 Mar 2024 12:21:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | Self-Retrieval:内化检索信息到llm的权重中]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagHDOSxibvHyV7fNXMAiaLtT69uaFuK0kslPAAFstUtlg0w8dYWxiblIiaNIZUibbllIoYkiapjXPvzPWuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：Dense Retrieval（DR）现在被认为是一种很有前途的工具，可以通过结合外部记忆来增强大型语言模型（LLM）（如 GPT3 和 GPT-4）的记忆能</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526390&amp;idx=2&amp;sn=95b45b5383601bc169ff9f78d9a52168&amp;chksm=ea177d1e7ac747d0855822c9605875c3015ca3f3fd21d4df51035279792f99d8fe0864f31f0a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 09 Mar 2024 12:21:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | Meta新作GLoRe：让大模型识别何时何处需要对推理进行改进]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagHDOSxibvHyV7fNXMAiaLtT69uaFuK0kslPAAFstUtlg0w8dYWxiblIiaNIZUibbllIoYkiapjXPvzPWuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：最先进的语言模型可以在数学、科学或代码任务中表现出令人印象深刻的推理提炼能力。然而，最近的研究表明，即使是最好的模型，在没有外部反馈的情况下，也很难确定在何时</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526390&amp;idx=3&amp;sn=37ac468ca65670f25916aff5ec2959fd&amp;chksm=ea01ae58b4621321d7775a26f48d10d8707655de153b07e0d8ec8ebab6d5066b6b286fa0bd8a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 09 Mar 2024 12:21:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 对比偏好优化（CPO）帮助提升LLM的翻译能力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagHDOSxibvHyV7fNXMAiaLtT69uaFuK0kslPAAFstUtlg0w8dYWxiblIiaNIZUibbllIoYkiapjXPvzPWuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：中等规模的大语言模型（LLM）--参数为 7B 或 13B 的模型--表现出良好的机器翻译（MT）性能。然而，即使是基于 13B LLM 的顶级翻译模型（如 </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526390&amp;idx=4&amp;sn=80da05ed9fe3f05d8bc305610639d2a2&amp;chksm=ea7411a92d51bb5992dd1b4ab0db9cc2ef0180e7248f1ec377081ba8e8049cab648a352082bb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 09 Mar 2024 12:21:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 深入分析RLAIF与SFT对大模型alignment的影响]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagHDOSxibvHyV7fNXMAiaLtT69uaFuK0kslPAAFstUtlg0w8dYWxiblIiaNIZUibbllIoYkiapjXPvzPWuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：Reinforcement learning with AI feedback（RLAIF）是一种流行的范式，用于提高强大的预训练语言模型的指令跟踪能力。RL</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526390&amp;idx=5&amp;sn=ed0f24062041197af36b13067270fd23&amp;chksm=eabab9ad83fa3890d1937be95678de850053ec382c2ce1479180243420493160604e382c1a46&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 09 Mar 2024 12:21:11 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -226,38 +295,6 @@
       
 
       <pubdate>Mon, 04 Mar 2024 15:26:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从0开始预训练1.4b中文大模型实践]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagkKMfGIPj1sxLHv1ibfqzGlpeeHnYa2wN2g99173g9SibWB2ZD4HoSiay4ia0zh9UtWvtdBcrCXGp7NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Lil2J@知乎（已授权）链接：https://zhuanlan.zhihu.com/p/684946331简介这篇文章主要记录了我个人对1.4b中文大模型的实践复现过程。我选择了QWEN作为基</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526159&amp;idx=1&amp;sn=5c9de926bc62fdcac8e227e3d392827a&amp;chksm=ea81e2c8da39f61b6f986d42ffa5ebeac8ba31913715a15f1ed909ffad4f8a8a08f38b4c7c23&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 12:25:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[合成数据(Synthetic data)微调大语言模型实战指南：背景、方案、案例、代码、评估]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagkKMfGIPj1sxLHv1ibfqzGlxfZkbNtCqicLbR5ynhTL1lbaLsWMpygnWTiaicYKDGRbJMfWE6fPbFrOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：旺知识应该微调自己的模型还是使用公开大语言服务接口(LLM API)？创建自己的模型可以完全掌控，但需要数据收集、培训和部署方面的专业知识。LLM API更易于使用，但会迫使将数据发送给第三方，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526159&amp;idx=2&amp;sn=34e9830656726ceb81f15bd3ecfca77e&amp;chksm=eabc8e812e6ce0e24c7cf50c2e7a95b1f4c80de67dbd47d469582f6e861c532903d5f931c79c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 12:25:34 +0000</pubdate>
       
 
     </item>
