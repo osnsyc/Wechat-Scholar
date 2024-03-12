@@ -37,40 +37,116 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[YOLOv9来了！目标检测新SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKK6oV4h2vcpmibSlD1gElyCMiaG3AOzMeRk7FLicW7MibAaU98aKRJxXftpM0TiafseQDAian9p91g3IXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标检测新SOTA：YOLOv9来了！本文系统梳理YOLOv1-YOLOv9全系列论文及代码，以及YOLO12大必备项目。还有三大CV顶会CVPR、ECCV、ICCV 85篇目标检测论文与代码；以及2</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=1&amp;sn=1e2c225ea469333a33b01e5f32a24c6e&amp;chksm=bf29850282752a03d056c9a4939a303af67fa8257c811766e711849a40b8b1f122a4721221fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解Mixtral 8 * 7b推理优化原理与源码实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOzufcyGhc6P8q4tff1nUsfdPKjVMuDABnLrQPHaXdic9kmmZn8EnPN7fIRTr28jxy28rL3bicseHibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，在写这篇文章时，本来是想打算介绍Mixtral 8 * 7b具体模型架构的。但是代码读着读着就发现：最精彩的MoE部分，其相关原理在之前的文章中已经详细介绍过整体来看Mixtral 8 * 7</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=2&amp;sn=bc602f952fe18fc714d939ac1d7a7844&amp;chksm=bffc34c882bebcfc8a5cb44bde203ed1c0788098c7708f7c9c96e897a1ecfb010dc96f69d7be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM 模型量化推理速度评测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2KUCQBHkydks0ndyyGKhwF92MC7L9tLyQuf3s9kUTzueStrTcPqIkr2ArYvUDboZiaIj9NIaXwXmfSKMicVfqCuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近了解了下些常见的推理和加速方案：量化方案：gptq、quantization、int8、int4、AWQ、Speculative Decoding、GGUFAttention加速方案：atten的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=3&amp;sn=b079424552ce6de478a74525c0530e04&amp;chksm=bf87877743dd66b6e966f8a5053c1755e4e45e37070b33c884fed145ec720b7d295617995aa3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[自我蒸馏方法-减轻大模型微调过程中的灾难性遗忘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nguoIx5q8CXRwYVKTfVDOqrllGvuLHEkKGiaLsAMObaKXHf3q8gqgfAdiaPJ2xQ8Y5txFkMvMGxDMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型在指定任务上进行微调后，会取得较为不错的效果，但同时可能带来模型原有能力的下降。今天给大家带来一篇通过自我蒸馏减轻大模型微调时的灾难性遗忘的方法-SDFT（Self-Distillation F</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=4&amp;sn=7563d6b4cc4728df6141c7ccc18b9e4f&amp;chksm=bfca04ee273536568df5056bf39828d551992f51e1042ef066821ecada3d85901b57785acb37&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LM-Combiner：通过模型改写实现更精准的语法纠错]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/58FUuNaBUjrSKEPdYcHU2uibHHX4HULTmG8xzHhdsKgrwFZO5OUNtl10NPtXfWUxrqb7qib5JsvlN84IdhqLkBKA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文名称：LM-Combiner: A Contextual Rewriting Model for
+Chinese Grammatical Error Correction论文作者：王一轩，王宝鑫，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=5&amp;sn=e0d4d39bbf00d80a01c262adecd65806&amp;chksm=bf69330e963a228d10d0ae4dae63c6e9fc8fcd224845d604babc004ea4dc99e7375fe37c18e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[没房贷的下属太可怕了。。。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icmWrEONNM8WOku27Jc5jokUP1nIqsV1SnZq7Gwg42OYupRCgPH6xblqEzCfAmuuEdLC1nTntqiaT7fxRRxjggew/640?wxtype=jpeg&amp;wxfrom=0"/><p>在微博上看到一个热搜话题：没房贷的下属太可怕了。一些高赞评论说到了大家的心坎里，三无青年无所畏惧。什么是三无青年？无车贷、无房贷、无后代，如此，也就没有太多软肋。随着越来越多的00后步入职场，满足如此</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441253&amp;idx=1&amp;sn=a535c78dffbdb454fe12e0333a3461e0&amp;chksm=bfa7df0b62c9149a920158b9c8251cf7d458bc1bc49e8d0653fe8bd7e812f6df578095dc8a04&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 11:33:52 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型的智慧之源：图技术的崛起 | 文末赠书]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKK6oV4h2vcpmibSlD1gElyCrHNE5pgWz3B4t7DVticZetwfQf89BicWU7vkSTvdvgk7mQfk9crr9f8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书--自2023年以来，大语言模型（Large Language Models，LLMs）的兴起已经改变了科技行业的面貌。科创公司如果不涉足这一领域，似乎就不好意思称自己是科技企业。然而，随</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441253&amp;idx=2&amp;sn=06e867331fa89902c9e4860115735128&amp;chksm=bf4ae165517570f00ebdf73e627fd73e9937717289c46298bd15221793991a052f20a8d67d39&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 11:33:52 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[当LLM面对囚徒困境，阁下又该如何应对？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQeR43UtykbrGXoHC7TkRpfFZbPeT7x3Nd6CMC4WYb0l8VACBzWAXDphxAGKLWWjBRBgqs7Ak91FPQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Conqueror712 https://zhuanlan.zhihu.com/p/682698121大家好，这里是 NewBeeNLP。今天分享 LLM 在博弈论框架下的 战略决策能力 。</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441253&amp;idx=3&amp;sn=fc20222e22ffd531087baade2c6dfe50&amp;chksm=bf48b38522fc0980f76c00fec66583bf9e291cf733126e4054a27b438e4b41e8b31b284cbfd3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 11:33:52 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[阿里云人工智能平台招聘算法研究实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKK6oV4h2vcpmibSlD1gElyCx9D2502HKFanrY3ow5k222srMMtS1Yxnp06cEVLia3qABUdK8icP7JPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>算法研究实习生（base杭州，可直通秋招转正）我们是阿里云人工智能平台（PAI）深度学习团队，专注于人工智能算法及框架开发，已经开发并且开源了面向NLP的框架EasyTransfer和EasyNLP，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441253&amp;idx=4&amp;sn=af3945c63b0e1b14b3e78698bc492246&amp;chksm=bfe824a98db71bf69a519126ecfbf21f3d5b497bfa9d46f48c398e93de048e6b8ea7d43eeeef&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 11:33:52 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[融合RL与LLM思想，探寻世界模型以迈向AGI/ASI的第一性原理反思和探索「RL×LLM×WM>AI4S>AGI>ASI」]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yToxjhYT5ibZnMJpW8Clke62STYD7zYM9zibhTVWp2k8Rj1SfwMQIklGdGxtNPIRTkpp9sq1yWem5Sgfyhjco94g/300?wxtype=jpeg&amp;wxfrom=0"/><p>本篇文章与2023年底尝试挖掘并探寻以chatGPT为代表的LLM和以AlphaGO/AlphaZero及当下AlphaDev为代表的RL思想的背后底层理论及形式上的统一，同时与最近OpenAI暴露出</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441253&amp;idx=5&amp;sn=a67aaddfb506670093a96cf3cc368107&amp;chksm=bf70399189d8cc4f50a135191ea394a6c81245d39b200284589fc02ba73640f3defd48ecc3c9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 11:33:52 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -229,86 +305,6 @@
       
 
       <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[保姆级 PyTorch 中文教程，来了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJP5EsPa7gjOUwVS8qQUTuicEm00OSibwB7smM9kyfyreDtBVqVHA7LLRt1t94oLd2SQXGpjNAlTYBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>对于深度学习小白来说，PyTorch是必会的框架。很多同学会自己在网上找资料自学。这样不仅耗费时间精力，更难以分辨资料的准确与完整，甚至可能连学习的重点都搞错了。如果你也是个刚入门PyTorch的小白</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441134&amp;idx=1&amp;sn=418c05240a796e84061e1d10b48dbee3&amp;chksm=bf811a3fceaecd87288780eaf33612219ec82a0be80b4fa1b3242d227385c8f9f30b91626f1d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Claude 3 匹敌GPT4的大模型发布]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuzx8f2S9KAAPzKt6d4v9StRYXg44rrPibathMI5jQsKeoO7veONvma6aIN8KvWgU3hlhJUHMLfcJxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近文字类生成式人工智能趋近平淡，大家似乎对这方面的热情也逐渐冷却。Claude 3这次发布是一个“追赶GPT4”的令人振奋的消息。被大家所关注也是给予厚望，毕竟之前是真正的千年老二，不像国内各种吊打</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441134&amp;idx=2&amp;sn=e1d208d15810ce01c74f9d3f6ad5a608&amp;chksm=bf40795f94f7704c7380d6cf61a5f843ef7bb7e6c9d16b723531901ef2d665330060adce619f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[使用Firefly在单卡V100上对Qwen1.5进行SFT和DPO，大幅超越Qwen1.5和Gemma]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/JrHT8u594NExyy1p7hO6icvLtznpvE6oPZIQiamt4EMmC30GPO3MES1KFeGjSB2WqBL44m6vOI7mgD94lvthSwWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>01简介Firefly 是开源的大模型一站式训练框架，支持对各种大模型进行预训练、指令微调、DPO，支持全量参数、LoRA、QLoRA等训练方式。支持包括但不限于Gemma、Qwen1.5、MiniC</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441134&amp;idx=3&amp;sn=e69d670c2fa2b11c646ffac6eb013ace&amp;chksm=bf9fd8d0e28927837d21ad66197a142fb3f88bf7b79a4ecf76b296632356dd7ff6035cc1dba2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[阿里通义实验室招聘算法专家（P6/P7）/ 研究型实习生（Research Intern）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJjic1U4L12I7nxkxS8utNLviaSiashjJqKEw2iaq9ibgXKctDx0c9BnNsdTJ5aMTTf4CBXaheIWXXFf3w/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里通义实验室招聘算法专家（P6/P7）/ 研究型实习生（Research Intern）[团队介绍]阿里巴巴通义实验室，主要负责通义系列大模型研究与产品落地。其中对话智能团队，以大模型研究和应用为中</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441134&amp;idx=4&amp;sn=1abf0f79f955f92dc2fa61f67e67ad54&amp;chksm=bff1a37f3a91987734aa5c63bf605697f105d396a78ee05f7ae6c07242518c334cb92da60b2b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ICLR2024｜生成式视角下的实体对齐]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcPJB4Mjk5FrErgb7LibKicEBmTBQHJ5Etf5lTQgzP9rYNOGHb7gicQLmBKKzkpjvcib4tp3ibvYib66ybDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Revisit and Outstrip Entity Alignment: A Perspective of Generative Models本文作者：郭凌冰（浙江大学）、陈卓（浙江大学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441134&amp;idx=5&amp;sn=ceba8000d4525faa0c6870910cf85a4a&amp;chksm=bfdc8d29bd7aae1d1a46b1a95a5611222554b5f9cc1542599c38356aaf058c9bb3b8c48dca0e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 04:10:00 +0000</pubdate>
       
 
     </item>
