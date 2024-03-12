@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[捞偏门解方程的CFD选手]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknHx5yPlcMasvnMFXjH3wf5wvw0cJEic1ia98NCRZB9whQicibaMbqUFYqLd619cwlNUr1R6HO7cjX1vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>论坛最近有老铁要植入一个算法，我觉得挺有意思。我一直在想，怎么能把CFD里面有意思的点呈现给大家，CFD是个很好玩的东西，其实很多人一直没有玩到CFD有意思的地方，就一直没到那个high点。CFD求解</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427287&amp;idx=1&amp;sn=af6034a65309d65d22c22c8c61670a92&amp;chksm=899adc136c5fccf7d67c40692b13b6c66e8166c301dbc4dc0e2f0fac7f20c3a24b57b771d6a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 06:24:11 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[方程加一项，继续爆顶刊（网格尺寸小于颗粒尺寸怎么办？）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknibBkdibFPcBB6hA4eOS5bHCibzgdULPLjqM4pGvqYldIhDGcS4wp1MABeJgxddPBv4P57nQglGN2bA/640?wxtype=jpeg&amp;wxfrom=0"/><p>看他们各种公式小改，拿OpenFOAM算一下就发顶刊的人，真是思路清奇啊！！！！在模拟多相流的时候，潜在的假定是离散相的直径要小于网格体积。如果网格比较密怎么办？在Krull的这个文章中，通过在连续相</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427281&amp;idx=1&amp;sn=185cbc87748e485f7dc68a913600ae2d&amp;chksm=891180de513819b52772a9a6325cdfd5465dfd572b7768c764141262b1fcc15cfa3b98d96aee&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 06:04:24 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -71,278 +88,6 @@
       
 
       <pubdate>Wed, 06 Mar 2024 04:03:01 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[在帝国理工，剑桥搞CFD，这很吓人啊]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklhWFq8hAFy2McVzEk0dpjCEqPB5wBnUMdFWlD3Dxt0WCtbs50yMuM908NkCibLGA8hBEYbdz833icw/640?wxtype=jpeg&amp;wxfrom=0"/><p>上面两个图。一个帝国理工，一个剑桥。给我吓够呛。帝国理工的老铁把我当成了CFD领军人物，这属实不敢当。咱只是一线码农而已。老铁你是如何在考上剑桥本科的？？？我这个课目前没有线上课，之前22年因为疫情因</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427243&amp;idx=1&amp;sn=8179d08270d35a2e720c3b1d03f63347&amp;chksm=89709f256c0a2d5536f70da38266232320e2a16c897c885650beb5f45540e8a2d27786709e25&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 05:58:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一个算法吃10年，sci嗷嗷刷，太流弊了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkZICKC64LD6LtwR2xkm8naOYJJK5nibiaPdhc7cqUBvL7uG9vGdrcNWOfBua2bibWYibxbzSibHBFVIyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>K大神来自俄罗斯。10年前弹指间把两个现成的代码复制粘贴了一下，从此踏上了算法的征途，披荆斩棘！这十年来你知道K大神怎么度过的么？每次去楼下整一碗麻辣烫，回家喝3瓶啤酒，十年来，K大神每次写10行代码</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427239&amp;idx=1&amp;sn=091408d58049784abd0ca25561576879&amp;chksm=89cb466a210b8fab31fec41b7fb77cb08d38bf7b6da2dcd0a16be658ab2c29d0ab1493d05caa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 04 Mar 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[老 铁 喷 我 认 知 不 清？？！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmt4Gsmics6ibOLdSicdrFhibp5c7RtFxzfRZdvpYCRfgQJp8YedwatRvNibnA7JCQMIcAZaNUbOjJjkibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DYFLUID是国内最大的CFD/OpenFOAM网站。CFD中文网为国内最大的CFD论坛。我觉得我上面说的没毛病啊？并且我说的很严谨。我讨论的是国内。国外cfd-online那是先驱，历史的沉淀国内</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427232&amp;idx=1&amp;sn=3f64eaad293341a64e3dcfc663218a3d&amp;chksm=89edb3952761697f46dcaf17fd1a7666f81205fab9cf4c0dd8e8f8ef0f736d232f92f2533328&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 06:07:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[只要捞偏门，篇篇都是顶刊！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkMo0vhvichPUbaYUcfd8H3NFO5MHelCfsopB4FFbia5Fqms5RPcymylJk32rkzNOaoHiaqmYaIEoUxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>太流弊了，今天这几个大佬，思路稍微转变一下，格局就上来了！啪的一下就干了一篇顶刊！这个文章，简单说一下吸引我的东西。传统VOF模型，这玩意算气泡总是会合并到一起，无数英雄竟折腰，搞不明白！陶哲轩都直接</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427217&amp;idx=1&amp;sn=94f08d2c882e5c56f54f24aad54594c6&amp;chksm=89259d8eb27735ff3d0452eb4acc468d951b4cd321be19830234e06ba9493a5df43526ddaba9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 05:57:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年，CFD软件如何避坑，如何拿高薪]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkAqvgmmDOH9Sxp3oQicVXajBHmhumapII1mWbQ9APdbZCSXI1SLWrQrF1j5TzEbdxX789drtDRtxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前几天有老铁让我普及一些CFD的东西。没问题，我就写一写。针对这个问题，第一期，我们先讲CFD软件的选择问题，下一期，我们将CFD学习的问题。在CFD软件选择这一块，年代不一样了，聪明人一定要会借势。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427206&amp;idx=1&amp;sn=0cd3f2235c42c92b756a5786d3c23285&amp;chksm=89a54e81bfc557e7fe42366b8cb79a4db43c921755446e4d1e45ce1b92bcbbfb4cbd7d1dc272&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 05:58:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[审稿人的问题，不会回答咋整啊？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknUJNz8BF5HcfZLqY1K1SXagXAoQm85qibbIX7iaiaayVdIicVNHvLbKsicTJtPr11beTRlXtMCjKWyWaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近论坛有老铁提交文章，被审稿人问了个问题，不知道怎么回。其实类似这种情况时而发生，于是老铁就去论坛提问了，如上图。帖子发出来之后我看到了，啪的一下就点进来了，很快啊！经过简单描述，我直接给老铁回复了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427205&amp;idx=1&amp;sn=6af040a190720ebb52cddcc9c75e9736&amp;chksm=89038201677c9e6676f5f0179cc3d6fc8dd4c99b688540070d85c1598ab2df95efe277337092&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 28 Feb 2024 06:01:30 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CFD工业软件难在哪，上亿砸不出来一个能打的？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmQoz5dcjQsib9PzOyHFoVoTwFUVBKvcLibLZvhYQ9MtOI0q5jaJzf3UqgBHXcOl01kr9yrpBpy5icTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CFD到底难在哪里，砸几十个亿都砸不出来个能打的CFD软件？我以一个非常小的点来举例，类似上图（上图那个答案可以去免费下载《无痛苦ns方遍笔记》，阅读原文，我的网上有）。CFD难就在于，里面有很多经验</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427192&amp;idx=1&amp;sn=e547955ce8007603df5c9c7f478f011a&amp;chksm=893d2296c7b47086c98a01ea920848b8b38e583aece6a594dcdc5d70a9ad3af4b365456823c7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 06:06:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[着急发sci赶紧毕业的！给你们点干货！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknMKQN7MyqALiaEZoicdWpKiag8nFsm1ERRxaxNTOGYFp0glWd5esMq6e0SsjbkoibqN7FtiaXicR8dedtg/640?wxtype=jpeg&amp;wxfrom=0"/><p>10.1063/5.0187353下面这个内容只是我写过的3.68百万行代码的冰山一角。坊间传闻我半小时植入一篇sci绝对不是吹流弊。这都是因为我把OpenFOAM代码都背下来了。那背不下来怎么办，查</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427185&amp;idx=1&amp;sn=fbb19fc7d9da2de8f6a9651a9871b326&amp;chksm=89810e4fca4b4b7c5a99bda43fe59c5950d36834cda41487c5ff09964ffd6a7a7ae31f6455aa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 06:01:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[80 岁 的 院 士 价 值 有 多 大]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkm9fZXQxvpdphRBOxq19BMpTaYX8JgMVwibJVJxIzMlp9ySpgW5RIRL48emsianZGlgaOsh9zn9oQOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天一个大佬转发我一个贴，内容是：看某学校引进人才的宣传，全职引进一位国外人才，一搜索年龄，算高龄了，已经80了！感觉只能进行头脑风暴之类的一些学术交流，全职引进的价值多大？因为我这个人比较傻，体制内</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427170&amp;idx=1&amp;sn=fe0559bfdbac7aa938e469c8dcd0dfbc&amp;chksm=8964dd5528b0a232fbf74ba1c20641ce746d25c0665829fee6f16d7c0755d74aafe7c89ee8e5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 22 Feb 2024 06:07:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[快开学了，飚一段代码吹一个流弊，刺激刺激你]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknGZhVnWZgmaB9xlqW6nXwNeZgic2ibdleTaxNZHiaad4QHyzibLzia4jpUhF5JROibC3Eyg01NqQ8606BA/640?wxtype=jpeg&amp;wxfrom=0"/><p>DYFLUID是国内首家以非CFD软件代理形式运营、专注算法编程的CFD咨询公司。DYFLUID首次推出手推方程现场编程的CFD课程，首次提出工作站以性能为交付标准而非硬件参数，首次提出集群优劣要以加</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427141&amp;idx=1&amp;sn=f011b6702f42035bd56b0503004b430a&amp;chksm=8947a8467910d8f5f5f3c9fe58650035828083e28d188b05ce597a557c8b96807dc8d792360b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 20 Feb 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[我家这美国小姐姐，内衣内裤到处扔..]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmoTO4UHCzr7ULVGT1ZWvzc8td2Vk88s4AsTE8e2Xibr9tVpT0CBlMccI3Iicsg44nwMsdWkJLEsZ3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>我家有个带小孩的住家的美国小姐姐。挺有意思，文化差异啥的这些事就不多说了。今天说一下这个小姐姐的性格。这个美国小姐姐，典型的美国人，性格外向不拘束，表情生动，没事唱两句，还带身体语言那种。没事自己就摇</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427124&amp;idx=1&amp;sn=4981a306799db12778bc2296d4fe0e0b&amp;chksm=89addd77ffa91cec088ecf01cbbb006c1124ddd9e6453d0faec33e6be72ca9aca4f7cd59e5bc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 19 Feb 2024 06:01:55 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[给 导 师 发 拜 年 短 信，有 多 大 用 处？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmOaoQWdA9b9vQ81R45KLWTC916HsNbeTMQN1BGYYbC85GSWCQhuVtuOPjCK8IpqZ9RIUZFacLQRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>那种群发模版没命没姓没称呼的，屁用没有，发了还不如不发。我还记得之前我上学的时候，家里父母一到过年的时候就逼我发过年短信。我就不想干这个事。现在我不再是学生了，身份大体有了个转换。但还在学术界，也间接</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427111&amp;idx=1&amp;sn=54d7745ab592888ff16873665ae50e31&amp;chksm=89dd706298eea10205b5556e874a92257e745b5dbe5464b6f51f273b4ef3c5affe06a9c1076e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Feb 2024 05:58:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[过年了，我给爆炒香菇做个CFD学术分析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmCHNOyxn5qoibQ3Ul6mIYxaia0b9bf4Y5c0t2WaaI8y3pnBgKRY4d5qL4O9oiaIYGNLgx4KCV1iaGMMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>不给你们露个绝活，你们总说我是水货。今天，我一边给你们爆炒香菇，一边给你们做个CFD分析，目的就是把你们干服。话不多说，先上图。下图就是我对爆炒猪腰子，啊不对，爆炒香菇的CFD计算模拟。为啥我要对爆炒</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427110&amp;idx=1&amp;sn=593550013e6d7fb78d3589b198d4c209&amp;chksm=8914f5e310b1e2a143a86fb0837c5db7e2fde61bc787a23a617ec1ae0c17514ace4c7cde7f9a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Feb 2024 05:36:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[博士们过年回老家，如何在小姨子面前吹流弊]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknL85GKsX1HrkFiaIoFdx9Bnnz0cVoHR9GUOpHehicYrfoaEV2SMf6ibpThQgMQMK7AH2J7ibtKLQPiaBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>过年了，博士们都在回家的路上。各位做CFD的博士，有一个问题一定提前琢磨好，回村之后，整点啥玩意能显示咱们尊贵的博士身份，把小姨子彻底整服！我捉摸打印个SCI这玩意不好使，小姨子都不认识。你说在小姨子</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427102&amp;idx=1&amp;sn=68428cad42480957273d5ef8b3a05520&amp;chksm=89b5800394a60fa7cb91d1794c0864195773c6b30d9ad2f2ab6a8fbc36801a29eb00882f3d80&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 05 Feb 2024 05:41:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[特 拉 斯 碾 压 AI 神 算 法 发 布！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmtEVa1eIvPvWCUElXxPK841ZBibqIMJVCRiabEkaf814HXcvqj5sGaVML1gbFYcKpmzBzqDxot5nXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1月36日消息，据火星哥谭市宣传部消息，2042年哥谭市流体扯蛋论坛将于37日在蝙蝠侠会议中心召开。会上，由特拉斯首席技术专家李东岳博士与巴巴阿里联合研发的首个面向建筑领域的“特拉斯碾压AI神算法”正</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427080&amp;idx=1&amp;sn=3eb5ae2df18d423d6b2798fecbd55c67&amp;chksm=897e32f436d7861b7287659b6221a992dfdbf062387f5f9abb502ea74d1be00043aa691ac818&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jan 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[实测：慎用windows的linux子系统]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmkYykATAKhmtDHuK56djqtevuZRUcIPdTjxylZGib5mqxQlSxWx1wqUq4BlEUrAlIfuzOPyDCW8Nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>windows下面可以调用linux子系统，叫WSL。几年前我就测试过这个性能。当时就是记得比较差，数据已经没有了。最近因为客户需要远程租赁我的机器，客户说用windows的虚拟机比较方便。我说这个性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427061&amp;idx=1&amp;sn=77f079eaa4f0a8332059709661ed86ad&amp;chksm=89b8faf282a4281041f2fcd4270897eb50184889f90334eae4d197b725127116e83beb68b09a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 24 Jan 2024 05:59:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CFD 和 实 验，哪 个 更 好 毕 业？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkltibm8AA8P1MHyNACHbDKYkicJJe20d49Y3uP18Z9gwSMFpWgqnOO5dCLR6onUVyfUatSSibtt1Mia4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>做CFD好发文章么？做CFD好毕业么？女生力气小，做CFD还是做实验？各位老铁不是跟你们吹流弊。作为一个CFD行业翻山倒海的老油条，我告诉你，做CFD绝对好发文章。不信的老铁翻一翻我这公众号之前推的文</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427055&amp;idx=1&amp;sn=5c383b93861918fa10080dc4854b4cc7&amp;chksm=89981de176010e1788faf75eeb16eefd6681c65b307313ac657e7825b5a57d247270939ca248&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 22 Jan 2024 06:23:43 +0000</pubdate>
       
 
     </item>
