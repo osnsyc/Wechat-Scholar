@@ -34,29 +34,89 @@
 
 
 
+
+
     <item>
+      <title><![CDATA[太强了！斯坦福继Flash Attention V1和V2又推出Flash Decoding]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWuR4BYvsZ9r5QSj5iaY3NOVibWG0Qq4n99vRw9EjTricMcDXibsdicGmMb3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>斯坦福大学此前提出的FlashAttention算法，能够在BERT-large训练中节省15%，将GPT训练速度提高2/3。此后又提出FlashAttention V2，拥有了更好的并行性和工作分区</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526503&amp;idx=1&amp;sn=26d0ff4f94e2500ad90770821fad6bb5&amp;chksm=ea2e6216d4f6609a07db598f01929c398df28c4afbb597c283345bdfe1c36926f4ff75c95793&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 09:48:15 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[聊一聊Transformer中的FFN]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWPUPh1CNeNcicqyNtOzCUN1UhOdClYxuvicUgyJS294I6QSj6ARQ2EV3g/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：潘梓正，莫纳什大学博士生主页：zizhengpan.github.io来自：青稞AI最近看到有些问题[1]说为什么Transformer中的FFN一直没有大的改动。21年刚入学做ViT的时候就想</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526503&amp;idx=2&amp;sn=951f40100ab92e6dc16555de8e7df138&amp;chksm=ea9c10e2a3bc23797cdf69e3ab0b43837d3fc54818949dd80fdb637134290a849db146c1b082&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 09:48:15 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型的模型融合方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWNx7VQabHPRQRgm5EPMnYBxYNmU5ohBtOib9ibr07vDkibxE2lNueTtGIA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：包包算法笔记今天来讲一下大模型中的模型融合，并给出大模型融合的有效方法的原理和实现。模型融合大家以前用的很多，特别是在判别模型里，属于永远都能稳定提升的那一类方法。但是生成语言模型，因为解码的过</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526503&amp;idx=3&amp;sn=ed84fa266ad3d89f5b8e4300dfef0d75&amp;chksm=ea7e6e3594df5048d3893827ff099156929b1c2ccf65d75f9a4bbc7eee3577e714d85d8783bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Mar 2024 09:48:15 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[自我分治解决复合问题: 详解Self Divide-and-Conquer]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsiatDXqyD6gicicgak1zFNiaQ5hWiat4U8IsKNL7ZRFpCicZJ3w9UiaTOjvxqnpReZMUlbx4KtQZHJQnzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：老刘说NLP（稍作修改）今天介绍下最近特别热的利用LLM评估啥时候使用内部知识和外部知识的论文。现有的工作非常关注大模型本身的知识边界，以达成对于大模型known和unknown的问题能够进行不</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526465&amp;idx=1&amp;sn=763ff2ea8bb2acd0b1da23274f085f24&amp;chksm=eaff9e14f22f05c8af1d613e675ac53e91b066c3c4636ffacf3eef5373e1a321e2cc99867b8e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 14:24:41 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 邱锡鹏团队新作：In-Memory Learning 智能体声明式学习]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaib1eqoBLXn1CnTHo40DzRN674yM5mpsIKycCdblHWDgGhArlslOiaMGnA8wnhKxSHoQwYumCI2AaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：探索agent是否可以在不依赖于人工标记数据的情况下与其环境保持一致，提出了一个有意思的研究课题。从智能生物观察到的对齐过程中汲取灵感，我们提出了一种新颖的学</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526465&amp;idx=2&amp;sn=4d9b5e368ae429930d150665cfd3f411&amp;chksm=eaab022756ac1bd19a0b76fd3ca1bee05052d3b9f1de721effcfacfc1faeafab602c5cab49ac&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 14:24:41 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 【ICLR24】用语言模型预测表格Tabular]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaib1eqoBLXn1CnTHo40DzRN674yM5mpsIKycCdblHWDgGhArlslOiaMGnA8wnhKxSHoQwYumCI2AaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：深度神经网络（DNNs）的可迁移性在图像和语言处理领域取得了显著进展。然而，由于表格之间的异构性，这种DNN的优势在表格数据预测（例如回归或分类任务）方面仍未</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526465&amp;idx=3&amp;sn=6844426fa9113bdc09bcd23878f0c37b&amp;chksm=ea49671d83f80e78d6b55d10f2bc46e32a14e38dba519355ef7428cbe01a688a7a8363a3d90c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 14:24:41 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 使用LoRA微调也会过拟合？探索LoRA中的Dropout]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaib1eqoBLXn1CnTHo40DzRN674yM5mpsIKycCdblHWDgGhArlslOiaMGnA8wnhKxSHoQwYumCI2AaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：以显著的能力，大语言模型（LLMs）已成为许多自然语言处理应用中不可或缺的元素，而参数高效的微调，特别是 LoRA，已经因其轻量级的模型定制方法而备受青睐。与</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526465&amp;idx=4&amp;sn=ce0f9884cf2e2712b4d710782bd60ec3&amp;chksm=ea598ca21652f10132b46f849df4e72887fb4a01af6fd6f25c71b6b0024bc3615b4d0ff6fce5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Mar 2024 14:24:41 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -199,102 +259,6 @@
       
 
       <pubdate>Wed, 06 Mar 2024 12:22:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Llama 2 高调开源，大模型微调我已经上手了(附99个大模型微调模型/数据/工具)!]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xkE3qUQywQyX30WxkEtFWkXLt0V36yIicrogmYMhSvAHo8lYWlib1DicsQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近出现了一系列令人激动的开源大语言模型，如meta的LLaMA、清华的ChatGLM等。伴随大模型一起爆火的，还有大模型的微调方法。然而随着模型规模和任务数量的增加，对整个Transformer模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=1&amp;sn=47a5bf39cdc319e6c111fa59548b5d4a&amp;chksm=ea7cbc236855625f46aeb6ae5a73c2aa5a952222845ce30f639ce5de66e9a33cfad6d24f0518&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | I-LoRA：解决PEFT中的灾难性遗忘问题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xk5q7V9BwibnDlv7uRR3BIibzDciaXhs0ibW42cQfnrZ5LMyxreLRQibbticNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp师姐1个月攻下LLM的所有知识的捷径Analyzing and Reducing Catastrophic Forgetting in Parameter Effi</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=2&amp;sn=c8079e53ef2770ede1c0d72ade8c1599&amp;chksm=ea65b205f307023aad09b1bed717ed43498b8e2c6ed599297f44ffcefb21df509d65075abe6f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | 检索是更准确的生成（RAG相关）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xk5q7V9BwibnDlv7uRR3BIibzDciaXhs0ibW42cQfnrZ5LMyxreLRQibbticNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp师姐1个月攻下LLM的所有知识的捷径Retrieval is Accurate Generation摘要：标准语言模型通过从固定、有限和独立的词汇表中选择token</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=3&amp;sn=b977d47d9c0449167171979e2b0a99ff&amp;chksm=ea34ae8538310ec8845ef0db02bdbac940eb87bc1aaaab2f52078f2985a2bf375b8ad256d956&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | 持续学习会给大模型带来什么？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xk5q7V9BwibnDlv7uRR3BIibzDciaXhs0ibW42cQfnrZ5LMyxreLRQibbticNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp师姐1个月攻下LLM的所有知识的捷径Investigating Continual Pretraining in Large Language Models: In</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=4&amp;sn=61e268f0910bcc6dc9bb8747143d8f7d&amp;chksm=ead0923a0aa133c0f158896f6f9ad9dc124d64b19fa7ddb1f30dc281fbb3da7ceecc894bae54&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | 大模型是如何处理multilingual场景的？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia5B8nlrH1E3yxIkqWYt6xk5q7V9BwibnDlv7uRR3BIibzDciaXhs0ibW42cQfnrZ5LMyxreLRQibbticNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp师姐1个月攻下LLM的所有知识的捷径How do Large Language Models Handle Multilingualism?摘要：大语言模型（LLM</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526210&amp;idx=5&amp;sn=c8ef3580d71eb22fd971729332244b26&amp;chksm=eac85623b0ffd00b070a049e1b5e60eba24796b23afd1a1ba46990407d4c33ba4cdb1adfec21&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 06:22:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[全栈大模型微调框架LLaMA Factory：从预训练到RLHF的高效实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaSWUfBaqRzXFEf3QHaOF4jiamLIvrtv3y0b9Jh5zEW3ic3qwVzrSjgicY0Qrg2JJ5ZFe4d5GThZuRjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题全栈大模型微调框架LLaMA Factory：从预训练到RLHF的高效实现个人简介郑耀威，北京航空航天大学博士生。以第一作者在CVPR、AAAI、WWW等国际会议发表多篇论文，担任AAAI、EMN</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526170&amp;idx=1&amp;sn=b6a46827c8487e79cd30a9a4cdb8d6c4&amp;chksm=ea76e2133fbdb2a537dde5e844c1a8b9410d4ff358045c44063459baddaa6a9ba19c0ccd22ca&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 04 Mar 2024 15:26:05 +0000</pubdate>
       
 
     </item>
