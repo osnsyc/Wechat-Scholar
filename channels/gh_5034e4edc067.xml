@@ -38,35 +38,115 @@
 
 
     <item>
+      <title><![CDATA[一文讲清LLM大模型x知识图谱最新SOTA方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL4VuvWZs0KTbSGmqnSLaXAcnVCVnfjHX3XOuQLBazTqpLNpI8syE6gCXqUxR4ZXadOJheCahVJIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型 (LLMs)，正在自然语言处理和人工智能领域掀起新的浪潮。然而，LLMs经常因为其幻觉问题，以及缺乏可解释性而受到批评。首先，它们在专业垂直领域的知识方面仍然不足。其次，生成大模型容易产</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441282&amp;idx=1&amp;sn=850bdf735de06eda073c15ae558555a8&amp;chksm=bff7f0b40db0bb0c4279083cde2d3d50e56a46912fd8def9b8aa840a20eb70de69cc9c9a69c9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[理解Attention:从起源到MHA,MQA和GQA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467C3t0CCgtKNWCDpCejE8aB0LWo53Piazn1clniaiaauhtyM4ElLdqKyibKicFxDeF1Rc2mG5EwdPBKI4A/300?wxtype=jpeg&amp;wxfrom=0"/><p>Attention模块是现在几乎所有大模型的核心模块，因此也有很多工作致力于提升注意力计算的性能和效果。其中MHA（Multi-Head Attention）、MQA（Multi-Query Atte</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441282&amp;idx=2&amp;sn=d3cc0c76e0ee30a5bc1261b7266cd144&amp;chksm=bfc925eb413c98d3e1f642a67b831194c65a01af3fd5b5d2bc5f759c43b2411869a33420d84e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM之Agent初探]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgyRsPAEfBC9kxPibdNC4jicXEhjJHQwmeu9HYJcT33onXBEh0jJKcpT3mBxVtcrLjTUM224wE4cwTDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Agent是什么？Agent一词起源于拉丁语中的Agere，意思是“to do”。在LLM语境下，Agent可以理解为在某种能自主理解、规划决策、执行复杂任务的智能体。Agent并非ChatGPT升级</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441282&amp;idx=3&amp;sn=63656a3a44a6e6cc0ecd4eb2a45171fa&amp;chksm=bf9cdcb2fa2575291c4cfb72c0baeef2274b68dae96b93bc9eafc10e6261668f5df20b9b408a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【北京实习】百度自然语言处理部｜ERNIE大模型实习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKmkYpddjDlYm3A8yKEIqTmUPVfbNXBePHbMO9ib1epdWD0ic8UY0H2o1NNSGoAicmxiaic2GUY44krjGw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【北京实习】百度自然语言处理部｜ERNIE大模型实习团队介绍：百度文心（ERNIE）模型团队致力于预训练大模型基础技术的研究和应用，在预训练大模型领域具备深厚的技术积累。文心ERNIE自2019年诞生</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441282&amp;idx=4&amp;sn=a24841cf0fead0c37b0d38867c44fdd6&amp;chksm=bf6eceb37c46ed9e86695575809635a177e9010291a98be4c934f7c5276937439fb5a36d0140&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[一张图系列 - "speculative decoding"]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2KUCQBHkydl3fhJTJJSGxKByYqY1nVlibIvbbA1nUggZNaKI7kU9FWicH8mZ3UFaibmnPBVHMbNzElAEtGeeYQKiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>目录：算法逻辑自我测试反思总结部分截图算法逻辑投机采样(Speculative Sampling)算法的整体流程和核心逻辑:1. 生成 draft tokens    - 使用一个较小的自回归模型(d</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441282&amp;idx=5&amp;sn=c90b7fc7d61d00370b6fdac498188102&amp;chksm=bf7f07c4dc5ce6d2ac2819dec251a5265ceb4e19c1a8a058396da003d6deb0c9fe48ca9d2dce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[YOLOv9来了！目标检测新SOTA]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKK6oV4h2vcpmibSlD1gElyCMiaG3AOzMeRk7FLicW7MibAaU98aKRJxXftpM0TiafseQDAian9p91g3IXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标检测新SOTA：YOLOv9来了！本文系统梳理YOLOv1-YOLOv9全系列论文及代码，以及YOLO12大必备项目。还有三大CV顶会CVPR、ECCV、ICCV 85篇目标检测论文与代码；以及2</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=1&amp;sn=1e2c225ea469333a33b01e5f32a24c6e&amp;chksm=bf29850282752a03d056c9a4939a303af67fa8257c811766e711849a40b8b1f122a4721221fd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[图解Mixtral 8 * 7b推理优化原理与源码实现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOzufcyGhc6P8q4tff1nUsfdPKjVMuDABnLrQPHaXdic9kmmZn8EnPN7fIRTr28jxy28rL3bicseHibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，在写这篇文章时，本来是想打算介绍Mixtral 8 * 7b具体模型架构的。但是代码读着读着就发现：最精彩的MoE部分，其相关原理在之前的文章中已经详细介绍过整体来看Mixtral 8 * 7</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=2&amp;sn=bc602f952fe18fc714d939ac1d7a7844&amp;chksm=bffc34c882bebcfc8a5cb44bde203ed1c0788098c7708f7c9c96e897a1ecfb010dc96f69d7be&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM 模型量化推理速度评测]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2KUCQBHkydks0ndyyGKhwF92MC7L9tLyQuf3s9kUTzueStrTcPqIkr2ArYvUDboZiaIj9NIaXwXmfSKMicVfqCuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近了解了下些常见的推理和加速方案：量化方案：gptq、quantization、int8、int4、AWQ、Speculative Decoding、GGUFAttention加速方案：atten的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=3&amp;sn=b079424552ce6de478a74525c0530e04&amp;chksm=bf87877743dd66b6e966f8a5053c1755e4e45e37070b33c884fed145ec720b7d295617995aa3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[自我蒸馏方法-减轻大模型微调过程中的灾难性遗忘]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nguoIx5q8CXRwYVKTfVDOqrllGvuLHEkKGiaLsAMObaKXHf3q8gqgfAdiaPJ2xQ8Y5txFkMvMGxDMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型在指定任务上进行微调后，会取得较为不错的效果，但同时可能带来模型原有能力的下降。今天给大家带来一篇通过自我蒸馏减轻大模型微调时的灾难性遗忘的方法-SDFT（Self-Distillation F</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=4&amp;sn=7563d6b4cc4728df6141c7ccc18b9e4f&amp;chksm=bfca04ee273536568df5056bf39828d551992f51e1042ef066821ecada3d85901b57785acb37&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LM-Combiner：通过模型改写实现更精准的语法纠错]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/58FUuNaBUjrSKEPdYcHU2uibHHX4HULTmG8xzHhdsKgrwFZO5OUNtl10NPtXfWUxrqb7qib5JsvlN84IdhqLkBKA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文名称：LM-Combiner: A Contextual Rewriting Model for
 Chinese Grammatical Error Correction论文作者：王一轩，王宝鑫，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441265&amp;idx=5&amp;sn=e0d4d39bbf00d80a01c262adecd65806&amp;chksm=bf69330e963a228d10d0ae4dae63c6e9fc8fcd224845d604babc004ea4dc99e7375fe37c18e3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -225,86 +305,6 @@ Chinese Grammatical Error Correction论文作者：王一轩，王宝鑫，</p> 
       
 
       <pubdate>Sat, 09 Mar 2024 13:15:43 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[当狂飙的LLM遇上推荐系统，一文说清大模型X推荐系统新范式]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GdTaGsj8bY0HZ6ibJgnkfKibyNt32WghvXALZPE7D0ThdrYpKibfkjyKgMvMBMWYetxyLnI8esGk98ZYyOlampNAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型技术的迅速发展，推荐系统正经历着一场革命性的变革。传统的推荐系统主要基于用户和物品的历史行为数据进行预测，大模型技术的出现，为推荐系统带来了更强的泛化能力和更高的效率，解决了传统推荐系统中的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=1&amp;sn=4ab4519d5c681c9364910fb4cf162d4f&amp;chksm=bfc78c183414d741811d97b17b403299a2b4d965d757537f46cc27ef8933c72a77ab10d2833e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[聊聊 DiT 和 GenTron]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3thIUC4lQu44VEdhSg1GfXpa3464Q9JI4GfmdaUfZY8YfmzfuxCmcbSiaWLwvEicI90BnRviauicXd4UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨无恶不作来源丨https://zhuanlan.zhihu.com/p/683930767编辑丨GiantPandaCV1.介绍随着 OpenAI 最新 Sora 的火爆出圈，Diffusion</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=2&amp;sn=a9bc141b6072afd90b5904527348e9c2&amp;chksm=bf312e2cead654da8bdaf2bf66b7f07e0f16d696042e582f0197e545af06e1beec6af68dec57&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【社招】【实习】【校招】【急】腾讯广告算法工程师]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLiazLdsHXNtF8O480s37Nd1HoBTLVGsr1Pa3D1NDkEcWKWiad1y38vCHoTeeiaTEoSEOrIhqkmygFng/300?wxtype=jpeg&amp;wxfrom=0"/><p>【社招】【实习】【校招】【急】腾讯广告算法工程师base深圳，hc充足社招职级：T7、T8、T925届校招实习+24届校招也招岗位职责1.负责流量收入，基于场景优化广告排序，提升流量变现效率；2.结合</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=3&amp;sn=3a8261b7679cb0d679e45baef1f958a1&amp;chksm=bfa212b817032352887a77a1a15a437dfac78b2963b1f26d9cc8591c7e8e26b0d4ce4afce0f0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DoRA：LoRA再升级｜参数高效微调｜原理代码]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh7b574wibAPK7BTLkOfh9icrbhUaWDsYAwbibJ8Cpsibf0K5Rc63nzabwsKaeUicSEXnoDdTThrLiaXTZhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>LoRA想必大家都熟悉，本质上就是把大矩阵拆成两个小矩阵的乘法具体的代码实现class LoRALayer(nn.Module):    def __init__(self, in_dim, out_</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=4&amp;sn=a57e7f8987427fc612f8aa9338c29401&amp;chksm=bfdd4dbefa715387328b35cc6d69e0fae97427737f304cb08d7b585586565592acda2882f0b8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mamba精神！只能说ICLR输麻了其实更新频率还可以再快一点点的]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQf6tGN99FB1JZryoF2uM3NuUC1bgTOS0bicB9L0fZvWwI2EPDjGnE1sibYndgwWB2tia2c28dwicickaGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Github链接：https://github.com/yyyujintang/Awesome-Mamba-Papers/blob/main/README.mdMamba是一种基于选择性状态空间的线性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441151&amp;idx=5&amp;sn=5412cfdd6801f9bbe1a70420737d1eee&amp;chksm=bf8aa81549bcd50f13e9a428d38531fb12c1825021b1131715f0196161759fe9e2926aeba79b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 04:10:00 +0000</pubdate>
       
 
     </item>
