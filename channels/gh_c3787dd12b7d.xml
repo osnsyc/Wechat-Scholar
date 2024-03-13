@@ -35,11 +35,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[基于 Gaussian Splatting 的 SLAM 介绍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt24ib3AI096icFqvKs3ribMf2nAbarpU39AQoL6BMC4ibgrLtYeFiaibs1iagysuTHpw0r37p095EDdoxSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介3D GS在NeRF领域已经掀起了一股浪潮，然后又很快席卷到了SLAM领域，最近已经看到很多3D GS和SLAM结合的开源工作了。将为大家分享帝国理工学院戴森机器人实验最新开源的方案《Gau</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247589136&amp;idx=1&amp;sn=9815012b61078b815e19be29b87fe882&amp;chksm=fa04b8df5c3c3c8c0d6cba35969ea6fcd8dea2af231948c8b740fb332fe1bea7890f26bf29ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 09:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[卫星导航与gazebo仿真实现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzskhDwhwjrqQhE3pYBDQoiacxc7cwJp8kK1QGCIebG31SQCfar5MfKzFicD6YhA88z6WN8Umafpcpgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>卫星导航能给机器人提供什么信息？正常工作时，实际上可以提供机器人所需的所有定位信息，包括：位置姿态速度等物理量但是仅依靠卫星导航还不足以让机器人在室外完成自主导航任务，主要原因有一下几点：GNSS提供</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247589104&amp;idx=1&amp;sn=685d5ebf1e51f2feb361889ce98efb99&amp;chksm=faa53d08f7b529743ff46c24d4ac16bd0ca4037a1f08881dc06fb4c35fbf6b69a6d2b4177631&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 13:53:01 +0000</pubdate>
+      
+
     </item>
     <item>
       
