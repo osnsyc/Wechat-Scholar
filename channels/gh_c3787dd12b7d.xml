@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[惯导系统初始化方法实现及gazebo测试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzstN3mHfeFAywVbYibIHwzatdz1WyG7womaibJz3rXkribgozuKXoY6ib1goCmR1jvqb3ge4ico2BtV04A/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在进行GPS加IMU的组合导航或者Lidar加IMU的组合导航时，用EKF或者ESKF的滤波方法时，需要提前知道惯导的测量噪声、初始零偏、重力方向等信息。此时就需要对惯导进行一个初始化，来获取以上</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247589150&amp;idx=1&amp;sn=92de05b41da08ac18b0d0875a868fa16&amp;chksm=fa30a90d6b6dbfde2ce437be06cf27ccd2c61d562250601fd4744000c7cafafa190484556d83&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Mar 2024 09:00:17 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[基于 Gaussian Splatting 的 SLAM 介绍]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt24ib3AI096icFqvKs3ribMf2nAbarpU39AQoL6BMC4ibgrLtYeFiaibs1iagysuTHpw0r37p095EDdoxSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介3D GS在NeRF领域已经掀起了一股浪潮，然后又很快席卷到了SLAM领域，最近已经看到很多3D GS和SLAM结合的开源工作了。将为大家分享帝国理工学院戴森机器人实验最新开源的方案《Gau</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247589136&amp;idx=1&amp;sn=9815012b61078b815e19be29b87fe882&amp;chksm=fa04b8df5c3c3c8c0d6cba35969ea6fcd8dea2af231948c8b740fb332fe1bea7890f26bf29ae&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Mar 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -119,230 +136,6 @@
       
 
       <pubdate>Fri, 08 Mar 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Tello无人机 | 使用Matlab完成控制器的设计—建模]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsrpnSFuA6PMXLUnHDUVvr8K7ZpCVNmmibnVJRfWBTjISbKibxqCCnJ1BUWPxicaTcicdshSzlw6my1icQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>模型辨识篇在实际的无人机系统中，控制器的设计至关重要，它直接影响无人机的稳定性和响应能力。然而，要设计出高效、可靠的控制器，首先必须准确理解无人机的动态行为，这就需要通过收集输入输出数据来辨识其运动学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588965&amp;idx=1&amp;sn=5917db6a791b471d001de5569fb1c7c2&amp;chksm=fa6a533c49450cda1d25daeb23cc80d0a1791626b82ea036b7a6ca19e53917628ca678eff497&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[求贤招聘 | 古月居运营及销售岗招聘]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsdtJHaA4K4icGWhHzZI56DaWD2EDTm8fteN1E6FBgiadnWIXkN36GZUlViaUjIuFH73F7GtK2Q9xAPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>古月居 古月居社区是华语地区知名的ROS机器人社区（www.guyuehome.com），致力于为机器人学习者提供优质的交流学习平台，线上用户超过100万人，努力构建集人才、内容、校企为一体的社区生态</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588928&amp;idx=1&amp;sn=d287217b01920adf3db23cd54dc3f095&amp;chksm=fac9fe1825a3c1c16affec5c9058a75ce890de3883c959097a6d0d82545bea0733422cb817c6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OriginCar那些事儿]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsdtJHaA4K4icGWhHzZI56DauNv62pVMKMISAUO4FzL4ylAvtTmYeIVGcm9icGeNOibtBKxxrExLrzaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是乔龙，今天又来和大家唠嗑啦，今天想和大家唠唠这两天新发布的OriginCar智能机器人。2022年下旬，古月居发布了第一款开源的ORIGINBOT系列产品，也是系列的主打之作，Origin</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588928&amp;idx=2&amp;sn=ed368e0446ea9cdd10c407df139b3291&amp;chksm=fa22cf7b5ce63c10677800181b9157f550f566cbe6121a54409f4d09d93f73c3f1f9a5bf97de&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Mar 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐 | ROS2 QT 21天训练营]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvgMNALicXrgEGib35V31DkKUaqQBY4XMgqz6k7SO8RTaHUMDOjQLXZXZxWjPoXmeFMKnTwAxibHUchQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍温馨提示由于本产品的视频课程属性，观看后不予退款。购课优惠微信扫描下方二维码可以领取20元课程优惠券点击“阅读原文”可进行课程学习。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588901&amp;idx=1&amp;sn=15d4fa1a79a819192b9ae87e41e09b8b&amp;chksm=faa0b08485a926209c2902ec647fc9df0f3aebfc71bc0e03efa5ac635be9c906dd30e15fb2fb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 04 Mar 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《STM32 HAL库》中断相关函数详尽解析-NVIC]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvgMNALicXrgEGib35V31DkKUKSicwIzu87qQcibNR1Hz3WGuesMwol89w2choqibGiaQ0MOGicZRe2IRHXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本文以外部中断点灯为例，分析了HAL库中中断服务相关函数的使用及相互关联、底层原理一、实例实现实例简介：主函数控制LED2进行闪烁，中断控制LED0开关：我们先使用CubeMX创建项目文件：</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588900&amp;idx=1&amp;sn=ff6e4f93a64dd1c40fe0354aad0b31e3&amp;chksm=fa91285eb78dc5abcd497cbb36b8133e861288d0cfeb24deb3cd53a0011d243ca072277ea90d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 03 Mar 2024 08:58:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读  |  CamMap(基于SLAM地图对不共视相机进行外参标定)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzusXmEfndE87kIfh5PZcn3V7SKm32b9pibiapsld15CRytvQzeqoiaiaBCvxTwQsZcF2J95qQT8X131tQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介由于多相机之间通常存在有限或无重叠的视场，因此在估计外参相机参数时面临着一定的挑战，为了解决这个问题，本文提出了CamMap：一种新颖的6自由度外参标定流程。根据三个操作规则，使一个多相机系</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588868&amp;idx=1&amp;sn=d6314c2d6cb73955d5a9ea1c1b234b19&amp;chksm=fac1a860aec611497edbab065114cd9f1ae09e6082faa89ea910a1ac3224e9d97813c8c08267&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Mar 2024 04:24:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《STM32 HAL库》中断相关函数详尽解析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzueQ08LMS2zH2ZA4KFRfX8BUMYciaa6Fp22iagB9cnCGkVNPfPl292cxfJKbPJ5GuWkNuGDSULF5eVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本文简要回顾了EXTI及NVIC相关知识点，分析了stm32f1系列单片机外部中断回调机制。开始之前，先温习一下有关EXTI和NVIC的知识点：外部中断/事件控制器(EXTI)对于互联型产品</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588832&amp;idx=1&amp;sn=5dc60ec1306a2855158d36fc52ae0acb&amp;chksm=fa492108a5e874855c62268b2112c6a68cc8e099333f168ff799cfe1e49f95650a44bbe9a46c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Mar 2024 08:57:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[求贤招聘 | 幻尔科技研发岗招聘]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsCrgAANzh9DPVMzGglYVZQK1HnDOKaic1vaZhCMzaSf3rqGJUI7ibJmHQGUoH3ENtx5yeaiaYMcAk6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>幻尔科技公司简介深圳市幻尔科技有限公司是一家全球领先的人工智能机器人高新技术企业，集自主研发、量产制作与全球销售为一体。公司成立于2015年，总部位于深圳，并荣获深圳市“专精特新"企业认定，为全球用户</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588817&amp;idx=1&amp;sn=bf5fe81dbf789971e31049fc3dee1c6c&amp;chksm=fab3737e64222c7a868caaf57a122811850a072410dca54a636df841e345cf9fa57e018488f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 29 Feb 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OriginCar智能套件关于FoxGlove使用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu4EWNsKHaeSciajWCEic7yuVllCc0VEoMicZ23nEVxadbOuvtYsuz1X77EZicyiaibVxRgMM5TaaGdG1iaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言OriginCar自带一套用于智能车比赛的上位机数字系统，用于监控OriginCar各个传感器信息以及和OriginCar进行话题服务通信，使用者可以下载百度网盘中关于数字环境使用文档及启动文件的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588803&amp;idx=1&amp;sn=14e842e9c1001a1f4a51c3d55173f6a9&amp;chksm=faf8d4f5cda01412111f61b4db4688bdb387729fe41abd1101303086f52ebefb82400febd76b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 28 Feb 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[产品发布 | 2999元，古月居、地平线再度联手重磅推出开源智能套件OriginCar]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzucgDzdkKkKsUfyaq6HumyIS0nYVOqDdK0seTPmO4ETw197EhP2Out4WwljYbKPCDMYCyojvm1x4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击 阅读原文，购买OriginCar智能机器人套件。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588781&amp;idx=1&amp;sn=9aaf8ab4690458ad79720374b62aa031&amp;chksm=faa4bb51edf84f74160b1a0c652c7a334bc18314f9d8590582e39d38926939eb6301a975dda0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 08:47:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AnyLoc 通用视觉位置识别方法介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztfJoSGZrU7icD8kY9s2Q5Edc2eGuz30xPvIBic4ibicCmzRwd8DTicSibhw5seWQicHoe9UiarutcPw5J8bQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介视觉位置识别是一个非常重要也非常有趣的工作，本质上都可以归类为构建图像数据库+查询图像检索的过程。现在的主要问题是，很多识别算法都是针对特定环境进行的，换一个环境很可能直接就挂掉了。一个真正</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588771&amp;idx=1&amp;sn=322ba22296227ee364f817b7f30265c2&amp;chksm=fa3c228a6e00d3bc138786ca8d0709d13ec45d32a3ff54c974fa4d88a0f7fbb9cefaceec387b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Feb 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Apollo Cyber RT 功能介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsta33cUO58z1ibDXibR7bQ2LJ7GQQsjqribz466dlMI3PHpJFr7lu8yRMWRK0HibhdT590qCUeSYhxLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介计算框架是自动驾驶系统中的重中之重，也是整个系统得以高效稳定运行的基础。为了实时地完成感知、决策和执行，系统需要一系列的模块相互紧密配合，高效地执行任务流。由于各种原因，这些模块可能位于不同</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588741&amp;idx=1&amp;sn=91da5351aea708b00b3e6d04e88637df&amp;chksm=fa918a3ba99c0e44f02325acfd12db46479122439c9898a28aa991fb2396c2a66f77472ba3f8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 24 Feb 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OrienterNet：如何使用神经匹配在2D公开地图中进行视觉定位]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsCzQgXMic9x6VV3QwtODfH6OicqDT2ymcWcRuI21lLYRSVseJGNZ9VeULEwnBYxWviapcaZ9vju7TVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介使用神经网络来匹配2D公开地图的做法是一个很有趣的方法，人们可以使用简单的2D地图在3D环境中指明自己所处的位置，而大部分视觉定位算法则依赖于昂贵的、难以构建和维护的3D点云地图。为了弥合这</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588714&amp;idx=1&amp;sn=74d3a16e611c507b68c08478f0a5e8db&amp;chksm=fa803ea8a67910fab72b04e5c5a6734d2e96260c4534f7bab9a4d34b35f8dbd222cabfe810ec&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 23 Feb 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LOG-LIO：高效局部几何信息估计的激光雷达惯性里程计]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztA7C7JN5cZ0zEmVOZuVlg0DI3EYdxmFJn8sibmtA8j6cuj5l6kthX1nHTvB5nJMR1El9TEsEnftmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介局部几何信息即法线和点分布在基于激光雷达的同时定位与地图构建（SLAM）中是至关重要，因为它为数据关联提供了约束，进一步确定了优化方向，最终影响姿态的准确性。然而即使在使用KD树或体素图的辅</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247588690&amp;idx=1&amp;sn=9be97839a37c60830e176e8b6845999c&amp;chksm=faa1d7f4adf941b8380799a744c68f51f9c3c0eca63741c97d2297cc8606beaf27f87d82d4b4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 22 Feb 2024 09:00:00 +0000</pubdate>
       
 
     </item>
