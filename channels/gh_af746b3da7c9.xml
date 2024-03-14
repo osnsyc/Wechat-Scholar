@@ -33,26 +33,77 @@
 
 
 
-
-
-
     <item>
+      <title><![CDATA[图解Mixtral 8 * 7b推理优化原理与源码实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajVr9QdEkdGpuMhwkVibNSCzhCqCicVpc26jrus0iaf1ASD0icWQOAuAChpvlBlPdGMAjV2S2CTwT3PHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记大家好，在写这篇文章时，本来是想打算介绍Mixtral 8 * 7b具体模型架构的。但是代码读着读着就发现：最精彩的MoE部分，其相关原理在之前的文章中已经详细介绍过整体来看Mixt</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526542&amp;idx=1&amp;sn=a739f34c9931e0f182586eb837131b17&amp;chksm=ea437e14b0a5fca6d49a9a42c9e7caeff98a48239a39cfb9cc17435919534742800901c63452&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 12:38:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | NLP大佬们联合发文，倡导使用检索增强模型RA-LMs]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWBdzw3gwv3C57I4RC2pVZwmfKPZ6bdCQmBvMbSEj3lDJdhH4EmgFf6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：参数化语言模型（LMs）通过在大量网络数据上进行训练，展现出了显著的灵活性和能力。然而，它们仍然面临着诸如幻觉、难以适应新数据分布以及缺乏可验证性等实际挑战。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526542&amp;idx=2&amp;sn=789c8fc225671cd49366a9d858710e80&amp;chksm=ea1f7b0d4d96959d4689380792b95d2da52fd63a2dfe847861b5b6257528680036c4dd771c12&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 12:38:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | Agent控制电脑！用多模态Agent玩荒野大镖客！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWBdzw3gwv3C57I4RC2pVZwmfKPZ6bdCQmBvMbSEj3lDJdhH4EmgFf6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：最近的研究已经证明了基础代理在特定任务或场景中的成功。然而，现有的代理无法在不同的场景中进行泛化，主要是由于它们的观察和行动空间的多样性以及语义差距，或者依赖</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526542&amp;idx=3&amp;sn=6608c7f914adae76a8db85d995452879&amp;chksm=eab7eb1cd71cd3202c3a4a8c5445c3fa0698d98cd1fe14a76178311714e5f0a11bdf9a1b20f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 12:38:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | GaLore: 使用梯度低秩映射进行大模型 Memory-Efficient 全参训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWBdzw3gwv3C57I4RC2pVZwmfKPZ6bdCQmBvMbSEj3lDJdhH4EmgFf6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：训练大型语言模型（LLMs）面临着显著的内存挑战，主要是由于权重和优化器状态的不断增大。常见的内存降低方法，如低秩适应（LoRA），在每一层中向冻结的预训练权</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526542&amp;idx=4&amp;sn=3dae740833171b32d1011634624b1ed1&amp;chksm=ead229e28b737cc43c6c1a2d9037932d35157fbf97d0a47dd6460a56620c90fb9290bda08da4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Mar 2024 12:38:45 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[太强了！斯坦福继Flash Attention V1和V2又推出Flash Decoding]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWuR4BYvsZ9r5QSj5iaY3NOVibWG0Qq4n99vRw9EjTricMcDXibsdicGmMb3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>斯坦福大学此前提出的FlashAttention算法，能够在BERT-large训练中节省15%，将GPT训练速度提高2/3。此后又提出FlashAttention V2，拥有了更好的并行性和工作分区</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526503&amp;idx=1&amp;sn=26d0ff4f94e2500ad90770821fad6bb5&amp;chksm=ea2e6216d4f6609a07db598f01929c398df28c4afbb597c283345bdfe1c36926f4ff75c95793&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 09:48:15 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[聊一聊Transformer中的FFN]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWPUPh1CNeNcicqyNtOzCUN1UhOdClYxuvicUgyJS294I6QSj6ARQ2EV3g/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：潘梓正，莫纳什大学博士生主页：zizhengpan.github.io来自：青稞AI最近看到有些问题[1]说为什么Transformer中的FFN一直没有大的改动。21年刚入学做ViT的时候就想</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526503&amp;idx=2&amp;sn=951f40100ab92e6dc16555de8e7df138&amp;chksm=ea9c10e2a3bc23797cdf69e3ab0b43837d3fc54818949dd80fdb637134290a849db146c1b082&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 09:48:15 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型的模型融合方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWNx7VQabHPRQRgm5EPMnYBxYNmU5ohBtOib9ibr07vDkibxE2lNueTtGIA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：包包算法笔记今天来讲一下大模型中的模型融合，并给出大模型融合的有效方法的原理和实现。模型融合大家以前用的很多，特别是在判别模型里，属于永远都能稳定提升的那一类方法。但是生成语言模型，因为解码的过</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526503&amp;idx=3&amp;sn=ed84fa266ad3d89f5b8e4300dfef0d75&amp;chksm=ea7e6e3594df5048d3893827ff099156929b1c2ccf65d75f9a4bbc7eee3577e714d85d8783bc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Mar 2024 09:48:15 +0000</pubdate>
+      
+
     </item>
     <item>
       
