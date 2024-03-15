@@ -33,29 +33,97 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[多篇综述理清知识图谱现状，这167篇论文值得一读！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagEtJ97MkdjOkXBqibxDs0vx8cW6nUNMXgaNlIoOLCSTpMvfmzfQTxcpuYamia9icIpa1GKhJSryvQWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>以GPT为代表的大模型，是全新一代知识表示和调用方式，相比以往知识图谱的方式，更加高效智能可扩展等，开启通用人工智能之门。但符号化的知识图谱过时了吗？并非如此，大语言模型和知识图谱不是互相替代，而是相</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526576&amp;idx=1&amp;sn=24aff467f4e4ed7624f16dbc2cf6aa92&amp;chksm=ea3d8c7613f22c6d4af0deb26b6047cd26ecc0d0c08dbe3c9dfe3efd32fcb93a8d51d04188bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Mar 2024 09:32:02 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 【ICLR'24 Oral】LoftQ: 更好地将LLM量化与LoRA微调结合]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagEtJ97MkdjOkXBqibxDs0vxZl0hZlU8G3ibOoTqnFvibDKIZc76Libmib7gVkwPVw0uppZdlnXPaLibP5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：量化是为服务大语言模型（LLMs）不可或缺的技术，最近已经应用到LoRA微调中。在这项工作中，我们关注的是在一个预训练模型上同时应用量化和LoRA微调的情景。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526576&amp;idx=2&amp;sn=42e08c0fce7172c579449f53bf2f1821&amp;chksm=ea46c06ca30f3a726736e60ca82a54eeec13cbf08abc492e1cdc509c2bcf4a31f4dcda82eb59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Mar 2024 09:32:02 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 阿里推出Mixture-of-LoRAs，一个多任务高效微调框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagEtJ97MkdjOkXBqibxDs0vxZl0hZlU8G3ibOoTqnFvibDKIZc76Libmib7gVkwPVw0uppZdlnXPaLibP5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：指令微调有激发或增强大型语言模型（LLMs）特定能力的潜力。然而，实现正确的数据平衡对于防止灾难性遗忘和任务之间的干扰至关重要。为了解决这些限制并增强训练灵活</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526576&amp;idx=3&amp;sn=1a091b91527588e652b6caa26dc06be0&amp;chksm=ea0b4d1b6c85799778db6a710471c5e743d13f1ccef1cf0d8e004f4bcc61311f643d0e789bbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Mar 2024 09:32:02 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | MIT新作：使用多个大模型协作decode]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagEtJ97MkdjOkXBqibxDs0vxZl0hZlU8G3ibOoTqnFvibDKIZc76Libmib7gVkwPVw0uppZdlnXPaLibP5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：我们提出了一种方法，通过在token level交错使用多个大语言模型（LLM），让它们学会协作。我们将由哪个 LLM 生成下一个token的决定建模为一个潜</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526576&amp;idx=4&amp;sn=5c674675e21b3d7691dd62b70a85a5ba&amp;chksm=ea280cac64262f3c613c7ec3db5f26e834211d4eebadab223878b123956ccc9f22445ab2a5e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Mar 2024 09:32:02 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[图解Mixtral 8 * 7b推理优化原理与源码实现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajVr9QdEkdGpuMhwkVibNSCzhCqCicVpc26jrus0iaf1ASD0icWQOAuAChpvlBlPdGMAjV2S2CTwT3PHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记大家好，在写这篇文章时，本来是想打算介绍Mixtral 8 * 7b具体模型架构的。但是代码读着读着就发现：最精彩的MoE部分，其相关原理在之前的文章中已经详细介绍过整体来看Mixt</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526542&amp;idx=1&amp;sn=a739f34c9931e0f182586eb837131b17&amp;chksm=ea437e14b0a5fca6d49a9a42c9e7caeff98a48239a39cfb9cc17435919534742800901c63452&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Mar 2024 12:38:45 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | NLP大佬们联合发文，倡导使用检索增强模型RA-LMs]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWBdzw3gwv3C57I4RC2pVZwmfKPZ6bdCQmBvMbSEj3lDJdhH4EmgFf6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：参数化语言模型（LMs）通过在大量网络数据上进行训练，展现出了显著的灵活性和能力。然而，它们仍然面临着诸如幻觉、难以适应新数据分布以及缺乏可验证性等实际挑战。</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526542&amp;idx=2&amp;sn=789c8fc225671cd49366a9d858710e80&amp;chksm=ea1f7b0d4d96959d4689380792b95d2da52fd63a2dfe847861b5b6257528680036c4dd771c12&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Mar 2024 12:38:45 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | Agent控制电脑！用多模态Agent玩荒野大镖客！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWBdzw3gwv3C57I4RC2pVZwmfKPZ6bdCQmBvMbSEj3lDJdhH4EmgFf6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：最近的研究已经证明了基础代理在特定任务或场景中的成功。然而，现有的代理无法在不同的场景中进行泛化，主要是由于它们的观察和行动空间的多样性以及语义差距，或者依赖</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526542&amp;idx=3&amp;sn=6608c7f914adae76a8db85d995452879&amp;chksm=eab7eb1cd71cd3202c3a4a8c5445c3fa0698d98cd1fe14a76178311714e5f0a11bdf9a1b20f2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Mar 2024 12:38:45 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | GaLore: 使用梯度低秩映射进行大模型 Memory-Efficient 全参训练]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia3ZKe0HPOMSDBHOkOgRSyWBdzw3gwv3C57I4RC2pVZwmfKPZ6bdCQmBvMbSEj3lDJdhH4EmgFf6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：训练大型语言模型（LLMs）面临着显著的内存挑战，主要是由于权重和优化器状态的不断增大。常见的内存降低方法，如低秩适应（LoRA），在每一层中向冻结的预训练权</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526542&amp;idx=4&amp;sn=3dae740833171b32d1011634624b1ed1&amp;chksm=ead229e28b737cc43c6c1a2d9037932d35157fbf97d0a47dd6460a56620c90fb9290bda08da4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Mar 2024 12:38:45 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -246,70 +314,6 @@
       
 
       <pubdate>Sat, 09 Mar 2024 12:21:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[马斯克回应OpenAI："Change your name"]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahCpdz8a0wshPcPvlk9vkjqyiclNAExE7buPoPUBEiaGuQonoMZ5ichQIaysqJ1x5GibFLUxfvBNiaqzbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，整个AI圈都在关注OpenaAI和SpaceX首席执行官埃隆·马斯克的官司。继OpenAI驳回“埃隆的所有主张”（dismiss "all of Elon's claims"）之后，今日马斯克在</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526302&amp;idx=1&amp;sn=61774958b69a404b464ab27c1b9b891e&amp;chksm=ea8747cc79cd001abd28537481766769637c307e4d8b05c2ecb4d6b17ff745c76d0ef6026634&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 12:22:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | “A是B的dad”<=>“B是A的son"，大模型的“逆转诅咒”]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahCpdz8a0wshPcPvlk9vkjqdCVq2EnF5RMUiaRgrkgdJbxgvw9cXBoI8g9ajicQQNntsiczHVVUBG8Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：虽然大语言模型 (LLM) 在不同的任务中取得了令人印象深刻的表现，但最近的研究表明，因果 LLM 遭受着“逆转诅咒”。 一个典型的例子，模型知道“A的父亲是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526302&amp;idx=2&amp;sn=eced688699bbab8db091d0346b09487c&amp;chksm=eafac9bd8176674512dad596fb4d9f76425c756e49b18fa73c0130c154fee316aa37b51c7176&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 12:22:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | VisionLLaMA: 视觉生成和理解的新基准模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahCpdz8a0wshPcPvlk9vkjqdCVq2EnF5RMUiaRgrkgdJbxgvw9cXBoI8g9ajicQQNntsiczHVVUBG8Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：大语言模型建立在基于transformer的架构之上，用于处理文本输入。LLaMA 在众多开源实现中脱颖而出。同样的transformer能否用于处理二维图像</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526302&amp;idx=3&amp;sn=201d05d5c7afa49129d5a4a14fefed7f&amp;chksm=eae5393048d3a06a8ec53e997588322d5ec2c73e1863afe5a9ee545e65b21d73b1b45541b21a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 12:22:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | ICLR'24：Transformer能捕捉物体间的空间关系吗？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahCpdz8a0wshPcPvlk9vkjqdCVq2EnF5RMUiaRgrkgdJbxgvw9cXBoI8g9ajicQQNntsiczHVVUBG8Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp【ICLR2024】Can Transformers Capture Spatial Relations between Objects?摘要：物体之间的空间关系是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526302&amp;idx=4&amp;sn=7b8025f4554b50b9931d89d5d41ecd49&amp;chksm=ea25c06ffaa752dcd5bcdd66598d68ece1958a5be545aa02c951011bc5379503741f3bf5bbff&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Mar 2024 12:22:57 +0000</pubdate>
       
 
     </item>
