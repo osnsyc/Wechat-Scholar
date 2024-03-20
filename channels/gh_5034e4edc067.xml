@@ -37,40 +37,115 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[transformer再突破！基于Vision Transformer的视觉语言新SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLEibeP8JRtlhLUOZzJS3mxibsKw4plQy65F7vlmLAzjewxdTliaqvVhypfvLPWP729ZCUTpY0qTXw8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer 如今已经成为主流，为各种任务创造了 SOTA 结果，它是一种新型的神经网络架构，用于处理多种感知模态数据（如图像、文本、音频等），比如机器翻译和文本生成。我们邀请到哈工大博士李</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=1&amp;sn=4ceafbc5ce8a5d7e271d8d896727c2ea&amp;chksm=bf65e3d5afdd074fb3a9f6be8e1012199c5fa755bf74d269d6c3889f6dd4d66f5e3e90914a84&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[增量预训练baichuan-13b-chat遇到的那些坑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgxpEa1tBhkuFdyk35sT8KiaxzKjZ1soQ0UfI0ZxsxNlAmcjyrYfHbicCvtBuUNTEUKIfmVlAlhw6vNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言资源单机两4090，如图在这里插入图片描述单卡24G，baichuan-13b-chat单卡推理需要至少26G，因此仅用一张卡，我们是无法加载百川13B的模型，所以，无论是推理还是训练，我们都必须</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=2&amp;sn=2854422b50ac020dbb44f8a941ebe3ba&amp;chksm=bf7c21a1548ce8a190bbe5be9c98b933f0b4e34920bb8cd5f5c9d87118b500d4a255a9a22042&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型检索增强生成(RAG)高质量报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh6LwXNicqj4G2tibibibAYyiaOWcrJibYgBSMSicXVKxeYx38A1oXz0fwxicU5oNkXbgPSo2JJTkNuyNZOD5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天分享一个来自同济大学Haofen Wang的关于检索增强生成的报告：《Retrieval-Augmented Generation (RAG): Paradigms, Technologies, </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=3&amp;sn=ba391dc4e131e7f280178aeb6affc321&amp;chksm=bfd719ea1c1f67983ece345e7416a4d11e6778f6893cce7f8f9f9cd7792fd05591fb97ec2ee1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型的模型融合方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwIlZeeWqxu6BzsNJhXFfLzict73Nx1QnDzNnqtpEQbkrpkLaEHgt6f4o588IkBIUg8ocgLhgyRhDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天来讲一下大模型中的模型融合，并给出大模型融合的有效方法的原理和实现。模型融合大家以前用的很多，特别是在判别模型里，属于永远都能稳定提升的那一类方法。但是生成语言模型，因为解码的过程存在，并不像判别</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=4&amp;sn=6646e0c7ff7b008b7f3179ebf18bb6cc&amp;chksm=bf4053a549a21dadf8128c97f9f31075db8d4367ca3bad903f4e280e9bce8578fe9ec6dd3a18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[COLING2024 | 面向编程的自然语言处理综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/58FUuNaBUjp1tGAcib25ibSH9GUR5NUA2Hx7y12dQvGT0MxTR4J5Z4N6dWt2k3iaeicGLsm7GQ1KlUNAX34xicxd6VQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文名称：A Survey on Natural Language Processing for Programming论文作者：朱庆福，罗先镇，刘芳，高翠芸，车万翔原创作者：罗先镇，朱庆福论文链接：</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=5&amp;sn=392976ffa369c49ce863857488ed3bfb&amp;chksm=bf8181048755687774729f63a263a9ad0d82df84de4a4e67f1e81f48990ab63b0d5c3a60c2d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[保姆级 Transformer 中文教程，来了！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJGdU9mv2W7e08dYWG5EicNWZicD4KU9KsJlA0jwUzrGlpOYO52SCCicskTd4myCZQsOeVg6w3YSw58A/640?wxtype=jpeg&amp;wxfrom=0"/><p>短短五年，Transformer就几乎颠覆了整个自然语言处理领域的研究范式，也促进了计算机视觉、计算生物学等领域的研究进展。这次我邀请了多位顶会大咖，做了22节最全Transformer系列课程，带你</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441384&amp;idx=1&amp;sn=fd1f9b0f8412a1c6dd6df3c54421c681&amp;chksm=bf1de2df6864da35bf37a5f5b297b41aac9201b5d6536605c60e1ea46884d0ebd0c805ee87a3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 19 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[探秘Grok-1 - 马斯克旗下xAI开源的大模型，参数量3140亿]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic3obUlcwce1zeoq9y9krpghzp7vMZ9fhEYusDdibzYNhAbkuFSWNvkmwn4MV5thloTrjr5QvluHSdg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言Grok-1是由马斯克旗下的人 工智能初创公司 xAl 开发的一款大型语言模型，是一个混合专家 (MoE）模型，拥有3140 亿参数，使其成为目前参数量最大的开源大语言模型。Grok-1 的开发和</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441384&amp;idx=2&amp;sn=042e7328f8fc560eb8facf67066d6380&amp;chksm=bf005e33675020ce146259a35413994478511cbb382ab646d603c6aa24ed229eccc4a1b35ed6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 19 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[字节跳动商业信任与安全团队招文本大模型算法工程师]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLEibeP8JRtlhLUOZzJS3mxibW3YVJKeWjbukibd2XtW9TKwHrKDjc77JeVfQbna01zAmCibErZ43pfibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>字节跳动商业信任与安全团队招人啦！团队氛围好，业务空间大，欢迎来勾搭[社会社会]（北京/上海）文本大模型算法工程师-商业信任与安全职位描述商业信任与安全算法团队，聚焦于通过人工智能技术（包括但不限于N</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441384&amp;idx=3&amp;sn=e12e43918942be306a7984e979831c80&amp;chksm=bf718067c21b4080c63dbf240b6921630638e5812663a0d4f367ee4b8bdd6bbbf71c5ff90420&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 19 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[指令微调数据的高效筛选方法-CaR（排序&amp;聚类）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mNvynY0vLaBXRw2X7AKLDENlGrl7t5RAdkzicFoEvoUuvqtTRrUhKSbw1iaUmfbDF3yxpfE9DPmygQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大模型时代，指令微调是必不可少的技能。那么如何使用更少的数据，调出更好地效果，更节省训练资源&amp;成本呢？之前已经给大家分享过几篇数据筛选的方法：DEITA、MoDS和IFD。今天给大家带来一篇通</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441384&amp;idx=4&amp;sn=322e77823e37297479627c60efa96308&amp;chksm=bf85d6c7fc40459108fc248ab8629981bb0a5cd790b6dae2bcc934368b285729f983d105a3f5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 19 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[EMNLP 2023 | LLM工业界快速落地之PromptMix: 一种有效的混合数据增强策略将LLM能力迁移到小模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gTSf9kr5zrPeJ4Tw3AWavyQLk8FOay0mMpexs1NHyTicJ4f5DWeVaPb04C2GOcl9CARpnXiaNHAmkGGUDE0FtfBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天分享一篇接受到EMNLP 2023的文章，Title: PromptMix: A Class Boundary Augmentation Method for Large Language Mod</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441384&amp;idx=5&amp;sn=2e2760c9a5cb688a34101df8ab37bf00&amp;chksm=bff1fe2c7cac0461555d882b8ffdde30301db5c2f151e3b4708d5874608944b4e69385802288&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 19 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
