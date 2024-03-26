@@ -65,54 +65,190 @@
 
 
 
+
+
+
+
+
+
+
+
     <item>
-      <title><![CDATA[「深度学习在轨迹数据管理与挖掘的应用」最新综述及其展望]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPibovJibfMZricibfrR0Wpv8z5eKtcM6ONxdRqf3y06MQibPgT2E0ddVdJMsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>轨迹计算是一个关键领域，涵盖了轨迹数据管理与挖掘，由于其在位置服务、城市交通和公共安全等实际应用中的重要作用，吸引了广泛的关注。传统方法主要关注简单的时空特征，面临着复杂计算、可扩展性有限和适应真实世</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=1&amp;sn=380a3742dcf4191c4eaa97836238924d&amp;chksm=fd9d0a7b50be0321d271b4de450b279d0fa7acdbdbd8dff78ab9b86b976a49362c1ab3f6aec1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[代码大模型有何进展？《神经代码智能》最新综述：范式、进步与未来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw325b3mWGgufvWItKSsibBYM8d20nWWIXyTvVVlklFnbu52cMFJ7tY4KJ4Ct7Reic471KkK6raTQqcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>神经代码智能——利用深度学习理解、生成和优化代码——对整个社会具有巨大的变革潜力。在自然语言与程序设计语言之间架起桥梁的这一领域，过去几年里已经吸引了两个研究社区内研究者的重大关注。本综述提出了一个系</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646991&amp;idx=1&amp;sn=9801fd4dbb74f44c8433539e7826333c&amp;chksm=fd90902d3c43789765c885e0953d7c7d1ba58cc521b8ccaf122d8f85d3e27eae6080026e2d71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[视觉提示学习综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPibPiarfs4Ueb8fSB8SeYWPLNHPZJBhib0JAQYoX6vGbB1PJ6WObSOZMyuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，随着提示学习方法在自然语言处理领域被提出，其日益受到研究人员广泛关注.它通过将各类下游任务重
-构成预训练任务的形式，以参数高效和数据高效的方式将大规模预训练模型应用在各类自然语言相关下游任务中</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=2&amp;sn=350dad4555bdde0ddd87f1f022f16a0b&amp;chksm=fd9b9fec9acdc97cbf10775523a23d32f0f39d9471ab0d8afa80a986b241a256ed02ed4a8422&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【MIT博士论文】基于数据的模型可靠性视角，322页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw325b3mWGgufvWItKSsibBYMNVIwibxlQOQcqPoc2hg6WFOm6Pib9icmj5wmbArtibTfXxbEn6ica7iczhXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>神经网络可能无法泛化到现实世界数据——特别是在可能被错误标记、损坏或在训练过程中代表性不足的子群体上。在这种情况下，模型依赖的一组特征，或其特征先验，通常决定了模型的最终可靠性。虽然许多因素对模型的特</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646991&amp;idx=2&amp;sn=f6add8105d7ab792bd9c2dd37993b2e1&amp;chksm=fdfff64f1a2eda7795a9bfac7c9fb1e3f4798ac31e159184b7809ef62631433cc8ee4f96060b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【MIT博士论文】学习可重配置视觉模型，173页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPibaQnEkgl9VUAm93GoYrSE04a02xmmicO9c8msC4g3nU7nRfS1hm30q8w/300?wxtype=jpeg&amp;wxfrom=0"/><p>在过去的十年里，深度学习方法已成为计算机视觉、自然语言处理和语音识别等众多领域的主导方法。然而，这些模型也因其高计算成本和大量数据需求而臭名昭著。此外，它们常常给非技术用户带来显著挑战，这些用户通常缺</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=3&amp;sn=7effed90c628a757aff4981796ed45ce&amp;chksm=fd7407d02d03281d4eef4dfa1d4fe65cfc68a98260b3d5fb90d41a40188a8f62d9c31f2095ea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】ChatGPT与大型语言模型(LLMs)的提示工程：通过有效的提示设计增强ChatGPT响应]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw325b3mWGgufvWItKSsibBYMTzxI91nYmJFktC6VYBBMh0r9lNnmDbmudk7RqMT20IDRut8Xnlial7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>释放ChatGPT和人工智能的力量：掌握提示工程，彻底改变你与语言模型的互动你准备好释放ChatGPT和人工智能革命的全部潜力了吗？这本全面的指南将带你深入提示工程的世界，这是最大化大型语言模型（LL</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646991&amp;idx=3&amp;sn=198608cc5aacb173b3d1aaa2b537b600&amp;chksm=fdf076cdde6d4b8c5d3182a293fcc73afe3c07236991485cbd6a693c9fd618b3d67ff7c0cba0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【CVPR2024】Token 转换的重要性：面向视觉 Transformer 的忠实事后解释]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPib2ZxfiaRZqsQMibG7NlHKOKyokZVkMP2kvGN6m47NEM7vUa2rYBO2UW1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>当 Transformers 在各种计算机视觉应用中迅速获得普及时，对它们内部机制的事后(post-hoc)解释大多仍是未探索的领域。视觉 Transformers 通过将图像区域表示为转换后的 to</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=4&amp;sn=5b525e9795d7ede3fe849ec34fe1ab00&amp;chksm=fda842e441951567feaddb02fac019a0ce341879cfed2acad433c789a439b84626346e66ffbe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[WWW 2024 | GraphTranslator: 将图模型对齐大语言模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AYxz3cIHvyqNEvjCzVaztdYicuFLfb4qgyZgAcXQ4WatgEicIIVtoguEatLicgZn1G3FCOnSXle73rosmTw2MiaBEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文链接：https://arxiv.org/pdf/2402.07197.pdf代码链接：https://github.com/alibaba/GraphTranslator引言图模型（GM）如图神</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646991&amp;idx=4&amp;sn=7fbb4bea11c0231f0d5703a43e686f95&amp;chksm=fd5030d85ae0490801bce32d6c8b5dc18f1b37743dd91a2d28358e9a5115bf2791510e2c90b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[让每艘舰艇都成为航母：人工智能如何彻底改变海空领域]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRL1FUs9ATAUhUPgYCdAZvVOTkz5Mtvu5dwxjPLms9hceVChtR6ugkP5bkoahiadkLzXbcibZEViaQZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>图：在穆古角文图拉县美国海军基地的 Vanilla 超续航陆射无人机（UAV）。人工智能赋能的机载无人机可能会开创海军航空的新时代。如今，许多人质疑航母在大国竞争中的意义。兵棋推演者担心大国的 "航母</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=5&amp;sn=158a17eb2b45d10e8c11d9ef2d2d556a&amp;chksm=fd82efe5acf8405a70a540d30048becff5c9f1f5bc614a232d875df7ac079088ef9759367c80&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[“效果中心战”需要多种规划手段]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicT0L2Ph5QN4icZOibDYstQibBAS6JcKfAibWkW14EvIVVzxFibEqribLb2zDPcBick4Jv9ZQF9ibYrxdpSKsg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文旨在了解澳大利亚国防军的多域作战（MDOs）方法如何演变，如何在复杂环境中整合新领域和效果中心战（Effects-centric warfare），以取得战略优势。导言正如《国防战略评论》所述，澳</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646991&amp;idx=5&amp;sn=195f0bfc5ffc8f3b05ace1da11ffdb6a&amp;chksm=fd3df2353af4f9ae93057912d2887e3de356f24cccfba12f7487fd5748573a95833ef3b97f8a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[外军有/无人编组技术分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPibAkaTricTAFm9wP9fGxcLIHSWIuSPAxsUe422aXufZfmicPyxjrRHicficQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>有人/无人平台编队可以充分利用无人平台的低成本、可消耗优势,扩展有人平台的作战空间,提高有人平台态势感知、穿透杀伤和生存能力。针对美、英、法、澳、韩等国有/无人编组技术的发展动态进行了调研综述,举例说</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=6&amp;sn=53a42d116dcf339fe2a8c795a57785b9&amp;chksm=fd3b81674faa8c1d059f5770898dd16e4d76adeaa4cbe2ef4d636a41ae7cd1b2f3f0005a73e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[面向装备试验鉴定领域数据治理的知识图谱本体构建]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw325b3mWGgufvWItKSsibBYMYMw2hK6x1XsaVcIZicfwtHDXqUpopxYR303ILB5oJEk5YGtUoSHwXnQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>针对装备试验鉴定领域数据复杂性带来的数据治理难题, 提出通过构建知识图谱辅助相关试验鉴定机构开展数据治理的技术思路。分析试验鉴定任务与领域数据特点, 在斯坦福本体构建流程的基础上, 设计了一种具有试验</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646991&amp;idx=6&amp;sn=09ec2cbbf530c17deb5497cfcac29ce9&amp;chksm=fd9dd25356fc4db291ef35ee19aff75bc7a3cd7253006e41a058e7a91ffda755c2b078b1e72c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[COLING2024｜不平衡场景下的多模态知识图谱补全]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcN7Hj05roI8zVu2jky3MNJsLwCict6gR9QiaQflVEJ7CjWVgnnJzW8t32ibhibrOazpowBa8WYibGnkNgg/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Complet</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=7&amp;sn=d82dc9e45a0ed9ffdd91b30fd9a5508a&amp;chksm=fdb8167d841886a56dd2feab86845175fd30c3d92edc3d812da4f75986a7eec55b4d23d9f2ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【CVPR2024】DiffusionMTL: 从部分标注数据学习多任务去噪扩散模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw325b3mWGgufvWItKSsibBYMKFia3SG3SIaicy8IKZemBEcgOvlj7NnlXmVPB3N3YORY6Puib8Cj7UYVw/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近，从部分标注数据学习多个密集场景理解任务的实际问题越来越受到关注，其中每个训练样本只为任务子集标注了标签。在训练中缺失任务标签会导致低质量和噪声预测，这一点可以从最新方法中观察到。为了解决这个问题</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646991&amp;idx=7&amp;sn=644d2339d91574b3a7bcf459e5518dbb&amp;chksm=fd517bfb79b0e1096149de80c93361784ec03ec236900915071b3c0b18972f388ed630ed859a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Mar 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=8&amp;sn=0020a5980ab29cd95fda9295ce1160a4&amp;chksm=fd8760ef7b69c77df6c5111bb93aa45e259a753cea35a633527d14f3f1a60a3137234ebec9d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646991&amp;idx=8&amp;sn=4d108cb97c0909c3ae1061942c714923&amp;chksm=fdabae7ff54b49fa25efb5938d3cb713c175454be71cb8a7c097bfad9d954e3fc5db0207d71f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Mar 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[「深度学习在轨迹数据管理与挖掘的应用」最新综述及其展望]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPibovJibfMZricibfrR0Wpv8z5eKtcM6ONxdRqf3y06MQibPgT2E0ddVdJMsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>轨迹计算是一个关键领域，涵盖了轨迹数据管理与挖掘，由于其在位置服务、城市交通和公共安全等实际应用中的重要作用，吸引了广泛的关注。传统方法主要关注简单的时空特征，面临着复杂计算、可扩展性有限和适应真实世</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=1&amp;sn=380a3742dcf4191c4eaa97836238924d&amp;chksm=fd9d0a7b50be0321d271b4de450b279d0fa7acdbdbd8dff78ab9b86b976a49362c1ab3f6aec1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[视觉提示学习综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPibPiarfs4Ueb8fSB8SeYWPLNHPZJBhib0JAQYoX6vGbB1PJ6WObSOZMyuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，随着提示学习方法在自然语言处理领域被提出，其日益受到研究人员广泛关注.它通过将各类下游任务重
+构成预训练任务的形式，以参数高效和数据高效的方式将大规模预训练模型应用在各类自然语言相关下游任务中</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=2&amp;sn=350dad4555bdde0ddd87f1f022f16a0b&amp;chksm=fd9b9fec9acdc97cbf10775523a23d32f0f39d9471ab0d8afa80a986b241a256ed02ed4a8422&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【MIT博士论文】学习可重配置视觉模型，173页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPibaQnEkgl9VUAm93GoYrSE04a02xmmicO9c8msC4g3nU7nRfS1hm30q8w/300?wxtype=jpeg&amp;wxfrom=0"/><p>在过去的十年里，深度学习方法已成为计算机视觉、自然语言处理和语音识别等众多领域的主导方法。然而，这些模型也因其高计算成本和大量数据需求而臭名昭著。此外，它们常常给非技术用户带来显著挑战，这些用户通常缺</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=3&amp;sn=7effed90c628a757aff4981796ed45ce&amp;chksm=fd7407d02d03281d4eef4dfa1d4fe65cfc68a98260b3d5fb90d41a40188a8f62d9c31f2095ea&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【CVPR2024】Token 转换的重要性：面向视觉 Transformer 的忠实事后解释]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPib2ZxfiaRZqsQMibG7NlHKOKyokZVkMP2kvGN6m47NEM7vUa2rYBO2UW1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>当 Transformers 在各种计算机视觉应用中迅速获得普及时，对它们内部机制的事后(post-hoc)解释大多仍是未探索的领域。视觉 Transformers 通过将图像区域表示为转换后的 to</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=4&amp;sn=5b525e9795d7ede3fe849ec34fe1ab00&amp;chksm=fda842e441951567feaddb02fac019a0ce341879cfed2acad433c789a439b84626346e66ffbe&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[让每艘舰艇都成为航母：人工智能如何彻底改变海空领域]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRL1FUs9ATAUhUPgYCdAZvVOTkz5Mtvu5dwxjPLms9hceVChtR6ugkP5bkoahiadkLzXbcibZEViaQZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>图：在穆古角文图拉县美国海军基地的 Vanilla 超续航陆射无人机（UAV）。人工智能赋能的机载无人机可能会开创海军航空的新时代。如今，许多人质疑航母在大国竞争中的意义。兵棋推演者担心大国的 "航母</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=5&amp;sn=158a17eb2b45d10e8c11d9ef2d2d556a&amp;chksm=fd82efe5acf8405a70a540d30048becff5c9f1f5bc614a232d875df7ac079088ef9759367c80&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[外军有/无人编组技术分析]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0T0QxdsB1Vy0pAhv72AxPibAkaTricTAFm9wP9fGxcLIHSWIuSPAxsUe422aXufZfmicPyxjrRHicficQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>有人/无人平台编队可以充分利用无人平台的低成本、可消耗优势,扩展有人平台的作战空间,提高有人平台态势感知、穿透杀伤和生存能力。针对美、英、法、澳、韩等国有/无人编组技术的发展动态进行了调研综述,举例说</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=6&amp;sn=53a42d116dcf339fe2a8c795a57785b9&amp;chksm=fd3b81674faa8c1d059f5770898dd16e4d76adeaa4cbe2ef4d636a41ae7cd1b2f3f0005a73e9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[COLING2024｜不平衡场景下的多模态知识图谱补全]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcN7Hj05roI8zVu2jky3MNJsLwCict6gR9QiaQflVEJ7CjWVgnnJzW8t32ibhibrOazpowBa8WYibGnkNgg/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Complet</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=7&amp;sn=d82dc9e45a0ed9ffdd91b30fd9a5508a&amp;chksm=fdb8167d841886a56dd2feab86845175fd30c3d92edc3d812da4f75986a7eec55b4d23d9f2ff&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646919&amp;idx=8&amp;sn=0020a5980ab29cd95fda9295ce1160a4&amp;chksm=fd8760ef7b69c77df6c5111bb93aa45e259a753cea35a633527d14f3f1a60a3137234ebec9d7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 24 Mar 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -751,137 +887,6 @@
       
 
       <pubdate>Tue, 19 Mar 2024 08:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[机器遗忘：分类、指标、应用、挑战与展望]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2gqpcEhmS9XibqQhTiasUOnUbbpRW8iaFKN7zXOicicC9D2dTJ6JyquPd0xHQoAuyd53FSN0fFmicYJWkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>个人数字数据是一项关键资产，全球各地的政府已经实施了法律和规章来保护数据隐私。数据使用者被赋予了其数据的“被遗忘权”。在机器学习（ML）过程中，被遗忘权要求模型提供者在用户请求时删除用户数据及其对ML</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646579&amp;idx=1&amp;sn=55a9187783219c2ce31ca66e8bc8ba75&amp;chksm=fd18a973d43da3ec6454ce1ec0467f7c4829c379e3003797a14ee76a71d165fc58332b64c3a1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 10:17:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【MLSS2024教程】大型语言模型，150页ppt]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2gqpcEhmS9XibqQhTiasUOnUuvLvO9yKxMEJibuR8sqccyLeLRn1ggJq7IJMwuoia4eGfeJaNNsx6ZzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自斯坦福助理教授Tatsunori Hashimoto《大型语言模型》教程，非常值得关注！专知便捷查看便捷下载，请关注专知公众号（点击上方蓝色专知关注）后台回复或发消息“LM150” 就可以获取《【</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646579&amp;idx=2&amp;sn=b360562aeaa8a71026d97049089ba427&amp;chksm=fdf75849c2bc04b5cd1051a2b4516392e2300e2c0b33afba907213e4d991a5b5bb6a55fbf723&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 10:17:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ETHZ博士论文】监督学习中的频谱偏差，149页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2gqpcEhmS9XibqQhTiasUOnUhBsPgMBkdxZ4pcXiczVyb1XSRZOUGgIkzGj2SLNjOV17VC414qzHUgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们基于过去几十年在监督学习中的进展，重点关注两个成功的模型类别：决策树集成和神经网络。这些模型展现了一种称为“频谱偏差”的属性，即它们学习的函数可以使用紧凑的傅立叶（沃尔什-哈达玛德）表示来表示。这</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646579&amp;idx=3&amp;sn=7564aa7d27cf4415c4cbdbdc19b9dba8&amp;chksm=fd971817e461e6608483694a3c52b80a0797fa8170ecc8857c11659b726916d4971cb89f319b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 10:17:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【新书】生成式人工智能的潜能：通过创新的AI应用转变技术、商业和艺术]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2gqpcEhmS9XibqQhTiasUOnUb4ZCllyoEvZyjVTmDAczVbFqEB0gjfxT49kBjE6kxEOTv2ibhNX75Zg/300?wxtype=jpeg&amp;wxfrom=0"/><p>揭示生成式人工智能的力量和潜力，迎接无限的未来关键特性
-● 全面且易于接近的生成式人工智能之旅。● 释放生成式人工智能潜力的不可或缺指南。● 转变技术、商业、艺术和创新，覆盖技术进步和商业优化。描述《</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646579&amp;idx=4&amp;sn=9e705d8d870926fe04b2a550194b380f&amp;chksm=fd64cbab031b75268cb5bcaa3228df0739141630f032645f5ae97c136d16cb413a22432c6081&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 10:17:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CVPR2024】掩码自解码器是有效的多任务视觉通用模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2gqpcEhmS9XibqQhTiasUOnUh3l112zAUibaYOY7VxMI8kKQJ4Kd6ddOey9icLiaj4tJVo6RCJGkWU2MQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>受到自然语言处理（NLP）中通用模型成功的启发，近期研究尝试将不同的视觉任务统一到相同的序列格式中，并使用自回归的Transformers进行序列预测。它们应用单向注意力来捕捉序列依赖性，并递归生成任</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646579&amp;idx=5&amp;sn=c0040a9eb75c25364f1957ef4eef7dff&amp;chksm=fd748bee45168ef516a8624b69d35105f7403768cbdf7cda7b100c324199d55cc048e51072cb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 10:17:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[军事信息系统情境计算需求一致性验证研究]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2gqpcEhmS9XibqQhTiasUOnUTVOezVPPM5iaQkrEeXIZMLOMx91bxJDfXrf5tG64klZHutuMmR4vTJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>情境计算是目前军事信息系统发展的重要部分，情境计算的需求涉及领域广泛、架构复杂。针对军
-事信息系统中情境计算需求论证需求不一致问题，采用本体推理方法发现并消除需求中的冲突和矛盾，构建了情
-境计算需求本</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646579&amp;idx=6&amp;sn=26cf14f61e6e327f1b6147e1923e2762&amp;chksm=fd9dfcd764203983fbc7812227e924da5c3a78bf0fbaed1a6362b57c9825423f3e1cfd3e18b7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 10:17:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《人工智能提高机载预警与控制（AEW&amp;C）作战员的态势感知能力：通过设计方法进行研究，创建指南和视觉概念》165页]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2gqpcEhmS9XibqQhTiasUOnUUia26Ug6VZ8d4icjHe3cLKbnRibjfQMRxfdrCAatn9o5O59rb30yzr80A/300?wxtype=jpeg&amp;wxfrom=0"/><p>在机载预警与控制（AEW&amp;C）系统中，作战员需要保持警惕，执行多项任务，进行沟通，并在任务期间同时处理不同来源的信息。作战员的主要目标是接收、解释和分发 AEW&amp;C 系统提供的信息和数据，以创建识别海</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646579&amp;idx=7&amp;sn=d16f2f544eff4546be75773a38559f5b&amp;chksm=fdb242a86cb48e8d876daaf315108ecef53fd69afbccaf15c60d82aeb6dbae89bf8816f77b2d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 10:17:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247646579&amp;idx=8&amp;sn=62f6f1f2a59550ae5dd262c68ed9b855&amp;chksm=fd938d3ca4c4fd07ac877971f4e32259bdc19b7cc2d36834d48bbd8c9338547fa23abcc4f71f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 10:17:48 +0000</pubdate>
       
 
     </item>
