@@ -37,35 +37,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[研发大模型的血液--万字长文详谈数据工程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLryynjoWcgOVLUtHe6TPhIDhXqJcDIGLaRln0cW7g1T5yEpOdqgPGkTowjqQ7zVY6MpicJHDSYkFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：西红柿牛腩原文：https://zhuanlan.zhihu.com/p/685077556整理：吃果冻不吐果冻皮最近1年研究大模型，有个很不好的现象，大家都认为做大模型，认为只要喂数据就行，甭</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441493&amp;idx=1&amp;sn=9f64ea38c75ad5d2db379e3f7f947ae9&amp;chksm=bf426d3179c33dc90428f67ac363bd8df6af6aa7e16576b839c55f18c08771ae485d298f169d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Mar 2024 12:38:46 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[虾皮(Shopee)招聘资深算法工程师 - 智能客服/对话机器人方向]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLryynjoWcgOVLUtHe6TPhI6q2gmTXl3J4JsfM9mV0icMXdsmic3tovZkJLkib4EyTwKWagU5Nf4Igsg/300?wxtype=jpeg&amp;wxfrom=0"/><p>[电商业务] 资深算法工程师 - 智能客服/对话机器人 Marketplace Intelligence and Data部门介绍：Marketplace Intelligence and Data </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441493&amp;idx=2&amp;sn=1412c41ee9886089d3015c5dd76f38fd&amp;chksm=bfc170308d9dd1127b07efbb141658679df8f95b7c8d7f3cf224cba5d95e205de2ed121d10f0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Mar 2024 12:38:46 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[一篇新鲜出炉的RAG综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKptW5MX5pIe79PgWH74GxP0IqTianFO8HnaHAG3aTFZlCV2mCB4S8QUEDrL4MbEBrdCFcic2mYtxrSDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介2 RAG分类3 RAG增强4 讨论参考文献1 简介    尽管目前大模型取得非常不错的效果，但是依旧面临不少挑战，包括如何获取实时跟长尾知识，如何规避数据泄露的风险，以及高昂的训练跟推理</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441493&amp;idx=3&amp;sn=7d0d1c2fb5bc84595b3cddd0ee8a33f5&amp;chksm=bf235a5d4f9656270605576f8a35a0bdadced7aa79495fe6e6a5cdcd1f282b404e82301f3bdc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Mar 2024 12:38:46 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[SentenceTransformer使用多GPU加速向量化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgz9wicRes81YFsbvhuoiauS1I5NaaGFboSFmxVfuTPen85uoHS5zTAIukKDFIw5NzqcuT9wgemhNH4g/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言当我们需要对大规模的数据向量化以存到向量数据库中时，且服务器上有多个GPU可以支配，我们希望同时利用所有的GPU来并行这一过程，加速向量化。代码就几行代码，不废话了from sentence_tr</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441493&amp;idx=4&amp;sn=0d841cdcb016a62d834ea5d39b5d9ff5&amp;chksm=bf481cf820c6c4053d12915cefd89637a9d2293418ac10c00cf6ab6497ce462363816ed6f1d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Mar 2024 12:38:46 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2023｜利用LLM合成数据训练模型有哪些坑？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gTSf9kr5zrMVV78xnqk4ZxY6wEVLUEouv4djTDrKPHRQLspc84zpGNV9GGXesicUypkz3QXQfbexmiaWVCE0G1CA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天我们将介绍EMNLP2023的一篇大模型（LLMs）生成文本分类任务合成数据的文章，标题是《Synthetic Data Generation with Large Language Models</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441493&amp;idx=5&amp;sn=5fd67806bbe2fb52e1871c2b1bef0b87&amp;chksm=bfd205215d639ef0c736c2486deeab5b2dc91a9aea022e763c2e1b1ec55eef2538a3aa59f667&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Mar 2024 12:38:46 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[CCL2024-Eval | 第二届汉语框架语义解析评测正式开启，诚邀各界专家学者参与]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJXh19q8OiaAhadayBQS8rGyN0T8d4pOLTT1OflfkNh6vJ1ZNKTUb3agrVibPh2YcZlwLeEN8Uiaibrxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>     简介框架语义解析（Frame Semantic Parsing，FSP）是基于框架语义学进行语义分析的任务，其目标是从句中提取框架语义结构，实现对句子中事件或情境的深层理解。框架语义解析对阅</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441468&amp;idx=1&amp;sn=81a72c318be39a0ee289a0a29291dccc&amp;chksm=bf4f36d815f6ef8fe9c376ac28aff288b38b71c1103e7afeaf3568c30b7dc90c63c9c382c6fc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RAG 2.0来了，它能成为生产落地的福音吗？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aaN2xdFqa4EAdfMqoGtcaicCECNS8PyRF5DMZukvGZqSXabmicSD6l9O1G6CUkJc2Piceo28yV5CF1SUNHTyhfHhw/300?wxtype=jpeg&amp;wxfrom=0"/><p>RAG作为当前最流行、相对成熟的的LLM应用架构，受到了开发者的广泛关注，相关围绕RAG优化的技术层出不穷，但依旧难逃达不到生产应用要求的尴尬。在典型的RAG系统中，通常会采用现成的通用嵌入模型来实现</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441468&amp;idx=2&amp;sn=3b35053a91f847bca41d8ab244d5055b&amp;chksm=bfc9f1676489f6a23f662aa2c8c5ed8095027a3517e19ce21b9ec841b4acbacc5827cf72e2f5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型的 Context Window越来越大了？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/fI41EfAgQvvVic8Bsm0WiaVtKNMfjF6Hq12oQeecibDWsSciaqKf7mRicaoEfZRne93Nc2RKYDxRIBbltN1burRcM2A/300?wxtype=jpeg&amp;wxfrom=0"/><p>刚在知乎上看到通义千问升级了，给用户带来了处理 1000 万字文档的能力，一举成为“全球文档处理容量第一的AI应用”😂。全球文档处理容量第一的AI应用感觉国内的风气都被 kimi 往长文本上带了，当然</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441468&amp;idx=3&amp;sn=62d3827b83529314fef1ef7004462775&amp;chksm=bfa60aa6b02e4a1c6e7ee4721dc9cac9cb472ca564f130b72796db534aaa12e10edcc0c4ad54&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大众点评内容搜索算法优化的探索与实践]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hEx03cFgUsVNhP8iaHXy9gN7VTTJLKiaRay4rDGrK3lYAiaItNcU5sUrK1nyjWobbdWexj6DicB55iay90ocItdTiaJQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文整理自美团技术沙龙第80期《美团内容智能分发的算法实践》，分享内容主要包括三部分。第一部分介绍了大众点评内容搜索的场景特点以及面临的挑战；第二部分介绍了为应对这些困难和挑战，技术团队在链路各环节上</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441468&amp;idx=4&amp;sn=7f773855b87f9b4896f16f408b122482&amp;chksm=bf93c3f68f5b4bbb2f67cffc726d8ece13a3de4429b5053ac765a268c52dbee82fb0f8962e9d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[通用人工智能的本质：一场进行中的辩论]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/37kWYypzzEcciaZMSoRMSZlRyibjUE06iclfgN8llKC9x5kMjgWicrCjXos4kKdOZcQzHqlsS7kwxAv1r2Etv0ncSA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型的飞速发展让通用人工智能（AGI）的概念再次成为了近两年来最热门的话题之一。在讨论 AGI 是否以及何时会到来之前，人们关于 AGI 的含义和本质尚未达成共识。为了防止其最终沦为一场概念的炒作，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441468&amp;idx=5&amp;sn=b4d7a772fd29e0ded307f801014890d4&amp;chksm=bf92d7d263d709042c3e9ec818d4db8717568847d857a73a6053434b94670c7f9e95debab0cc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -304,86 +389,6 @@
       
 
       <pubdate>Tue, 19 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一个薪资和前景都不错的方向，建议都冲一下！！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIIhPggiazR0jAUXkENfVAM7tS6dMYC9TzErBTHzPLcEXaiayabD1ibW1c4UWo0pGQXl6mgYcsGKl70Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>“大模型狂热”从未停止国内巨头战队华为、百度、阿里在AIGC的厮杀中从通用大模型渗透到各垂类应用市场就连中国创投资本也独宠AIGC企业百度、科大讯飞市值分别增加27亿和45亿美元这导致AI人才缺口大、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441351&amp;idx=1&amp;sn=eb14aa2cb0f95b0e529d02ca27a3fb95&amp;chksm=bf377b73bf711965c1fa33b37568f84f64e3a83b5f52c08d7082c9b7b9f1a1a24ba978c66ea4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文读懂RAG的来源、发展和前沿]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaaNF6dCVvryDiaWXTxq64gDOU2fvfbCgEUPghd6Vicj7qtFqy5RMLjUbic573G2icz8PfapSlHz0yIpA/300?wxtype=jpeg&amp;wxfrom=0"/><p>检索增强生成(Retrieval Augmented Generation，RAG)结合了检索 (Retrieval) 和生成 (Generation) 两个过程，旨在提高机器生成文本的相关性、准确性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441351&amp;idx=2&amp;sn=fc14ae863480688463708276b67d8b93&amp;chksm=bfbc09fef65b796de3d6393dae76e11cc031e4664745e0256b4c3e22122e57009838c307d805&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[稀疏注意力计算:sliding window attention]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW466ooF3KOJ8RhRovvK1TC4QLrlngNDzohlT3Hm5tjufbvuQicFerKkop7TpGqPNEQn6axpcvhdtyiavQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM的长文本能力现在已经是各个大模型巨头的必争之地。我们之前在《LLM长上下文的问题》简单介绍了目前把大模型理解和生成能力推广到32k+/128k+的主流方法，在《理解Attention:从起源到M</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441351&amp;idx=3&amp;sn=c0cdb5df048d1dffa579baed4a39c96b&amp;chksm=bf8cae070ff4da7eac10651ff641f95758298a1c46b384346c77dae395004f11adb911b6727d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DEITA：融合复杂度、质量、多样性的高效数据筛选]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic0k2jhPhh6VOicFk7w68aR7ILSYfMNdSZcr0FMOkHay901xvxtXfcmZkXCHa1VVRL0s7osTcHdNDBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言在复刻ChatGPT语言模型系列-（三）指令学习微调 一文中，我们介绍了指令微调的起源、重要性、主要目的，同时介绍了如何获取多样性的数据、如何选择高质量数据和如何组合高质量的数据。本文将再介绍一个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441351&amp;idx=4&amp;sn=217e49d56dec4a8baafbbbfe919c4535&amp;chksm=bfb6e8f0922d98a1623e7141775e1a349257c3737eb1f1fbcecb1cedf6a49158fb44a5c54c95&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM之上下文窗口扩展】| 无需微调的自扩展大模型上下文窗口]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1SicnEDzXmW1QvqEjr21MoOwnneIGNHCwTsibXJezuTeK70kSNWB4su7zCMxIROa0vfzpIMuO3zk8Ksww/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文链接：https://simg.baai.ac.cn/paperfile/a34ae7f4-f0ce-4f8f-b8f2-e8e4d84bbee5.pdf       目前大模型基本都采用tran</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441351&amp;idx=5&amp;sn=551b82a5bb35a3db1c9f390aa1713dfb&amp;chksm=bfa9862de8d26cc61c67f21abdda7c6408d82d7360f4ac6d7e3ad3f69aaa431bda82e3a7214c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Mar 2024 04:10:00 +0000</pubdate>
       
 
     </item>
