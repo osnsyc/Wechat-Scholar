@@ -43,34 +43,114 @@
 
 
     <item>
+      <title><![CDATA[50W奖金，校招绿色通道，确实可以封神了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKVy22NDn5JSJNWXsZKggQFJB5dLPjnSNreSuXnhsuJPy8MjnybBAQhZeldQFBYug0OgAHCNcibsMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>新赛制，新玩法飞桨黑客马拉松第六期全新挑战，重磅回归！开源贡献个人挑战赛、飞桨护航计划集训营、Fundable Projects、优秀稿件征集与传播四大赛道，邀你挑战！多难度梯度开源任务、导师1V1指</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441534&amp;idx=1&amp;sn=a1ad868512de6ae3c76647f88de9a0a9&amp;chksm=bf7488c5e23aff0bfd53e5b034d61694fa8c0c4646369b9cea2751630cf7ee3d0a27d9cb7e0e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 27 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[使用自己的领域数据扩充baichuan模型词表（其他模型也一样）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgwggq0p7QF461l6swuOYzjpPpNtkicc2YM6YsecM4VJTqwICubtXa8fjVIg8SuTs2EMgvhibkP95gGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言总的来说，扩充词表可以加快解码速度，对于对中文支持不太友好的模型（如llama），扩充词表还能提升模型在中文的表现。环境jsonlines==3.1.0sentencepiece==0.1.99t</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441534&amp;idx=2&amp;sn=1edf0ce111749a9624ee6b25086a0729&amp;chksm=bf6fdc9cea0fb41cae3f407e05e1498f3bd116bb895c389d38133f1016a005d5d7f6a20a2422&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 27 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【社招】小红书增长技术多个岗位热招中！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKqDYic1fUolyca4lJx4DnuZlveQ2uM9iaJyZqgKxQYibOpupYleO999opKmZn79KgibkeBGdX2DhL87g/300?wxtype=jpeg&amp;wxfrom=0"/><p>工作地点：北京/上海收件箱：houmengchao@xiaohongshu.com算法工程师-画像方向工作职责1、负责优化小红书社区上亿用户的用户画像；2、应用数据挖掘方法和Multitask Lea</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441534&amp;idx=3&amp;sn=31e92e0403fe8e396a48bef3080e4300&amp;chksm=bfb711a01311dfebf870a534ba08884def56a013af2a53349775405bed448de918d33f197d18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 27 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[生成模型大道至简｜Rectified Flow基础概念｜代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh7sn8o32iciaaBkpSCU6Fx8QzJOQVX904plwCewZv6x4UAFwVkucWWx3NFmAl5mjyImFv2picO0Wy5Mw/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近看了下SD3的论文，里面用到了Rectified Flow，之前没有接触过，了解了下是项有意思的技术。值得推荐，这里记录下Rectified Flow的基础概念和代码实现。详细的原理和深入理解建议</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441534&amp;idx=4&amp;sn=408e997771da40a527cfb6160a8d6ecc&amp;chksm=bf1ec3caa72314d315c8dcebb6b37d0c376e64f7e8911c5a4b405362901ceae88b61c2c68872&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 27 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[为什么语言模型的本质是压缩器？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BAVX0pafImn4deViaa4kKDibasaupfNtw2tgsryYPkSZbUFIZFQ3RMZlFlDrOYM7txdqcW9mLfffBicBDrNlQwaWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>最早听说语言模型的本质是压缩器的想法是在黄仁勋和Ilya的围炉对谈，当时只是直觉上觉得这个说法很有意思，但却没想明白原理是什么。2023年9月，DeepMind写论文进一步论证了语言建模与压缩的等价性</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441534&amp;idx=5&amp;sn=a3f6c2f17d7b6e3e433563bda6f5207e&amp;chksm=bfe0cbd1feefc3a7f9b0779f0976d3641d74823de07a8fca5de8fa78bce1be4c5c78fd897938&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 27 Mar 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[整理了2024年最新顶会论文【附PDF】]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLryynjoWcgOVLUtHe6TPhIPL6BFYib4micZaCNr8yySg84cM7qHCQzibk5Vz02s2yW8z7UGkRpFAV6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>ICLR 作为机器学习领域的顶级国际会议，每年都吸引了全球众多顶尖学者和研究者的目光， AAAI 人工智能会议在AI领域极具声望， CVPR 是计算机视觉方向的“顶级流量”。现在会议论文审稿结果也已经</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441503&amp;idx=1&amp;sn=a6fffc4c0e753904b433b97908a04ad6&amp;chksm=bf10daaecce4bc4872efcfa45ad5a3c6e167da149fe4a0aeff2890431345a06814c2f3fbdfb0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 26 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RAG与Long-Context之争—没必要争]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lbP3QtkAdeYzoxVajibBtXQEowGWbjwdb57Q9BApHTiaI9sgHZVrg6odiaBcncRCIOeG0liceCY7WOPQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面随着大模型可以支持的上下文(Context)长度越来越长，网上（好几个群里都在聊这个话题，也来聊几句）竟然出现了RAG与Long-Context之争，是真没必要。。。主要是两者不冲突，并不是非</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441503&amp;idx=2&amp;sn=557bdf8f2ced3315a4332db28b759c4c&amp;chksm=bf0637a5bb044720ac5444eeb4f155be674bf01d6dd3488c040af3fd0380aa6828797f395c42&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 26 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[transformer中normalization的二三事]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464icRJNKxxaiaQYn9XW6nth9Ez9IFYbBody7tGoxb02qib0KgiaMe5EjJm5Qiafu5niaDzOFthyE4AFY1icA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Normalization在模型中，相对于attention这种经常被魔改的结构，受到的关注度似乎没那么高，但它对模型能否顺利训练，却有很关键的作用。在此简单梳理下normalization相关的背景</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441503&amp;idx=3&amp;sn=7e9dfc241ca6e2525e542a40d8ceb93d&amp;chksm=bf691d08588ca3b3d16a3f400efc3c9dcdc94bf14fc49f9da6e019ad49fa877da97dc93f3fd3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 26 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[百川Dynamic NTK-ALiBi的代码实现：无需微调即可推理更长文本]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgy2fJK3Eu7hcY8AoHcHW3Ep8BJMiba2ibU36Rbhxryxy9DlG7M6pFJShneynTrMIhNgzf0a9eGgTWzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言NTK-ALiBi原理：NTK-ALiBi：通过插值实现大模型ALiBi位置编码的长文本外推[1]代码实现打开百川模型文件夹中的modeling_baichuan.py1、增加build_dyna</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441503&amp;idx=4&amp;sn=a57364cfb4cb78b83e5339c68b3e37f4&amp;chksm=bff5f35da586b60bfd5cc784a9685b28836cc9453ffb0c955254b131e4587ba65133ef7bec22&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 26 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Echo embedding: 把文本重复两次，自回归模型就能生成更高质量的embedding]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpuIRbwVtvfco2cdwibbGF5bwcQYPLjbBS8dRxD2Ras0tCVqVDpmlotVvyb7ib9J1c2MrKsBSUNzaEHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介‍2 背景‍‍3 Echo embedding4 实验‍‍‍‍5 讨论参考文献1 简介    针对目前在生成文本表征时自回归模型架构的局限，卡内基梅隆大学的研究人员提出了“echo emb</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441503&amp;idx=5&amp;sn=910344262c0b7a2b7f3e128ff12c5757&amp;chksm=bfdee31920aea32e00432049b03c83ec6a4baafae506d2b5f25aff4496c73157cba012bc9788&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 26 Mar 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -309,86 +389,6 @@
       
 
       <pubdate>Fri, 22 Mar 2024 10:44:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[transformer再突破！基于Vision Transformer的视觉语言新SOTA]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLEibeP8JRtlhLUOZzJS3mxibsKw4plQy65F7vlmLAzjewxdTliaqvVhypfvLPWP729ZCUTpY0qTXw8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer 如今已经成为主流，为各种任务创造了 SOTA 结果，它是一种新型的神经网络架构，用于处理多种感知模态数据（如图像、文本、音频等），比如机器翻译和文本生成。我们邀请到哈工大博士李</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=1&amp;sn=4ceafbc5ce8a5d7e271d8d896727c2ea&amp;chksm=bf65e3d5afdd074fb3a9f6be8e1012199c5fa755bf74d269d6c3889f6dd4d66f5e3e90914a84&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[增量预训练baichuan-13b-chat遇到的那些坑]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgxpEa1tBhkuFdyk35sT8KiaxzKjZ1soQ0UfI0ZxsxNlAmcjyrYfHbicCvtBuUNTEUKIfmVlAlhw6vNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言资源单机两4090，如图在这里插入图片描述单卡24G，baichuan-13b-chat单卡推理需要至少26G，因此仅用一张卡，我们是无法加载百川13B的模型，所以，无论是推理还是训练，我们都必须</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=2&amp;sn=2854422b50ac020dbb44f8a941ebe3ba&amp;chksm=bf7c21a1548ce8a190bbe5be9c98b933f0b4e34920bb8cd5f5c9d87118b500d4a255a9a22042&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型检索增强生成(RAG)高质量报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh6LwXNicqj4G2tibibibAYyiaOWcrJibYgBSMSicXVKxeYx38A1oXz0fwxicU5oNkXbgPSo2JJTkNuyNZOD5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天分享一个来自同济大学Haofen Wang的关于检索增强生成的报告：《Retrieval-Augmented Generation (RAG): Paradigms, Technologies, </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=3&amp;sn=ba391dc4e131e7f280178aeb6affc321&amp;chksm=bfd719ea1c1f67983ece345e7416a4d11e6778f6893cce7f8f9f9cd7792fd05591fb97ec2ee1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型的模型融合方法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwIlZeeWqxu6BzsNJhXFfLzict73Nx1QnDzNnqtpEQbkrpkLaEHgt6f4o588IkBIUg8ocgLhgyRhDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天来讲一下大模型中的模型融合，并给出大模型融合的有效方法的原理和实现。模型融合大家以前用的很多，特别是在判别模型里，属于永远都能稳定提升的那一类方法。但是生成语言模型，因为解码的过程存在，并不像判别</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=4&amp;sn=6646e0c7ff7b008b7f3179ebf18bb6cc&amp;chksm=bf4053a549a21dadf8128c97f9f31075db8d4367ca3bad903f4e280e9bce8578fe9ec6dd3a18&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[COLING2024 | 面向编程的自然语言处理综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/58FUuNaBUjp1tGAcib25ibSH9GUR5NUA2Hx7y12dQvGT0MxTR4J5Z4N6dWt2k3iaeicGLsm7GQ1KlUNAX34xicxd6VQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文名称：A Survey on Natural Language Processing for Programming论文作者：朱庆福，罗先镇，刘芳，高翠芸，车万翔原创作者：罗先镇，朱庆福论文链接：</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441398&amp;idx=5&amp;sn=392976ffa369c49ce863857488ed3bfb&amp;chksm=bf8181048755687774729f63a263a9ad0d82df84de4a4e67f1e81f48990ab63b0d5c3a60c2d2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 03:00:51 +0000</pubdate>
       
 
     </item>
