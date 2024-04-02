@@ -39,320 +39,97 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[图解大模型计算加速系列之：vLLM核心技术PagedAttention原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiahichdmLG8icTCIsoe8OyicESMsOqCNej6ezqknosR8H4AbOutpxAJfGiaDtZh8OiaN5SkZ22HV7DibLgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记大家好，今天想来介绍下当红推理框架vLLM的核心技术PagedAttention。PagedAttention的设计灵感来自操作系统的虚拟内存分页管理技术。vLLM的论文是在假设读者</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527028&amp;idx=1&amp;sn=27b2dadb681be9764288ee78ee734280&amp;chksm=ea557647263cb634fbe82fb5fb8c17b7851223e4651f4f6d6255ca19332f1f196cf72ff87296&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 01 Apr 2024 10:10:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | BiLoRA: 基于双极优化消除LoRA过拟合]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajtgYnjwHsznpBEHSEKPkZH2MCobV4YAcAwycVFP3tZNNpc6oxffiaGf7QxaHpouhqIxFGKxClEEFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：低秩适应（LoRA）是在下游任务中通过学习低秩增量矩阵对大规模预训练模型进行微调的一种流行方法。虽然与完全微调方法相比，LoRA 及其变体能有效减少可训练参数</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527028&amp;idx=2&amp;sn=552f8fea486c67d2a0ed4fa2ac8a9e66&amp;chksm=ea2eab2322828dafbef56884583902043a8a4e85bbbc7cfdb597adc8e3f0bd5a286fcfd995b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 01 Apr 2024 10:10:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | [COLING'24] 探索数据多样性对LLM对齐的影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajtgYnjwHsznpBEHSEKPkZH2MCobV4YAcAwycVFP3tZNNpc6oxffiaGf7QxaHpouhqIxFGKxClEEFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：与人类偏好对齐可以防止大型语言模型（LLMs）产生误导性或有毒内容，但同时需要高成本的人类反馈。假设人工标注的资源有限，可以考虑两种不同的分配方式：标注更多样</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527028&amp;idx=3&amp;sn=9e564696a9ae71563ab2718bcf910524&amp;chksm=eaa43585c4a7218c078161ea13d6b68fd487c4a44226b3e641d68de99f6cfacfa370357ce8ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 01 Apr 2024 10:10:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | ReAct Meets ActRe: Agent规划自主解释]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajtgYnjwHsznpBEHSEKPkZH2MCobV4YAcAwycVFP3tZNNpc6oxffiaGf7QxaHpouhqIxFGKxClEEFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：语言代理通过对基础模型进行推理，展示了自主决策能力。最近，人们开始利用多步骤推理和行动轨迹作为训练数据，努力训练语言代理以提高其性能。然而，收集这些轨迹仍然需</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527028&amp;idx=4&amp;sn=fac7786436364768cdcd538b3253e9b2&amp;chksm=ea9ea28fe7ae026b08079be222fafd364c0ae4a065ddabe712c168cfe22a4f6ab4fce6ef7b9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 01 Apr 2024 10:10:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[6行代码，1行命令！轻松实现多模态（视觉）模型离线推理&amp;在线服务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiahichdmLG8icTCIsoe8OyicESVelR20mUou5DicoLfcPibHz7ictjr4KM5MRVyZqOz04tNgjxyhKZK58Hw/300?wxtype=jpeg&amp;wxfrom=0"/><p>早在去年年底，LMDeploy 已经悄悄地支持了多模态（视觉）模型（下文简称 VLM）推理，只不过它静静地躺在仓库的 examples/vl 角落里，未曾与大家正式照面。LMDeploy 开源链接：h</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527028&amp;idx=5&amp;sn=dcdb478001765f5277215be999ff9c16&amp;chksm=eae0d5267959bbdd873569a77d79a99c370cc5070ebafac3fefa19ffc531f535c3ad384b14aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 01 Apr 2024 10:10:41 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Kimi.ai与ChatGPT：长文本理解与科研辅助的比较研究]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj9Oh9nRlrO7824k3ibUoBcb8BKaicdXHVgAqWJekXHE55p7sJHmr8KNUVdMF0mzicnE0aVic4ShLSia8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：张逸霄音乐人工智能博士生在读纯学术分享，侵删TL; DRKimi.ai能很好地解决ChatGPT无法应对的长文本理解和知识整合任务。最近Kimi在内测2M上下文的新模型（之前是200k，新版本翻</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526918&amp;idx=1&amp;sn=b09a9ff8ebcb786fb087b9812560e953&amp;chksm=ea81ffc3a0a8e6c06e625dc34a79f629a0d10009bad3c91bd6289afd84d58a7a58bffc7bd5c7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 25 Mar 2024 15:24:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | Google提出PERL：将PEFT与RLHF结合起来]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsTZkXZtLQWJzQebQjziaEEibwmxk7Zh6lIp8mG9gdMzGw8U66aA2McKYMhIrL0PbJ2Pnq04g3CVicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：从人类反馈中强化学习（RLHF）已被证明是将预训练的大型语言模型（LLM）与人类偏好相匹配的有效方法。但是，使用 RLHF 训练模型的计算成本很高，而且整个过</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526918&amp;idx=2&amp;sn=bb5b58255d4f4b699a0e8225bf961307&amp;chksm=ea8e71ead44c48089427bc5b4650f12ef31e14f0e251bf192bf819580fdd2dc75c203a70a83f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 25 Mar 2024 15:24:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | Agent-FLAN: Agent指令训练让开源大模型Agent能力更进一步]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsTZkXZtLQWJzQebQjziaEEibwmxk7Zh6lIp8mG9gdMzGw8U66aA2McKYMhIrL0PbJ2Pnq04g3CVicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：开源的大型语言模型（LLM）在各种 NLP 任务中取得了巨大成功，但在作为代理时，它们仍然远远不如基于 API 的模型。如何将代理能力整合到开源 LLM 中成</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526918&amp;idx=3&amp;sn=26f21ead13a2f39988621215a6abcf33&amp;chksm=ea879b57d73a660f150282aea940176627e7c769e18d98360fb0fe1ce516195100364d3469bf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 25 Mar 2024 15:24:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[每日论文速递 | 通过Token-level的Feedback进行强化学习控制文本生成]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsTZkXZtLQWJzQebQjziaEEibwmxk7Zh6lIp8mG9gdMzGw8U66aA2McKYMhIrL0PbJ2Pnq04g3CVicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：为了满足实际应用的要求，控制大型语言模型（LLM）的生成至关重要。之前的研究试图将强化学习（RL）引入可控文本生成，而大多数现有方法都存在过拟合问题（基于微调</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526918&amp;idx=4&amp;sn=7a68ff5f3bf4b130fb1f7d46c75d7e5b&amp;chksm=ea5008e2b17185fc67190282eeb15415488510b1b1a88e6d3f70eb779e8daa937f5dc7e8c67d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 25 Mar 2024 15:24:48 +0000</pubdate>
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年，大模型这些方向再次卷疯了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6kaWy4cjibM3NThUepMI3beaicC0XTyEcveXqhZJYicWd6h74Fzsv4car3RDhjQVq0GOV9lRatBBWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年，大模型再次卷疯了！就在今日，Anthropic发布的Claude 3系列模型，已经实现了对最新大模型的全面超越。大模型（LLMs）是一种人工智能模型，旨在理解和生成人类语言。大模型通过在大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526868&amp;idx=1&amp;sn=7e46a04f3bdd7a29c5feeceab6297261&amp;chksm=eae0baf4ff36731295d352114b2508156d18e040188d467177eb7c3e4747667f1f8e1938f89b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Mar 2024 07:43:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[招生 | 北语-信科 BLCU-ICALL实验室招收语言学/NLP硕士研究生啦]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6kaWy4cjibM3NThUepMI3b1gmqJIvJOoibQXibibEph1EuqJMHzKdToxgK9RvUyIJtNia0ibslUL5sJ5w/300?wxtype=jpeg&amp;wxfrom=0"/><p>实验室简介北京语言大学语言监测与智能学习实验室（BLCU-ICALL），隶属于信息科学学院，依托教育部语言文字信息管理司创建的国家语言资源监测与研究平面媒体中心开展科学研究。实验室在杨尔弘教授、杨天麟</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526868&amp;idx=2&amp;sn=100d736c27eea1d6fa616defa48cb75a&amp;chksm=ea794c7efa39e483e19b9d195ec5680f7afc19314d6ec21692b85702126508cf43be31d7cad9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Mar 2024 07:43:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | 清华提出AI辅导教育系统]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6kaWy4cjibM3NThUepMI3bBY0ialmiatXmspLv8ETWLfibMUTawxVdcKCKY8mC9NQsLJjRic4Mq1H4Wg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：人工智能已被应用于在线教育的各个方面，以促进教学和学习。然而，目前还很少有人致力于开发一个完整的由人工智能驱动的辅导系统。在这项工作中，我们探索开发一个由最先</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526868&amp;idx=3&amp;sn=4cefa60bf6d61fd40ffb016324fb46a3&amp;chksm=ea9bf9a48d4889c578bb8bb5747557a70656776b0affbf41d00e7806ce740f928659bf1592f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Mar 2024 07:43:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | Embedding间的余弦相似度真的能反映相似性吗？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6kaWy4cjibM3NThUepMI3bBY0ialmiatXmspLv8ETWLfibMUTawxVdcKCKY8mC9NQsLJjRic4Mq1H4Wg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：余弦相似度是两个向量之间角度的余弦值，或者说是两个向量归一化之间的点积。一种流行的应用是通过将余弦相似度应用于学习到的低维特征嵌入来量化高维对象之间的语义相似</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526868&amp;idx=4&amp;sn=77c18488e93187138e8643c75f8102ee&amp;chksm=ea847e46f73ee98fc7268ff0448d264e3f3ecfd3d905db905832021334a9a38653e649f06ac5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Mar 2024 07:43:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | [NeurIPS'23 Oral] DPO：Language Model 是一个 Reward Model]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6kaWy4cjibM3NThUepMI3bBY0ialmiatXmspLv8ETWLfibMUTawxVdcKCKY8mC9NQsLJjRic4Mq1H4Wg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：虽然大规模无监督语言模型（LMs）可以学习广泛的世界知识和一些推理技能，但由于其训练完全不受监督，因此很难实现对其行为的精确控制。获得这种可控性的现有方法通常</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526868&amp;idx=5&amp;sn=e64ae4296dd9356be8f80d593a4cdba2&amp;chksm=ea4767358399131900a92ab135e3123b2ee412165d92a9142e5e68d08f03152c98473658efa0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Mar 2024 07:43:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[扩展词表是必须的吗？中文Mixtral实践与分析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxiasZSrce1NIx6VCUZbXm1pWUvDbGpib97ONoqFHBqY3zLNjibKOsdleMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：HFL实验室Mixtral混合专家大模型受到了广泛关注。在本文中，我们基于Mixtral模型训练出中文Mixtral和中文Mixtral-Instruct，相关资源已对外开源。接下来本文重点探讨</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526826&amp;idx=1&amp;sn=038f4718c4c6359749fca37f813f79d4&amp;chksm=ead5a0841ba1962c9e5aee9d0b7079d6f5d70f671928afbdaae57470ee919e2d80f63d820492&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 21 Mar 2024 14:15:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[角色扮演大模型的碎碎念]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxSyqQelgFoMJIHg8N29Lat7y2VZ0HQzdk0Tbzl8RwiaEEibxEv3IMk5jw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：NLP工作站今天给大家带来一篇角色大模型相关思考的文章，来自知乎@快乐子涵酱（已授权）。知乎：https://zhuanlan.zhihu.com/p/685823865什么是角色扮演大模型？首</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526826&amp;idx=2&amp;sn=74b88db04a5e487437f29ae0db7cdcdd&amp;chksm=ea3f5bed632c2bc03d3618a380bbcf53ca1616a5055850ccee4f08057682598f6f7fcf42db25&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 21 Mar 2024 14:15:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | TeaMs-RL: 通过强化学习让LLM自己学会更好的指令]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagnXA6l6APicbEuI9VoDt3S6vrYtDDCfnAcd5UYUwK4oxmrvBPiaHUvdhjvZyvv2P0leicA1sUsXuvYw/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：大语言模型（LLM）的开发经常面临挑战，这些挑战源于强化学习与人类反馈（RLHF）框架中对人类注释者的严重依赖，或与自我指导范式相关的频繁而昂贵的外部查询。在</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526826&amp;idx=3&amp;sn=af88e754f414830563676c2d0c842da2&amp;chksm=eac545ad1dc375410e333f9a5aecd0ca4958ecc3275edd2f70de187de0cddbf395d5ae66acc8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 21 Mar 2024 14:15:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | BCT: 偏见增强一致性训练缓解CoT中的偏见问题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagnXA6l6APicbEuI9VoDt3S68vfCX2b3TFpsQyaFs68QMtcQYnGgSsbmLa3OAuLCUibMbxgdClO87Ig/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：虽然CoT有可能提高语言模型推理的可解释性，但它可能会系统性地误导影响模型行为的因素--例如，根据用户的意见合理化答案，而不提及这种偏见。为了缓解这种有偏差的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526826&amp;idx=4&amp;sn=95ef63f9a767849124bfe95625c177d3&amp;chksm=ea3817380b9b8f768b93db0c7b3dc4b18697f8267e62652398304a29cb8fb3d7c2e82472f633&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 21 Mar 2024 14:15:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | DMC: 动态内存压缩-在推理时压缩KV Cache]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagnXA6l6APicbEuI9VoDt3S68vfCX2b3TFpsQyaFs68QMtcQYnGgSsbmLa3OAuLCUibMbxgdClO87Ig/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：Transformers已成为大型语言模型（LLM）的支柱。然而，由于需要在内存中存储过去标记的键值表示缓存，其大小与输入序列长度和批量大小成线性比例，因此生</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526826&amp;idx=5&amp;sn=3a020fe1b2ec429e1118f8ae5b168adc&amp;chksm=ea647287a8658b2fe3272a416e8c2cf09380bc6abc5fc6b4b9faad8d3a63fc731aba068d34df&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 21 Mar 2024 14:15:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从0开始训练1.4b中文大模型的直播经验分享 | NICE十一期]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia35yu4lyaAN2NYIuuAM0e59nlDYLWbXicA1cSfZuZWkbX4OwrdvtDib0ICyCY1Ek5dd204hdPCjXQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题从0开始训练1.4b中文大模型的经验分享[1]个人简介黎健进（知乎：Lil2J）23年在华南师范大学软件工程毕业的一名硕士研究生，在校期间，我专注于自然语言处理（NLP）领域的研究，致力于探索语言</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526778&amp;idx=1&amp;sn=4d4288ce6e4d029c07e6b6d5c756c206&amp;chksm=ea0dfe94861f30a905273147cbeab317df015b4e0d25d143468ec65492e60f6f014f7add0031&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 13:51:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | AutoLoRA:通过meta learning学习LoRA最优秩]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxUDOv2981jHvd77dhCRTdnZcOpVjfj3gfbnyK8XyMnOvT781EPK238Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：在各种 NLP 任务中，大规模预训练和针对特定任务的微调取得了巨大成功。由于对大型预训练模型的所有参数进行微调会带来巨大的计算和内存挑战，人们开发出了几种高效</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526778&amp;idx=2&amp;sn=6db1186da9b4148307a993e6f678dc08&amp;chksm=eac0cf9205bb8dcce409d8b34acddb0dcafdfa4370ce5b1754e0d7fdf41cecd9dcc3c2324725&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 13:51:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | 李飞飞领衔建立具身AI最新数据集BEHAVIOR-1K]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxUDOv2981jHvd77dhCRTdnZcOpVjfj3gfbnyK8XyMnOvT781EPK238Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：我们推出的 BEHAVIOR-1K 是以人为中心的机器人技术综合模拟基准。BEHAVIOR-1K 包括两个部分，由 "您希望机器人为您做什么？"的广泛调查结果</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526778&amp;idx=3&amp;sn=ab52820c8b81871d92018639bf07bfb2&amp;chksm=ea7ef119c87a4f6c0ece8cd8bac52981b6c9af45fcbf8417b5e44a3d0a490e3c5d6e2ca4f503&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 13:51:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | ALARM:通过分级Reward对齐LLM]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxUDOv2981jHvd77dhCRTdnZcOpVjfj3gfbnyK8XyMnOvT781EPK238Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：我们介绍了 ALaRM，它是第一个在人类反馈强化学习（RLHF）中模拟分层奖励的框架，旨在增强大语言模型（LLM）与人类偏好的一致性。该框架通过将整体奖励与特</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526778&amp;idx=4&amp;sn=0f92bcf0bb124652617c18da5a0b7a46&amp;chksm=ea44c804c51dc050bcba8158003e684aca8e7e23a8f9c685a4f1e74705e4e4c8570c167e7de7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Mar 2024 13:51:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[SCI征稿！这些期刊，录用最快1-2月！香爆了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxV03YGwZDXsryC7y879GkdibPPxK5S14sLwKyGHq1Zx7JkF17EqOeOHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>开学了，很多朋友的SCI写作计划已经提上了日程！SCI的征程，不仅是写论文的过程，更是一个期刊投稿与论文发表的过程，在文章完成之前，一定要对SCI期刊和投稿过程有一定的了解。但是，这么多期刊，甚至不同</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526745&amp;idx=1&amp;sn=b7a6c4309445323e4357d19632704017&amp;chksm=eac0edc2995e701bd59c67dd10446d121622fd786d6131c2986aa8c63f086259125103db8a54&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 19 Mar 2024 12:43:33 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | Next Token Prediction 陷阱]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxUDOv2981jHvd77dhCRTdnZcOpVjfj3gfbnyK8XyMnOvT781EPK238Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：单纯的下一个next-token predictor能否真正地模拟人类智能？我们将这一文献中支离破碎的直观问题具体化。作为出发点，我们认为必须区别对待下一个标</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526745&amp;idx=2&amp;sn=dd32529c85028177c1b73826a08bec7f&amp;chksm=eac83c032748fc9fcdd205c19a50fbd85db4c9b82c1aa7eaa04db4797fc46e5a1a151dfbb93a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 19 Mar 2024 12:43:33 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | 使用对比Reward改进RLHF]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxUDOv2981jHvd77dhCRTdnZcOpVjfj3gfbnyK8XyMnOvT781EPK238Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：来自人类反馈的强化学习（RLHF）是将大语言模型（LLM）与人类偏好相匹配的主流范式。然而，现有的 RLHF 在很大程度上依赖于准确、翔实的奖励模型，而奖励模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526745&amp;idx=3&amp;sn=c4ccef140a34b097fb230d0a290c5cd2&amp;chksm=ea04e38d4c5b4425d3ac46a5d9bd9ad63574ae8b3cf02f452084bbd7e1abe3fc7a413c01073d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 19 Mar 2024 12:43:33 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | DeepMind提出在线偏好对齐新方法：IPO-MD]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8NaOXicl7iaZPic50DD7PflxUDOv2981jHvd77dhCRTdnZcOpVjfj3gfbnyK8XyMnOvT781EPK238Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：确保语言模型的输出与人类偏好相一致，对于保证有用、安全和愉快的用户体验至关重要。因此，近来人们对人类对齐问题进行了广泛研究，并出现了一些方法，如人类反馈强化学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526745&amp;idx=4&amp;sn=740b9f320a54e4f44094144b4511c638&amp;chksm=ea27eaa3dc0b4b07e3495decdadaa9130bb06aecc6daca5034b1fc12a0bfaecb16a42fc22d13&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 19 Mar 2024 12:43:33 +0000</pubdate>
       
 
     </item>

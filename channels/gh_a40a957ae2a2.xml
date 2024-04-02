@@ -32,17 +32,45 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[大模型参数高效微调方法详解(附99个大模型微调模型/数据/工具)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5ng0BSvpuGu9HanJL2nz7fzoHSAEksEBdpRJZUynwXNLM4xUn4sibc5pdcX4c6tRfrfbZW08XicKfAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近出现了一系列令人激动的开源大语言模型，如meta的LLaMA、清华的ChatGLM等。伴随大模型一起爆火的，还有大模型的微调方法。然而随着模型规模和任务数量的增加，对整个Transformer模型</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488780&amp;idx=1&amp;sn=4520330c000f889f500041d3f36776a3&amp;chksm=ce4abd3b98be3f33c52745abdd4f1098b1385ea9998fe225df907c5375b383934b8ebc5fffe3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 01 Apr 2024 03:40:00 +0000</pubdate>
+      <title><![CDATA[InternLM2技术报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m3cxwGiaJdk0roAJiag1Vc5zc7rPkKpTBXZKm0z2ehPNqDzELmezgb3ZYefpRgHwDWkl4FkxwCqSYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。之前分享过Llama2、Baichuan2、Qwen、Yi的技术报告，今天给大家带来InternLM2的技术报告的细节分享。Paper: https://arxiv.o</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488805&amp;idx=1&amp;sn=7d760f16e4752b82332f99b588e81895&amp;chksm=cec9c900d77bb227b2a37f1652c2c3c90fa0d01618ba3794300cdb6c4c576b3d996a8ce742a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 01 Apr 2024 16:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[大模型对齐阶段的Scaling Laws]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m3cxwGiaJdk0roAJiag1Vc5zc7rPkKpTBXZKm0z2ehPNqDzELmezgb3ZYefpRgHwDWkl4FkxwCqSYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着过去一年大模型技术的发展，数据、模型尺寸scale up后的能力已经不容置疑，scaling law也被越来越多研究者重视起来。在预训练资源消耗如此大的情况下，掌握scaling law有众多优点</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488780&amp;idx=2&amp;sn=429827d86202543de71965cfc6369b5f&amp;chksm=ce4f969118fdbd434b3621de46caa7abc71459ff92b3b6e7d4624314148201f0054124a1be41&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <title><![CDATA[大模型参数高效微调方法详解(附99个大模型微调模型/数据/工具)]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5ng0BSvpuGu9HanJL2nz7fzoHSAEksEBdpRJZUynwXNLM4xUn4sibc5pdcX4c6tRfrfbZW08XicKfAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近出现了一系列令人激动的开源大语言模型，如meta的LLaMA、清华的ChatGLM等。伴随大模型一起爆火的，还有大模型的微调方法。然而随着模型规模和任务数量的增加，对整个Transformer模型</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488780&amp;idx=1&amp;sn=4520330c000f889f500041d3f36776a3&amp;chksm=ce4abd3b98be3f33c52745abdd4f1098b1385ea9998fe225df907c5375b383934b8ebc5fffe3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 01 Apr 2024 03:40:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大模型对齐阶段的Scaling Laws]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m3cxwGiaJdk0roAJiag1Vc5zc7rPkKpTBXZKm0z2ehPNqDzELmezgb3ZYefpRgHwDWkl4FkxwCqSYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着过去一年大模型技术的发展，数据、模型尺寸scale up后的能力已经不容置疑，scaling law也被越来越多研究者重视起来。在预训练资源消耗如此大的情况下，掌握scaling law有众多优点</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488780&amp;idx=2&amp;sn=429827d86202543de71965cfc6369b5f&amp;chksm=ce4f969118fdbd434b3621de46caa7abc71459ff92b3b6e7d4624314148201f0054124a1be41&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 01 Apr 2024 03:40:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
