@@ -31,23 +31,80 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[从 大模型接受弱智吧再教育 谈指令微调对齐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahgLwWzwMYxDNvdjWDfcofTrmk0LnGnGAcmLLO8sEgPaZKHMmjLQ6LzW1S67oTEjwthXEdYgH1RHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：hzwer原文链接：https://zhuanlan.zhihu.com/p/690667537仅学术分享，侵删这两天一篇论文以离谱方式火了：CQIA：“用弱智吧数据训练的 AI 爆杀了所有中文</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527163&amp;idx=1&amp;sn=6c2d6bf3594b5201c52881630044ecb2&amp;chksm=ea2aa0c5959e97c86265cbcea09b58a4a33178d163671a9a671b23c65cc5fe822d79c242effa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 04 Apr 2024 10:01:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | RLRF: 从反思反馈中不断迭代进行强化学习对齐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahgLwWzwMYxDNvdjWDfcofTvFIQJ5VKDGrr016eIX7XwOcT1BbtM95hfvHjxa6OvQUt1B1EiaBGia1Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：尽管 RLHF 在使 LLM 与人类偏好相一致方面大有可为，但它往往会导致表面上的一致，优先考虑风格上的变化，而不是改善 LLM 的下游性能。不明确的偏好可能</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527163&amp;idx=2&amp;sn=ec0cfedef98843c710d3420d61f52b43&amp;chksm=ea1d70b19a543682530b3cdca5f5c5502a2dc214070ba02f7222deca5ebc9ee74f648e4900b9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 04 Apr 2024 10:01:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | 一次编码平行解码：高效Transformer解码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahgLwWzwMYxDNvdjWDfcofTaJcsKibBMYNsK1NgowaS7syPCl3snNZU2kssSP3U5dHvFWs07Qhfsmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：基于Transformer的 NLP 模型功能强大，但计算成本较高，限制了应用场景。经过微调的编码器-解码器模型在专业领域很受欢迎，其性能优于 GPT-4 等</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527163&amp;idx=3&amp;sn=114cf4ec777732490531ab76845c637d&amp;chksm=ea42d2342e3183b712c87cdc87f38c5ae29cd6447da94b62ac79283903da5cbf6d21b148b65f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 04 Apr 2024 10:01:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[每日论文速递 | NAACL'24：自生成翻译记忆缓解翻译持续学习遗忘问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahgLwWzwMYxDNvdjWDfcofTVpa9Rlt2sUtSKKnSAq8QUvgZCsDydzX3ks4libtavx0HribfsGq7xyKQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：现代神经机器翻译系统在几种不同的语言中表现出强劲的性能，并在不断改进。然而，它们的持续学习能力仍然受到灾难性遗忘问题的严重限制。在这项工作中，我们利用enco</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527163&amp;idx=4&amp;sn=fc226988e6685cee9941423d8bdd1270&amp;chksm=eaa699a9b6fd4ea5e31732682fc45c5296a957bbf5251997a03743d54452b8064cbbb2442700&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 04 Apr 2024 10:01:19 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[整理了2000篇2024年顶会论文合集【附下载】]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaiby9gaSjXhibiarawTzXCF7zrkTZH6ylVyyYK0nc7UxjEKkUVM71ibFaGcBsmpmYF3Ac9ic0rlbLlr6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>众所周知，论文是人工智能学习的基石，因为论文展示了不同方向最新的研究成果，了解并且掌握这些学习成果，会对自己写论文助力不少。这次我整理了AAAI 2024 / CVPR 2024 / ICLR 202</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527113&amp;idx=1&amp;sn=339259dab1976710f52157bfbfa612cb&amp;chksm=eadd4fe8b65caa36cfa5df6ca655303fb06dafe1b12c799a6bf436057f4f7a8b9bccf9a43ba0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 03 Apr 2024 07:43:22 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[首个符号大模型！Symbol- LLM：探索自然语言与符号之间的能力平衡]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaiby9gaSjXhibiarawTzXCF7zHyQuHFrx339cJxnAHmOlUUicBUMQw2gYIkywmy1EEznflwPo41Tibgibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享导读当前，大型语言模型 (Large Language Model, LLM) 大多强调以自然语言 (Natural Language, NL)为媒介进行交互、推理以及反馈修</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527113&amp;idx=2&amp;sn=0a47ee91b67348b1504f5514be7a98f3&amp;chksm=eac5c5e4d5d8300dbee227e16e2d6e9eabb726ce7988eb1cd68f2200f31bc428afa1066d176f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 03 Apr 2024 07:43:22 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[近期RAG技术总结和串讲（4w字RAG文章纪念）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaiby9gaSjXhibiarawTzXCF7zb3XPkwXjLQWSwxOMMyVOL0nf7SsVSgD5YbMBOql43F3oSTHqOdUTbQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CS的陋室最近写的RAG内容已经挺多了，然而内容逐渐变得零散，我今天给大家总结一下RAG的有关内容，同时给大家把有关内容串起来。当然，串起来的更多是概述和摘记，让大家对RAG的基础有更整体的了解</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527113&amp;idx=3&amp;sn=8f2de0a2226307e3c34fab4620a2ec91&amp;chksm=eaefbf13bf29923b26d1fe5b71185dee28b27fbdc48a6017ea609f135138ddefd7f0c3542c73&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 03 Apr 2024 07:43:22 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -206,70 +263,6 @@
       
 
       <pubdate>Mon, 01 Apr 2024 10:10:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Kimi.ai与ChatGPT：长文本理解与科研辅助的比较研究]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj9Oh9nRlrO7824k3ibUoBcb8BKaicdXHVgAqWJekXHE55p7sJHmr8KNUVdMF0mzicnE0aVic4ShLSia8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：张逸霄音乐人工智能博士生在读纯学术分享，侵删TL; DRKimi.ai能很好地解决ChatGPT无法应对的长文本理解和知识整合任务。最近Kimi在内测2M上下文的新模型（之前是200k，新版本翻</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526918&amp;idx=1&amp;sn=b09a9ff8ebcb786fb087b9812560e953&amp;chksm=ea81ffc3a0a8e6c06e625dc34a79f629a0d10009bad3c91bd6289afd84d58a7a58bffc7bd5c7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Mar 2024 15:24:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | Google提出PERL：将PEFT与RLHF结合起来]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsTZkXZtLQWJzQebQjziaEEibwmxk7Zh6lIp8mG9gdMzGw8U66aA2McKYMhIrL0PbJ2Pnq04g3CVicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：从人类反馈中强化学习（RLHF）已被证明是将预训练的大型语言模型（LLM）与人类偏好相匹配的有效方法。但是，使用 RLHF 训练模型的计算成本很高，而且整个过</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526918&amp;idx=2&amp;sn=bb5b58255d4f4b699a0e8225bf961307&amp;chksm=ea8e71ead44c48089427bc5b4650f12ef31e14f0e251bf192bf819580fdd2dc75c203a70a83f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Mar 2024 15:24:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | Agent-FLAN: Agent指令训练让开源大模型Agent能力更进一步]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsTZkXZtLQWJzQebQjziaEEibwmxk7Zh6lIp8mG9gdMzGw8U66aA2McKYMhIrL0PbJ2Pnq04g3CVicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：开源的大型语言模型（LLM）在各种 NLP 任务中取得了巨大成功，但在作为代理时，它们仍然远远不如基于 API 的模型。如何将代理能力整合到开源 LLM 中成</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526918&amp;idx=3&amp;sn=26f21ead13a2f39988621215a6abcf33&amp;chksm=ea879b57d73a660f150282aea940176627e7c769e18d98360fb0fe1ce516195100364d3469bf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Mar 2024 15:24:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[每日论文速递 | 通过Token-level的Feedback进行强化学习控制文本生成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsTZkXZtLQWJzQebQjziaEEibwmxk7Zh6lIp8mG9gdMzGw8U66aA2McKYMhIrL0PbJ2Pnq04g3CVicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 分享整理：pp摘要：为了满足实际应用的要求，控制大型语言模型（LLM）的生成至关重要。之前的研究试图将强化学习（RL）引入可控文本生成，而大多数现有方法都存在过拟合问题（基于微调</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247526918&amp;idx=4&amp;sn=7a68ff5f3bf4b130fb1f7d46c75d7e5b&amp;chksm=ea5008e2b17185fc67190282eeb15415488510b1b1a88e6d3f70eb779e8daa937f5dc7e8c67d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Mar 2024 15:24:48 +0000</pubdate>
       
 
     </item>
