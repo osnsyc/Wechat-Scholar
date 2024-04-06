@@ -48,34 +48,114 @@
 
 
     <item>
+      <title><![CDATA[如何为LLM推理任务选择正确的GPU]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLCA7wJnzCdicVS8jRPpaicGGN5iafRiaIsSDdh3zrPb9UCoKjA9nGuaCN32u10CVUCNtoMvOk75Eibfvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨方佳瑞来源丨https://zhuanlan.zhihu.com/p/686633846编辑丨GiantPandaCV去年十月，美商务部禁令的出现，使中国客户无法使用NVIDIA H100/H2</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441759&amp;idx=1&amp;sn=c9a2fa7ff54fac460839b7a65d1b7a4b&amp;chksm=bf83ea493ec5280cd6b10a54971c2f46619613490901b9af594c54ad53fcd6f38668c656723c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 05 Apr 2024 13:39:57 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从 大模型接受弱智吧再教育 谈指令微调对齐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLCA7wJnzCdicVS8jRPpaicGGhrsDvTO0VG7a2tYot262UeibibCQ55gQ6iaSLYKbzaofHECia1kOibqGG2Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：hzwer原文链接：https://zhuanlan.zhihu.com/p/690667537整理：深度学习自然语言处理这两天一篇论文以离谱方式火了：CQIA：“用弱智吧数据训练的 AI 爆杀</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441759&amp;idx=2&amp;sn=e363953a98d96b4f2cad4bce4b33c8fe&amp;chksm=bfe3e4e227da1aa6d0fe7634b9a7f96a7a57ac1fbab63a2dfe2ca4ef4b2e8f0cf3f41d72704d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 05 Apr 2024 13:39:57 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM端侧部署系列 | 如何将阿里千问大模型Qwen部署到手机上？环境安装及其配置(上篇)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib5Y8yFCKLYm0hWupsjq0Y25dyBmrEJbyuShrlbZcUIflWDgSP32c56FlL934otUqdUmNK8Z3AibdWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言下载待部署模型安装minconda安装tvm和mlc-llm安装 JDK安装 Android SDK下载mlc-llm仓库设置环境变量安装Rust1. 引言梨花风起正清明，游子寻春半出城。今天这篇</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441759&amp;idx=3&amp;sn=69596d39ee975c97dbee358692beb7d2&amp;chksm=bfaae01352424405c4cc13e2cbc93cc69c35526ef68f3a90c02d2505fc80210afa92cf66d063&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 05 Apr 2024 13:39:57 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM端侧部署系列 |  如何将阿里千问大模型Qwen部署到手机上？实战演示(下篇)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib5Y8yFCKLYm0hWupsjq0Y259P3k18Dx3ySvfp7v4YUEv1M5FbNQlDNjV19ibNCGe5drCpsMGzgnpiag/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言简介编译Android可用的模型转换权重生成配置文件模型编译编译apk修改配置文件绑定android library配置gradle编译apk手机上运行安装 APK植入模型效果实测0. 引言清明时</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441759&amp;idx=4&amp;sn=56aa4b4aff4232629de468389c6b1ea5&amp;chksm=bfd65c9723a8b3ae3ce6eb63dbc98acc3154e244d8e586e8744872ba9d7bb18aaab260a1ebdf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 05 Apr 2024 13:39:57 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM之RAG实战 |  RAG的自动源引文验证技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1SicnZtjOhhthN2GNKogjbiaBPDiciaJuX4Ekiau59FlOPeibscoTLuvO3Rkjy3Kkz1MsbLgrdmKvrK30L2gw/300?wxtype=jpeg&amp;wxfrom=0"/><p>       在过去的一年里，检索增强生成（RAG）已经成为一种基于LLM的流行架构，旨在解决在基于知识的LLM最常见的挑战之一，可怕的幻觉。一、RAG如何解决幻觉？       RAG Pipeli</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441759&amp;idx=5&amp;sn=c9bd6e57853909d4751e04b73981d569&amp;chksm=bf8861a3911a4560ec17df94a1263eb4d65e417f2d2ed098cf8e6bfbbc67fdef542a16734684&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 05 Apr 2024 13:39:57 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Symbol-LLM: 统一符号的开源基座大模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKDagff3oJh5PPMZicSKSXjeRVTRG9gqsJDkspCo1APPZupPuJ42ntmQC5Gh6jInYibjL1Jy3YZDtsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读当前，大型语言模型 (Large Language Model, LLM) 大多强调以自然语言 (Natural Language, NL)为媒介进行交互、推理以及反馈修正。然而，LLM对符号语言</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=1&amp;sn=c777022470dabe80cdf6c93aef79e679&amp;chksm=bf6ceee38b5eecc74f086638fc8eb216293d32a13cd4f617c374c51f552d506ec897ff7a7c5b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[李宏毅生成式AI第2讲：今日的生成式人工智能厉害在哪里？ 从「工具」变为「工具人」]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKDagff3oJh5PPMZicSKSXjeR7aANicJoq6Px8XgVtl4DeN3BVJnQm3EIVdxvWXsx4WugN7XlcxmOVw/300?wxtype=jpeg&amp;wxfrom=0"/><p>整理：AINLP推荐台大李宏毅老师的新课生成式人工智能导论2024课程主页https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php第2讲：今日</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=2&amp;sn=90175b5e8980010983667b41692e9989&amp;chksm=bfb67a5a34a902f6c1659b6b2185de6a07752fa57b5f3a69c6959fa80bf75794251006bdd282&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[蚂蚁集团智能引擎团队招聘大模型相关算法工程师]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKDagff3oJh5PPMZicSKSXjeJBR9vREPCO0cicVicsKvJ6MeAzAaibNV8ZicfN7MBzaptYzMwn4Vmos1MA/300?wxtype=jpeg&amp;wxfrom=0"/><p>【团队介绍】团队主要负责蚂蚁集团的大语言模型语料优化、千亿基座训练，图机器学习，知识图谱、知识增强大模型等基础算法方向。团队研发了超大规模图学习系统AGL，并将其落地于金融风控、财富管理、搜索推荐、广</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=3&amp;sn=02a243372b4fbe2c961782fff5b0b95a&amp;chksm=bf9fdfef28497f7f7da7b2ebe4c2146c600b97acad4c7e6a1bb8fbbc735941454dba12265638&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[比肩Transformer的Mamba在时间序列上有效吗？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dcUv9UF2OUVy4LbEOJ9wWqM3LWILpGKyomuoC1gm2CJjkiaic0odr2CeJKn32m1obibYXzOwEUHaodSNHjn3QGhYA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Mamba是最近最火的模型之一，更是被业内认为可以有取代Transformer的潜力。今天介绍的这篇文章，探索了Mamba模型在时间序列预测任务上是有有效。本文首先给大家介绍Mamba的基础原理，再结</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=4&amp;sn=3d761acb8c63213b73f0454f107774c1&amp;chksm=bfe5b7edc9b1b9c79a3fcb513026be3b6ed04dd756d2880ca1cfb36a47ee8b68065f391c625d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[新“大海捞针”实验？评估大模型是否能够进行时序分析]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aaN2xdFqa4FkZDsqcicXWK9MTiauytBd2rQHktibiaRUyWL6yANs16ZKRXpALibQ5MY9lWwYCtNddDloVJEJ8NoseMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>时序特征对于做过推荐系统算法的传统机器学习的开发者来讲起多大的作用不言而喻。毫不夸张的讲，相较于一些基础特征，年龄、性别、偏好等远远不及最近几分钟，最近几小时这样的时序特征来的重要，它们曾一度是算法科</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=5&amp;sn=acbc1b97295a2948707bc8acdc738e5a&amp;chksm=bf94dfb7e15228ca929de2142e205a699941a40310966e934a14707c69528e6cacb975ddae90&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -394,86 +474,6 @@
       
 
       <pubdate>Sat, 30 Mar 2024 10:59:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[还是决定去小红书实习了!]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKXCWuFzcB7IcMniceF5dCdicibIy3WO3ic6ttfiaibTd0jCG3BHuNowiaBHzrBnCAibND9PAxuibeIgU7RAKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>📢 小红书25届实习生招募火热进行中NLP/大模型/算法/前端/后端/客户端等超多技术方向岗位等你来!AINLP要来了专属内推码拿内推码可以优先筛选哦60B2Y2QM88D8也可以直接通过内推链接投递</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441591&amp;idx=1&amp;sn=4c66ad3a368a75b30866f50cc6d55ea9&amp;chksm=bfdfae0aa78c545f450004eb859ef22b674f505a2492f3e16673a205a368dd92655070a44d3e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 29 Mar 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen1.5-MoE模型：2.7B的激活参数量达到7B模型的性能]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mjS1tvianwIk1Rcuic9sGH22UWLW1IGIPvlZnMa8iaNELLPkDxpAKibxibDVzPafCEMQWdOs6ReVrr45Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen1.5-MoE模型：2.7B的激活参数量达到7B模型的性能写在前面今天阿里放了MOE的模型，总参数量14.3B，具有64个专家，每次激活8个，在仅激活2.7B参数情况下，效果可以与Qwen1.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441591&amp;idx=2&amp;sn=9cef61077e1751756fa3959bd72df9f3&amp;chksm=bf1f025f0e5a0d5adea27517ec53992280fab72b886c6e3717f30fba1186cfcc87f90f97862e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 29 Mar 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LoRA原理解析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgz65reXkaewsAWUHiadHBiaZIrfa8p8lTWYjN3GoWPbkuHibppFnWXxLIrwBbYibbZpQkNXvUkwnoicRSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言随着模型规模的不断扩大，微调模型的所有参数（所谓full fine-tuning）的可行性变得越来越低。以GPT-3的175B参数为例，每增加一个新领域就需要完整微调一个新模型，代价和成本非常高！</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441591&amp;idx=3&amp;sn=6905865a4474ef3a6422121bad9842fb&amp;chksm=bf7cdd090b33ac26ff89c8dc054a2693fd78dbaaa1c3e9714e8d4d509d38222d290a7f04f022&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 29 Mar 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[EMNLP 2024 征稿通知]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/EsDKszDSKDGShwibZciaDL2bxeooGiaD7ReHyhvLjibVf60cmPyibo1gbI4duhFgSlNagXVUn4Gq0B13XKuHkEWhicLA/300?wxtype=jpeg&amp;wxfrom=0"/><p>计算语言学与自然语言处理顶级国际会议EMNLP 2024将于2024年11月12日至16日在美国佛罗里达州迈阿密召开。EMNLP 2024只接受ACL Rolling Review（ARR）投稿通道，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441591&amp;idx=4&amp;sn=e5be647d6105610f20211bcfb82adda5&amp;chksm=bfd3dbc273ddcd449b5961614133f156e1543ace7806e9d5c648e98b7a7bd20b1ee7f049762d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 29 Mar 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型数据之代码语料The Stack v2]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDC9CFAicTSRD5jY2CduuMXTgd1Qup9ck8g7gxa3JgXXgHQrhR5kyBRxiaNpewTOdq0ArfbdFYOvoF3g/300?wxtype=jpeg&amp;wxfrom=0"/><p>与 The Stack v1 相比，The Stack v2 拥有更大的数据规模，采用了更先进的语言和许可证检测流程以及更优的过滤机制。The Stack v2有900B+不同的tokens, 是Th</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441591&amp;idx=5&amp;sn=8730d29e9002bde168603359d88c43f5&amp;chksm=bf111f1cc6ebde8e9c8f8bc32dda8f6d52ac38fa6c0a30555a5a4edac8cdb37edf715c2c805f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 29 Mar 2024 04:00:00 +0000</pubdate>
       
 
     </item>
