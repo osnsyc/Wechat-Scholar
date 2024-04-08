@@ -47,35 +47,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[大模型技术飞速发展，算法工程师岗位也要大洗牌了？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL7osxTFqV6Rzra15iaWdibrb8yOo0ibEKrBxnmSmKiaXSBzicjTBaNOrHvKZ2Uh225e2IwBBZ8HiaiaKrZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年间就有了大幅度的技术迭代更新，从LoRA、QLoRA、AdaLoRa、ZeroQuant、Flash Attention、KTO、蒸馏技术到模型增量学习、数据处理、开源</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441800&amp;idx=1&amp;sn=bf4ac5987a8e78864311210b2814fd25&amp;chksm=bf93527c4df1cd7a2350199c8c84a0f3a78a8b04b610af08ece924857ab6c3154aa9a9e2e48c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 08 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[解读Qwen1.5 MoE：稀疏大模型的高效智能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic1BztENCot64kiaCrvCDaPAeqYJNOB8rkvI7Me7XkxHmo3lCvqicnFic3fQuXmk02ksemhBb2aFgQVag/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言官方文档：Qwen1.5-MoE: 1/3的激活参数量达到7B模型的性能 | Qwen3月28日，阿里首次宣布开源MoE技术大模型Qwen1.5-MoE-A2.7B，这个模型以现有的Qwen-1.</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441800&amp;idx=2&amp;sn=1f48e4144fe00eb58e2af669a3d89e03&amp;chksm=bf99681105235a7a97895219ac489ac6056f31efd434b9730efba4a0ec2b4ca0cf36c8ac9911&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 08 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Shopee电商业务招聘资深算法工程师/NLP算法工程师]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLeJX272ZtKibPFOcdumeAdBv5X59bOoZLzyFqCVdMvuvXqh9AJMOfYqDUQOQfJsMZsTg0VSj9XV8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>[电商业务] 资深算法工程师 - NLP算法工程师 -上海 Marketplace Intelligence and Data部门介绍：Marketplace Intelligence and Dat</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441800&amp;idx=3&amp;sn=0564191f1c2915e7d924d10e4eebca5e&amp;chksm=bf9f34630386d63dff2e7033a81aac2244d2a6ba2da42f856151033a140dc8c96155f8ba1972&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 08 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[云端如何部署测试Qwen1.5-MoE模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svdiaQBwfseTQvicmwO1P10zBpxjoJgMxXzfruRiaibrwJebHmH0FqbjtYHGU3D9chPD0KHlZGibCv6j2EHCR6BTftQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天，我们推出Qwen系列的首个MoE模型，Qwen1.5-MoE-A2.7B。它仅拥有27亿个激活参数，但其性能却能与当前最先进的70亿参数模型，如Mistral 7B和Qwen1.5-7B相媲美。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441800&amp;idx=4&amp;sn=cc654ab4d86281d9829304ce24d8b050&amp;chksm=bff4f7d8867d22bc0777967a98018f5671ee43356d21c995de3fd384b4dcdd317a27db4d8833&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 08 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌中科院新文：CRAG-可矫正的检索增强生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPxCnwMv56mmUXdmiacmsMsKxUuEqNia2qRvu4qDendmWya070EIb3dY7g45KVwyGG5DzBSXq1sgpXqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>前面有聊过self-RAG通过大模型决策，提升了RAG系统的效果，本期给大家介绍一个更为简便、优秀的插件式决策模块CRAG。论文和有关资料在这里：论文：Corrective Retrieval Aug</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441800&amp;idx=5&amp;sn=1d17c2a2fc04d1d4f6469c693d709789&amp;chksm=bf138bbfb859daabe52002e30f33d6b312da4864d71e7d47d872e08af57959696df9338ebece&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 08 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[大模型「进化手册」：英伟达推出模型优化新框架！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKbDajVZZSJfAVhMSCicGThefqvTm519lMOaiaHTuGt1j2HXEYl4KJ06YkKJRAjgicgmLH1chrtia4VVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>模型优化技术旨在通过适配器、剪枝、量化、蒸馏、算子融合、低秩矩阵分解等技术提升模型的训练/推理效率并降低存储开销，随着大语言模型（LLM）的流行，传统的模型优化技术面临着巨大挑战。我们邀请到人工智能博</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441783&amp;idx=1&amp;sn=ac7e9bf122cb0aa5ee41d8d185b23710&amp;chksm=bfbe2cc7af0c5913db4ea850707d644f62973efa116c0ada0592bf9300e365deab343adb1745&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 07 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[图解大模型计算加速系列：vLLM源码解析1，整体架构]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkO6pPZW1EZzxCib9Qua6vWiaEibQcm2ztJ8jhZFOekM9WtOR1en871lHUdVzhrGP9cW3zHwichkuJBxOg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，这段时间精读了一下vLLM源码实现，打算开个系列来介绍它的源码，也把它当作我的总结和学习笔记。整个vLLM代码读下来，给我最深的感觉就是：代码呈现上非常干净历练，但是逻辑比较复杂，环环嵌套，毕</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441783&amp;idx=2&amp;sn=53ab395fb786aaa0bb90d976f0c4c01b&amp;chksm=bf3ae0b303e702ca21588a914117f28bbeab8e442295d4a196e241257029a46af9f63d7b3c1f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 07 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[onnx和tensorRT的bert加速方案记录]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPwsXrE7ratDdxNDV3ZSEH5TvfjEA6H67Yys9M7uFoHuNWlNM9bHiajiaoDlx0axPZ02AOsVQoKZmInw/300?wxtype=jpeg&amp;wxfrom=0"/><p>假期想着补点遗漏的知识，所以选择了模型加速这块的工作，这块我的深度肯定是不够的，不过尝试动手做做实践收获还是不小，而且形成一些自己需要的组件还是挺有用的，所以记录一下。目录：加速整体思路。环境和加速前</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441783&amp;idx=3&amp;sn=e7bedcf252d56650242e3f30b2fe6f23&amp;chksm=bff7550eb269308b31025497e45669f1d14fa7dd0657a4c2b582ec3fdbf0b4cbc6673e519667&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 07 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Qwen1.5开源32B模型-将开源进行到底]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mA6jTVRCia6bWxcWgWWdkE3J1UA2cmCFsloAL3VnZNfDEN1RbO6uZDYzrbAuAnX5YbGiba7jpqiapOw/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面阿里开源的千问系列模型，一直受到业界好评，之前版本有0.5B、1.8B、7B、14B、72B，但一直缺少的30B级别开源模型，这也一直是一个遗憾。怎么说呢？72B模型太大，很多人用不起来，无论</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441783&amp;idx=4&amp;sn=7dd3139c3466cdb40fb23cb67b73c884&amp;chksm=bf201bd645260071756a0fe9f8a9a8309b5d2cd2b3f0376d372a699888512c72e7ce545393cf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 07 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[当下最容易上手的大模型微调工具是谁？LLamaFactory或是其中之一]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aaN2xdFqa4HOp3ORaQwSBVMpjlYSyzdKQrTMicvxfdFVDFLJkjjwDUbgZr4iaugicS2vvxfOHIVic24tEXYzTa9lYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，国内的一款微调框架发布了自己的论文《LLAMAFACTORY: Unified Efficient Fine-Tuning of 100+ Language Models》，对他们的框架做了系统</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441783&amp;idx=5&amp;sn=9470f45a5f8e6d8d397ca05f61b24bc2&amp;chksm=bf15ec8ba67a2d1a0c820ebe3124cd9ec24debad2694b9a29fd2b8c0a20b4679e7f0c2023f86&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 07 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -394,166 +479,6 @@
       
 
       <pubdate>Tue, 02 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[再次封神！AI 大模型渗透太快了。。。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJrca4fGxRz42rBibraX6Qj9aJH0AG7xhkBYaev1D0snXIRPodmDnxONh3q7tO98ibKDASyQ7LjAKgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>国内AI赛道又爆了！继科大讯飞、阿里、华为等巨头公司发布AI产品后，很多中小企业也陆续进场！人才市场上AI大模型工程师“一将难求”！甚至开出超高年薪，挖掘AI大模型人才！如今大厂老板们，也更倾向于会A</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441640&amp;idx=1&amp;sn=00937e0d65c9678a0937f619af77ecd0&amp;chksm=bf4f858102f4505a987ee31b389596f374e13ba4e4debcad05122bab093d87d7647ee948661e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 01 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型对齐阶段的Scaling Laws]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AzuXfeINxjU0pj5htS9JujjoH7bJs3Ugw2vC1icxzba6MRyUMnLWsz2ds6kFG82V2dicBaNHPgJyXeiaQQ4PTdoTA/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着过去一年大模型技术的发展，数据、模型尺寸scale up后的能力已经不容置疑，scaling law也被越来越多研究者重视起来。在预训练资源消耗如此大的情况下，掌握scaling law有众多优点</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441640&amp;idx=2&amp;sn=033e816a5b6cd4d4200304c74dc004e8&amp;chksm=bf935eeafcfe409f3671acc4291bf51f23524faed51b7f2ef47b65f75607a1873bb6d7658d51&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 01 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于prefix tuning + Bert的标题党分类器]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgwhmCZRaXOO3SBlDgGpsep3lJgaayYH8c4QvveZUKCJ4NvAtoibDias7w6BIoIJlic2tuwOCWhhicUGSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景近期, CSDN博客推荐流的标题党博客又多了起来, 先前的基于TextCNN版本的分类模型在语义理解上能力有限, 于是, 便使用的更大的模型来优化, 最终准确率达到了93.7%, 还不错吧.一、P</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441640&amp;idx=3&amp;sn=0883259cd53eac179a146d0adbc34909&amp;chksm=bf1c8dac8c4e5e19619ea4a99a541f252989f7824118bbc79afb528bea789159b901d4d84090&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 01 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM之RAG理论 |  使用知识图谱增强RAG]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1SiclxFbO9XvwxDzjpsg2jo3Tnvvg6f7jZSVCHiaPvHYJYM2pQGEwYDtvu5ChhjsH1ibxyCJ5qQ3E5G7aA/300?wxtype=jpeg&amp;wxfrom=0"/><p>       知识图谱（KG）或任何图都包括节点和边，其中每个节点表示一个概念，每个边表示一对概念之间的关系。本文介绍一种将任何文本语料库转换为知识图谱的技术，本文演示的知识图谱可以替换其他专业知识图</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441640&amp;idx=4&amp;sn=0d17d778e3528e31c2189873a63d029c&amp;chksm=bf0a1a9b77ab1537ed44539e36bd36da525998aa111775bdc40218a740c661c89d78f6bef8cd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 01 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[检索感知微调（RAFT），提升领域RAG效果的新方法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aaN2xdFqa4EAib77bKHKUPey5o9I6IDBKic9BQTJDanwIe5sNZsxhq00FTTm9rBKH0s6glbayDePnk52NmI9QJWA/300?wxtype=jpeg&amp;wxfrom=0"/><p>一般来讲，让大模型应用到具体的行业领域，那就必须让大模型懂得行业里的知识。这种知识的导入一般有三种方法，一种是在预训练阶段喂给模型一些领域的文档和知识，扩充一些领域词表的方式解决。而更为常用的是另外两</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441640&amp;idx=5&amp;sn=f194b6124afc4d3dacdbb79bbd66702c&amp;chksm=bf5442ed82753711794ac51788c5cd95d01ea617716b39219596d1644a511871a042c1aa5bfa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 01 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[某公司新招了个牛逼的架构师后.....]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL8T5cYQl9iaFneW3JuUQTqPOAot7xDtJYVctp5GqQW4bYeJ4rkf6XDWd9Af4ReKofkXm05wUicVgvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网友评论：@口袋FPV：架构师一个响指之后。第二天，老板不见了@妹_妹_奶_白_又_大001：走走停停 回头已是数月@NereusP：是我的故事没错了，本来我们组有10个人，我把代码重构之后，只要半个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441630&amp;idx=1&amp;sn=4ac1322b6863b613c3317ea69b3b9b8c&amp;chksm=bf3edae8ac4fa0a70c5861c9eb485f019e457049f9a2eda3c203fe719d6338b06488f6133e34&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 31 Mar 2024 12:55:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【文末赠书】大语言模型训练优化秘籍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL8T5cYQl9iaFneW3JuUQTqPBkwQpK1rBXMlYgZXE60x0VsEicSt25RnYnicKPvlEkiavFGFQStPpGPbQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书--在了解大语言模型训练优化秘籍之前，我们先来了解一下大语言模型训练面临的挑战，以此进行针对性的训练优化。大语言模型训练面临的挑战随着模型参数量规模的增大，资源和效率逐渐成为制约模型训练的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441630&amp;idx=2&amp;sn=9b9687a0f0e377e1e1cf63abae3b4357&amp;chksm=bfa6155614369d0c48bb359bdc5556243eac775668e7a700450e4935c820194984d661643d21&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 31 Mar 2024 12:55:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[行动胜过言语: Meta落地工业界首个万亿级别参数的生成式推荐系统模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/TnZw73HawgnLpmXAjE2D989H5iaF24ebU900KTG4JKFmMiaOU7hcVu0p1xibf39iakICxpG4clM0oYyibpraKdjibAXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天分享一篇Meta最新的工作：借鉴LLMs思路重塑推荐系统范式，实现推荐系统的scaling。该工作第一次在核心产品线替换掉了近十年工业界长期使用的基于海量异构特征的深度推荐模型， 在模型规模、业务</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441630&amp;idx=3&amp;sn=b9c302423a7b8903b40f7ded2c83b9aa&amp;chksm=bf11ba1141b52f49ce51b16909934e33597632cec3c64cfaaec6f6d83fc07454199feb91ddbc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 31 Mar 2024 12:55:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[平安科技语音算法团队诚招NLP实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL8T5cYQl9iaFneW3JuUQTqP3gZw4kkm1SQGHc5tKcZ0K1tWGyS8fjKqxSFocibeo40TcJ1gaBmpxvQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>平安科技语音算法系列 - Jianzong Wang团队诚招NLP实习生! 🌟📍 工作地点：深圳🔍 我们在寻找有才华、有经验的NLP实习生加入我们团队！团队亮点：✨ 已发表百篇顶级学术论文，覆盖NIP</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441630&amp;idx=4&amp;sn=3ab58365d767f8180e0fbd28da8fbb7e&amp;chksm=bfbfa3d5b82f152a4d0da508d0fff3a337c0f1e2c0248e88f8617e78a357f47c2b2f4c5d1be9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 31 Mar 2024 12:55:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AICL: 一种可以主动选择demonstartion数量的ICL方案]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpsvauRIcxtW0Fib9BLVj4AgEaaB0G6oK5Yw4gL3XGUFAKpxHb269xJCe2cm0oJqrc5lM9baJYTbsnA/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介2 Motivation3 AICL4 实验5 讨论参考文献1 简介    目前In-context learning会在大模型prompt输入中加入固定数量的跟当前问题相关的demons</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441630&amp;idx=5&amp;sn=44f6e3f0e83968d266593f5929d2dd6d&amp;chksm=bfc19e97d2fb343842beba0fbc8ec701baf71652651bedff5a8230d2b95fe026522ecf7c690d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 31 Mar 2024 12:55:18 +0000</pubdate>
       
 
     </item>
