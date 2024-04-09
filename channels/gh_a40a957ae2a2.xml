@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[RAG系统中答案无关的片段对LLMs生成结果有何影响？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kCAC7ux3Zr7cftQFIHIELam7fDJIvYYuU3TV9ibzeT7k5XwwjljvqnIhk4KJoxkOFN3Dg0icSE8uRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。RAG（检索增强生成）通过检索系统找到用户问题相关的信息片段，利用大模型综合生成一个答案，极大解决了大模型幻觉、信息更新不及时等问题，已经成为了大模型落地的重要手段。但</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488921&amp;idx=1&amp;sn=ebfc324068e6b828de73f5cd4588c545&amp;chksm=cefe5ff3abcd0eb126fe81b901a20c13415485b25b6c9a9b1ce677be796be54988f60b6be1e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 08 Apr 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[PiSSA方法 | 仅修改Lora初始化方式显著提高模型微调效果]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kCAC7ux3Zr7cftQFIHIELam7fDJIvYYuU3TV9ibzeT7k5XwwjljvqnIhk4KJoxkOFN3Dg0icSE8uRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是知乎@孟繁续。今天给大家带来一篇高效微调LLM的文章，仅修改Lora的初始化方式，就可以显著提高微调效果，论文全称《PiSSA: Principal Singular Values</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488843&amp;idx=1&amp;sn=a5be220757270d82db795d90072c96be&amp;chksm=ce4bcc5d4a195ce231d0bd19dab9de2b770b2397677024550215c1b7d1fc3ca575f1830ba0cb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 07 Apr 2024 02:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -55,294 +72,6 @@
       
 
       <pubdate>Sat, 06 Apr 2024 12:35:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[InternLM2技术报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m3cxwGiaJdk0roAJiag1Vc5zc7rPkKpTBXZKm0z2ehPNqDzELmezgb3ZYefpRgHwDWkl4FkxwCqSYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。之前分享过Llama2、Baichuan2、Qwen、Yi的技术报告，今天给大家带来InternLM2的技术报告的细节分享。Paper: https://arxiv.o</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488805&amp;idx=1&amp;sn=7d760f16e4752b82332f99b588e81895&amp;chksm=cec9c900d77bb227b2a37f1652c2c3c90fa0d01618ba3794300cdb6c4c576b3d996a8ce742a6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 01 Apr 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型参数高效微调方法详解(附99个大模型微调模型/数据/工具)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5ng0BSvpuGu9HanJL2nz7fzoHSAEksEBdpRJZUynwXNLM4xUn4sibc5pdcX4c6tRfrfbZW08XicKfAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近出现了一系列令人激动的开源大语言模型，如meta的LLaMA、清华的ChatGLM等。伴随大模型一起爆火的，还有大模型的微调方法。然而随着模型规模和任务数量的增加，对整个Transformer模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488780&amp;idx=1&amp;sn=4520330c000f889f500041d3f36776a3&amp;chksm=ce4abd3b98be3f33c52745abdd4f1098b1385ea9998fe225df907c5375b383934b8ebc5fffe3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 01 Apr 2024 03:40:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型对齐阶段的Scaling Laws]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m3cxwGiaJdk0roAJiag1Vc5zc7rPkKpTBXZKm0z2ehPNqDzELmezgb3ZYefpRgHwDWkl4FkxwCqSYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着过去一年大模型技术的发展，数据、模型尺寸scale up后的能力已经不容置疑，scaling law也被越来越多研究者重视起来。在预训练资源消耗如此大的情况下，掌握scaling law有众多优点</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488780&amp;idx=2&amp;sn=429827d86202543de71965cfc6369b5f&amp;chksm=ce4f969118fdbd434b3621de46caa7abc71459ff92b3b6e7d4624314148201f0054124a1be41&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 01 Apr 2024 03:40:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型算力资源概览 | 免费算力资源限时领取]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nNdicQTutV0Tp6cgL6yBH2VxoKjtic0ZiawpzjHUTojGPfibkkiajpcynhDLGfuvgQLt3wbd4I9RqgyHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>活动时间2024年3月25日-4月15日活动内容1、免费试用：活动期间新用户开通试算即赠660元卡时GPU试算资源。A100 PCIE 40G、RTX 4090 24G、RTX 3090 24G等加速</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488638&amp;idx=1&amp;sn=87bb87e66983caefdb32c9bd6a348740&amp;chksm=ce90574b07a157ad96030a380eab71d101fc9ab9c260e777c3df8c6fca37b24242caf0635f54&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 28 Mar 2024 01:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RAG与Long-Context之争—没必要争]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lbP3QtkAdeYzoxVajibBtXQEowGWbjwdb57Q9BApHTiaI9sgHZVrg6odiaBcncRCIOeG0liceCY7WOPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。随着大模型可以支持的上下文(Context)长度越来越长，网上（好几个群里都在聊这个话题，也来聊几句）竟然出现了RAG与Long-Context之争，是真没必要。。。主</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488630&amp;idx=1&amp;sn=73335aff870ebc83d1d8afbf22918aba&amp;chksm=ce1a49ec1a15e7dc752bc7b00036aad31d1a86ae5ffa7dd1c01506214ac1d69de7be3bbaf157&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Mar 2024 13:21:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大型语言模型场景调优实践｜打造「贺岁灵感模型」]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5ksjRrYIHup1xGicGffoericAGYmGFLjcedHhLKcGTvTHU7oKt62qGQddcDrYtgIlpbDyMpaibzyaHrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面ChatGPT模型问世后，立刻在全球范围内掀起了轩然大波，其卓越的效果引发了新一轮AI浪潮。目前以ChatGPT、文心一言等为首的一系列大型语言模型给广大用户带来了极大的便捷。例如：编辑们可以</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488626&amp;idx=1&amp;sn=9727326b838e7056a483f7b951534290&amp;chksm=cef3044b0f8f2c8908f92a2aa86b3f32c82ea5dceb3110f27bc847edf19488e8a8c512b96a45&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Mar 2024 13:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[指令微调数据的高效筛选方法-CaR（排序&amp;聚类）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mNvynY0vLaBXRw2X7AKLDENlGrl7t5RAdkzicFoEvoUuvqtTRrUhKSbw1iaUmfbDF3yxpfE9DPmygQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。大模型时代，指令微调是必不可少的技能。那么如何使用更少的数据，调出更好地效果，更节省训练资源&amp;成本呢？之前已经给大家分享过几篇数据筛选的方法：DEITA、MoDS和IF</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488469&amp;idx=1&amp;sn=083203916d9852f62b41c31f9efab622&amp;chksm=cefaa3b11f544becf5adafaf4a303748c3941675a027feb2edd5e6e37e00a1569db861a5445f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 18 Mar 2024 15:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA["NLP工作站"成立技术交流3群]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5me4N4crgIUHZMO4a6FFsMgqGRmpeJ9nZgVUFjrbAx71FlhkMfj9RzBwLF5h9fAuZIVs7vuz0OItg/640?wxtype=jpeg&amp;wxfrom=0"/><p>重磅通知，应大家要求，“NLP工作站”成立技术交流3群。主要讨论一些新的AI技术&amp;搬运一些知乎内容，不限于大模型、传统NLP技术、多模态等。入群后一定进行备注，“昵称-学校（公司）-方向”。备注是为了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488282&amp;idx=1&amp;sn=ee4431c4fda690348d7480e6a717d8ed&amp;chksm=ce252cebaab0e9ee7ef3aec5920f47118e714a2f085b1b3b7901ebd447ecf58756aad72630ef&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Mar 2024 10:18:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[角色扮演大模型的碎碎念]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kol8X0EIZzT2IDicKJyfSuODatkgR353h16EsKblYpwgXyicJxbGgAeebp0BEc3tCXOJb3jqzYbRMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇角色大模型相关思考的文章，来自知乎@快乐子涵酱（已授权）。知乎：https://zhuanlan.zhihu.com/p/685823865什么是角色扮演大模型？首先提两个问题，目前</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488277&amp;idx=1&amp;sn=eb1b190b527f15e2cba0c59af4d91199&amp;chksm=cee0bbc9eb4f5becf49843fb10016cb95d631dc1d5802128fe9a521a5b3ec87f6427a5962e4b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 13 Mar 2024 15:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[自我蒸馏方法-减轻大模型微调过程中的灾难性遗忘]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nguoIx5q8CXRwYVKTfVDOqrllGvuLHEkKGiaLsAMObaKXHf3q8gqgfAdiaPJ2xQ8Y5txFkMvMGxDMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。大模型在指定任务上进行微调后，会取得较为不错的效果，但同时可能带来模型原有能力的下降。今天给大家带来一篇通过自我蒸馏减轻大模型微调时的灾难性遗忘的方法-SDFT（Sel</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488268&amp;idx=1&amp;sn=b4b0d165fab9b546ef543b597dac6b14&amp;chksm=cec58620ab09d5e3a8e5b4a3767b0a0cb447413bc7df89f1ccd11644faf91c45c61b4be195b7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Mar 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年，大模型这些方向再次卷疯了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lWUmKVEqlaV7jv0QqEJ79uvHObDGnLHd4K9DDefhE3UkHseZzw4lhicMia2GQlgkGL1ztNFiaRAMF7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年，大模型再次卷疯了！就在近日，Anthropic发布的Claude 3系列模型，已经实现了对GPT-4的全面超越。大模型（LLMs）是一种人工智能模型，旨在理解和生成人类语言。大模型通过在大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488249&amp;idx=1&amp;sn=d0c74eb21e1cb56466e3716c9ac3d4a3&amp;chksm=ce188bfb2110d6791785a7752bba83bb5c052119c59a8a4eadcb91290a39293241f76b0a66b4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Mar 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Yi技术报告细节分享]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lWUmKVEqlaV7jv0QqEJ79uADXzlUicBDiakDoLicIb81U4uw17JnhodqxCjA8o6VaR7ZW9sE74C6w8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。Yi模型很早就发布了，但技术报告昨天才出来。之前分享过Llama2、Baichuan2、Qwen，今天来给大家进行细节分享。Yi模型在开篇就强调了模型设计思路是围绕模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488248&amp;idx=1&amp;sn=da8b5d9b5aa374d56f1641a1e4938283&amp;chksm=ce1737ce9204ae6b6a305604f4cc8b24750e291e87484baefda9e07ff259ec81de2df5bf6d23&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 08 Mar 2024 14:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Anthropic发布Claude3，效果已超越GPT4]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m9bPdxGQIMlP6hhxZOWLb2Lx3pRBY4NrtNKcz4ywKwmlosNllgaicyoYMeOsbPLZQfUibjbEqgMWwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。就在刚刚刷信息的时候，发现Anthropic发布了Claude3，并且已效果超越GPT4，特此分享。官方链接：https://www.anthropic.com/news/cl</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488210&amp;idx=1&amp;sn=4cdeca3efe1accf6daa7b61b42512754&amp;chksm=ce2c764757291318090dbf9795c8db6184d46363b911679ed13b27346f3b27d34dd4137058ff&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 04 Mar 2024 15:25:44 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[关于Sora的一些碎碎念]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mAo1GMv89viaZ3xVmrEmKX6iaHxFSnC5bfVS8GmtGQ5Mw8f9VOTUPhpXZPLCBP4xRGrnqEfj160jwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。今天给大家带来一篇文灏兄（知乎@黄文灏，零一科技Pretrain负责人）的关于Sora的想法（已授权）。Sora的横空出世还是震惊了不少人的，但仔细看Sora的tech</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488200&amp;idx=1&amp;sn=8d3e6c6ff8a9344a5cabd48dd7a13dc2&amp;chksm=ce02ad9e3ac998a6e0f026117245fc65e594e5e8e503a4762ea18fbe0799781d6171b44668d2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Sora能作为物理世界模拟器吗]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mAo1GMv89viaZ3xVmrEmKX6Yfn5Su781TRGyHdL1kI1SMh114dVBRjRMpvKzgId7ZRmoupCWReHNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎原文：https://zhuanlan.zhihu.com/p/684089478最近一直被Sora刷屏，给大家带来一篇分享《Sora能作为物理世界模拟器吗》（来自@知乎张俊林）。我们生存的世界有</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488195&amp;idx=1&amp;sn=001f32e56a2f31ed76b0e04f03b2fff9&amp;chksm=ceb2d60ea648592df4d4941da896549a7f2cef2148067809a04633e8c33d700ed6d82e28276d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mistral AI发布Mistral Large模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mAo1GMv89viaZ3xVmrEmKX6iaHxFSnC5bfVS8GmtGQ5Mw8f9VOTUPhpXZPLCBP4xRGrnqEfj160jwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。Mistral AI最近发布了Mistral Large模型，常用基准测试中效果仅次于GPT-4模型，可以在La Plateforme和Azure上使用。官方链接：ht</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488195&amp;idx=2&amp;sn=c0b0a8c9221afe2de08589e1910fa4ee&amp;chksm=ce3e615ca0311cff02d0a2c96aace0790649154a309d0c68b895dbb8ec3117963f4e7adde9b7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Feb 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[关于Google开源Gemma的一些想法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lGwel4vhGfo9aw4pd8Ha2ia3l4JDnfRYSBnIn2K2ZibkGxoOqhSibAZI2ssIIn9B54icw5T1hBfQ5ttA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎原文：https://www.zhihu.com/question/645303968/answer/3404606348平地一声雷，早上被Google开源的Gemma刷圈，特此给大家带来，关于G</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488139&amp;idx=1&amp;sn=1f6fa3a50261a48528bfa58694df2eb9&amp;chksm=ce0d99916544216395a65d2d041083ffef56ffb8950b8d42425e2e0c9d795498b773b6aded5b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 22 Feb 2024 01:38:31 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新春福利-送红包封面&amp;书]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nZstr79ia2n4ZbtrOsDZ5TV4ibJCRAX0ibM6zjCY5YGsHXbyiayuTE4u5Zv1WQhCEyTrpByphLS9icYVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。感谢大家一直以来的对本人（知乎@刘聪NLP）以及NLP工作站的支持，在这里送上新春福利。2本AI书籍《ChatGPT原理与实战》-签名版6000个红包封面。两本书通过抽奖的形式</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488125&amp;idx=1&amp;sn=002258876657e08e44cc5dc9cae295c7&amp;chksm=ce63b162b15d47a5b84e674680f3d7136a914144109cb12488ebdda8f24a33315f8265e34fd6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 05 Feb 2024 11:19:00 +0000</pubdate>
       
 
     </item>
