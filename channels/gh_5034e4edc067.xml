@@ -47,35 +47,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[从RNN/CNN到大模型全解析，代码智能领域的最新范式、进展及未来展望]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLlVYRKic0Fn7EKSqXGiauvw3Fs34ajw5zC9XNKhgguAXMed4qlQoxQf1HNxKFrHUhfbho5Uc3yTzUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>“Programming is the art of telling another human being what one wants the computer to do.” — Donald </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=1&amp;sn=f7f94d114adac2b1fb21b2892375ea03&amp;chksm=bf240ae2150b221e48ac79f8000a71399ef70ac14268b720834bf15470c4b14a90dc3870a26b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[价值观罗盘：如何让大模型与人类价值观对齐?]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/HkPvwCuFwNNr2l88dBnicG1yBvwTXvWLNZ3whiaORJh3zF2EUibCeWAZLgiaibiarH6QTp0NONWU0IWYibcl6ibJLNp6bQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>（本文阅读时间：21分钟）编者按：随着人工智能技术的快速发展和能力的不断增强，大模型已经逐步应用于人们的日常生活。但这同时也带来了很多新的潜在风险，进一步凸显了大模型与人类价值观对齐问题的紧迫性。然而</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=2&amp;sn=b24af7a53a2408b8c8eee26a4d919435&amp;chksm=bf870f515ab250d224bc3ed34c12527d55f1f71ea3060332a842ba3fe7965115408261fb5e28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[基于Sentence-Bert的检索式问答系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgy0bj8ibTagDy8St9TBJMwrzjyXBaCUwJkY7fIyIBKkhY6ib4Fn4B1ibXyhs8Hmy7tWs25Ij4qME51yg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言常见的问答任务有四种：•知识图谱问答：基于给定知识图谱生成问题对应的答案•表格问答：基于给定表格集合生成问题对应的答案•文本问答：基于给定文本生成问题对应的答案•社区问答：基于从问答社区网站抓取的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=3&amp;sn=0f608cd8dfaf9512cbb6ef3697ef69bf&amp;chksm=bf501f2946a9d985ae12a6863e7408e568d61ba3abe0fdcf60faf7ac9c5d1780964fce3c4c02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[壹沓科技招聘AI副总裁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLlVYRKic0Fn7EKSqXGiauvw3f6zYapaicibRwqLcBpO5u65xO4jgUDXM6ganWCT4S55fFiclj3kknb4tw/300?wxtype=jpeg&amp;wxfrom=0"/><p>壹沓科技招聘AI副总裁 于 壹沓科技 in 上海招聘搜索关键词：大模型、AIGC、AI Agent、数字员工、AI智能体简历投递邮箱：elisa.li@1data.info，咨询微信：_1Data_H</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=4&amp;sn=d6c2764ccf6dec233e8efa66c4d7ecbf&amp;chksm=bf5c3f427c25ea15d2544c4a3af757473a0968dbbe97ee6a00fb9c846836dcf81d48287f4c40&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Quanto: PyTorch 量化工具包]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2p1zao4ZdbPVULPcW0lBuqLojes0AnFZKialqOOC4eucTVhUIRaGicTR0PeuARGppestHH6PU2erZyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>量化技术通过用低精度数据类型 (如 8 位整型 (int8)) 来表示深度学习模型的权重和激活，以减少传统深度学习模型使用 32 位浮点 (float32) 表示权重和激活所带来的计算和内存开销。减少</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=5&amp;sn=d36c7c8082318fbe18965fb3be6ed470&amp;chksm=bff9d1ba6c76d0977acc011b3629ec67f3b124c12167cdccc5021de04d067fd077ed2e2f602f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[保姆级知识图谱中文教程，来了！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJLUcds14sEJedCRuHs1r92dEa1OLKhljtdB2CV1nich94O3YDsxKGGJDZLZPtNCqNeS33gzR9NxgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着人工智能的快速发展，知识图谱已成为组织和理解复杂数据的关键技术。特别是在知识获取领域，知识图谱的补全和嵌入技术扮演着至关重要的角色。研梦非凡魏导师将通过知识图谱经典综述《A Survey on K</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441838&amp;idx=1&amp;sn=6549b0f9e00dbbcbaf9c265d11c615cd&amp;chksm=bf4b4ab0f9bec3ed782c0ff09dc386c426f5afee7e3a1a4de39c0cbbf1b5a900708bdd2b6452&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 10 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RAG实战全解析：一年探索之路]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI84n4sWXiaKmEhkX5ImBl3krPPlI6qfsrtSd4TOCbv2oEYAT6C7iaxMibnO1c8mYctCsiaPFtyJoBrQg/300?wxtype=jpeg&amp;wxfrom=0"/><p>原文：https://zhuanlan.zhihu.com/p/682253496整理：青稞AI1. 背景介绍RAG（Retrieval Augmented Generation，检索增强生成 ）方法</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441838&amp;idx=2&amp;sn=7eb05af747191f5a8945a55176dff2c2&amp;chksm=bf98b7968543da00a4f2403b8c9bfeaabbaf4d351e92d6f7cbb6068ea6ff07551a0cdc54e835&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 10 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[行业巨变！LLama3要来了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuzV4NLzLtMEssyRwnFMf6cJukSFoa2xywYzvibvnxr52HjVrZ2JxhETr68NN7gMumv0MtAprjav5Vw/300?wxtype=jpeg&amp;wxfrom=0"/><p>字少事大。今天外网有几个消息源传出LLama3下周发布，reddit上也有人讨论，链接如下：https://www.reddit.com/r/ArtificialInteligence/comment</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441838&amp;idx=3&amp;sn=1ee5997e17e2873cc696ab47b346a8df&amp;chksm=bff1e11fd3496088cb05e1a13762d05cf50e4c4049d027be0753b3d2ffebf0dd5f9fe36109cf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 10 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Squirrel AI (上海) 招聘AI算法研发人员(社招/校招/实习)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI84n4sWXiaKmEhkX5ImBl3kcCibTm573TRxqxJxlzyRqxNZbYxQTuXe5gmIK41Hdw4JT60w4BOGOAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Squirrel AI (上海) 积极招聘各个级别的AI算法研发人员(社招/校招/实习)， 提供具竞争力薪资和发展。团队成员来自于Gatech, CMU, 哈佛, 清北复交等名校博士, 曾就职于亚马逊</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441838&amp;idx=4&amp;sn=356f7a5d2055fe4fd08137adbf2bb1d0&amp;chksm=bf29cf88282f6dec9bd6651d0245e91e6ccc0465d150a3275b1c2e1449360243209068c1aea0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 10 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[介绍几个大型机构发布的时间序列Foundation Model]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dcUv9UF2OUUThNET0U4CHRT7gv0cwRicAbnpmdGIY25ziaeQbxy2zU12PqDbiabticfNP3j6GXfYwmlqZM1X6QLHZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近出现了很多大模型+时间序列的工作。这篇文章给大家介绍一下最近一些大型机构发布的时间序列基础大模型Foundation Model，分别来自Google和CMU。这些大模型时间序列的核心一般包括3个</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441838&amp;idx=5&amp;sn=5bdb8cdbe3a4351be29a254b4554a3d4&amp;chksm=bfd47fc9941f9ff1a8a98aa388e06bc6d6d6d0c44fdd2a81415d953f220f1fedf1b4ced4821d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 10 Apr 2024 04:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -474,86 +559,6 @@
       
 
       <pubdate>Fri, 05 Apr 2024 13:39:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Symbol-LLM: 统一符号的开源基座大模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKDagff3oJh5PPMZicSKSXjeRVTRG9gqsJDkspCo1APPZupPuJ42ntmQC5Gh6jInYibjL1Jy3YZDtsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读当前，大型语言模型 (Large Language Model, LLM) 大多强调以自然语言 (Natural Language, NL)为媒介进行交互、推理以及反馈修正。然而，LLM对符号语言</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=1&amp;sn=c777022470dabe80cdf6c93aef79e679&amp;chksm=bf6ceee38b5eecc74f086638fc8eb216293d32a13cd4f617c374c51f552d506ec897ff7a7c5b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[李宏毅生成式AI第2讲：今日的生成式人工智能厉害在哪里？ 从「工具」变为「工具人」]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKDagff3oJh5PPMZicSKSXjeR7aANicJoq6Px8XgVtl4DeN3BVJnQm3EIVdxvWXsx4WugN7XlcxmOVw/300?wxtype=jpeg&amp;wxfrom=0"/><p>整理：AINLP推荐台大李宏毅老师的新课生成式人工智能导论2024课程主页https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php第2讲：今日</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=2&amp;sn=90175b5e8980010983667b41692e9989&amp;chksm=bfb67a5a34a902f6c1659b6b2185de6a07752fa57b5f3a69c6959fa80bf75794251006bdd282&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[蚂蚁集团智能引擎团队招聘大模型相关算法工程师]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKDagff3oJh5PPMZicSKSXjeJBR9vREPCO0cicVicsKvJ6MeAzAaibNV8ZicfN7MBzaptYzMwn4Vmos1MA/300?wxtype=jpeg&amp;wxfrom=0"/><p>【团队介绍】团队主要负责蚂蚁集团的大语言模型语料优化、千亿基座训练，图机器学习，知识图谱、知识增强大模型等基础算法方向。团队研发了超大规模图学习系统AGL，并将其落地于金融风控、财富管理、搜索推荐、广</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=3&amp;sn=02a243372b4fbe2c961782fff5b0b95a&amp;chksm=bf9fdfef28497f7f7da7b2ebe4c2146c600b97acad4c7e6a1bb8fbbc735941454dba12265638&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[比肩Transformer的Mamba在时间序列上有效吗？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dcUv9UF2OUVy4LbEOJ9wWqM3LWILpGKyomuoC1gm2CJjkiaic0odr2CeJKn32m1obibYXzOwEUHaodSNHjn3QGhYA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Mamba是最近最火的模型之一，更是被业内认为可以有取代Transformer的潜力。今天介绍的这篇文章，探索了Mamba模型在时间序列预测任务上是有有效。本文首先给大家介绍Mamba的基础原理，再结</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=4&amp;sn=3d761acb8c63213b73f0454f107774c1&amp;chksm=bfe5b7edc9b1b9c79a3fcb513026be3b6ed04dd756d2880ca1cfb36a47ee8b68065f391c625d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新“大海捞针”实验？评估大模型是否能够进行时序分析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aaN2xdFqa4FkZDsqcicXWK9MTiauytBd2rQHktibiaRUyWL6yANs16ZKRXpALibQ5MY9lWwYCtNddDloVJEJ8NoseMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>时序特征对于做过推荐系统算法的传统机器学习的开发者来讲起多大的作用不言而喻。毫不夸张的讲，相较于一些基础特征，年龄、性别、偏好等远远不及最近几分钟，最近几小时这样的时序特征来的重要，它们曾一度是算法科</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441734&amp;idx=5&amp;sn=acbc1b97295a2948707bc8acdc738e5a&amp;chksm=bf94dfb7e15228ca929de2142e205a699941a40310966e934a14707c69528e6cacb975ddae90&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 03 Apr 2024 12:18:38 +0000</pubdate>
       
 
     </item>

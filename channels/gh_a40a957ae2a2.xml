@@ -20,28 +20,27 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[如何快速提高大模型的向量表征效果？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mXOFtJgI4mCgCfFHCkkYsDaicBadRrJicQamjUtriajEe3pOXcIYmvIQYg0aGvMxNPFPjjQ9cxibnLJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。RAG已经成为了大模型落地的重要场景，那么如何retrieval到正确的证据片段变的十分重要。目前一般采用采用向量匹配的方式来增加语义召回的结果。在METB榜单上，英文向量表征</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488931&amp;idx=1&amp;sn=2cb3de888db88fe86b9d8a10cf770bc5&amp;chksm=ce7d8aa2b7a97e1e73761a5eceb6fe59af3b8b23d66451edbf15465df538599a84b4d5f0e64a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 11 Apr 2024 14:40:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[RAG系统中答案无关的片段对LLMs生成结果有何影响？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kCAC7ux3Zr7cftQFIHIELam7fDJIvYYuU3TV9ibzeT7k5XwwjljvqnIhk4KJoxkOFN3Dg0icSE8uRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。RAG（检索增强生成）通过检索系统找到用户问题相关的信息片段，利用大模型综合生成一个答案，极大解决了大模型幻觉、信息更新不及时等问题，已经成为了大模型落地的重要手段。但</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247488921&amp;idx=1&amp;sn=ebfc324068e6b828de73f5cd4588c545&amp;chksm=cefe5ff3abcd0eb126fe81b901a20c13415485b25b6c9a9b1ce677be796be54988f60b6be1e0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 08 Apr 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
