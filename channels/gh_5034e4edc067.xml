@@ -53,34 +53,114 @@
 
 
     <item>
+      <title><![CDATA[8.3K Stars!《多模态大语言模型综述》重大升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI6rAeaB3nVaBrUUOuHhUqH6SHFtT0rrgg87hP9HAGMjJeMeq3W3rd6trEl0zs8IvYOmhXYcR0OkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年 6 月底，我们在 arXiv 上发布了业内首篇多模态大语言模型领域的综述《A Survey on Multimodal Large Language Models》，系统性梳理了多模态大语言模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=1&amp;sn=b4ae09bd943c37a36e6a190f8dd0b563&amp;chksm=bf35d570dc06e79f4d11bef011c79a07d5c9391e2986ace41926584745f08779f5974276952a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[弱智吧祛魅，与强Baseline的对比实验，差距明显]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/JrHT8u594NH1khSusGDJ1XBRFkoggbfeELow3N2N5nFV1EVb1NDUvs5IBIKqbCyItFQLdAcd65gwtbamloiakpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文主要分享我们对「弱智吧模型」与「Yi-6B-Chat」的对比实验，以认清弱智吧模型与强Baseline之间的差距，对弱智吧数据进行祛魅。实验结果与我们的猜想一致：在GPT4评测与人工评测中，Yi-</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=2&amp;sn=176e9a5d3d9526aded1d9e4fa7a5572d&amp;chksm=bfe27b3f553f99ffffcf66fedd015502a78f1f33acb6fc5568ff63034ff0f105ab8d897d900d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解大模型计算加速系列：vLLM源码解析2，调度器策略(Scheduler)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNVb9SV7mjXupu7ibfAtyzaaDgHqhGJpsgQ7QnOH3Ozb5vxtrBQqYXXfb3EUmyDtydIVzf0mctfsSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，vLLM源码解读第二期更新了，本期我们一起来解读vLLM的调度器策略。实话说，这真得是我写过最难的源码解读了。由于vLLM代码本身的复杂性，逻辑上的嵌套性，使得我在读源码时，先接收到的是碎片化</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=3&amp;sn=f6b335953153a1e5fbb401f87989863e&amp;chksm=bfc4f07e63609383e3f836a216ae0bc64cc9a8aceffcd757987b52bdfeb0fd045c75423faa71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[如何快速提高大模型的向量表征效果？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mXOFtJgI4mCgCfFHCkkYsDaicBadRrJicQamjUtriajEe3pOXcIYmvIQYg0aGvMxNPFPjjQ9cxibnLJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>RAG已经成为了大模型落地的重要场景，那么如何retrieval到正确的证据片段变的十分重要。目前一般采用采用向量匹配的方式来增加语义召回的结果。在METB榜单上，英文向量表征已被大模型（生成模型）占</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=4&amp;sn=85bc0700203abf24fabb41b8d57b2550&amp;chksm=bf741018279b67f9aadb838cfdf63e53d200a99ff54fafda4216a3a13b0e5f2dfbde4554239c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[用于显著提高检索速度和降低成本的二进制和标量嵌入量化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2q9qggKEY3rrWqTUXSqGUAKShGUAicQ3qREYcKTVrr4HibYYds1L00myWUia7ejevR2ghyZCSffRDWsw/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们引入了嵌入量化的概念，并展示了它们对检索速度、内存使用、磁盘空间和成本的影响。我们将讨论理论上和实践中如何对嵌入进行量化，然后介绍一个 演示，展示了 4100 万维基百科文本的真实检索场景。演示地</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=5&amp;sn=697adc2e2d91642227d585139c353130&amp;chksm=bf8cc7be0d1da255b72e033a2310f04ffed2f62807a300b74db095b3f75012b57287625828f0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[从RNN/CNN到大模型全解析，代码智能领域的最新范式、进展及未来展望]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLlVYRKic0Fn7EKSqXGiauvw3Fs34ajw5zC9XNKhgguAXMed4qlQoxQf1HNxKFrHUhfbho5Uc3yTzUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>“Programming is the art of telling another human being what one wants the computer to do.” — Donald </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=1&amp;sn=f7f94d114adac2b1fb21b2892375ea03&amp;chksm=bf240ae2150b221e48ac79f8000a71399ef70ac14268b720834bf15470c4b14a90dc3870a26b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[价值观罗盘：如何让大模型与人类价值观对齐?]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/HkPvwCuFwNNr2l88dBnicG1yBvwTXvWLNZ3whiaORJh3zF2EUibCeWAZLgiaibiarH6QTp0NONWU0IWYibcl6ibJLNp6bQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>（本文阅读时间：21分钟）编者按：随着人工智能技术的快速发展和能力的不断增强，大模型已经逐步应用于人们的日常生活。但这同时也带来了很多新的潜在风险，进一步凸显了大模型与人类价值观对齐问题的紧迫性。然而</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=2&amp;sn=b24af7a53a2408b8c8eee26a4d919435&amp;chksm=bf870f515ab250d224bc3ed34c12527d55f1f71ea3060332a842ba3fe7965115408261fb5e28&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[基于Sentence-Bert的检索式问答系统]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgy0bj8ibTagDy8St9TBJMwrzjyXBaCUwJkY7fIyIBKkhY6ib4Fn4B1ibXyhs8Hmy7tWs25Ij4qME51yg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言常见的问答任务有四种：•知识图谱问答：基于给定知识图谱生成问题对应的答案•表格问答：基于给定表格集合生成问题对应的答案•文本问答：基于给定文本生成问题对应的答案•社区问答：基于从问答社区网站抓取的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=3&amp;sn=0f608cd8dfaf9512cbb6ef3697ef69bf&amp;chksm=bf501f2946a9d985ae12a6863e7408e568d61ba3abe0fdcf60faf7ac9c5d1780964fce3c4c02&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[壹沓科技招聘AI副总裁]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLlVYRKic0Fn7EKSqXGiauvw3f6zYapaicibRwqLcBpO5u65xO4jgUDXM6ganWCT4S55fFiclj3kknb4tw/300?wxtype=jpeg&amp;wxfrom=0"/><p>壹沓科技招聘AI副总裁 于 壹沓科技 in 上海招聘搜索关键词：大模型、AIGC、AI Agent、数字员工、AI智能体简历投递邮箱：elisa.li@1data.info，咨询微信：_1Data_H</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=4&amp;sn=d6c2764ccf6dec233e8efa66c4d7ecbf&amp;chksm=bf5c3f427c25ea15d2544c4a3af757473a0968dbbe97ee6a00fb9c846836dcf81d48287f4c40&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Quanto: PyTorch 量化工具包]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2p1zao4ZdbPVULPcW0lBuqLojes0AnFZKialqOOC4eucTVhUIRaGicTR0PeuARGppestHH6PU2erZyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>量化技术通过用低精度数据类型 (如 8 位整型 (int8)) 来表示深度学习模型的权重和激活，以减少传统深度学习模型使用 32 位浮点 (float32) 表示权重和激活所带来的计算和内存开销。减少</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441861&amp;idx=5&amp;sn=d36c7c8082318fbe18965fb3be6ed470&amp;chksm=bff9d1ba6c76d0977acc011b3629ec67f3b124c12167cdccc5021de04d067fd077ed2e2f602f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Apr 2024 11:03:49 +0000</pubdate>
+      
+
     </item>
     <item>
       
