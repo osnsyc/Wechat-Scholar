@@ -29,23 +29,80 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[一文全面盘点算法工程师大模型微调技能图谱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaotYYdfgU4rUOxdaTnNhWvVrnaHddlQ5agfcxaicyCRq0N5Qta0ErBWTj1ww0Ia3ynN3K5KZz1n9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年间就有了大幅度的技术迭代更新，从LoRA、QLoRA、AdaLoRa、ZeroQuant、Flash Attention、KTO、PPO、DPO、蒸馏技术到模型增量学习</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527281&amp;idx=1&amp;sn=6d7e8808feddba3b6233623576e21fd5&amp;chksm=eac412c935c3a39642218e8e6236f5429598c5e7b9801c98d13badf02a8c2d05d440bbf6be21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 10:09:14 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[魔改RNN挑战Transformer，RWKV上新：推出2种新架构模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaotYYdfgU4rUOxdaTnNhWvYx615HbE5A5xN4ia5JCBPpibrsVWgQXjqQhoic6sDaaVphWzTNAJkJwuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>RWKV 投稿量子位 | 公众号 QbitAI不走Transformer寻常路，魔改RNN的国产新架构RWKV，有了新进展：提出了两种新的RWKV架构，即Eagle (RWKV-5) 和Finch（R</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527281&amp;idx=2&amp;sn=7bdb38ae001b4759fdf760f836f383a2&amp;chksm=ea519f3ad20528ca1316c0943ca80ae37673e88db9c18f50affeb917144408b27b41150797cb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 10:09:14 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[多模态大模型的最优预训练范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaotYYdfgU4rUOxdaTnNhWvtu6g16fuZcribibyg179ZSTNohmFApggUK3K1avnqVBnCbyhzckBrwcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：AI小飞侠，CV算法工程师/多模态声明：本文只做分享，版权归原作者，侵权私信删除！原文：https://zhuanlan.zhihu.com/p/685586296编辑：青稞AI目前主流的多模态</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527281&amp;idx=3&amp;sn=fa7c2429946e45c58094508d42189c25&amp;chksm=ea907edaecff7f5fc443b4dddd69818532fbaa16167f1838be48b4167aece1ed1d6bc2ecf733&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 10:09:14 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[HADES: 利用视觉弱点越狱多模态大语言模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaotYYdfgU4rUOxdaTnNhWvzKDcrbjZskfrib0JmKkQkLia9JGsZV6CbLOxIZj9P22Jiak3iaacNicicmFA/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜李依凡机构｜中国人民大学研究方向｜多模态大语言模型来自 | RUC AI Box本文提出了一种针对多模态大语言模型的越狱方法HADES，使用精心设计的图片隐藏和放大原有有害意图，利用图像侧是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527281&amp;idx=4&amp;sn=bbcfe62c44ddada545f138fedb889cf4&amp;chksm=ea3a0f5b5a872eb0f4a2a2cd190af399ce7402681887055ab610978cd374c6920decdd3da850&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 10:09:14 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[MOE vs MOT 让LLM更加有效]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajf3mibiauPpz0VfpyQNB8QejUjyvPrvicerFvcbJhWLqQ7LpAfyM6Uxf9009ibuZEGfibxhtjwa7PLrXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：北方的郎链接：https://zhuanlan.zhihu.com/p/691070810翻译自：https://www.superannotate.com/blog/mixture-of-ex</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527253&amp;idx=1&amp;sn=67ac3f80e022164ebc00ad14a7b39300&amp;chksm=ead7cc9f18491a4632891a5d38e5c1e7be8a5d27dddde617237dbedb319b05c1322a770e3a00&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 14 Apr 2024 15:04:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[国内20家公司大模型岗位面试经验汇总]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajf3mibiauPpz0VfpyQNB8QejnxWu9jHgmee4Xw6DiaZvHe0MJctgJZE1oKicTqh0WhtOajkxP4DTyE7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：林夕，阿里巴巴集团高级算法工程师，专注多模态大模型研究。声明：本文只做分享，版权归原作者，侵权私信删除！原文：https://zhuanlan.zhihu.com/p/690801254编辑：青</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527253&amp;idx=2&amp;sn=73abf1bb10d41b4300629f74fa8624e9&amp;chksm=ea05c3e9eb480cec11979ee9334b419c67bc5d05d432a199e60516fa0980f79148d1217b215f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 14 Apr 2024 15:04:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RAG系统中答案无关的片段对LLMs生成结果有何影响？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajf3mibiauPpz0VfpyQNB8Qejw5SRZicD2TPAubUbDiaDPMx7xbQFAAYcpSjR0do1gKa9McRu1glU7WFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面来自：NLP工作站RAG（检索增强生成）通过检索系统找到用户问题相关的信息片段，利用大模型综合生成一个答案，极大解决了大模型幻觉、信息更新不及时等问题，已经成为了大模型落地的重要手段。但在检索</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527253&amp;idx=3&amp;sn=0e8acc3643fd1880bcf63fba30b40966&amp;chksm=ea5978e4bd6313afd2946445b93adda87128333de166f634806aff3037697b6c2986d112f50c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 14 Apr 2024 15:04:08 +0000</pubdate>
+      
+
     </item>
     <item>
       

@@ -35,29 +35,103 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[精度最高降幅60%！SOTA只是假象？CVPR2024 Highlight为你揭示CLIP和LLaVA-Next等模型“骗局”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqmzOQtq7wB9c1RzYuckeBicmL6QoGB88IJQXriaNBnXcWjCIWNffChwl6B52lEbDlMkEhGRYbZhKPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨派派星来源丨CVHub编辑丨极市平台极市导读 这篇论文提出了利用diffusion model作为data source来测评模型鲁棒性。提出的ImageNet-D数据</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679194&amp;idx=1&amp;sn=ff6e291564a56eb45ab84f36fa2cc709&amp;chksm=edf08fee8cb2c39026d1832106253fe711cb4bcebaf47ffe94e6e0935571918be5b8a1515957&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[CVPR 2024 | 全新指代分割数据集！国科大提出UniRES：统一的对象级和部分级定位新方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqmzOQtq7wB9c1RzYuckeBicO8sPlA0HFdMOK2Bh9WRqQCyzicX6Ipj25OxbXyp5QCXZe27SZqTEWuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨小源来源丨CVer编辑丨极市平台极市导读 在本文中，作者进一步迈向更精细的部分级RES任务。作者提出了一个新的多粒度指代表达分割（MRES）任务，通过手动注释构建了一个</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679194&amp;idx=2&amp;sn=324f51e47ddcb1d5fda2ada938c88e05&amp;chksm=edfa4358f397acaed06c9b7f8b0db05ae4322261522a4a4ccec46d628d2aca449eed3a81c2ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解大模型计算加速系列：vLLM源码解析2，调度器策略(Scheduler)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqmzOQtq7wB9c1RzYuckeBic76aMpJVUyWgziaaDicI2gichyq3x61Vcdj1t5eKgxg6ria9wncb4WBIbYA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨猛猿来源丨大猿搬砖简记编辑丨极市平台极市导读 在本文中，作者从vLLM批处理的入口函数开始，介绍了其推理内核LLMEngine的两个重要函数add_request()和</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679194&amp;idx=3&amp;sn=f89181508590f65ba82a6b39a00bfd46&amp;chksm=ed0ad64c243a28a8ea54f1a4224774325f215a521023bb44635f2bc1d795c61dd9923de89a09&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[杭州/深圳/北京/海外远程｜行动湃科技招募AI算法工程师&amp;产品合伙人]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqmzOQtq7wB9c1RzYuckeBictmjSnhPYzrqrteydQXYiav69xhWhpEVbV8f42IICSiaAxzZT13K7tqKA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台公众号后台回复“数据集”获取100+深度学习各方向资源整理极市干货技术专栏：多模态大模型超详细解读专栏｜搞懂Tranformer系列｜ICCV2023论文解读｜极市直播极视角</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679194&amp;idx=4&amp;sn=ddca77e74247e524f7eeaa317e5d888d&amp;chksm=ed0d2a044ab90e9b25669de0079587f622d1e5f3555ef50af878f1c7d8f3b974d9f4a2e0a7c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[贾佳亚团队新模型对标ChatGPT+DALL-E 3王炸组合！读懂梗图刷爆榜单，代码复现数学函数]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqmzOQtq7wB9c1RzYuckeBicEjkfP3TkOcTGcaTgeVB87FkK6SlGOaUfbJ8W0aXnicHuPEddlyDibiaDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元极市导读 贾佳亚团队提出VLM模型Mini-Gemini，堪比GPT-4+DALL-E 3王炸组合，一上线就刷爆了多模态任务榜单！读得懂梗图，做得了学</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679194&amp;idx=5&amp;sn=b4ff458c6c3d729c554b94a5e62d4e83&amp;chksm=ed0eb79f44d896283c8c068d365f069b4509dfd1f6ad3e1fcfaf1e6df0b0f8bc28b97c90e351&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 15 Apr 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Score-based SDE 生成模型从入门到出师系列(一)：用随机微分方程建模图像生成任务并统一分数和扩散模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpoPtNibBCgEs5SUFacibxxfANZgS8iaF1SNYhfWsQlgjmLxg9pZSUQagBeGhUY7TZnhmOVPbBmr39TQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨CW不要無聊的風格编辑丨极市平台极市导读 超详细解读如何使用随机微分方程（SDE）框架来统一分数模型和扩散模型（DDPM）进行生成建模。 >>加入极市CV技术交流群，走</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679089&amp;idx=1&amp;sn=545263b9ce646b50c811153d022e4bcf&amp;chksm=edc8640f7665f0c8f23112fb4af774a241f9d018c90206f6a029ba9ca69944804013cda82c91&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 14 Apr 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[一文带你了解LLAMA（羊驼）系列]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoFjQsIyURenluic4TjZj9kLeuXEjC8On6Eaz0T0YSEnSfBk7EeQ7icA5ib9ScmCsiabIfverBvric8PiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨曼城周杰伦来源丨深蓝AI编辑丨极市平台极市导读 本文会重点介绍LLAMA系列的改进点，希望大家通过这一篇文章，能快速地了解LLAMA系列的改进工作。 >>加入极市CV技</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679089&amp;idx=2&amp;sn=e8d9ac121bdb2fe699b3eb94365352da&amp;chksm=ed0b56b05758a2128731035194ceba691bfa26298008e7b585633078d88ea0fcee67ae5b7551&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 14 Apr 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型微调项目 / 数据集调研汇总]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpcwQhHhWX5uLznNuudutZuTjF5sjATvibxAbBGvBGZw1FRiaicsNesXOxzxDiaQPHQbAyppacxulcJxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨周星星@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/624079704编辑丨极市平台极市导读 总结了一些热门的大模微调项目的亮点以及数</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679089&amp;idx=3&amp;sn=7e8bea03942d5262580b15789067316f&amp;chksm=edec14975ff9e1308fb7d0b228d118d8fd3aa5b7e79aa8c33172274cfb871333ee40561cd863&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 14 Apr 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[世界首个AI程序员Devin视频竟造假？博主逐帧解析，Devin代码任务完成很糟糕]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqm1Gkkibd7IXpFyIE4Ea0aiclBhAhvaiaJJaCeIvCpRupCJQiaIlIG9HFtChDDh3x4xiaCK67iajibC0jew/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 全球首个AI程序员Devin被爆视频造假？YouTube博主近日揭露了背后明星初创公司Cognition的谎言，通过逐帧分析发现，Devin并不能独立完</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247679089&amp;idx=4&amp;sn=73e1ce79b3a6f86763afafb27a41dd34&amp;chksm=ed34cc6ed830e05bd4e7872c1b87f5617d7f5e32416085d8d4c08ffd356b9b6bcf3c7280d3ed&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 14 Apr 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
