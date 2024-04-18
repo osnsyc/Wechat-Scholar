@@ -48,34 +48,114 @@
 
 
     <item>
+      <title><![CDATA[保姆级 Transformer 教程，来了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJEGq1KAhZwM0pQPwIFp0EYp2yaPQdToUtSnfk5Ya3NHmo9qibmNLpK77ETT4AqZIU2S8IgSqV3Ozg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer模型，作为深度学习领域中的一次重大突破，为自然语言处理（NLP）领域的发展注入了新的活力。ChatGPT和Sora这两个应用便是Transformer强大能力的生动体现，它们分别</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441989&amp;idx=1&amp;sn=d4a1d5d800332c7ccc536151ce593064&amp;chksm=bf3a643b4b5b634a2928cfd66c8630ee59118eb0746efb5257d652dabca96d9432f38c127c38&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 18 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[美团外卖基于GPU的向量检索系统实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hEx03cFgUsVShPhmBKFPvZmO6XEY3ficv875QoDzBAXLWGNjFGtOITnOIY9q2JrkQfhtWqlHBFey6UMYbUZTeJA/300?wxtype=jpeg&amp;wxfrom=0"/><p>到家搜索业务具有数据量大、过滤比高等特点，为了在保证高召回率的同时进一步提高检索性能，到家搜索技术团队与美团基础研发机器学习平台团队基于GPU实现了支持向量+标量混合检索的通用检索系统，召回率与检索性</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441989&amp;idx=2&amp;sn=43acb035cd6ad0bf8046b13d5218e498&amp;chksm=bf26f3f5ea9e2b6a03f062544be26d6ad717d2744b3a8748a32ab07ec4bce8098fab451a1e12&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 18 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[最强MOE开源：Mixtral 8x22B 发布！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuxfRfdjtbo7rTMJfBnlSRQcN2P2H2qKdtjibIefqdnskt9B2wDtRIlvR6rzsTZjcHauMGHm3MHTauQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>权重地址：https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1根据上传时间发现是一周之前，在Llama3正式放出来之前抢一个热度。行业</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441989&amp;idx=3&amp;sn=8eed57a6c7cb185f46fd2a593056ee28&amp;chksm=bf81a962090d5cc1e03873ff76999baa21913af43e7aadec41fac0ad230c2ae021e233695f11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 18 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[对谷歌最新提出的Infini-transformer模型进行代码复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaBUNP9ov40cegicNJEb6caL2RODmk042Eou2FY8cB0eQmYlHR2IGJ1EzNCGuFIPaDlq0Udg49JX8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Lil2J（已获授权）链接：https://zhuanlan.zhihu.com/p/692848185简介这篇文章主要内容为我个人对谷歌最新提出的Infini-transformer模型的个人</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441989&amp;idx=4&amp;sn=b3e2bc1e38603b61fd48de8f723c084b&amp;chksm=bfe2a6a483c96cee61bb801a8c5b68de7d99f8adb5f91665805f9d883aa6bd71a3ca217b4ac5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 18 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[知识文档处理和使用流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPxANVIITnSE6nB4gskBl3XicIDw1sZr9YlAlUnEJCdUAPWS6ibSn5stRnyn8JWes1IWQeVibmyL2kPibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>RAG强调的是通过知识检索，为大模型提供足够的知识支撑，从而缓解大模型出现幻觉的问题，但这里有一个大前提，就是“有知识”，只是从哪来，怎么处理，如何放入检索库，如何被检索、使用的，本文主要给大家讲清楚</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441989&amp;idx=5&amp;sn=3368a9317055874a7743622637f681b6&amp;chksm=bf80904b33e0fc249c93f1ef92b65885c03cdc6e683a0b8751c2a7fb5931e3bee99c9abcc12c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 18 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[大模型的门槛，又被打下来了！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKkKBOIT1HpRxydIJia7TRpibHiaWBynSOaq4D8tAyOLTCbs30utJDCKB2zeJhs2unw4Wibdfop95bNEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024，国内首位AI程序员上岗，垂类大模型应用发展已经到了井喷期如果你不懂AI，下岗可能性只会越来越大！如今，百度、京东、华为等科技互联网巨头纷纷加快布局人工智能技术和市场，AI大模型人才在市场上越</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441975&amp;idx=1&amp;sn=5d0ff1d1a2a10d6aff931d5b1143edc1&amp;chksm=bf582067a728cccf746bec14968f6867213bcd59653d02ce7b0025560745fee64930e343bcfc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 17 Apr 2024 06:41:07 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型推理核心技术之Continuous Batching和我的WXG往事]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJEGq1KAhZwM0pQPwIFp0EYutLdsGngGY5rd6IWic17uuYNEDIMibTgkxbuYd8gq1QXmibrKmhY8z8Ow/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨方佳瑞来源丨https://zhuanlan.zhihu.com/p/676109470编辑丨GiantPandaCVContinuous Batching现已成为大型模型推理框架的关键技术，也</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441975&amp;idx=2&amp;sn=2e7066d5dbaa390e61c3499944578199&amp;chksm=bf5958a4ce2e2f7159222d72d2cfa2492a35493d8f3cadbb19fe53b80d3f8d6c9ba7a0c17934&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 17 Apr 2024 06:41:07 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型+RAG用于金融股票预测分析框架：兼看图表理解领域大模型的工作]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/fUBU1yiaEmJgC45otQDvmC20du6m1QorWafqRrvcjq5FEuiaeZ8qKWVtY6kUv1kA48PfnzqibiaoItvsyO0RKv7mcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们来继续关注大模型相关的技术进展，来看看两个有趣的工作，一个是关于大模型用于股票金融分析，其中用到了RAG。另一个是大模型用于图表理解，最近在做相关的工作，所以也一并整理出来，供大家一起参考并思考。</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441975&amp;idx=3&amp;sn=01963d35fa1993ca2733735c7b2d96ab&amp;chksm=bf2b9ad99df79d763fac828ec3f3d8a29c2f9b4921e499ffa32eb91652a5660514a5731577d1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 17 Apr 2024 06:41:07 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[零一万物招声音克隆实习生，可远程实习]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJEGq1KAhZwM0pQPwIFp0EY44uiaOm3MMT7Ka3lTcGcCqgAH6I39IicUJub7Rdyf6u4EjN0rSZqkv4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>零一万物招声音克隆实习生，可远程实习（北京）职位名称：声音克隆算法实习生职位描述：1.负责研究和开发声音克隆技术，实现高质量的声音模仿和再现，并发表高水平论文。2.对声音信号进行分析和处理，提取关键特</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441975&amp;idx=4&amp;sn=c00768cf84d5c43a6aae3149e519b319&amp;chksm=bf13eb66be98551a9fbb4e63c81dbd1697309f28416a67f8b675c07f7d34c2d246da0e963080&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 17 Apr 2024 06:41:07 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RAG效果评估经验]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPwiaQ0KTpqEOdMemgpwKyY6MoHDmlZLTNNibykr3ich0eedn1xLKRibr4sOWId2BVEMODnqhKSp0LaKmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>对一套算法方案进行客观全面的评估并不是一个容易的课题，加上大模型这种偏自由的模型，评估起来就难上加难，RAG在大模型的基础上增加了检索模块，此时又叠加上了更复杂的结构，如此以来，科学地评估和分析的难度</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441975&amp;idx=5&amp;sn=221bbfc1f79a192e47cc32f96c687cb4&amp;chksm=bff311486aba7d85ae43002a8ed782bf271b42ee94dec0bba1bfd3d001d35afbbb331777f445&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 17 Apr 2024 06:41:07 +0000</pubdate>
+      
+
     </item>
     <item>
       
