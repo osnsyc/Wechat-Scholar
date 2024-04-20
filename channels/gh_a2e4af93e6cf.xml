@@ -74,53 +74,181 @@
 
 
     <item>
-      <title><![CDATA[《大型语言模型中基于检索的文本生成》综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421OxAUXaxzb8giaEO13Y2Dqxb27sgS0K2yEDt4LQHzG38ibcAPjb1n46Azg/640?wxtype=jpeg&amp;wxfrom=0"/><p>检索增强型生成（Retrieval-Augmented Generation, RAG） 将检索方法与深度学习的进展结合起来，旨在解决大型语言模型（LLMs）的静态限制，通过动态整合最新的外部信息。这</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=1&amp;sn=4d9be86087e855db3ad3566d8d72fb3b&amp;chksm=fd91c89136c04f75ea8ccd876161ce4a41319e9bd43925919cdf3eae00dee1acce57494ce762&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[可解释生成人工智能 (GenXAI)：综述、概念化与研究议程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0wyficaIPSCzAUvQl1EYh2EcXJoCbdAic37lHlicicrjRluk8XoYRxlXQPia6P6iaojyUibicaXmH0R7JAJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>生成人工智能（GenAI）标志着人工智能从“识别”能力转变为能够为广泛任务“生成”解决方案的能力。随着生成的解决方案和应用变得日益复杂和多面，解释性（XAI）的新需求、目标和可能性也随之涌现。在本工作</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648393&amp;idx=1&amp;sn=961606fc37b3f3eb2defd7a48c362675&amp;chksm=fd9adad5709022b0492580fe8d4c60e698e4f6ac50032d7e49355fd16c7b2040b0116203a0d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【阿姆斯特丹博士论文】使用变分自编码器学习有用的表示，200页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421Ol5vx6Uib8SBHQibYYDtDY03r3sQLibhxFGiaJaTNnSILMOVkvDfhibVb78A/300?wxtype=jpeg&amp;wxfrom=0"/><p>Variational Autoencoders (VAEs) 是将概率论方法与深度学习方法结合的最著名框架之一。与许多传统的概率模型一样，VAE 通常追求两个相互关联的目标。第一个目标是近似数据的底</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=2&amp;sn=8bdd32641457e7d30f2e379fe454ab57&amp;chksm=fda1907f6ca71f9e57fe52aa3bd6f5051ac056013b4f38946301ca6365e046dbb156e136eb9e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【牛津大学博士论文】超参数化神经网络的泛化与表达性，221页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0wyficaIPSCzAUvQl1EYh2EoSVpzl8d1qNmj6EcKiaHCiciaW6If5Rkblfib63CsGadr0yPfQzhMdLrdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>现代神经网络的成功归因于两个基本属性：表达能力和泛化能力。前者指模型适应多种数据集的能力，后者使网络能够从训练样本中外推模式，并将其应用于以前未见过的数据。本论文解决了与这两个关键属性相关的一些挑战。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648393&amp;idx=2&amp;sn=2388ff809ab961bb382b3d53af28cec8&amp;chksm=fd6fa2f70a43957f34aa6ba808810114e51fd3103613c93398cb00fe5bc2d31e41c7155291de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《在兵棋推演的战斗模拟中扩展智能体》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421Oib6hVClXQKoBNhg3dpdLvytichgH9EDvNhiabMqALjPveNnYoBWnNRXzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>要在未来与技术先进的竞争对手的冲突中保持竞争力，就必须加快兵棋推演人工智能（AI）的研究与开发。更重要的是，利用机器学习进行智能作战行为开发将是有朝一日在这一领域实现超人性能的关键--提高在未来战争中</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=3&amp;sn=10a0480f82a61caf02149bff0f98fe98&amp;chksm=fd1ebaa90a82cb081fadc317389cd311f386819d2efc5646ccae598b0a310ba8d5dffff5491e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[2024人工智能发展白皮书--深圳人工智能协会（128页，附下载）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0wyficaIPSCzAUvQl1EYh2ECFJyJMowY3EzibScib3PXcKONYg3PX3QEpkjLZqHdd3HaibbW7vS9TbAQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>📚 深圳市人工智能行业协会发布的《2024人工智能发展白皮书》全面梳理了AI的发展历程和技术演进。🔍 白皮书详细介绍了AI在各行各业的应用案例，展示了AI技术如何推动社会进步。🌟 报告对AI领域的主要</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648393&amp;idx=3&amp;sn=e497efe8160423f66947d265d306605b&amp;chksm=fdb78f63e314e7adbef51c0dbbd77f8cd6086e5e829f95b054e156611a44bdf14692d6f5e8e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】数字孪生手册，923页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421OTSE7QNXxtDrLjsran8yh4ics7tjibm7TDg4KEHFNKLKYQbu9vjHicOzbA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在过去的二十年中，数字孪生（DTs）已成为工业生产和日常生活未来发展的智能代表。本综合手册包括超过50章节，由100多位贡献者撰写，解释了DTs的概念、架构、设计规范和应用场景。作为一个过程、产品或服</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=4&amp;sn=a800e3f8bd9e0363e5752479d8400c58&amp;chksm=fd57b5b8391ec93fb21138097e69ae8d0711fd9ca8b23f7230d7cee01c3741d07057cf2487a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《美国海军：未来 25 年的 25 项技术（2023-2048 年）》32页报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0wyficaIPSCzAUvQl1EYh2EaVUqMRzhibyb3YhCUZvFQ6jr9ncpJNTvYt1mHmicXKo8bVctdqTM7UbA/300?wxtype=jpeg&amp;wxfrom=0"/><p>美国海军研究实验室（NRL）成立于 1923 年 7 月 2 日。从那时起，它与政府、大学和工业界的合作伙伴一起，帮助建立了地球上最强大的海军战斗力量。海军优势对于威慑和海洋自由至关重要。当被要求进入</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648393&amp;idx=4&amp;sn=7928c07d30ac71a1c621b9a60f5264da&amp;chksm=fd28b0e441fde60b6b1f20ac0eea9c10e2800cfaf6917d672fa39948abb5ee0421369490bef3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【CVPR2024】探索多模态大型语言模型中视觉提示的可转移性]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421OoKStOocBlwTEDSS8uy1JnM7UicLLAH9aia95XTLr4qxPJ6CiacwjkicI5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>尽管多模态大型语言模型（MLLMs）展示了有希望的多功能能力，它们在下游任务上的表现仍然不如专门的模型，这使得调整它们以增强其实用性变得必要。然而，微调方法需要对每个模型进行独立训练，导致巨大的计算和</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=5&amp;sn=4b08ac77f523935dee27dc09e58c817b&amp;chksm=fd31f97a9ebd6886fb01a34b891ec066718422a6bee3275ebe22b0a25e771cc955beccb8bc1d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【CVPR2024】PHYSCENE：为体现智能合成的可交互三维场景]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0wyficaIPSCzAUvQl1EYh2EcPffMtbECglmJgDcPIzMbyFAV65YfV4DtplhHNCF5bn2EUYjH3TH0A/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着体现人工智能（EAI）研究的最新发展，对高质量、大规模互动场景生成的需求日益增长。尽管以前的场景合成方法优先考虑生成场景的自然性和真实感，但场景的物理合理性和互动性大多未被探索。为了解决这一差距，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648393&amp;idx=5&amp;sn=56d78df24947a643816bbf1ce7043a8d&amp;chksm=fd8790838586ded1f26e0afc638ac077d65924fae92be2b1ed3bda9d4be2ffdfc6a5deb636bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[创新发展智能化指挥控制的思考]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421Oicicq3nPyp5ib1EibngfCNoaqSiaOo106LAibCvdSrib1wpTH19UY8ficmSOicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着科学技术的发展，人工智能对军事作战的影响越来越明显，通过人工智能取得指挥控制优势已成为各国
-军队追求的目标之一。论文从创新智能化作战控制发展理念、构建人机融合指挥控制体系、探索智能指挥对抗手段入手</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=6&amp;sn=2f3099255da47feac868f744330130ee&amp;chksm=fd150ed977313988dbe602a561bfc0ee790a6b7711087200deeef8ab237536965fcdd1291306&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[中国人工智能产业研究报告（VI）：山高泽长，AI鼎新自显于时，72页ppt]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0wyficaIPSCzAUvQl1EYh2EUianJF7AeD4mqypia9yZpnVFVz1KJAaYMKpXhUsRbS7gRukIcDu29w5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>2023年人工智能产业活跃动态　　人工智能产业进入高速发展期，创造多个技术、市场、监管里程碑　　在人工智能发展历程中，2023年必将被载入史册。相比前代AI具备高可用性、高拟人化的预训练大模型跨越技术</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648393&amp;idx=6&amp;sn=d7d247e280be0ab90da2284c774c0e0f&amp;chksm=fd77464b08e0bcd520451f901d9615d9a3f8435b761793a3c89ce11e80385eba96b0ef1d8401&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[边缘AI行业深度：边缘AI硬件，引领硬件创新时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421OygRxye5xNENBvPtQZVqpGbGXVD8tTE2Qvxf5PkZZ6y2D1h6PCqdPUw/300?wxtype=jpeg&amp;wxfrom=0"/><p>边缘AI是云端算力的有效补充，也是AI应用落地的必要工具，长期成长空间巨大，当前已处于爆发前期。伴随AI应用范围扩大，整体算力需求日益增长，同时对于算力及时性、安全性等个性化需求凸显，边缘端算力增长已</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=7&amp;sn=75da3ed5a6a812f2fa782c311047be7a&amp;chksm=fd3d57d1d5ad8710ce13190a766d71e9463cfa5e7d4a99fc6ade92ab5520fb0387e6b802de7e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[重磅！《大语言模型》新书出炉，人大出版，391页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0kPr4rESgMrMgBicjspUFTBHcR1530LYSOBMW0hIs9nh3vjnOOQ61y24GPZBGEJExh29vuVmrbhzg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在2023年3月，我们发表了大语言模型综述文章《A Survey of Large Language Models》。这篇综述文章已经更新到第13个版本，包含了83页的正文内容，并收录了900余篇参考</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648393&amp;idx=7&amp;sn=68aff986e0da8023ca758ddb916bfb55&amp;chksm=fda10cc624f047872003af13a924220d384944d60fc0aff416143f7d37f68e43cccab1d6c23c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=8&amp;sn=f6a1c0b3a5295500c1653fecad7d01c8&amp;chksm=fd00a5a6eb4f11bd8c2307674ad8aa4eadea78e63c6e361e6127a6d47d0e4841d6d313306893&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648393&amp;idx=8&amp;sn=527ab650499f03ae6c416ddd49f94d9c&amp;chksm=fd03211b83a78c0b0762bd3090fc0726be72d7f8723525a3e6252a031c45047263bae4066eb6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《大型语言模型中基于检索的文本生成》综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421OxAUXaxzb8giaEO13Y2Dqxb27sgS0K2yEDt4LQHzG38ibcAPjb1n46Azg/640?wxtype=jpeg&amp;wxfrom=0"/><p>检索增强型生成（Retrieval-Augmented Generation, RAG） 将检索方法与深度学习的进展结合起来，旨在解决大型语言模型（LLMs）的静态限制，通过动态整合最新的外部信息。这</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=1&amp;sn=4d9be86087e855db3ad3566d8d72fb3b&amp;chksm=fd91c89136c04f75ea8ccd876161ce4a41319e9bd43925919cdf3eae00dee1acce57494ce762&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【阿姆斯特丹博士论文】使用变分自编码器学习有用的表示，200页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421Ol5vx6Uib8SBHQibYYDtDY03r3sQLibhxFGiaJaTNnSILMOVkvDfhibVb78A/300?wxtype=jpeg&amp;wxfrom=0"/><p>Variational Autoencoders (VAEs) 是将概率论方法与深度学习方法结合的最著名框架之一。与许多传统的概率模型一样，VAE 通常追求两个相互关联的目标。第一个目标是近似数据的底</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=2&amp;sn=8bdd32641457e7d30f2e379fe454ab57&amp;chksm=fda1907f6ca71f9e57fe52aa3bd6f5051ac056013b4f38946301ca6365e046dbb156e136eb9e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《在兵棋推演的战斗模拟中扩展智能体》]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421Oib6hVClXQKoBNhg3dpdLvytichgH9EDvNhiabMqALjPveNnYoBWnNRXzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>要在未来与技术先进的竞争对手的冲突中保持竞争力，就必须加快兵棋推演人工智能（AI）的研究与开发。更重要的是，利用机器学习进行智能作战行为开发将是有朝一日在这一领域实现超人性能的关键--提高在未来战争中</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=3&amp;sn=10a0480f82a61caf02149bff0f98fe98&amp;chksm=fd1ebaa90a82cb081fadc317389cd311f386819d2efc5646ccae598b0a310ba8d5dffff5491e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】数字孪生手册，923页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421OTSE7QNXxtDrLjsran8yh4ics7tjibm7TDg4KEHFNKLKYQbu9vjHicOzbA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在过去的二十年中，数字孪生（DTs）已成为工业生产和日常生活未来发展的智能代表。本综合手册包括超过50章节，由100多位贡献者撰写，解释了DTs的概念、架构、设计规范和应用场景。作为一个过程、产品或服</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=4&amp;sn=a800e3f8bd9e0363e5752479d8400c58&amp;chksm=fd57b5b8391ec93fb21138097e69ae8d0711fd9ca8b23f7230d7cee01c3741d07057cf2487a1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【CVPR2024】探索多模态大型语言模型中视觉提示的可转移性]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421OoKStOocBlwTEDSS8uy1JnM7UicLLAH9aia95XTLr4qxPJ6CiacwjkicI5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>尽管多模态大型语言模型（MLLMs）展示了有希望的多功能能力，它们在下游任务上的表现仍然不如专门的模型，这使得调整它们以增强其实用性变得必要。然而，微调方法需要对每个模型进行独立训练，导致巨大的计算和</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=5&amp;sn=4b08ac77f523935dee27dc09e58c817b&amp;chksm=fd31f97a9ebd6886fb01a34b891ec066718422a6bee3275ebe22b0a25e771cc955beccb8bc1d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[创新发展智能化指挥控制的思考]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421Oicicq3nPyp5ib1EibngfCNoaqSiaOo106LAibCvdSrib1wpTH19UY8ficmSOicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着科学技术的发展，人工智能对军事作战的影响越来越明显，通过人工智能取得指挥控制优势已成为各国
+军队追求的目标之一。论文从创新智能化作战控制发展理念、构建人机融合指挥控制体系、探索智能指挥对抗手段入手</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=6&amp;sn=2f3099255da47feac868f744330130ee&amp;chksm=fd150ed977313988dbe602a561bfc0ee790a6b7711087200deeef8ab237536965fcdd1291306&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[边缘AI行业深度：边缘AI硬件，引领硬件创新时代]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RNyNNFm12jrwPPpkk421OygRxye5xNENBvPtQZVqpGbGXVD8tTE2Qvxf5PkZZ6y2D1h6PCqdPUw/300?wxtype=jpeg&amp;wxfrom=0"/><p>边缘AI是云端算力的有效补充，也是AI应用落地的必要工具，长期成长空间巨大，当前已处于爆发前期。伴随AI应用范围扩大，整体算力需求日益增长，同时对于算力及时性、安全性等个性化需求凸显，边缘端算力增长已</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=7&amp;sn=75da3ed5a6a812f2fa782c311047be7a&amp;chksm=fd3d57d1d5ad8710ce13190a766d71e9463cfa5e7d4a99fc6ade92ab5520fb0387e6b802de7e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648338&amp;idx=8&amp;sn=f6a1c0b3a5295500c1653fecad7d01c8&amp;chksm=fd00a5a6eb4f11bd8c2307674ad8aa4eadea78e63c6e361e6127a6d47d0e4841d6d313306893&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 19 Apr 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
