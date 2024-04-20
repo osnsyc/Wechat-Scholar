@@ -53,34 +53,114 @@
 
 
     <item>
+      <title><![CDATA[OS-Copilot：通用计算机智能体的自我进化之旅]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKuU4pEgMq2TUDB0OogETcMrMQ8RPH3cMjIddfq5ZHcVgNexNwxS5R4SeY7iaHATPdGR7so1pPbzvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：https://arxiv.org/pdf/2402.07456.pdf项目主页：https://os-copilot.github.io/GitHub：https://github.com/O</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=1&amp;sn=9347061043202e594343ce779ab1b0c4&amp;chksm=bfa5b2b6b267f47577da0a8f316c9d76d4323760ac83f0f4ba7650cc0401958de60ee385b550&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从啥也不会到Cuda GEMM优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOa6nCcwjgzpqdtwDKcicWm2jYRRIKBA67Q3jO3GLic0EeKw59CcuAu3RuPibrG9nUQwYrFwoGotdI1w/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，这周本来是想写vllm的blockmanager的，结果在整理笔记时，看见之前入门cuda时画的一些手稿，一时手痒将它们整理成这篇文章。除了图解外，所有代码都配上了非常详细的注释，希望对于cu</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=2&amp;sn=28388a6bdf6010bdaf85b13d6db2bd95&amp;chksm=bffcb1878012f5df742937158fe5173cd87feed3ba7cbaaceb3184e8db93c4c87bd7226abe16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[浅谈Llama3、大模型开源与闭源以及合成数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKuU4pEgMq2TUDB0OogETcMgicdw2ByX7PNpTBp1gxIHVtNRKhvN28JX5riaKhyzicpLf5HwM7YjK0jA/300?wxtype=jpeg&amp;wxfrom=0"/><p>整理：NLP工作站今天凌晨MetaAI发布Llama3，不少大佬纷纷发表看法，在这里分享一篇@张俊林大佬的想法。知乎: https://www.zhihu.com/question/653373334</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=3&amp;sn=6ba0b18bc658fc968d943a0006677c12&amp;chksm=bf9c60c82602de540a2f7ef43400faba882a5134ae819a87dd1df96192cd2e11698c49646d66&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型参数量都是7B，13B和65B等背后的原因是什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aaN2xdFqa4G8AuF94LePm6obnfV5lq4gz2LnfxDxibt81MM3amKQhusbsKyNwv0totwcMU0lQrUwnvSmwlvpffg/300?wxtype=jpeg&amp;wxfrom=0"/><p>不知道大家有没有注意到现在大模型百花齐放，但是模型参数大小却非常一致，基本都是7B，13B，65B等。那么，为什么被设计成这么大呢？网络上有很多解释，笔者结合自己的理解，分享其中可能的原因。最直接的就</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=4&amp;sn=d08494e85343e7c96e4a2898b0c62a8d&amp;chksm=bf3311f534ed81602d108e46f2a0181b76635520fe02b816e22723c18960a16e6860d9861b05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[考古RAG-20年RAG概念提出的论文]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPyDlJN7J3JPfKMVXM0fckbibicyeBibcFaFYicpYjQvjgF7hFJB5MkT5joiaHWkxFTjNNm6MdLhKo7csNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>上一期是写了最近RAG文章的小结（心法利器[111] | 近期RAG技术总结和串讲（4w字RAG文章纪念）），里面提到RAG比较早的一篇论文，可见RAG这个概念并非大模型之后才有的，早在2020年就已</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=5&amp;sn=b6f079ecbb3cb70dbfbc1b067616e0a4&amp;chksm=bf3cb0a7d6e6e41f66874f0fb06d3850179c371edcf35bde6afc092284effbe024404efd4697&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[LLama3重磅开源，上车！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKuU4pEgMq2TUDB0OogETcMVFserT3QFXALlzc0GgqAL5kBYbmbic9eibIXriaI5SLeGicF5mXyYicWJcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Llama3 今日发布，提供了8B和70B参数的预训练和指令微调语言模型，而且这些模型很快将在AWS、Google Cloud、Microsoft Azure等主流平台上可用，得到了AMD、Intel</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442014&amp;idx=1&amp;sn=dee5f54024d77528978d76c5e19dc144&amp;chksm=bf113398915cb9bce3cafd471bc24f4098f47d9f7d824d5f8e963240793fab49b2aaa232627c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Apr 2024 03:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[迄今为止最强大的开源 LLM，15 万亿 Token 预训练的 LLaMA3 强势来袭]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/J0mLianhFicBFKF5WgMRG4iaToCBQOPpdAmcscic40fZZezhkNMnJq93M0Kj3jibW9AjInYhrVKov5aMyicFxs5y9vTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚 Meta LLaMA3 强势发布，迄今为止功能最强大的公开可用的 LLM。此版本是在 15 万亿个 Token 上预训练的语言模型，具有 8B 和 70B 两种参数规模，可以支持广泛的用户场景，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442014&amp;idx=2&amp;sn=0db3bd3ab350228d0afaffa83e620d8c&amp;chksm=bf4d52e535fcb7a333abf5309b1b373555ec5f3a4434b6fc0c1e88e9b6e2f9e1a9d4d70a96bf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Apr 2024 03:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型：训练时GPU显存不足怎么办]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HAFUHkn3vxsxzia9YJ5suxelcyZtb0UDC4Gd7ZXHxzibVHlNc4QeVofJqS9oQ51ncvfzR9pVRguAOedPjz7PlnzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言大模型时代对显存的要求越来越高，之前在BERT刚诞生时候写过一篇：GPU 显存不足怎么办？，新的这篇文章主要是重构之前的文章，来聊聊大模型时代显存不足时怎么办，没有看过的朋友直接看这篇即可。 训练</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442014&amp;idx=3&amp;sn=f568e810ce5a6862dc9140ae2a9130bf&amp;chksm=bfd4b0c9782df4839cc0a42b257e2e4d788fcc74c83d686317418df77347e447e29480e4f90c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Apr 2024 03:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【社招】NewsBreak北京招聘：多模态内容理解算法工程师（​北京）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKuU4pEgMq2TUDB0OogETcMtsXwbFXeKsJ6PZgEsPR7OvUwoZIvaDpyRLHOic4UVdrcic9JQGj9kUog/300?wxtype=jpeg&amp;wxfrom=0"/><p>【社招】NewsBreak北京招聘：多模态内容理解算法工程师（北京）1、NewsBreak是北美市场Top1新闻信息流APP，2019年开始持续盈利，北京团队负责产品研发，目前DAU千万级别，产品规模</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442014&amp;idx=4&amp;sn=0c3935c846bcd52bd1579bd71131a368&amp;chksm=bf83de3a12b4fb26544ca08663930f505aa4fdf5abebeca932b07c1b62eb6b01bb8aa9207356&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Apr 2024 03:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[近期RAG技术总结和串讲（4w字RAG文章纪念）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPxANVIITnSE6nB4gskBl3XicmVWcSM16bFESbNEHvt8wibmZgA7vptcRXoU3xtWCbUmgyLd6iaS04JwQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近写的RAG内容已经挺多了，然而内容逐渐变得零散，我今天给大家总结一下RAG的有关内容，同时给大家把有关内容串起来。当然，串起来的更多是概述和摘记，让大家对RAG的基础有更整体的了解，详情大家可以根</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442014&amp;idx=5&amp;sn=83541e9d48168d3e6f2999db69ae766a&amp;chksm=bf9577969b07dcd7ef0917cd2eacb848cf0a458e0856bcc5791899e6190f1efb9ab6127f537e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Apr 2024 03:07:42 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -479,86 +559,6 @@
       
 
       <pubdate>Sun, 14 Apr 2024 12:45:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[8.3K Stars!《多模态大语言模型综述》重大升级]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI6rAeaB3nVaBrUUOuHhUqH6SHFtT0rrgg87hP9HAGMjJeMeq3W3rd6trEl0zs8IvYOmhXYcR0OkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年 6 月底，我们在 arXiv 上发布了业内首篇多模态大语言模型领域的综述《A Survey on Multimodal Large Language Models》，系统性梳理了多模态大语言模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=1&amp;sn=b4ae09bd943c37a36e6a190f8dd0b563&amp;chksm=bf35d570dc06e79f4d11bef011c79a07d5c9391e2986ace41926584745f08779f5974276952a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[弱智吧祛魅，与强Baseline的对比实验，差距明显]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/JrHT8u594NH1khSusGDJ1XBRFkoggbfeELow3N2N5nFV1EVb1NDUvs5IBIKqbCyItFQLdAcd65gwtbamloiakpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文主要分享我们对「弱智吧模型」与「Yi-6B-Chat」的对比实验，以认清弱智吧模型与强Baseline之间的差距，对弱智吧数据进行祛魅。实验结果与我们的猜想一致：在GPT4评测与人工评测中，Yi-</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=2&amp;sn=176e9a5d3d9526aded1d9e4fa7a5572d&amp;chksm=bfe27b3f553f99ffffcf66fedd015502a78f1f33acb6fc5568ff63034ff0f105ab8d897d900d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型计算加速系列：vLLM源码解析2，调度器策略(Scheduler)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNVb9SV7mjXupu7ibfAtyzaaDgHqhGJpsgQ7QnOH3Ozb5vxtrBQqYXXfb3EUmyDtydIVzf0mctfsSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，vLLM源码解读第二期更新了，本期我们一起来解读vLLM的调度器策略。实话说，这真得是我写过最难的源码解读了。由于vLLM代码本身的复杂性，逻辑上的嵌套性，使得我在读源码时，先接收到的是碎片化</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=3&amp;sn=f6b335953153a1e5fbb401f87989863e&amp;chksm=bfc4f07e63609383e3f836a216ae0bc64cc9a8aceffcd757987b52bdfeb0fd045c75423faa71&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何快速提高大模型的向量表征效果？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mXOFtJgI4mCgCfFHCkkYsDaicBadRrJicQamjUtriajEe3pOXcIYmvIQYg0aGvMxNPFPjjQ9cxibnLJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>RAG已经成为了大模型落地的重要场景，那么如何retrieval到正确的证据片段变的十分重要。目前一般采用采用向量匹配的方式来增加语义召回的结果。在METB榜单上，英文向量表征已被大模型（生成模型）占</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=4&amp;sn=85bc0700203abf24fabb41b8d57b2550&amp;chksm=bf741018279b67f9aadb838cfdf63e53d200a99ff54fafda4216a3a13b0e5f2dfbde4554239c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[用于显著提高检索速度和降低成本的二进制和标量嵌入量化]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2q9qggKEY3rrWqTUXSqGUAKShGUAicQ3qREYcKTVrr4HibYYds1L00myWUia7ejevR2ghyZCSffRDWsw/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们引入了嵌入量化的概念，并展示了它们对检索速度、内存使用、磁盘空间和成本的影响。我们将讨论理论上和实践中如何对嵌入进行量化，然后介绍一个 演示，展示了 4100 万维基百科文本的真实检索场景。演示地</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441877&amp;idx=5&amp;sn=697adc2e2d91642227d585139c353130&amp;chksm=bf8cc7be0d1da255b72e033a2310f04ffed2f62807a300b74db095b3f75012b57287625828f0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 12 Apr 2024 11:28:22 +0000</pubdate>
       
 
     </item>
