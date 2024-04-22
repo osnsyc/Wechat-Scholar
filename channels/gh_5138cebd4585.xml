@@ -45,29 +45,97 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[总结！大模型微调（Fine-Tuning）的常见方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnrwXqdicCBVkDUPKcxC6fqrGdSaiaictblTT28PfdSlrhkporJeYvsGSy5mdy6nUo5BVj4VftBHf7HA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年间就有了大幅度的技术迭代更新，从LoRA、QLoRA、AdaLoRa、ZeroQuant、Flash Attention、KTO、PPO、DPO、蒸馏技术到模型增量学习</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247662442&amp;idx=1&amp;sn=f9619169cf59fb3d19a4e92cd79fc0c8&amp;chksm=975fdc43c762bb7a0743fe5dee53ecedbf2427f29c353cdb23cab60547bbfc91cc6253dae7f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 05:10:59 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Meta提出全新文档级嵌入框架，利用LLM来增强信息检索能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnrwXqdicCBVkDUPKcxC6fqr7r19YsYtgQKkjVtfViahSiaOicEQfiaXG7DtH21GsKR9uNCoQwRxlWmJdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，基于嵌入式检索（embedding-based search）或密集检索（dense retrieval）相比传统的稀疏检索（sparse retrieval）或基于词袋（bag of wor</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247662442&amp;idx=2&amp;sn=ebac37c3f30a4520087c1ef3e901432c&amp;chksm=9790bf8d9c0558d73fbd0722b0cca32d842fbb68d337a88f8cc32ce53adbef4bac0d97b48f9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 05:10:59 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[CVPR 2024 | 知识蒸馏中的Logit标准化：辅助logit-based KD算法稳定涨点]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnrwXqdicCBVkDUPKcxC6fqrdicKy7jD0AeKJQsMxfUxWZelibLsBtT74ic3pVZdo9YJ08rQjzLKqGMNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 孙上荃单位 | 中科院信工所研究方向 | 知识蒸馏太长不看的一句话总结：传统知识蒸馏默认学生/教师网络的温度是全局一致的，这种设置迫使学生模仿教师的 logit 的具体值，而非其关系，论文</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247662442&amp;idx=3&amp;sn=430f99eceb374913ff31d75ad998836b&amp;chksm=977563126e955015bca4abf68dcdd467224b5c05a5554d0ea66b6692ae3544facf20be401bfc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 05:10:59 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[奖金丰厚！KDD Cup 2024 检索增强生成CRAG挑战赛正式启动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnrwXqdicCBVkDUPKcxC6fqrXZWib3cpf7DkuxA8MEpXBsW0sz2fDadjq1LLnhIbuC8zG1GZ4bKcfKw/300?wxtype=jpeg&amp;wxfrom=0"/><p>简介想象一下，你希望使用一个AI助手来获取你最喜欢的运动队的最新消息，但是你得到的是去年的比赛结果。或者当你询问一个你非常喜欢的小众电影时，却得不到有意义的答案。这些都是大语言模型生成“幻觉”的经典例</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247662442&amp;idx=4&amp;sn=360518deedff1a82a63fa04fee92c5ec&amp;chksm=978cff7b758717ef8701dffacfd78115df6bfed22bb0772c566c732171fafda182c448cdd055&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 05:10:59 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[五光十色的多模态大模型：浅探视觉-语言大模型的关键模块设计]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmp3g8gdyMKgaGmM3SzSiczBss5GVfxvk7sL7nx16QKianoP4WOQff62qicDhJ0kBX5fdicAbzQSrtTAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 陈思硕单位 | 北京大学研究方向 | 自然语言处理引言多模态大模型的视觉编码器用哪种预训练 ViT？两阶段训练是否有必要？ViT 的参数应该冻结还是打开？</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247662277&amp;idx=1&amp;sn=a8439720aa83b4779ee1eacb81d4e2fc&amp;chksm=979e2cf0b3d4cb9127ce69233993d1115e205b6f9129788e9146e7088bbc2183dac3154b76a1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 13:45:04 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[文末送书 | 大模型开发的及时雨！《LangChain实战》全新教程来袭]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmp3g8gdyMKgaGmM3SzSiczBc2TCYZep6zeCqFEr9u2IMZKn9ickDTa9KF5v6JoVibrOjBsF3WI4J7aQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>LangChain 作为一个开源的大语言模型应用框架，自诞生之日起就备受瞩目。然而，它的发展之路却走过了不少曲折。一开始，LangChain 遭受了不少质疑和非议。有人认为它只适合入门学习，代码质量和</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247662277&amp;idx=2&amp;sn=db68b0eec2f282ec0705d154a967f851&amp;chksm=97d51b52d5ccc3e04df003eef802f034c9784c00b5f230a5bc79fe717724fa2a20a00883a619&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 13:45:04 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[CVPR 2024 | 通用视觉新突破！UC伯克利提出首个无自然语言的纯视觉大模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmp3g8gdyMKgaGmM3SzSiczBcLJicGTEHy4smD7LpdEzhoNFUiaGic1R72GGzABRoYGLFfYVe57x9tzpA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 机器之心编辑部来源 | 机器之心仅靠视觉（像素）模型能走多远？UC 伯克利、约翰霍普金斯大学的新论文探讨了这一问题，并展示了大型视觉模型（LVM）在多种 CV 任务上的应用潜力。最近一段时</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247662277&amp;idx=3&amp;sn=98d28984dec558b76c0f1ed58efbece3&amp;chksm=978786b90322856ce069ae29952dc3e72475ef49ba4288dc65885397ca5b8749325af480aafd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 13:45:04 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[杭州内推 |​ VIVO AI研究院招聘AI端智能算法实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmp3g8gdyMKgaGmM3SzSiczBNRIkdFxyuDUUINFqFZxjjtrVOFdGqdhyxklrYG4kAkgDKz2nqRh66A/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！VIVOVIVO AI研究院致力于研发业界领先的人工智能技术，通过AI技术创新</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247662277&amp;idx=4&amp;sn=32182ffff66bc6a4b133af62923db99a&amp;chksm=972cb95f67af7c01ff2d9ad1ffbc97d55f9f5c54756b61c722b6e162b6bade727d6bf0acdfa2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 13:45:04 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -386,134 +454,6 @@
       
 
       <pubdate>Tue, 16 Apr 2024 10:09:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文全面盘点算法工程师大模型微调技能图谱]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglT4nJpxokl10HbKSDg5icdRVcPE0Pr6XpyOJsbeymvYm76Sur3yiaAfvhlWpVTibXVSCkr7QfEKib0ibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年间就有了大幅度的技术迭代更新，从LoRA、QLoRA、AdaLoRa、ZeroQuant、Flash Attention、KTO、PPO、DPO、蒸馏技术到模型增量学习</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247661170&amp;idx=1&amp;sn=08e775f598ced8566c728af3671f49e7&amp;chksm=97df8cefad8f0531cb8e9f89e99df5955999560e37249c1d3297eb8a4033175522a60effb931&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Apr 2024 05:01:26 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[​CVPR 2024 | PromptSG：开启语言引导行人检索新纪元，实现精准语义捕捉]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglT4nJpxokl10HbKSDg5icdRM8sHVbzkVJoPTvhw547lOr48MTNGnsuia3QQRzAIGWxS2l8icd2mOhhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 吴大衍单位 | 中国科学院信息工程研究所研究方向 | 多媒体大数据分析借助对语义信息的深度挖掘，行人重识别技术取得了令人瞩目的进展。这些方法专注于提取图像</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247661170&amp;idx=2&amp;sn=293e43d0791b8792803c73bd86beab24&amp;chksm=975f99f656297b91619f1d3fd1315b92fccae0880e90f68c518f5944d9a08a0418610dd6d105&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Apr 2024 05:01:26 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mamba入局遥感！RS-Mamba：首次使用SSM进行大遥感图像的语义分割与变化检测]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglT4nJpxokl10HbKSDg5icdRAUreuSFeMFdptW9kuY2ZI2nXibIQhMruE7VNJicN9B4icqOayvljwQ8MA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 赵思杰单位 | 南京大学硕士生研究方向 | 语义分割Mamba 在大语言模型大放异彩，以其线性复杂度和媲美 transformer 的表现，被认为是 transformer 的有力替代。近</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247661170&amp;idx=3&amp;sn=edc8ada83511a65585b83730cbbd1ab5&amp;chksm=97390d0ec54e8a5c14f635bc1931121ce0cf08094f45e129897f11cbc8aa1c69a347920b0986&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Apr 2024 05:01:26 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[博士申请 | 香港理工大学林婉瑜老师招收可信AI/生成式AI方向全奖博士/博后]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglT4nJpxokl10HbKSDg5icdRuVFia6uakz8QjBzkIofoYaNQu3iakZHxONSozAatWzTMsPHWDib2iaAtxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！香港理工大学香港理工大学 (The Hong Kong Polytechnic</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247661170&amp;idx=4&amp;sn=872786b43f5d3bcb3266c69e9ac2b48b&amp;chksm=97ce2d8311474c6a5094e52d5efea140046254c922416ebf8d8a62338fde97d494281680e210&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Apr 2024 05:01:26 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[生成扩散模型漫谈：信噪比与大图生成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk61VnCKMknc13A1EZw3knjkbAdibicw6onuRyqqPMvZpKGlY9W2znL2cRiaoxF7ib0mS6P7jwQR8qIAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 苏剑林单位 | 科学空间研究方向 | NLP、神经网络盘点主流的图像扩散模型作品，我们会发现一个特点：当前多数做高分辨率图像生成（下面简称“大图生成”）的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247661129&amp;idx=1&amp;sn=8b8790dd627ada433a61c05a8d39928a&amp;chksm=97aa57258916c1ff8365bdba910de9f17db43acec4e4e5e1a43a2c9ab9af461da5fefebe9472&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 14:04:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Github揽获8.6K星！《多模态大语言模型综述》重大升级]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk61VnCKMknc13A1EZw3knjo0P9KKttmfNeVicVDHURbgdSXa0h6kODDCGtDrVBJ3z1WicIqvqwOBqg/300?wxtype=jpeg&amp;wxfrom=0"/><p>去年 6 月底，我们在 arXiv 上发布了业内首篇多模态大语言模型领域的综述《A Survey on Multimodal Large Language Models》，系统性梳理了多模态大语言模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247661129&amp;idx=2&amp;sn=f6052c4c795b0ab074f59961ed1eafb5&amp;chksm=978648f7c9147835e226de805529bb131783cb5ef6e8f97f0c093106632e0569cb3819b9c3c0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 14:04:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ICLR 2024 | 谁说大象不能起舞！重编程大模型实现跨模态交互的时序预测]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk61VnCKMknc13A1EZw3knjEUkWB7XOVqGl1SvzAJNjyRuq84TTjYFpdJPymlQDHvlwicWyqBVaYvg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 机器之心编辑部来源 | 机器之心最近，来自澳大利亚蒙纳士大学、蚂蚁集团、IBM 研究院等机构的研究人员探索了模型重编程 (model reprogramming) 在大语言模型 (LLMs</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247661129&amp;idx=3&amp;sn=66864dc87393154d4cd66cd562084c70&amp;chksm=975d33b6540e6ffe182ab7a6b7401b079832e5eade626dd9e6b204bf29f2bed856463baed855&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 14:04:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[博后招募 | 医疗大数据与医学智能实验室招聘博士后/青年教师/访问学生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk61VnCKMknc13A1EZw3knj0OTTRjeUNJX39GKxyB5Deib0xTnoIRE6iaPlLroKvDicZShWyatbpJWkQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！医疗大数据与医学智能实验室医疗大数据与医学智能实验室 (HDMI LAB) 由</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247661129&amp;idx=4&amp;sn=7b4487da4772632c7b424f993388bf0d&amp;chksm=971e02c97e783e6da3fd392087fd39e5848f77f1702fa7d9723b27db954c0dd5604e726072bd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 14:04:41 +0000</pubdate>
       
 
     </item>
