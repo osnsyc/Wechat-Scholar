@@ -37,28 +37,92 @@
 
 
     <item>
+      <title><![CDATA[总结！大模型微调（Tuning）的常见方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahHOxDbOnnPJMQmiak1BQqe4TXedTUBLNFr1QImyicyqVialYZ73YVCkTdo6x6Y1ylicp1wkyFL3RrKuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年间就有了大幅度的技术迭代更新，从LoRA、QLoRA、AdaLoRa、ZeroQuant、Flash Attention、KTO、PPO、DPO、蒸馏技术到模型增量学习</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527408&amp;idx=1&amp;sn=13fd3a3b021477be3ff8682789e5da96&amp;chksm=ea09c59b19d316e0157e6fe02b42ab4d889d170534b9a560742663b193b4387ee43add78950a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 02:02:31 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[张俊林：聊聊对LLAMA-3、大模型开源与闭源以及合成数据的看法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahHOxDbOnnPJMQmiak1BQqe4RxFia1aibZscsaia6tHbQCEdOrI3HcDhHzibb94IjckyfyLdYyVhm1UgOg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：张俊林，新浪微博新技术研发负责人声明：本文只做分享，版权归原作者，侵权私信删除！原文：https://www.zhihu.com/question/653373334/answer/347146</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527408&amp;idx=2&amp;sn=6136de81fe8a9be4984bda71e4a7d785&amp;chksm=ea695d159d9dc8fbd69f0ca139619f00268607348a9b705185fb90b439fb382a5693ee91b3a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 02:02:31 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Transformer本可以深谋远虑，但就是不做]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahHOxDbOnnPJMQmiak1BQqe4G0dc3UtA8K6icf60WGD5E5FWzjYrjRhf4Nh31J5t3WQnxycPaVElQ1Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部语言模型是否会规划未来 token？这篇论文给你答案。「别让 Yann LeCun 看见了。」Yann LeCun 表示太迟了，他已经看到了。今天要介绍的这篇 「LeCun </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527408&amp;idx=3&amp;sn=cd8405d237020575fe8902258a139bfc&amp;chksm=ead5fe8d885aa04c933daba458bff5bf34e81a6fe9ee9f97b2c6e540b81406cfdd3f8cf07de1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 02:02:31 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ICLR 2024 | 鸡生蛋蛋生鸡？再论生成数据能否帮助模型训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahHOxDbOnnPJMQmiak1BQqe4ETlQ4I6pzxa6enIWUh5AvRKJVGvft59OsB5iavkM08ayX0Ib5oPgDicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：机器之心 PaperWeekly本文从一个独特的视角解释了现有多模态大模型幻觉产生的原因。随着生成模型（如 ChatGPT、扩散模型）飞速发展，一方面，生成数据质量越来越高，到了以假乱真的程度；</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527408&amp;idx=4&amp;sn=08054e26e56d7df41ced70b4ffab94b5&amp;chksm=ea35a25538538c4da5f68f752bd57b0bbd8a6fa400d2230f8814334a5e190fac88066d53e3fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 02:02:31 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[前紧后松：清华读博前两年的焦虑与成长]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoUFFEOckpumwwcibwSZ2Kr9M2YxZ0GBomDTsSCuFl8VktUXSQkfF2ZxLLSZXIAoiclYQ5PkjD3nlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：丁司图从清华毕业入职腾讯没多久，我上个月作为今年新晋打工人的代表参加VALSE学生论坛，跟同学们分享了一些故事。司徒笔记这个专栏本来是用来聊学术的，不够轻松，似乎缺一些用来当作下饭伴侣或者如厕读</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527380&amp;idx=1&amp;sn=164454bbc95d2b50a5cd3c36c232b3e2&amp;chksm=ea9b57a9a2cf9c067fbdd8f7703616dfc87e56a3ef59957096c6cce8495998a52077c4d3aaf3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 18 Apr 2024 14:03:18 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[《跨语言大模型》最新综述]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoUFFEOckpumwwcibwSZ2KrGUaW0oM2BZTPRPyPicUGMQKoFQ3q3G1dfCQwBsjmh70JXibpz5LibjXzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型智能｜原创作者 | 小夏跨语言大模型（MLLMs）能够利用强大的大型语言模型处理和回应多种语言的查询，在多语言自然语言处理任务中取得了显著的成功。尽管取得了这些突破，但仍然缺乏一份全面的调查总结</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527380&amp;idx=2&amp;sn=63777e4ddef974937c66df8e22b8ec9d&amp;chksm=eabb2649e195970c88e2988d6b21f7e6abfc5e6541f43f374704e1608da75f17e2864e9dd860&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 18 Apr 2024 14:03:18 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Meta无限长文本大模型来了：参数仅7B，已开源]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoUFFEOckpumwwcibwSZ2Kr1VsQTveiaicB7BxPEr7eKO1Pkd4nkCt8GlczW5EQIlLnyB3Mgm7yODfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心谷歌之后，Meta 也来卷无限长上下文。Transformers 的二次复杂度和弱长度外推限制了它们扩展到长序列的能力，虽然存在线性注意力和状态空间模型等次二次解决方案，但从以往的经验来</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527380&amp;idx=3&amp;sn=34a4b45aece8f78f47b8694c16627c33&amp;chksm=ea8a5cf6d1c8f7f103d39e62c17be18ceb6c3c1fb8dccb748a475027f5e5da0ec6a4b6ddd56e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 18 Apr 2024 14:03:18 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[最强MOE开源：Mixtral 8x22B 发布！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoUFFEOckpumwwcibwSZ2Krr2x1LxeeTSM7MJiaSicraIhoh44Px1w8mRrZA4UpDTicNUrEnnjfngsHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：包包的算法笔记权重地址：https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1根据上传时间发现是一周之前，在Llama3正式放出来</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527380&amp;idx=4&amp;sn=b13c82d58d1e7b86e002a46a4a067897&amp;chksm=ea4c544b03204218c80a48a2fc0a7ae5f08f4df45311d6d67b461c2ef9ef9201bfda09f9c789&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 18 Apr 2024 14:03:18 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -249,54 +313,6 @@
       
 
       <pubdate>Mon, 15 Apr 2024 10:09:14 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[MOE vs MOT 让LLM更加有效]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajf3mibiauPpz0VfpyQNB8QejUjyvPrvicerFvcbJhWLqQ7LpAfyM6Uxf9009ibuZEGfibxhtjwa7PLrXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：北方的郎链接：https://zhuanlan.zhihu.com/p/691070810翻译自：https://www.superannotate.com/blog/mixture-of-ex</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527253&amp;idx=1&amp;sn=67ac3f80e022164ebc00ad14a7b39300&amp;chksm=ead7cc9f18491a4632891a5d38e5c1e7be8a5d27dddde617237dbedb319b05c1322a770e3a00&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 15:04:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[国内20家公司大模型岗位面试经验汇总]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajf3mibiauPpz0VfpyQNB8QejnxWu9jHgmee4Xw6DiaZvHe0MJctgJZE1oKicTqh0WhtOajkxP4DTyE7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：林夕，阿里巴巴集团高级算法工程师，专注多模态大模型研究。声明：本文只做分享，版权归原作者，侵权私信删除！原文：https://zhuanlan.zhihu.com/p/690801254编辑：青</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527253&amp;idx=2&amp;sn=73abf1bb10d41b4300629f74fa8624e9&amp;chksm=ea05c3e9eb480cec11979ee9334b419c67bc5d05d432a199e60516fa0980f79148d1217b215f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 15:04:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RAG系统中答案无关的片段对LLMs生成结果有何影响？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajf3mibiauPpz0VfpyQNB8Qejw5SRZicD2TPAubUbDiaDPMx7xbQFAAYcpSjR0do1gKa9McRu1glU7WFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面来自：NLP工作站RAG（检索增强生成）通过检索系统找到用户问题相关的信息片段，利用大模型综合生成一个答案，极大解决了大模型幻觉、信息更新不及时等问题，已经成为了大模型落地的重要手段。但在检索</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527253&amp;idx=3&amp;sn=0e8acc3643fd1880bcf63fba30b40966&amp;chksm=ea5978e4bd6313afd2946445b93adda87128333de166f634806aff3037697b6c2986d112f50c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 15:04:08 +0000</pubdate>
       
 
     </item>

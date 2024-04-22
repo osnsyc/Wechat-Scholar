@@ -52,35 +52,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[总结！大模型微调（Tuning）的常见方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLPouOjY3Pw6QbcLI6Fzj7icQnZ5rgt6pqNpuyS1pRZEYGVlardAANpW6Fg3iaIq2lX5PBNrhCabUBQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年间就有了大幅度的技术迭代更新，从LoRA、QLoRA、AdaLoRa、ZeroQuant、Flash Attention、KTO、PPO、DPO、蒸馏技术到模型增量学习</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442104&amp;idx=1&amp;sn=de4eb499a064256dc2b4e4a95e52b779&amp;chksm=bfaf20fd22326c0aa7033359e9ef62f66f142a6358d2e9f3ac1fb6e1d7a8e1f919762324bf33&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLaMA3初步解读：ScalingLaw颠覆之作，弱智吧挑战及格！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic02SrWsex3IWx5YHr8Ek0jb7kRqzEe00mPKf11mpGBbkLIg3Cf1NFdsG0tRJcX1Dkm0UOhw7lB3ng/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言4月19日，全球科技、社交巨头Meta在官网，正式发布了开源大模型——Llama-3。Meta 表示，Llama 3 是在两个定制的 24K GPU 集群上、基于超过 15T token 的数据上</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442104&amp;idx=2&amp;sn=f4e3ea9c00cc619e51c28ef120294e3d&amp;chksm=bfacfe6ca6bb198c2a046f8d4b284cbc0b62b3b70086441f14a7d51f31d149273450b2f87ed0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[分布式训练：DeepSpeed 与 Zero 数据并行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HAFUHkn3vxtrDU1tcLmm3RMHzLrFIkTHoviaHEm2z6pDC5g9262RvA89V8H6OiasiaBNYFVGqpPUosX2gWar5qfCA/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言随着大模型时代的到来，数据规模，计算量，模型参数等各方面都有巨大的增长，这给训练大模型带来了一些挑战：显存的挑战：当前常见的GPU 显存如 A100 是 80G 显存，而如 175B 的 GPT-</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442104&amp;idx=3&amp;sn=86905a31ee9e4982f2e7361f4a912123&amp;chksm=bf527f5086c6dd5f20071813878716866bdc8a4efb74e4b13f4147b0c10bcdaccde75b87f270&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Adaptive-RAG:根据难度自适应检索方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPwQwZMDRCQwSicjM2DVsibT96WeK6sn6NvMPqFEJYnRbkUulBtXGf8TIiapq2J5FEpoflPVNsJAEXCQQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近RAG的文章，我做了一个串讲，有兴趣可以传送过去了解下：心法利器[111] | 近期RAG技术总结和串讲（4w字RAG文章纪念）RAG的论文可谓是百花齐放，今天讲一篇有关自适应的RAG，这篇论文认</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442104&amp;idx=4&amp;sn=4a710f39eebdbf1c88166ad644bc2351&amp;chksm=bfdeceb11236e3fec07c0819ee6641befde4d093b58335cc2be481b237c6824c2bcebef5dde9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型算法题(4)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465ibxFAt7ZWLho7dNSxqpOibfDFviciardImM09QYAjGmtmiaxhY5nWcDZiaUQQjo1UlRscvXdJQjib38tBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本系列将持续整理一些LLM中关键的、细节的、值得关注的内容，持续更新~如有错漏，欢迎指正~1.为什么Transformer用layernorm而不是batchnorm首先，NLP数据中由于每条样本可能</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442104&amp;idx=5&amp;sn=56d73923438e1b01a5bef2a46561e459&amp;chksm=bf592c6289d9ff55ad01c0e64bf6a5d3ba79feb6c4b027356456dbabee08ce6107b9a270d617&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 22 Apr 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[安徽省委书记：对中国科大有求必应、不讲条件，我和省长随叫随到]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLPouOjY3Pw6QbcLI6Fzj7icicy1xRIGia0fksicicHA5rP2yZN3RAm9XVzEuvLzdCX0uyVVGyf2cKv8Kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>转自 | 机器学习算法那些事来源 | 第一时间、安徽日报3月6日下午，十四届全国人大二次会议安徽代表团举行开放团组会议，全国人大代表安徽省委书记韩俊接受采访。其表示，对中国科大有求必应、不讲条件，我和</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442094&amp;idx=1&amp;sn=72f798831f1be6289b71d503d2c55091&amp;chksm=bff6a2db565d777d0ef2f533b5b146e40a175465de9b5649b550b02aa038e4ec061a400d24af&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 12:31:30 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【文末赠书】大语言模型：基础与前沿]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLPouOjY3Pw6QbcLI6Fzj7icpsQsMicL7RjPudmXesSA9VbGia0uaicl6wcoZJGVa3EFcIpCAoCTHBoEw/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末赠书Part.1Devin真的会抢走你的饭碗吗？全球首个完全自主的 AI 软件工程师上线，它是来自 Cognition 这家初创公司的产品——Devin， 这个名字也随即引爆了科技圈。话说 Dev</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442094&amp;idx=2&amp;sn=899bfc005a320b4f77e5519b1e2edd4c&amp;chksm=bf31b808d0287a884eb81401a7babad1ebb88648e1eee0f99aaccb93f2ebc0a719b85567f57c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 12:31:30 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[从代码实现看normalization-到底做了什么]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467MBj30DaAfuJ11bcMns8ibD4Du0u9zNX8ibUroHicrM8v4d4ib8VNW0XQKmiaJUfspUaaUjWKvHbThkEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前在《transformer中normalization的二三事》从思路上梳理了关于常用的normalization的内容。发出之后收到了一些反馈，关于这些norm在实际使用中是怎么实现的，有一些疑</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442094&amp;idx=3&amp;sn=f912301d2e85815eeda81719172bd2ca&amp;chksm=bf3b78752efbf3cc68b910797121491ffb72503ba5a6e727da293a934598557a8bd51fe5fc7a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 12:31:30 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[一大堆Chinese Llama3正在袭来]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kAtCrqMZn1zObKFd9JrC3WdjqICuNcLh6GALUodzDoUUuUvCztoxXIWgQsAUYbR7icQP03Z5uAMBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面Llama3模型已经开源，可以就在这短短的两天之内，就出现了很多Chinese-Llama3 repo，开源社区也是相当的卷。再看到Llama3相关报告的时候，就预料到会有很多Chinese-</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442094&amp;idx=4&amp;sn=4675fd40d3d3d436ef2d50c8f570cb4a&amp;chksm=bfce8b4aef6e1b26ce8ac98ba856f5cc818750fbdac79c0f359101c0a7e714811a2621ebc9d8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 12:31:30 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Ask again, then fail--摇摆不定的大模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpuh274J78Db2k1JQlWnbuqRasAd3jsW8kT2cpS0IibaFM5FXlMOSryIJHupkzk4qwFvgLc32YAfHEw/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介2 问题定义3 Follow-up Questioning Mechansim4 实验5 结论参考文献1 简介    研究人员观测到传统大模型在面对用户进一步追问下，经常会生成跟之前不一致</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442094&amp;idx=5&amp;sn=e32fb554887b1c04b49d47a5ad062024&amp;chksm=bfe7a3cc3dc3914fac7c077d573dbb94405add0530a2a908691ef843c1377981ae2881fc1a39&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Apr 2024 12:31:30 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -559,86 +644,6 @@
       
 
       <pubdate>Mon, 15 Apr 2024 04:31:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[中国第一篇《Nature》论文]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKELneprsTxkM66zZnORTRnH0PTgC85FtyahAHRricr6dxlhcdPAqubqDzgFvGv5Oq1icNxxI0yNyCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>转自 | 深度学习初学者能够在CNS（Cell、Nature 和 Science）等国际顶尖学术期刊上发表论文，对于科研人员可以说是梦寐以求的，其实，早在140年前的清朝末期，中国人就在 Nature</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441898&amp;idx=1&amp;sn=3b7d72790a9e9d57c07bc3a5ea3d6446&amp;chksm=bfa97229e8779473bcaa9a79d696328c25e919af6ce20ff6c1c49430cdd10e241a6865dba7d7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 12:45:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【赠书】基于最新长期稳定版本 0.1，LangChain全新教程来袭！附600分钟详解视频]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKELneprsTxkM66zZnORTRnJ63baVPcj6Ycj4YiaL7cqWUvvbaALicAjNicouftN49gTn3Ob2gewlgMA/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书--LangChain 作为一个开源的大语言模型应用框架，自诞生之日起就备受瞩目。然而，它的发展之路却走过了不少曲折。一开始，LangChain 遭受了不少质疑和非议。有人认为它只适合入门</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441898&amp;idx=2&amp;sn=09979933c80a7fabcb8a33aece5decb2&amp;chksm=bf17390eac8d1c2c1af0305f1006ffcd4ba36f69c283bc5cd9cf448dccdb97a054a12a1c2422&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 12:45:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[万字综述：大语言模型多智能体(LLM  Multi-Agents)进展与挑战]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Eddk7AtcliaMzQrCNy8MqtzUFL394QTCumkZX3Tvs9BcPvlzXMocnGANicNz4vf2sfvh3CzD8z8b457mia44ibefag/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们整理分享来自新加坡国立大学的最新论文：基于大型语言模型的多智能体综述- 进展与挑战, Large Language Model based Multi-Agents: A Survey of Pr</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441898&amp;idx=3&amp;sn=f7f9c71a5bf40abf93e67cfe50ff3996&amp;chksm=bff6e23d8f682e04055a0b2bf03ca1acdfb127b80dfde792f2f9fe2abfb2633ab2546014b6ce&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 12:45:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Matryoshka Embedding Models: 可以自由截断embedding长度]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpuh274J78Db2k1JQlWnbuqRhD2VF0hmVsu7XBMOvcUgBZy0cBEKL0fhANK2FbhCF0jibLhRYyqNib3w/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介2 Matryoshka embedding models‍‍‍‍‍‍‍‍‍‍‍‍‍‍3 讨论‍‍‍‍‍参考文献‍‍‍1 简介    在今年一月份时OpenAI发布了新一代的embeddi</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441898&amp;idx=4&amp;sn=6f640cf9390806781954d17342aba428&amp;chksm=bf29faed4a4aa4ef188ebd22377af20bb9bf1c5d8f411159c199cfad6f8c485ce817c16e162c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 12:45:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[挑战GPT4v？马斯克xAI刚刚发布Grok 1.5v]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwud0j1UTyKMIRlJXLHea87Aia2epRV1e67eYRnia79NNtpiaEQjruGlibMSbr6x6w49PtW2MkCLvdgoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Grok-1.5V是xAI推出的首个多模态AI模型，不仅具有强大的文本处理能力，还能够处理各种视觉信息，包括文档、图表、截图和照片等。这使得Grok能够更全面地连接数字世界和物理世界。  Grok-1</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650441898&amp;idx=5&amp;sn=bb78889f77ed19357d87be4416051d64&amp;chksm=bf39dc2ede0d34117c040f13bc5df82ad64c645611d16d36db140b226530028b47895025df19&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 12:45:13 +0000</pubdate>
       
 
     </item>
