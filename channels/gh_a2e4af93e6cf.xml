@@ -74,52 +74,180 @@
 
 
     <item>
-      <title><![CDATA[Meta最新进展！大模型“超级外挂”：LLM RAG]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj5CorOibnO0jQuMN1PotYE4XLUKXdPT7t5jFMmKEVTEXB4Zg6nB9Vgf6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>LLM RAG（Retrieval-Augmented Generation）是一种自然语言处理领域的模型架构，特别适用于生成式任务。它结合了检索和生成两种方法，旨在提高生成式任务的性能。RAG模型在</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=1&amp;sn=115c08b2d03871c024851928e363c073&amp;chksm=fd3d2b024bc2c109efc29f955230a7e1c1070c61660dab9fb7686ed905ad6189f41c2bdc730f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[大型语言模型高效推理综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2x05LqYKIRDiaibDWib2WKEmakQ6jTv4icxV70kwSw4jcjTBjib4EARZpY0Oib6z4Fwp6QOnjic4UIsq0cQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）由于在各种任务中的卓越表现而受到广泛关注。然而，LLM推理的大量计算和内存需求给资源受限的部署场景带来了挑战。该领域的努力已经朝着开发旨在提高LLM推理效率的技术方向发展。本文</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648661&amp;idx=1&amp;sn=d7a5126086244eefdda402f77bb71972&amp;chksm=fd10cd9ac7ee68d251a39344d0de256771e8827e18706d3f6e475305582a2961ed30ad1763be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Sora之后，OpenAI Lilian Weng亲自撰文教你从头设计《视频生成扩散模型》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj592Ja8rUGWmDpBicFnvzeiaPMLF1paSuib1PoW4FClyicFe9Mia2J0DTPrBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>选自Lil’Log作者：Lilian Weng转载机器之心编辑：Panda过去几年来，扩散模型强大的图像合成能力已经得到充分证明。研究社区现在正在攻克一个更困难的任务：视频生成。近日，OpenAI 安</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=2&amp;sn=64ba62179e064a073dd71882ee09cb4c&amp;chksm=fdccfc73a864d5ef822c957eab80eba95501305b63908938c5636d70f30db71804a85206c3f0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【CMU博士论文】面向可部署的强化学习：安全性、鲁棒性、适应性和可扩展性]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2x05LqYKIRDiaibDWib2WKEmanaGwAibW9t6d7ecehyOPQavjZmZrXTicrHuQAlZQsM7w3h3I4GXkNyVA/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着在安全关键领域应用强化学习（RL）的需求日益增加，迫切需要安全、鲁棒且多功能的RL算法。本论文直接回应了这一需求，引入了一套先进的策略优化算法，旨在克服安全RL面临的关键挑战，从而为更可靠和实用的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648661&amp;idx=2&amp;sn=1abb901b410e53be572e31d8bbdd38f7&amp;chksm=fd34dda8cc326da3a9477a4e493560808c606bf2dbda120078369b53aa233628bbbbcfe3c3c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【博士论文】面向可扩展科学计算的并行编程系统，187页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj5wJIBGxwz24ceBR9m2cA5mXc0nKCK7gHFn8L4jMA3O4W5PiaGqVicTIyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>高性能计算（HPC）系统比以往任何时候都更为强大。然而，性能的提升也带来了更大的复杂性，给希望利用这些系统进行科学研究的研究人员带来了重大挑战。本篇博士论文探讨了面向科学计算的可扩展编程解决方案的发展</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=3&amp;sn=6250524431156a33dcad769b07fd199d&amp;chksm=fd02397a5b24f904fe02ff3350ac3dc357ce9dd250009a7eafcb0f68d601e3732010acce7689&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《基于大型语言模型的开放式兵棋推演》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2x05LqYKIRDiaibDWib2WKEma9PjicC7bkREd0hASFGmlXzRFZjsRMM4ERecqMhQhSHmYawXRJEaL4Kw/300?wxtype=jpeg&amp;wxfrom=0"/><p>兵棋推演是了解和演练现实世界决策的有力工具。利用人工智能（AI）自动进行兵棋推演，可以实现人类游戏无法实现的可能性，例如反复多次进行游戏，以观察一系列可能的结果。兵棋推演分为两类：定量游戏和定性游戏，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648661&amp;idx=3&amp;sn=967b2c6746893849906f71840e0a0cfa&amp;chksm=fda1e741105760223e60fc5028498c027f8c3d656199705011fd68936a6d97005e9a3d6e42ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《决策成本：解读决策中记忆、强化学习和神经连接的相互作用》166页博士论文]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj5icZZTgsfgpw0C8JCquHt1WP8yI8CpegcTicsEghXVdZngksoIVRbr4Uw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本论文回顾了决策领域的重要理论研究和实证研究成果，并提出了涉及决策各个方面的关键问题，如认知控制、动机、个体差异、记忆和计算建模等。为了解决这些问题，介绍了三项计算工作，旨在提高人们对 ACT-R 认</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=4&amp;sn=10d53a3caef077130966a7231b90452c&amp;chksm=fd8eca3f54a232c57e96d04e18e9590b6aab327126fb6c03eb78006a9f9696dc18b8ab54a554&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[元强化学习研究综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2x05LqYKIRDiaibDWib2WKEma9B9EfP8k4ibtZMKGxrVOr38IPFxOg8qPKIRP0PHxfemH7P8ODiaFDnng/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来, 深度强化学习(deep reinforcement learning, DRL)已经在诸多序贯决策任务中取得瞩目成功, 但当前, 深度强化学习的成功很大程度依赖于海量的学习数据与计算资源, </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648661&amp;idx=4&amp;sn=b1ce79d6c1d991e308aaf228fcd6316b&amp;chksm=fd935854926f39483710c6114d3233bf6cdbe6679bcdd13b861dd76d877884468ef3c04ff999&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[大型语言模型与智能机器人集成的综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj5fRCFe77qV7qkOfuGibrribXhHicaUrCU1fc6LplwYCYDqeO6En5Iu2URg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLM）的集成彻底改变了机器人技术领域，使机器人能够以类似人类的熟练程度进行交流、理解和推理。本文探讨了LLM对机器人学的多方面影响，讨论了利用这些模型的关键挑战和机遇。通过对L</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=5&amp;sn=35a37818deab44ca5774f5d02cff56f2&amp;chksm=fde976592358fe71dd56198b82012ac7ec2ed7df029779f969f54637187303fcd41de0c6df0e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《多层兵棋推演：中间兵力能力推演的经验教训》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2x05LqYKIRDiaibDWib2WKEmanyjEq0AVqmwbVW7ByonZPkPnZaRoEgz1lYjlhkv7ibpCpbAzJ3P2prw/300?wxtype=jpeg&amp;wxfrom=0"/><p>一般来说，兵棋推演是在信息不完整、不完善的环境中探索人类决策的工具。它们可以为军事行动的复杂性提供重要见解，也可以用来产生新的想法。兵棋推演的局限性之一在于它们往往只关注单一的时间/空间尺度。例如，战</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648661&amp;idx=5&amp;sn=5aa97dceae7b64c57fd40699e06fd6c0&amp;chksm=fdb91fba79f4f57f374ad36c809546153a8ba4936ddb9e9c5661bba491d8e81b07f8543e5d20&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[万字长文带你梳理Llama开源家族：从Llama-1到Llama-3]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/vI9nYe94fsGXtZWhNK2e5Eic4KcicvdaM6OzDOkALbK93lbw9mfhP1dgn0JCToJiaoLia1iaTMw98yBia3ibWYbzmfwmA/300?wxtype=jpeg&amp;wxfrom=0"/><p> Datawhale干货 作者：张帆，陈安东，Datawhale成员引言在AI领域，大模型的发展正以前所未有的速度推进技术的边界。北京时间4月19日凌晨，Meta在官网上官宣了Llama-3，作为继L</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=6&amp;sn=070ab2fb0b9fa3a21f44fdee14fd5dea&amp;chksm=fd30eb415a1ae899fe65653a8829157801f29b1c3a9338ff8fe77b105eba18b47defab76e603&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【WWW2024】利用大型语言模型的多角色能力进行开放领域问答]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2x05LqYKIRDiaibDWib2WKEmaI1NDeyNP6KXNziaxxBYvCmyvcSRvGgoKB5X77aLK3iaHBGzPYd2DNxNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>开放领域问答（ODQA）已成为信息系统研究的一个关键焦点。现有方法主要遵循两种范式来收集证据：（1）“检索-阅读”范式从外部语料库检索相关文档；（2）“生成-阅读”范式利用大型语言模型（LLMs）生成</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648661&amp;idx=6&amp;sn=15f84a36d943b0363fdf398b0bc5be0f&amp;chksm=fdefbd6f2bafb2a909ae62e53f6f68f76da0da4071b1e2912f59f98597d794b8729dcb425c61&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[UvA 《大模型》课程，涵盖预训练、对齐、参数高效微调、扩散模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj53JsVg1YdSzf8YtEibibZziadUD5lEBMu1HEkg3hFvh7qvQsPKbCibgfYMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们讨论了大型基础模型的参数高效微调方法。专知便捷查看便捷下载，请关注专知公众号（点击上方蓝色专知关注）后台回复或发消息“UVAK” 就可以获取《UvA 《大模型》课程，涵盖预训练、对齐、参数高效微调</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=7&amp;sn=58a6df5ddb536f5d7586c6e89f0f3716&amp;chksm=fdddfde4202ea29d50345c890c0c785a61d55ac5e4d1c9bc5732a3b4dd0a3b912c5f6757fa3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[COLING2024 | 面向编程的自然语言处理综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/58FUuNaBUjp1tGAcib25ibSH9GUR5NUA2Hx7y12dQvGT0MxTR4J5Z4N6dWt2k3iaeicGLsm7GQ1KlUNAX34xicxd6VQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文名称：A Survey on Natural Language Processing for Programming论文作者：朱庆福，罗先镇，刘芳，高翠芸，车万翔原创作者：罗先镇，朱庆福论文链接：</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648661&amp;idx=7&amp;sn=0de392f8ad77f5cf79ec88d6a920e67f&amp;chksm=fdbfdc95cd47ae7fc1789e7b466d7dfaa76bac6275a9c646c09e415cee1256a856d34c587dd1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Apr 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=8&amp;sn=c94e87dd34b4a5e04f6401a1fa721e86&amp;chksm=fdaf42e4d6e74f115ad314ab5c0f39b58a3e0c948072d392f848fd8159ab9b5b2246bbfd3e23&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648661&amp;idx=8&amp;sn=9a5d4132dd2dc42588dae6be5fb008df&amp;chksm=fd8e14aba829cff39b6538e8734b20276b8d592c32da1807f6caf9d959d72eb4edfafde4e51a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Apr 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Meta最新进展！大模型“超级外挂”：LLM RAG]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj5CorOibnO0jQuMN1PotYE4XLUKXdPT7t5jFMmKEVTEXB4Zg6nB9Vgf6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>LLM RAG（Retrieval-Augmented Generation）是一种自然语言处理领域的模型架构，特别适用于生成式任务。它结合了检索和生成两种方法，旨在提高生成式任务的性能。RAG模型在</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=1&amp;sn=115c08b2d03871c024851928e363c073&amp;chksm=fd3d2b024bc2c109efc29f955230a7e1c1070c61660dab9fb7686ed905ad6189f41c2bdc730f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Sora之后，OpenAI Lilian Weng亲自撰文教你从头设计《视频生成扩散模型》]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj592Ja8rUGWmDpBicFnvzeiaPMLF1paSuib1PoW4FClyicFe9Mia2J0DTPrBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>选自Lil’Log作者：Lilian Weng转载机器之心编辑：Panda过去几年来，扩散模型强大的图像合成能力已经得到充分证明。研究社区现在正在攻克一个更困难的任务：视频生成。近日，OpenAI 安</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=2&amp;sn=64ba62179e064a073dd71882ee09cb4c&amp;chksm=fdccfc73a864d5ef822c957eab80eba95501305b63908938c5636d70f30db71804a85206c3f0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【博士论文】面向可扩展科学计算的并行编程系统，187页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj5wJIBGxwz24ceBR9m2cA5mXc0nKCK7gHFn8L4jMA3O4W5PiaGqVicTIyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>高性能计算（HPC）系统比以往任何时候都更为强大。然而，性能的提升也带来了更大的复杂性，给希望利用这些系统进行科学研究的研究人员带来了重大挑战。本篇博士论文探讨了面向科学计算的可扩展编程解决方案的发展</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=3&amp;sn=6250524431156a33dcad769b07fd199d&amp;chksm=fd02397a5b24f904fe02ff3350ac3dc357ce9dd250009a7eafcb0f68d601e3732010acce7689&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《决策成本：解读决策中记忆、强化学习和神经连接的相互作用》166页博士论文]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj5icZZTgsfgpw0C8JCquHt1WP8yI8CpegcTicsEghXVdZngksoIVRbr4Uw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本论文回顾了决策领域的重要理论研究和实证研究成果，并提出了涉及决策各个方面的关键问题，如认知控制、动机、个体差异、记忆和计算建模等。为了解决这些问题，介绍了三项计算工作，旨在提高人们对 ACT-R 认</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=4&amp;sn=10d53a3caef077130966a7231b90452c&amp;chksm=fd8eca3f54a232c57e96d04e18e9590b6aab327126fb6c03eb78006a9f9696dc18b8ab54a554&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大型语言模型与智能机器人集成的综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj5fRCFe77qV7qkOfuGibrribXhHicaUrCU1fc6LplwYCYDqeO6En5Iu2URg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLM）的集成彻底改变了机器人技术领域，使机器人能够以类似人类的熟练程度进行交流、理解和推理。本文探讨了LLM对机器人学的多方面影响，讨论了利用这些模型的关键挑战和机遇。通过对L</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=5&amp;sn=35a37818deab44ca5774f5d02cff56f2&amp;chksm=fde976592358fe71dd56198b82012ac7ec2ed7df029779f969f54637187303fcd41de0c6df0e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[万字长文带你梳理Llama开源家族：从Llama-1到Llama-3]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/vI9nYe94fsGXtZWhNK2e5Eic4KcicvdaM6OzDOkALbK93lbw9mfhP1dgn0JCToJiaoLia1iaTMw98yBia3ibWYbzmfwmA/300?wxtype=jpeg&amp;wxfrom=0"/><p> Datawhale干货 作者：张帆，陈安东，Datawhale成员引言在AI领域，大模型的发展正以前所未有的速度推进技术的边界。北京时间4月19日凌晨，Meta在官网上官宣了Llama-3，作为继L</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=6&amp;sn=070ab2fb0b9fa3a21f44fdee14fd5dea&amp;chksm=fd30eb415a1ae899fe65653a8829157801f29b1c3a9338ff8fe77b105eba18b47defab76e603&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[UvA 《大模型》课程，涵盖预训练、对齐、参数高效微调、扩散模型]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0EgAnBu6OPDk5Fz3poyvj53JsVg1YdSzf8YtEibibZziadUD5lEBMu1HEkg3hFvh7qvQsPKbCibgfYMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们讨论了大型基础模型的参数高效微调方法。专知便捷查看便捷下载，请关注专知公众号（点击上方蓝色专知关注）后台回复或发消息“UVAK” 就可以获取《UvA 《大模型》课程，涵盖预训练、对齐、参数高效微调</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=7&amp;sn=58a6df5ddb536f5d7586c6e89f0f3716&amp;chksm=fdddfde4202ea29d50345c890c0c785a61d55ac5e4d1c9bc5732a3b4dd0a3b912c5f6757fa3a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648619&amp;idx=8&amp;sn=c94e87dd34b4a5e04f6401a1fa721e86&amp;chksm=fdaf42e4d6e74f115ad314ab5c0f39b58a3e0c948072d392f848fd8159ab9b5b2246bbfd3e23&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 23 Apr 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -759,135 +887,6 @@
       
 
       <pubdate>Thu, 18 Apr 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[非Transformer不可？最新《状态空间模型（SSM）》综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I6yKrbAzbFvt9Iibda3RY3ibKv6bKz2q7yhK13EACGw7euIPRxKOnn2VWDykurCxDsbAaKqhquLsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在深度学习之后的时代，Transformer架构在预训练的大型模型和各种下游任务中展示了其强大的性能。然而，这一架构巨大的计算需求已经让许多研究者望而却步。为了进一步降低注意力模型的复杂性，许多努力已</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648196&amp;idx=1&amp;sn=afb55c0608314acf980b97df49cd78cd&amp;chksm=fd79f387f0c610a4f14236f6f4df4568862a3c55ba778e980d03fa311a0e5a3bbc1ace123577&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[未来的战场力量倍增器：坦克、战斗机、航空母舰和攻击直升机等]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I6yKrbAzbFvt9Iibda3RY3zuGdwX2Rv4lfI1tB1XIhebAwqdthPM7rF5TIceQTQhibevhTVdSvFhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>很多时候，军事分析家也会陷入同样的陷阱--想象他们想打的战争，而不是可能发生的冲突。这不可避免地会导致我们为上一场战争做准备，而上一场战争的经验教训仍历历在目，在我们的脑海中挥之不去。然而，自数字革命</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648196&amp;idx=2&amp;sn=3f24534c5683eab8663fc762f1071471&amp;chksm=fd4f4a4a565ac7fc9dfd6160660e106f10373aa7be90bd796d714c2630bb4711ac9235c4549f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大语言模型中的知识生命周期]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I6yKrbAzbFvt9Iibda3RY3u5LQh1eaibz0Te7lRpicRm8ib0XGpl7oSenibpWK4408B31G3nmf9XP5pg/300?wxtype=jpeg&amp;wxfrom=0"/><p>https://www.mi-research.net/en/article/doi/10.1007/s11633-023-1416-x知识在人工智能发展中起着至关重要的作用。近年来，大规模语言模型(</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648196&amp;idx=3&amp;sn=51276b856bd40f3d5bfbbba73532cfa3&amp;chksm=fda23bfef1a9ef4d8bc35b98a6187846647ed55d8e3e4fe0f761ae5dad64ad57faa8708da9d7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《通信受限环境中机器人网络的高效任务规划》172页]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I6yKrbAzbFvt9Iibda3RY3Z71cJunhicm8bugOyZchiaRfLs8WhVsQCRG9gCBgAMcHHTI2TKJUWD5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>如今，许多机器人系统都是远程操作的，需要不间断的连接和安全的任务规划。这类系统常见于军用无人机、搜救行动、采矿机器人、农业和环境监测等领域。不同的机器人系统可能采用不同的通信方式，如无线电网络、可见光</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648196&amp;idx=4&amp;sn=7e3b0971b4c499f41a7642acddc7f507&amp;chksm=fd845dd993e965474d23dd865edcddf6cf4ba6e9a53f642fa632b3933dd04b7331a564191c77&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于学习机制的多智能体强化学习综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I6yKrbAzbFvt9Iibda3RY3UH2ibzF6fpwMnUEAziaOx0NVUmH7icutjsxPEHBqac9qmQ6Diba7htW3icQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习作为人工智能领域的重要分支，以其在多智能体系统决策中的卓越表现，成为当前主流方法. 然而，传统的
-多智能体强化学习算法在面对维度爆炸、训练样本稀缺和难以迁移等方面仍然存在困难. 为了克服这些挑</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648196&amp;idx=5&amp;sn=46fde0851d106774d758a20fa1be75b1&amp;chksm=fd14c1cc3de5ad0a6bfe6166fde9280bb3af32ccb61babead6d50a84e925579aec07e0c2895a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【MIT博士论文】高效现实世界图分析的系统与技术，110页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I6yKrbAzbFvt9Iibda3RY3u3pO84H9L3zTY79pichSdGv2nWogJFbefJIQYJPrN2AExpbUduZCJibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>图是模拟现实世界实体及其相互关系的自然方式，涵盖了从社交网络和生物数据集到云计算基础设施数据血统图等。在这些大型图上进行查询常常涉及到成本高昂的子图遍历和复杂的分析计算。此外，现实世界中的图通常编码了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648196&amp;idx=6&amp;sn=9cf710c397b5ddeefc5dcded7c3ebfdc&amp;chksm=fdd0a5f5291ff283c41ef82c73343f5c3cbd41721511d981cc5a59528912d8f3e6abecf077e0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CVPR2024】探索视觉基础模型的三维感知能力]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2I6yKrbAzbFvt9Iibda3RY3nWqFx8RImOu7wDeAq5giaEoBdAlpaMGDXeYZkxg7rqgWX6JMEibRlERA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近期在大规模预训练领域的进展已经催生了具有强大能力的视觉基础模型。这些模型不仅能够将训练任务泛化到任意图像，其中间表示也对其他视觉任务如检测和分割非常有用。鉴于这样的模型可以在2D中分类、勾画和定位对</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648196&amp;idx=7&amp;sn=9e8d4761476de5a53cd357ca3f860051&amp;chksm=fd425d773293ec5466825ec4cda7a3946e03ac36ac00655cb93e64aa3d837862169bead5ed83&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247648196&amp;idx=8&amp;sn=4725f360c72095a110a99d2202a5302b&amp;chksm=fddd259f9ea17ed8b8ccd5a2cfba39629da19c7291fd2185570aa3499a1bacb8b4ffe7aeb1a9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 06:00:00 +0000</pubdate>
       
 
     </item>
