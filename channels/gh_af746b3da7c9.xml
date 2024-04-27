@@ -33,17 +33,57 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[LLM能否依据角色的过去预测未来？一篇有趣的研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagZ4XjhxR3SCryYg5IcfFPvFIwJkOLMsD6Xxsvh1dT7icwGf3hSOCHzHMNP3FbS4XZefntnNlTDusg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：wkk深度学习自然语言处理 原创引言你是否想过，如果有一天，当你面临人生重大抉择时，有一个AI助手能够为你提供决策甚至能帮你做出决定？复旦大学和阿里巴巴的最新研究报告显示，大型语言模型（LLMs</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527642&amp;idx=1&amp;sn=e08ee0d0119233fb26e3de0054c418cb&amp;chksm=ea083f9bd4513f92e6283d027c30bfc142cb7d328a8ace093dfc3cb585fcdbcf1fa1aef8ddb3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 25 Apr 2024 06:58:25 +0000</pubdate>
+      <title><![CDATA[Bert类模型也具备指令遵循能力吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj3wdQg6zr7nIpf0B5icHhkEudOWPu7g63zU6KFXve1C8YUZzIgNdpqdwaNuxnAHoqUMSt4LENdN1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 原创作者：WinnieBERT模型，依托Transformer架构及其大规模预训练，为自然语言处理领域带来了深远的影响。BERT模型架构包含多层双向Transformer编码器，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527690&amp;idx=1&amp;sn=a8ff415944e3bfebd6e11b4d9a5c0eda&amp;chksm=ea5d306c3fda2ccf6c77cde1919fa965b3ea73ba8255497a2071bd4597234c9142a5bdba34c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 26 Apr 2024 10:13:46 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[小师妹我一个月进阶LLM的方法！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagxhaD5f9vWPl8mmVa708XExXaTlYUtuhs5WGA1Bqw4nATkPWyk9Z0Ax0vib4rlJ5X1yOIOD5LicvPQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们从2024.1月底到现在已经帮助大几十个同学进阶LLM了，课程优化了数遍，好评不断，期待你的加入~介绍下我们的小团队，分别是：23年面试近50场国内LLM大厂通过率100%拿到多个大厂人才计划of</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527642&amp;idx=2&amp;sn=9ffe3743da8d70067eac2939be98d58e&amp;chksm=ea3d546d035354d62ca9af7b8739e2fc6fab0b1a5dcd8d4d43361bb6545364cf49e095a032b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[TIVE: 数据高效的视觉指令微调]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj3wdQg6zr7nIpf0B5icHhkEp0SGib8jNno1sOVGzpx4c95mJ7NN873CibVxqkIzdFkHgRESKkWIq2mw/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜刘子康机构｜中国人民大学研究方向｜多模态大语言模型来自：RUC AI Box视觉指令微调是构建多模态大语言模型(MLLM)的核心步骤。现有的视觉指令构造方法主要有两类：基于大语言模型自动化构</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527690&amp;idx=2&amp;sn=1b1d987aa55f52cb92803737e1efff5a&amp;chksm=ea85f07eb6bf1e68b59f9cd628321a0672588e0f5f95d4113f2d399423f7bf47cc8fbd35db8a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 26 Apr 2024 10:13:46 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[微软发布Phi-3大模型，3.8B击败chatgpt]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj3wdQg6zr7nIpf0B5icHhkEmwA17psEVcJASYLv9RZGQJCXXB9cQHfVWPM1TfMb5kdbR7UeRV6zUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：包包的算法笔记微软在4月23日发布了Phi-3，Phi-3用 3.8B 的小版本做到了 Mixtral-8x7B 一样的效果，换算到dense大约等于一个14B的水平。量化后大小约1.8G， 在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527690&amp;idx=3&amp;sn=dc85cb69201d83d2fa4f257746985870&amp;chksm=ea8a758ca91ac6c8639bb7ac64a838409cee6dce5ce344628c1cbd53cd4b04a05326b7ded51d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 26 Apr 2024 10:13:46 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[LLM能否依据角色的过去预测未来？一篇有趣的研究]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagZ4XjhxR3SCryYg5IcfFPvFIwJkOLMsD6Xxsvh1dT7icwGf3hSOCHzHMNP3FbS4XZefntnNlTDusg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：wkk深度学习自然语言处理 原创引言你是否想过，如果有一天，当你面临人生重大抉择时，有一个AI助手能够为你提供决策甚至能帮你做出决定？复旦大学和阿里巴巴的最新研究报告显示，大型语言模型（LLMs</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527642&amp;idx=1&amp;sn=e08ee0d0119233fb26e3de0054c418cb&amp;chksm=ea083f9bd4513f92e6283d027c30bfc142cb7d328a8ace093dfc3cb585fcdbcf1fa1aef8ddb3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 25 Apr 2024 06:58:25 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[小师妹我一个月进阶LLM的方法！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagxhaD5f9vWPl8mmVa708XExXaTlYUtuhs5WGA1Bqw4nATkPWyk9Z0Ax0vib4rlJ5X1yOIOD5LicvPQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们从2024.1月底到现在已经帮助大几十个同学进阶LLM了，课程优化了数遍，好评不断，期待你的加入~介绍下我们的小团队，分别是：23年面试近50场国内LLM大厂通过率100%拿到多个大厂人才计划of</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527642&amp;idx=2&amp;sn=9ffe3743da8d70067eac2939be98d58e&amp;chksm=ea3d546d035354d62ca9af7b8739e2fc6fab0b1a5dcd8d4d43361bb6545364cf49e095a032b7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 25 Apr 2024 06:58:25 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -170,134 +210,6 @@
       
 
       <pubdate>Mon, 22 Apr 2024 02:02:31 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[前紧后松：清华读博前两年的焦虑与成长]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoUFFEOckpumwwcibwSZ2Kr9M2YxZ0GBomDTsSCuFl8VktUXSQkfF2ZxLLSZXIAoiclYQ5PkjD3nlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：丁司图从清华毕业入职腾讯没多久，我上个月作为今年新晋打工人的代表参加VALSE学生论坛，跟同学们分享了一些故事。司徒笔记这个专栏本来是用来聊学术的，不够轻松，似乎缺一些用来当作下饭伴侣或者如厕读</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527380&amp;idx=1&amp;sn=164454bbc95d2b50a5cd3c36c232b3e2&amp;chksm=ea9b57a9a2cf9c067fbdd8f7703616dfc87e56a3ef59957096c6cce8495998a52077c4d3aaf3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Apr 2024 14:03:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《跨语言大模型》最新综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoUFFEOckpumwwcibwSZ2KrGUaW0oM2BZTPRPyPicUGMQKoFQ3q3G1dfCQwBsjmh70JXibpz5LibjXzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型智能｜原创作者 | 小夏跨语言大模型（MLLMs）能够利用强大的大型语言模型处理和回应多种语言的查询，在多语言自然语言处理任务中取得了显著的成功。尽管取得了这些突破，但仍然缺乏一份全面的调查总结</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527380&amp;idx=2&amp;sn=63777e4ddef974937c66df8e22b8ec9d&amp;chksm=eabb2649e195970c88e2988d6b21f7e6abfc5e6541f43f374704e1608da75f17e2864e9dd860&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Apr 2024 14:03:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Meta无限长文本大模型来了：参数仅7B，已开源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoUFFEOckpumwwcibwSZ2Kr1VsQTveiaicB7BxPEr7eKO1Pkd4nkCt8GlczW5EQIlLnyB3Mgm7yODfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心谷歌之后，Meta 也来卷无限长上下文。Transformers 的二次复杂度和弱长度外推限制了它们扩展到长序列的能力，虽然存在线性注意力和状态空间模型等次二次解决方案，但从以往的经验来</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527380&amp;idx=3&amp;sn=34a4b45aece8f78f47b8694c16627c33&amp;chksm=ea8a5cf6d1c8f7f103d39e62c17be18ceb6c3c1fb8dccb748a475027f5e5da0ec6a4b6ddd56e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Apr 2024 14:03:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[最强MOE开源：Mixtral 8x22B 发布！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoUFFEOckpumwwcibwSZ2Krr2x1LxeeTSM7MJiaSicraIhoh44Px1w8mRrZA4UpDTicNUrEnnjfngsHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：包包的算法笔记权重地址：https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1根据上传时间发现是一周之前，在Llama3正式放出来</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527380&amp;idx=4&amp;sn=b13c82d58d1e7b86e002a46a4a067897&amp;chksm=ea4c544b03204218c80a48a2fc0a7ae5f08f4df45311d6d67b461c2ef9ef9201bfda09f9c789&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Apr 2024 14:03:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[最新大模型论文研究论文合集，包含谷歌/苹果/亚马逊/港大、阿里最新研究报告！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaBUNP9ov40cegicNJEb6caLZfpGgAmwcJJvhtcevTdGQgDClnMicNGppib4GLX0FnRazqX652XiaFDYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>清华团队推出 MiniCPM：利用可扩展的训练策略挖掘小模型潜力；苹果MM1大模型：30B参数，多模态，在预训练指标上达到SOTA；亚马逊提出大规模视频语言对齐方法VidLA；英伟达参与，高效视频扩散</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527348&amp;idx=1&amp;sn=5fde9cd0b646b8cdfcc722654cd0b979&amp;chksm=eae6af97e766bd3c8184259a9c3801eafcdb02f8a66396dc9901bd374418b1726a074a427f9c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 08:03:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[对谷歌最新提出的Infini-transformer模型进行代码复现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaBUNP9ov40cegicNJEb6caL2RODmk042Eou2FY8cB0eQmYlHR2IGJ1EzNCGuFIPaDlq0Udg49JX8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Lil2J（已获授权）链接：https://zhuanlan.zhihu.com/p/692848185简介这篇文章主要内容为我个人对谷歌最新提出的Infini-transformer模型的个人</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527348&amp;idx=2&amp;sn=afd77d9555e3ac6586022396189d9e18&amp;chksm=eaf27464ba87c55fb78c9910dcdc878b650521b9a3552a713a06d94d133edef3b0b9c36ae9c9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 08:03:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Adaptive-RAG:根据难度自适应检索方案]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaBUNP9ov40cegicNJEb6caLncBg0FhNibwN1nJ3ySh6icRTXNuLeQu5BygIvGEWaCXOOTQFBaicl5JWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CS的陋室RAG的论文可谓是百花齐放，今天讲一篇有关自适应的RAG，这篇论文认为是不同难度的问题，RAG系统应该有不同的应对策略，因此搭建了这个自适应的RAG系统来适配不同难度的问题。论文：Ad</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527348&amp;idx=3&amp;sn=d36b4937e00bc0ad0ab5e5503884198e&amp;chksm=ea94e7952eb39c787c716d6e48ccfe099c892cb7f4a2489297e46c959ff8cef9b53b191b41e5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 08:03:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多篇顶会一作却申博失败？斯坦福博士生亲述：AI领域太卷]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaBUNP9ov40cegicNJEb6caL3gYlicc8fibFesibibrZM1e3kF1TUD7dyMPdnpmz7wSId4PPfFTzxKPDWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心「尽管我在顶级 ML 会议上发表了多篇一作论文，为开源项目做出了贡献，也在业界产生了影响，但我仍在为进入博士课程而苦苦挣扎。我被顶尖大学拒之门外，感到迷茫和疲惫。」「我开始怀疑自己，怀疑</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527348&amp;idx=4&amp;sn=2504bdf464743ee4dde39c72d1b208b3&amp;chksm=eab11eea32733d692aace450a1917496ec83d5099e5afb6b0fb49249bf2e8ad04854d2465c08&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 08:03:13 +0000</pubdate>
       
 
     </item>
