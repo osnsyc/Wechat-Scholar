@@ -35,17 +35,59 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[DPO居然还可以通过模型插值对齐？ | 长上下文中的中间信息丢失如何解决？| 持续学习大模型综述 ...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdctASpFryVPTFK0ibLSemf8rIonQpGgS0Iy46fWobcLOgw5mHRDgg1VRvoKVlrSGOWmc2wjemXCZPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：看论文就像是一次美食之旅，每一篇论文都是一道不同的菜肴。有些论文会让你大快朵颐，有些论文会让你欲罢不能，而有些论文则会让你咬牙切齿。但是别忘了，只有尝试了各种不同的菜肴，才能成为一个真正的“吃货</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485545&amp;idx=1&amp;sn=f086d5cc7cc9f9154a21709b0faf02df&amp;chksm=c1cb6cc3619c6c63132e724c1047b80be51e8f71a9d5b36d37427e357e68e0ca002f1ef043cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 26 Apr 2024 09:42:37 +0000</pubdate>
+      <title><![CDATA[采访 OpenAI Sora 团队负责人 Aditya Ramesh、Tim Brooks 和 Bill Peebles [译]]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcQbO6CUcXqiagN74w5cpvVGvOWXw1yeVdICiaNFwLRJDfsLS9zPY4caq7tA7WIgzQgvibneNEj7c5GA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0:00 Sora 团队介绍
+1:05 利用 Sora 模拟世界
+2:25 构建最具价值的消费者产品
+5:50 替代用途和模拟功能
+8:41 扩散 Transformer (Diffusion Tra</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485586&amp;idx=1&amp;sn=096934c7c9143af6735dc3458a0a30d9&amp;chksm=c1cd4b063d6d546d9c06f67fd705cfc6c64df1e65a1ab55cf1b417cde3a419ffc1b44b9cf81e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 27 Apr 2024 07:54:27 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[LLM 量化方法区别 —— GPTQ、GGUF、GGML、PTQ、QAT、AWQ、AQLM 之间的区别是啥？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcHVPbDzn2eCNs5k5Zl9oZ2k2zE75uKdjXFQ2toVic8l2mLiavrXHibibf21XueQ2wVICtlGpGyN3VqNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>每一次从 huggingface 上下载最新的开源模型时，我都会很纠结，到底用哪个，以国内的qwen1.5为例：这么多量化后的模型，到底有什么区别？这篇文章将会带你一起讨论关于LLM中经常听到的各种量</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485545&amp;idx=2&amp;sn=53fb36ac3780f022e7be74a80064e5e9&amp;chksm=c1e052e7afd291134cc3533314eff7188e9f2d15501c991f453234be44725eeb3c91b84f9973&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[OpenAI 或将推出 Perplexity 竞品 SearchGPT ？！！！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>据悉：OpenAI 将要推出 Perplexity 的竞品 Sonic - SNC（SearchGPT）。
+
+SearchGPT 已经进入评估阶段，新增多项功能：
+- 图像搜索
+- 多样小工具（天气、</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485586&amp;idx=2&amp;sn=6802c70317d24e3bdc4d8d5d1a7fd787&amp;chksm=c10a2ff67ad0e297b8e62a0b6cf9dee00816ca665bf00dff70ecfe09dd40e4ae9c393c018603&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 27 Apr 2024 07:54:27 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[DPO居然还可以通过模型插值对齐？ | 长上下文中的中间信息丢失如何解决？| 持续学习大模型综述 ...]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdctASpFryVPTFK0ibLSemf8rIonQpGgS0Iy46fWobcLOgw5mHRDgg1VRvoKVlrSGOWmc2wjemXCZPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：看论文就像是一次美食之旅，每一篇论文都是一道不同的菜肴。有些论文会让你大快朵颐，有些论文会让你欲罢不能，而有些论文则会让你咬牙切齿。但是别忘了，只有尝试了各种不同的菜肴，才能成为一个真正的“吃货</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485545&amp;idx=1&amp;sn=f086d5cc7cc9f9154a21709b0faf02df&amp;chksm=c1cb6cc3619c6c63132e724c1047b80be51e8f71a9d5b36d37427e357e68e0ca002f1ef043cc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 26 Apr 2024 09:42:37 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[LLM 量化方法区别 —— GPTQ、GGUF、GGML、PTQ、QAT、AWQ、AQLM 之间的区别是啥？]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcHVPbDzn2eCNs5k5Zl9oZ2k2zE75uKdjXFQ2toVic8l2mLiavrXHibibf21XueQ2wVICtlGpGyN3VqNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>每一次从 huggingface 上下载最新的开源模型时，我都会很纠结，到底用哪个，以国内的qwen1.5为例：这么多量化后的模型，到底有什么区别？这篇文章将会带你一起讨论关于LLM中经常听到的各种量</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485545&amp;idx=2&amp;sn=53fb36ac3780f022e7be74a80064e5e9&amp;chksm=c1e052e7afd291134cc3533314eff7188e9f2d15501c991f453234be44725eeb3c91b84f9973&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 26 Apr 2024 09:42:37 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -204,134 +246,6 @@
       
 
       <pubdate>Sat, 20 Apr 2024 08:11:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Reka 发布了 Reka Core 128K多模态大模型，能力接近 GPT4 | 语言模型本质是一个Q-函数 ？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcR2kg3pOAS893SI93UWnIJiagKMnCbibZE0WFct4u0omv7NfTNzGYrZUicX3oDoq0H4Xsbv4HhmDFhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：论文可以让你更快地了解最新研究进展，掌握最新的技术和理论。这对于自身的科研能力和竞争力非常重要，尤其是在快速发展的学科领域，下面小编带你来看大模型最近的研究成果。1. Reka Core, Fl</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485449&amp;idx=1&amp;sn=7e245c4c02e1d81fcb72041ca23442c8&amp;chksm=c1eb27d0610096871931310bd6016370ff59545dd67834227b6b9031cf2754b6a1ec8fe96788&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 19 Apr 2024 14:49:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[纽约时报对 Anthropic CEO 一个半小时的采访 ....]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcR2kg3pOAS893SI93UWnIJ6tian288ibK2DX4N6vsJRD71GBQk7A9HNiadia5jG0tibMNV8Pic4l3Ox4qQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>昨天纽约时报发布了对 Anthropic CEO 的采访，这个老哥很少接受采访，所以这个采访可以关注一下。Amodei 分享他对不久的将来的预见，内容包括： 1、即将到来的技术突破有哪些？ 2、什么问</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485449&amp;idx=2&amp;sn=c61c7f2315473199707baeffcf4897f2&amp;chksm=c14f12c520e738012f5254a14cf3841cefdc71fb4ae07b5b1173ad45b51c7c3d4a0b1bf61249&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 19 Apr 2024 14:49:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[语言模型能解决奥赛编程问题吗？| 如何快速估算微调大模型的GPU内存使用量？|  AlphaFold 训练时间缩短至 10 小时]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdeBbVQrFLflKxoia86bZmRVZD4p31TvBJ8dt4DOPbB5p2XjyyK2J5gmRVzqNFfiafDuxXP6txMpdeOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：如果你想成为一只科学界的“独角兽”，那么看论文是必不可少的。只有掌握了最新的技术和理论，才能在这个竞争激烈的市场中脱颖而出，成为那只最闪亮的“独角兽”！1. 语言模型能解决奥赛编程问题吗？  标</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485300&amp;idx=1&amp;sn=4a0cc8f6738a550384c0402b5930f07c&amp;chksm=c1279d2e1a4c55468fe1cc657f9d98db5e6a3cf0c168e0efed83f612236849a1144c1a42b73a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Apr 2024 13:35:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mixtral 正式官宣Mixtral-8x22B，推出模型详细介绍文档！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdeBbVQrFLflKxoia86bZmRVZFTq3e5z1MljTAa6xQyA7MuXR8Xgia6GWU1b1xfUWkGJ5rg1jes6dCFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>以下是官网的正式介绍：Mixtral 8x22B 是我们最新的开放型号。它为人工智能社区的性能和效率设立了新标准。它是一种稀疏专家混合 (SMoE) 模型，仅使用 141B 个活动参数中的 39B 个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485300&amp;idx=2&amp;sn=0df1309a42caeaf71977ae6d9f068bfc&amp;chksm=c16b6b4d3e78df2a91a067a85ba1c87cef5c76bba097f13e79933f6201391adc0359edcab2ce&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Apr 2024 13:35:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DPO真的比PPO在对齐方面更优秀吗？一项全面研究 | Stability AI 发布5分钟时长歌曲生成技术...]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdfl6SglCfPLmvX64EomHib1CX6YodETR6iaeN4c5Xx8EHoRt4xy5prwxovdyUHda2VYmFWcRJKbybWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：如果你想成为一只科学界的“独角兽”，那么看论文是必不可少的。只有掌握了最新的技术和理论，才能在这个竞争激烈的市场中脱颖而出，成为那只最闪亮的“独角兽”！1. DPO是否比PPO在LLM对齐方面更</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485284&amp;idx=1&amp;sn=dbe1311f0c80564e54b1a0761874f082&amp;chksm=c1ff31fa5148bd2c474aeff72f06d60b39d3e0d9db133fbec6e009f9f8963412126a6b9e04f9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 12:54:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[MT-Bench 榜单首个得分超越GPT-4的开源模型 —— WizardLM-2 发布！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcCic9pTx4ic7NWNuicXiaFyB0PAnApHxMrUicll7pt8Wl7vAf5kNzzIPcHYnlv3mZAVCyP6goS2QtdHKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>感觉大模型社区最近是越来越活跃了，5天前，Mistral AI 刚发布 Mistral-22B x 8 MOE模型，今天微软的 WizardLM 团队也更新了他们基于该模型的最新的进展：今天我们宣布推</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485280&amp;idx=1&amp;sn=ee1fd65777fd9942d9262ba2829145cf&amp;chksm=c1dc00bc1730a3a36596b9bbc42721d9a0e5f1e18a439ee9530446bc8a12201c09ee0bcaffcc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Apr 2024 14:00:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[语言建模等同于压缩！腾讯联合香科大再次确认 | 具有无限上下文长度的高效LLM预训练推理  | 大模型事实、毒性、偏见和幻觉评测]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcCic9pTx4ic7NWNuicXiaFyB0P2T1DhYIL1cF9P68BChZ7xyzWgwReeQsWccTN0CxCXsDmy8odePJhFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言：论文可以让你更快地了解最新研究进展，掌握最新的技术和理论。这对于自身的科研能力和竞争力非常重要，尤其是在快速发展的学科领域，下面小编带你来看大模型最近的研究成果。1. 压缩代表智能的线性关系  </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485280&amp;idx=2&amp;sn=e8297be2cb2aac0a2a6362678544f8ff&amp;chksm=c1569d3c233bff221d73251b983af491d2b5318f5a7d293c9f74ee4dbdf062e535fdc8e7d2cc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Apr 2024 14:00:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[微软提出DR-PO：基于数据集重置的RLHF优化 | Scaling (Down) : 有限计算预算下缩小规模时模型表现....]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdduPoLIqOjSW7MJxoXPiczjE4xgwZMN1nM3hulD8lUYJkP2iafCRI5ia7zafL46TicLXicF1NNzDPvLyQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：平淡无奇的一天又来了，今天要分享的内容主要是关于大语言模型、语言模型、预训练的，喜欢的小伙伴赶紧去阅读相关论文吧。1. 数据集重置策略优化用于RLHF  标题：Dataset Reset Pol</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247485241&amp;idx=1&amp;sn=1d7331bc3ece9baa2ee689de57d94a4b&amp;chksm=c1f6743422f80585e216ca2f49d4ff5306b6a37cc8afbd2f5dfcf791bc7573b66939aeda3296&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Apr 2024 09:59:47 +0000</pubdate>
       
 
     </item>
