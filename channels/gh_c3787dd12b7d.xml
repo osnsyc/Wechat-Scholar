@@ -32,11 +32,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[经典文献阅读之--als_ros(移动机器人的可靠蒙特卡罗定位)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzthD5g169vNRicYmsRIHPhicNkhLbRXCFOS1iaaC4BAf7z0sMul32jF3d3Qmmu3cKuXxVLLoB05ZQCTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介在本文中，我们关注移动机器人定位的可靠性问题。蒙特卡罗定位（MCL）广泛用于移动机器人的定位。然而，由于缺乏判定MCL估计可靠性的方法，其安全性仍难以保证。本文提出了一种新型定位框架，能够同</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591606&amp;idx=1&amp;sn=4613d4f34f4831a77234683078116e0e&amp;chksm=fa2534f40bb481726befc315a69b354d530aaeb76bfc44284c097254f79c9f0f5eba5957f97c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 27 Apr 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[python实现无监督聚类后的匈牙利匹配]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzthD5g169vNRicYmsRIHPhicNqOP27x7Inu1r9Gsja8glny6BBlibOuny7j9ZXx5ANx4K91YVI4WmKqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>描述之前文章介绍过DBSCAN，使用C++实现过该算法。现在针对某个项目，利用python实现DBSCAN和Kmeans算法。项目简介：利用某传感器可以采集场景中的点云，每一帧都可以采集数量不等的点(</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591577&amp;idx=1&amp;sn=432fb97d0999d72c80b9e3271ebcfd8e&amp;chksm=fa869c23b7ef7f0e4be3fa72bf7c1a7810594cb74ec20bc1911e6962ed77c2465604eee0cbde&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 26 Apr 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
