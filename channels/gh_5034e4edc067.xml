@@ -53,34 +53,114 @@
 
 
     <item>
+      <title><![CDATA[Llama 3技术剖析、微调、部署以及多模态训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLKj9bADkoo4Ue3wTpe9tj40icuHWBccZVUOR7xjWGXY71fnaBRG6VKWVia58hsY7mzm6XhZgPSGBRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Meta公司推出了开源大语言模型Llama系列的最新产品—Llama 3，包含了80亿参数的Llama 3 8B和700亿参数的Llama 3 70B两个版本。Meta称其为“迄今为止最强的开源大模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442197&amp;idx=1&amp;sn=cd3d978f3ec9b76cb5845c768de04720&amp;chksm=bf51d1dc2e2cc159bbc2ff52362a0e360af43de70f0ae822fbca16fdde059a72e955f5d1956b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 28 Apr 2024 03:18:10 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Qwen1.5-110B：首个国产千亿参数开源大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/JrHT8u594NEriaEVCVxA31IqBmERl6Us3NiapEME0k6Hhce8uHsrBibjWmUftbdrAbiazOjibjG4OrVsNUDvreyia6Dg/300?wxtype=jpeg&amp;wxfrom=0"/><p>01前言近期的大模型开源社区极度活跃，陆续出现了c4ai-command-r-plus、DBRX、Mixtral-8x22B、WizardLM2、Llama3、Phi-3等优秀的开源工作。近期的多项工</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442197&amp;idx=2&amp;sn=2479b57a9050876ad5395fbeaad1fcc6&amp;chksm=bf25bc5780128491ed9b92ec0b2be2785d9f402857a3695ee2ad2bbaccf749ce1b64bf72c6d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 28 Apr 2024 03:18:10 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[基于LoRA微调多模态大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/J0mLianhFicBFPg4tdFvib1DW0LlbuSicjNImAMjia7llMotVNribvUDiaUicaJiaMzyC0SjsMZaibss6EPLeIHhbFPp4Haw/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着，ChatGPT 迅速爆火，引发了大模型的时代变革。然而对于普通大众来说，进行大模型的预训练或者全量微调遥不可及。由此，催生了各种参数高效微调技术，让科研人员或者普通开发者有机会尝试微调大模型。因</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442197&amp;idx=3&amp;sn=437abeb5340dea33ef131b3c24e88fe3&amp;chksm=bf202702e47c0c6bdc429fe7354b30506b07b06d2ae89ab71528e71fe94ae1712f62e42dcde4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 28 Apr 2024 03:18:10 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[秘塔科技-NLP算法工程师]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLKj9bADkoo4Ue3wTpe9tj4nUDKPJlzs2196CYkmku82IezkzkSrYicczeTbibe8CLqRJkiaaG0dlkLA/300?wxtype=jpeg&amp;wxfrom=0"/><p>秘塔科技-NLP算法工程师（北京）【我们需要你】1.在工作中了解国内外知名企业对智能化产品的需求，参与机器学习/深度学习模型搭建与产品落地，让自己的技术服务千万用户；2.在工作的推进过程中，学习国内外</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442197&amp;idx=4&amp;sn=95f26fcc239db21db72437aff25cd4d0&amp;chksm=bf0b1c56c5bf1ab92fa469ba0e1e672408e9696e3d28cb4ea82daff86be4eaf2a0c2867ea929&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 28 Apr 2024 03:18:10 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Bert类模型也具备指令遵循能力吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj3wdQg6zr7nIpf0B5icHhkEudOWPu7g63zU6KFXve1C8YUZzIgNdpqdwaNuxnAHoqUMSt4LENdN1w/300?wxtype=jpeg&amp;wxfrom=0"/><p>BERT模型，依托Transformer架构及其大规模预训练，为自然语言处理领域带来了深远的影响。BERT模型架构包含多层双向Transformer编码器，通过这种结构，BERT及其家族成员，如RoB</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442197&amp;idx=5&amp;sn=e12b38fa00b975b94c803af087f484c0&amp;chksm=bf4ce5e370fc539db5ee669cd83d6577db6592dbfa2454d80359a5b307495a85063e0becf1cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 28 Apr 2024 03:18:10 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[MoE模型的前世今生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464VjKv4egyMKR0E13NmUCGBRaBBUhric8YQwTABIwqEgK9wb6r069BWdedNQClLWCzgMJpFlSfcLAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年3、4月这段时间，很多MoE模型扎堆发布，包括Qwen1.5-MoE、DBRX、Jamba和Mistral等。下面这个表格列出了部分近期发布的MoE工作模型发布时间备注GPT42023年3月</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442178&amp;idx=1&amp;sn=e1f256c0fd2c4bd6eac792765ccce208&amp;chksm=bf41e20ef0dba772df6ea649326548e4a59b820fedb4ff05eb9883cdac0802f9d125deee1b58&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 26 Apr 2024 14:21:47 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Sam Altman斯坦福分享会]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/fI41EfAgQvs7Iy1F6dsGlw8V2yS82qHmmibVApQ5Nv244atL8YrH4icCHM4x2S6Jic0XXnkg4eW4cwA6M6C6OnaIA/300?wxtype=jpeg&amp;wxfrom=0"/><p>X博主@Sophia在斯坦福昨天分享了Sam Altman 4月24号在斯坦福闭门分享会的重点内容。Sam Altman 4月24号在斯坦福闭门分享会的重点内容她总结的要点如下：下一个模型会比gpt4</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442178&amp;idx=2&amp;sn=35b577c3ffc37a1b6505735b971f2b34&amp;chksm=bf74747a68034675fc4e3b24b56f819833d393b18956bdf207e9cacb8d966660107d5d544557&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 26 Apr 2024 14:21:47 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Qwen1.5介绍及本地部署]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HIKk7OFDjoQGVzPRSCIRAZL1VMgACLFicaic1a8MAScibOOw1CiaXIicE1742qXic2BmTn8tazdF5bOQJq3MHby0DScw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Paper: https://arxiv.org/abs/2309.16609GitHub: https://github.com/QwenLMHugging Face: https://huggin</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442178&amp;idx=3&amp;sn=24aa39e780d541c11c68cd1131b5d580&amp;chksm=bf6b949eb827c785e9f5372c8cab948ce537f727028d58598425fa02202f5953943693396c56&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 26 Apr 2024 14:21:47 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM能否依据角色的过去预测未来？一篇有趣的研究]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagZ4XjhxR3SCryYg5IcfFPvFIwJkOLMsD6Xxsvh1dT7icwGf3hSOCHzHMNP3FbS4XZefntnNlTDusg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：wkk深度学习自然语言处理 原创引言你是否想过，如果有一天，当你面临人生重大抉择时，有一个AI助手能够为你提供决策甚至能帮你做出决定？复旦大学和阿里巴巴的最新研究报告显示，大型语言模型（LLMs</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442178&amp;idx=4&amp;sn=8c33b45ac42852d18101a827ce4f1b62&amp;chksm=bf617cb8f75934f6dd359d49600ba3eee9691af21ec57a51cf4e073897e9017cda24e7ee2ee3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 26 Apr 2024 14:21:47 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[COLING2024｜基于提示融合框架的归纳逻辑查询回答]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcMH85gTQsgvAt3uJ8R3nDicZAooibdt45YXox0jbDJk49Sh3vOkzXlEROAic7qWGt7y8kFCvIIYmpbrQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Prompt-fused framework for Inductive Logical Query Answering本文作者：许泽众（浙江大学）、叶鹏（浙江大学）、梁磊（蚂蚁）、陈华钧（</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442178&amp;idx=5&amp;sn=81fd6b86a02cbc9c9e7729972255a5b9&amp;chksm=bff2cf74e4d8cadcabc5faafb8ceda484e1562110f192d4feaefaa18c8a5e76112b609d4f5fd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 26 Apr 2024 14:21:47 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -479,86 +559,6 @@
       
 
       <pubdate>Sun, 21 Apr 2024 12:31:30 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OS-Copilot：通用计算机智能体的自我进化之旅]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKuU4pEgMq2TUDB0OogETcMrMQ8RPH3cMjIddfq5ZHcVgNexNwxS5R4SeY7iaHATPdGR7so1pPbzvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：https://arxiv.org/pdf/2402.07456.pdf项目主页：https://os-copilot.github.io/GitHub：https://github.com/O</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=1&amp;sn=9347061043202e594343ce779ab1b0c4&amp;chksm=bfa5b2b6b267f47577da0a8f316c9d76d4323760ac83f0f4ba7650cc0401958de60ee385b550&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从啥也不会到Cuda GEMM优化]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOa6nCcwjgzpqdtwDKcicWm2jYRRIKBA67Q3jO3GLic0EeKw59CcuAu3RuPibrG9nUQwYrFwoGotdI1w/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，这周本来是想写vllm的blockmanager的，结果在整理笔记时，看见之前入门cuda时画的一些手稿，一时手痒将它们整理成这篇文章。除了图解外，所有代码都配上了非常详细的注释，希望对于cu</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=2&amp;sn=28388a6bdf6010bdaf85b13d6db2bd95&amp;chksm=bffcb1878012f5df742937158fe5173cd87feed3ba7cbaaceb3184e8db93c4c87bd7226abe16&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[浅谈Llama3、大模型开源与闭源以及合成数据]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKuU4pEgMq2TUDB0OogETcMgicdw2ByX7PNpTBp1gxIHVtNRKhvN28JX5riaKhyzicpLf5HwM7YjK0jA/300?wxtype=jpeg&amp;wxfrom=0"/><p>整理：NLP工作站今天凌晨MetaAI发布Llama3，不少大佬纷纷发表看法，在这里分享一篇@张俊林大佬的想法。知乎: https://www.zhihu.com/question/653373334</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=3&amp;sn=6ba0b18bc658fc968d943a0006677c12&amp;chksm=bf9c60c82602de540a2f7ef43400faba882a5134ae819a87dd1df96192cd2e11698c49646d66&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型参数量都是7B，13B和65B等背后的原因是什么？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aaN2xdFqa4G8AuF94LePm6obnfV5lq4gz2LnfxDxibt81MM3amKQhusbsKyNwv0totwcMU0lQrUwnvSmwlvpffg/300?wxtype=jpeg&amp;wxfrom=0"/><p>不知道大家有没有注意到现在大模型百花齐放，但是模型参数大小却非常一致，基本都是7B，13B，65B等。那么，为什么被设计成这么大呢？网络上有很多解释，笔者结合自己的理解，分享其中可能的原因。最直接的就</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=4&amp;sn=d08494e85343e7c96e4a2898b0c62a8d&amp;chksm=bf3311f534ed81602d108e46f2a0181b76635520fe02b816e22723c18960a16e6860d9861b05&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[考古RAG-20年RAG概念提出的论文]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPyDlJN7J3JPfKMVXM0fckbibicyeBibcFaFYicpYjQvjgF7hFJB5MkT5joiaHWkxFTjNNm6MdLhKo7csNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>上一期是写了最近RAG文章的小结（心法利器[111] | 近期RAG技术总结和串讲（4w字RAG文章纪念）），里面提到RAG比较早的一篇论文，可见RAG这个概念并非大模型之后才有的，早在2020年就已</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442063&amp;idx=5&amp;sn=b6f079ecbb3cb70dbfbc1b067616e0a4&amp;chksm=bf3cb0a7d6e6e41f66874f0fb06d3850179c371edcf35bde6afc092284effbe024404efd4697&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 20 Apr 2024 04:10:00 +0000</pubdate>
       
 
     </item>
