@@ -30,17 +30,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[OpenAI最新研究——利用指令层次结构应对LLM攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj3wdQg6zr7nIpf0B5icHhkEU25XX1RsrJSgZVjOE6Gcxib7iaUa5QxAUtyl8JqnQe7Zogg8DSpz5cQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 原创作者：无穷小敏今天要给大家介绍一篇OpenAI的在今年4月19日发表的一篇研究，该研究提出了一种指令层次结构（instruction hierarchy），以减少LLM被攻击</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527711&amp;idx=1&amp;sn=47cd37f1e941f2cd2785f94f2245ae01&amp;chksm=eab1a88f59a2f655a13e7f18b951bb4e58164adfb8d224db0d09c1a5f7e18a07c9bf43ff637b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 27 Apr 2024 08:19:52 +0000</pubdate>
+      <title><![CDATA[全面解析RLHF，PPO，DPO，Flash Attention，增量学习等大模型算法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8iczq8AU4ylR3PtXez8v3ejPlV6eR4udurACxhNlzibQnnIEQK2NL2RoXtYWbRnibUUp2OS0iaCmUKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年间就有了大幅度的技术迭代更新，从LoRA、QLoRA、AdaLoRa、ZeroQuant、Flash Attention、KTO、PPO、DPO、蒸馏技术到模型增量学习</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527724&amp;idx=1&amp;sn=243f23560c0097eec41f9d71af2a2831&amp;chksm=ea3bc37d448266f8aa0e3800201de27a35aeb0f3d933fe13981f9386d6fd45e61403da171e2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Apr 2024 09:19:26 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[COLING24 ｜ GFaiR：基于归结反演的大语言模型逻辑推理系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagugAm5wBsSbqBU0szInXQKpv3XoPTzc8FhDMQukyhYUhRGiakODrcWo9oFaUA023gRIKsAbPQz8wQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文名称：Towards Generalizable and Faithful Logic Reasoning over Natural Language via Resolution Refutat</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527711&amp;idx=2&amp;sn=32b5d242ed9ca45ce2fe31af417cacf4&amp;chksm=ea1a2cc3295279b241dca5bdd17ca3846b29783a03d8fe9545794ceec0eca82a1b2e33862324&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[MSRA联合清华在LoRA相关工作最新进展—混合LoRA专家 (MoLE)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj3wdQg6zr7nIpf0B5icHhkEVKLjCSiae8jAFM4ZiaGKWXOyuCVM1wOHP6SxBjQ2Oic6boNpQjCd8wL0w/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 原创作者：fanmetasy引言2022年提出的LoRA（Low-Rank Adaptation）已成为微调大型预训练模型的关键技术，其在多种任务中均展现了有效性。LoRA的模块</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527724&amp;idx=2&amp;sn=3255f64fb1d82e871ee2d0d52605e2b4&amp;chksm=eab014bf5aca6235b9dcf8c3283515fc77f2c8ccaeb6b5f2c224658a37dd5a3cc080033f7c8e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Apr 2024 09:19:26 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[OpenAI最新研究——利用指令层次结构应对LLM攻击]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj3wdQg6zr7nIpf0B5icHhkEU25XX1RsrJSgZVjOE6Gcxib7iaUa5QxAUtyl8JqnQe7Zogg8DSpz5cQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 原创作者：无穷小敏今天要给大家介绍一篇OpenAI的在今年4月19日发表的一篇研究，该研究提出了一种指令层次结构（instruction hierarchy），以减少LLM被攻击</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527711&amp;idx=1&amp;sn=47cd37f1e941f2cd2785f94f2245ae01&amp;chksm=eab1a88f59a2f655a13e7f18b951bb4e58164adfb8d224db0d09c1a5f7e18a07c9bf43ff637b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 27 Apr 2024 08:19:52 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[COLING24 ｜ GFaiR：基于归结反演的大语言模型逻辑推理系统]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagugAm5wBsSbqBU0szInXQKpv3XoPTzc8FhDMQukyhYUhRGiakODrcWo9oFaUA023gRIKsAbPQz8wQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文名称：Towards Generalizable and Faithful Logic Reasoning over Natural Language via Resolution Refutat</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527711&amp;idx=2&amp;sn=32b5d242ed9ca45ce2fe31af417cacf4&amp;chksm=ea1a2cc3295279b241dca5bdd17ca3846b29783a03d8fe9545794ceec0eca82a1b2e33862324&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 27 Apr 2024 08:19:52 +0000</pubdate>
+      
+
     </item>
     <item>
       
