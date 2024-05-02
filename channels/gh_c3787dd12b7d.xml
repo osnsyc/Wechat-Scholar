@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[如何插入LinK3D、CSF、BALM来直接插入各个SLAM框架中]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsvnRPczwR4KOicC1MRvI4ic5icLfUabb3iaLtHRnAILEFUZkMBwTFvkN2POXn8pMSDq1oc2NXibWHTWPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介LinK3D、CSF、BALM这几个都是非常方便去插入到激光SLAM框架的。这里我们会分别从多个角度来介绍如何将每个框架插入到SLAM框架中1. LinK3D:三维LiDAR点云的线性关键点</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591758&amp;idx=1&amp;sn=b37383215e39b199e2618765bca66405&amp;chksm=fa430441d691461da45a574348a0d78dccbb1985e6f3ebd1acf739d7f5526636adc96490ff43&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 01 May 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[经典文献阅读之--i-Octree(用于最近邻搜索的快速、轻量级和动态的八叉树)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt05EDqy9blHrXMya2snlS1Q8N17afy33AhDrKcXyy7TX3h8wGY53mZAYE1DElIttQCBKm03wMkWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介在众多机器人应用中，通过最近邻搜索建立新采集点与历史累积数据（即地图）之间的对应关系至关重要。然而，静态树数据结构不足以实时处理大型且动态增长的地图。为了解决这个问题，我们在文中《i-Oct</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591748&amp;idx=1&amp;sn=0fe62bd0bfe74f04ca65bd768863be56&amp;chksm=fa00bb56f16882547d2d553ff2aa5c71122a935d0632f9de18c167eea39ebafae231d6b5e244&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 30 Apr 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -119,230 +136,6 @@
       
 
       <pubdate>Thu, 25 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于Gazebo的机械臂物体拾取线上仿真活动 | 诚邀各位开发者参与]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveeRjmujuicktISMFOo51jib3xGhJLLCc18rhdRiaIXwQxGKOSK2exEia2ottB1Wr7B1MjmC2bjV0Anw/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周的直播中，工程师精彩展示了通过大模型控制机械臂抓取物体的场景，直播刚一结束，后台便涌入了众多小伙伴的咨询，纷纷询问自己如何也能开发出这样的案例。为了满足大家的好奇心与求知欲，本期活动特别策划，将带</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591525&amp;idx=1&amp;sn=ad686c50d935a40aad402307e4204922&amp;chksm=fa7fc049c19394c79e21eafa61eb95c767247e78cfc1589e6a40215cb3311a02f376d0be2c59&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 24 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于Gazebo的机械臂物体拾取线上仿真活动|诚邀各位开发者参与]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvJU7s9jwEQZcNj4ibKGhdL79UOHQjoDxw83Vxqm8fKEhgqpYalx8qHgbAwboRVdaQZRrn47mwa4bA/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周的直播中，工程师精彩展示了通过大模型控制机械臂抓取物体的场景，直播刚一结束，后台便涌入了众多小伙伴的咨询，纷纷询问自己如何也能开发出这样的案例。为了满足大家的好奇心与求知欲，本期活动特别策划，将带</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591507&amp;idx=1&amp;sn=acd5d2543072d083cff6efb5485d203a&amp;chksm=fa8ad5c534ad73ae8cffefe94730cfbe53d09eff4d4b340da1f428b4cdae331ab133645c7440&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 23 Apr 2024 09:51:53 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[第十五期训练营《基于ROS2 Qt实现话题的可视化绘制显示 • 蒋程扬》开课啦！快来组团报名吧！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt1xYDo0n3IHPYUGx0gCkdmjI88xZKqoTlY9Gg8tzpfyic8zdia8f119ftxeejnMXJZ6mmibv0btRYlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>早鸟福利1 （开营前）前20名报名可享受早鸟价¥159！2 （恢复原价）20名后恢复原价¥249！注意：开课时间：4月29日9时  截止报名：5月19日24时课程介绍 (扫描上方二维码可领取优惠券）点</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591490&amp;idx=1&amp;sn=cca145a525bc284fcd3dee23ddae5c24&amp;chksm=fab9a12c716f7bb9c6028021bde5ffa7897c342e568dbd42e43d427cdb102204067f10aca0fc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 22 Apr 2024 09:42:59 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[第十九届中国研究生电子设计竞赛“地平线”企业命题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsgDgdpvKaZYlgcRgrmfUUhJQTic0d32iaMOiamC3h3xULdcicRhPvwE1VnvOd7lP5scXHfDj6t3NcFFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>地平线企业命题企业介绍地平线是行业领先的智能计算方案提供商。得益于前瞻性的软硬结合理念，地平线自主研发兼具极致效能与开放易用性的智能计算方案，可面向智能驾驶以及更广泛的通用机器人应用领域提供全面开放的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591434&amp;idx=1&amp;sn=920acc192a18c4b044fca035df6c8789&amp;chksm=fa05e2d6d1340c08f2fb8d49741affceacc3bda0a54cc4617f0670fd4e0fddb4c2efcb0f72b8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 21 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年全国大学生物联网设计竞赛地平线企业命题发布]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuWRMb7Z4USmygNjr0ic14Jlhob2suoCJWgaW8nOmXGgbXicFkqgUoia75kCh6GXE3VNgCZicRekyvu8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>地平线是行业领先的智能计算方案提供商。得益于前瞻性的软硬结合理念，地平线自主研发兼具极致效能与开放易用性的智能计算方案，可面向智能驾驶以及更广泛的通用机器人应用领域提供全面开放的赋能服务。在智能驾驶领</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590820&amp;idx=1&amp;sn=380c92131150672772ea5aacff489fcb&amp;chksm=fa0fb4a5cca96b344c3ad8d959966f3f34eb2dd661cdd8f41cac412bad4f618d8f020a28a3a6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 20 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何开发智能小车的驱动器软件]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsibQz7CjEKuSEFVtbvXX4bicpHPYT4BrYrXshAQiaic4NSegB1XAbbLmG6zwttNNVtL450aWwAp316PQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：如何开发智能小车的驱动器软件 - 古月居(https://www.guyuehome.com/46488)驱动器软件总体架构先来看整个机器人系统的整体架构，不难看出，其实驱动器软件的上下游是硬</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590719&amp;idx=1&amp;sn=3a046885ed599f2b310ba9bd6934ddcd&amp;chksm=fa1f59571edcdc15df44648c308d0085f23114e519d5082f7cec658c63df46197607741f4064&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 19 Apr 2024 10:09:53 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RDK X3 使用及学习资源分享]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvTEZxbyBJkWLmXOZxzJBJCxkviab5iaYHHNuX4Xg86AyuTEt8H5uKPvgVtmSLN1t2FuckqQVkgfVjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>RDK X3简介RDK X3 是一款全功能开发板，具有5Tops端侧推理算力。通过搭配丰富的传感器和扩展组件，为开发者提供了灵活的硬件扩展和连接选项。RDK X3 和 STM32 单片机有什么区别？二</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590686&amp;idx=1&amp;sn=a2c60a937c1c32e864502e69dcdd7ba8&amp;chksm=fa65860d160b2b695281b89f8490e8a3917f6475129d0f08ef518ff730bc2f1a413f8e6f5585&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[直播预告 | AI时代智能机器人开发新范式]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvTEZxbyBJkWLmXOZxzJBJCIH99MB1vT1ynZydU8Faicstv8TTY2V32rZXSkGSH9OpRv1ukSM3yrJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击“阅读原文”即可跳转直播</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590686&amp;idx=2&amp;sn=e532895765d823f26f72d75b3ee429fa&amp;chksm=fa82e92a8eeb3ebbaa379300fd5cf64cd3d430b315a6fa86bc4945bab3cca3758f99ba6f3141&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024地平线&amp;古月居 核心开发者招募 | 名单公示]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsTV8f6fYXOAx2N8e9BgdENfXMpxFdbLAboHKQnQaOtePtbPLFibRyW4HrbJA1J3NB5iaVgic5FpgmsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>【2024对地平线&amp;古月居核心开发者招募】活动收到了非常多开发者的热烈欢迎，感谢大家对古月居&amp;地平线社区的支持。经过前期的积极报名和严格筛选，最终入选本次【2024对地平线&amp;古月居核心开发者招募】活动</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590603&amp;idx=1&amp;sn=45e9c5de1461e5321741a604c7bf24df&amp;chksm=fa7319b8c2be2b343f7545478b534a5ebb14833290cd3484b71f632f1838d01a27569a518e33&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 09:50:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[直播预告 | RDK X3 使用及学习资源分享]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsTV8f6fYXOAx2N8e9BgdENEM83chbeOSeOyLWT1vmIHXibR4A1ZC4oKdaO92tp1xWPMm7sJB6mAEQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击“阅读原文”即可查看直播链接</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590603&amp;idx=2&amp;sn=d080d6b378ec8f56a60e8704bffbcdf4&amp;chksm=fa6696e2e8344151f70bb9a53dac80b3ac9b221d3d4e62fc93ab45d12a54b6579a168e63165c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Apr 2024 09:50:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--HBA(大规模LiDAR一致性建图BA)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvHXqqb8dFK4rG5icicuSJiceNPcOLfPmOqHbkPM3xTfIXxQzTDvboAogx4n9TnhyIrdO3S0t7baVIqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介重建准确一致的大规模LiDAR点云地图对于机器人应用至关重要。现有的解决方案，即位姿图优化，虽然时间效率高，但并未直接优化地图的一致性。最近提出了LiDAR捆绑调整（BA）来解决这个问题，然</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590588&amp;idx=1&amp;sn=dd54ad3884ed6379bdc7c19e5230f777&amp;chksm=fa8b9c8e5e5bcf1c6be3acafca6f895b7102afe8111acee7632bc6552b79b14a2b6524ba0986&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐 | ROS人机交互软件的界面开发 • 蒋程扬]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztZZKVtLawYZGmfRcNa7PAibia0uJ5QtrOZchr1IryVZ4TGLtN5kKG6UPF6Xz2LPzO3icKIeF1yFuPTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>*课程资料请在微信公众号“古月居”后台回复“人机交互资料”获取该课程已开通专门交流答疑区《ROS人机交互软件的界面开发》课程答疑汇总（https://guyuehome.com/Bubble/circ</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590559&amp;idx=1&amp;sn=d470962ad475fcef94db87d9be93d9f4&amp;chksm=facef0fe03716baf3a5a645904acde126e6e6b134932dfb1cc1187b91a466df2b2ea109e81cd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Apr 2024 10:08:29 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--BEVTrack(鸟瞰图中点云跟踪)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuO2gfpSC4xYU3GY74Lhicf6fpLTA5AOZmgguLVvmazaAEQQbibOEjib9078tyyQrRrnSn03ia2O4ylSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介本文介绍了BEVTrack：鸟瞰图中点云跟踪的简单基线。由于点云的外观变化、外部干扰和高度稀疏性，点云的3D单目标跟踪（SOT）仍然是一个具有挑战性的问题。值得注意的是，在自动驾驶场景中，目</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590390&amp;idx=1&amp;sn=ca1ce79b3d18c8832e94d863bcb3fa4d&amp;chksm=fae16a263fdd58c1d1ea53c82a752889e4a5734b71b2bc902e0953db5e35ad416cb9d2aa5fea&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Apr 2024 08:21:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[直播预告 | AI时代智能机器人开发新范式]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu2megWLuYXYmqHSpYDY2IFR8icwZXHxiapibH6ic4A3QWpAqlJ5z6bHQZQMSwMrEeErs8ic1UCk8ENibog/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击“阅读原文”即可跳转直播</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247590375&amp;idx=1&amp;sn=3a4fb502003aa6f46a1fdf4f7732efb0&amp;chksm=faeb682b848551928d06e4c66e5f6d87100037ffe4b27ff207246e09334b9d2ae8826ab4e0d4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 13 Apr 2024 09:21:40 +0000</pubdate>
       
 
     </item>
