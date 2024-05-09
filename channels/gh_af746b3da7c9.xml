@@ -27,29 +27,85 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[LSTM一作新作xLSTM架构：大幅领先Transformer和状态空间模型（SSM）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia8ouLgAYra1MITD4XrVVA4WHuKgqCOiaCgHaZk6STqgDgrABia6R7dC9rdm6novK4GGjwbAbFwunVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文介绍了一种名为xLSTM（Extended Long Short-Term Memory）的新型递归神经网络架构，旨在解决传统LSTM（Long Short-Term Memory）网络的一些</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527914&amp;idx=1&amp;sn=e587a115c66b1d862b6d737ea0e36701&amp;chksm=ea47b5018da1ff3435c163b54769050dae423722dfdcc551c34e508397453e5ef0af57e52373&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 09 May 2024 00:32:27 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[RAG开源项目Qanything源码阅读1-概述+服务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia8ouLgAYra1MITD4XrVVA4neaPzWw7sfib5VafpPZGiajzzfffHxIHjF8PYskJTTWFHXHdZrIczovQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CS的陋室最近是想找一个开源的RAG项目进行进一步学习，选了这个项目：https://github.com/netease-youdao/QAnything，后续一连几篇，会分几篇，从我的角度，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527914&amp;idx=2&amp;sn=b3f003ce732a29840ed497f062b3b229&amp;chksm=eaf7d876601a483f877d1901a5c8bf262980abaf44ed60d20ceca2f64ce2038b19f40f0d9ace&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 09 May 2024 00:32:27 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[北大又一篇顶会研究，LLM+MoE实现多模态大一统！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag7SVc9N8QDpyTN8vpZWsxJSQcEvs2OZ2f6caBmeQx6Ky6Wc30iaic83BmD9dICDjlIapqFVvviaqzRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>多模态大语言模型（MLLM）成为研究热点，北大投稿顶会ACM MM 2024的一篇论文，创新提出了LLMBind框架，结合大型语言模型（LLM）和专家混合（MoE）技术，通过处理多模态输入，并生成特定</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527867&amp;idx=1&amp;sn=61546778b4885b90b306c899749dcd27&amp;chksm=ea9b86e57b65125bf36ae45b62d1ca455b44dbad021f61f6e7df0f07ec77115ca216faf6747e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 07:26:30 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[多模态图表理解新SOTA: TinyChart-3B，兼顾性能和效率]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagjO5C8icLMDicqdWqhBMyUnkHEXNf7YMHXtntv4rY6Ob1xSzUliaH7sGfnX6VOFQKECB4N93NC1PJTA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：胡安文@知乎https://zhuanlan.zhihu.com/p/696540858EMNLP2024投稿群建立！作为一种重要的信息来源，图表（Chart）能够直观地展示数据关系，被广泛地应</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527867&amp;idx=2&amp;sn=d054d5388bff204026df2144a93f775d&amp;chksm=eae12b35a26af77f790c4432d7b0c5f1432348fde0feb9f3a46054bdebbcd150c15c67c631fd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 07:26:30 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[幻方发布全球最强MOE大模型！ DeepSeek-V2]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagjO5C8icLMDicqdWqhBMyUnkkwBaeUC2xVd7yRVbY8IrszkiaBzOkJ7uxIB0OxaPZOBRCF3zNlqJHYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>仓库和技术报告地址：https://github.com/deepseek-ai/DeepSeek-V2来自：包包算法笔记EMNLP2024投稿群建立！1. 介绍今天，我们介绍了DeepSeek-V2</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527867&amp;idx=3&amp;sn=b8874f84f36dfbcc26e1938b00dd78dd&amp;chksm=eaa0fd0a6dd4f53da12a6927cd9c0645ff81d2197ab66ec4fbf7d36f0c4a29c4eceb4ff2e064&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 07:26:30 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[EMNLP2024投稿群建立！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagjO5C8icLMDicqdWqhBMyUnkaWGSCmnCqPd9oYJLJjaZmdzq9lkkFLv1NHIhOgMkZ7ic6iarMnKJ9ptw/300?wxtype=jpeg&amp;wxfrom=0"/><p>备注：昵称-学校/公司-EMNLP，进入投稿群id：DLNLPer，记得备注呦</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527867&amp;idx=4&amp;sn=a5d172d7dfea476f8c427d585e1017d8&amp;chksm=ea3ccfecce808a8f2cb48ea814e6295944d888558263773e49ecc01939486d53bfdc04e09a2f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 07:26:30 +0000</pubdate>
+      
+
     </item>
     <item>
       

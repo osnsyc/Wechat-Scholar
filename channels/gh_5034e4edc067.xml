@@ -37,35 +37,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[万字长文总结大模型微调技能图谱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK1J9buNHUBYtPvyMLfGkYwKusMn9IRvBaj6SZaZEj9MpDRA2icfrQ0NHuAxiaxFPNoKp8uyCZR0hGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年间就有了大幅度的技术迭代更新，从LoRA、QLoRA、AdaLoRa、ZeroQuant、Flash Attention、KTO、PPO、DPO、蒸馏技术到模型增量学习</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442344&amp;idx=1&amp;sn=27b70415f9470597115b91863988c69b&amp;chksm=bf84cbb329edc87694dc5c11cf0c0956a330bf792bcfe1de9513e6d633f8948eb646d637c9ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 09 May 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek-V2技术解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvIICKyjEKgYtMsEOoP6MZamOdh0KU0pibo1Ic4cOGSH2GYqonkcI4LTDo7EMl8Lp7HFTicVJxPCABfQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek又带来了新的MoE模型DeepSeek-V2，总参数量2360亿，激活参数210亿，虽然离GPT4水平还差一点，但也可以说是目前开源的最强MoE模型了。并且秉承着一贯的开源精神，同时发</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442344&amp;idx=2&amp;sn=b023f892fa001a265398d1880f62d4f7&amp;chksm=bf5bc1b319550f596f858722eacb1bd5317ba99d555f7ee7306fd4c0143cfb1871f79f3eaa6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 09 May 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ORPO：当有监督微调遇上偏好对齐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh41PuiczrGnZffujR0l3ITohx0WFvibQFqGiaSxs8YHn5FGK7zk3HKrujicL8XzYudOsDa5ok5azTdwjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型通常会有预训练、有监督微调（supervised fine-tuning, SFT）、偏好对齐（preference alignment）三个训练阶段。虽然说在很多应用场景下有监督微调就已经</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442344&amp;idx=3&amp;sn=df363e9dadeae5054d986c24566846e3&amp;chksm=bf7b2242e64e86ad52f4fda7f0c1404f137e100eb9e723a89ac0d7aabe6d8d7f7f48df6be078&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 09 May 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[全面的大模型训练、推理工具包LLMBox来了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0Oq2ibcQGRB20ZVaNJqOiavj1ks8zeH1xpefx8eoD3oQCS9OGbtnMcia7FlHvrNzCAhtv4xWO08kdRxvg/300?wxtype=jpeg&amp;wxfrom=0"/><p>    在2023年3月，我们发表了大语言模型综述文章《A Survey of Large Language Models》，目前已经更新到第13个版本，自上线以来受到了不少读者的关注。在几周之前，我</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442344&amp;idx=4&amp;sn=c36f1aa98d8bddbb2b40bfe0690bef38&amp;chksm=bfeba8d80ed35033cc49ebf638d2a6dcac6b2c85e9c26ad624eb266d66b4e4e2649f2117fcd0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 09 May 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图推荐系统综述：A Survey of Graph Neural Networks for Recommender System]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQc3Ku0sw17D1NWNHia89a72upTOh7zFnEYSBUU4NAp4ZBlpBcbiak5umXeOzt0PQAfA7oHY7YN6JupA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | twilly（已授权） https://zhuanlan.zhihu.com/p/686458569第一次整理综述，作为深入这个方向的开始。应该不如AI整理的详细全面，不过这一篇文章主要是阅</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442344&amp;idx=5&amp;sn=d49201c2295cbe581c322f27a70fc98e&amp;chksm=bfff26b2e1c0fecf7f4e9286bd1ba064b17216a96a4b8324073186c733916c831edf708eaf1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 09 May 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[LLMBind：LLM+MoE实现多模态大一统！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK1J9buNHUBYtPvyMLfGkYwUZSicdSfDN1HksYs5z4xibibKB4atDOf16ia1u8gJrYgbr4pBCLIOAeevw/640?wxtype=jpeg&amp;wxfrom=0"/><p>多模态大语言模型（MLLM）成为研究热点，北大投稿顶会ACM MM 2024的一篇论文，创新提出了LLMBind框架，结合大型语言模型（LLM）和专家混合（MoE）技术，通过处理多模态输入，并生成特定</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442323&amp;idx=1&amp;sn=c76e0a7e60ec3d5472f9179fb239a7d7&amp;chksm=bf021e58e4ff317cccac6f7286952126dbcb4aba9125ecf760ffb1518d734805740a248f35c7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 04:29:18 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Unsloth x Qwen2 微调实战，提速47.32%，节省39.13%显存，最少仅需8.43GB显存]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/JrHT8u594NGjyJL2C2DJz1zTTV5o8IKjic3KLm9x7ffmG6m2Hx6W5K73ibiaTAqSxLIeVR5coycQ307N5HbfZDTjw/300?wxtype=jpeg&amp;wxfrom=0"/><p>01现状在上一篇文章「Unsloth微调Llama3-8B，提速44.35%，节省42.58%显存，最少仅需7.75GB显存」中，我们介绍了Unsloth，这是一个大模型训练加速和显存高效的训练框架，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442323&amp;idx=2&amp;sn=85f69871cb1bacc344ff3cd3c5ac6b0d&amp;chksm=bf72d97f7da41ac1275e950c86abe23f45959ffcff83077efc091862a738740b64bb4e55a378&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 04:29:18 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[解锁大模型长上下文能力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464mWPic6FiacIFn4rg1vj6fQuwVicoap3QCmgLUgxiaCY7qtpuF8MEc1jvv4ECiahx4TM1TtibEoy8Z4ibow/300?wxtype=jpeg&amp;wxfrom=0"/><p>步入2024年Q2，大模型在RAG、文档对话、大模型Agent能力等方向的发展持续升温。在平时的日常生活和工作中，大模型工具提供的文档总结、文本润色、代码生成等能力已经是提高效率的必备帮手，甚至在一些</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442323&amp;idx=3&amp;sn=87d266c11ec3480a277c0235a2a8e9f8&amp;chksm=bfc528137622d29f9c06b4e8587e4966645ffcc72d3351f662732cf7d85f2842b540dd236d2f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 04:29:18 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[4.5万字详细解读复旦NLP和米哈游最新Agent Survey]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/goiboxqfW2fY4fzRiaCwu9o1lZ3vxVL9oCJJCsl20ztAkBZiaZz51ickooebXbFSTk6Uea4fDRJSVgm6OGn5tFZcpQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：兽族机枪兵（复旦数据科学博士 ）原文地址：https://zhuanlan.zhihu.com/p/656676717笔者前言：这次的文章写了三天三夜，好哥哥好姐姐要不给个赞再走呗正好最近LLM</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442323&amp;idx=4&amp;sn=3a60f0018dac38f42b8c6f867a696345&amp;chksm=bf2700c399fbfd10a3a236e2ab0bfc0ef0fe0edb05b76a1ecf60d7badf98d0217732fbae9139&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 04:29:18 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Llama3-chinese: 大幅改进Llama3 中文能力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgwtLKsPKyH6XBysTicgwUCnnpicUnAP39wBsq9ntfW0m2VOXuTVMweibYwpFqWr76f6a7mWb8N9A3e1w/300?wxtype=jpeg&amp;wxfrom=0"/><p>介绍Llama3-Chinese是以Meta-Llama-3-8B为底座，使用 DORA[1] + LORA+[2] 的训练方法，在50w高质量中文多轮SFT数据 + 10w英文多轮SFT数据 + 2</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442323&amp;idx=5&amp;sn=f4af22a3e5e79a1be7a899fa7663fa89&amp;chksm=bf313ead6eddb8b2fe887cbd4a23b28d0cad9ece0746972057077c4565463f287f237cf155aa&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 08 May 2024 04:29:18 +0000</pubdate>
+      
+
     </item>
     <item>
       
