@@ -44,35 +44,111 @@
 
 
 
+
+
     <item>
+      <title><![CDATA[自回归预训练 + Vision Transformer！大视觉模型 AIM：70亿参数量是我的底气]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqaCBd0a5ee8khibWhkDib2jC8w37YaP0cficHPbw3zGvv7Veics4jkJwkK10d5iaUuA4YtYCxhyrYDCwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 本文提出了大视觉模型 AIM。AIM 是属于受到大语言模型 LLM 的启发，使用自回归训练策略来训练大视觉模型的方法。AIM 和 LLM</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681804&amp;idx=1&amp;sn=4e9230e57f8a8d33af3bdf5a1447e83d&amp;chksm=ed8325d6ed5bc438a7da5d966fa4577182f04453dbb4d2b7f1cefaf89e1e69317d94a2f2f001&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 10 May 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LSTM卷土重来！xLSTM：一举超越Mamba、Transformer！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqaCBd0a5ee8khibWhkDib2jCNQyg6NUeLSOO4ahhy0ZmZXSGxnBsZcwWmfcsT6wHNFGZLGG83BO6Mg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨机器之心来源丨机器之心编辑丨极市平台极市导读 如果克服无法修改存储决策、存储容量有限、内存混合这些局限性并将 LSTM 扩展到当前大语言模型的规模时，能实现怎样的性能？</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681804&amp;idx=2&amp;sn=5fb71b9dfaa8d9db4b6c90aab9589f3b&amp;chksm=ede3205d1fed318e61596d94c383e03f7bff809bab52a49cc05feda25797339b616b5387550a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 10 May 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ICML 2024｜基于多实例学习可解释性的时间序列分析的弱监督学习新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqaCBd0a5ee8khibWhkDib2jC1Tven2Tia0zGg8q8ziczIJX7YiaKgFV3eJByQhOSWTZLBLsLqic1AibgRvg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 文章介绍了一个新的多实例学习 (multiple instance learning (MIL)) 框架，名为TimeMIL，旨在改善多变量时间序列分</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681804&amp;idx=3&amp;sn=5bbbd2f1e9b53520fa900c18d6813a8a&amp;chksm=ed489a18efeead3d67a7ec4bcab491557fb3b246cd3a74184a7713b8afc0c3595c40e23fe860&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 10 May 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[网传Ilya Sutskever的推荐清单火了，掌握当前AI 90%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqaCBd0a5ee8khibWhkDib2jCmmIia0K2D6tlJJjuiaWaHAoqQ8TEjHg7kVLROWbX1PjMDIvlQoOBah6A/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨机器之心来源丨机器之心极市导读 近日，一份网传 OpenAI 联合创始人兼首席科学家 Ilya Sutskever 整理的一份机器学习研究文章清单火了。 >>加入极市C</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681804&amp;idx=4&amp;sn=c47cd496642df7f59379405b1590b89e&amp;chksm=ed492c623716f18a69659564ced8994c409fc179813cfa8689725fdfb7d2868474b3864beeb5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 10 May 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[不是Nvidia买不起，只是国产更有性价比！使用全国产CPU和GPU项目开发记录-训练篇—部署篇]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqa0Aq38gqG5PHibvCDy3tYFOhPmGLmTZ6Vn7ygyeE7wSoSyo2feC3YiaMUHJSicuk8Fic1uyvYLqr7bA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨Dcity编辑丨极市平台极市导读 重点阐述真实的客流统计算法从Nvidia环境往国产海光CPU+DCU进行迁移的部署过程，除去学习成本时间和处理一些项目用的基本软件安装</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681614&amp;idx=1&amp;sn=d8bf85e9cab4adf9ac672f9dd584472c&amp;chksm=ed2b4b6a50d6409210e1e4b509044ea7974e9864d00bdee7cca14113d44cdb3005bc225d1e74&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 09 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[极市平台亮相视觉技术大会，VALSE 2024 圆满收官！附poster论文合集资源]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqa0Aq38gqG5PHibvCDy3tYFys4CTiaNfEbudN0FShAvTYDoETGDDlLibtBBbB5JA0sVXwUQIQWlhroA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台2011-20245月5日-7日，第14届的 VALSE 2024大会（视觉与学习青年学者研讨会）在重庆悦来国际会议中心举办。VALSE 2024由中国人工智能学会、中国图象</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681614&amp;idx=2&amp;sn=4a91d1f77850ab59eb83204df51d93a0&amp;chksm=ed772d7fb2ac433e7d62af13631a707ba5a2b044f85ab5674a4cfc7dee30c0fbaf92d1749bd0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 09 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Tunnel Try-on: 阿里最新视频试衣生成算法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqa0Aq38gqG5PHibvCDy3tYFSDtRK6RIh0ne2a3ZbPxvGaRu9W2aspIkyyQDNJWYwIK4SQm1g6xTQQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 Tunnel Try-on 是第一个基于Diffusion 的视频虚拟试衣模型，通过使用焦点隧道、隧道增强、环境编码等技术，Tunnel Try-on</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681614&amp;idx=3&amp;sn=f6fdbfaa79afb3bb2b9bc94f6db4f59a&amp;chksm=edd238423748279672d6f45e115e2b83c0d27962350bee56fc33852223b08fbe018c35e1abd0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 09 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[极市直播回放第131期丨三行代码，即插即用！InfoBatch：无损数据集动态剪枝加速（ICLR'24 Oral）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpcDJoIvGULrDxwE5w1bQ5e2QHIAExXyD7oTYE9G1L1gtqRGdKywEYUNWbaVaOLwe7YiaUkFYAiaBWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台本次分享我们邀请到了新加坡国立大学博士生秦紫恒，为大家详细介绍他们中稿ICLR 2024 Oral的工作：InfoBatch:Lossless Training Speed </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681614&amp;idx=4&amp;sn=2d5e230598f15d7f8678b7c288d7cf53&amp;chksm=ed365165dae07c51b39b8459ae677e2c953cf29e8540e34aa602f6231a7c478d62174a191abe&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 09 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ICLR被曝巨大黑幕，评审和作者竟私下勾结？49.9%论文疑有AI审稿]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqa0Aq38gqG5PHibvCDy3tYFLJUZicBd8pKnpfo5DXVym8iaYDiaroF4SGQlrPAGS1GQFGfdsZE4F8DNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元极市导读 正在召开的ICLR 2024会议上，成为关注热点的不仅有耀眼的成果和学术明星，关于论文的审稿程序也掀起了一波讨论。大会官方对网上热议的「串通</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681614&amp;idx=5&amp;sn=f967c3eef2a0bc621fc41f5add68892b&amp;chksm=edb700aa39f9aba46e18f93531d020bd23e80467213038a28d839f6073e8309cff7de1094596&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 09 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -391,70 +467,6 @@
       
 
       <pubdate>Sat, 04 May 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[关于AI大模型的一点思考和讨论]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoPT2vJFz4niaUuiaILzwcGX7w4XlUShZzlap96aYtPc7P8dMTWPumYVTLibShPSZKZYRI5435ODQDUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨王云鹤@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/580745171编辑丨极市平台极市导读 大模型最近各大厂搞得火热，而大模型究竟是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681058&amp;idx=1&amp;sn=e2c0b2133d13a98fa2ebe226210fe864&amp;chksm=eda77be4202e0af4d68d486d88d831b41f14161c8ca03c6af5981a4ec481e679985b9eb9db85&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 May 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Valse2024｜极市平台在重庆期待与大家的见面！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrYTzEVWFiagv4Mu82q5g5ibOD1IuwLoqaOh9yWLSrKic7vQ5SYj0hKV8T4UJ5ZOwscZTUpOSzw1OrNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台VALSE大会主要是为计算机视觉、图像处理、模式识别与机器学习研究领域内的中国青年学者提供一个深层次学术交流的舞台。通过这个舞台，期望促进国内青年学者的思想交流和学术合作，从</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681058&amp;idx=2&amp;sn=3c42b49f2cca3047d2e57cb82b68ea7b&amp;chksm=ed29a59af8eb1d25ed771084c26eee469e19049a957008b259d3f8706a21448d9ea9374ac906&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 May 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CVPR 2024 Highlight｜基于单曝光压缩成像，不依赖生成模型也能从单张图像中重建三维场景]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrYTzEVWFiagv4Mu82q5g5ibORniaEe2micu4ZaMsC63iacdzoNicJX9x2dSLvTUINs1AD5UlfRafAc0iahQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨机器之心来源丨机器之心编辑丨极市平台极市导读 本文提出了一种基于单曝光成像和 NeRF 的 3D 场景重建方法，实现了不依赖任何预训练生成模型的端到端单张图像重建 3D</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681058&amp;idx=3&amp;sn=28ba7ff40158ff7efad38d6c919736f4&amp;chksm=edc92acc93a704f85118feeef75ef2ccc5211ed4dcaa63a3f47cd087fa87324d1053ac88454f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 May 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[拒稿4次，终获顶会！ICML 2024放榜：投稿量近万篇，审稿意见下滑严重]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrYTzEVWFiagv4Mu82q5g5ibOXpfrt2NBxw463nibvR6mq8u3iazich8bzrjlepLnFLgoP74icJ8Tqoiaufg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元编辑丨极市平台极市导读 一年一度的ICML 2024录用结果出炉！今年投稿量再涨3000+，达到9653，审稿意见质量太差，AC还得重读论文才能确定结</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247681058&amp;idx=4&amp;sn=977bf55290fefde7012d10e8671b4c7e&amp;chksm=ed1d5e1c5641d768993d9d040e573c3f77a9926497c680c6de48e7f8f2a1bd96767761aa73c8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 May 2024 14:00:00 +0000</pubdate>
       
 
     </item>
