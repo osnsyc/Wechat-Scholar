@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[14-1 学习PID--步进电机梯形加减速实现代码实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvtDGVfHYUYFnh0Dh6wLLc3u2CZGYuz6pPYDFDScMa1Krw6mxaWjOK8r0bRIBTfav5AgJ6g4H31lA/640?wxtype=jpeg&amp;wxfrom=0"/><p>理论实现由于算法在计算过程中涉及到一些浮点型运算，大量的浮点型运算会使得效率大大降低为了使在计算浮点型的速度得到更好的优化。控制步进电机需要四个描述速度曲线的参数；速度曲线从零速度开始，加速到给定速度</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592025&amp;idx=1&amp;sn=df5fc4545915b4e627f0cce9c0b5b22f&amp;chksm=fa200c15f24a3c264975d1d527568bd123061620f68a4a8c51e42b14bc09ad9bc3f35086df94&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 11 May 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[视觉SLAM简介]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsdiaTJvjXTqc6cPU5PgXR0P9hAyIo24GLgzIDTs6JTyZurOUfGNWDdx8QziaFZicLaWMnxEkw5R8ibiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>SLAMSLAM（Simultaneous Localization and Mapping），意为同时定位与建图。看名字比较难理解，但是结合到日常生活中的例子就很好懂了。想象一下到了一个陌生环境中，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592006&amp;idx=1&amp;sn=4a49cae0b5cbb9a28292e041e73defaa&amp;chksm=fa9991fd4adb3f2cf22e800ac3fbd23c8ff9adb28212ffa780451216ecd932914d0015a69752&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 May 2024 09:27:50 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -167,182 +184,6 @@
       
 
       <pubdate>Sun, 05 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--A Survey on Generative Diffusion Models(扩散模型最新综述)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztCrSqrkxfJhgllIwNovvkMtLlkW1s4YZtG2ytIhqo7QKmY1V5GrEiboRHYWKvfic9gPYR9zq50tAVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介本文综述了深度生成模型，特别是扩散模型(Diffusion model)，如何赋予机器类似人类的想象力。扩散模型在生成逼真样本方面显示出巨大潜力，克服了变分自编码器中的后分布对齐障碍，缓解了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591916&amp;idx=1&amp;sn=bb01550eed24eb61f6007d4653634589&amp;chksm=fae67446225508952aa6d3ae9d3ff0909bd6bfb8b8a3f6bf4eb1ffdeceb3d720423e2f406489&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于Gazebo的机械臂物体拾取线上仿真活动 | 诚邀各位开发者参与]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveeRjmujuicktISMFOo51jib3xGhJLLCc18rhdRiaIXwQxGKOSK2exEia2ottB1Wr7B1MjmC2bjV0Anw/300?wxtype=jpeg&amp;wxfrom=0"/><p>上周的直播中，工程师精彩展示了通过大模型控制机械臂抓取物体的场景，直播刚一结束，后台便涌入了众多小伙伴的咨询，纷纷询问自己如何也能开发出这样的案例。为了满足大家的好奇心与求知欲，本期活动特别策划，将带</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591916&amp;idx=2&amp;sn=6435a597c6382c6576903eac9af913c4&amp;chksm=fa1918f39bff3776a3bcfe3848bd8efc64572641c5967652e62ad85c39ea410d029d7bd77ac4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--LESS-Map(长期定位轻量级和逐渐演进的语义地图方案)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztCrSqrkxfJhgllIwNovvkMq5QIwgia52RKB5sykUtV1XWYWzZcnGfHZicrfwTYcBic5Hic0blR6uK1EQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介精确且长期稳定的定位对于停车场内的行车任务，如自动驾驶或自动代客泊车等，至关重要。现有方法依赖于固定且内存效率低下的地图，缺乏强大的数据关联方法，不适用于精确的定位或长期地图维护。《LESS</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591893&amp;idx=1&amp;sn=f874c784f054fd9a52b6c6155d4be0af&amp;chksm=fa4094ba1f19b3cf64995691ae6b54a966fc7db40d4a0a7427c23d80c634fbe0121deda6c95b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--Light-LOAM( 基于图匹配的轻量级激光雷达里程计和地图构建)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztst9On1C4BB6jqoXPGQ8gd6VCSDDRibcF5iaB4hDQzjozXu4nUNciasEDYcvZQX2qibxHyS2omJXAYuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介将SLAM应用于机器人应用中，可靠性和效率是两个最受重视的特性。本文《Light-LOAM: A Lightweight LiDAR Odometry and Mapping based o</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591873&amp;idx=1&amp;sn=12e6815cd44ff1f41f0217d52af9bf25&amp;chksm=fad1de8817bcbf2a9ce30432a871caa8d4cc766e3d439bc00d878e272240f719259de193ca73&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 02 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何插入LinK3D、CSF、BALM来直接插入各个SLAM框架中]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsvnRPczwR4KOicC1MRvI4ic5icLfUabb3iaLtHRnAILEFUZkMBwTFvkN2POXn8pMSDq1oc2NXibWHTWPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介LinK3D、CSF、BALM这几个都是非常方便去插入到激光SLAM框架的。这里我们会分别从多个角度来介绍如何将每个框架插入到SLAM框架中1. LinK3D:三维LiDAR点云的线性关键点</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591758&amp;idx=1&amp;sn=b37383215e39b199e2618765bca66405&amp;chksm=fa430441d691461da45a574348a0d78dccbb1985e6f3ebd1acf739d7f5526636adc96490ff43&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 01 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--i-Octree(用于最近邻搜索的快速、轻量级和动态的八叉树)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt05EDqy9blHrXMya2snlS1Q8N17afy33AhDrKcXyy7TX3h8wGY53mZAYE1DElIttQCBKm03wMkWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介在众多机器人应用中，通过最近邻搜索建立新采集点与历史累积数据（即地图）之间的对应关系至关重要。然而，静态树数据结构不足以实时处理大型且动态增长的地图。为了解决这个问题，我们在文中《i-Oct</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591748&amp;idx=1&amp;sn=0fe62bd0bfe74f04ca65bd768863be56&amp;chksm=fa00bb56f16882547d2d553ff2aa5c71122a935d0632f9de18c167eea39ebafae231d6b5e244&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 30 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新课来袭｜《ROS自动驾驶障碍物检测》限时优惠中！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuuBPcRzVbic7MMC2ibA8uoNmQaa2gJuIyiaSyVmn9rMzxGOHS55VpA9EpiccWZFBicVpFTZ0dTNuRhPHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程目的自动驾驶车辆的障碍物检测是指车辆通过激光雷达、摄像头、超声波传感器等感知设备，对周围环境中的障碍物进行实时监测和检测，以确保安全驾驶。障碍物可能包括其他车辆、行人、交通标志、路障等。障碍物检测</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591731&amp;idx=1&amp;sn=c6e2686571cf009db4e0ef8652012d6e&amp;chksm=faa2b0aa30d7effbb9d23e07e90ad72f9947893d30646d3d3b9cbf8942af8cc6abacb879fdc0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何插入LinK3D、CSF、BALM来直接插入各个SLAM框架中]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuuBPcRzVbic7MMC2ibA8uoNmetWVFyJzmZgqYrqQtWgiaOWRCJL5DURFjGAWaibe1R0meOfaORdCHmoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介LinK3D、CSF、BALM这几个都是非常方便去插入到激光SLAM框架的。这里我们会分别从多个角度来介绍如何将每个框架插入到SLAM框架中1. LinK3D:三维LiDAR点云的线性关键点</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591617&amp;idx=1&amp;sn=c9a13ae72bf0411df830d76cfb929bcf&amp;chksm=fadee434898179abed130960950a46e7a026a0085660e7e8b810099830f37f71db950a451324&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 28 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--als_ros(移动机器人的可靠蒙特卡罗定位)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzthD5g169vNRicYmsRIHPhicNkhLbRXCFOS1iaaC4BAf7z0sMul32jF3d3Qmmu3cKuXxVLLoB05ZQCTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介在本文中，我们关注移动机器人定位的可靠性问题。蒙特卡罗定位（MCL）广泛用于移动机器人的定位。然而，由于缺乏判定MCL估计可靠性的方法，其安全性仍难以保证。本文提出了一种新型定位框架，能够同</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591606&amp;idx=1&amp;sn=4613d4f34f4831a77234683078116e0e&amp;chksm=fa2534f40bb481726befc315a69b354d530aaeb76bfc44284c097254f79c9f0f5eba5957f97c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 27 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[python实现无监督聚类后的匈牙利匹配]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzthD5g169vNRicYmsRIHPhicNqOP27x7Inu1r9Gsja8glny6BBlibOuny7j9ZXx5ANx4K91YVI4WmKqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>描述之前文章介绍过DBSCAN，使用C++实现过该算法。现在针对某个项目，利用python实现DBSCAN和Kmeans算法。项目简介：利用某传感器可以采集场景中的点云，每一帧都可以采集数量不等的点(</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591577&amp;idx=1&amp;sn=432fb97d0999d72c80b9e3271ebcfd8e&amp;chksm=fa869c23b7ef7f0e4be3fa72bf7c1a7810594cb74ec20bc1911e6962ed77c2465604eee0cbde&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 26 Apr 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[求贤招聘 | 同程旅行机器人运动控制算法工程师招聘]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztHWCAKqQQRdDknE7BtfdViaBEibkCHUJTILWCmESLp3H7HEahlBA1sia140nBlCpvSxamibcvicModL9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>同程旅行公司简介同程旅行是中国在线旅行行业的创新者和领先者，由同程集团旗下同程网络与艺龙旅行网于2018年3月合并而成。2018年11月26日，同程艺龙成功在香港联交所主板挂牌上市（股票代码：0780</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591570&amp;idx=1&amp;sn=79af7782d2294e8053ec20f9d0c7647f&amp;chksm=fa4c66f655426794c9b7907ab586f6bd9c296f2a26c4e28b84300bba616b729810a8a17cee60&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 25 Apr 2024 09:20:00 +0000</pubdate>
       
 
     </item>
