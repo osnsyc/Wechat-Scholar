@@ -31,17 +31,63 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[LSTM一作新作xLSTM架构：大幅领先Transformer和状态空间模型（SSM）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia8ouLgAYra1MITD4XrVVA4WHuKgqCOiaCgHaZk6STqgDgrABia6R7dC9rdm6novK4GGjwbAbFwunVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文介绍了一种名为xLSTM（Extended Long Short-Term Memory）的新型递归神经网络架构，旨在解决传统LSTM（Long Short-Term Memory）网络的一些</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527914&amp;idx=1&amp;sn=e587a115c66b1d862b6d737ea0e36701&amp;chksm=ea47b5018da1ff3435c163b54769050dae423722dfdcc551c34e508397453e5ef0af57e52373&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 09 May 2024 00:32:27 +0000</pubdate>
+      <title><![CDATA[整理了所有模型魔改+特征提取的经典论文]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahkhEKFrSDxnCo8HibnjGlIBic5Fq1WBJIxsibHCK1Qb6oB5YHgEImYVr3HsXeQBjYRf1JtZUIIAPbVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>特征提取是计算机视觉领域经久不衰的研究热点，不论是SLAM、SFM、三维重建等重要应用的底层都是建立在特征点跨图像可靠地提取和匹配之上。深度学习中的特征提取是指通过神经网络自动地学习出数据的高层次抽象</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527950&amp;idx=1&amp;sn=669c583550ee7858c8e9ffd28757ebe5&amp;chksm=ea1688d37a876809eac0170a6f91727f18cf48645ad2b71217e76ae17eda12ef151d2d5f9236&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 May 2024 10:01:30 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[RAG开源项目Qanything源码阅读1-概述+服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia8ouLgAYra1MITD4XrVVA4neaPzWw7sfib5VafpPZGiajzzfffHxIHjF8PYskJTTWFHXHdZrIczovQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CS的陋室最近是想找一个开源的RAG项目进行进一步学习，选了这个项目：https://github.com/netease-youdao/QAnything，后续一连几篇，会分几篇，从我的角度，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527914&amp;idx=2&amp;sn=b3f003ce732a29840ed497f062b3b229&amp;chksm=eaf7d876601a483f877d1901a5c8bf262980abaf44ed60d20ceca2f64ce2038b19f40f0d9ace&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[YOCO：全新Decoder-Decoder架构，内容减少6倍，推理速度提升30倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahkhEKFrSDxnCo8HibnjGlIBmRHWUXS63CQAWa2NLTyAmiboA1C6ia2l7J2Ues664YDyNHxhuLBcNpuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文介绍了一种名为YOCO（You Only Cache Once）的新型解码器-解码器架构，旨在提高大型语言模型的推理效率和性能。EMNLP2024投稿群建立！论文：You Only Cache</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527950&amp;idx=2&amp;sn=57ee9bc9a202e69d7a8e6704642a883a&amp;chksm=ead49d98e52c2c06718d208208847f36f7e78d9bfd3b8da5b101e003fadc129c3e57dc85f735&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 May 2024 10:01:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Deepseek-V2技术报告解读！全网最细！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahkhEKFrSDxnCo8HibnjGlIBsdts2pEh24IBU7byqzZib8gS1AA8T39UUbNPEXs4ICkAS0RKtjo1Aqg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：包包算法笔记EMNLP2024投稿群建立！深度求索Deepseek近日发布了v2版本的模型，沿袭了1月发布的 Deepseek-MoE（混合专家模型）的技术路线，采用大量的小参数专家进行建模，同</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527950&amp;idx=3&amp;sn=19357b702f377d2abf0f5a27079d4354&amp;chksm=ea63eed3b9dddf4272b9ab190bbeea05d8a116d21bcd8572da88f2e186cb18062f78deea0304&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 May 2024 10:01:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[“本草”3.0：面向特定病历诊疗的医学大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahkhEKFrSDxnCo8HibnjGlIBMdIchloIlq4x1arE912wRcM3O4ctd0icdRW0GGQWWlthCxvmic9F1pEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：哈工大SCIREMNLP2024投稿群建立！1.面向病历的医学大模型当前大语言模型(Large Language Model)在通用域自然语言处理任务上已获得了巨大的成功，在很多垂直领域，如医疗</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527950&amp;idx=4&amp;sn=65be118c187b247dc1ac397196ff7e83&amp;chksm=eaa25e6b019670732ef8807a30acf080758729433e7b11ca97852b897ce4ca1743d61fc92394&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 May 2024 10:01:30 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[LSTM一作新作xLSTM架构：大幅领先Transformer和状态空间模型（SSM）]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia8ouLgAYra1MITD4XrVVA4WHuKgqCOiaCgHaZk6STqgDgrABia6R7dC9rdm6novK4GGjwbAbFwunVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文介绍了一种名为xLSTM（Extended Long Short-Term Memory）的新型递归神经网络架构，旨在解决传统LSTM（Long Short-Term Memory）网络的一些</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527914&amp;idx=1&amp;sn=e587a115c66b1d862b6d737ea0e36701&amp;chksm=ea47b5018da1ff3435c163b54769050dae423722dfdcc551c34e508397453e5ef0af57e52373&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 09 May 2024 00:32:27 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[RAG开源项目Qanything源码阅读1-概述+服务]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia8ouLgAYra1MITD4XrVVA4neaPzWw7sfib5VafpPZGiajzzfffHxIHjF8PYskJTTWFHXHdZrIczovQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CS的陋室最近是想找一个开源的RAG项目进行进一步学习，选了这个项目：https://github.com/netease-youdao/QAnything，后续一连几篇，会分几篇，从我的角度，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247527914&amp;idx=2&amp;sn=b3f003ce732a29840ed497f062b3b229&amp;chksm=eaf7d876601a483f877d1901a5c8bf262980abaf44ed60d20ceca2f64ce2038b19f40f0d9ace&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 09 May 2024 00:32:27 +0000</pubdate>
+      
+
     </item>
     <item>
       
