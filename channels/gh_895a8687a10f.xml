@@ -31,17 +31,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[数据污染迫在眉睫！GSM8k测试基准 将不再可靠，Mistral、Phi等系列模型出现过拟合！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZcvxYgdTESt28WJsyXtGN0JHA4wog9ZhDickmUkzt5aLeRqDoiceic6H1Mvahmh7bG2DhR1GuywFMwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言大模型数学推理评测基本上都绕不开GSM8k测试基准，当前很多大模型在该数据集上都展现出较强的性能。然而，本文作者怀疑此类模型在训练过程种可</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500198&amp;idx=1&amp;sn=aab143611fb7b9188f3c9265977855f7&amp;chksm=fbebf7b33eacf243192f31a637df2112759c31b004d353f69f6412c50e59889b524ebf4f1acd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 13 May 2024 13:52:13 +0000</pubdate>
+      <title><![CDATA[剑桥 | 提出Hypernetwork，解耦LLMs分词器(Tokenizer)，提高LLMs跨语言处理性能！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaYgaibOacyFA2sicvmGiaOreDBMLicwpjmYEMysT9ahEibdVicVhF3z7792z6fYAwmeanvwFIREDbD9aKvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言大模型（LLM）主要依赖于分词器（Tokenizer ）将文本转换为Tokens，目前主流开源大模型基本上都是基于英文数据集训练得到的，然</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500253&amp;idx=1&amp;sn=179922f53868a515242085828db6da05&amp;chksm=fb2451bf5a54d601a78ee7642412179db48e6900e7d6324474a2e526bd702f81ba38240e133c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 May 2024 14:03:49 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[斯坦福 | 开源全新AI加速框架：百行代码，让H100提速30%！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZcvxYgdTESt28WJsyXtGN0hlgqIsern63kkL7mV7Ihp49cUenVpBvIqVu6CrAlZBq4mZ1hqLlmVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达提高 GPU 利用率，就是这么简单。AI 的快速发展，伴随而来的是大计算量。这就自然而然的引出了一个问题：如何减少 AI 对计算的需求，并提高</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500198&amp;idx=2&amp;sn=0086268c6f0dca4aebd0fbbed6668ecb&amp;chksm=fb416df86da36c944e8a5a253f35131bb8dde3153f8433c5cac2592935c6cc316b1c51911a09&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[微软&amp;清华| 提出多头混合专家方法：MH-MoE，增强专家激活率]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaYgaibOacyFA2sicvmGiaOreDB4V2Q7WI3dOB0Zk3MbdeCUwLGHgbcQKlZUYGOCyZia2a4yTaElKGDtbw/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达MH-MoE 能优化几乎所有专家，实现起来非常简单。混合专家（MoE）是个好方法，支持着现在一些非常优秀的大模型，比如谷歌家的 Gemini </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500253&amp;idx=2&amp;sn=a4ef3b6f4da6420aaf1d549c5fa205d2&amp;chksm=fb899f2d95611d5da701ed5b2acb454783e739ee627ff9ca17f45764fc649bba5b5380ea1b84&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 May 2024 14:03:49 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[数据污染迫在眉睫！GSM8k测试基准 将不再可靠，Mistral、Phi等系列模型出现过拟合！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZcvxYgdTESt28WJsyXtGN0JHA4wog9ZhDickmUkzt5aLeRqDoiceic6H1Mvahmh7bG2DhR1GuywFMwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言大模型数学推理评测基本上都绕不开GSM8k测试基准，当前很多大模型在该数据集上都展现出较强的性能。然而，本文作者怀疑此类模型在训练过程种可</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500198&amp;idx=1&amp;sn=aab143611fb7b9188f3c9265977855f7&amp;chksm=fbebf7b33eacf243192f31a637df2112759c31b004d353f69f6412c50e59889b524ebf4f1acd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 13 May 2024 13:52:13 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[斯坦福 | 开源全新AI加速框架：百行代码，让H100提速30%！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZcvxYgdTESt28WJsyXtGN0hlgqIsern63kkL7mV7Ihp49cUenVpBvIqVu6CrAlZBq4mZ1hqLlmVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达提高 GPU 利用率，就是这么简单。AI 的快速发展，伴随而来的是大计算量。这就自然而然的引出了一个问题：如何减少 AI 对计算的需求，并提高</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500198&amp;idx=2&amp;sn=0086268c6f0dca4aebd0fbbed6668ecb&amp;chksm=fb416df86da36c944e8a5a253f35131bb8dde3153f8433c5cac2592935c6cc316b1c51911a09&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 13 May 2024 13:52:13 +0000</pubdate>
+      
+
     </item>
     <item>
       

@@ -47,28 +47,92 @@
 
 
     <item>
+      <title><![CDATA[大模型思维链（Chain-of-Thought）技术原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpRCV6yhOzvFwvh6DA9oaAuMJEsNHr5J8EDqX40GLeibibNuxiceibiarIuwNomdrTaDF0AHu2xrwH22Pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨绝密伏击@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/629087587编辑丨极市平台极市导读 本篇文章主要是介绍了 CoT 以及后续</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247682250&amp;idx=1&amp;sn=ed12e0e7688e38173e44457140ce15c8&amp;chksm=ed5a3f4cce2c02197fbfdd84e828e4baacf930b9704024f3d43589e3073f1226013d11d65a6a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 May 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[CLIP-Mamba：首次提出用CLIP训练Mamba，仅用1/5参数就达到ViT天花板性能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpRCV6yhOzvFwvh6DA9oaAuicpiclOxZAuPJmC2uSngib9wndxQSAIkEk54ibF86wmLLCLcoJSqu8xxZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI引擎来源丨AI视界引擎编辑丨极市平台极市导读 作者训练了不同规模的Mamba模型，并在26个零样本分类数据集和16个分布外（OOD）数据集上对这些模型进行了全面评估</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247682250&amp;idx=2&amp;sn=9aeda279291ce290367403689d93745c&amp;chksm=ed71f812092d51327ad5ee6fd0011ee2db575acf8424a85b8e8d0fc847765b3732adc76eb4c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 May 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[快速提升性能，如何更好地使用GPU（上）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpRCV6yhOzvFwvh6DA9oaAufSkSV1uzx5IDzjcdgPAqeMvmS75GtEFDSc8k7R4icGZzSQAd7sOSibyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨oldpan来源丨oldpan博客编辑丨极市平台极市导读 在GPU成本升高，日益短缺的情况下，如何提升GPU性能的方法？ >>加入极市CV技术交流群，走在计算机视觉的最</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247682250&amp;idx=3&amp;sn=0284f8a262e8a60a0d370964dd9f1338&amp;chksm=ed90bd7b4a5bcf04520184622b31fb7803bac68faf6bd6c5230b3f77e660679dd0b4f70f0c35&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 May 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI一夜改写历史，GPT-4o干翻所有语音助手！丝滑如真人引爆全网科幻成真]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpRCV6yhOzvFwvh6DA9oaAuRvrWVhOHUge5fUVaNLGKWbchSDVhXBacIE8WI4fOEfkhXOkA4Z0YibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元极市导读 OpenAI说要改变历史，他们做到了！今夜的发布会上，「Her」彻底成真。GPT-4o加持的ChatGPT，和人类的对话丝滑得像个真人，惊掉</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247682250&amp;idx=4&amp;sn=2a2292297c6d359beb59e0501d26533c&amp;chksm=ed8ea463c7d749d3df127727c2d0bcff54d151cf178ee14faf43bf19150d21417972ab625b78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 May 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[手撕Flash Attention！原理解析及代码实现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqgwUP6RXpvotwSLqPrhT3j7XPck5n4Ph7yVg9qeMu1R6LrYUpdzLTgJbbCiaxxJWAGLAncx74onYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨晚安汤姆布利多来源丨https://zhuanlan.zhihu.com/p/696850636编辑丨极市平台极市导读 本文重心在于介绍 Flash Attention</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247682057&amp;idx=1&amp;sn=c82795a70b93e5a08be113851bb84744&amp;chksm=ed81fe2a6c6a449da7604fb8d750f96cc7b244d0c18421bae8bf29ba58476585b0edfe5e0e27&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 13 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[CVPR 2024｜微软新作StarNet：超强轻量级Backbone]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqgwUP6RXpvotwSLqPrhT3jicYTyMP8BnqaaynmEH6xMJ2KPm5NkqkIaSNPfXhJiaXhT8aHLvuEyicaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨VincentLee来源丨晓飞的算法工程笔记编辑丨极市平台极市导读 论文揭示了star operation（元素乘法）在无需加宽网络下，将输入映射到高维非线性特征空间的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247682057&amp;idx=2&amp;sn=53b723a4c5782dfed78d56fb2b99ea37&amp;chksm=ed5dab2e4f5501b5d011ccdaf3e418f38639d6e2d4e7c1ee355d81d68b03531d189f4cc0210d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 13 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[使用注意力机制来做医学图像分割的Pytorch实现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqgwUP6RXpvotwSLqPrhT3jtGR4yCCoute81TWDUXouwzUBiaYEPKC2Wia4MG2gayVJcd9mMLroYAiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI公园来源丨ronghuaiyang编辑丨极市平台极市导读 对两篇近期的使用注意力机制进行分割的文章进行了分析，并给出了简单的Pytorch实现。 >>加入极市CV技</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247682057&amp;idx=3&amp;sn=16167876a21c61a2019ab8a6442e5727&amp;chksm=ed66c26f974ae810ea4b4f6ff5a983792bec47f03db58b85e8a078be240fd4aa67eb0ea2eea2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 13 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[美国教授用2岁女儿训AI模型登Science！人类幼崽头戴相机训练全新AI]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqgwUP6RXpvotwSLqPrhT3jOqywyTOxJjcFvDQAp5ZZU4qh3C2ddlN5d9ka3UQsCM8nOHuRtv0aUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元极市导读 为训练AI模型，纽约州立大学的一名教授Brenden Lake，竟让自己不到2岁女儿头戴相机收集数据！要知道，Meta训Llama 3直接用</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247682057&amp;idx=4&amp;sn=7be51d9b4020726353f8b5528a31aea0&amp;chksm=ed1a4833b12c8c4becc61f0fa065dbb3a8656dc30013899b00e65bcd0ceb17134c110cd18487&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 13 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       

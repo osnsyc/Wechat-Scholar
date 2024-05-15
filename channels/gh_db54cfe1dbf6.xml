@@ -27,17 +27,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[StarNet：关于 Element-wise Multiplication 的高性能解释研究 | CVPR 2024]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/s1ZNq0rdQe4U6A1bCibqJrbsPia1ws9QiabsFMvOt05yVAXeibibx9PYZoD7U3Xt0G9fradCIxJFXUqlickpApN5tvng/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文揭示了star operation（元素乘法）在无需加宽网络下，将输入映射到高维非线性特征空间的能力。基于此提出了StarNet，在紧凑的网络结构和较低的能耗下展示了令人印象深刻的性能和低延迟来源</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697817&amp;idx=1&amp;sn=3e7b0d7ffdba5a0409c4ff7fba9389b9&amp;chksm=f23d938b5460269b3a5f47b9e498da4e62d22267d0e0c53482d01fdf15b835342a455dda5431&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 13 May 2024 14:00:00 +0000</pubdate>
+      <title><![CDATA[CVPR 2024 满分论文出炉！这些方向爆火！【附下载】]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDiaI9L76Ych3ibRPAkObbKEIs7ZBbPu7yk8HYdIQbIiarhIsMiaMQQ50P5ialLCJianEEUeo3PCyAicQ9fPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>众所周知，论文是人工智能学习的基石，因为论文展示了不同方向最新的研究成果，了解并且掌握这些学习成果，会对自己写论文助力不少。这次我整理了AAAI 2024 / CVPR 2024 / ICLR 202</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697863&amp;idx=1&amp;sn=2ccd1d52e585d8729972ce3734256677&amp;chksm=f2e0c0d18872bc82efbc654a2359ec09d4d74e8308f6e472908dcb421574239dbdb0edaa88b9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 May 2024 10:22:42 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[既要又要｜SemanticFormer时空关系和空间关系都不放过，性能超越一众SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVUvaNtWmPqDN0bftLVbPAftbyb6NKPrV8ZibI47iakf78gnMvqASicWIicvgoqhEZ2QLK0ictJxYybPodQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路文章来源于AI视界引擎，作者AI引擎自动驾驶中的轨迹预测依赖于对驾驶场景中所有相关上下文的准确表征，包括交通参与者、道路拓扑、交通标志以及它们之间的语义关系</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697817&amp;idx=2&amp;sn=ddea01af643cda30da132d3d6cb717fa&amp;chksm=f2101cd81d47e9eace4bb0183f52be20703e992db441ba4e5cab5b608d63c4939636f83ada32&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[力压Transformer？首篇Mamba综述来了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VnDXQzNf28jC3PJibUibibxicrQhLDJFicWZXTsAEDN27M8l2LyMHeGpp5BGU3VcfDvMxTaea8cvzjic4q89o2jh4qQA/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路论文作者 | Rui Xu    编辑 | 自动驾驶之心写在前面&amp;笔者的个人理解Mamba是一种新的选择性结构状态空间模型，在长序列建模任务中表现出色。Ma</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697863&amp;idx=2&amp;sn=c4633aa9b565a230dfc5f7d0205e57e5&amp;chksm=f255914bcf482176c8248d28353c62a21b57549fa74fe103ae8d13c9695d213031fa68609c02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 May 2024 10:22:42 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[StarNet：关于 Element-wise Multiplication 的高性能解释研究 | CVPR 2024]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/s1ZNq0rdQe4U6A1bCibqJrbsPia1ws9QiabsFMvOt05yVAXeibibx9PYZoD7U3Xt0G9fradCIxJFXUqlickpApN5tvng/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文揭示了star operation（元素乘法）在无需加宽网络下，将输入映射到高维非线性特征空间的能力。基于此提出了StarNet，在紧凑的网络结构和较低的能耗下展示了令人印象深刻的性能和低延迟来源</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697817&amp;idx=1&amp;sn=3e7b0d7ffdba5a0409c4ff7fba9389b9&amp;chksm=f23d938b5460269b3a5f47b9e498da4e62d22267d0e0c53482d01fdf15b835342a455dda5431&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 13 May 2024 14:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[既要又要｜SemanticFormer时空关系和空间关系都不放过，性能超越一众SOTA]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVUvaNtWmPqDN0bftLVbPAftbyb6NKPrV8ZibI47iakf78gnMvqASicWIicvgoqhEZ2QLK0ictJxYybPodQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路文章来源于AI视界引擎，作者AI引擎自动驾驶中的轨迹预测依赖于对驾驶场景中所有相关上下文的准确表征，包括交通参与者、道路拓扑、交通标志以及它们之间的语义关系</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697817&amp;idx=2&amp;sn=ddea01af643cda30da132d3d6cb717fa&amp;chksm=f2101cd81d47e9eace4bb0183f52be20703e992db441ba4e5cab5b608d63c4939636f83ada32&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 13 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
