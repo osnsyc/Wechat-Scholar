@@ -32,17 +32,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[从ROS到数据库：用Python将ROS话题消息保存到数据库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveHyWiaUdNsN0eTpflmkqnurCqRKYzOlLBdeeVV0Z4icJUibeHFmE8G9xa6BBu5NPiamO8ibQF0KmOVOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本博客介绍如何使用Python订阅ROS话题,并将接收到的消息保存到SQL数据库中,包括MySQL和SQL Server两种情况。使用Python订阅ROS话题并将消息保存至MySQL数据库</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592177&amp;idx=1&amp;sn=6e6455d5bdcc072baf7f907690884abc&amp;chksm=faf41dc36cfb13ff6f39b27de6a241fb074491a57e7400479a61e562052b7f60456b7d044775&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 15 May 2024 10:18:09 +0000</pubdate>
+      <title><![CDATA[经典文献阅读之--VICET(激光雷达运动畸变校正)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvOsmiahLnj75L32HsiazmibZWBnuiaicic29ibvm6zRykLwNibjRfMV84J04npSBwLVv2qkAicKR3Fl6zY0mw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介激光雷达的畸变矫正是一个非常重要的工作。由于扫描式激光雷达传感器需要有限的时间来创建点云，所以一次扫描过程中传感器的运动会导致点云发生畸变，这种现象被称为运动畸变或者卷帘快门。运动畸变校正方</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592216&amp;idx=1&amp;sn=1aa59807bd1262d2f810a3d83f754bc4&amp;chksm=fa3e83861a1b64fa12ed9bf8e2f79c73414dec980aba00cbc4ac6c87f508b611f262bed3a5cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 16 May 2024 09:20:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[直播预告 | 个人开发者如何DIY一台智能机器人]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveHyWiaUdNsN0eTpflmkqnu4KS78F4SAE7M3dmSDQdbpdbUCks6tMh10ZhRlbpPusLJ8sZoIClonA/300?wxtype=jpeg&amp;wxfrom=0"/><p>01主讲人 SPEAKER汤韩霖  | 地平线 x古月居社区优秀开发者李乔龙  | 地平线机器人开发平台布道师02直播内容 LIVE CONTENT案例分享交流答疑03直播时间 LIVE BROADC</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592177&amp;idx=2&amp;sn=a3310517b32cd29bebb98551a8cb2e65&amp;chksm=fa8ddafcd7d1a2dffcd92f296bf89b4836599689bf24011b750a3a1b1c7836d4a597e278ac78&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[【求贤招募】古月居签约作者&amp;课程讲师]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvOsmiahLnj75L32HsiazmibZWPVkX8GrSWia1YC0UHK5m9xlGm7NlNOtBHxwckzdOT5lqvXN9CbgBUew/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器人，作为一个集成了多学科技术的复杂系统，其开发过程充满了挑战。为了帮助开发者们更好地克服这些挑战，提升项目的开发效率和质量，古月居特别招募[博客签约作者&amp;课程讲师]。如果您平常热爱记录、分享开发者</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592216&amp;idx=2&amp;sn=c8b14031c4fc7015313a7ddc015b2f9b&amp;chksm=fa3ee0690dccbc732a71a815d64a2d739bf009a2ffa5025a2b3f342a8202a81b294da374b383&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 16 May 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[从ROS到数据库：用Python将ROS话题消息保存到数据库]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveHyWiaUdNsN0eTpflmkqnurCqRKYzOlLBdeeVV0Z4icJUibeHFmE8G9xa6BBu5NPiamO8ibQF0KmOVOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本博客介绍如何使用Python订阅ROS话题,并将接收到的消息保存到SQL数据库中,包括MySQL和SQL Server两种情况。使用Python订阅ROS话题并将消息保存至MySQL数据库</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592177&amp;idx=1&amp;sn=6e6455d5bdcc072baf7f907690884abc&amp;chksm=faf41dc36cfb13ff6f39b27de6a241fb074491a57e7400479a61e562052b7f60456b7d044775&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 15 May 2024 10:18:09 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[直播预告 | 个人开发者如何DIY一台智能机器人]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveHyWiaUdNsN0eTpflmkqnu4KS78F4SAE7M3dmSDQdbpdbUCks6tMh10ZhRlbpPusLJ8sZoIClonA/300?wxtype=jpeg&amp;wxfrom=0"/><p>01主讲人 SPEAKER汤韩霖  | 地平线 x古月居社区优秀开发者李乔龙  | 地平线机器人开发平台布道师02直播内容 LIVE CONTENT案例分享交流答疑03直播时间 LIVE BROADC</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592177&amp;idx=2&amp;sn=a3310517b32cd29bebb98551a8cb2e65&amp;chksm=fa8ddafcd7d1a2dffcd92f296bf89b4836599689bf24011b750a3a1b1c7836d4a597e278ac78&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 15 May 2024 10:18:09 +0000</pubdate>
+      
+
     </item>
     <item>
       
