@@ -36,11 +36,34 @@
 
 
 
+
     <item>
+      <title><![CDATA[经典文献阅读之--OccNeRF(基于神经辐射场的自监督多相机占用预测)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmkl6x1fg6snKvkImH33kwWCIl0DKkVqcYG7snqYPK1HlZ9GI3OiaYEx87Z6xPh6TLSW5MY3UsDgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介作为基于视觉感知的基本任务，3D占据预测重建了周围环境的3D结构。它为自动驾驶规划和导航提供了详细信息。然而，大多数现有方法严重依赖于激光雷达点云来生成占据地面真实性，而这在基于视觉的系统中</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592574&amp;idx=1&amp;sn=fe8c79cc484f6a408b0b60b3d83b1706&amp;chksm=fac4c0dd26fd75bd06847684a3817b9865f301b154565451e65af8ad9e6657daa5b1524cb54a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 18 May 2024 09:58:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[比赛报名 | 关于举办“地平线杯”智能星第四届 自动驾驶小车比赛的通知（附规则）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmkl6x1fg6snKvkImH33kwLQTGGullD7Ir7dbhoU6fytrwe9icncMXYLV2iaVbI6m9bsK7bP3zLuzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>为进一步加强人工智能创新人才培养，强化大学生的创新精神、实践能力和团队合作意识，人工智能学院与丁香书院将联合举办“地平线杯”智能星第四届自动驾驶小车比赛。AI    IN   XD指导思想与目的本次比</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592574&amp;idx=2&amp;sn=4bbb40ce8d15cb779c99a630e2ae82f5&amp;chksm=faadab1e496144c59f514ae394a5f558aae78c6574945e240c97b6efa0c9ec7ad0ba332c0c41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 18 May 2024 09:58:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[【FPGA】优雅地使用ILA进行FPGA硬件调试]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvnkhD9Wr7DxZUefY01CWfIkxXSmB7ToeicTIjYqkE82HJ9Stibz9dLealXuYdZw7ickYSKQ560zROibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vivado（Vitis）版本：2020.2FPGA开发板：Microphase Z7-Lite 7020开发板FPGA设计调试流程FPGA开发是一个不断迭代的过程，一般的FPGA设计流程一般包含下面</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592537&amp;idx=1&amp;sn=72988bc61666a87c5958a04fdf6166b6&amp;chksm=fa43ac30fec41eae6a8d2b2c417496905e74154d8f08d38ce937a104a1682f9c342492a0193a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 17 May 2024 09:58:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -183,166 +206,6 @@
       
 
       <pubdate>Sun, 12 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[14-1 学习PID--步进电机梯形加减速实现代码实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvtDGVfHYUYFnh0Dh6wLLc3u2CZGYuz6pPYDFDScMa1Krw6mxaWjOK8r0bRIBTfav5AgJ6g4H31lA/640?wxtype=jpeg&amp;wxfrom=0"/><p>理论实现由于算法在计算过程中涉及到一些浮点型运算，大量的浮点型运算会使得效率大大降低为了使在计算浮点型的速度得到更好的优化。控制步进电机需要四个描述速度曲线的参数；速度曲线从零速度开始，加速到给定速度</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592025&amp;idx=1&amp;sn=df5fc4545915b4e627f0cce9c0b5b22f&amp;chksm=fa200c15f24a3c264975d1d527568bd123061620f68a4a8c51e42b14bc09ad9bc3f35086df94&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 11 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[视觉SLAM简介]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsdiaTJvjXTqc6cPU5PgXR0P9hAyIo24GLgzIDTs6JTyZurOUfGNWDdx8QziaFZicLaWMnxEkw5R8ibiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>SLAMSLAM（Simultaneous Localization and Mapping），意为同时定位与建图。看名字比较难理解，但是结合到日常生活中的例子就很好懂了。想象一下到了一个陌生环境中，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592006&amp;idx=1&amp;sn=4a49cae0b5cbb9a28292e041e73defaa&amp;chksm=fa9991fd4adb3f2cf22e800ac3fbd23c8ff9adb28212ffa780451216ecd932914d0015a69752&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 10 May 2024 09:27:50 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[精品教材 / 古月居最新力作《移动机器人原理与应用》（免费申领）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt9blsfBGXiaIR1A13064kv3UyLzCF6iaxndN5aDBicYXiax8Se4DAZAnRYzP24GR2vD7mz2zlCSl586w/640?wxtype=jpeg&amp;wxfrom=0"/><p>1移动机器人—LIMOLIMO是全球⾸款集四种运动模态于⼀体的ROS开发平台，提供了适应场景更⼴泛、更符合⾏业应⽤要求的学习平台，适⽤于机器⼈教育、功能研发、产品开发。通过创新性的机械设计，能实现四轮</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591995&amp;idx=1&amp;sn=cddeaa03b17449861e8f00b4c2f8df95&amp;chksm=fa8461d41f04d0fd50297f387fa837542d80110e3292be8525c6366706c95dba52a1801b928e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 09 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[关于举办第一届“地平线杯”深圳大学智能机器人大赛的通知]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzulIvZxRgp8ZllKkXahCPicaG0LhZ5xKyBKxnczFCFkTrRebqbr7IPobhOpXMsr0vFjTERRDlia6C8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>关于举办第一届“地平线杯”深圳大学智能机器人大赛的通知Part.1/ 竞赛组织机构1. 主办单位：教务部、研究生院2. 承办单位：物理与光电工程学院3. 赞助单位：地平线由物理与光电工程学院创新部、沐</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591976&amp;idx=1&amp;sn=ef9bb984c6d95a81537aa1a0a26477b9&amp;chksm=faa42569f9ed838dd7f052491019c95e0ab5eff3b3491c2d8e74310f4a3298561918ea58d5d0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 08 May 2024 09:55:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图形化编程要怎么做]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzut0JjibFqRhpUuwsEpYtuqrjOzrrN8MbbGnoIPTCf3paQXMjSuRjsVAVkgfum8p0FbibyTyFgiczYHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介Scratch其实应该算得上最早做图形化编程的工程了。Scratch 是麻省理工学院的“终身幼儿园团队”在 2007 年 [5]发布的一种图形化编程工具，主要面对全球青少年开放，是图形化编程</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591968&amp;idx=1&amp;sn=03d966bbb16593568bc99b4d6c51f8fd&amp;chksm=fa56438c4b26172a8b654553ac788a6e3f045939ec74ff7f3a380db44e388fb015f37eff6acf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 07 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于Gazebo的机械臂物体拾取线上仿真活动 | 诚邀各位开发者参与]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveeRjmujuicktISMFOo51jib3xGhJLLCc18rhdRiaIXwQxGKOSK2exEia2ottB1Wr7B1MjmC2bjV0Anw/300?wxtype=jpeg&amp;wxfrom=0"/><p>上周的直播中，工程师精彩展示了通过大模型控制机械臂抓取物体的场景，直播刚一结束，后台便涌入了众多小伙伴的咨询，纷纷询问自己如何也能开发出这样的案例。为了满足大家的好奇心与求知欲，本期活动特别策划，将带</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591968&amp;idx=2&amp;sn=a749773b2f69f27b12932ab443d3d10e&amp;chksm=fa34c4ba76010e5c162997ef5155ab48576e2c4394d9660eccd3fdaa6e3aaf89c259b6586c52&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 07 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐 | 面阵激光雷达SLAM • Jianfee]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzut0JjibFqRhpUuwsEpYtuqrnV3kveES355EOb3RPBOFiaMvmWR2mPNetibDo8hVPZRdnW6WmsIPA0TQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>*本课程不提供PPT，课程资料请到微信公众号“古月居”后台回复“规划感知资料”获取该课程已开通专门交流答疑区，点击这里，发帖提问交流(https://www.guyuehome.com/Bubble/</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591966&amp;idx=1&amp;sn=c775467d0dbccdbda166b10340e76e2a&amp;chksm=fadcc1635427d1077fe5f34ada49b76f41b2810fddad4988c54d86b12d4c5bc157b58d2d9e88&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于Gazebo的机械臂物体拾取线上仿真活动 | 诚邀各位开发者参与]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveeRjmujuicktISMFOo51jib3xGhJLLCc18rhdRiaIXwQxGKOSK2exEia2ottB1Wr7B1MjmC2bjV0Anw/300?wxtype=jpeg&amp;wxfrom=0"/><p>上周的直播中，工程师精彩展示了通过大模型控制机械臂抓取物体的场景，直播刚一结束，后台便涌入了众多小伙伴的咨询，纷纷询问自己如何也能开发出这样的案例。为了满足大家的好奇心与求知欲，本期活动特别策划，将带</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591966&amp;idx=2&amp;sn=cae6528223781d4270507bc12758161a&amp;chksm=fa7f0a71e1acc5fb34275277569441d0d29bf584d6c8e272e0fed8092377efc5230f7ce40d1c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--RaLF(激光雷达地图中基于流的全局和度量雷达定位)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuxF0v93hHrVYxgebPhQeExP08qAlrbPgiacWHuQJsnW00SiajlsDDOB4VLnLDj4oxLJtroY3QVDyGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介激光雷达地图中基于流的全局和度量雷达定位。自主机器人的定位是至关重要的。尽管基于相机和激光雷达的方法已经得到大量研究，但是它们会受到恶劣的光照和天气条件的影响。因此，最近雷达传感器由于其对这</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591930&amp;idx=1&amp;sn=16c3220f38768f9c9133ac1be6b2a246&amp;chksm=fa1a5c6da53e16528337cf9247018ae08a6dddea5fc8e94d0cd9d734a20c53594f95c3ab7422&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 05 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于Gazebo的机械臂物体拾取线上仿真活动 | 诚邀各位开发者参与]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveeRjmujuicktISMFOo51jib3xGhJLLCc18rhdRiaIXwQxGKOSK2exEia2ottB1Wr7B1MjmC2bjV0Anw/300?wxtype=jpeg&amp;wxfrom=0"/><p>上周的直播中，工程师精彩展示了通过大模型控制机械臂抓取物体的场景，直播刚一结束，后台便涌入了众多小伙伴的咨询，纷纷询问自己如何也能开发出这样的案例。为了满足大家的好奇心与求知欲，本期活动特别策划，将带</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247591930&amp;idx=2&amp;sn=86e69547ef09a2b88f9b5f0dfc599c35&amp;chksm=fa825b43fe09528203950507aee6139eaf1c859c7f885800f751a82775b7ead878f3dc558cf2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 05 May 2024 09:20:00 +0000</pubdate>
       
 
     </item>
