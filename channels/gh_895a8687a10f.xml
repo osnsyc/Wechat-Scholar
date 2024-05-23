@@ -26,17 +26,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[硬刚 LoRA！北航&amp;微软 | 提出高秩适应LLMs微调法：MoRA，填补LoRA低秩缺陷！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaPV1ia4LicibvAglfxv6NVnlY3iaYld2bf7OWMkTEzxSh0yIPiafL4iau5VedRJdSau6KU3RR73sBFjpNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言当下，低秩适应 (LoRA)是一种常用的大模型参数高效微调方法。而本文作者反其道而行之提出了高秩适应（MoRA），摆明是硬刚LoRA了，那</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500400&amp;idx=1&amp;sn=8d59b7f734269d3907c9971e02b41d8f&amp;chksm=fb18c70c4a7e708d5c6da16dad8aa08b6df2f8f12e8494faa322122a3aa9e5b6f314317b23bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 21 May 2024 13:15:41 +0000</pubdate>
+      <title><![CDATA[麻省理工(MIT) | 提出跨层Attention，减少Transformer大模型键值(KV)缓存，加快LLM推理！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZ9IPDsia4cTgbpdzBDEIuiahicKmfqISfnWUQ5Eia6kxNF9xYHZOMM0aYw47jI2bcFjcl7M1UzwXTLlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言键值 (KV) 缓存能够显著提升Transformer大模型的解码速度。但是当面对长序列的时候，键值 (KV) 缓存需要大量的内存资源。当</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500452&amp;idx=1&amp;sn=a8b2e14a226f232b8efd59ff270bf37f&amp;chksm=fb6423c94f1a9f8da6a50e46c65977c5974935bc14268ebdd25475a0b7fa89928f563f1ee8db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 May 2024 14:15:27 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[中国大模型: Yi-Large, 中国排名第1，世界排名第 7！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaPV1ia4LicibvAglfxv6NVnlYIemU4E8FLWFvGgD82dW2uQAKokT5H7b8q2dG18B92gcDIyGdu1JR8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达上周，一个名为 “im-also-a-good-gpt2-chatbot” 的神秘模型突然现身大模型竞技场 Chatbot Arena，排名直</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500400&amp;idx=2&amp;sn=d1b33c14cf3cb070c705f7db66719e19&amp;chksm=fb5cf896102cc80762c2b2d2e62fdb12b90e7cd62cfb91bb63efad11c6b14c4d1966bfebcf10&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[Anthropic | 数百万个特征，带你深入理解大模型的「思维」！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZ9IPDsia4cTgbpdzBDEIuiahY5Gg62gQwjwaRBfeZT7icTEw41HdUickeBjWIGu6XVFkFaAUVvHv8kkA/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达刚刚，Anthropic 宣布在理解人工智能模型内部运作机制方面取得重大进展。Anthropic 已经确定了如何在 Claude Sonnet</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500452&amp;idx=2&amp;sn=958dcc5199b23aca309699884061343a&amp;chksm=fb04efe59a6d9cfc4d5b3592ea9306f502e414ca6d4b32cc3a2debe2d22930a075e142c00dba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 May 2024 14:15:27 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[硬刚 LoRA！北航&amp;微软 | 提出高秩适应LLMs微调法：MoRA，填补LoRA低秩缺陷！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaPV1ia4LicibvAglfxv6NVnlY3iaYld2bf7OWMkTEzxSh0yIPiafL4iau5VedRJdSau6KU3RR73sBFjpNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言当下，低秩适应 (LoRA)是一种常用的大模型参数高效微调方法。而本文作者反其道而行之提出了高秩适应（MoRA），摆明是硬刚LoRA了，那</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500400&amp;idx=1&amp;sn=8d59b7f734269d3907c9971e02b41d8f&amp;chksm=fb18c70c4a7e708d5c6da16dad8aa08b6df2f8f12e8494faa322122a3aa9e5b6f314317b23bf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 21 May 2024 13:15:41 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[中国大模型: Yi-Large, 中国排名第1，世界排名第 7！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaPV1ia4LicibvAglfxv6NVnlYIemU4E8FLWFvGgD82dW2uQAKokT5H7b8q2dG18B92gcDIyGdu1JR8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达上周，一个名为 “im-also-a-good-gpt2-chatbot” 的神秘模型突然现身大模型竞技场 Chatbot Arena，排名直</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500400&amp;idx=2&amp;sn=d1b33c14cf3cb070c705f7db66719e19&amp;chksm=fb5cf896102cc80762c2b2d2e62fdb12b90e7cd62cfb91bb63efad11c6b14c4d1966bfebcf10&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 21 May 2024 13:15:41 +0000</pubdate>
+      
+
     </item>
     <item>
       
