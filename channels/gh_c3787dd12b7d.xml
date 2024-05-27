@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[语义分割算法——增加了级联模块和图像级特征ASPP的DeepLabv3]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzviaQINwAU9DZmSib1XdgKpdQM0cxeUqvBBXnZZpKEa7kQtuoiajhX802KWddYzBFPZo9TnwHxMicXYkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AbstractDeepLabV3中，回顾了空洞卷积操作。为了能够分割不同尺度对象，设计了一种级联的方式使用空洞卷积的模块，采用多个空洞率来捕获多尺度的特征。此外，作者建议增强DeepLabV2提出的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592792&amp;idx=1&amp;sn=2096068971575b66b816512452bb76ee&amp;chksm=fa98eceba385f5feeb90f930c855aed8017632390e0974fc4e665a34dcdf39b0de47112fe73c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 26 May 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[经典文献阅读之--D-Map(无需射线投射的高分辨率激光雷达传感器的占据栅格地图)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuuqib9dtG7mr7iaicmkrvFQeobAHQq2Lr3moBaCAz0nvmYOIIOQsf8lpKXxwDia1XZlJa6P3magf4znw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介占用地图是机器人系统中推理环境未知和已知区域的基本组成部分。《Occupancy Grid Mapping without Ray-Casting for High-resolution L</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592784&amp;idx=1&amp;sn=cf4bc08b64a9e3cf1d0f80ec0637ce28&amp;chksm=fad946276e99c3c210f20797a83b4f595744ed7447008e576948fb5230d00dcfbc145c8eb7a0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 25 May 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -135,214 +152,6 @@
       
 
       <pubdate>Mon, 20 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从零入门激光SLAM（十三）——LeGo-LOAM源码超详细解析4]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmkl6x1fg6snKvkImH33kwhRe19dI9MbMaLwM5bQWQleIktO72jNbt5uyicia4VUibAJwbibVJ16UiaXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Lego_Loam包括了Image projection、Feature association、MapOptmization、Transform Fusion四个部分，下面博主将按照算法的逻辑顺序对</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592587&amp;idx=1&amp;sn=7b7bc76d6395efb43c090f0ec3348586&amp;chksm=fa81a65bbbdb4a306c8d68282f261c98b16282cf6eaa2389367e5939b3cd30235ef55b06b733&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--OccNeRF(基于神经辐射场的自监督多相机占用预测)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmkl6x1fg6snKvkImH33kwWCIl0DKkVqcYG7snqYPK1HlZ9GI3OiaYEx87Z6xPh6TLSW5MY3UsDgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介作为基于视觉感知的基本任务，3D占据预测重建了周围环境的3D结构。它为自动驾驶规划和导航提供了详细信息。然而，大多数现有方法严重依赖于激光雷达点云来生成占据地面真实性，而这在基于视觉的系统中</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592574&amp;idx=1&amp;sn=fe8c79cc484f6a408b0b60b3d83b1706&amp;chksm=fac4c0dd26fd75bd06847684a3817b9865f301b154565451e65af8ad9e6657daa5b1524cb54a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 18 May 2024 09:58:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[比赛报名 | 关于举办“地平线杯”智能星第四届 自动驾驶小车比赛的通知（附规则）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmkl6x1fg6snKvkImH33kwLQTGGullD7Ir7dbhoU6fytrwe9icncMXYLV2iaVbI6m9bsK7bP3zLuzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>为进一步加强人工智能创新人才培养，强化大学生的创新精神、实践能力和团队合作意识，人工智能学院与丁香书院将联合举办“地平线杯”智能星第四届自动驾驶小车比赛。AI    IN   XD指导思想与目的本次比</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592574&amp;idx=2&amp;sn=4bbb40ce8d15cb779c99a630e2ae82f5&amp;chksm=faadab1e496144c59f514ae394a5f558aae78c6574945e240c97b6efa0c9ec7ad0ba332c0c41&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 18 May 2024 09:58:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【FPGA】优雅地使用ILA进行FPGA硬件调试]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvnkhD9Wr7DxZUefY01CWfIkxXSmB7ToeicTIjYqkE82HJ9Stibz9dLealXuYdZw7ickYSKQ560zROibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vivado（Vitis）版本：2020.2FPGA开发板：Microphase Z7-Lite 7020开发板FPGA设计调试流程FPGA开发是一个不断迭代的过程，一般的FPGA设计流程一般包含下面</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592537&amp;idx=1&amp;sn=72988bc61666a87c5958a04fdf6166b6&amp;chksm=fa43ac30fec41eae6a8d2b2c417496905e74154d8f08d38ce937a104a1682f9c342492a0193a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 17 May 2024 09:58:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--VICET(激光雷达运动畸变校正)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvOsmiahLnj75L32HsiazmibZWBnuiaicic29ibvm6zRykLwNibjRfMV84J04npSBwLVv2qkAicKR3Fl6zY0mw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介激光雷达的畸变矫正是一个非常重要的工作。由于扫描式激光雷达传感器需要有限的时间来创建点云，所以一次扫描过程中传感器的运动会导致点云发生畸变，这种现象被称为运动畸变或者卷帘快门。运动畸变校正方</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592216&amp;idx=1&amp;sn=1aa59807bd1262d2f810a3d83f754bc4&amp;chksm=fa3e83861a1b64fa12ed9bf8e2f79c73414dec980aba00cbc4ac6c87f508b611f262bed3a5cd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 16 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【求贤招募】古月居签约作者&amp;课程讲师]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvOsmiahLnj75L32HsiazmibZWPVkX8GrSWia1YC0UHK5m9xlGm7NlNOtBHxwckzdOT5lqvXN9CbgBUew/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器人，作为一个集成了多学科技术的复杂系统，其开发过程充满了挑战。为了帮助开发者们更好地克服这些挑战，提升项目的开发效率和质量，古月居特别招募[博客签约作者&amp;课程讲师]。如果您平常热爱记录、分享开发者</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592216&amp;idx=2&amp;sn=c8b14031c4fc7015313a7ddc015b2f9b&amp;chksm=fa3ee0690dccbc732a71a815d64a2d739bf009a2ffa5025a2b3f342a8202a81b294da374b383&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 16 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从ROS到数据库：用Python将ROS话题消息保存到数据库]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveHyWiaUdNsN0eTpflmkqnurCqRKYzOlLBdeeVV0Z4icJUibeHFmE8G9xa6BBu5NPiamO8ibQF0KmOVOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>观前提醒：本博客介绍如何使用Python订阅ROS话题,并将接收到的消息保存到SQL数据库中,包括MySQL和SQL Server两种情况。使用Python订阅ROS话题并将消息保存至MySQL数据库</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592177&amp;idx=1&amp;sn=6e6455d5bdcc072baf7f907690884abc&amp;chksm=faf41dc36cfb13ff6f39b27de6a241fb074491a57e7400479a61e562052b7f60456b7d044775&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 May 2024 10:18:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[直播预告 | 个人开发者如何DIY一台智能机器人]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzveHyWiaUdNsN0eTpflmkqnu4KS78F4SAE7M3dmSDQdbpdbUCks6tMh10ZhRlbpPusLJ8sZoIClonA/300?wxtype=jpeg&amp;wxfrom=0"/><p>01主讲人 SPEAKER汤韩霖  | 地平线 x古月居社区优秀开发者李乔龙  | 地平线机器人开发平台布道师02直播内容 LIVE CONTENT案例分享交流答疑03直播时间 LIVE BROADC</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592177&amp;idx=2&amp;sn=a3310517b32cd29bebb98551a8cb2e65&amp;chksm=fa8ddafcd7d1a2dffcd92f296bf89b4836599689bf24011b750a3a1b1c7836d4a597e278ac78&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 May 2024 10:18:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[携手英伟达，奥比中光第四届3D视觉创新应用竞赛(2024)总决赛即将开启！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvvHYtLMiagZugTYZAjxgshIZoWEHT0wJ2eiaS3nNK3hWJ2ibysgdjs7l2GiaMvCk08HGLgLx6WENvzAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>5月15日，奥比中光与英伟达联合主办的2024第四届3D视觉创新应用竞赛（以下简称“3DV竞赛”）决赛将正式开启，奖金池高达100000元。本届竞赛以“智能机器人”为主题，面向全国各大高校人工智能、机</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592161&amp;idx=1&amp;sn=50e8d2098bc49475e12753b63c6c6f43&amp;chksm=fadcdc340292e0ca1b8b321be21db146dd83e5c5d5da1256bd023da6eadba7f9e98c52ebc46c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[直播预告 | ROS2 技术点及分布式开发]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvvHYtLMiagZugTYZAjxgshIgjEH3M7ibgXr25yYcGTfYzkzNk7CvrkAGCKIDnYZp5DRWY7PibYmEExQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>直播内容ROS2 技术点介绍ROS2分布式开发交流答疑主讲人李乔龙古月居产品技术负责人全国大学生智能车竞赛国奖得主直播时间2024年5月15日19:00-20:00点击“阅读原文”即可跳转直播间</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592161&amp;idx=2&amp;sn=79cf86d9db8c8d2c662443d00692843a&amp;chksm=faa0f4d1e840e1e227e036dbf72bd5ae389475aaa7bf6ef0a7dade15334113f8d6dd5e073af7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 May 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新课来袭｜《从零开发智能四轮小车 • 李乔龙》限时优惠中！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuI6Yicsf6icjPC1QLwk3Wd8CVgmNF0TFRje88NAoLVc2O4bA1hQOMv7zJk6PyKdySvHIzsy9PergVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程目的每位机器人开发者都曾有“从零开发一款智能机器人”的梦想，唯一的区别就在于你是否付诸行动。本课程继《从零开发智能小车》，将给大家介绍四轮机器人的一些特点和开发实例。我们将通过一系列不同主题内容的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592103&amp;idx=1&amp;sn=3a9d814eed2187b868abbc2f5c73925c&amp;chksm=fa3621a041fa2f398a412d0b080fd77505b0d2c573ca0998c80116fbad8402c2a8c74fdf7b44&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 13 May 2024 10:21:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【求贤招募】古月居签约作者&amp;课程讲师]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuI6Yicsf6icjPC1QLwk3Wd8CszvrDFF3dcHWpXlBFQicicDdDFTKcKEwAboibtLhYu40DiarticMvO36Wkg/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器人，作为一个集成了多学科技术的复杂系统，其开发过程充满了挑战。为了帮助开发者们更好地克服这些挑战，提升项目的开发效率和质量，古月居特别招募[博客签约作者&amp;课程讲师]。如果您平常热爱记录、分享开发者</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592103&amp;idx=2&amp;sn=bb3458598b1aca452288a3724cdfb389&amp;chksm=fafc2154e89ae91f271908cbbfeea3c522306fcc3b9ef279631412637e486527455ed958cd7c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 13 May 2024 10:21:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[古月居全体员工祝妈妈们母亲节快乐！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvtDGVfHYUYFnh0Dh6wLLc3ia80GXqecpSgjAFzISXWlbcvBytdttkibKwzJkwAQvKWdRI0IURPTAAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>母亲节快乐✦✦✦</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247592031&amp;idx=1&amp;sn=cb14ff78bc283a875ba8a09aabadd6cf&amp;chksm=fab0fa20c24eb05c2f8b15d987341fc658580c327fcb1d140cc5a091cdd8b94f23ad31d55e46&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 12 May 2024 09:20:00 +0000</pubdate>
       
 
     </item>
