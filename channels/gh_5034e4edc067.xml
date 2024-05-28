@@ -48,34 +48,114 @@
 
 
     <item>
+      <title><![CDATA[大模型微调十诫]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKMeozxUiajDFAnKL6ibuQPCCBoWluRcoPjW3tQR3TtAMxhia0rZqLn6ALECbURfUgWkGkLOtImkSKIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理：NLP工程化大模型微调十诫：关于将微调模型部署到生产环境的十条建议：（1）不要盲目微调模型，先尝试使用提示的方式满足需求。只有当提示无法达到质量、性能或成本目标时，才考虑微调。（2）一定要编写提</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442717&amp;idx=1&amp;sn=5bb7e5baaba57e7c125ca868df9b9f54&amp;chksm=bff83f1e95fb8274e198246c3d80123ab2bb0a927432da4a3c0263b5493a87b2e34271b8dc2a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 May 2024 11:36:05 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型与任务型对话的结合：Rasa CALM]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vImdeGStOOcZHQLtL1w3J4MN2JCicrFRicqFFS5FskBJKeOCgGmUGicjNKY9SghBckeIHRdJgtIJ5vqq83Qd0CJtg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Part 1 传统任务型对话是怎么做的？Pipeline 方式语义理解(意图+词槽识别) + 对话管理(对话状态更新+对话策略选择) + 话术生成意图模型：识别预设类别中的一个词槽：NER 模型识别实</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442717&amp;idx=2&amp;sn=62d709402919021d8594b70ac35abb04&amp;chksm=bf338f6252ac635daf61bbc8aceb4ed5c35dff289968a67cc98596a9e0308c4840227fcdd8d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 May 2024 11:36:05 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[硕博申请 | 上海科技大学屠可伟老师招收自然语言处理方向2024级工程博士/2025级硕博]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKMeozxUiajDFAnKL6ibuQPCCtf6s5JCDCfFG8dZtNPyp6dkLSjfGBibfEl4GhiaaicqXuWszkzytjwWYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>上海科技大学上海科技大学（ShanghaiTech University，简称上科大、ShanghaiTech）是一所由上海市人民政府与中国科学院共同举办、共同建设，由上海市人民政府主管的全日制普通高</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442717&amp;idx=3&amp;sn=874d5234f299bac9b0fdfef43ff0784a&amp;chksm=bfbe0f6aaf0387058b78cf29498d72a70fe396d9dfae42b2896f3289f71e8b2dde844445a21e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 May 2024 11:36:05 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[RAG开源项目Qanything源码阅读3-在线推理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPzuEtoFfbOGgFcSPwtyCUs9UD52LXhhwLVKZZkJI8vdKlcxzNtRngbSz2MnrCKBrSSMqu6UeFRAOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>书接上文，最近选了一个开源的RAG项目进行进一步学习：https://github.com/netease-youdao/QAnything，后续一连几篇，会分几篇，从我的角度，给大家介绍这个项目，预</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442717&amp;idx=4&amp;sn=e895dd790187f3e89d8156f1767f68af&amp;chksm=bf327d6ba9ecd64ed243031a61d744c2da196cf7a119b45eb7bc4d2fec5f1cb30ab7ff26964c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 May 2024 11:36:05 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[重新回顾：BERT知识蒸馏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/goiboxqfW2fbpGOKohmTQWLmf9kxGbcGwxETQ4SpqXlXaJTeCpiaCP0eyRpOxFZFiacicibwdhzUXTN9y5XQQWEx8fw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：王焱文章链接：https://zhuanlan.zhihu.com/p/1068107581 背景BERT的魅力无需过多赘述，然而其最大痛点在于难以投入实际应用。我们不禁要问：BERT如此庞大的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442717&amp;idx=5&amp;sn=a60b362c3fa48bb4e2f5979a935cd4d6&amp;chksm=bfbd9599002b9aec75d752a466567540abe4722338bdf4b0de36e3bb07c2b8fab022eea8c2d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 May 2024 11:36:05 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[微信官方回应：为什么不做已读功能]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKcY4HPxsEZZh90xlGCMz24EviaoTGgVzqicwpHK9B7ylfVCshZXADmYrXeY5VytdF0EleSSqRr3eJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>    作为十亿级的国民APP，微信增加或者删除某些功能都会引发大量用户的关注。这不，如果微信显示已读的话的话题又上了热搜，甚至惊动了微信官方的回应。对于微信如果加入显示已读功能的话，有网友表示：我估</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=1&amp;sn=d6b7692c7890abf491215565abd3d895&amp;chksm=bf2ccfa0b82d510eca5e115d7ca8b33249213b15693f6166b7286110261d3a550d6a66ef7e14&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[第一本给程序员看的AI Agent图书上市了！文末赠书]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ7ESlCEdehk33U4mHCnCQdmCHficlMUG95CVXH3NFxyhrOT9qlzAdJvxoiamibNjfDKnyrYqcqbibxjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent火爆到什么程度？OpenAI创始人奥特曼预测，未来各行各业，每一个人都可以拥有一个AI Agent；比尔·盖茨在2023年层预言：AI Agent将彻底改变人机交互方式，并颠覆整个软件</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=2&amp;sn=083ca6efc433e53969b4e62c4a51721a&amp;chksm=bfed04da56e83b0a44a12d17851c34d6bfa634c31e6c617cc81e2ff45a5e5ad89145bbfa4e54&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型推理加速-投机解码]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465ILuJ026v8kRqkc7N6YdS9Y8EENS2oY7KekdnRYnwiasMIh9Hible1YHVp0VUo6As89y9NAOXvudXQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>【本文已在同名 微信公众号 / 知乎 / 个人博客linsight.cn 上线】大语言模型虽然效果很好，但是推理时，朴素的自回归解码策略需要逐个串行解码，耗时较长，这给用户的耐心带来了很大挑战。如今各</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=3&amp;sn=6636b6aee53a1888c18632a584060503&amp;chksm=bfb6bc7817a866b8b074cfffb5f51cf0a95d81b13c51f54bfe02f11182836661c805bf33ed22&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【文档智能】符合人类阅读顺序的文档模型-LayoutReader及非官方权重开源]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGBPwKic2FnIVRtxjtt907cwBMlBMfWlIRdtCynG2NtEXibvJFcHCNgAseyCgj7KicMyuzfeqB3rE9FHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言 阅读顺序检测旨在捕获人类读者能够自然理解的单词序列。现有的OCR引擎通常按照从上到下、从左到右的方式排列识别到的文本行，但这并不适用于某些文档类型，如多栏模板、表格等。LayoutReader模</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=4&amp;sn=98a1ab67197cb119fd13ac2106f23a4f&amp;chksm=bf302820b82757f4e2d8b7066e95322522cc8b70f239d1ed0fbd760a7f49847e41ee81ea2d41&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[对话大模型的跨语言迁移]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AoUEy7BGqPiaSfTsEdsfg3iafmKkBx8ZwtR46fnIdVesJYRwPunhlTMbdqWpvE5P9ibaKjN0ibggJT6YDaMLJAYGuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>【本工作由南大NLP实验室与华为翻译中心合作完成，论文链接：https://arxiv.org/abs/2405.13923，代码&amp;数据：https://github.com/hy5468/Trans</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=5&amp;sn=7a3bc1145bd675a810a96751282c45f9&amp;chksm=bf9313a69f2b360c5c81a723ab288e1ab78c11c9f2482a8d4e543f426e1940fac0aca792831f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
+      
+
     </item>
     <item>
       
