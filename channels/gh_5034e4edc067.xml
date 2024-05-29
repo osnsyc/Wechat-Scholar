@@ -47,40 +47,115 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[从啥也不会到DPO：大模型微调（Fine-Tuning）实践经验最全总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJjwYuPtbjrMeBpQYp1iaBN2FpQPGKibXatGgaRRr0uyUm2r2ic8PSuqmHhSDt1j0x7vHia5wsrgh3OVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI GPT-4o，Google Gemini，Meta Llama3......无论闭源还是开源，大模型技术的发展今年是你方唱罢我登场，而且迭代速度飞快，在短短一年间就有了大幅度的技术迭代更</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442761&amp;idx=1&amp;sn=ed23d3671c4ec57b74f2adb47d01c252&amp;chksm=bfab978138bbb7c1da684958d8a7ad75f530b64635d92443bc90e14aa95c9d528a35906a3ea0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 May 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[小样本学习只是一场学术界自嗨吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKwSlR5VVVSDoSibpLqbX2wupc16va02k0s84n7VQkqia2GMxbS7R0zgYokiajya0sLMh4f7CwscIic4w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨ALme@知乎来源丨https://www.zhihu.com/question/439865186/answer/2472023214编辑丨极市平台导读 这两年看见很多人，都在批评few-sh</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442761&amp;idx=2&amp;sn=2017c0cf4be065bf7686d45fa0abf0ad&amp;chksm=bf0f78fc4a834d03502bf7e4b224c5404fe008593fd59b79492f0319418ead4101c6410c8965&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 May 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型推理优化技术-KV Cache]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/J0mLianhFicBEwElQQ8M38YqlDCDh3yDUMVRjcY1myGfNqBIrSgZiacv5ObqfJFXNWtY9vS8Q6R3dmvphQiaKUpxlg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近两年大模型火出天际；同时，也诞生了大量针对大模型的优化技术。本系列将针对一些常见大模型优化技术进行讲解。大模型推理优化技术-KV Cache大模型显存优化技术-PagedAttention大模型显存</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442761&amp;idx=3&amp;sn=a6124cf75e15a16130d8d9ef2d6fd1de&amp;chksm=bfcfa7f761e018211ce7b52a4649974f0d07acb0ab7a8b533def16e5283b00808c612bddb372&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 May 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LSVCR：从观看到评论，使用大模型联合完成视频与评论推荐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hg6UPGp0Hib49IhPWd3UJYhMInibHEDSdPUBJnAibIwXU1gRfCw6RPc2csAUPmBRZIoewicXdVUcTWsdCTPgLBSm9w/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题: A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendat</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442761&amp;idx=4&amp;sn=6b90d1197ed10e6b6b212ff637d5476e&amp;chksm=bf9d5b30e16a0b2f1acda30d3e9256bba5c9c5d312c1121f7d928def11d8e05d5399e0ec403e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 May 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Diffusion Model学习——DDPM原理解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GF2x2ksp03hicT2GCzOxJuv6RPYDiaGhx3MmrnwgLtRbgI6o8FZE7ahU71rYRqX3UHfXTnmcN5rJytbQOldCICDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>0 前言1 宏观理解    1.1 GAN    1.1 Diffusion Model2 数学公式推导    2.1 前向扩散过程    2.2 反向去噪过程        2.2.1   的计算 </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442761&amp;idx=5&amp;sn=43c7a9644ea7ebd6d26e3c75cccd8fc7&amp;chksm=bf62987e09cc1536b73ac7d1d4acf607ed8e61072f895a6bc3e5e0f39b9921946046a8a776af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 May 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[GPT-4o炸裂登场！大模型仍是最大赢家！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKMeozxUiajDFAnKL6ibuQPCCC6DsAGpDsH8FyLoLY0AtvJjqRsOGX5VoM0w7vicnJlCPd1vB0S6gDtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>从一年前ChatGPT突然爆火，到不久前文生视频大模型Sora以霸屏之势吸引全球舆论，再到近日OpenAI发布的王炸GPT-4o，与AI大模型相关的议题越来越多地被大众所讨论，如果说2023年的大模型</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442740&amp;idx=1&amp;sn=577492ed2700f6b378b82c93fe44ad03&amp;chksm=bf465eba8064682713fd6253b46c86e77ad499eb416cfd7c3ca9aca95592cea76f0b124ba807&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 28 May 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[群魔乱舞：MoE大模型详解]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKMeozxUiajDFAnKL6ibuQPCCwhLY9G1y8RruPK3piccra79AAWCB70j2oDdq4magBP8pGspFjKJqRog/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨绝密伏击@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/677638939编辑丨极市平台导读 究竟什么是MoE大模型？MoE大模型具备哪些优势？本文就带你一探究竟</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442740&amp;idx=2&amp;sn=455ebab0141a832f0d031416785ebaf4&amp;chksm=bfc25fd9af5244b82869fda1e52311a91f84e68398915f4da9480a1dc13e406141290e0842f8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 28 May 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[美团大模型-日常算法实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKMeozxUiajDFAnKL6ibuQPCCEhNPEwzy1msfSMoo47aRJjTrmichoqG0t4ib5Bp08nZhia4ibpDB9TRfbw/300?wxtype=jpeg&amp;wxfrom=0"/><p>美团大模型-日常算法实习生（北京）【岗位职责】1. 负责百亿参数以上超大模型的训练与推理性能优化，包括但不限于MOE、speculative decoding等；2. 模型压缩技术前瞻探索，包括但不限</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442740&amp;idx=3&amp;sn=6e5549af2940247ebcec063281414eb7&amp;chksm=bf1eb3eefd5681a03434400698a25c252f67da3f53458f931fd2d0664706a5c0bb92156f7075&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 28 May 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【RAG论文】RAG中半结构化数据的解析和向量化方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdwTicG0aZndEe0vfiahjVZ1o8ymyczlLVCtswS4Yz0LmcCnlUJKG0H5sgUYdMjic7jQEcvpiacQXDjUA/300?wxtype=jpeg&amp;wxfrom=0"/><p>01论文简介论文题目：《A Method for Parsing and Vectorization of Semi-structured Data used in Retrieval Augment</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442740&amp;idx=4&amp;sn=54a2e79ba696c856053c95ab5311e924&amp;chksm=bf12f85e418f518c574a8af70f09d22d47f6f4965de075c233082eab545a0805b3968eaedee3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 28 May 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[MIT最新力作：用GPT-3.5解决时间序列异常检测问题]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dcUv9UF2OUVjP0vRORXQicaOUZOTcSUDT5wDdafLCvOmtCwiceCib8DllPaHs4RHbju2b34s55QMyGK6ztoADNYSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一篇MIT上周发表的文章，使用GPT-3.5-turbo解决时间序列异常检测问题，初步验证了LLM在时间序列异常检测中的有效性。整个过程没有进行finetune，直接使用GPT-3.5-</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442740&amp;idx=5&amp;sn=2aa348c883d1447174ff9843160b8873&amp;chksm=bf9bc5599638b5a83b7cb9a3107d6bddc751c9d4a085516a76043523c42aa6e4122419e8a18d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 28 May 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -399,86 +474,6 @@
       
 
       <pubdate>Thu, 23 May 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GPT-4o再次封神！全网独一份的AI大模型教程]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJQqauBoWIX4xesJK7mlPJt679XRJazxHwGlCUUdqsg3LHiaZxeugOnbiaiaibIzTgrWHQlvf9T8DvsOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>5月14日，一场不到30分钟的发布会，再次引爆AI行业巨变。OpenAI正式发布GPT-4o，在新的大模型的支撑下，ChatGPT 的交互体验，让全球人震惊。它具备文本、图片、视频和语音能力，能够实现</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442549&amp;idx=1&amp;sn=4da50b81e88efe81662faaea18cf3650&amp;chksm=bf5cb13391c7e67ae82a2682b6b4e7eef821c1a133e0a3992cca9eb62fb5ec0ccd356f9a787b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 May 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[突破性AGI综述：UIUC 120页长文揭示离AGI仅一步之遥？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJQqauBoWIX4xesJK7mlPJtjibGdvlMZVFa1Q7haJm4B1qDDppyC1EFPMEDNNQUavSJMlicT8kYETtQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | UIUC Ulab近日，一篇关于 AGI 的综述观点性论文火了。文章深入探讨 AGI 发展历史和现状，探索 “AGI 离我们有多远以，及如何安全通往 AGI”。在刚刚结束的 ICLR 202</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442549&amp;idx=2&amp;sn=3cd8b025999e4f8c5bb9ac94f440434e&amp;chksm=bfd9bd332c5ef9ddf927a06f42eea3a779584759de9903ec37c0c23a120ee229d4cc09209c0d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 May 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[浅谈大模型 SFT 的实践落地：10 问 10 答]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/210IyDic7rafCDdxXXuS767yH3SWOARWEkrWBibvqp9nADickicGcjdlxjKUKRPF3pugRfwwuxsaD83bm99pE5anEw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源｜知乎—周星星地址｜https://zhuanlan.zhihu.com/p/685582706前言SFT 是“低端”的工作，但它与业务紧密相连。相较于难以实施且多数公司没资源训练的预训练，以及调</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442549&amp;idx=3&amp;sn=e287ff6b8d53219084359f3d0af9e4c0&amp;chksm=bfc6bc467f7cba321d982c4e9c6c2b98c211b26be5efee28d9abbfdde567e6404ab374d99a06&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 May 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM &amp; 长文本】Infini-attention：高效无限上下文 Transformer]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGCKKbCXQMEaTibVrQm2j3xxyP7aFZv9U4vSoCspgnHG9cHicuWP4fAPLnTsvgCE5d20Lz31U7v7sPgw/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言 大型语言模型（LLM）的架构在很大程度上受到了Transformer类型模型中注意力机制的影响。这些机制通过允许模型关注输入序列的相关部分，彻底改变了模型理解和生成文本的方式。然而，随着模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442549&amp;idx=4&amp;sn=3688537bd01bfe24197719053d402ef5&amp;chksm=bffc5701c093587e5e52adfe6546d650af9659f4eec6f031719635f739ab6b177343a041e6c4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 May 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI前CTO Ilya推荐的30篇文章，认真读完将理解当下90%的AI技术（1-10）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aaN2xdFqa4FNvOjW78pdWDBiaHAeAlKibW3cgWkDkSD3KtSal4v8UEJwibH5Bicwefn7hSrOiaiaPLhPTNjTAfqdsBFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网上流传一份ilya推荐给John Carmack的阅读清单，该清单包含了当今与AI相关30篇顶级文章，并称如果真的将它们读完，就能理解当下90%的AI技术。下面笔者带大家速览这40篇文章内容概</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442549&amp;idx=5&amp;sn=1e07d81fd242e3e9d4a9dba0351cdc24&amp;chksm=bfdc2a680783da836ba9483eae066c530411b7325f9fc48339b7d57928b2af2dfec3a3da93a3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 May 2024 02:10:00 +0000</pubdate>
       
 
     </item>
