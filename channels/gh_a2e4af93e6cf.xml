@@ -74,52 +74,180 @@
 
 
     <item>
-      <title><![CDATA[从啥也不会到DPO：大模型微调（Fine-Tuning）实践经验最全总结]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNEWWicblebtF30iaZia8agnXG35Sj5pLOxhfwouFpyRJnuUGiaCibHJ0za1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI GPT-4o，Google Gemini，Meta Llama3......无论闭源还是开源，大模型技术的发展今年是你方唱罢我登场，而且迭代速度飞快，在短短一年间就有了大幅度的技术迭代更</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=1&amp;sn=4f61e4c04ff6f226e44692721d6122fc&amp;chksm=fd906cca65f28376aef739d4715f96d2dcc57bd264d09ee688ed59964d6f875888a2abe57ea1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[视觉-语言导航模型如何适应更新？ICML2024|基于快-慢测试时自适应的在线视觉-语言导航方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HlerfnKwMHXTka72VulgKHZACll2DApBB9AATxFS5NAyy5E8EMjWicOw5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文提出了一种快-慢测试时自适应方法(FSTTA)，有效建模了视觉-语言导航模型在线执行任务时的模型动态更新问题，在现实世界场景中具实际应用潜力。论文是目前视觉-语言导航领域中第一篇被ICML接收的工</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650970&amp;idx=1&amp;sn=e0f86cf20c3f0736243f841f391a8432&amp;chksm=fdac51a079f847638c210b85041e4b9e56471c5ea9e6fad13ba1f2d77fe4437f2bded324eeba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 30 May 2024 04:10:32 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【CMU博士论文】迈向多任务多模态模型：视频生成，200页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNyTnKNxg2kac53vBJE99ExSs9D9mjdlictHdX5u3ogrF6ugveBycK9icw/300?wxtype=jpeg&amp;wxfrom=0"/><p>语言基础模型的进步主要推动了最近人工智能的迅猛发展。相比之下，非文本模态的生成学习，特别是视频，显著落后于语言建模。本论文记录了我们在多任务模型构建方面的努力，旨在在多种条件下生成视频和其他模态，以及</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=2&amp;sn=5636ba5d2376158195c2201a83216c1b&amp;chksm=fd812f7dfd3f251733e0039285796eeac3b57c17dfbb711fde3b0d42c5fffeca5e40056a4ef4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[数据要素流通标准化白皮书（2024版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw387XTlHicMPguB3GCZVP7aJ6ibKQlguV5F1TEhZODbcsB8RCnWPocZ2UsQLARd4mNMQSicPNCibkuyvA/300?wxtype=jpeg&amp;wxfrom=0"/><p>数据要素是数字经济发展的核心引擎。从微观看，数据作用 于劳动者，便于人们学习、使用先进的知识和技术，提升人力资 源的素质，提高劳动生产率；数据作用于资本，可以辅助投融资 决策，更好地推动金融服务实体经</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650970&amp;idx=2&amp;sn=1865404bb2292865b04ce05c59fa7eda&amp;chksm=fdc4bd23e08cf8d11fb4b486c87a14f21165e9f640f31ce2790a62c85a223c3b76a3145c8d42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 30 May 2024 04:10:32 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[从数据中心视角看多模态大型语言模型的综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNnjJp4ictY34iaYkjibsdFHYqPBKdDERfNEeicHH5GObjF7TVTsCrH2b7tQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人类通过多种感官，如视觉、嗅觉、听觉和触觉来感知世界。同样，多模态大型语言模型（MLLMs）通过整合和处理包括文本、视觉、音频、视频和3D环境在内的多种模态数据，增强了传统大型语言模型的能力。数据在这</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=3&amp;sn=c6131430bb87164388775fb20b33a421&amp;chksm=fd5fe8fc0b948d0ff56ffac2d7f883ac10b994a4e01898c109aa1819ba736ce1a02b51841e23&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[多模态模型架构的演变]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw387XTlHicMPguB3GCZVP7aJTibtTTSniagSvqwCOBvfHuXkJVctSQVSBLGANRll8GdxCH1LbFztKz2Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>该研究独特地识别并表征了当今多模态领域中四种流行的多模态模型架构模式。通过对模型进行架构类型的系统分类，有助于监测多模态领域的发展。与近期提供多模态架构一般信息的综述论文不同，本研究对架构细节进行了全</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650970&amp;idx=3&amp;sn=c75e30f99cb0a6360315a94dc4370df3&amp;chksm=fd21b12b5c0933ee1268276d7815d6e9d1976b753e1049880a563842747119dae827acc7ee4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 30 May 2024 04:10:32 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《人工智能在多域作战中的应用》52页报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNcCaQyGiaUXRUwgiayXaF8W0W6406icdSRicuBPbiclrVN2PWScdiaPibeDUoQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）是未来联合部队充分发挥多域作战（MDO）潜力的基础。由人工智能支持的系统有能力在各领域、电磁频谱和信息环境中战胜对手。在竞争中使用这些系统可使联合部队近乎实时地了解作战环境，从而更好地</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=4&amp;sn=f8ca67857db5b29b4102190433fdf9ec&amp;chksm=fdb19100c52df938649369c8391e61478cde5c9ee92a0ab2878d1de8cc045e72c747e318e65f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《DARPA SAFE-SiM 任务工程工具的进展：杀伤网分析评估》16页slides]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw387XTlHicMPguB3GCZVP7aJMyjCCL8zFQG18g4ySABcV3dgRW1MwRZcBNJaoOxTVPJ8HDXqTQbL8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>高级任务工程：杀伤网用例机遇与挑战：发现、固定、跟踪、瞄准、交战、评估（F2T2EA）杀伤链由分布在空间和时间上互锁的系统完成，这些系统作为一个系统的系统发挥作用分布式系统为多个任务连接在一起，形成杀</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650970&amp;idx=4&amp;sn=51751bebf4d6fbc47b5b984d74d861bd&amp;chksm=fd647d64e5df88d34f5a3384d2db4fe61410864879b5c778472fb61a7ae80e1855163f876096&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 30 May 2024 04:10:32 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[美陆军的人工智能新政策：引领大语言模型的未来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTlKh6Zicn3cPZKHF8Iuw0fRmXT36DCp7qC3LBVRSlX7sMRYVw9JxhQuiaqmlfveKKxhAuyTGknvJLg/300?wxtype=jpeg&amp;wxfrom=0"/><p>美国陆军即将发布关于使用大型语言模型（LLM）和生成式人工智能（AI）的新政策指南。此举正值五角大楼寻求利用人工智能的变革潜力，同时解决安全问题并确保该技术满足美国防部（DoD）的独特需求之际。随着人</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=5&amp;sn=5de762b4a301582476ec52721d2f42ee&amp;chksm=fd8efd4026fde364f1886ac56846cd10e4d9472798aeb0d641d8dc8b60336beb6dcaaf6ae1f1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《评估生成式人工智能的红队方法》最新37页长综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw387XTlHicMPguB3GCZVP7aJn6ybFUoOEE65zibl46TXdGw2JPvTznySKCsTcibnvJqbar7NFBq9qaRQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了应对人们对生成式人工智能（GenAI）模型的安全性、保障性和可信性日益增长的担忧，从业者和监管者都将人工智能 "红队"（red-teaming）作为其识别和降低这些风险的战略的关键组成部分。然而，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650970&amp;idx=5&amp;sn=2127642422b140883d4428fb15ba1439&amp;chksm=fded28be6fb766a5276e115976ee8eb842fe1c26e5c18d6aa9c5283762e0ff071bff9d28720b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 30 May 2024 04:10:32 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【ACL2024】DoRA：通过动态秩分布增强参数高效微调]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXN1z40uicqFVQIFomWicqVaeqFvfmmF6BVfCLY3mgkCyicssjXGbJr89ogQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>微调大规模预训练模型本质上是一项资源密集型任务。虽然它可以增强模型的能力，但也会产生大量的计算成本，给下游任务的实际应用带来挑战。现有的参数高效微调（PEFT）方法，如低秩适应（LoRA），依赖于一种</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=6&amp;sn=53c41355ff48303ea93356e4c61b0647&amp;chksm=fd189be03bb2ae194a2efbb355a00714e49b6fada59bf70361d8d1dccdf4cb9d741a70b8c5a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【CMU博士论文】最优传输的统计推断]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw387XTlHicMPguB3GCZVP7aJLd78s1zpxM7snsibWYMEUaQ8VgRtaUYmDDKeJOuZlcXDjyTuicVHHgnA/300?wxtype=jpeg&amp;wxfrom=0"/><p>最佳传输是一个用于比较概率分布的灵活框架，最近作为统计学中的方法工具引起了广泛关注。本论文的目的是开发在最佳传输框架下对各种对象进行有效和高效统计推断的程序。一方面，我们推导出一个在任意固定维度下概率</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650970&amp;idx=6&amp;sn=e1b33fc8b9fb76ea8e14ab0cc4a2ac05&amp;chksm=fdf3daea00eb51a1f48e86c147f6c5b9f4ef2715add0d614f4e9d974d4a7adfbc97072551df1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 30 May 2024 04:10:32 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[2024大模型训练数据白皮书-阿里研究院，32页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNricDfeIWw3y0I9MxFy76FEvia4JACWU4OrfKzgjzaNsjwjkDJ4NhaQ9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>5月24日，由阿里研究院牵头，阿里巴巴集团、数字中国研究院（福建）、阿里云智能集团联合编写的《大模型训练数据白皮书》在第七届数字中国峰会期间发布。自《中共中央国务院关于构建数据基础制度更好发挥数据要素</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=7&amp;sn=63894d3a1aa79faaddb642345f759b11&amp;chksm=fd317eb1707602582849d086e4012fb81b46d901e6c16c7e40d8dc48995283a4a8938d7f91b7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】差分隐私实战：使用OpenDP进行理论与实践介绍，389页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw387XTlHicMPguB3GCZVP7aJOlYuk5kpkFQC5B8n5qmbwCkqkB681o6QJKeQrKdyUDAbu6RrYCDYTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>许多组织今天分析并共享关于个人的庞大且敏感的数据集。无论这些数据集涵盖的是医疗细节、财务记录还是考试成绩，组织通过去识别化、匿名化以及其他传统统计披露限制技术来保护个人信息变得越来越困难。这本实用的书</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650970&amp;idx=7&amp;sn=86ee2a384263c0a72d7a0007fed04c75&amp;chksm=fd68a9245ea0c777fc369ce42d15e05bd83cd134291fb437ea07e075a66ac6fda8f3cf2b1b80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 30 May 2024 04:10:32 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=8&amp;sn=0cefc8ff7879498356a93c1c7dfec06d&amp;chksm=fd4ca580a6f57be633242342ff3e9e9dc0758f856c10f9f021afc8cceb0e87e292e33c543fb6&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650970&amp;idx=8&amp;sn=af16751b1661c0925d94561a0326dafa&amp;chksm=fd1b06db9d694ad4220319d9ff6cf062ad3f089c0bfb3b07335a3c15dc8c449e7d0111900ed4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 30 May 2024 04:10:32 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[从啥也不会到DPO：大模型微调（Fine-Tuning）实践经验最全总结]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNEWWicblebtF30iaZia8agnXG35Sj5pLOxhfwouFpyRJnuUGiaCibHJ0za1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI GPT-4o，Google Gemini，Meta Llama3......无论闭源还是开源，大模型技术的发展今年是你方唱罢我登场，而且迭代速度飞快，在短短一年间就有了大幅度的技术迭代更</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=1&amp;sn=4f61e4c04ff6f226e44692721d6122fc&amp;chksm=fd906cca65f28376aef739d4715f96d2dcc57bd264d09ee688ed59964d6f875888a2abe57ea1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【CMU博士论文】迈向多任务多模态模型：视频生成，200页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNyTnKNxg2kac53vBJE99ExSs9D9mjdlictHdX5u3ogrF6ugveBycK9icw/300?wxtype=jpeg&amp;wxfrom=0"/><p>语言基础模型的进步主要推动了最近人工智能的迅猛发展。相比之下，非文本模态的生成学习，特别是视频，显著落后于语言建模。本论文记录了我们在多任务模型构建方面的努力，旨在在多种条件下生成视频和其他模态，以及</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=2&amp;sn=5636ba5d2376158195c2201a83216c1b&amp;chksm=fd812f7dfd3f251733e0039285796eeac3b57c17dfbb711fde3b0d42c5fffeca5e40056a4ef4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[从数据中心视角看多模态大型语言模型的综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNnjJp4ictY34iaYkjibsdFHYqPBKdDERfNEeicHH5GObjF7TVTsCrH2b7tQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人类通过多种感官，如视觉、嗅觉、听觉和触觉来感知世界。同样，多模态大型语言模型（MLLMs）通过整合和处理包括文本、视觉、音频、视频和3D环境在内的多种模态数据，增强了传统大型语言模型的能力。数据在这</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=3&amp;sn=c6131430bb87164388775fb20b33a421&amp;chksm=fd5fe8fc0b948d0ff56ffac2d7f883ac10b994a4e01898c109aa1819ba736ce1a02b51841e23&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《人工智能在多域作战中的应用》52页报告]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNcCaQyGiaUXRUwgiayXaF8W0W6406icdSRicuBPbiclrVN2PWScdiaPibeDUoQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）是未来联合部队充分发挥多域作战（MDO）潜力的基础。由人工智能支持的系统有能力在各领域、电磁频谱和信息环境中战胜对手。在竞争中使用这些系统可使联合部队近乎实时地了解作战环境，从而更好地</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=4&amp;sn=f8ca67857db5b29b4102190433fdf9ec&amp;chksm=fdb19100c52df938649369c8391e61478cde5c9ee92a0ab2878d1de8cc045e72c747e318e65f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[美陆军的人工智能新政策：引领大语言模型的未来]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTlKh6Zicn3cPZKHF8Iuw0fRmXT36DCp7qC3LBVRSlX7sMRYVw9JxhQuiaqmlfveKKxhAuyTGknvJLg/300?wxtype=jpeg&amp;wxfrom=0"/><p>美国陆军即将发布关于使用大型语言模型（LLM）和生成式人工智能（AI）的新政策指南。此举正值五角大楼寻求利用人工智能的变革潜力，同时解决安全问题并确保该技术满足美国防部（DoD）的独特需求之际。随着人</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=5&amp;sn=5de762b4a301582476ec52721d2f42ee&amp;chksm=fd8efd4026fde364f1886ac56846cd10e4d9472798aeb0d641d8dc8b60336beb6dcaaf6ae1f1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【ACL2024】DoRA：通过动态秩分布增强参数高效微调]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXN1z40uicqFVQIFomWicqVaeqFvfmmF6BVfCLY3mgkCyicssjXGbJr89ogQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>微调大规模预训练模型本质上是一项资源密集型任务。虽然它可以增强模型的能力，但也会产生大量的计算成本，给下游任务的实际应用带来挑战。现有的参数高效微调（PEFT）方法，如低秩适应（LoRA），依赖于一种</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=6&amp;sn=53c41355ff48303ea93356e4c61b0647&amp;chksm=fd189be03bb2ae194a2efbb355a00714e49b6fada59bf70361d8d1dccdf4cb9d741a70b8c5a9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024大模型训练数据白皮书-阿里研究院，32页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0rPbXibYLbUuP4mv0icFcGXNricDfeIWw3y0I9MxFy76FEvia4JACWU4OrfKzgjzaNsjwjkDJ4NhaQ9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>5月24日，由阿里研究院牵头，阿里巴巴集团、数字中国研究院（福建）、阿里云智能集团联合编写的《大模型训练数据白皮书》在第七届数字中国峰会期间发布。自《中共中央国务院关于构建数据基础制度更好发挥数据要素</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=7&amp;sn=63894d3a1aa79faaddb642345f759b11&amp;chksm=fd317eb1707602582849d086e4012fb81b46d901e6c16c7e40d8dc48995283a4a8938d7f91b7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650548&amp;idx=8&amp;sn=0cefc8ff7879498356a93c1c7dfec06d&amp;chksm=fd4ca580a6f57be633242342ff3e9e9dc0758f856c10f9f021afc8cceb0e87e292e33c543fb6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 29 May 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
