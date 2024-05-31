@@ -45,33 +45,93 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[大模型的微调一般训练多少epoch不会过拟合？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmtrRgxKzPvhzlniaA153CrochYpU3ibdXk5g0q5JhlHYjA80iafKg8lu9nJJvQHPQWDPniaVeV6AWkuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近出现了一系列令人激动的开源大语言模型，如meta的LLaMA、清华的ChatGLM等。伴随大模型一起爆火的，还有大模型的微调方法。然而随着模型规模和任务数量的增加，对整个Transformer模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247667827&amp;idx=1&amp;sn=09d7cc044287b6dcbf99a12aecfe5d72&amp;chksm=97c320b058d39de5163c40f32e756134ef4d3b5829ee293cc1fac4d81967424bc4a590a3f5b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 31 May 2024 05:32:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ACL 2024 | 如何避免LLM生成有毒回复？基于知识编辑的大模型祛毒初探]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmtrRgxKzPvhzlniaA153CrojOMepdStgs7V5O5YZWFPBKiaAIeESV8f3yd664PVfia01fNzSra0pZzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文链接：https://arxiv.org/abs/2403.14472代码链接：https://github.com/zjunlp/EasyEditBenchmark:https://huggin</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247667827&amp;idx=2&amp;sn=13962f1048cd4cf5f855be553218ccb6&amp;chksm=97ae127ad5053527ec1a3c317161f4cc4571567d90854b5e69ddb52cfd29b09695b3aaa0fde8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 31 May 2024 05:32:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ICML 2024 | 过犹不及：揭示Graph Transformers中的过全局化问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmtrRgxKzPvhzlniaA153CroAibEoeXhMKkErcgQrlqkaS22pJtSJ5nM63HGqOZqxib8iav9xwDJxb7ZA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 邢宇杰单位 | 北京邮电大学GAMMA Lab研究方向 | 图神经网络论文链接：https://arxiv.org/abs/2405.01102代码链接：https://github.co</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247667827&amp;idx=3&amp;sn=979bddf27ce84499596bba76998054d5&amp;chksm=975b78382cae948fe95bc5d4827c443dc42655222ba7b46aea87fdfdf39d1865b604667ed9b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 31 May 2024 05:32:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[北京内推 | ​微软亚洲研究院DKI组LLM团队招聘LLM方向研究型实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmtrRgxKzPvhzlniaA153CrolqibZYatC4aSFxjOKO90cMicypFhyWZiccs3cVzxyzTk58KDARwCqtvGQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！微软亚洲研究院微软亚洲研究院DKI组LLM团队致力于large languag</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247667827&amp;idx=4&amp;sn=2207c209ccc8dad1a991f3fc58b78a66&amp;chksm=975f264bf9fedd01e41e63aed7ed0e37ce665761589dd46dc9937dc249aad8ee7663d4bece20&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 31 May 2024 05:32:30 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[MoE门控网络最新创新！性能对标Llama 3，源2.0-M32大幅提升模型算力效率]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkpQibA0LL5SiaVUGLwPaR9pIlgXicf578pDYo2j27jQhL0pC1ckyicJSHJJZQOXKsZmZXq7j8oVsHwGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，全新发布的大模型“源 2.0-M32”为 MoE 算法结构创新带来了全新思路——创新性地提出和采用了“基于注意力机制的门控网络”技术，构建包含 32 个专家（Expert）的混合专家模型（MoE</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247667772&amp;idx=1&amp;sn=84ce6321c3c28f5004dc286e8ce5a15d&amp;chksm=97bf6b89ceb6e31fcb8dd314e488fdc0873dae3b292321ae9d6b0b95fbb2f4f0437380f0e0ea&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 30 May 2024 06:56:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[GPT-4o能力大幅领先！迈向长上下文的多模态模型评估基准MileBench]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkpQibA0LL5SiaVUGLwPaR9pIhzxSIerr39Miap4modjXh8B3U9E6lPX2vDtc6MFlXqlVERyQfyXziacA/300?wxtype=jpeg&amp;wxfrom=0"/><p>🚀 GPT-4o 的超强多模态长上下文能力备受瞩目！ 然而，现有评估基准往往忽视了长文本和多图像任务的复杂性。为了解决这一问题，我们推出了首个专为测试 MLLMs 在多模态长上下文中表现的基准——Mi</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247667772&amp;idx=2&amp;sn=bfe3b94c25551d3d7491d1487c28351a&amp;chksm=972b219a198c215be2999851d2a5bf46948becbccadebfbc8d7942207ceebdb20ea97871d050&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 30 May 2024 06:56:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ACL 2024 | 提升大模型持续学习性能，哈工大、度小满提出共享注意力框架]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkpQibA0LL5SiaVUGLwPaR9pItzMU6ZHYLaQsjYAwdStwECurIdRyQD02uoIC6KRfvMEpo621kehVMg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 赵伟翔单位 | 哈尔滨工业大学博士生来源 | 机器之心在大模型实际部署落地的过程中，如何赋予大模型持续学习的能力是一个至关重要的挑战。这使其能够动态适应新的任务并不断获得新的知识。大模型的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247667772&amp;idx=3&amp;sn=3e735433da925a081c94abfcd72d84a3&amp;chksm=97716c7a3011e1a2d8924f144ce0a1f9ce56d9d30eb698064740ae9f2ab2fc9d4930eadc111f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 30 May 2024 06:56:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[博士申请 | 香港中文大学（深圳）刘桂良老师招收强化学方向全奖博士/硕士/RA]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkpQibA0LL5SiaVUGLwPaR9pIGtSsIMHBkzDowQRKU7Lcn6RzyeZAHrMMHI5PkngOibPicpPPHKJ25pZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！香港中文大学（深圳）香港中文大学（深圳）数据科学学院专注于数据科学方向的人才培</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247667772&amp;idx=4&amp;sn=70a17355b0bfb8ff2dba9ba3ddd6784b&amp;chksm=97a56e56055847e93d715b2b448066511912ac5c0aa5d17a8be92766432253b98643d21b91ef&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 30 May 2024 06:56:25 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -390,70 +450,6 @@
       
 
       <pubdate>Sat, 25 May 2024 12:42:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[最全！LLaMA 3/2/1模型结构总览 &amp; 亮点分析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk2u48Ng80ABU1Kv72u180GjfLBrOQsoRMNNqeiaBQDVxPYnIsl32zl42fQ43DZWnVxvy7OtRDfibLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>上个月，MetaAI开源了第三代Llama 3系列，是目前为止最强的开源大语言模型！传奇研究员，AI开源倡导者吴恩达表示：“Llama 3的发布是自己这辈子收到过的最好的礼物，谢谢你Meta！”不过以</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247666900&amp;idx=1&amp;sn=8f6c77633c2fa20f39413886d17a6fa9&amp;chksm=97b795ee71d11b185be5b7a17e6909a00625fc681d04e38c5eb24b2ac25f44c638dd97b4ae9e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 May 2024 04:38:30 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NAACL 2024 | 基于LLM的问答系统：表格转文本方法为什么能成功？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk2u48Ng80ABU1Kv72u180GTvM4LktqkZ6sbW9Nsdp1iclV93sLwngPf6FeYupH9o63QSNIic4lJ9nQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 闵德海单位 | 东南大学硕士生研究方向 | 大语言模型问答使用特定领域数据增强大型语言模型（LLM）进行问答（QA）已引起社区的广泛研究和关注。然而，领域</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247666900&amp;idx=2&amp;sn=499581db423583136b17cccec8582321&amp;chksm=977243ed9a9ac11a28fb6448c08ef6ee1a85e3a589ea5be989eb4792418d1616b482b5aa6d7e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 May 2024 04:38:30 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北京/深圳内推 | 腾讯游戏AI大语言模型团队招聘LLM算法工程师/研究员]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk2u48Ng80ABU1Kv72u180GcuOLcpdNmDAV795uBFEiczJ4ZbM0AHQ7uicHKNFKjl2BLLgT1GYibzic9A/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！腾讯游戏腾讯游戏成立于2003年，是全球领先的游戏研发和运营商。作为“超级数字</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247666900&amp;idx=3&amp;sn=e5759a9729d98a6780c9895b48bb4d13&amp;chksm=97b0843b7512c605b5edd414b654fef00f7e4f43eda3e0e8e06c549e64ff3271fd72656f5d40&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 May 2024 04:38:30 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[深入研讨语言模型中知识的生命周期，ACL 2024 Workshop征稿启动]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk2u48Ng80ABU1Kv72u180G8e8RNer0bezvc7zTu2Jd94vGTv3gWTHVNhqbicOql0ws8odcJTwOtWA/300?wxtype=jpeg&amp;wxfrom=0"/><p>简介知识一直是各种自然语言处理（NLP）应用的重要前提条件，通常来源于结构化知识源（如知识库和词典）或非结构化知识源（如维基百科文档）。最近，研究人员发现，语言模型通过预训练已经拥有了大量知识：大型语</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247666900&amp;idx=4&amp;sn=616476fd29f8429137f61be3ba7a8c25&amp;chksm=97186c5ff4a5985049729e004634da0d6391b3ac27e774048722526b2d332c8d3283102ba593&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 May 2024 04:38:30 +0000</pubdate>
       
 
     </item>
