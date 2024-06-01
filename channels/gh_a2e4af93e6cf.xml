@@ -73,62 +73,184 @@
 
 
 
-
-
-
-
-
-
-
-
     <item>
-      <title><![CDATA[Meta等76页最新《视觉语言模型VLM导论》，详述VLM技术栈]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4Hleu6sdHVeSaY7hsnZxzks8Rg5kgOZ0ufxfOLEfgiaY5B6D2kJibUnGmUqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据最近大语言模型（LLMs）的流行，已经有多次尝试将其扩展到视觉领域。从拥有可以引导我们穿越陌生环境的视觉助手到仅使用高级文本描述生成图像的生成模型，视觉-语言模型（VLM）的应用将极大地影响我们与</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=1&amp;sn=0533b4575d436de2258dfea4ccb211c9&amp;chksm=fd98c53993cf32837a620e49638b3f2e1262d9ddd0b4c6596f331863197ed842aaa8d27a8d32&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[ICLR24  Spotlight | R-EDL：放宽证据深度学习中的非必要设置]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0JrBTuicMblTbGklmCxUa2SuT3HybA6XLicevV1zv4TxUeIqlZsxskFoWbFkENr34R8Yx9icdSBnlibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>证据深度学习是一种新兴的不确定性估计算法，可以在几乎不增加额外计算量的前提下得到可靠的不确定性估计。本文提出了名为Relaxed-EDL的扩展算法，重新审视并放宽了传统证据深度学习方法中的若干非必要设</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651703&amp;idx=1&amp;sn=437da49fb7ead273a2095e1987c9c726&amp;chksm=fd692bb9fe0aac89ca0a1403c5097e4065b7d3b115a80c5d45cc380b610ec496dd2e4e2b8cf4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【COLING教程】大型语言模型的知识编辑，193页ppt]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HleqD3SBxovWWYAbAfocGGZNqfInVFiaoljKhsjHkiaPFwIDXtl9Z7AGCWg/300?wxtype=jpeg&amp;wxfrom=0"/><p>即使大型语言模型（LLM）如ChatGPT具备显著的能力，但它们在保持事实准确性和逻辑一致性方面仍面临挑战。一个主要关注点是如何在不进行全面重训练或持续训练的情况下高效更新这些LLM以纠正不准确之处，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=2&amp;sn=8ecd305b4bb42aba0e4b81da0efe1a51&amp;chksm=fd4b05ed1b04b730747921c76a4c60416c63112645fd7148c7f70e4d62e3da56d1a51624a7b3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【阿姆斯特丹博士论文】等变和坐标无关的卷积网络，528页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0JrBTuicMblTbGklmCxUa2Sia2ibaU9ncQ2eoHSaIl9Zk2MaD07qicaTp8588THlkRBOs3YnokZpaUicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这篇论文《等变与坐标独立卷积网络》中，我们为处理图像、音频或视频等空间结构化数据开发了一种人工神经网络的规范理论。标准的神经网络架构用于此类数据的是卷积网络，其特点是位置无关的推理。卷积网络能够将其</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651703&amp;idx=2&amp;sn=3552d7f46752ed7b7d37f1b50c4f2430&amp;chksm=fd80c4afab72a0738754e1a98780d26d024eae38bcb2756a3587366b2dddefd5e3ee259e7ed3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【UCLA博士论文】利用语言模型推进数学推理：多模态和知识密集型视角，208页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HleRhocg1t0Gg6c18hTrrLZzXPI6xZrCMfpagP4BNzBWicutd9zyebNrUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>https://escholarship.org/uc/item/678864d8数学推理是人类智能的关键组成部分，对于推动教育和科学发展至关重要。本论文深入研究了能够进行稳健数学推理的语言模型系统的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=3&amp;sn=c9b5a3f402535614bcd68da0e0d45338&amp;chksm=fd8eda1f388b13b290952e795ebb548b174d0e13ac26b7a3019bb629ba00d8195d0209c90d36&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《军事大模型评估体系白皮书》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0JrBTuicMblTbGklmCxUa2SwW7lRgXBDF7DnId8hMyiaMX64OjtHl53zVgG8kgkhcaceOsQ6Tb0png/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，渊亭科技积极参与行业内大模型的各项能力评估建设，取得了突出成果。作为国内最早从事军事大模型建设的企业之一，渊亭科技凭借在军事智能化领域的深厚积累，重磅推出《军事大模型评估体系白皮书》。白皮书全</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651703&amp;idx=3&amp;sn=a6cd4242cad44fef747de6a3e7eb93e8&amp;chksm=fd4b83874bfb04749e0e3f414523dcec35f122eeff2619cba7edfdfeb15b74517da0fac9790c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《决策优势与主动权：联合全域指挥与控制》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HledfM3tib5DDDe5mmbIPMYZ2oyLDWqKNKI2g2pNCT3v2hlmotqoA3rQdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文以约翰-博伊德的观察、定向、决策、行动（OODA）循环及其 “指挥与控制的有机设计”（1987 年）分析为背景，对决策优势和主动权进行了定义。博伊德的思想远远超前于当时的时代，但在新兴的运营环境中</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=4&amp;sn=a3822a9f4514be17ca311b185f93331a&amp;chksm=fdba36efc4c78c54b766609670d8f9caa3b1fa83eb8bbfbdb3c21fe55e96b0a2fe61be494e66&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《高级威胁行为体建模：特征描述、分类和检测》268页]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0JrBTuicMblTbGklmCxUa2Seksg79uz8mHwKOAVPVmHyhMkXYnI966xDxUA3NN52ibWMNNClsEnicXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>信息及其相关技术是个人、组织甚至整个国家需要保护的重要资产。我们对信息技术的依赖与日俱增，因此其安全是我们福祉的关键问题。信息技术带来的好处毋庸置疑，但其使用也带来了风险，由于我们对技术的依赖性与日俱</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651703&amp;idx=4&amp;sn=29d894eacddd537ff538da35369382ce&amp;chksm=fdd359858e0c3bf511ba9571e723503a47ab0bfc2767946137c32c9a151b20a9f72df6098731&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[任务战备的未来：国防知识图谱和情境人工智能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQulJ21d0fGYxsibC2OPibtpiaNricib1e7niaE893H5wPDJ5yKuz8mG17ppKkS20Fib5xdDib4vhv3u03rXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>当今的威胁形势瞬息万变，能否在充分了解情况的基础上做出以数据为导向的决策，关系到任务的成败。然而，传统的分析方法往往无法应对现代国防和情报行动所面临的大量复杂数据。这正是知识图谱驱动的先进人工智能（A</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=5&amp;sn=052994d33ad3b410f686c7fff92d899a&amp;chksm=fd9c9c8e5c5c622f35db1729779b5c07e5266cb2691aed90acff0e127988666575448876b18d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【COLING教程】导航现代评估领域：大语言模型 (LLMs) 基准和框架的考量，181页ppt]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0JrBTuicMblTbGklmCxUa2SxhCxJorGpNZPbQIp2rlIL8WUv5zHL6uJcZ2uvyT0ibHMUZRSyA6nhJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>通用语言模型改变了自然语言处理的世界，甚至改变了整个世界。虽然这种多功能模型的评估在表面上与之前生成模型的评估类似，但实际上它提出了一系列新的评估挑战和机遇。在本教程中，我们将从评估的基本构建块开始。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651703&amp;idx=5&amp;sn=ec1ed6a783cc52da265e7c51081f7ff2&amp;chksm=fd164c17c2c2b8ecc3052725cdab4bbda97cdf4041d8250baf867b58a9e3f3fd53a32d0dede2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[大语言模型算法演进综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HlerWicIOmRzBX9gvuqLsDJTqpFs5MFrrB9YA2XLluAu7mXuHKd0dZnP0w/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于Transformer架构的大语言模型展现出强大的能力，是人类迈向通用人工智能（AGI）的一个重大进步。大语言模型架构和算法的演
-进分为提高推理效率、提高模型能力两条技术路线。介绍了两条技术路线主</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=6&amp;sn=3aa62834d49f58786ccb4232f2f16304&amp;chksm=fda8381dfa3b472f243290291e92df92331bfca0f09c4886bea53bd6890379abc232f4a09517&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[DARPA 公布未来垂直起降（VTOL）无人机系统概念图]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSgxttGCL1Idc5Bed6m936Bfm1rjrVJcH9Qrc5DEEFxq7L5HgUenwQx77s2SYKFOFFXgUUe5Dl3IQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>美国国防部高级研究计划局（DARPA）为其 “先进航空器无基础设施发射与回收”（ANCILLARY）计划展示了六种创新设计概念，旨在提高小型垂直起降（VTOL）无人驾驶航空系统（UAS）的能力。入选公</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651703&amp;idx=6&amp;sn=8304a4cd34eb084356ae73597faf7bc7&amp;chksm=fdc5f6ae926f7b8e80c26648f4966d2300809c96bed3bd9bf4f3d693337e03d4a140c7f02853&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[国内外反无人机系统发展现状综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HlezxY5ZU500SG12ra6MVOZKrELBx7dAgO6M7jHNxVic9ZtYZV00YJ9ahw/300?wxtype=jpeg&amp;wxfrom=0"/><p>反无人机系统的兴起与无人机在军用和民用领域带来的新威胁有密切关系。由于无人机系统低成本、良好的操控性和极强的适应性等特点，使其带来的威胁与日俱增，因此，反无人机市场蓬勃发展，各国均加大无人机反制系统的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=7&amp;sn=ee91130a3f6d75aa6f9ac4338ce38dc1&amp;chksm=fd3b5df9a86f12a4cdb790d20529a9f4f458a04c72947ac86096ffe3f4180112874a5a785fb4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[对抗环境下的智能兵棋系统设计及其关键技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0JrBTuicMblTbGklmCxUa2SxPibtvdXGwzq4iaRKqCCP9UMsHcCAK7GXPicNAuYO18GvWrR7doSb74ZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>智能博弈对抗领域已成为当前研究的热门领域之一。侧重在兵棋推演系统的体系构建和模块设计，分
+析了兵棋推演系统的建模要素，包括兵棋要素、兵棋规则及智能接口设计，构建了智能兵棋推演系统的整体架构。通
+过 A</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651703&amp;idx=7&amp;sn=ef1a1e61284710554b2a18dc569a1991&amp;chksm=fd8f4ba74eddc087fe33bca2aa2549ed9184334fc55f7c614d50a9af3dd3a3681053a40562e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=8&amp;sn=4e25275bec67444d71c8e64979c6da3f&amp;chksm=fdf3cffed2ad556216f5de2f3f72814d23404c2386c4395373db77f81ced11c8efcacd442784&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651703&amp;idx=8&amp;sn=850f6e9922c59f3006054a33ed1e389f&amp;chksm=fd73ed6330f8827acaf0067d9c361c9fb91089fea03226211ecfb301ba8424954d5f7ff7e5fe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Jun 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Meta等76页最新《视觉语言模型VLM导论》，详述VLM技术栈]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4Hleu6sdHVeSaY7hsnZxzks8Rg5kgOZ0ufxfOLEfgiaY5B6D2kJibUnGmUqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据最近大语言模型（LLMs）的流行，已经有多次尝试将其扩展到视觉领域。从拥有可以引导我们穿越陌生环境的视觉助手到仅使用高级文本描述生成图像的生成模型，视觉-语言模型（VLM）的应用将极大地影响我们与</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=1&amp;sn=0533b4575d436de2258dfea4ccb211c9&amp;chksm=fd98c53993cf32837a620e49638b3f2e1262d9ddd0b4c6596f331863197ed842aaa8d27a8d32&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【COLING教程】大型语言模型的知识编辑，193页ppt]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HleqD3SBxovWWYAbAfocGGZNqfInVFiaoljKhsjHkiaPFwIDXtl9Z7AGCWg/300?wxtype=jpeg&amp;wxfrom=0"/><p>即使大型语言模型（LLM）如ChatGPT具备显著的能力，但它们在保持事实准确性和逻辑一致性方面仍面临挑战。一个主要关注点是如何在不进行全面重训练或持续训练的情况下高效更新这些LLM以纠正不准确之处，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=2&amp;sn=8ecd305b4bb42aba0e4b81da0efe1a51&amp;chksm=fd4b05ed1b04b730747921c76a4c60416c63112645fd7148c7f70e4d62e3da56d1a51624a7b3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【UCLA博士论文】利用语言模型推进数学推理：多模态和知识密集型视角，208页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HleRhocg1t0Gg6c18hTrrLZzXPI6xZrCMfpagP4BNzBWicutd9zyebNrUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>https://escholarship.org/uc/item/678864d8数学推理是人类智能的关键组成部分，对于推动教育和科学发展至关重要。本论文深入研究了能够进行稳健数学推理的语言模型系统的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=3&amp;sn=c9b5a3f402535614bcd68da0e0d45338&amp;chksm=fd8eda1f388b13b290952e795ebb548b174d0e13ac26b7a3019bb629ba00d8195d0209c90d36&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《决策优势与主动权：联合全域指挥与控制》]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HledfM3tib5DDDe5mmbIPMYZ2oyLDWqKNKI2g2pNCT3v2hlmotqoA3rQdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文以约翰-博伊德的观察、定向、决策、行动（OODA）循环及其 “指挥与控制的有机设计”（1987 年）分析为背景，对决策优势和主动权进行了定义。博伊德的思想远远超前于当时的时代，但在新兴的运营环境中</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=4&amp;sn=a3822a9f4514be17ca311b185f93331a&amp;chksm=fdba36efc4c78c54b766609670d8f9caa3b1fa83eb8bbfbdb3c21fe55e96b0a2fe61be494e66&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[任务战备的未来：国防知识图谱和情境人工智能]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQulJ21d0fGYxsibC2OPibtpiaNricib1e7niaE893H5wPDJ5yKuz8mG17ppKkS20Fib5xdDib4vhv3u03rXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>当今的威胁形势瞬息万变，能否在充分了解情况的基础上做出以数据为导向的决策，关系到任务的成败。然而，传统的分析方法往往无法应对现代国防和情报行动所面临的大量复杂数据。这正是知识图谱驱动的先进人工智能（A</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=5&amp;sn=052994d33ad3b410f686c7fff92d899a&amp;chksm=fd9c9c8e5c5c622f35db1729779b5c07e5266cb2691aed90acff0e127988666575448876b18d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大语言模型算法演进综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HlerWicIOmRzBX9gvuqLsDJTqpFs5MFrrB9YA2XLluAu7mXuHKd0dZnP0w/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于Transformer架构的大语言模型展现出强大的能力，是人类迈向通用人工智能（AGI）的一个重大进步。大语言模型架构和算法的演
+进分为提高推理效率、提高模型能力两条技术路线。介绍了两条技术路线主</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=6&amp;sn=3aa62834d49f58786ccb4232f2f16304&amp;chksm=fda8381dfa3b472f243290291e92df92331bfca0f09c4886bea53bd6890379abc232f4a09517&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[国内外反无人机系统发展现状综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1TjqkJ0GWsa2S3yOOic4HlezxY5ZU500SG12ra6MVOZKrELBx7dAgO6M7jHNxVic9ZtYZV00YJ9ahw/300?wxtype=jpeg&amp;wxfrom=0"/><p>反无人机系统的兴起与无人机在军用和民用领域带来的新威胁有密切关系。由于无人机系统低成本、良好的操控性和极强的适应性等特点，使其带来的威胁与日俱增，因此，反无人机市场蓬勃发展，各国均加大无人机反制系统的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=7&amp;sn=ee91130a3f6d75aa6f9ac4338ce38dc1&amp;chksm=fd3b5df9a86f12a4cdb790d20529a9f4f458a04c72947ac86096ffe3f4180112874a5a785fb4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247651551&amp;idx=8&amp;sn=4e25275bec67444d71c8e64979c6da3f&amp;chksm=fdf3cffed2ad556216f5de2f3f72814d23404c2386c4395373db77f81ced11c8efcacd442784&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 May 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -769,134 +891,6 @@
       
 
       <pubdate>Sun, 26 May 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《面向具身智能的视觉-语言-动作模型》综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oGJ37p8XMPqNC3Xs2vdHD0SjyQeNWiap0ISJNwPu99aDTD455c6Xu6yicOxbqlQrDceZoUJG8e25g/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习在许多领域中表现出了显著的成功，包括计算机视觉、自然语言处理和强化学习。这些领域中的代表性人工神经网络包括卷积神经网络、Transformers 和深度 Q 网络。在单模态神经网络的基础上，引</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650373&amp;idx=1&amp;sn=b6abd29372de20da526d7572d7629c47&amp;chksm=fd438b53ba2a12eeb0e5c2080572e414b08877048d394e352076764e0214e54342b921c359a1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CVPR2024】视频异常事件因果关系理解数据集、评价基准和多模态大模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oGJ37p8XMPqNC3Xs2vdHD6jwIWsJ5EcX0T2FnQYaebUqX7EbBNx7AibAKoBY41tVVhgBFEhWHN8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>[北邮浙大南洋理工四川电信CVPR 2024论文]视频异常事件因果关系理解数据集、评价基准和多模态大模型基本信息标题：Uncovering What, Why and How: A Comprehen</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650373&amp;idx=2&amp;sn=ce52385ea017b85001ee26ee489c9083&amp;chksm=fdbfe760fce91e01a7aa2bb2e4717263f3c8f773f591ef5a6c6c855f54d3a058676e6da042cd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[首发！《大语言生成式人工智能和国土安全项目应用》美军2024最新359页]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oGJ37p8XMPqNC3Xs2vdHDkBSvm7D1BGRD6r6fsvtCVDlLFIK4KzLoZNuzQqSwcom0tvjsGLfibvQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>这项具有前瞻性的研究探索了大语言模型（LLM）生成式人工智能（GAI）在国土安全项目计划中的应用，调查了其在增强对复杂挑战的适应性和响应能力方面的潜力。本研究通过文献综述、专题分析以及在一个虚构的训练</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650373&amp;idx=3&amp;sn=5bd74cd5172a4a77ce3aeecf7cb18bf2&amp;chksm=fddeff3862a1f22d9bd98c10b8288c876bb59175d7764becba8145a57b8f0f0e4a371969f536&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《理解数字认知背后的认知机制》350页]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oGJ37p8XMPqNC3Xs2vdHD0tFY1Cvch5vqLH9gXFVfZgQvdxDAhnInAT9fc1zJ8KMzgJI4aqiaicBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>数量和数字塑造了人类历史的整体进程，支配着贸易、科学、数学和战争。我们对比较两个数量或识别一个数字与另一个数字的认知机制还不甚了解。在这篇论文中，研究了支配数字认知的过程。通过一系列的研究，确定我们是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650373&amp;idx=4&amp;sn=3654bae81b737b90731507ebf64b899f&amp;chksm=fd2d159c6778bad953c32a58880f7ec75d1af45f59bf6d94409559b78c1119f7e6818155d3c6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【剑桥大学博士论文】值得信赖的机器学习：从算法透明性到决策支持]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oGJ37p8XMPqNC3Xs2vdHDlaSIXHlAbJMm4cb4498DufsYabEmjeqDIHe4X3a9DDP62icmGscXsEg/300?wxtype=jpeg&amp;wxfrom=0"/><p>开发值得决策者信任的机器学习模型对于在实践中使用这些模型至关重要。算法透明性工具，如可解释性和不确定性估计，能够向决策者展示模型的可信度。在本论文中，我们首先探讨了从业者在工业界如何使用可解释性。通过</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650373&amp;idx=5&amp;sn=2ce4b74a9cd348418e0838e5bd0823f5&amp;chksm=fd698a7e0fb0db9c77021f5e72467de85ac47612a8dbd99d378be872360d48f74fc0110239b8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型带来的设计机遇与挑战]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/bPcM14JicetaVeBmuyCxEa0sXRoSFWwDiaG5MGibBdc2rB9Or0VoDUsicdY7yZWDJFOsxwLJBTYXVElxKFKG3nXEbg/300?wxtype=jpeg&amp;wxfrom=0"/><p>文 / 孙凌云，潘越摘 要：本文介绍了大模型在设计领域带来的变革。首先探讨了大模型如何开启大知识，并分析了由此产生的新趋势；然后，从设计对象多样化和设计方法与模式变革两个角度，探讨了大模型带来的设计机</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650373&amp;idx=6&amp;sn=ad6063024b02061dd72ce107d257e006&amp;chksm=fd24e3fcf1f98e462ad3c9bb212fb8ef2c9a8c2e468d4f4e40ba42e98d41ee6534360063a61f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[国家标准《信息技术云计算参考架构》]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1oGJ37p8XMPqNC3Xs2vdHDQR5INTmfLZ2UKdGdpvdHnbiceFXfk69hBY2OaUJCELm5CWVAeichmNrg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，云计算技术快速发展，容器、微服务、边缘云、多云、分布式云等概念和模式不断出现，但已发布的云计算参考架构标准都未能体现。同时已发布的标准中已有用户视图和功能视图较为抽象，未能体现新技术在云计算产</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650373&amp;idx=7&amp;sn=e91d35faffb8d138b6aec40062228fbb&amp;chksm=fdd868b35e7aacd195365f33e2d58b220d25c628e97c4a62c6d9a28b4c4d6d2c37e4b822875c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247650373&amp;idx=8&amp;sn=16ed79340cc657e5436e67ae2e3fa35a&amp;chksm=fd989c0e65c0e1137bad0a5b46083bb10516c349f8b9a4fc5c8059cbbf7619716b5f9ba62463&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 06:00:00 +0000</pubdate>
       
 
     </item>
