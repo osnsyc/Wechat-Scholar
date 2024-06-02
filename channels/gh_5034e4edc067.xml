@@ -48,34 +48,114 @@
 
 
     <item>
+      <title><![CDATA[最近，大模型岗位爆了。。。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFOWricen0jcngdpAGjJiaDAHXAQbT3nL54vq6iaGGt1LERS6iaBH9P0JJKew/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着GPT大热“AI大模型”无疑是最火爆的话题！Google、百度、腾讯等等巨头互联网公司，无不在布局人工智能技术和市场，甚至还有60k*16的高薪，挖掘AI大模型人才！作为普通程序员，如何不被时代抛</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=1&amp;sn=856f331013c2741257c4574e61108f72&amp;chksm=bf8e58e06a5d606e29802380769c96742b73890d2c60a790f8b38b33a1c025d8f35ff43f3802&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型预训练中的数据处理及思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFO10JfUEMu72V8qE1NwUb8bJpPF908HKE7mhGyiaXk344BSKNgcJ28iaIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：赵亮，NLPer；昆仑万维 · 预训练。 原文：https://zhuanlan.zhihu.com/p/641013454整理:  青稞AI大模型预训练需要从海量的文本数据中学习到充分的知识存</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=2&amp;sn=f52c9ab4485c3be0bdf46056504bc7b5&amp;chksm=bfe73c8e017bda16638422607502afce7182d1937eabdab1ca0f1225ace7390304e5f4c28393&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【社招】【校招】字节大模型基座团队]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFOR8CQJnrV0T1eIQSkHYJOfibDlnUAfqicjNAU7sqO660nulOMLO1Zs41g/300?wxtype=jpeg&amp;wxfrom=0"/><p>【社招】【校招】字节大模型基座团队团队介绍：字节跳动豆包大模型团队成立于 2023 年，致力于开发业界最先进的 AI 大模型技术，成为世界一流的研究团队，为科技和社会发展作出贡献。豆包大模型团队在AI</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=3&amp;sn=97fa1bfafd2324d412e4491dad9e3c00&amp;chksm=bf37975bdcc5485b7fff2a5ea37adc26ce5e92216454cf3000bf8f8ea09fbb63d3f2fe31d16d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Text2SQL之不装了，我也是RAG]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgwIeiblGHZ5OL94NeRhhlTXYxcQMd1rSpgMSjA1muGXoiczbRxqfPbuCqccrwicc7ic1ha7xibDnSAXAicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景对业务数据库中的表实现问答。输入是用户的问题，输出是该问题的答案。这是很典型的Text2SQL的应用场景了，为了实现这一需求，很容想到的是把创建的表和表的描述都放进prompt里，让LLM去根据表</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=4&amp;sn=18cb281425dde074a313566fecdb9909&amp;chksm=bfac76276ed075f38875d8621411e387ba1223f6a9aa5abbd257099777cb2db7f8c0627bef18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[tree2retriever:面向RAG场景的递归摘要树检索器实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVfxreeynzukXOGdgrIhVEwzicUHbbSIyGDicKr7DPg8r9jzicIrSR9zZfGibE9aQVaqSXqFU70s2Rjn2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>tree2retriever面向RAG场景的递归摘要树检索器实现Recursive Abstractive Processing for Tree-Organized RetrievalGithub:</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=5&amp;sn=707fd52ed45a565a412c8716de84c7a3&amp;chksm=bfa44f0df50f50dda3efa99e19c68006397750808f4c266af02f140d4e178dab7be819a8a549&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[牛皮！我被银行码农的工资惊到了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFOiaBCudVyZgoNv0LBVCSQa2aLiaOcxKhWfUQpYCbaB9OKG86Po9WbtPIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：公子龙近几年银行信息科技岗是许多大学毕业生热门的岗位，银行越来越重视数字化、智能化的进程，信息岗在银行有很大的舞台，而且从事信息岗的人员也有比较丰厚的薪水。银行对于信息岗人才的需求是全方位的，不</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442804&amp;idx=1&amp;sn=56d3263e321aca6ff29815f6c27181ac&amp;chksm=bf27964ecabf39894d67af6d6343e0d753e48ab4f3dc612195252f77a20af28dc58b6a706f8c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 01 Jun 2024 12:53:52 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【文末赠书】解构大语言模型：从线性回归到通用人工智能]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFODibWXd3hVoZrY1fFU3zksd8ypN4oLlvut2azYlHeeA5Y4ZF6x7G4WSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书--在大语言模型问世之前，尤其是在ChatGPT出现之前，人们几乎没有认真讨论过“人工智能是否具备自我意识”这个话题。尽管人工智能在某些方面（例如图像识别和语言翻译等领域）的表现陆续超越了</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442804&amp;idx=2&amp;sn=7c36e5cec2fe279df2b77f6bd4fd44e6&amp;chksm=bf3421c88a7e6872f42e1903a1fcb341a3ad5d09c51c4127ea27be20f31ed9270f8b7b16729a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 01 Jun 2024 12:53:52 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[垂域LLM训练经验之谈]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgwIeiblGHZ5OL94NeRhhlTXYBcMZKWvt64fPibtibmslHsgQdVGxk23GUIMTYaZVfAdTa73zwFgS0W1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言本文将按以下几个部分进行叙述：•全参 SFT•Lora SFT•Lora 继续预训练•Llama pro 预训练 + SFT数据说明：•预训练数据：由SFT数据的Query 与 Answer 的拼</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442804&amp;idx=3&amp;sn=6cc31cb9e5db37095f00eec3511fe7ec&amp;chksm=bff5913cc90b301b2403fbd5bf6f8f7877ef45ddedcf827b44fb9a0fa8255f4bb6d1f01fc55a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 01 Jun 2024 12:53:52 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型偏好对齐-ODPO]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464qUnytfOG3UK1sr2guicBHKPEusIlL3Ftlu7IRtNz7JbOIhS6pIuhqfea0smEHMY3DScia5WrwyvibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>前面对DPO的思路做了整理：大模型偏好对齐-DPO。DPO把RLHF的两阶段训练，变成了一阶段训练，降低了训练成本。而ODPO（DPO with an offset）在DPO的基础上做了一点改进，在几</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442804&amp;idx=4&amp;sn=39a5d13d5d2e8657d0b5cc219238c43f&amp;chksm=bf665678af84603d8ad6cc63d69673329302b6cd665597568c20042698b7477de65d58884e18&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 01 Jun 2024 12:53:52 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【RAG论文】文档树：如何提升长上下文、非连续文档、跨文档主题时的检索效果]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVfaaSLr4icM49JukA5Mas5ADYSq07ITTYY1FVico64k22pl0TZm7yRC4XI5LDttyc4JHGicl4lUpkfAA/300?wxtype=jpeg&amp;wxfrom=0"/><p>RAPTOR Recursive Abstractive Processing for Tree-Organized RetrievalICLR 2024 Stanfordhttps://arxiv.</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442804&amp;idx=5&amp;sn=41337592e22dc1d293d16e5e52fcbeab&amp;chksm=bfcea802cab0723d5d98ea7f53cfcfc2ec573bd0eaa0802d9e8854f19e0826e2f6181d2866f0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 01 Jun 2024 12:53:52 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -394,86 +474,6 @@
       
 
       <pubdate>Mon, 27 May 2024 11:36:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[微信官方回应：为什么不做已读功能]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKcY4HPxsEZZh90xlGCMz24EviaoTGgVzqicwpHK9B7ylfVCshZXADmYrXeY5VytdF0EleSSqRr3eJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>    作为十亿级的国民APP，微信增加或者删除某些功能都会引发大量用户的关注。这不，如果微信显示已读的话的话题又上了热搜，甚至惊动了微信官方的回应。对于微信如果加入显示已读功能的话，有网友表示：我估</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=1&amp;sn=d6b7692c7890abf491215565abd3d895&amp;chksm=bf2ccfa0b82d510eca5e115d7ca8b33249213b15693f6166b7286110261d3a550d6a66ef7e14&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[第一本给程序员看的AI Agent图书上市了！文末赠书]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ7ESlCEdehk33U4mHCnCQdmCHficlMUG95CVXH3NFxyhrOT9qlzAdJvxoiamibNjfDKnyrYqcqbibxjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent火爆到什么程度？OpenAI创始人奥特曼预测，未来各行各业，每一个人都可以拥有一个AI Agent；比尔·盖茨在2023年层预言：AI Agent将彻底改变人机交互方式，并颠覆整个软件</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=2&amp;sn=083ca6efc433e53969b4e62c4a51721a&amp;chksm=bfed04da56e83b0a44a12d17851c34d6bfa634c31e6c617cc81e2ff45a5e5ad89145bbfa4e54&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型推理加速-投机解码]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465ILuJ026v8kRqkc7N6YdS9Y8EENS2oY7KekdnRYnwiasMIh9Hible1YHVp0VUo6As89y9NAOXvudXQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>【本文已在同名 微信公众号 / 知乎 / 个人博客linsight.cn 上线】大语言模型虽然效果很好，但是推理时，朴素的自回归解码策略需要逐个串行解码，耗时较长，这给用户的耐心带来了很大挑战。如今各</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=3&amp;sn=6636b6aee53a1888c18632a584060503&amp;chksm=bfb6bc7817a866b8b074cfffb5f51cf0a95d81b13c51f54bfe02f11182836661c805bf33ed22&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【文档智能】符合人类阅读顺序的文档模型-LayoutReader及非官方权重开源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGBPwKic2FnIVRtxjtt907cwBMlBMfWlIRdtCynG2NtEXibvJFcHCNgAseyCgj7KicMyuzfeqB3rE9FHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言 阅读顺序检测旨在捕获人类读者能够自然理解的单词序列。现有的OCR引擎通常按照从上到下、从左到右的方式排列识别到的文本行，但这并不适用于某些文档类型，如多栏模板、表格等。LayoutReader模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=4&amp;sn=98a1ab67197cb119fd13ac2106f23a4f&amp;chksm=bf302820b82757f4e2d8b7066e95322522cc8b70f239d1ed0fbd760a7f49847e41ee81ea2d41&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[对话大模型的跨语言迁移]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AoUEy7BGqPiaSfTsEdsfg3iafmKkBx8ZwtR46fnIdVesJYRwPunhlTMbdqWpvE5P9ibaKjN0ibggJT6YDaMLJAYGuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>【本工作由南大NLP实验室与华为翻译中心合作完成，论文链接：https://arxiv.org/abs/2405.13923，代码&amp;数据：https://github.com/hy5468/Trans</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442699&amp;idx=5&amp;sn=7a3bc1145bd675a810a96751282c45f9&amp;chksm=bf9313a69f2b360c5c81a723ab288e1ab78c11c9f2482a8d4e543f426e1940fac0aca792831f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 May 2024 14:05:54 +0000</pubdate>
       
 
     </item>
