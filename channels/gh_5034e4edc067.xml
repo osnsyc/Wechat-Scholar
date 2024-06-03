@@ -48,34 +48,114 @@
 
 
     <item>
+      <title><![CDATA[LLM最新方向：多模态大模型新SOTA来了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLbBVjUcvkl8J8SKvKz5yVfcxcg7kevqV4j7xkj5DJwQSfaZiaP1Tn2S9NbDlSUg6AuoLg6GWFyZ8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，多模态大模型（MLLM）在多项视觉任务上展现出了强大的认知理解能力，也成为CVPR2024备受瞩目的热门领域之一。我整理了210篇多模态最新研究成果，140份多模态和大模型报告、多模态大模型最全</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442848&amp;idx=1&amp;sn=3d848af033dec32e89905fc5ee598470&amp;chksm=bf215a799b0940aa51ae147beba757d0e74538e601cc1d0b18858ce8dc7675f148eb1e3f1960&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[浅谈RAG的十大挑战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFO50LOXbFTuqjRQmqbI7a2zmGMICx9Zib97CWOk4Ayd8DeibheZgo0vmiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：王磊原文：https://zhuanlan.zhihu.com/p/696904158整理：吃果冻不吐果冻皮背景介绍ChatGPT的火爆问世，让人们对问答机器人重拾了信心，有了大模型的加持，Ch</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442848&amp;idx=2&amp;sn=19aaf3bf2543e580901a3d4078043786&amp;chksm=bf79c6942099e01bca4a21083813f711c6ddf2387b6a47ef182d743482773421e69f9777bee2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型偏好对齐-simPO]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465xeR8Yxcx79NMvdWIaibVdYM2ibQIq5jVbgPbJ3b9CqU97iaASYKQ606OTibJHQJ5RicPhibqooK4YeyibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前面我们对DPO和ODPO的思路做了整理：大模型偏好对齐-DPO，大模型偏好对齐-ODPO。最近新出的simPO受到了很多关注。相比DPO，simPO不需要reference model，并且有更好的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442848&amp;idx=3&amp;sn=c8084e486fa7e4cde3a7d4b40ff8628c&amp;chksm=bf4c2242cde82d9ffaf3efba30dac7f8c5ef4d41dd0e0547514a43e49b5a646830bc712ac507&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[蚂蚁&amp;清华：多粒度纯MLP时序预测模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dcUv9UF2OUVzWnROo2rSGXwiapKKmbcdpHHECibVLufbXAfZQ22Yohu4qB8OQ9YWZZty4RliacKOurUjthicSFT4Rg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一篇ICLR 2024中，蚂蚁和清华联合发表的多粒度时间序列建模工作。这篇文章的整体模型结构比较简单清晰，通过将时间序列聚合成不同粒度，每个粒度的预测结果进行ensemble，实现预测效</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442848&amp;idx=4&amp;sn=1fc9229aa86f0152d79339ad281ca9c0&amp;chksm=bf739f641821d4baf38a2ed2575c88f236c97c091fd4c145baf537c427fc469aa1fd1cde2f35&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[BM25Retriever检索器实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVe2BCpicHs7AK0sqJV2eRKjrIichtp93llIlNMSaDraaoKoGA2VbOmopWWJTuSfO5VcfGYZnAUCmhXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>原理下一篇讲，先贴出代码https://github.com/gomate-community/GoMate/blob/main/gomate/modules/retrieval/bm25_retri</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442848&amp;idx=5&amp;sn=d06a84f8b98df4f6911a82ce7643bb1e&amp;chksm=bfbef5fb142343a847d027994c29b1b0f049f439399e6603351fbe522e81c832dd0819cc55e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[最近，大模型岗位爆了。。。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFOWricen0jcngdpAGjJiaDAHXAQbT3nL54vq6iaGGt1LERS6iaBH9P0JJKew/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着GPT大热“AI大模型”无疑是最火爆的话题！Google、百度、腾讯等等巨头互联网公司，无不在布局人工智能技术和市场，甚至还有60k*16的高薪，挖掘AI大模型人才！作为普通程序员，如何不被时代抛</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=1&amp;sn=856f331013c2741257c4574e61108f72&amp;chksm=bf8e58e06a5d606e29802380769c96742b73890d2c60a790f8b38b33a1c025d8f35ff43f3802&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型预训练中的数据处理及思考]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFO10JfUEMu72V8qE1NwUb8bJpPF908HKE7mhGyiaXk344BSKNgcJ28iaIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：赵亮，NLPer；昆仑万维 · 预训练。 原文：https://zhuanlan.zhihu.com/p/641013454整理:  青稞AI大模型预训练需要从海量的文本数据中学习到充分的知识存</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=2&amp;sn=f52c9ab4485c3be0bdf46056504bc7b5&amp;chksm=bfe73c8e017bda16638422607502afce7182d1937eabdab1ca0f1225ace7390304e5f4c28393&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【社招】【校招】字节大模型基座团队]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSICxBS4fqNHH4unelJlqnFOR8CQJnrV0T1eIQSkHYJOfibDlnUAfqicjNAU7sqO660nulOMLO1Zs41g/300?wxtype=jpeg&amp;wxfrom=0"/><p>【社招】【校招】字节大模型基座团队团队介绍：字节跳动豆包大模型团队成立于 2023 年，致力于开发业界最先进的 AI 大模型技术，成为世界一流的研究团队，为科技和社会发展作出贡献。豆包大模型团队在AI</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=3&amp;sn=97fa1bfafd2324d412e4491dad9e3c00&amp;chksm=bf37975bdcc5485b7fff2a5ea37adc26ce5e92216454cf3000bf8f8ea09fbb63d3f2fe31d16d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Text2SQL之不装了，我也是RAG]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgwIeiblGHZ5OL94NeRhhlTXYxcQMd1rSpgMSjA1muGXoiczbRxqfPbuCqccrwicc7ic1ha7xibDnSAXAicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景对业务数据库中的表实现问答。输入是用户的问题，输出是该问题的答案。这是很典型的Text2SQL的应用场景了，为了实现这一需求，很容想到的是把创建的表和表的描述都放进prompt里，让LLM去根据表</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=4&amp;sn=18cb281425dde074a313566fecdb9909&amp;chksm=bfac76276ed075f38875d8621411e387ba1223f6a9aa5abbd257099777cb2db7f8c0627bef18&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[tree2retriever:面向RAG场景的递归摘要树检索器实现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVfxreeynzukXOGdgrIhVEwzicUHbbSIyGDicKr7DPg8r9jzicIrSR9zZfGibE9aQVaqSXqFU70s2Rjn2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>tree2retriever面向RAG场景的递归摘要树检索器实现Recursive Abstractive Processing for Tree-Organized RetrievalGithub:</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442830&amp;idx=5&amp;sn=707fd52ed45a565a412c8716de84c7a3&amp;chksm=bfa44f0df50f50dda3efa99e19c68006397750808f4c266af02f140d4e178dab7be819a8a549&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Jun 2024 02:12:48 +0000</pubdate>
+      
+
     </item>
     <item>
       
