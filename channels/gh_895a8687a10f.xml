@@ -36,11 +36,34 @@
 
 
 
+
     <item>
+      <title><![CDATA[2024 人工智能最前沿：分享几个大模型(LLMs)的热门研究方向]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaqTZv8CwoF0OUOQ95C1g2r6sknOxQUzibvFeSUbyF78uG1pBjEKfSV6NU0q6EhMd5BkSDpoB8r2Bg/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言在人工智能领域，大模型的研究正迅速发展，当前涵盖了很多个研究方向，每个方向都带有其独特的研究重点和挑战。下面给大家盘点几个比较热门的研究方</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500631&amp;idx=1&amp;sn=a4e888f59962ba378eae104f9bdbbe72&amp;chksm=fb715443e3ee45b8d3bfb90e7d7e59ea07e8cab2a4d22318782fe0c5cd34c1c64573411fc3ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 02 Jun 2024 14:37:48 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[多模态LLM！谷歌 | 提出创新架构Zipper：分开训练再「压缩」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaqTZv8CwoF0OUOQ95C1g2rcsZiaqNPrKHhHiaGNxFsrCefvfhTWW8FAnoibbZEhxe6898lvNxaSYPuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达最近的一系列研究表明，纯解码器生成模型可以通过训练利用下一个 token 预测生成有用的表征，从而成功地生成多种模态（如音频、图像或状态 - </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500631&amp;idx=2&amp;sn=9ae70cda662b27ffdb5842a4a3b608d8&amp;chksm=fb09afe571bfb3c054210cc6a5d8b59143da42e81ce3d8945272f0f593082a7e4ba60006fae0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 02 Jun 2024 14:37:48 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Meta| 提出上下文位置编码：CoPE，解决当前模型「普遍存在的问题」，含GPT-4o！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaZliaw3Lok3sL6f12bIx4Pvfa15gaUIBX9hiaHsFSwiaBJia0Ka5A2HR6a8v12yvEiaSpickMJWKl3YaRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言Attention机制是大模型的核心组件，但该机制并不包含顺序信息，需要进行位置编码。当前位置编码（PE）主要是通过Token计数来定位，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500578&amp;idx=1&amp;sn=8da6d8b4589c925650da952eff554612&amp;chksm=fb52afa9e1188a1e4d85269927d209d302464a6b20532ab848ed34008f3565cbffa9b6645662&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 30 May 2024 14:11:21 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -135,214 +158,6 @@
       
 
       <pubdate>Mon, 27 May 2024 13:35:12 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[麻省理工(MIT) | 提出跨层Attention，减少Transformer大模型键值(KV)缓存，加快LLM推理！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZ9IPDsia4cTgbpdzBDEIuiahicKmfqISfnWUQ5Eia6kxNF9xYHZOMM0aYw47jI2bcFjcl7M1UzwXTLlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言键值 (KV) 缓存能够显著提升Transformer大模型的解码速度。但是当面对长序列的时候，键值 (KV) 缓存需要大量的内存资源。当</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500452&amp;idx=1&amp;sn=a8b2e14a226f232b8efd59ff270bf37f&amp;chksm=fb6423c94f1a9f8da6a50e46c65977c5974935bc14268ebdd25475a0b7fa89928f563f1ee8db&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 May 2024 14:15:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Anthropic | 数百万个特征，带你深入理解大模型的「思维」！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZ9IPDsia4cTgbpdzBDEIuiahY5Gg62gQwjwaRBfeZT7icTEw41HdUickeBjWIGu6XVFkFaAUVvHv8kkA/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达刚刚，Anthropic 宣布在理解人工智能模型内部运作机制方面取得重大进展。Anthropic 已经确定了如何在 Claude Sonnet</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500452&amp;idx=2&amp;sn=958dcc5199b23aca309699884061343a&amp;chksm=fb04efe59a6d9cfc4d5b3592ea9306f502e414ca6d4b32cc3a2debe2d22930a075e142c00dba&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 May 2024 14:15:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[硬刚 LoRA！北航&amp;微软 | 提出高秩适应LLMs微调法：MoRA，填补LoRA低秩缺陷！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaPV1ia4LicibvAglfxv6NVnlY3iaYld2bf7OWMkTEzxSh0yIPiafL4iau5VedRJdSau6KU3RR73sBFjpNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言当下，低秩适应 (LoRA)是一种常用的大模型参数高效微调方法。而本文作者反其道而行之提出了高秩适应（MoRA），摆明是硬刚LoRA了，那</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500400&amp;idx=1&amp;sn=8d59b7f734269d3907c9971e02b41d8f&amp;chksm=fb18c70c4a7e708d5c6da16dad8aa08b6df2f8f12e8494faa322122a3aa9e5b6f314317b23bf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 May 2024 13:15:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[中国大模型: Yi-Large, 中国排名第1，世界排名第 7！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaPV1ia4LicibvAglfxv6NVnlYIemU4E8FLWFvGgD82dW2uQAKokT5H7b8q2dG18B92gcDIyGdu1JR8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达上周，一个名为 “im-also-a-good-gpt2-chatbot” 的神秘模型突然现身大模型竞技场 Chatbot Arena，排名直</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500400&amp;idx=2&amp;sn=d1b33c14cf3cb070c705f7db66719e19&amp;chksm=fb5cf896102cc80762c2b2d2e62fdb12b90e7cd62cfb91bb63efad11c6b14c4d1966bfebcf10&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 May 2024 13:15:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RU | 提出手语生成大模型：SignLLM，支持8种手语生成，且均达到SOTA！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaME8icVDlhiaBqGicqUTVwEE6AudKXZdkhkJWMYPlnvaPHVibHedibzTx0kaMNIsRiaYZlficCZibFBYljiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言手语对于听障人士的交流至关重要。然而，手语数据的获取和处理非常复杂，这限制了手语生成模型的发展。为推动手语生成领域的发展，本文作者提出了一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500349&amp;idx=1&amp;sn=1e67f749642800782afc1a7fb2bd9da6&amp;chksm=fb8e89cb578a16b9be5d0ac672d1af1d6720ed00162e5392a9857035307d91e225844cca65d7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 May 2024 14:13:29 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[学的少，忘的少！UC | LoRA最新研究：总结LoRA最佳实践，实现LLMs高效微调！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaYlxibia8N8dELFJSvrLxzWG1wZhs7ds5EECPVbfyIIIPBib9jJajeQ5fclBodpib6UQrIFGPS2SJJ7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言本文深入探讨了当前主流大模型高效微调方法——低秩适应（LoRA）。在代码编程、数学推理两个领域，对比了LoRA和全微调在不同数据规模下的性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500339&amp;idx=1&amp;sn=1cfee1d3f99b81eb8e4bd16e43b3439d&amp;chksm=fbd6b54990ab7b419889fc6544a1e670cd5033a2e84ec2daf3a9a297c050c87a76c1b53269a7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 May 2024 13:02:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Google | 大模型(LLMs)对齐：为什么在线方法总是优于离线方法？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaaYlxibia8N8dELFJSvrLxzWGDUtXUFialq3t503nPFXYVJfk0ibx64tPKHlSmAz4BtdU6geoAKIucq6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达在线和离线对齐算法的性能差距根源何在？DeepMind实证剖析出炉在 AI 对齐问题上，在线方法似乎总是优于离线方法，但为什么会这样呢？近日，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500339&amp;idx=2&amp;sn=3d84c8566ab0968b62ecc77421727caa&amp;chksm=fb24209893832cc4757265204477f780c8645f0825cd09a54ea949f53e32e1ade1a919dc623c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 May 2024 13:02:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[全面开源，免费商用！腾讯| 发布混元文生图大模型，采用业内首个中文原生DiT架构！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaYxfISpCagzVMxtXJWXnUwefXXvbdQ5SCneKL7tBKPsyOKSjEAicTic8NphWMf9JcEtbzicLINsHB6bQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达中文 AI 社区迎来了一个好消息：与 Sora 同架构的开源文生图大模型来了！5 月 14 日，腾讯宣布旗下混元文生图大模型全面升级并全面开源</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500289&amp;idx=1&amp;sn=2d9743c4b134223a0a6871796a561fb6&amp;chksm=fb95026b4099a673a10c39e050e6decfd27d05f8759280a9945b0287db9bab81c49550ff8754&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 May 2024 13:13:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[博士盲审挂了，不予答辩！985导师发声：遭遇“恶意评审”]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaYxfISpCagzVMxtXJWXnUwe4FN0XpDuvo4pl78wb4YbqV9KdM83kicN1krhiaveMfoRUBlWkUwXNSbw/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达“一个充满敌意、极其不负责任、毫无学理依据的恶意评审，却要了断一个优秀青年学者的学术生命。试问，这合理么？”5月12日，武汉大学社会学院教授吕</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500289&amp;idx=2&amp;sn=5f8835938ca1f84477a20a964a61db55&amp;chksm=fb3d164537e783029e4202c75d35121cc814184e531d8af6ff7191f90ce30b73af6df177eeff&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 May 2024 13:13:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[剑桥 | 提出Hypernetwork，解耦LLMs分词器(Tokenizer)，提高LLMs跨语言处理性能！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaYgaibOacyFA2sicvmGiaOreDBMLicwpjmYEMysT9ahEibdVicVhF3z7792z6fYAwmeanvwFIREDbD9aKvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言大模型（LLM）主要依赖于分词器（Tokenizer ）将文本转换为Tokens，目前主流开源大模型基本上都是基于英文数据集训练得到的，然</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500253&amp;idx=1&amp;sn=179922f53868a515242085828db6da05&amp;chksm=fb2451bf5a54d601a78ee7642412179db48e6900e7d6324474a2e526bd702f81ba38240e133c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 May 2024 14:03:49 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[微软&amp;清华| 提出多头混合专家方法：MH-MoE，增强专家激活率]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaYgaibOacyFA2sicvmGiaOreDB4V2Q7WI3dOB0Zk3MbdeCUwLGHgbcQKlZUYGOCyZia2a4yTaElKGDtbw/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达MH-MoE 能优化几乎所有专家，实现起来非常简单。混合专家（MoE）是个好方法，支持着现在一些非常优秀的大模型，比如谷歌家的 Gemini </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500253&amp;idx=2&amp;sn=a4ef3b6f4da6420aaf1d549c5fa205d2&amp;chksm=fb899f2d95611d5da701ed5b2acb454783e739ee627ff9ca17f45764fc649bba5b5380ea1b84&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 May 2024 14:03:49 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[数据污染迫在眉睫！GSM8k测试基准 将不再可靠，Mistral、Phi等系列模型出现过拟合！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZcvxYgdTESt28WJsyXtGN0JHA4wog9ZhDickmUkzt5aLeRqDoiceic6H1Mvahmh7bG2DhR1GuywFMwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达引言大模型数学推理评测基本上都绕不开GSM8k测试基准，当前很多大模型在该数据集上都展现出较强的性能。然而，本文作者怀疑此类模型在训练过程种可</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500198&amp;idx=1&amp;sn=aab143611fb7b9188f3c9265977855f7&amp;chksm=fbebf7b33eacf243192f31a637df2112759c31b004d353f69f6412c50e59889b524ebf4f1acd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 13 May 2024 13:52:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[斯坦福 | 开源全新AI加速框架：百行代码，让H100提速30%！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZcvxYgdTESt28WJsyXtGN0hlgqIsern63kkL7mV7Ihp49cUenVpBvIqVu6CrAlZBq4mZ1hqLlmVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方“AINLPer“，设为星标更多干货，第一时间送达提高 GPU 利用率，就是这么简单。AI 的快速发展，伴随而来的是大计算量。这就自然而然的引出了一个问题：如何减少 AI 对计算的需求，并提高</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247500198&amp;idx=2&amp;sn=0086268c6f0dca4aebd0fbbed6668ecb&amp;chksm=fb416df86da36c944e8a5a253f35131bb8dde3153f8433c5cac2592935c6cc316b1c51911a09&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 13 May 2024 13:52:13 +0000</pubdate>
       
 
     </item>
