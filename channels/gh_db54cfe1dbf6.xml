@@ -23,17 +23,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[StarNet：关于 Element-wise Multiplication 的高性能解释研究 | CVPR 2024]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/s1ZNq0rdQe4U6A1bCibqJrbsPia1ws9QiabsFMvOt05yVAXeibibx9PYZoD7U3Xt0G9fradCIxJFXUqlickpApN5tvng/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文揭示了star operation（元素乘法）在无需加宽网络下，将输入映射到高维非线性特征空间的能力。基于此提出了StarNet，在紧凑的网络结构和较低的能耗下展示了令人印象深刻的性能和低延迟来源</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697900&amp;idx=1&amp;sn=7029320304d804f903a35ec944da6228&amp;chksm=f2b7ae5ab014091da7b8fbc4491aaa7148161e74c9a37ddb80640fa9472fec19e6236ca533a5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 30 May 2024 14:00:00 +0000</pubdate>
+      <title><![CDATA[终于不用为GPU算力发愁了，请低调实用！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDiaNdv5GmvstfLMn7RCwgF0eznGDEWMhNlpibQudEDVU2sFExziaJ9ubnrFtJd1dTSFb7yNxZ4aDLM0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hi，大家好。众所周知，想要跑 AI，必须要有英伟达 GPU。但是搭建一台配备足够 GPU 算力的电脑，一万起步的预算又让很多人望而却步。想要初期低成本，快速测试各种 AI 算法，租用云服务器平台的 </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697918&amp;idx=1&amp;sn=bfd316ab78a29dc6c2b092bc79918c42&amp;chksm=f2b7dfe372fd539b3d52bd2c7b57599f2079de3805bedaaf8cbe3a6fa13296e3e357f18263cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Jun 2024 12:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[MambaOut：在视觉任务中，我们真的需要 Mamba 吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpJLTqvHVmVPrsUGib4YTPr3PKW0iaSXHMqFm3dq2jGAVV86wNuu5wELuuJJia8ic8DWKwEOdiaKtu9L4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽    编辑丨极市平台极市导读 在 ImageNet 图像分类中有效地超过了视觉 Mamba 模型 >>加入极市CV技术交流群，走在计算机视觉的最前沿太长不看版Mamba，一种使用类似 </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697900&amp;idx=2&amp;sn=06f3db22e4af07ad1167a4d21c440da8&amp;chksm=f23b68f467524a5dac5bae3c1b857556eed7cf84adbb59aeab9430e780bc3997de0827e63a50&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[拣回U-Net架构后，计算成本降了80%？华为诺亚等提出用于图像生成的 U 型扩散模型U-DiT]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpaFamWUCff7zrQGkV8VLhMqmOCzwvvkib84TibE3q4t5obKXJ0kj74Kve3JAic5N5vS5hDg5uljtNVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽    编辑丨极市平台极市导读 受到 U-Net 的主干特征是以低频为主的启发，作者对 Self-attention 中的 Query 和 Key 执行了 token 的下采样。计算量显</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697918&amp;idx=2&amp;sn=456aa078236b5800ce661b6164e4ffe4&amp;chksm=f2d24b1e394c18c8d431e3897402fc3ba0674b9121f79db1712ca9323a45255c1a06684efb04&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Jun 2024 12:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[StarNet：关于 Element-wise Multiplication 的高性能解释研究 | CVPR 2024]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/s1ZNq0rdQe4U6A1bCibqJrbsPia1ws9QiabsFMvOt05yVAXeibibx9PYZoD7U3Xt0G9fradCIxJFXUqlickpApN5tvng/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文揭示了star operation（元素乘法）在无需加宽网络下，将输入映射到高维非线性特征空间的能力。基于此提出了StarNet，在紧凑的网络结构和较低的能耗下展示了令人印象深刻的性能和低延迟来源</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697900&amp;idx=1&amp;sn=7029320304d804f903a35ec944da6228&amp;chksm=f2b7ae5ab014091da7b8fbc4491aaa7148161e74c9a37ddb80640fa9472fec19e6236ca533a5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 30 May 2024 14:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[MambaOut：在视觉任务中，我们真的需要 Mamba 吗？]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpJLTqvHVmVPrsUGib4YTPr3PKW0iaSXHMqFm3dq2jGAVV86wNuu5wELuuJJia8ic8DWKwEOdiaKtu9L4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽    编辑丨极市平台极市导读 在 ImageNet 图像分类中有效地超过了视觉 Mamba 模型 >>加入极市CV技术交流群，走在计算机视觉的最前沿太长不看版Mamba，一种使用类似 </p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651697900&amp;idx=2&amp;sn=06f3db22e4af07ad1167a4d21c440da8&amp;chksm=f23b68f467524a5dac5bae3c1b857556eed7cf84adbb59aeab9430e780bc3997de0827e63a50&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 30 May 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
