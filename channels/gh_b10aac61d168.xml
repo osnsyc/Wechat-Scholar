@@ -40,23 +40,74 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbNKDteXRamibygsrLVPxmjfMH40C424iaIiaKc8qK6ZFJ2nXBJNSR9cRDP1R7Ny2I4MY6Y3WegNOSvKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部让语言模型「轻装上阵」。一直以来，矩阵乘法（MatMul）稳居神经网络操作的主导地位，其中很大原因归结为 GPU 专门针对 MatMul 操作进行了优化。这种优化使得 Ale</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247582615&amp;idx=1&amp;sn=4d2e797dca6e46128496beeccd268f1b&amp;chksm=ce9025ec61ffdae3dcaf9a3609366e4d69f7c5a3b428f6d2f5de1e2e1e4b7c1f4044a0f89b76&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Jun 2024 12:31:52 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[GQA，MLA之外的另一种KV Cache压缩方式：动态内存压缩（DMC）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vCYJbKVAy1iaE9kPzIGAibu9ia08ic3huHeoyIMHtNfMHV63RyX9RXZwH3icjrcUYRHc918x7yztoadzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言在openreview上看到最近NV的一个KV Cache压缩工作：https://openreview.net/pdf?id=tDRYrAkOB7 ，感觉思路还是有一些意思的，所以这里</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247582615&amp;idx=2&amp;sn=4d75a9d6469e2d5a2f30028ec8098d40&amp;chksm=cef7c1d6243cf751d354d0b07facb2de4377a4dc0d0a1df17231c040a6af99a5973dfa0bb076&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Jun 2024 12:31:52 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[其实Mamba是一种线性注意力？清华大学黄高团队揭秘开视觉Mamba的真实面目！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpPcbDQs931x2wSkmBG3BgIaBqGDIH3bnChnBIOTjw0yian7iaVI64mYXNbe5kotibCDK506iaqNPtw8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽编辑丨极市平台极市导读 本文揭示了 Mamba 模型与 Linear Attention Transformer 之间有着惊人的相似之处。作者通过探索 Mamba 和 Linear Tr</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247582615&amp;idx=3&amp;sn=9ee845973b84c9d099e3e3219d4d377b&amp;chksm=ce37690055582953834b7576a7b3b2847f8e76d358664e54c3995bb93f00db6a4a51e4de514d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Jun 2024 12:31:52 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[智领未来 形动张江——记2024中国人形机器人开发者大会暨第三届张江机器人全球生态峰会！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LJiau2qPWAcUgdRdibZtYS5wFNhM6WuqRHOVl6QrXNTV72FMhAeWxXLhFmIxNdyRHZoSdR3uazve1pNSgpC8ibtqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年6月6日，2024中国人形机器人开发者大会暨第三届张江机器人全球生态峰会在上海浦东成功举办。在上海市经济和信息化委员会、上海市浦东新区人民政府的指导下，本届峰会由人形机器人（上海）有限公司、</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247582609&amp;idx=1&amp;sn=a71db1499bc172cd92db1780c0ec8f3d&amp;chksm=cebbb03f73dd3d0a21a527528675156b6099e35acd67f339828c33be3a16df4df3d043c672aa&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Jun 2024 10:58:09 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RSS 2024 | NaVid：视觉语言导航大模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3ca6UMoKPP3rGAcdxU4RkYwTLreIvrEibMibxfVPDpRfY6TdUVZs72A2RSKMxGDRRI8FsDHJqAzXO8aBV4FIyFrQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关键词：视觉语言导航, 视频大模型导  读本文是对于发表在 RSS 2024 的论文 NaVid: Video-based VLM Plans the Next Step for Vision-and</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247582609&amp;idx=2&amp;sn=75d4054263835773d392c8eb27f6a398&amp;chksm=ce301fb5724b5ec862c3fcdb7b38ace89079107818e1d4f5b61068078c3f3df70201e41120ec&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Jun 2024 10:58:09 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[AI 第一次高考：记得作文要龙头猪肚凤尾]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/cNFA8C0uVPtxT21QXl8qePBvrwNcBSlFEy6sqlRgaR676QeFuB3NES2I81iagSFhZFoQOicxPYF69nfxtHHKvDFw/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着人工智能技术的飞速发展，AI写作能力逐渐受到关注。高考作文作为衡量学生语言表达、思维逻辑和文化素养的重要标准，自然成为了各大人工智能模型测试和对比的理想题材。让不同的AI模型参与高考作文的写作，我</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247582609&amp;idx=3&amp;sn=fcb0222c3566311593a30cd00a995ae3&amp;chksm=ce20e7b611a3799a484444ffab12ed9f8ab5562b7640dea21f2ce30d6a305889641fae3a8666&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Jun 2024 10:58:09 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -375,54 +426,6 @@
       
 
       <pubdate>Mon, 03 Jun 2024 05:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[六位一线AI工程师总结爆火！大模型应用摸爬滚打一年心得公开，网友：全程高能]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbOw7tcHyoBXzoPwNwhcGEgJ7vYt1oS0t0uv8CcnESotKmFGdaVicUqe2UkwL27eWVc6hnDbAcOCobQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>梦晨 西风 发自 凹非寺转载 | 量子位 | 公众号 QbitAI六位一线AI工程师和创业者，把在大模型应用开发上摸爬滚打一整年的心得，全！分！享！了！（奇怪的六一儿童节大礼包出现了）这篇干货长文，一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247580584&amp;idx=1&amp;sn=c5f83a10573d74c763fe7c7d13f1d01b&amp;chksm=ce2408a493e3de6c7ee1d7942a7b43e6a7cd11108d3d9f3724fa51f5894c45cc370fc7a94459&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Jun 2024 11:58:19 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[拣回U-Net架构后，计算成本降了80%？华为诺亚等提出用于图像生成的 U 型扩散模型U-DiT]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpaFamWUCff7zrQGkV8VLhMqmOCzwvvkib84TibE3q4t5obKXJ0kj74Kve3JAic5N5vS5hDg5uljtNVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽编辑丨极市平台极市导读 受到 U-Net 的主干特征是以低频为主的启发，作者对 Self-attention 中的 Query 和 Key 执行了 token 的下采样。计算量显著减少，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247580584&amp;idx=2&amp;sn=b6307008f07d3614993b3af9d7860499&amp;chksm=cef85f38879cf3a7ae329a18f7fa2af779d75470fab0f81cd69c8772aacef10fd265a660d77f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Jun 2024 11:58:19 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[央视7分钟深度报道 nature期刊发表 北航发布昆虫机器人BHMbot研究成果]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LJiau2qPWAcXXASKqppnuoHxtvKG0cG6rzzEE5jZM6oVLaLOc4JHdI6kAD2GmFKQ7sMzphhibhuU2ZLzq0tFU8DA/300?wxtype=jpeg&amp;wxfrom=0"/><p>北京航空航天大学能源与动力工程学院严小军教授团队发明了昆虫级机器人微动力系统，并在此基础上研制出具有高无系运动性能的北航微机器人BHMbot。该机器人身长2cm，宽1cm，在不负载电池时，其重量仅为2</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247580584&amp;idx=3&amp;sn=9e178f8437ee3169476706c4bcdf8fcf&amp;chksm=cef03f3cda03df8b2a4f9c96aa9b6f67dbd730637e2cca543d5e69ea8e4c2e6a0313658d2b9a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Jun 2024 11:58:19 +0000</pubdate>
       
 
     </item>

@@ -38,26 +38,71 @@
 
 
 
-
-
-
     <item>
+      <title><![CDATA[从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYL4Zr2LWfF4CIqkDrnHV2WXtJicfgOXd6ibaemCOQvQCF8PpwKuMiaoyX2gjVLJjCP8FvSXMnPI50Ug/640?wxtype=jpeg&amp;wxfrom=0"/><p>让语言模型「轻装上阵」。一直以来，矩阵乘法（MatMul）稳居神经网络操作的主导地位，其中很大原因归结为 GPU 专门针对 MatMul 操作进行了优化。这种优化使得 AlexNet 在 ILSVRC</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247565572&amp;idx=1&amp;sn=7748d1f9db2840c5cef14baea56895cd&amp;chksm=fa23d754a0884796d168f97ac5aa8717ccfa618f1ebdf808be3fb2612f86d596af71c281f9a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Jun 2024 11:39:53 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型的高考数学成绩单：及格已经非常好了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYL4Zr2LWfF4CIqkDrnHV2Wx2QpOibf6QBkFUy3hfkWH6TAQLDdc7ibpM5YJK9ca3Sgicawslsx7cMzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>让考生头皮发麻的高考数学，可难倒了顶尖 AI 大模型。一年一度的高考即将落幕，衷心希望各位考生都超常发挥，考出满意的好成绩！！和往年一样，除了让 AI 大模型写写高考作文，我们也选取了六家国内头部大模</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247565572&amp;idx=2&amp;sn=b6fb86af9a781f8ed92185761a300e18&amp;chksm=fa00c9d9f2ad77113ebfc84536b944e3aeee609ad845bc4b53f88ebddc7f498b2f839b46e9b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Jun 2024 11:39:53 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[FineWeb技术报告出炉！揭秘HuggingFace规模最大、质量最高预训练数据集]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYL4Zr2LWfF4CIqkDrnHV2WEQq3ctYTzgtic8ia98CJkIIwwowhWku0OU3khqzQkCDJcia5YAU2CCPQw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）的性能在很大程度上取决于它的预训练数据集的质量和大小。然而，像Llama 3和Mixtral这样最先进的LLMs的预训练数据集并不公开；关于它们是如何创建的，我们知之甚少。近日</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247565572&amp;idx=3&amp;sn=d8b2ee0c1b0292ca787ccfd7936cba36&amp;chksm=fab79782a71810b6d9383ca0742fb5ecbce1065f58b2ec976cb302d340140f202b72680643fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Jun 2024 11:39:53 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[原作者带队，LSTM卷土重来之Vision-LSTM出世]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkaSV51AyibNu7F6YFZgcPBpDgQDOpCNKMa8j17XBBYKIhh5JLjlpq0WZY6JTlRDWHRRqpDrOqJvQbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>与 DeiT 等使用 ViT 和 Vision-Mamba (Vim) 方法的模型相比，ViL 的性能更胜一筹。AI 领域的研究者应该还记得，在 Transformer 诞生后的三年，谷歌将这一自然语</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247565439&amp;idx=1&amp;sn=378890178fb979de628b795585fdb9de&amp;chksm=fab8cbd93373f7093a58082fe6dfa273833b5ba4781b661c01618c700995b855eaa8bfc888e8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Jun 2024 14:07:23 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[329篇图像、视频生成论文，今年CVPR最火的研究主题是这些]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkaSV51AyibNu7F6YFZgcPBpDr40TgCf67ICtl0O5Mj1DLUQ7DIEnfVTic6ia9D9cSs6xNRia4Pm8fOTTA/300?wxtype=jpeg&amp;wxfrom=0"/><p>图像与视频合成、3D 视觉、人体行为识别、视觉与语言推理等研究方向论文最多，属于最热门的方向，体现当前学界对视觉生成、三维感知、人机交互等方向的高度重视。另外，多模态学习、以人为本的设计和自适应机器人</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247565439&amp;idx=2&amp;sn=e91dedb6cfca2e460372054923a64c51&amp;chksm=faa1b6cb1a05c2460d13670ae511ee8cf45ae37836cdb89561d0d96f7f5f60f482da84966896&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Jun 2024 14:07:23 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[支持合成一分钟高清视频，华科等提出人类跳舞视频生成新框架UniAnimate]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkaSV51AyibNu7F6YFZgcPBpDic5d5B9cTTpcDKeSXBa8kM62KyM0V2icwdnYFwIgfBGrU6ELnpiaTybKA/300?wxtype=jpeg&amp;wxfrom=0"/><p>人类跳舞视频生成是一项引人注目且具有挑战性的可控视频合成任务，旨在根据输入的参考图像和目标姿势序列生成高质量逼真的连续视频。随着视频生成技术的快速发展，特别是生成模型的迭代演化，跳舞视频生成任务取得了</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247565439&amp;idx=3&amp;sn=e6e3cce95c4a3cda89730bd53b0fe00a&amp;chksm=fad3cd07be2ac549600f86238fff234f97fe0526e83d37dcb9d6a7f28a65cbbf531a4cb399bd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Jun 2024 14:07:23 +0000</pubdate>
+      
+
     </item>
     <item>
       
