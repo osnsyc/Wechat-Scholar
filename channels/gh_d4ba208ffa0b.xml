@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[数据驱动湍流建模，20年前是垃圾，现在身价上亿]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknbLoTebXTuDIzC7tS6tS2K1FZN1IKCItOSjUiaXbOiaAF23ibia8OUfTUFJico1YSdKncgj6GOjt0cvow/640?wxtype=jpeg&amp;wxfrom=0"/><p>https://www.youtube.com/watch?v=u6jWRL_ZuHoNeural networks based subgrid scale modeling in large edd</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427709&amp;idx=1&amp;sn=69c6f0f45841440453616b87f0a5e4f6&amp;chksm=898db70a322468db67c302e7bb1d1084030819545b762ad4741faa2b34451517d855a74ced71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 11 Jun 2024 05:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[影响力最大的一篇JFM，神经网络+湍流建模在玩什么？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklsfzQlomjjPUHfpjBTPxocDOSUfBCiazPXXSc1D7aDhNy9EXYB3kodSl6ndvMdBcbia3nF7rbiaLpyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Reynolds averaged turbulence modelling using deep neural networks with embedded invariance机器翻译版：摘要：现</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427684&amp;idx=1&amp;sn=1afa0b7ef800e115a0cd6ce7e00f21b8&amp;chksm=89550552c0afe5c1a4a0f488ee2bcf41d64cca78d11f5cafc7b8fad90423d32a60038e38afdc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 07 Jun 2024 04:23:58 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -71,280 +88,6 @@
       
 
       <pubdate>Wed, 05 Jun 2024 05:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[算法与编程，玩哪个比较捞钱？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklZOT2PAACK54P0JkiaiaC982l3CIkN2bWguYoaATjn7Aia7oC0YKXSPPwJy5U5KwO6EgIOguoziaqTuQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>10.1103/PhysRevFluids.9.063301CFD应用如果不谈的话，我一再强调算法为王的观点。也就是说算法比编程还重要。算法也比编程更好玩。算法比编程更捞钱。因为懂算法比懂编程的人要少</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427634&amp;idx=1&amp;sn=3cf8b43e59a1eb9823529ea8f515aaf8&amp;chksm=8915a15d3f6d48872715ce05df51c3dbc56723a4968555b4916bb00da856e5a2c857c2f3bf30&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 04 Jun 2024 05:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[听说机器学习算流体很流弊，然而要训练60天你们知道么..]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>最近岳子仔细研究了一下Sekar2019这一篇高引文章。2019年发表的，目前被引300多次。文章采用卷积神经网络进行不同几何的全流场预测。几个关键点挺有意思（右滑看第2个图）：
-
-1）先使用Open</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427625&amp;idx=1&amp;sn=6f7f710546c4be3e4e855778fcd18494&amp;chksm=896b9af7407ebd22248328ad1c32fe6d87ac44377b5f4d1b89fdc6429c34cf29f275d57f0a11&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 03 Jun 2024 05:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[岳子手敲：能看懂的CFD深度学习！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmRnDlBxicannXWbwNAkZqmDdezrZKCYxaRkYiaWxXAiaYaJT5TbX6HkOg8VicrCovmUz8tj36Jd3jOeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>3月份，岳子回国讲课之前，就把OpenFOAM跟libtorch搞了一下，初步算是搭建了个环境。当时算是一个课程的算例（但是讲没讲我忘了，3月份时间不太够有一些没讲，因此今年9月份的CFD课还要继续加</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427598&amp;idx=1&amp;sn=bb999172aadfdfcdecb31cdf2ccb1d74&amp;chksm=89931c212435299e71f7440b0dfceff232d3015ee7346750b62994134b0a952c5df0af439f74&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 30 May 2024 05:00:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[审稿人 你们毙掉别人的文章 爽么？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknImzdOXicGS7CWtuJXMIlVCicQrp3XEWMcp5KHuyozxegdTkbqIJHlsDwchtDQicSv7bmKiciamn2RJcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>妈的合作个文章，被审了2个月，前几天被拒稿，理由是啥？公式显示不全！给我气坏了。岳子也审稿。但岳子没有给人过拒稿。有人说我放水，我觉得并不是。我说一下我的理由：从学术层面来讲，一个研究成果只要不是胡编</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427591&amp;idx=1&amp;sn=1b9fb543118dd9fe785f54fd6821c65c&amp;chksm=8979eaa3f35d0daa709a361c704635f9c70025b543d042c5094649235ef5cb091f381e849c55&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 27 May 2024 04:59:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[你们怎么忍受windows下面的Fluent的？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklDydgBRPCIK6KWdc6icgzzYn7UcibiclKTRkUEGvHaRicM5y3DZI8EKONok6xpl7CGbyof3Dxdic7xEWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>砖头机不调优，windows下面的fluent速度巨慢无比！下面是一个客户从联想那面花10多万买的砖头机。硬件这个我没法改。只能做系统层级的优化。把3200秒推进到了1100秒。提升了3倍左右！但是还</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427589&amp;idx=1&amp;sn=6fb64d3e821c92926455d7da1de1767a&amp;chksm=894f376e60abf313653ad66e467fa79dd27bc2e0c3ab0120972bc9abde88723ce70616d78761&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 May 2024 05:09:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[遇 到 问 题 卡 住 了，哪 去 找 免 费 的 老 师 带 带 你]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkBk4MtK7R36shHDzESTf3sBcicdqUAQMfyQgJmz3RWHUFEugwRKiaCzAwJTg5pScqbEn9DKtpL4AicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>10.1103/PhysRevFluids.8.100501岳子比不上各位大教授，岳子只不过CFD干的年头多一点。可能比各位多清楚一些CFD的门道，岳子也在持续学习中。岳子在学习CFD的过程中，也会输</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427581&amp;idx=1&amp;sn=ccee5d88e26b25faa7d196a76f4d24d9&amp;chksm=89909707cfd006313299cdba1d2a97c585f8d7fa93138b8bed13356bd1d49a13870711ba7458&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 23 May 2024 04:54:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[把思路打开，一边发sci，又能捞大钱]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklDydgBRPCIK6KWdc6icgzzYRsjrG1oc6g3pEZBLZ0s15IyqibO5xwL1kt4olUJLNHtn6k5YKkJQmbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果看风机领域的话，那面有个算法叫致动线模型。这个模型不需要画出风机的轮廓，也不需要动网格，也不需要多重参考系。直接在NS方程上加源项，就可以实现风机的效果。如上图。转念一想，化工类搅拌反应器的搅拌桨</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427572&amp;idx=1&amp;sn=bb33bc7a1c419dfe5a8efdea50fa86cc&amp;chksm=896be92273031c7c8cdea1795ca2bf92d5f2579ce451458dd8b2f0435fff1533524257ba04cf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 May 2024 04:38:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[5年前的北航CFD的煎饼摊主，现况如何？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmtGreq8Tib6k4nTbODra9wU7d7xYFicC64snSs9eibp2AcDJ8GKLTojqILcBYZrG3klubPJK48ploSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>石先生曾是北京对地对空大学（BUBB）的Full Professor，国内CFD行业领军人才，杰出中年基金获得者。作为一名纯正的CFDer，石先生还开了一个煎饼铺子，离开BUBB之后，虽然身为正教授。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427571&amp;idx=1&amp;sn=b8ec4582ce2e55b5bd361db2267e943b&amp;chksm=89828e4971bdd6066b50ef415a642bad73f8eddae06256badf3a042385c65e65a7b6a882d077&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 May 2024 04:57:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[工业软件卡脖子么？我咋看不到哪被卡了？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknImzdOXicGS7CWtuJXMIlVC6w74ZYgJgGsa1rNcwBZibVcnC6qNUWuvq9ibIlw3HvSdVUSZ9aa3h14Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>都说工业软件是卡脖子领域，我们要自主研发工业软件，不被欧美卡脖子。平心而论，你们做工业企业的，有觉得被卡脖子了么？CFD软件是工业软件里面一个大的分支。全国几十万CFD从业者，问问自己，你们不能用商软</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427568&amp;idx=1&amp;sn=1fcfc10d41942edbf154c5569b3d5af5&amp;chksm=897eaa9c24c5aa9438a72ca61c3a25a7dae3a2b068339f02d57a26d5fb2d5981d78a6278bd05&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 17 May 2024 04:49:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[审稿人是不是有毛病！！？？？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklvAtpOTx3wlYWEldicghVEaxKbdAKmgXX5iaQLkA6CjmPdD8Kw3WkMicYpZxnaNlHBl6MQhiaWmLKvibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>合作了个稿件。第一个审稿人意见一般。第二个审稿人给了拒稿：> 文章里面的所有方程都看不到。我跟编辑联系过尝试解决这个问题。发过来的pdf还是有问题，not possible to interpret。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427537&amp;idx=1&amp;sn=426d8aa72c9f4247723c7c725938e240&amp;chksm=89f280d8db9816818271089aace78be7673aa3cb4ed205988108b2376f01b65f72336e758e4f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 16 May 2024 05:03:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大佬来合作！推我进清华！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklbfSIcEfA6Kibdic2fXaKQTkibKSQv8py2pFToQdsSECz4lByUqicoIf9vrzGWnoZ2JA1Y9XQkuib1ZVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>岳子白话版本：欧拉拉个蓝日算法，粒径不能太大。我捉摸用OpenFOAM的LES里面的smooth技巧处理一下这个问题。详细的我在《无痛哭NS方程笔记》里面都写了。应该就是几十行代码的问题。高大上吹流弊</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427532&amp;idx=1&amp;sn=1211052fe4573b9db59a2d9d5c714f62&amp;chksm=891af036b59dc5d49035f18585ccafcfde38cd38763729c2e9e75d6307ba36a2c4adee606fa1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 May 2024 05:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[吹爆国防科大！提出了改进版湍流模型！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmtGreq8Tib6k4nTbODra9wUHicibtWyBP5aiawYwMHz5lDakDDpk2SfFGaYyTHI5AucZINzsEnHpUg7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐一个改进版的SST湍流模型。国防科技大学开发出来的。有的那个公众号啊！生物医学领域的文章找个法语专业的学生，咔咔咔用谷歌摘要一翻译，然后就发出来了，自己写的是啥都不知道。岳子从来不干这个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427527&amp;idx=1&amp;sn=dc8cbbbed45bd7fda9beb368d28bafe5&amp;chksm=8923aada76bc500a750e497ae5f0ae6baa888504b8efbb3698e3ce6eb3b5354c22596f961b12&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 May 2024 05:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[学术会议有啥用？听个寂寞不？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmHJc1Sn8rGTlD7Nl8icxTDJC06AC3KuyE6uj8nUUGgkmegAZv6hmDm7QZvAbmJgnKqJoRdoh4Yb0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>岳子参加过几次学术会议。国内的，国外的都参加过。在学术会议上也讲过，讲了个寂寞。岳子基本没听过。因为听也是个寂寞。从岳子的亲身体会来看。所有的学术会议都是以讲PPT的方式来进行。一个人短的10分钟，长</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427522&amp;idx=1&amp;sn=0a39fcbd80bce58520075088881baeb0&amp;chksm=89626317cc5f1acf32fcb65ef7343333be3ebe1c47070222ad055646c50fc71602a41b81357b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 13 May 2024 05:55:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[你绝对不知道，某CFD大佬在27岁就搞了一篇nature...]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklF6Zq1RxsFq5nQVLhlEFkWW7oa27V0SakywOeSnzNdiauzFia3SGtbSF0sFMTc9wYPKMAEMUbyfrSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Spalding还需要咱们介绍么？大家认为Spalding是把CFD推向工业界的一些人。当然有人认为是Harlow。不过Harlow远不如Spalding出名。kEpsilon模型，就是Spaldin</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427514&amp;idx=1&amp;sn=e38d5c7c17406df1b632b89f6c8558e5&amp;chksm=89adef0b15681249e47b1f7f0679d3d212d3d9ce081f61eabce474b0d18fb588e8ecdc77c739&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 09 May 2024 06:09:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[继 续 送 sci 的 点 子]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklF6Zq1RxsFq5nQVLhlEFkWoP2txu7EmHzt1WKPu8CRyjk8yd2qn8O8e03dCibxAacNP3bNXpON5icg/640?wxtype=jpeg&amp;wxfrom=0"/><p>上过纯正的CFD幼儿园的毕业生一般都知道，欧拉拉格朗日方法在处理粒子大的时候有点麻烦。最近有老铁问：标准的EL方法源项只作用于颗粒质心处的网格，如果颗粒接近网格尺寸或比网格大就会造成一定误差或数值发散</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427513&amp;idx=1&amp;sn=d7a72c34ac54a196726782fa88c27149&amp;chksm=89ddaf0b4fe11ae82e3b13ccd5ecc946609e87577da8859b0716e2f4b619d6476cab8cc07877&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 07 May 2024 05:17:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[国内大佬重金收购国外CFD代码！锣鼓喧天！鞭炮齐鸣！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmHJc1Sn8rGTlD7Nl8icxTDJgRBJWjSHOqiaopM6X7qkls0DNNJffCRKktoOuRa9LR3ON9EoK33EPGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>岳子一般不点评，我还没有那个资历。但是这个事情已经风头过去的太久了。斗胆来说说。大家都知道去年国内某头部公司（目前市值100亿）收购了国外某CFD大佬的公司100%的股权。知道就知道。不知道就听个乐。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427512&amp;idx=1&amp;sn=2c3d5e452457a6a481a97388a833006f&amp;chksm=898c65f63799fb223bd96ea80f22b255087a8902d27476d7078e3e2634cb6c787f3bd3bf08bb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 May 2024 04:55:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CFD简历有这两个字，找工作堪忧..]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkl7TCh7rySwL7xe0yiaCNuh7hu9Noa9HWkqy6icMtiaIF6LCt89EhZHS4rBI4iabzyDnRXPzvgweTKGVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>请不要写这两个字：精 通我有时候会看到有些人的简历里面写：精通CFD、精通OpenFOAM、精通C++。CFD是一个大学科，里面涵盖方方面面。很少有人能精通CFD。类似的，OpenFOAM整个代码上百</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649427434&amp;idx=1&amp;sn=a51b3bab75c421da16c7230051a8086c&amp;chksm=897cf0c9e21fbee47dcf255e9d0ae2089e93373be2d5bdbbc037ff515d057871a6894cf669b6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Apr 2024 05:46:26 +0000</pubdate>
       
 
     </item>
