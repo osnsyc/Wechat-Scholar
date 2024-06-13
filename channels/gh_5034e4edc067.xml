@@ -43,34 +43,114 @@
 
 
     <item>
+      <title><![CDATA[手把手拆解：从零实现Llama3大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKN0SBrQB4pxsRib3btwklaKgGVFljzJrG6cPcCUxD5TtdXutqwwhDt4Ue1P9NCUyXmqibVHGm1ia8bA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近出现了一系列令人激动的开源大语言模型，如meta的LLaMA、清华的ChatGLM等。伴随大模型一起爆火的，还有大模型的微调方法。然而随着模型规模和任务数量的增加，对整个Transformer模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442999&amp;idx=1&amp;sn=63e28d4b62be807e2f853eed575dfff9&amp;chksm=bfe490b607d689cebcd963ec3eb3c9695418f913a8080beac575856848e2d328c6d9ff82fec1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Adam学习率Scaling law的「浪涌现象」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJDLuhKtUOCQeyhumxAOKuoGkLnDibGafFyGPPNDSrCe3XN4n0ew5o96Bws7oOBnjtuGzSd5LUGkvA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Batch size放大后，对应放大学习率是一个约定俗成的规律，但随着现在模型尺寸、计算量的增大、不同优化器的研发，这个结论是否仍然成立仍有待探究。近期腾讯的一篇工作就得到了不一样的结论。下面有请一作</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442999&amp;idx=2&amp;sn=f8fcabeeeb046aefbc71108bb309f775&amp;chksm=bfaf1b296665ce3a6718742366210377397025eea9ae592bbeece69d99cdc4bdff7a2e49d91d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【米哈游-北京】NLP算法实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJDLuhKtUOCQeyhumxAOKuoic8zicJ6OafJia9fQCG8tSSr56PSgTpb3jGA2PKgvZAc2B1JbibaIrSjzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>【米哈游-北京】NLP算法实习生【岗位职责】1. 探索NLP前沿领域研究，包括但不限于数据建设、模型训练、智能体、对话系统等工作。2. 负责优化和提升模型效果，持续提高算法的效率和性能。3. 参与NL</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442999&amp;idx=3&amp;sn=f4a1fddcded6b7242c94490355e62abc&amp;chksm=bffcf82c7528f0946e9a22dba17b284608da0b50448f2a85b94dd75e97dd377e06f0196230ca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型算法题(7)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465VXIeBot7KEGppOP9sSfPRNuSI9cZRFaSianExMgfArKRSWrvm0Py3GBO9Yua3FZiaCiaxV3VZPlZFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本系列将持续整理一些LLM中关键的、细节的、值得关注的内容，持续更新~如有错漏，欢迎指正~1.MoE模型训练中，如果不对专家的路由进行适当干预，可能会遇到什么问题，有什么解决方法？MoE使用多个并行的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442999&amp;idx=4&amp;sn=227b1ef053227385e7b9659486201b86&amp;chksm=bfbfb4b58519c04bf5cacbc6a220f3abd9a23bd085c7ae598a8e51ac3cb119c5df09d4115cf9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[JiuZhang3.0：通过训练小型数据合成模型高效提升大模型数学推理能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0Oo8ZT4CdYTHzE2za2GyGZfUdic5e9TLQxgnkwKdJ7xQBOn8iaZfoHkcX7yURicnEeAM6UvfOPtAF2LZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜张北辰机构｜中国人民大学研究方向｜自然语言处理、大语言模型大语言模型解决复杂数学推理问题是一个广受关注且具有挑战性的主题。已有工作通常通过从现有语料中收集大规模数学相关数据进行预训练，或者是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442999&amp;idx=5&amp;sn=b2846d4bdedc8e25932f766fba16b039&amp;chksm=bfb9053d95456f115028fc02f189cd35fd1476d3834f925a67e35fb157515323309e73de6255&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[独自一人，怒发顶会！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKic3DQZMibcYneKGmFqzETKVtPDqez6vyodKTk683t3TXrBfyubXn5lZ1byX3MEIPIhIGsGouFAaOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>万物皆卷的时代，升学、就业的竞争越来越激烈，想要保研、申博、进大厂，没有高质量论文在手就相当于“裸奔”！尤其是这个人人惶恐又内卷的时代，想要抓住点什么来增强安全感。有一份拿得出手的成绩——发论文的数量</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442966&amp;idx=1&amp;sn=82b5d17ad8dcdde51fb4cbef8adba223&amp;chksm=bf1a6f7f2c725f32e47b79a76cfc6332eaa8012d6175e9be82d5bd32b37f38ffe92ef1e89dad&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[2024高考数学新I卷、新II卷客观题大模型评测第三弹！不同的格式竟然会影响考生的能力？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Y5AJB71iahGagGyTjx8Ozzyn77m3MHmd6gibzibMh4YhNXq8GGUkKhhE3YYeBUMOTUF5ASHZqjqBKic4FBHv8fnXgw/300?wxtype=jpeg&amp;wxfrom=0"/><p>又到一年一度的高考季，这是青春的试金石，也是智慧的盛宴。一批青年学子将在高考的舞台上诠释自己的青春，实现自己的梦想，在此我们预祝广大考生都能金榜题名！——全新出炉的高考试题具备高度的独创性和保密性，是</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442966&amp;idx=2&amp;sn=e53052836743df5887608a36cb51974b&amp;chksm=bfbf69dd101d920e01574f484e43817ce6a5cd30948d96fff7d4b4b766d839a9cec4bda4bc21&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[不同开源大模型对比及领域落地选型考虑 Qwen2 LLaMa3 GLM4等]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vImdeGStOOcOrpZhZwmibJia2Zvp4W3FDOaqulSqEoGBeicB7IRA2KYib6OfRGsBkenaXbcwicGI9z23ORKFUW7B2Zw/300?wxtype=jpeg&amp;wxfrom=0"/><p>“ 在当今的人工智能领域，开源基座大模型的角色日益重要 。本文会对主流开源大模型进行对比分析，并尝试探讨开源基座大模型选型的因素。给领域落地一些参考。”Key Takeaways：1 从数据、Toke</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442966&amp;idx=3&amp;sn=51ef2ea327bcb0b22478b1e0f3b1324c&amp;chksm=bfc2a4123e25558e1589d2ea993685b58d877df1e773c775ec8287c6183eb2847a5a1a1aa576&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM &amp; Agent &amp; 长文本】Chain-of-Agents与Qwen-Agent智能体长文本处理方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGBzymcqnwicyWWbNnAnTVcgQna8q6HCMwsCA8cv5cpDABYCwFlTaYQcqMCDDE11hhKzeJAybzgrSCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言 大模型在处理长文本上下文任务时主要存在以下两个问题：输入长度减少：RAG的方法可以减少输入长度，但这可能导致所需信息的部分丢失，影响任务解决性能。扩展LLMs的上下文长度：通过微调的方式来扩展L</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442966&amp;idx=4&amp;sn=3ecaf354a036ed2b925ebf4b9e446dac&amp;chksm=bffc66eb15fc9f2e1415be69e6e6cb3b78edf061a0b03d1b544f93f8cb28b1c0e42fc0429256&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[AffineQuant: 大语言模型的仿射变换量化]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tG6pWWWrpyj4563fuk9TP5VoEEPaOGWCqZnsnf5icAZmW6ogtsnLQ4hX3yIiaTWA4B10NsWgHs1KdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>AffineQuant: Affine Transformation Quantization for Large Language Models1. 论文信息2. 引言本文研究了大型语言模型（LLM</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442966&amp;idx=5&amp;sn=b26c5b7cc64a1509a0c38c6801ffd218&amp;chksm=bf0dfd27acdbf8ba3fbf300fdd03f647fcdf0126c71712a205ec63b9470f7812a84aa4b72da1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
