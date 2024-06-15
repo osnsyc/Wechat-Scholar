@@ -27,11 +27,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[数据合成方法-让模型自己说出用了哪些指令对齐数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nCvMu19JKoJtyJyApt7SKSnnZoPicb4SN4PKfjf95l4VVBC9301A2UMME2FiaialNeYgA3TBeIsSjKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。大模型时代，数据至上，如何利用大模型合成更多高质量数据也备受关注。今天给大家分享一个有意思的大模型合成数据方法-MAGPIE，在不需要种子数据和额外人工干预的情况下，挖</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247489601&amp;idx=1&amp;sn=ed91bbea8ebd8a7df2bb232d3801c934&amp;chksm=ce7ccf08b102b6de09ac09839d646df9f1726908a5d339dad444fa0f8e45d6f19fdc5155aa6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 14 Jun 2024 14:22:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[长文本生成的新技巧-KV缓存量化]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5k9Q0gWVhcDPPQHxIf3Ouian9icTic6vjn1Xa9TuBgaZYibPfP1yn2FsRCf6HNFniciayxE3LyvCPQYlg7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>给大家分享 Hugging Face 的一项新功能: KV 缓存量化 ，它能够把你的语言模型的速度提升到一个新水平。太长不看版: KV 缓存量化可在最小化对生成质量的影响的条件下，减少 LLM 在长文</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247489585&amp;idx=1&amp;sn=e913cbdfb1e28b848a2c5eab249e13bc&amp;chksm=ced0458d394b638948eb0a01c703388e6fe34ed0c3a020cdc8799afa29fc0aaf8a8afe1c1695&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Jun 2024 02:36:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
