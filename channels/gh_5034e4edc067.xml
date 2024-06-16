@@ -48,34 +48,114 @@
 
 
     <item>
+      <title><![CDATA[LLM后端推理引擎性能大比拼]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLrGVInuf8VoGGibMVRoAZdZsI0eykDTVe2jWX2dyqyO7EibrXa51jaX5QyI4WTqsk18ZzZX6pyR2lQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：BentoML 工程团队翻译：OpenMMLab原文链接：https://www.bentoml.com/blog/benchmarking-llm-inference-backends选择适宜</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443040&amp;idx=1&amp;sn=5a751e7ce8c6a19e0764bba08f9b928d&amp;chksm=bf9716bce79c54f66ac14306929dfbb1eff913871fd70ac66370c07ad9eedf75cbc7f150f56a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 16 Jun 2024 03:56:06 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【文末赠书】大模型时代，如何用时间序列与机器学习解锁未来？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLrGVInuf8VoGGibMVRoAZdZEhTcSonsur30UXpH4l1picd0hhqFlacGUoH3aOZanaqWUsNJuDyicCBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书-在人工智能领域，大语言模型（Large Language Models，LLM）特指那些具有大量参数、需要巨大计算资源来训练和运行的深度学习模型。近年来，随着计算能力的提升和数据可获取性</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443040&amp;idx=2&amp;sn=21799e3f725075c6ef4d59eeb0d72370&amp;chksm=bffd309999943ee29b95ed40b84cd5f0c5f8d4edfcacff3534a3fb8299ab32635ff6598062d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 16 Jun 2024 03:56:06 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Ollama 本地CPU部署开源大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/4WgILHBwVH90R6CriaBywevOnmQQ6ibN9nWNwibzbee2syNbtR1Hx2Eq2RZS0dy8UOIt9MJ3NOPLPiaib1bOLsUwLcA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Ollama可以在本地CPU非常方便地部署许多开源的大模型。如 Facebook的llama3, 谷歌的gemma, 微软的phi3，阿里的qwen2 等模型。完整支持的模型列表可以参考：https:</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443040&amp;idx=3&amp;sn=b5baf2504c21de81d178bc8356f76bcc&amp;chksm=bf4e39dd839049004e6bdcf1ac5f1c74e40be40f414f0ac9aa0e759b27baa7bdf7d8ddbe0b6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 16 Jun 2024 03:56:06 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[数据合成方法-让模型自己说出用了哪些指令对齐数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nCvMu19JKoJtyJyApt7SKSnnZoPicb4SN4PKfjf95l4VVBC9301A2UMME2FiaialNeYgA3TBeIsSjKg/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大模型时代，数据至上，如何利用大模型合成更多高质量数据也备受关注。今天给大家分享一个有意思的大模型合成数据方法-MAGPIE，在不需要种子数据和额外人工干预的情况下，挖掘出对齐过的模型自身的指</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443040&amp;idx=4&amp;sn=6b66de9d047aa418cd92c9003f755101&amp;chksm=bf6a72d8d81d5257514258474402649527da9df14e390661f9805f52b71280ad54ab5649990b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 16 Jun 2024 03:56:06 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【文档智能 &amp; RAG】RAG增强之路：增强PDF解析并结构化技术路线方案及思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGASKcfJtp9G00sykMjuXXExSOpjZgibV3nZA4WCaUibGI3tHUPdT9HVibyMxXCrlaPOejUcdOticjOWIQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言 现阶段，尽管大模型在生成式问答上取得了很大的成功，但由于大部分的数据都是私有数据，大模型的训练及微调成本非常高，RAG的方式逐渐成为落地应用的一种重要的选择方式。然而，如何准确的对文档进行划分c</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443040&amp;idx=5&amp;sn=8fd04b517df755f7cd7cdaca87200e7d&amp;chksm=bf912d130016a22fb696749ac94ae3586a14c9e6c89b6db4dd73ceb236fbbb26fd394177d264&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 16 Jun 2024 03:56:06 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[RLHF替代方案：在SFT以外，我们还能拿SFT数据做什么？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJDLuhKtUOCQeyhumxAOKuo2sV9CpOLcIsjhGJVnXd7UI7SGxwQ9QdzdiaqrE7u8GlOUGxRBc0Eo6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：孙浩，PKU-MMLab-Cambridge｜RLBeliever主页：https://holarissun.github.io/原文：https://zhuanlan.zhihu.com/p/</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443014&amp;idx=1&amp;sn=3a6ec6fb12c5c9ed6aa9bab4d7a0f63a&amp;chksm=bf4fad24311763dd81cdf6db188899e99efbb5b094b3b0ffdd746017dc8bf9592ebf59a0909f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 14 Jun 2024 10:35:55 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[McEval：超大规模多语言代码评测]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIcfjbKe9GXoAcKGiakyLPswgRsmJoUZibtDO8uvtmpk49rq1MYic1ks33eCUdzgxlxm5zJOkQUx4ruw/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了更加全面的探究大语言模型的代码能力，该工作提出了一个涵盖40种编程语言的大规模多语言多任务代码评测基准（McEval），包含了16000个测试样本。评测结果表明开源模型与GPT-4相比，在多语言的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443014&amp;idx=2&amp;sn=f3b031ce59719ff21c22b10997488a31&amp;chksm=bf21fde75a791ce5ae58a047339fcb8ed55d1a329f262d9a3ae7b75a510a8f5a9bfde4aff6c1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 14 Jun 2024 10:35:55 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[夏令营 | 关于北京语言大学信息科学学院暨语言智能研究院举办2024年全国优秀大学生夏令营的通知]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/LbbS6DhRQVVOVtxxuQLibvIiaJ6aYz2YABlibiavClxHt3eWutFOKqia74Dul1Ekw5CABxVg0GJbZQJc1G9zmmFVaZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>语言是人类交流最重要的手段，是人类文明演化的基石。语言智能学科的任务是赋予机器以感知、认知人类语言的能力，并进行类人智能的计算和推理。北京语言大学信息科学学院是国内较早开展语言信息处理研究的单位之一，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443014&amp;idx=3&amp;sn=30ebb0f2cbb4b959d2616835cdef4c01&amp;chksm=bf0739830ab57f1c789bc09a89ad3f2ca1633e5d03b677698071697c64198feab305775ec65b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 14 Jun 2024 10:35:55 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[聊一聊搜推广粗排思考]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQe1Tz5kqsMdiaP2lfGhbEAf3fl4rjsJn6ugtPRQV3YYHaDzoA7k3pUFaTGT1Q4klYAPIumZs5kv6xg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 阿狗 https://zhuanlan.zhihu.com/p/699188815粗排模块的目标五花八门的说法越来越多，但是粗排的意义本质还是由于在工业界中业务链路性能、算力的约束下，漏斗链</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443014&amp;idx=4&amp;sn=a434b257ea7c925288f80bd65ed4ca6c&amp;chksm=bf27085031b948549272f42529f43a085ed238d23e05db5414a7b99e354b6a98b4a1cd29dab7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 14 Jun 2024 10:35:55 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[KDD2024-WhoIsWho-Top3开源方案]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVe9P3cc5EJrhDsDxdBsIHEKSJBxT3E6HjGOambZSgTO45ScUeHNQ2QLxljdk4Hk2DRR2eRhibewPkg/300?wxtype=jpeg&amp;wxfrom=0"/><p>KDD2024-WhoIsWho-Top3KDD2024-WhoIsWho-Top3开源地址：https://github.com/yanqiangmiffy/KDD2024-WhoIsWho-Top</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443014&amp;idx=5&amp;sn=135a5d22d8ef9b372c397606bef26b93&amp;chksm=bf450930cb91cf9d33ab14055e347e5e039e34ea9b8fa180bee2d7c69fd50081290b217f7e0c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 14 Jun 2024 10:35:55 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -394,86 +474,6 @@
       
 
       <pubdate>Sun, 09 Jun 2024 14:45:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[无法作弊的大模型评测来了！2024高考新I卷数学 客观题部分评测结果出炉！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLGR7TjQuPaGB02OoXkaWlYad9Fv3oCAG08CCkSGhJ8VOSLFuUGfQUh2UdKWs1D5w0oUvAlkk626A/640?wxtype=jpeg&amp;wxfrom=0"/><p>转自：FudanNLP又到一年一度的高考季，这是青春的试金石，也是智慧的盛宴。一批青年学子将在高考的舞台上诠释自己的青春，实现自己的梦想，在此我们预祝广大考生都能金榜题名！与此同时，全新出炉的高考试题</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442921&amp;idx=1&amp;sn=f7442c8c1715a475d7755ae001a57d2e&amp;chksm=bf0a9f35c079bb803bfcf17f6fc00ced85e27046da3c595d46523f09e24bffc9d8d4e31f77fc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 08 Jun 2024 14:24:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[昆仑万维-SkyworkMoE 解析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW466OEa4PTjs9QCBQRGNpftoEDu8hBeytaFcBA6bWnhsRwK1qWiabaLdlJx2pmjiaJRMC6x6Gfea72hvA/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前我们对比较热门的十个MoE工作进行了整理：MoE模型的前世今生。最近昆仑万维开源了Skywork-MoE，一个总参数量为146B，激活参数量为22B的MoE模型。Skywork-MoE技术报告中针</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442921&amp;idx=2&amp;sn=9a29a14e5d093b54d52dd7c213081166&amp;chksm=bfcfa2510fe04f0d46f5283b849f11634e66e739348b70b1986347bd77fd5f15c90e6c6c6f6d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 08 Jun 2024 14:24:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[搜推广生死判官：重排技术发展]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DHibuUfpZvQeV2HDPp8smNrpQYtLj54vtiaPrlPpss4Sm9hJ1tUFfozibWfnDY9r7F10dico4CP901iaO9KvG4odsIQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>全文1.2W字，PC阅读戳：https://f0jb1v8xcai.feishu.cn/wiki/LPlAwm6vSiesFBkysh8csZYfn1g1. 重排Overview搜索推荐广告的基础架构</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442921&amp;idx=3&amp;sn=89f01bc5a6e6497cd9bd39f6aa59efa5&amp;chksm=bf5d0ce8d88cae02797718ed93d8eaa8933c87a37887cf209eaa354ae71df880f1963c033daa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 08 Jun 2024 14:24:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【RAG提升技巧】查询改写HyDE]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVd7ibh4BQgfb8d47PtwlD7WRcXLUPwsqItlnMSVFrIOMHszCEibDdRAg7sspHepAkHD6t1LuDkbaErg/300?wxtype=jpeg&amp;wxfrom=0"/><p>unsetunset简介unsetunset提高 RAG 推理能力的一个好方法是添加查询理解层 ——在实际查询向量存储之前添加查询转换。以下是四种不同的查询转换：路由：保留初始查询，同时查明其所属的适</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442921&amp;idx=4&amp;sn=ea1c1a400a2da983c9b150f91a273e6b&amp;chksm=bf3151e690cf27e564978da9a810bea3da88cbb3f5b81534b4b77f4ab9f57a850faa56fbe33b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 08 Jun 2024 14:24:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mamba-2: 与Transformer表现相当,速度提高了2-8倍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ExPPKXgNVtdk9t7h7zBaYiaV7qF4JtBicIEXH43vzF5ibyCIyFHOTsARHJPibsdThpFMRHTa2ZUnILa1CslD7vXzbw/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度图学习与大模型LLM(小编):大家好,今天为大家介绍一篇Mamba最新研究论文（2024/05/31）。本文提出了一个新框架Structured State Space Duality (SSD)</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442921&amp;idx=5&amp;sn=b7cc9b3e451b2940249b165c3b128bf1&amp;chksm=bfb2cc62261b8d19c27b859dd5bc30607372f9f70d9ba1dc167d08aae90731aa7a42db311860&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 08 Jun 2024 14:24:05 +0000</pubdate>
       
 
     </item>
