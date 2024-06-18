@@ -48,34 +48,114 @@
 
 
     <item>
+      <title><![CDATA[LSTM又火了：xLSTM追平LLM新SOTA，LSTM-transformer混合架构荣登Nature]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIPTfm5Kdc8h7ygWj0ZLNqy38EbWibgzy1c7fq5jrw74NOEAGBfFpKCiaH1KicxzsbGicTP16hu5bgPWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年上半年，LSTM火了！LSTM原作者分别提出xLSTM和Vision-LSTM，解决了以往的局限性。同时，LSTM+Transformer登上Nature；LSTM+CNN、LSTM+Attent</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=1&amp;sn=5e881cc7d7a10da4381e324dcc8bd7e0&amp;chksm=bf26b3ddc657ed5a8e882b8eee8238d363d6c0f95ef2eed18908b75d9cb12fcea39de30d599a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[模型调优（RLHF/DPO/ORPO）终极指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJzORgQ0rkdiaLsSlgRWPGhRWoHy8t50gcmwW1wS9MJDzy3nzvaOWv2DIaMl4IEic0dssEIRSUuQEgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：FelixCoder，致力于分享我的编程经验原文：https://zhuanlan.zhihu.com/p/692594519前言虽然大规模的无监督语言模型（LMs）学习广泛的世界知识和一些推理</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=2&amp;sn=305eefdb4c20fa0b67d69be9045fb0a4&amp;chksm=bf651c5205aebc00e68242321d330cb5eecee21bdb633ff6d9f1e3d3322b9e9a9f76ece48cd7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从loss视角理解大模型涌现能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464zkN6dJr2zNWDOFNrfa8CPD4OYPStVKibFJ84K3KlmkwNvDz0RAo8xP9gkANzWmfeBm0hVuzQySiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>智谱在《Understanding Emergent Abilities of Language Models from the Loss Perspective》中提出一个观察大模型涌现能力的视角 </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=3&amp;sn=721ae6d376b556a9e31f2a4e78609841&amp;chksm=bf2ab2931bcc9118a716f5335f539f4515623ab09cce550ceff22f0c437f81eebf8ecc3722a5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Text2SQL之Vanna优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgyhb8WbReHb5MddHjdURWXUOzGTg96HeAfAbsIbP8khHXQib3BZ0wsDBAeunAFeE0VdpD86CvfhHZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言前阵子写了篇Text2SQL的简单介绍，发现其也是RAG只会，写下了Text2SQL之不装了，我也是RAG最近也一直在做Text2SQL的优化，于是把自己的一些心得，总结于这篇文章。一、优化方向既</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=4&amp;sn=8a6bc2291a26573f943d245bf6553378&amp;chksm=bf7235d2ee77f92716b16ace04d79c54b7ad10aa1cc99d8dd103dc314a1098466f3b26878253&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM】PISSA：一种高效的微调方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGDyPfGLncJOtKrkjA4A2vBTCiawyicrKoRdWb5wOJaOVKZF5V62R2UicBMDDMRja294CtE9qnKqfNA9w/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言介绍PISSA前，先简单过一下LLMs微调经常采用的LoRA（Low-Rank Adaptation）微调的方法，LoRA 假设权重更新的过程中有一个较低的本征秩，对于预训练的权重参数矩阵，( 为</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=5&amp;sn=f35550d1a83eb40bd25b3438b7dd75ba&amp;chksm=bfdcea89eb66c3558399cdea10b4f1546056a588cbb2f07878b16c3f9ab7ace72bb02932c0d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[真心建议大家冲冲这个新兴领域，应届生年薪炒到65W＋]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLrGVInuf8VoGGibMVRoAZdZPPp8Fics0qib1N7WJyDUjDQngMgjRnoqmicohlwOWLnzy98PcOQj8TVIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着ChatGPT的火热出圈，AI大模型在全球掀起一轮开发浪潮！Google、百度、腾讯，阿里等各个科技公 司，都在高薪挖掘AI大模型人才！不少企业甚至开出百万年薪挖掘大模型人才！！不夸张地说，未来A</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443059&amp;idx=1&amp;sn=a79b82d2a38627268c1668399e281699&amp;chksm=bf57e1674c8945fb7f38a3803f499ec8597ee33b58703773dbb9c67dd28e5cefd6adf2313fcb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 17 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLaMA Factory 实战——单卡 3 小时训练专属大模型 Agent]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLrGVInuf8VoGGibMVRoAZdZSiaGggobmJru7x7CO16YqJZdzGLRk8cE7fLQmtfm6leL2qZuCzg4Xpg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hiyouga，NLPer原文：https://zhuanlan.zhihu.com/p/678989191引言Agent（智能体） 是当今 LLM（大模型）应用的热门话题[1]，通过任务分解（</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443059&amp;idx=2&amp;sn=80d2a893f03b96dd5f66e7192f5d2584&amp;chksm=bf11c144b796fe7713698ab1c76139a1b8586a185288c872a2a50c9d7dfea507ee8b36f76a22&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 17 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Index-1.9B: 小巧精炼的B站大模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVe9P3cc5EJrhDsDxdBsIHEKVkwSLYpEnGgJ017lEDxB2p8w4CnE67IfibSkOVCr092SVUdWXHmOjQQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言今天，B站大模型团队发布了Index-1.9B系列模型，是Index大语言模型系列中的19亿参数规模的模型，如下所示Index-1.9B base : 基座模型，具有 19亿 非词嵌入参数量，在2</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443059&amp;idx=3&amp;sn=49995054631e7410767bfdbd4c00b0e3&amp;chksm=bf1bcc59c8d41e8fedbd17f768271d1eb9a8a9b2b14cf5355791dd233a0df54ae2b44523b0b2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 17 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型推理加速-MEDUSA]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464ZcXgG5rb5zXSN3WQ98H5t4EIuaC4GVCxAibZaRFQLbtLA9dW7h2kVsfrdcmzbZy5iaISibGpRrqepg/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前对speculative decoding的做法做了介绍：大模型推理加速-投机解码。本篇介绍一下另外一个热门的解码加速算法，MEDUSA。MEDUSA在不同的训练方法下能提供×2.2~×2.8的解</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443059&amp;idx=4&amp;sn=a045c2fe820e1adb828cfd6dfaca27d4&amp;chksm=bfb3bfe4e24ab90452447dfafa598496f96d4ac1a89e2b35896c94c3e134b8e427833d1ea54a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 17 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【文档智能 &amp; RAG】RAG增强之路-智能文档解析关键技术难点及PDF解析工具PDFlux]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGANq7aTicjwcbibyBibLAvY0gzictbShvYr6iaT7pnaEuoHR9M1BPrIQRAVUQhQEfxZmFyOpXLAPm6Rnrw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言在私域知识问答和企业知识工程领域，结合Retrieval-Augmented Generation（RAG）模型和大型语言模型（LLM）已成为主流方法。然而，企业中存在着大量的PDF文件，PDF解</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443059&amp;idx=5&amp;sn=74d87faf129bbc55e9515bda1afba981&amp;chksm=bf3ecf1c3e73d80e6926694f3e48c6d0491fa6ebad04c2c6263bce28f52e69106dd66fa2dc75&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 17 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -394,86 +474,6 @@
       
 
       <pubdate>Wed, 12 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM大模型知识点最全总结：从入门到实战都有了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKtehJ7VVxCHHicYeegleugD033gtMmO8g7hk3Yzk5tgxU1BPMvnaG3l0fEG2wQCNbAEMibib1AXjPqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今大模型席卷AI界，已经成为所有人工智能的从业者都要入局的领域。今天给大家梳理6个LLM热门方向。都是行业前沿与顶会大热，容易出idea，想冲顶会或者水paper都可以看一下。6个LLM热门方向（附</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442951&amp;idx=1&amp;sn=203bf31f9b6e11ae9aeecfd06ed1a693&amp;chksm=bf61ff476ab4fe0e5c97a134cecaa25f6fcadeefbf1cd9e3c8bf64bb9f30e6ff3b1cc88158c4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[单节点8xA800跑起来HuggingFace DeepSeek V2踩坑]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sErk1uWPeSsrFSZsHiawSibLoGOTWpszPMfbP4YlND5jT1upTpdg56vUqQbU60YxuKJX3cU9pdmtNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景尝试跑起来HuggingFace上release的DeepSeek V2，踩了几个坑，这里给出解决的方法。HuggingFace提供的开源DeepSeek V2 repo链接为：http</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442951&amp;idx=2&amp;sn=a88a5e171a9590708e5e8d346cc371b4&amp;chksm=bfbb135003fac15b0e8c1f41a5adcef26e814ba13b11c3733eb108976908bd432acb44f110ef&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[不同开源基座大模型对比及领域落地的选型考虑 Qwen LLaMa等]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vImdeGStOOcOrpZhZwmibJia2Zvp4W3FDOaqulSqEoGBeicB7IRA2KYib6OfRGsBkenaXbcwicGI9z23ORKFUW7B2Zw/300?wxtype=jpeg&amp;wxfrom=0"/><p>“ 在当今的人工智能领域，开源基座大模型的角色日益重要 。本文会对主流开源大模型进行对比分析，并尝试探讨开源基座大模型选型的因素。给领域落地一些参考。”Key Takeaways：1、从数据、Toke</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442951&amp;idx=3&amp;sn=feadac9354ab02f225ecc6ce05ca3275&amp;chksm=bf00f9a79c22d0754f3bec747b9fc646ce33e6bad4143fd2c05c52a53215c36644a3dc7cea6a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[京东零售广告研发部，AIGC/大模型算法工程师]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKtBNK8Q2bNksvvFLXPcfmEoF4OKNfg4VaDerM0UgIsRQc2ibzYXP1B1uVHJh5sicYsjHkFGCaqQmrQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>京东零售广告研发部，AIGC/大模型算法工程师【职位描述】1、主要负责AIGC文本、图片生成工作（文本生成、文生图、图生图模型等）；2、参与生成式大模型能力构建；不局限于 模型设计、prompt优化、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442951&amp;idx=4&amp;sn=6704dbf9f5fac2ccf2fa5c7760ed249a&amp;chksm=bf7decda4bc61c77d5f20ef4e65451f127db4f0b0a9b598df302a00a596f1a18bf2fe559f193&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NV-Embed: 不装了，NVIDIA亲自下场，发布自家embedding模型并成功登顶MTEB]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpuDYlMqqnO8eztibVXsOGUR28uEWd3rCAY5JJGwKibRule0nVOmYTgg6jofktfQMDWvVMRI24sDCQHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介‍‍‍‍2 NV-Embed    2.1 模型结构    2.2 模型训练3 实验结果4 讨论参考文献‍‍1 简介    上个月MTEB的榜首再次又换人了，NVIDIA亲自下场，发布了自</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650442951&amp;idx=5&amp;sn=98afdfe24ffbb60290fc873772b14aa2&amp;chksm=bfd5cf3470275ec3b49aae23740365ad10cd2f5f41f4d0b744cefebad557ac1eb4baabd2a7ea&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Jun 2024 02:10:00 +0000</pubdate>
       
 
     </item>
