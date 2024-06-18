@@ -25,17 +25,57 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[大模型能看懂图片的弦外之音吗？多模态大模型新基准II-Bench]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagh5ScoaxiaJoClibcpEmVSV4PInwYzaibHJTOU9lIVchlgq3qVy2LawZ5nEoWXXsUicAD2UstjDq85LA/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景引入在人工智能飞速发展的今天，大模型的感知能力已经达到了令人惊叹的水平。但是，它们真的能够像人类一样，洞悉图片中的深层含义吗？为了探讨多模型大模型与人类的差距，来自中科院深圳先进院，M-A-P，华</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528076&amp;idx=1&amp;sn=b726f57a529524048c334f63502a2c63&amp;chksm=ea9766fab06ce50d124e9c4e4a8a73fc3b717002958228391f2c52a3c8429e18b20d1ea191c4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 13 Jun 2024 14:27:29 +0000</pubdate>
+      <title><![CDATA[2024年5月90篇代码大模型论文最全整理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiajGfEsaGYAwA3mx0lEhnxQiamO6W2658ibFuicfiaibxdZibLCO6tOLF2Jt9PxxiaXwj4iamoGyyFdUCUhcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：本文整理2024年5月发布的90篇代码大模型相关论文，其中包括17篇发表在今年 ICLR 的论文。根据论文内容，我们将这些论文整理为了基座模型、代码微调、测试基准、代码Agent、低资源语言处理</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528094&amp;idx=1&amp;sn=b3e4b4520e7cfa7a6aa65b0e8eba5273&amp;chksm=ea409b54f2a94c571fb1cb08dbf64d08cdc8555e452576769aa410a609ad28a8977baa7c2bdc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 17 Jun 2024 09:38:32 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[NICE分享 | 大模型时代下非自回归模型的多层次能力提升：媲美自回归模型的探索之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagh5ScoaxiaJoClibcpEmVSV48iaSibWHeLiaw7nYlJQj8RuPdBZeT99er7GRmEjiaCGa7mNGNBiaJBM8tGw/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题大模型时代下非自回归模型的多层次能力提升：媲美自回归模型的探索之路【ICLR2024】Are Bert Family Good Instruction Followers? A Study on </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528076&amp;idx=2&amp;sn=2c44986008beb8dd27e1195413208254&amp;chksm=ea544da2b972b3bfc8a725753102c8cba1c27bca38e2a92cc3d82bc56e3afe46cd6d554aa1b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[夏令营 | 关于北语暨语言智能研究院举办2024年全国优秀大学生夏令营的通知]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiajGfEsaGYAwA3mx0lEhnxQAuALlPweIru7iceK4gUFt3icFVY6BpDg9c8cYskenkOvyCiaPoPOOhXoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>语言是人类交流最重要的手段，是人类文明演化的基石。语言智能学科的任务是赋予机器以感知、认知人类语言的能力，并进行类人智能的计算和推理。北京语言大学信息科学学院是国内较早开展语言信息处理研究的单位之一，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528094&amp;idx=2&amp;sn=2f007fbe343aafcf2f614884d5d1c7ab&amp;chksm=ea5cb90796b6d3a4c22fc4031f0d6db123981a65c1d2955957697212df5c35b558af07460eb9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 17 Jun 2024 09:38:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[详解LLM参数高效微调：从Adpter、PrefixTuning到LoRA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiajGfEsaGYAwA3mx0lEhnxQrMPveplModxD8CuuOicC1JvEYuiaZW5zsDn5Ks2m3u6vHqQh0SicCdOlQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：LeonYi，四川大学 计算机技术硕士声明：本文只做分享，版权归原作者，侵权私信删除！原文：https://zhuanlan.zhihu.com/p/696057719编辑：青稞AI一、背景1.</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528094&amp;idx=3&amp;sn=054ffdcb060d693da026c2a8d9dcb55a&amp;chksm=ead3f7a6bdb138e5feeced9908f0c3d2432187a1bc8fa6b4892c2209524019b082364d5ab601&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 17 Jun 2024 09:38:32 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大模型能看懂图片的弦外之音吗？多模态大模型新基准II-Bench]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagh5ScoaxiaJoClibcpEmVSV4PInwYzaibHJTOU9lIVchlgq3qVy2LawZ5nEoWXXsUicAD2UstjDq85LA/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景引入在人工智能飞速发展的今天，大模型的感知能力已经达到了令人惊叹的水平。但是，它们真的能够像人类一样，洞悉图片中的深层含义吗？为了探讨多模型大模型与人类的差距，来自中科院深圳先进院，M-A-P，华</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528076&amp;idx=1&amp;sn=b726f57a529524048c334f63502a2c63&amp;chksm=ea9766fab06ce50d124e9c4e4a8a73fc3b717002958228391f2c52a3c8429e18b20d1ea191c4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 13 Jun 2024 14:27:29 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[NICE分享 | 大模型时代下非自回归模型的多层次能力提升：媲美自回归模型的探索之路]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagh5ScoaxiaJoClibcpEmVSV48iaSibWHeLiaw7nYlJQj8RuPdBZeT99er7GRmEjiaCGa7mNGNBiaJBM8tGw/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题大模型时代下非自回归模型的多层次能力提升：媲美自回归模型的探索之路【ICLR2024】Are Bert Family Good Instruction Followers? A Study on </p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528076&amp;idx=2&amp;sn=2c44986008beb8dd27e1195413208254&amp;chksm=ea544da2b972b3bfc8a725753102c8cba1c27bca38e2a92cc3d82bc56e3afe46cd6d554aa1b4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 13 Jun 2024 14:27:29 +0000</pubdate>
+      
+
     </item>
     <item>
       
