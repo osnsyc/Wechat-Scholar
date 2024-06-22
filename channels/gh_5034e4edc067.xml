@@ -48,34 +48,114 @@
 
 
     <item>
+      <title><![CDATA[小红书大模型论文分享会来了，还有岗位热招]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJzMMvvp4KGxnYrcSpl2VVPKoO4nh3rk1kKI8Pe4QAe0ic6vcu3FxskDcsOgR39N5fJwvLIm4LuMicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为 NLPer，我关注了一些大厂的官方技术团队账号，发现有几个做得很不错，REDtech 就算一个：小红书技术团队经常做一些技术分享，比如这次的主题就是LLM大模型。大模型正引领新一轮的研究热潮，业</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443157&amp;idx=1&amp;sn=1388c1ac2fec1b7d114bd09a5c31a435&amp;chksm=bfc80885be87599c8f43630992b15ca453acd3c4ac33097698e1a5f685e68e723e604289ffc2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 22 Jun 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[多模态大模型VLMs一年多的进展与思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ54UCnEU6CGMBawN8QlPXCEFKYMw0b4Z441nBWvxPibCb2xvD5bWiaO7kGbsNqEq3MIkCqDmhoHt6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：dlutxubo，电子工程师声明：本文只做分享，版权归原作者整理：青稞AI原文：https://zhuanlan.zhihu.com/p/702811733前言自从ChatGPT问世以来，人工智</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443157&amp;idx=2&amp;sn=4493fecc9fcf23a1a6f52b754f05c68d&amp;chksm=bfc082bcbc3c16834bafbdb05a297fbbf63058fc06e1cdc660c0d38597161b2c921c1c254c0e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 22 Jun 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM基础知识】LLMs-Tokenizer知识总结笔记v2.0]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdAt34EIm91U1drY8ezNnJmHx21xG8VxjujAz7f7aI3Z5JpKoPkFe3icKRVj8qvu4ibcadkCw73LJzxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM知识点第二篇，介绍Tokenizer的三种方法，着重整理subword分词算法的BPE(BBPE)，WordPiece，ULM。同时也介绍分词工具SentencePiece。To</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443157&amp;idx=3&amp;sn=94417dda5a387368f9a7fbc983224914&amp;chksm=bf2c4f6070e5ca787db92ad6eab3b1cf6099dd3831150c0672658efdac6db7905aaef1d519bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 22 Jun 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[openai原班人马最强模型Claude 3.5发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuziaBWTiaGD36E32LAepGP9CPzdQEYSDb4aUVEJfibEO99PlnCFXTkCuTpENx1Rhd2yiccWnhoUyJMPLg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天，我们推出了Claude 3.5 Sonnet——这是即将推出的Claude 3.5模型家族中的首次发布。Claude 3.5 Sonnet在智能方面提高了行业标准，在广泛的评估中超越了竞争对手模</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443157&amp;idx=4&amp;sn=24eac97effa4477ef54493100dabb9ce&amp;chksm=bf6cbf16c142e62a60f47ffb1a785297e3834ac63c26c94458a82479a525d0973c140442ed0a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 22 Jun 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Kaggle知识点：文本分类与LoRA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/uoTGEibAZUEhyMcibyMdtmq4xcdeStylUGmbfFnaFeoc1oI1TXImLPGKwyf1nHMjDofpNtCGngNLibgJGIzqRB0Uw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这篇博客中，我们逐步进行参数高效微调（Parameter Efficient Fine Tuning，简称PEFT），使用大语言模型（LLM）的低秩适配（Low Rank Adaptation，Lo</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443157&amp;idx=5&amp;sn=f0b7e88f7a482bfe5ae4600818c6fe56&amp;chksm=bfb66d4febfb0aa9bf2ccef0c7979d011f81183c7dbce56948f643fd16b54cb1ed24af9548a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 22 Jun 2024 04:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[首届“AI高考”落幕，21款顶尖大模型及格率仅33%，“冠亚季军”都是谁？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aH1o6ChDInWiaz2rQb5P3Bc8RwajmUuqI6Be4n3whUv2nxGserNZgibP0H0fK3lACmw7iceB4nJqaI6km5SMwKOUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>首届“AI高考”落幕，21位大模型宝宝参加高考，及格率只有 33%！其中，OpenAI 的 GPT-4-Turbo、智谱AI 的 GLM-4-0520 和 GLM-4-Air 分别斩获COT 版本考试</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443144&amp;idx=1&amp;sn=aaed9c01c29c5e1b175d00d32ba1092b&amp;chksm=bfffc231e585105209e5dc93db4278a11568761803bc3eea6ca7bb0436f458f89952e5eba490&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 21 Jun 2024 11:37:35 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[张雪峰高考推荐专业​（最全总结）！！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJzMMvvp4KGxnYrcSpl2VVPVWTkoXWtr7niajPEc3xsh3LXNS3WI4PUZCZGx8xBxgnLesIW6tY81Jw/300?wxtype=jpeg&amp;wxfrom=0"/><p>高考：张雪峰推荐专业（最全总结）来源：Datawhale进技术交流群请添加AINLP小助手微信（id: ainlp2)请备注具体方向+所用到的相关技术点关于AINLPAINLP 是一个有趣有AI的自然</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443144&amp;idx=2&amp;sn=1d2c80a4efe1bfa661413608402ab25c&amp;chksm=bf89c925332df9425fc162e2ca0544a66f3ad6e43e2a23d8c131f98094955d1254fbbb0d140a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 21 Jun 2024 11:37:35 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[英伟达超大号340B大模型技术报告]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwPic5tpIE8JF7bQolRm3CkT4LbGiaR181ib8MhGsHpKQY64IvicngrHib2E0icK8fVRkJ1QDdzNibcrbBPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>迟到的技术报告，太长不看版如下：1.模型有340B的超大参数，包括基座，chat模型，reward模型，全部参数开源。2.对齐过程使用了超过了98%的合成数据。 3.rope，GQA，不要dropou</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443144&amp;idx=3&amp;sn=638a730a89f3e748ef99a85653d6af1d&amp;chksm=bf0416fab4ca7b41a8c2218e1fae5907f8c299852cd83747b518f33c048d725f37cfbe7f28e0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 21 Jun 2024 11:37:35 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM基础知识】LLMs-Transformer面知识总结笔记v1.0]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBBLCIEtO9CaW8CkPfXANbDhttoib1mZlO55hINtsdjOujuvcNp2grFibHrwJhUDv6XEDLwNRKhKUXg/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM知识点第一篇，整理了10个Transformer面试相关知识！                                                          </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443144&amp;idx=4&amp;sn=9c3b1b9e8c151643121266e51a2f6a30&amp;chksm=bfd2bcc49d0c2d6d2d770379c10ae0c3a42c64400018bac4ccb13d3d58bdcb409ee751ee48aa&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 21 Jun 2024 11:37:35 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Spark向量化计算在美团生产环境的实践]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hEx03cFgUsWDdFm152IibNPBAZ5X2BDTLd1ug9SSMY6QGr5gw2ST1PgyuD9ibUatJ5c46ibQykOYnlZZohPIlUSqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Apache Spark是一个优秀的计算引擎，广泛应用于数据工程、机器学习等领域。向量化执行技术在不升级硬件的情况下，既可获得资源节省，又能加速作业执行。Gluten+Velox解决方案为Spark换</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443144&amp;idx=5&amp;sn=cb6e1d9bb1c6928f8a2e7d919e86f295&amp;chksm=bf50ecf7fffa111a8edf067cff7271c714871d8282a717a7f80d27f73b1301592e2b2be3b0d4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 21 Jun 2024 11:37:35 +0000</pubdate>
+      
+
     </item>
     <item>
       
