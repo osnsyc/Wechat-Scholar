@@ -52,40 +52,115 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[开源论文复现神器：45个顶会都在用的模型涨点方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKA4I72GEjAecfoKqNcVRhjME6qOQvDGzsIzMQicMdeGGhZjMmOCuftJXzobcvCQbNlIvfm66laxhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>分享一个顶会都在用的模型涨点方法：多尺度注意力。在CVPR2024、ICLR2024、TMM2023都有多篇基于多尺度注意力的改进创新。因为它的应用面真的很广：你可以用它来提升模型的泛化性、鲁棒性和效</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=1&amp;sn=b1e3dedb65cbb055169bc40cca4b678d&amp;chksm=bfba5d8aa885bafeaeafab7e12675291c4c616836890b848ce6bec88962b9942a281c4ac6200&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[解析 RLHF 微调三阶段]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLibibayNrHGUtMw9hxgwib80poW4IBF4icTicNPaxkiaTR7WLTTibuJKCiaBIKAbmXgWoUmKZmfuZvaRPNicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：暧暧内含光，中山大学 · 核工程与技术声明：本文只做分享，版权归原作者来源：青稞AI原文：https://zhuanlan.zhihu.com/p/646934197现在有很多效果卓越的基座语言</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=2&amp;sn=e769042a760488f93ef3717cdf77b649&amp;chksm=bf542eea8fd4e7c5d599864e7961b9c93a2083cf67f009a22627a3a71f86a12c1c73f0b8999b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[探讨 | 大模型在传统NLP任务的使用姿势]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kcic6OOuVSoQ9UeTyibKD76MNjlKUjYaD0AdRLQ8icKI2Tc5ZN7geWIrm2T02at9wTvnibw1Ln9Q8ATQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面今天给大家带来一篇震宇兄（@知乎邱震宇）探讨大模型技术在提升传统NLP类任务效果上的应用方式的文章，主要从文本分类任务出发。知乎：https://zhuanlan.zhihu.com/p/70</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=3&amp;sn=c80c9ff624ffd1f5c420880984082d99&amp;chksm=bf4c39bfcccc8efbac5624ecc22989976bbba9b050839b1de356e84cd8b486bcb24fcaf84f7f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[梳理一下MiniCPM]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465vmMOy49qO5fMicWz8iaXtGMB12lAHlx1bDia7Q31UYANFTK7oA3Q2IUN2GjqkF1GoSPJ7fg65BrGicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>MiniCPM是面壁智能和清华开源的模型，MiniCPM开源系列包括非embedding参数为1.2B和2.4B两个规模的模型，以及对应的MiniCPM-DPO，MiniCPM-MoE和MiniCPM</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=4&amp;sn=f68b7098b0c500b20ecf7035fbe35475&amp;chksm=bffd5d1d3ef6c24892d6f4db122df5d8cd38c1c29dfbc6101862ab04c67a5f726736737cb895&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Qwen2 介绍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HIKk7OFDjoTeK2fg6Le9p4ccn1cYdojkIfVeYia4kb1FuImAhL8030vSDJIFrDuHZicrkPm1mjaPgUq8ryN30Spw/300?wxtype=jpeg&amp;wxfrom=0"/><p>2024年6月7日 阿里发布了最新的Qwen2系列模型：https://qwenlm.github.io/zh/blog/qwen2/https://github.com/QwenLM/Qwen2已在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=5&amp;sn=b96d71051465be552a70ca69ced1fd62&amp;chksm=bf3dcd0cb27ea4706c473af9e7da7df0808969185a7c32aa0f62f67e7f5b2d2761676743dedc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[BOSS直聘笑了，打工人却慌了……]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLS11VSqx14hJpO5yDoricNRAESPprfVIsUBgWXNUEyqDJp1zENAbykarkavTpV96GPnj3ib8rOjcNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>BOSS直聘上已经没有BOSS了，因为BOSS也在找工作.....boss直聘今年第一季度新增用户4900万;财联社报道大量甲级写字楼空置率达到30%以上......大家期待的经济复苏，没有来。往年的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443196&amp;idx=1&amp;sn=427081a205fcb9d5e1785a3339e1ccd1&amp;chksm=bf221ce22b9f06039243f2a35f899506eb34ea3dadbc759b025028fcafb6d0b0c0fdc17dfab2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 24 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[详解LLM参数高效微调：从Adpter、PrefixTuning到LoRA]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLS11VSqx14hJpO5yDoricNR9QO3TLZvZdPpqtliajQIhBturgRrvkuwfFuAhiau3myibibYxOCcxhyuww/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：LeonYi，四川大学 计算机技术硕士声明：本文只做分享，版权归原作者来源：青稞AI原文：https://zhuanlan.zhihu.com/p/696057719一、背景1.1 Transf</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443196&amp;idx=2&amp;sn=94099e0e8237c9ea1d7a9531444068f7&amp;chksm=bfd849a872c9aa0a46abae781db65a30a5b9d63f174da5e1ec3132935ba846d57e7a703086b4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 24 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[SFR-Embedding-Mistral: 都来看看吧，大佬们把炼丹秘籍都坦白了。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpvB2Zia1wrKIL45Fgf4hNcjJvskkwvF34iaXflBXv77GacBwIROh6HlbHbH8FarMEv942yCgsjia3HqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲‍‍‍‍‍‍1 简介2 炼丹技巧    2.1 Multi-task training    2.2 Task-Homogenous Batching    2.3 Impact of Hard </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443196&amp;idx=3&amp;sn=9bb8cf5a7c30688d76e95052266d9c3e&amp;chksm=bff4133efd755f5aa12001e24af9a137d90849644307dd170296cfe15779e5b509b9b260baf3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 24 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[基于AutoGen的多Agent AI系统实践]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib6CE7ABo24JlKdtf2UUd2EaM2oI0QAjqnyfhlYEaNKwEtjnZTOtib7LZicyuTbojz7Pu1INowQ2gZ7g/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言简介示例1：脱口秀Agent系统单脱口秀Agent双人脱口秀Agent打印结果示例2：写作场景多Agent系统添加评论Agent定义多Agent编排多个Agent打印结果引言别院深深夏席清，石榴开</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443196&amp;idx=4&amp;sn=cc755bb9a1d12131d48476a0966c96a1&amp;chksm=bf229e600183eb7ae0752aaffd44cb7b39f4020138411f99def36e5ef00197ab4ae3628f20b4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 24 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大语言模型工具学习全面综述：背景、定义、范式、评估、趋势]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Eddk7AtcliaORhCFdxJbZwoLibicVa1NojEm1xvictp6Po0icEgQiadJc9wp4BAHDmoqSx5R933LJAuYtichYQTPL7Ffw/300?wxtype=jpeg&amp;wxfrom=0"/><p>近期，大型语言模型（LLMs）的工具学习已成为增强LLMs能力、解决高度复杂问题的一个有前景的范式。尽管这个领域得到了越来越多的关注和快速发展，但现有的文献仍然分散且缺乏系统性的组织，为新入门者设置了</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443196&amp;idx=5&amp;sn=d722b6d85102fa35465d75b4bd6e634b&amp;chksm=bfc776a63553694310d5c040c6d048e9a4bfb6a4e42cda7f7c1b8cd9ee4b487e279c152d2dc1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 24 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -484,86 +559,6 @@
       
 
       <pubdate>Wed, 19 Jun 2024 10:21:50 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LSTM又火了：xLSTM追平LLM新SOTA，LSTM-transformer混合架构荣登Nature]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIPTfm5Kdc8h7ygWj0ZLNqy38EbWibgzy1c7fq5jrw74NOEAGBfFpKCiaH1KicxzsbGicTP16hu5bgPWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年上半年，LSTM火了！LSTM原作者分别提出xLSTM和Vision-LSTM，解决了以往的局限性。同时，LSTM+Transformer登上Nature；LSTM+CNN、LSTM+Attent</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=1&amp;sn=5e881cc7d7a10da4381e324dcc8bd7e0&amp;chksm=bf26b3ddc657ed5a8e882b8eee8238d363d6c0f95ef2eed18908b75d9cb12fcea39de30d599a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[模型调优（RLHF/DPO/ORPO）终极指南]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJzORgQ0rkdiaLsSlgRWPGhRWoHy8t50gcmwW1wS9MJDzy3nzvaOWv2DIaMl4IEic0dssEIRSUuQEgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：FelixCoder，致力于分享我的编程经验原文：https://zhuanlan.zhihu.com/p/692594519前言虽然大规模的无监督语言模型（LMs）学习广泛的世界知识和一些推理</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=2&amp;sn=305eefdb4c20fa0b67d69be9045fb0a4&amp;chksm=bf651c5205aebc00e68242321d330cb5eecee21bdb633ff6d9f1e3d3322b9e9a9f76ece48cd7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从loss视角理解大模型涌现能力]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464zkN6dJr2zNWDOFNrfa8CPD4OYPStVKibFJ84K3KlmkwNvDz0RAo8xP9gkANzWmfeBm0hVuzQySiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>智谱在《Understanding Emergent Abilities of Language Models from the Loss Perspective》中提出一个观察大模型涌现能力的视角 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=3&amp;sn=721ae6d376b556a9e31f2a4e78609841&amp;chksm=bf2ab2931bcc9118a716f5335f539f4515623ab09cce550ceff22f0c437f81eebf8ecc3722a5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Text2SQL之Vanna优化]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/h4lbevcvkgyhb8WbReHb5MddHjdURWXUOzGTg96HeAfAbsIbP8khHXQib3BZ0wsDBAeunAFeE0VdpD86CvfhHZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言前阵子写了篇Text2SQL的简单介绍，发现其也是RAG只会，写下了Text2SQL之不装了，我也是RAG最近也一直在做Text2SQL的优化，于是把自己的一些心得，总结于这篇文章。一、优化方向既</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=4&amp;sn=8a6bc2291a26573f943d245bf6553378&amp;chksm=bf7235d2ee77f92716b16ace04d79c54b7ad10aa1cc99d8dd103dc314a1098466f3b26878253&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM】PISSA：一种高效的微调方法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGDyPfGLncJOtKrkjA4A2vBTCiawyicrKoRdWb5wOJaOVKZF5V62R2UicBMDDMRja294CtE9qnKqfNA9w/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言介绍PISSA前，先简单过一下LLMs微调经常采用的LoRA（Low-Rank Adaptation）微调的方法，LoRA 假设权重更新的过程中有一个较低的本征秩，对于预训练的权重参数矩阵，( 为</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443078&amp;idx=5&amp;sn=f35550d1a83eb40bd25b3438b7dd75ba&amp;chksm=bfdcea89eb66c3558399cdea10b4f1546056a588cbb2f07878b16c3f9ab7ace72bb02932c0d6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Jun 2024 02:09:22 +0000</pubdate>
       
 
     </item>
