@@ -35,17 +35,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[Mamba终结Transformer、Transformer力压RNN，浅谈我站Transformer的原因]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDiauzzV1Qg33C9jgXw0Dfyt65dKBE4F2qUWUMfZzgqsyBk1zd4qEClAsibT20bv12vtwSnFknibUnpwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近面试大厂算法&amp;开发岗，不仅让手写Transformer代码，甚至手撕BP算法，面试八股也是标配，总结了一下面试官必问的10个问题：解释多头注意力机制；简述常见注意力机制；介绍Transformer</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698247&amp;idx=1&amp;sn=0a5ba32f8690a0b238c97ad24803c873&amp;chksm=f23611b610d190b28500a4384aa4389be9be8f89aa5088bc172dd2a11d37f046be91b6253235&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 24 Jun 2024 10:59:29 +0000</pubdate>
+      <title><![CDATA[45个开源的多尺度注意力创新点，顶会都在用！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDiauzzV1Qg33C9jgXw0Dfyt6pVLuLhoSZsbASfQn9tsuzdOXLwiaZ4boYhVTA8SRbHqHKAwPYW12GEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>分享一个顶会都在用的模型涨点方法：多尺度注意力。在CVPR2024、ICLR2024、TMM2023都有多篇基于多尺度注意力的改进创新。因为它的应用面真的很广：你可以用它来提升模型的泛化性、鲁棒性和效</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698252&amp;idx=1&amp;sn=3b2c218f11f508bf3b5e72393829e944&amp;chksm=f2d207a8c3c2c8792a722032ce092dd0a9ba61cdba0d3f7ef94bae2da7bdfc88599db84bc1f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Jun 2024 12:56:37 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[视觉 AI 的「Foundation Model」，已经发展到哪一步？丨CVPR 2024 现场直击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/cNFA8C0uVPvmYWT2umEI8dcFlemq21OrjJAvoyJC46InDC7ruDmtLk8AR7VQy93efhVDKWvib2NLY3M1Gp3bC7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>CVPR 不再只是一个纯粹的学术会议，也是产业发展的嗅觉源。作者｜房晓楠编辑｜陈彩娴2024 年美国时间 6 月 17 日至 21 日，IEEE 国际计算机视觉与模式识别会议（CVPR）在美国西雅图召</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698247&amp;idx=2&amp;sn=e2124aebb0ac56546ccf5b483001caa1&amp;chksm=f224743d34d665770bbb86eaf82f4a5f040b23f1108fd1c20d5499701760b856caf291bc3c47&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[拳打开源SOTA脚踢商业闭源的LI-DiT是怎样炼成的？（商汤/MMLab/上海AI Lab）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icojhGksxPcuzzcs6IGgx9ulYhCMoicQnMA6YdoUjib7x7o8bNPlGpEaVwGWLA5Yo2luuxFxHdCSgNr3Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Bingqi Ma等   解读：AI生成未来   文章地址：https://arxiv.org/pdf/2406.11831今天和大家一起学习的这个工作展示的效果非常好，对提示的理解能力达到了新</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698252&amp;idx=2&amp;sn=03fb5f4a9b13c593797a2c51287987c0&amp;chksm=f2b69d3c98e13f98d0f3bc499e98a24c7dfd5bae7132f3d8c1018cb0d070da965bb4725c53d8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Jun 2024 12:56:37 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Mamba终结Transformer、Transformer力压RNN，浅谈我站Transformer的原因]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDiauzzV1Qg33C9jgXw0Dfyt65dKBE4F2qUWUMfZzgqsyBk1zd4qEClAsibT20bv12vtwSnFknibUnpwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近面试大厂算法&amp;开发岗，不仅让手写Transformer代码，甚至手撕BP算法，面试八股也是标配，总结了一下面试官必问的10个问题：解释多头注意力机制；简述常见注意力机制；介绍Transformer</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698247&amp;idx=1&amp;sn=0a5ba32f8690a0b238c97ad24803c873&amp;chksm=f23611b610d190b28500a4384aa4389be9be8f89aa5088bc172dd2a11d37f046be91b6253235&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 24 Jun 2024 10:59:29 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[视觉 AI 的「Foundation Model」，已经发展到哪一步？丨CVPR 2024 现场直击]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/cNFA8C0uVPvmYWT2umEI8dcFlemq21OrjJAvoyJC46InDC7ruDmtLk8AR7VQy93efhVDKWvib2NLY3M1Gp3bC7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>CVPR 不再只是一个纯粹的学术会议，也是产业发展的嗅觉源。作者｜房晓楠编辑｜陈彩娴2024 年美国时间 6 月 17 日至 21 日，IEEE 国际计算机视觉与模式识别会议（CVPR）在美国西雅图召</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698247&amp;idx=2&amp;sn=e2124aebb0ac56546ccf5b483001caa1&amp;chksm=f224743d34d665770bbb86eaf82f4a5f040b23f1108fd1c20d5499701760b856caf291bc3c47&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 24 Jun 2024 10:59:29 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -124,214 +158,6 @@
       
 
       <pubdate>Wed, 19 Jun 2024 09:54:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文吃透Transformer代码与应用【附226篇顶会论文】]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDiaddNzjlcF7Iu81COjIOnGKPsI4QudTYC5aUNDicb6DphO6DgDvzzXyR8m9icicFLa6aNQ6BDlEBibWiag/640?wxtype=jpeg&amp;wxfrom=0"/><p> 短短五年，Transformer就几乎颠覆了整个自然语言处理领域的研究范式，也促进了计算机视觉、计算生物学等领域的研究进展。面对所有想深度学习Transformer，尤其是在代码方面需要提高的同学们</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698169&amp;idx=1&amp;sn=dde77d03d2c3547212c4ffee28d5c903&amp;chksm=f20a877a62baf717ec5e4b267e759b88f8337ce87287b2e334db10ed830f48709729482bccba&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Jun 2024 12:21:12 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[YOLOv8魔改模块，放进YOLOv10直接起飞]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDiaddNzjlcF7Iu81COjIOnGKKx6SE1ATXgp33luXnNftvgsWO8OeFUcJiaRNYxVRfvJobwsa9PG3Gdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>清华刚刚开源的YOLOv10，全面优化了模型架构和后处理，大大减少了参数量、FLOPs和延迟，效率和准确率进一步提升，在多个模型规模上表现SOTA。自发布后，大家迫不及待测试效果，并将YOLOv8、v</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698165&amp;idx=1&amp;sn=45b6c680654f14b93289a6dfe1fd5583&amp;chksm=f25ecc6b3789c8bcb74b49bfdba1beb84ba91cc3fb4d5b49333553ba85a593870129a8b78313&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 17 Jun 2024 10:34:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[斩获 CVPR NTIRE 冠亚军，小红书如何提升短视频与直播体验质量？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/vxnkL2N86Is8DoibcZXu04p734K45ajBEjVxX4BIR63fgopoTgECYp3sXHbU7HdqG1SZoKAicpojnaPfon83Sp7g/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | 小红书技术REDtech近日，CVPR NTIRE 2024 Challenges[1] 各赛道相继公布比赛结果，小红书音视频架构团队图像算法组在两项重要竞赛中斩获冠、亚军。其中，他们主导参</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698165&amp;idx=2&amp;sn=cca461b1bb492017e2053d07243cdb7d&amp;chksm=f2cda7acb15eb08db8569ec62168276284f4e37902204d2fe0b3927699faa0425302bcccdbe0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 17 Jun 2024 10:34:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[揭秘神秘的种子：Adobe联合宾夕法尼亚大学发布文本到图像扩散模型大规模种子分析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icoia5BKdT54EvGcgBqTuiaTRQYibdEGibicg9B98qMyjaHkqX8GU2oQsy49ibtkHdSnIibMNiaJ2ZozxlQTgLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者：Lingzhi Zhang等    解读：AI生成未来         文章链接：https://arxiv.org/pdf/2405.14828最近</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698156&amp;idx=1&amp;sn=1906c4215ca8b9740d5e3ef06828000d&amp;chksm=f2bb2ecb56f34c29cac48f0be2e1db21ca6a05cf2a8674b6ef943d63e863952c8ad5a5207721&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 16 Jun 2024 14:15:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[单步图像生成！Adobe提出将Diffusion Models 蒸馏到 GANs中的新方法Difusion2GAN！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hcib3tqia6H5KhcNVCpiaAFr81Had0dQvhxAFSzPUeZT0qeuYjDfN5BIO2O9EuTrSW59eAdwEqx4vmqw2c4nZ30LQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源于AI妙妙房，作者妙妙房计算机视觉最新论文今日论文推荐论文名：Distilling Difusion Models intoConditional GA</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698156&amp;idx=2&amp;sn=1a23c7b1a7f0574d6007ad1595ac191a&amp;chksm=f246e89c15508733e13e8b0f1af1817bda445026cf6ad15e524a292391ffacba9f74e4b511e0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 16 Jun 2024 14:15:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DCNv4： 动态与稀疏操作的高效融合 | CVPR Highlight]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UBMGKFIQrzlaOmsEsL9ibD2m9omkYmbWDcCOfrG7XyqzibczEhNiaCaQpg3OYEY4uPYd3bOqAm0MwpnQwpwyY3JQw/640?wxtype=jpeg&amp;wxfrom=0"/><p> 论文：arxiv.org/pdf/2401.06197.pdf开源链接（点击“阅读原文”直达）：https://github.com/OpenGVLab/DCNv4在计算机视觉的研究征途上，我们团队</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698154&amp;idx=1&amp;sn=918010e942bb9481a11abe6dafdf9aff&amp;chksm=f27e05b7c8942df22a2882b9d8bc8ea64e55c6440f79e49337ee8662c2fb05f5784311d9d479&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 15 Jun 2024 15:10:56 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ICML'24｜LayerNorm OUT！华为诺亚提出SLAB：渐进重参数化 BN 的视觉Transformer]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfr5xYeRN5EXLWb3EicIyjmmUJ2rNRaq8TbIaS2S3lYj2VSicxrgrONPAx9t56uaQcBRJWiaSsaiaDzXiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 SLAB-Swin-S在ImageNet1k数据集上获得了83.6%的分类精度，相对Flatten-Swin-S在精度提升0.1%的情况</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698152&amp;idx=1&amp;sn=e39264e761b0bbbeb6042166fc33ae76&amp;chksm=f20e207372979bf18e79a06416a1c0cbc245d2dc3ac9a605de977f772ecd866c8eeddc7f4131&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 13 Jun 2024 14:09:53 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mamba联名Diffusion？DiM：无需微调，高分辨图像生成更高效！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpL4ibrtlY6nQNzeOg6DREeYQxUFJmFiabvNgtn5PUVPhfWZAyJnyicsmKR6O4cFJ34E4Gw1j1brDNFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者丨科技猛兽    编辑丨极市平台极市导读 本文提出了一种新的基于 Mamba 的扩散模型 DiM，用于高效的高分辨率图像生成。Mamba 本是用于处理一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698150&amp;idx=1&amp;sn=f7f4f4e45a61c99f8f2c33a35133170d&amp;chksm=f2d0f44cf3e8b96ceedbb1f54069ccd10504035918da229c0402f98402fcc2f2e80f37dc1dc3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 12 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[像俄罗斯方块一样生成视频！ 北大联合快手AI团队推出新框架VideoTetris实现跟随复杂指令的文生视频！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icohDpMvHibhK8Giand7vnahI9bGnpUq0Lk5iaHJVia0b8B00tK9lE3OB1Il1ZszxKkGwuDfxUYsIibqdjUA/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者：Ye Tian、 Ling Yang等    解读：AI生成未来                  Paper: https://arxiv.org/</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698150&amp;idx=2&amp;sn=994b89d25fce0f62dbf2dd354b594fe2&amp;chksm=f22b0f1e9de104c5e2d5c2cfb2e4194c6922112324015c5f4ed4245789e4901076247e6e2aaa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 12 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[行业大模型那些事儿]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDjVcdgO9L2SnEJK3GLp7d6MYQPBjkRdw3vT31J0KIib55N43dzawdHy0BxKysyNGd5D55dCXFt4ib9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今大模型席卷AI界，已经成为所有人工智能的从业者都要入局的领域。今天给大家梳理6个LLM热门方向。都是行业前沿与顶会大热，容易出idea，想冲顶会或者水paper都可以看一下。6个LLM热门方向（附</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698148&amp;idx=1&amp;sn=51ebd082d9522022dd9c9a0a4ce760c3&amp;chksm=f2076bdf90fc663187b6cac1c45376f0fb933f5ae0d5341b09d94948df8517195c17ee3ac186&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Jun 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mamba联名Diffusion？DiM：无需微调，高分辨图像生成更高效！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpL4ibrtlY6nQNzeOg6DREeYQxUFJmFiabvNgtn5PUVPhfWZAyJnyicsmKR6O4cFJ34E4Gw1j1brDNFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者丨科技猛兽  编辑丨极市平台极市导读 本文提出了一种新的基于 Mamba 的扩散模型 DiM，用于高效的高分辨率图像生成。Mamba 本是用于处理一维信</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698148&amp;idx=2&amp;sn=557d80014cabbbe31b5e73d6d373f741&amp;chksm=f25e047430cdf07a24d65376eac523810b83a48104ced8ac3afd35060e66f48f3742cacbd0cf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Jun 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Transformer和Mamba优势结合！Dimba：兼顾内存和效果的生图新框架]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icoh5zUotqAmvJNDXLQUalozJ5WwT713B4OxNtffOu3OuAQ5C1jY5cwicxEKicOCX6aqXnQWUI79bgZoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者：Zhengcong Fei等    解读：AI生成未来          论文链接：https://arxiv.org/pdf/2406.01159 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698146&amp;idx=1&amp;sn=a5eb0916af971d60e17c1713074fb262&amp;chksm=f247517211b19fb958147c2dd436c3cc0935ea1a67cc63570730b004d81754a3fcf4342b77f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 10 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[其实Mamba是一种线性注意力？清华大学黄高团队揭秘开视觉Mamba的真实面目！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpPcbDQs931x2wSkmBG3BgIaBqGDIH3bnChnBIOTjw0yian7iaVI64mYXNbe5kotibCDK506iaqNPtw8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者丨科技猛兽   编辑丨极市平台极市导读 本文揭示了 Mamba 模型与 Linear Attention Transformer 之间有着惊人的相似之处</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698146&amp;idx=2&amp;sn=ecb34de57e475c2865c04cdb3b95f9fc&amp;chksm=f25b23f817be61af8cdfa5fa63ac3616bf96023674fb54b150d991d20bd3afeda8cd1e64bd8a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 10 Jun 2024 14:00:00 +0000</pubdate>
       
 
     </item>
