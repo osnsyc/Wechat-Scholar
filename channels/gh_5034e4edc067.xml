@@ -53,34 +53,114 @@
 
 
     <item>
+      <title><![CDATA[无需人类标注！在环境交互中实现LLM的自我进化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIA1W521D3d1eUZQOGBDKA1ZZUxaEDXycgsxLY81SmvBHuugKdzIIUU3NuXvoicsiaf6sHlB5KYqtzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models论文地址：</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443269&amp;idx=1&amp;sn=d0cfd9ac4bbd16e0e4ec0313cfe210de&amp;chksm=bf2db3facedfcc25b588d093ef30a98ca36786522949d67681a87f38ede24c70094b7dbfaa37&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 26 Jun 2024 13:38:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[文末赠书 | 24岁提出图灵机，38岁定义机器智能，70年后重识图灵，人工智能之父的传奇人生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIA1W521D3d1eUZQOGBDKA1u7cuf7VibTcGsJwtboQO0EjGWHoCylcw4facUVScibGK6o9xtTBEUShg/300?wxtype=jpeg&amp;wxfrom=0"/><p>“Sometimes it is the people who no one imagines anything of who do the things that no one can imagin</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443269&amp;idx=2&amp;sn=d5260cb1f9805a527fdca8c0dba7a736&amp;chksm=bfb31bf60d5b0dac7ef89dd6cc2ed412c9a35b1b52695e0bf7b24c8c5db4073dc8ef027a109c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 26 Jun 2024 13:38:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[RoPE的远距离衰减]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW4679JTaaic8JeQ9vIJWaa0ibc1hkIP2sfZ3zDTPjC3MIvQicGJugybnGAicgOYDFR8tPiaRpUtQRaN6nohQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>有朋友问到了关于RoPE远距离衰减的问题，这里给出几个示例，提供一个直观理解的视角。之前对RoPE的梳理参考 理解LLM位置编‍码:RoPE。1.公式回顾一下RoPE的实现。RoPE通过在q和k上分别</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443269&amp;idx=3&amp;sn=cc73685229140fe3f46b016719738ec6&amp;chksm=bf280f675bcb5ba64b31e34e0ecc9ce829eb1db9c4e8f64dd750a758636004e9a7b740934e71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 26 Jun 2024 13:38:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型面试之MoE高频问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDBtI8xU7iaZibGqQEZwaQ0HZ3QIsTkfFs0rYV2nlicwnJJArvZbRrETzucS3LAicF9n6b32lkXzChZU0Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>MoE原理回顾MoE 是用稀疏 MoE 层替换前馈层。这些层包含一定数量的专家（例如 8 个），每个专家都是一个神经网络（通常是 FFN）。然后，路由器/门网络负责选择要使用的专家。MoE 的一个显著</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443269&amp;idx=4&amp;sn=2c44520e8be9e9802f4690854645dcda&amp;chksm=bf184abb03f9e6525c84cda9b744e5390bad8ab26bae9106be2ce6854252588736fe29006b12&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 26 Jun 2024 13:38:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Meta生成式推荐模型GRs关键问题探讨]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/TnZw73HawgmbOTibiaOFCHtZ51pWJd5iaWU0KqEd4BvMia4p7ibujfINRPOzqicE8ZmnHpsaLrdutzojUSr5KQUYz3lQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>此前我们解读过Meta生成式推荐新作: 行动胜过言语: Meta落地工业界首个万亿级别参数的生成式推荐系统模型，整体工作很棒，但有一些关键问题没有交代特别清楚。在和作者交流的过程中了解到不少信息，同时</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443269&amp;idx=5&amp;sn=144aaf27301fe00b5bf5ee2898896a1c&amp;chksm=bf903272ab4e999cfac48275fc656df769bbbe21adeed4b322c77a24c1955764424d26cbdb30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 26 Jun 2024 13:38:43 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[开源论文复现神器：45个顶会都在用的模型涨点方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKA4I72GEjAecfoKqNcVRhjME6qOQvDGzsIzMQicMdeGGhZjMmOCuftJXzobcvCQbNlIvfm66laxhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>分享一个顶会都在用的模型涨点方法：多尺度注意力。在CVPR2024、ICLR2024、TMM2023都有多篇基于多尺度注意力的改进创新。因为它的应用面真的很广：你可以用它来提升模型的泛化性、鲁棒性和效</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=1&amp;sn=b1e3dedb65cbb055169bc40cca4b678d&amp;chksm=bfba5d8aa885bafeaeafab7e12675291c4c616836890b848ce6bec88962b9942a281c4ac6200&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[解析 RLHF 微调三阶段]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLibibayNrHGUtMw9hxgwib80poW4IBF4icTicNPaxkiaTR7WLTTibuJKCiaBIKAbmXgWoUmKZmfuZvaRPNicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：暧暧内含光，中山大学 · 核工程与技术声明：本文只做分享，版权归原作者来源：青稞AI原文：https://zhuanlan.zhihu.com/p/646934197现在有很多效果卓越的基座语言</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=2&amp;sn=e769042a760488f93ef3717cdf77b649&amp;chksm=bf542eea8fd4e7c5d599864e7961b9c93a2083cf67f009a22627a3a71f86a12c1c73f0b8999b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[探讨 | 大模型在传统NLP任务的使用姿势]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kcic6OOuVSoQ9UeTyibKD76MNjlKUjYaD0AdRLQ8icKI2Tc5ZN7geWIrm2T02at9wTvnibw1Ln9Q8ATQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面今天给大家带来一篇震宇兄（@知乎邱震宇）探讨大模型技术在提升传统NLP类任务效果上的应用方式的文章，主要从文本分类任务出发。知乎：https://zhuanlan.zhihu.com/p/70</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=3&amp;sn=c80c9ff624ffd1f5c420880984082d99&amp;chksm=bf4c39bfcccc8efbac5624ecc22989976bbba9b050839b1de356e84cd8b486bcb24fcaf84f7f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[梳理一下MiniCPM]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465vmMOy49qO5fMicWz8iaXtGMB12lAHlx1bDia7Q31UYANFTK7oA3Q2IUN2GjqkF1GoSPJ7fg65BrGicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>MiniCPM是面壁智能和清华开源的模型，MiniCPM开源系列包括非embedding参数为1.2B和2.4B两个规模的模型，以及对应的MiniCPM-DPO，MiniCPM-MoE和MiniCPM</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=4&amp;sn=f68b7098b0c500b20ecf7035fbe35475&amp;chksm=bffd5d1d3ef6c24892d6f4db122df5d8cd38c1c29dfbc6101862ab04c67a5f726736737cb895&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Qwen2 介绍]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HIKk7OFDjoTeK2fg6Le9p4ccn1cYdojkIfVeYia4kb1FuImAhL8030vSDJIFrDuHZicrkPm1mjaPgUq8ryN30Spw/300?wxtype=jpeg&amp;wxfrom=0"/><p>2024年6月7日 阿里发布了最新的Qwen2系列模型：https://qwenlm.github.io/zh/blog/qwen2/https://github.com/QwenLM/Qwen2已在</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=5&amp;sn=b96d71051465be552a70ca69ced1fd62&amp;chksm=bf3dcd0cb27ea4706c473af9e7da7df0808969185a7c32aa0f62f67e7f5b2d2761676743dedc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -479,86 +559,6 @@
       
 
       <pubdate>Thu, 20 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Gemini大考终于赢了GPT-4o！Jeff Dean连续转发三次！Video-MME首个视频多模态基准来了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLKeMfIzI8ARAQ9lUXlnWvQuO09jcFT5uusor08k2fiaAk4D8Hd7kD6MkwhOMicINbdibuIKVRYT6Xnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，中科大、厦大、港中文等高校联合推出多模态大模型视频分析综合评估基准Video-MME，全面评估多模态大模型的综合视频理解能力，填补了这一领域的空白。Gemini 1.5 Pro在这份榜单中遥遥领</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443106&amp;idx=1&amp;sn=95768902fa4d2b71a0cbf5b701607dec&amp;chksm=bf806b9a3f82efe52a5c0512cfb1989efb4dade6f6f9f2e24e175ad7519f8a1983d47be0f370&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Jun 2024 10:21:50 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[聊一聊大模型应用落地那些事]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLKeMfIzI8ARAQ9lUXlnWvQVrE3V04uMlchTKNgxPoyeDrjJPic9Yne3ZODK3OmBibR2JyUq1cS6REQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：混沌福王，专注于 web 前端技术和通用软件架构、代码整洁、研发效能、复杂性系统 。主页：http://www.imwangfu.com声明：本文只做分享，版权归原作者原文：https://zh</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443106&amp;idx=2&amp;sn=c9483e5d1085eba2bc1dbc3979e2dfb9&amp;chksm=bf9e577335849008e7982a3225a9b0c17292373e3a3a1c389e67eea56dd002d390e9314b50cd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Jun 2024 10:21:50 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM的重复生成和ICL]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464hE3O3kjib0ecqro2vKP6djQvgPrxODEEl9CeAfoOqFPlysItBzvlZuAkZE1iagWxjvMomX4kjvzicw/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM的重复生成问题，俗称复读机问题。对于这个问题的研究很多都和in-context learning相关。1.背景在目前这个时间点，其实已经很少会遇到字符级别的重复生成问题。自ChatGPT发布以来</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443106&amp;idx=3&amp;sn=c712434587e7952de7a6e044a4591b1a&amp;chksm=bfeb77ee2fb1f39992049a2227586f9557b4af2d9a32ff17f35a53fe963f3d1f9b7f0c486988&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Jun 2024 10:21:50 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[将强化学习重新引入 RLHF]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2qS3reQqUpolwqaCk04rzkHCgw3RdVl09Hn0PU1WqYmCfNm7kaseJI0RZz9YA7vG06XAAa4ztYn4g/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们很高兴在 TRL 中介绍 RLOO (REINFORCE Leave One-Out) 训练器。作为一种替代 PPO 的方法，RLOO 是一种新的在线 RLHF 训练算法，旨在使其更易于访问和实施</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443106&amp;idx=4&amp;sn=40dae13ec54af9e24fce455fb0d83075&amp;chksm=bfbaea40b31cc49e7eb1bfb7708c5e8dc51bb14a67b55a90d7b2fc5d3028a4fa156014bcc09e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Jun 2024 10:21:50 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【京东】数据/爬虫实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLKeMfIzI8ARAQ9lUXlnWvQ48Co5bDbtEPJ7PdLzw7Qia0Aj50Vh4ia6OWibCnqlfbkGoRXqTQqjvmVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>【京东】数据/爬虫实习生（北京）【岗位描述】1、负责爬虫工具的设计、开发与优化2、负责爬虫策略算法的更新维护、确保高效、持续的数据爬取能力3、负责文本、视频等模态数据的预处理等工作【岗位要求】1、有爬</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443106&amp;idx=5&amp;sn=cec0b0493efe951670dbf26550fef255&amp;chksm=bf75d66bbb0d7c4f2d6443a41b29551f7afa672c4aebf4c7bfaaab561c816a7f65085c505cee&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Jun 2024 10:21:50 +0000</pubdate>
       
 
     </item>
