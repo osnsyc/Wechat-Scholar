@@ -74,54 +74,184 @@
 
 
     <item>
-      <title><![CDATA[基于大型语言模型的AI聊天机器人的完整综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1LYCfo1nD7wUzfjJBgdKqUSlNnowZnfBQAG7LPrZhGZuPncnbEHtUvPoOnPUakMH7FkXg6skeqWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去几十年里，数据量激增，为依赖数据的学习型AI技术奠定了基础。对话代理（通常称为AI聊天机器人）在很大程度上依赖这些数据来训练大型语言模型（LLM），并在响应用户提示时生成新的内容（知识）。随着Op</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=1&amp;sn=e8548ce094fe6d968e35b3cc466f5048&amp;chksm=fd64b3b0267b3db0d9111a917341d4f51e61ead69b678fe9d0385e5aa29b1086507ab13ea603&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[MIT等最新《负责任大模型开发》手册，56页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1V50rolUUq2kThLfHdia3icCMF48trPsU9ys5pOoCtFmz4jbv0mtpibcKMwUCRp4S1ibXtUEHORnEwrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着人工智能（AI）能力（Üstün等, 2024；Team等, 2023；Gomez, 2024；Anthropic, 2024a；Radford等, 2023；Brooks等, 2024）和市场前</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653243&amp;idx=1&amp;sn=19957ffeca725a544403cb27b1036f6c&amp;chksm=fda081e959913ef578d92ce2ad5209912957ac75e8db98e7345271ef5c301bec876c2dbbe46d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 28 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】《从头开始构建大型语言模型》，281页pdf，Sebastian Raschka ，代码已开源]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1k3icqxYaRdDrvg27l2btkE8iaBSQYc3bmcPNUu2BkJO3KYAQCAprcFaCIfm5kUaGnRMziauOc2UHibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部自 ChatGPT 发布以来，大型语言模型（LLM）已经成为推动人工智能发展的关键技术。近期，机器学习和 AI 研究员、畅销书《Python 机器学习》作者 Sebastia</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=2&amp;sn=4544f0c8aa7647754cb8bb301f9d3d9e&amp;chksm=fdbaf4d2e939625f844e8b1f26639238ab1ee40cd49cfe69cde5e187632f62287dcf106983b0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[【牛津大学博士论文】深度学习算法的渐近分析，186页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1V50rolUUq2kThLfHdia3icCmCc2S2PShQwFD6nict5KKNVh0lRbdzI18PKXmss8f5mFV48e8pfOD4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们研究了深度残差网络在层数增加时的渐近性质。首先，我们展示了训练权重的缩放机制，这与神经ODE文献中隐含假设的缩放机制显著不同。我们研究了在这些缩放机制下隐藏状态动态的收敛性，表明可以得到常微分方程</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653243&amp;idx=2&amp;sn=26cdda05ab97244744c6f95270a8d4fa&amp;chksm=fdd6034cac55c270ad37a6b9580a379505eb5da76f842e590f6ea6fcaf6c56499f158de9f16c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 28 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[[ICML2024] Spotlight|DAT：通过交互式注意力实现统一的多粒度文本检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZCA5VES1atAx9k5ibQdpzWmFfwKibzg9tc2WF427eFp5hcDtU1VGfM92QehzeAza28x3Cymk6svf8MAdoOo92wfQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文简要介绍ICML 2024 Spotlight论文 “Towards Unified
-Multi-granularity Text Detection with Interactive Atten</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=3&amp;sn=4cb71a1bd36234add0b080fc5cca65e4&amp;chksm=fd7b25e64ac1bf26854a668b75705d70d58bfeb1f61247f378d0647b6c91637331903b343815&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[《联合作战：战争的永恒特征》53页]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1V50rolUUq2kThLfHdia3icCJmD1oQITZasSm9s7zWTEaVMSvTSYPJkPXj5yulVvANto1xyFKib66IA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文旨在确定多域作战环境（MDOE）下联合兵种机动的性质。随着美国陆军将其当前的作战概念从统一陆地作战更新为多域作战，美军必须为赢得下一场近距离战斗做好准备。联合兵种机动将如何发展才能在 MDOE 中</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653243&amp;idx=3&amp;sn=6ae5f9012ddcf38df904441e63341752&amp;chksm=fd822f75d8f9f1f26de4145beb67fd478f0b58434b06b5c5a9724c3339c33dd0dc504adcc965&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 28 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[塑造未来国防的技术]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSCqADDQ1ovFsbRrGtlHVLlXHaibKQQuao9WnLrqP1852Snxv4pok7Hwvic1TAic5RThQaLeRA85IdPQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>导言：未来国防技术的变革格局在人工智能、量子计算和机器人战车等突破性创新技术的推动下，21 世纪的国防技术格局正在发生翻天覆地的变化。这些进步正在重塑国防工业，强调了持续创新以应对不断变化的威胁的必要</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=4&amp;sn=95bd636971c410f13c768ff725b676ab&amp;chksm=fd6c95a2bd86c2eaaad348c4034740ccd335256e71a9344bc61f0e2743606ef19dfdb333361a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[ICML 2024 | 揭示非线形Transformer在上下文学习中学习和泛化的机制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1V50rolUUq2kThLfHdia3icCKfmVWC4hx609E0SjvXCqCSNa0O8micjgsdJ8AwQC1icOKvQiaFEmU29Kw/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心：本文作者李宏康，美国伦斯勒理工大学电气、计算机与系统工程系在读博士生，本科毕业于中国科学技术大学。研究方向包括深度学习理论，大语言模型理论，统计机器学习等等。目前已在 ICLR/ICML</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653243&amp;idx=4&amp;sn=f196b120c83d8b9f09d8528d1f0fd3dc&amp;chksm=fd57e5dc57ba79d8c2baa57984fd05aa6dbb14cbb51dfce0bfbaa4dbd1da1aef8b84dc3cb14c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 28 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[美军军事仿真LVC系统发展与启示]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1LYCfo1nD7wUzfjJBgdKqUDNZdcOtoz9KEcoXOomZjQ1o9L6jBqrF2ibSksRoGB8mX3KYoIyKBEzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>针对当前多军兵种联合作战实战化训练的需求，建模和仿真领域的未来目标是创建统一的真实－虚拟－构造
-（ＬＶＣ）集成架构，支持快速集成模型和开展仿真，用于联合作战训练、战术协同、拟制作战计划和评估等。 通过</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=5&amp;sn=e2e46ad516f137bc58914d2960a9d412&amp;chksm=fdc0d86a7e19de5ad3366a005efb19510d398365d9ab1d73dc70a579e2e6e5f0a7d2a97cc871&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[2024年中国大语言模型能力评析（一）：评测方法论与综合评测结果-AI变革行业创新发展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1V50rolUUq2kThLfHdia3icCVibicicicZKOoqFHibjskZibPXqETsslqFd5ibV5CvmsmNzwUfBiawFCr0YRww/300?wxtype=jpeg&amp;wxfrom=0"/><p>从用户实际使用角度出发，归总出五大一级评测维度，以构建全面科学的评估体系　　本次大语言模型评测以用户使用体验和实际使用价值为基准，综合考量知识能力、语言能力、道德风险、行业能力及综合能力五大核心一级维</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653243&amp;idx=5&amp;sn=827ee334e6bc75082329d8ac42f643fc&amp;chksm=fd68f5222dda31c13a33404b04784016c9910bb63115bbaf82d5a0684e0da59a5118bfb6bcb3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 28 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[2024年中国AIGC行业应用价值研究报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1LYCfo1nD7wUzfjJBgdKqUL6u015TGfNNmUPFLfrtJhicZqIQ3sAUQRUiclT9I4qmVicAwiaNiaeHtvlQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>6月24日，中国科技产业智库甲子光年正式发布了《2024年中国AIGC行业应用价值研究报告》，旨在探讨AIGC的价值与产品力，展示近期的突破及商业实践范式，对未来行业的趋势进行研判。拓尔思凭借拓天大模</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=6&amp;sn=929971e16ec3b9f2be0437e2ee311aea&amp;chksm=fd04752fcdc1d74dbf4f1c402e8da04c37ac49fda27772aa9842e4b30f272aa45c0ffa4b5d37&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[从计算理论看语言模型的scaling law和多模态模型的发展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/7c7dMaAU1HjmC95IdKInXPSGcJjrVxls7FywibUiaIFaBibWgXREwoh1iaJAAick9p7Yy6UpSAufoR8yKNicjg4K1rIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言《人工智能简史》的作者尼克老师最近写了两篇科普文章“所罗门诺夫：大语言模型的先知”[1]和“无心插柳：苏联数学家柯尔莫哥洛夫与神经网络的新生”[2]，让人们重新开始思考计算理论与大模型实践的关系。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653243&amp;idx=6&amp;sn=bf86b1f642b6487a264e5dffa48c1241&amp;chksm=fd481b0d471af73cc1507d509a2600d144f83c35d1deaa7772ab41b512c488cce8720becfbff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 28 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[SIGGRAPH 2024奖项出炉，英伟达摘两篇最佳论文、浙大周昆获时间检验奖]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1LYCfo1nD7wUzfjJBgdKqU72j8dnfUntBtO39CjU4Qx6qJoPYibia0FeBhYYRXbpxEWLARjgdomFbg/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心编辑：杜伟、小舟今日，图形学领域最具权威的和影响力的国际顶会 ACM SIGGRAPH 发布了本年度的最佳论文、荣誉提名和时间检验奖。自 50 年前举办第一次会议以来， Technical</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=7&amp;sn=31257db22d182a69b6e13c78cd3f91e4&amp;chksm=fdc9e8d65db86f9a432e783d1a056cf6b8bea09375e6a1a18acb011e1bf17a320a03968a49c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】构建用于生产的LLM：通过提示、微调和RAG提升LLM的能力和可靠性，567页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1V50rolUUq2kThLfHdia3icCAL13q0fHGmfKdBYs6a95GLcres4nnGeV5gkJRRGG0aSpL3WUv28yNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>“这是迄今为止关于构建LLM应用程序最全面的教科书——涵盖了AI工程师工具包中的所有重要主题。”
+——Jerry Liu，LlamaIndex联合创始人兼首席执行官摘要
+在行业领袖的惊人反馈下，这本书</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653243&amp;idx=7&amp;sn=4e6e61b457e7c5245c6579f8b0dbf850&amp;chksm=fdacf3d389bcbbce7d6b0addfed0056af8cad633112ea4c6489442abf6a1f960391325685251&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 28 Jun 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=8&amp;sn=ce6dc6d87b03fc7e2d79b8fefdcb20fe&amp;chksm=fd20c13e0af247bb8b0c3a58b4945aedf29c86017c5963337c35f7ac23e0516ef7b564877808&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653243&amp;idx=8&amp;sn=6f14b2a6562fb3b4dc059faa75f2f31a&amp;chksm=fdd940f04b6d4ccee6f7f7553fb56d88d799edaf988411beda591e27bc55dfa8ee69ace347da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 28 Jun 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[基于大型语言模型的AI聊天机器人的完整综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1LYCfo1nD7wUzfjJBgdKqUSlNnowZnfBQAG7LPrZhGZuPncnbEHtUvPoOnPUakMH7FkXg6skeqWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去几十年里，数据量激增，为依赖数据的学习型AI技术奠定了基础。对话代理（通常称为AI聊天机器人）在很大程度上依赖这些数据来训练大型语言模型（LLM），并在响应用户提示时生成新的内容（知识）。随着Op</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=1&amp;sn=e8548ce094fe6d968e35b3cc466f5048&amp;chksm=fd64b3b0267b3db0d9111a917341d4f51e61ead69b678fe9d0385e5aa29b1086507ab13ea603&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】《从头开始构建大型语言模型》，281页pdf，Sebastian Raschka ，代码已开源]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1k3icqxYaRdDrvg27l2btkE8iaBSQYc3bmcPNUu2BkJO3KYAQCAprcFaCIfm5kUaGnRMziauOc2UHibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部自 ChatGPT 发布以来，大型语言模型（LLM）已经成为推动人工智能发展的关键技术。近期，机器学习和 AI 研究员、畅销书《Python 机器学习》作者 Sebastia</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=2&amp;sn=4544f0c8aa7647754cb8bb301f9d3d9e&amp;chksm=fdbaf4d2e939625f844e8b1f26639238ab1ee40cd49cfe69cde5e187632f62287dcf106983b0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[[ICML2024] Spotlight|DAT：通过交互式注意力实现统一的多粒度文本检测]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZCA5VES1atAx9k5ibQdpzWmFfwKibzg9tc2WF427eFp5hcDtU1VGfM92QehzeAza28x3Cymk6svf8MAdoOo92wfQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文简要介绍ICML 2024 Spotlight论文 “Towards Unified
+Multi-granularity Text Detection with Interactive Atten</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=3&amp;sn=4cb71a1bd36234add0b080fc5cca65e4&amp;chksm=fd7b25e64ac1bf26854a668b75705d70d58bfeb1f61247f378d0647b6c91637331903b343815&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[塑造未来国防的技术]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSCqADDQ1ovFsbRrGtlHVLlXHaibKQQuao9WnLrqP1852Snxv4pok7Hwvic1TAic5RThQaLeRA85IdPQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>导言：未来国防技术的变革格局在人工智能、量子计算和机器人战车等突破性创新技术的推动下，21 世纪的国防技术格局正在发生翻天覆地的变化。这些进步正在重塑国防工业，强调了持续创新以应对不断变化的威胁的必要</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=4&amp;sn=95bd636971c410f13c768ff725b676ab&amp;chksm=fd6c95a2bd86c2eaaad348c4034740ccd335256e71a9344bc61f0e2743606ef19dfdb333361a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[美军军事仿真LVC系统发展与启示]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1LYCfo1nD7wUzfjJBgdKqUDNZdcOtoz9KEcoXOomZjQ1o9L6jBqrF2ibSksRoGB8mX3KYoIyKBEzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>针对当前多军兵种联合作战实战化训练的需求，建模和仿真领域的未来目标是创建统一的真实－虚拟－构造
+（ＬＶＣ）集成架构，支持快速集成模型和开展仿真，用于联合作战训练、战术协同、拟制作战计划和评估等。 通过</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=5&amp;sn=e2e46ad516f137bc58914d2960a9d412&amp;chksm=fdc0d86a7e19de5ad3366a005efb19510d398365d9ab1d73dc70a579e2e6e5f0a7d2a97cc871&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024年中国AIGC行业应用价值研究报告]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1LYCfo1nD7wUzfjJBgdKqUL6u015TGfNNmUPFLfrtJhicZqIQ3sAUQRUiclT9I4qmVicAwiaNiaeHtvlQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>6月24日，中国科技产业智库甲子光年正式发布了《2024年中国AIGC行业应用价值研究报告》，旨在探讨AIGC的价值与产品力，展示近期的突破及商业实践范式，对未来行业的趋势进行研判。拓尔思凭借拓天大模</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=6&amp;sn=929971e16ec3b9f2be0437e2ee311aea&amp;chksm=fd04752fcdc1d74dbf4f1c402e8da04c37ac49fda27772aa9842e4b30f272aa45c0ffa4b5d37&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[SIGGRAPH 2024奖项出炉，英伟达摘两篇最佳论文、浙大周昆获时间检验奖]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1LYCfo1nD7wUzfjJBgdKqU72j8dnfUntBtO39CjU4Qx6qJoPYibia0FeBhYYRXbpxEWLARjgdomFbg/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心编辑：杜伟、小舟今日，图形学领域最具权威的和影响力的国际顶会 ACM SIGGRAPH 发布了本年度的最佳论文、荣誉提名和时间检验奖。自 50 年前举办第一次会议以来， Technical</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=7&amp;sn=31257db22d182a69b6e13c78cd3f91e4&amp;chksm=fdc9e8d65db86f9a432e783d1a056cf6b8bea09375e6a1a18acb011e1bf17a320a03968a49c3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247653166&amp;idx=8&amp;sn=ce6dc6d87b03fc7e2d79b8fefdcb20fe&amp;chksm=fd20c13e0af247bb8b0c3a58b4945aedf29c86017c5963337c35f7ac23e0516ef7b564877808&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 27 Jun 2024 09:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -764,134 +894,6 @@ Multi-granularity Text Detection with Interactive Atten</p> ]]></description>
       
 
       <pubdate>Sat, 22 Jun 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型如何用于金融？普林斯顿《大规模语言模型在金融应用中的综述：进展、前景与挑战》]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw31ccVU3bI1MxoUuB2OlGt1p1vO1rHDHyaMje22uxD6RMBOnR6iaZdrT5VyibXDCS7olUJ5Bm8UwUZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大规模语言模型（LLMs）的最新进展为金融领域的机器学习应用开辟了新的机遇。这些模型在理解上下文、处理海量数据以及生成符合人类偏好的内容方面表现出卓越的能力。在这篇综述中，我们探讨了LLMs在各种金融</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247652779&amp;idx=1&amp;sn=cad89e415bcb79f59c264b07767b0975&amp;chksm=fdecbcb283194e098f30a5e9d4bfb0f70ac195e69336a6192cff956cf989b9f20ebd942070db&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Jun 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CVPR2024教程】推理的鲁棒性：走向可解释性、不确定性和可干预性，169页ppt]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw31ccVU3bI1MxoUuB2OlGt1IvkLMpvrnugDmaZIOmmLcGxIjaRKhR8BxZaCSnPMt6uzpYHKV7rYgg/300?wxtype=jpeg&amp;wxfrom=0"/><p>神经网络提供了具有普遍适用性和任务独立性的表示空间，这些表示空间在图像理解应用中得到了广泛应用。图像数据中特征交互的复杂语义已被分解为一组非线性函数、卷积参数、注意力机制以及多模态输入等。这些操作的复</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247652779&amp;idx=2&amp;sn=740b64a2d58ae197c739f0b95b3d6a07&amp;chksm=fdb1c14a902bc7ab17c703629dc4ba985e69d315a8253b3e17c1a892c0f55378075fa2265df6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Jun 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CVPR2024教程】新加坡国立等最新《边缘AI实战：开发和部署优化模型的实用方法》教程，附274页ppt]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw01N7o11s0jla68ITticicvia6u2gibGNAWvtR4bvTFqc4lMeOCvEFyWFV4XTOYuUNZBiaGK1PxiaicgBj3w/300?wxtype=jpeg&amp;wxfrom=0"/><p>6 月 17 日至 21 日，计算机视觉领域顶级盛会之一国际计算机视觉与模式识别会议（CVPR 2024）将在加拿大温哥华举行。CVPR（Computer Vision and Pattern Rec</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247652779&amp;idx=3&amp;sn=1809ca560db47f4f8bd21809f897a9f2&amp;chksm=fd5d256d561339d2a0ab1a7f35e515f9604b2170c8b2f2d90485fd16e3817131a480a7bcc58d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Jun 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACL2024 | IEPILE:大规模基于Schema的信息抽取语料库]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcOjtg8Neh0ZsyoWOia4OtiaaSPSTAQR01ZyTyicuJxz43iaPEYcqCweXctzibYibMXE3icl54Wib0e6HbKUiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus本文作者：桂鸿浩（浙江大学、蚂蚁集团）、袁琳</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247652779&amp;idx=4&amp;sn=7f6ce07b87529c7a8ae57efcad69977b&amp;chksm=fd83c913b7cdc10379493ce0655d06b16adf8850f00692ffbe9f3efb1fb4550e2ee61bcddef8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Jun 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CVPR2024教程】微软等最新《视觉基础模型进展》教程]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw31ccVU3bI1MxoUuB2OlGt1XzFWmuVz0nombY6qOU8ibTkAZZcwzhhdZBNubmNicpan2Tjy7NRV5S1Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>6 月 17 日至 21 日，计算机视觉领域顶级盛会之一国际计算机视觉与模式识别会议（CVPR 2024）将在加拿大温哥华举行。CVPR（Computer Vision and Pattern Rec</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247652779&amp;idx=5&amp;sn=09160474035029bf368891fd35301076&amp;chksm=fd1fff6dd5a6315ae9c84e07c4dd8b36dc73fcfa3fa98bbaf05398eb12e7aefe22c541aa3363&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Jun 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《中美俄大国军用机器人》]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw31ccVU3bI1MxoUuB2OlGt1Mmov3ick7dTK7ichrt08buGVtAQBFw61w6Dlus7aib3Dr8hj3S5G5CyOQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>军用机器人技术是现代和未来战争的核心技术。该领域的进步与人工智能（AI）、量子计算和大数据等新兴和颠覆性技术（EDT）的发展以及民用领域的突破密切相关。军用机器人是可以根据算法执行自动化、自动或自主行</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247652779&amp;idx=6&amp;sn=ef4cdfe5e8333d3058be4e17bf828834&amp;chksm=fd43c2be1b45c6eec19b2321a32091743ebcbb0e15726ffc250a089e04bbec0ffe28d993bfaf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Jun 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[开放世界物体识别与检测系统：现状、挑战与展望]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw31ccVU3bI1MxoUuB2OlGt1Mb7txXV8RNicSePeAxiaIAkc9c85uIZMkDaibCamo0FcJUcKldgiajckXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>探究了从封闭环境到开放世界环境的转变及其对视觉感知（集中于物体识别和检测）与深度学习领域的影响. 在开放世界环境中，系统软件需适应不断变化的环境和需求，这为深度学习方法带来新挑战. 特别是，开放世界视</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247652779&amp;idx=7&amp;sn=92140501a56e9559d12ffba380c92e5a&amp;chksm=fd1ca93b53839026fa95afd57c771d4fdad2089eff2551b6dc1b51f14e31985cca7828a6f281&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Jun 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247652779&amp;idx=8&amp;sn=f0d0d731a2a16a262559a3a3afb56330&amp;chksm=fdbac2457d852795e1bcd2d70091e276fef99d02cf9f20a7bcba3b304deeb61f6126c8b771ff&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Jun 2024 06:00:00 +0000</pubdate>
       
 
     </item>
