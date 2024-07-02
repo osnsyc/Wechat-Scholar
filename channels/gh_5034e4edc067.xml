@@ -37,55 +37,115 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[多模态大模型，彻底爆发了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIN3EPicAEiay4NMTKLS5LmMlVhbxdeialTPB6YU5AqeAfoXkQWdux0Z3nL952jlticKEyvKBSaundoog/640?wxtype=jpeg&amp;wxfrom=0"/><p>自从ChatGPT和其他大语言模型的出现，人工智能领域发生了巨大变革，尤其是视觉语言多模态大模型的研究和应用。（文末有顶会idea分享）这次我将重要的多模态大模型资料包括670篇多模态大模型论文、14</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443346&amp;idx=1&amp;sn=f2a84c47b26c70dce11b6eca26f27da4&amp;chksm=bfe57433dae36516a124e79449e960913e1565a0989fbb8f1db8bdb8cba237a67cc2f2ee8a19&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 02 Jul 2024 02:09:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型训练十戒]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwh5Oh4u8kQEV0Q7GBicSdkwOl08M4a3GKJG5fIw99YztD05JIW2XY9QibLCGWo5BCqTAf49dMibNwYw/300?wxtype=jpeg&amp;wxfrom=0"/><p>注：之前发过一个简洁版：大模型微调十诫，这篇算是一个带原始信息比较完整的版本今天看到一个很有意思的东西，言简意赅，字字玑珠。加了注解，与大家分享。新造的LLM，感谢尊者开悟～1.切勿微调（Thou S</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443346&amp;idx=2&amp;sn=e39328797b18f786760e44a5cc909a0b&amp;chksm=bfbcae1db57d1cbc67cd3d5eb98d6ff2d1ecdd038a188341141f834eca704bd92d543b831a52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 02 Jul 2024 02:09:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型上下文长度扩展中的检索增强技术简述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/58FUuNaBUjodxT3b8OjYSyFMPZCrgIFzesXshZtW7um11xlfu9zYzx1x3DibodY9eZXgGiaeoiaJdSI2dln1SdMMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>笔记作者：刘议骏，徐阳出处：哈工大SCIR背景介绍基于Transformer的语言模型在众多自然语言处理任务上都取得了十分优异的成绩，在一些任务上已经达到SOTA的效果。但是，经过预训练后，模型能够较</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443346&amp;idx=3&amp;sn=80005f3bd3c1c8280744450af0d41ce3&amp;chksm=bfd4eba5f825129dea86fd7f3e66411dc05935e477728c81793e62b72ac28d9c1cf2c3a8b53c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 02 Jul 2024 02:09:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[XTR检索模型简介]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BAVX0pafImmXiafibfaV7VlKohmeynS9SZlsjwTtJRhZKGfDO7GmVib2VLTOFpr9iboTWroRIjOkxkqMOTCv05CicyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前写过深度检索模型的介绍：# 深度文本检索模型：DPR, PolyEncoders, DCBERT, ColBERT，今天来看看DeepMind在NeurIPS 2024上的文章，对多向量检索模型（</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443346&amp;idx=4&amp;sn=10345ddd1f22274b44672700489bbacb&amp;chksm=bf72a0e61ccf837a44965f90a8597374f6fe6e46fd9716ab32fbf03aee5b2d1aa28a138620c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 02 Jul 2024 02:09:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[BigCodeBench: 继 HumanEval 之后的新一代代码生成测试基准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2r0KXvibdsDP6u1bDzDMhH7NmezMNkQ17X06LEu6VhicibZibeuj6QmxpXzrjBEGunQ3tyibunvCdWibJBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>HumanEval是一个用于评估大型语言模型 (LLM) 在代码生成任务中的参考基准，因为它使得对紧凑的函数级代码片段的评估变得容易。然而，关于其在评估 LLM 编程能力方面的有效性越来越多的担忧，主</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443346&amp;idx=5&amp;sn=9b02993c12a94ebaeb374dade1368ecc&amp;chksm=bf5cde8835936adccd432a365eca4bf68f1ff650ab4dae893badcc28ba2c633de704c238ca16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 02 Jul 2024 02:09:43 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[2024 年了，你的长文本训练数据真的够长吗？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIN3EPicAEiay4NMTKLS5LmMluhANuzdTiaia89zJqJyZwf2xUnSMrC6XQka3g4mQXibTPmdnxcx9k1uww/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443336&amp;idx=1&amp;sn=009f49aeee7e4f4cc5903bf85d2d641a&amp;chksm=bf7a38571daaeb6049c5f3ed8b26df73bbfd99269f1a5a402c61049b7b9d910907493909840d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 01 Jul 2024 14:01:28 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[月之暗面kimi底层推理系统方案揭秘]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuxe5SBIw9qaAr5TDcgtpiaFBaWrEaiczwSogfnx8akps5MN7fibOcQ3F41DuibrT6ezpvvQG9SnGLxGxw/300?wxtype=jpeg&amp;wxfrom=0"/><p>太长不看版（作者大佬自己的在知乎碎碎念）：本论文与很多 Prefill/Decoding 分离的论文不同的是，这套方案已经在大规模集群上进行几个月的验证并证明了方案的有效性。目前这套系统承载了 Kim</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443336&amp;idx=2&amp;sn=ff8a2773a5bb2bbbd2722babf6ef2bb6&amp;chksm=bfa22c96eef8708ae399c328d640ec528c54e41143980fea519e1dbad905081419813f85d588&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 01 Jul 2024 14:01:28 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Hugging Face Accelerate 两个后端的故事：FSDP 与 DeepSpeed]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2q4zkWrSBs9FJnBuEVmExTheMebSct2qta6dqg8hlaqiaIOs7nWZQ8P2F2Pc7GwHMQPfnh7FxjeEwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>社区中有两个流行的零冗余优化器 (Zero Redundancy Optimizer，ZeRO)算法实现，一个来自DeepSpeed，另一个来自PyTorch。Hugging FaceAccelera</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443336&amp;idx=3&amp;sn=5972bcf2e987b2c2b4e424dc1348e7fe&amp;chksm=bf156a5fe0043ddb743f9e9b2c910a81e81d6d4ebc83c017ea8c5b707ff2359b8f0d56423478&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 01 Jul 2024 14:01:28 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Multi-task Hybrid Loss Training：因地制宜，充分利用数据信息]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpvTic1FcPFgVHjqObjWIIrlIOibLSmPY0ibtRApXlKDjTviag7LRiamOyLF4l5ulJ4SMIsqQkkskDWn6eg/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲‍‍‍‍‍‍‍‍‍‍‍‍1 简介2 Multi-Task Hybrid Loss Training    2.1 Retrieval and Reranking Loss    2.2 STS a</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443336&amp;idx=4&amp;sn=50cc9b707353fdc001400cd192d70bc6&amp;chksm=bfe6d841966147d69de2b885bfbc190161b2f7c039db8ff8169ca3acdce25333c7dd62e6199a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 01 Jul 2024 14:01:28 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[深度文本检索模型：DPR, PolyEncoders, DCBERT, ColBERT]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BAVX0pafImm4UvL6oG2x5VZurZKMg8vptiahHX4YFCVqBFyns9n6iaXCjvAGLlfPSU7fqqoibeOjXHk9McDzVoHtQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>文本匹配与检索是NLP中的经典问题，主要研究两个文本的主义相似度，通常用在检索系统的召回阶段。传统的召回方案如tf-idf和BM25具有速度优势，但在语义匹配方面有所欠缺。随着预训练模型的发展，使用深</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443336&amp;idx=5&amp;sn=2884c1d7434f2fc3d0d493531e67f213&amp;chksm=bf8d00a4a422b72150f3f455320b381c5af97b2c77bf3cc8406ef035a9976b5179de304c29d9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 01 Jul 2024 14:01:28 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -244,86 +304,6 @@
       
 
       <pubdate>Wed, 26 Jun 2024 13:38:43 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[开源论文复现神器：45个顶会都在用的模型涨点方法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKA4I72GEjAecfoKqNcVRhjME6qOQvDGzsIzMQicMdeGGhZjMmOCuftJXzobcvCQbNlIvfm66laxhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>分享一个顶会都在用的模型涨点方法：多尺度注意力。在CVPR2024、ICLR2024、TMM2023都有多篇基于多尺度注意力的改进创新。因为它的应用面真的很广：你可以用它来提升模型的泛化性、鲁棒性和效</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=1&amp;sn=b1e3dedb65cbb055169bc40cca4b678d&amp;chksm=bfba5d8aa885bafeaeafab7e12675291c4c616836890b848ce6bec88962b9942a281c4ac6200&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[解析 RLHF 微调三阶段]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLibibayNrHGUtMw9hxgwib80poW4IBF4icTicNPaxkiaTR7WLTTibuJKCiaBIKAbmXgWoUmKZmfuZvaRPNicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：暧暧内含光，中山大学 · 核工程与技术声明：本文只做分享，版权归原作者来源：青稞AI原文：https://zhuanlan.zhihu.com/p/646934197现在有很多效果卓越的基座语言</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=2&amp;sn=e769042a760488f93ef3717cdf77b649&amp;chksm=bf542eea8fd4e7c5d599864e7961b9c93a2083cf67f009a22627a3a71f86a12c1c73f0b8999b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[探讨 | 大模型在传统NLP任务的使用姿势]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kcic6OOuVSoQ9UeTyibKD76MNjlKUjYaD0AdRLQ8icKI2Tc5ZN7geWIrm2T02at9wTvnibw1Ln9Q8ATQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面今天给大家带来一篇震宇兄（@知乎邱震宇）探讨大模型技术在提升传统NLP类任务效果上的应用方式的文章，主要从文本分类任务出发。知乎：https://zhuanlan.zhihu.com/p/70</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=3&amp;sn=c80c9ff624ffd1f5c420880984082d99&amp;chksm=bf4c39bfcccc8efbac5624ecc22989976bbba9b050839b1de356e84cd8b486bcb24fcaf84f7f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[梳理一下MiniCPM]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465vmMOy49qO5fMicWz8iaXtGMB12lAHlx1bDia7Q31UYANFTK7oA3Q2IUN2GjqkF1GoSPJ7fg65BrGicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>MiniCPM是面壁智能和清华开源的模型，MiniCPM开源系列包括非embedding参数为1.2B和2.4B两个规模的模型，以及对应的MiniCPM-DPO，MiniCPM-MoE和MiniCPM</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=4&amp;sn=f68b7098b0c500b20ecf7035fbe35475&amp;chksm=bffd5d1d3ef6c24892d6f4db122df5d8cd38c1c29dfbc6101862ab04c67a5f726736737cb895&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2 介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HIKk7OFDjoTeK2fg6Le9p4ccn1cYdojkIfVeYia4kb1FuImAhL8030vSDJIFrDuHZicrkPm1mjaPgUq8ryN30Spw/300?wxtype=jpeg&amp;wxfrom=0"/><p>2024年6月7日 阿里发布了最新的Qwen2系列模型：https://qwenlm.github.io/zh/blog/qwen2/https://github.com/QwenLM/Qwen2已在</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443214&amp;idx=5&amp;sn=b96d71051465be552a70ca69ced1fd62&amp;chksm=bf3dcd0cb27ea4706c473af9e7da7df0808969185a7c32aa0f62f67e7f5b2d2761676743dedc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Jun 2024 02:10:00 +0000</pubdate>
       
 
     </item>
