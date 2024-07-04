@@ -46,28 +46,92 @@
 
 
     <item>
+      <title><![CDATA[如何从零开始训练大模型？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpqBncb4Il9ibGBvRPKEUic64eQDsm81HMlgQWImzd3QMfibBuFhEibsukWn0v3jlXhwXDPI1TySyq3Aw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨王焱@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/686664720编辑丨极市平台极市导读 大模型训练各阶段的最新技术方法总结。 >></p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687988&amp;idx=1&amp;sn=9364310b2e3c0a4cb7549e79d1a67e20&amp;chksm=edc723c7fc25ba1f344fed9fc1740c796dc206ababd723b6c72ae9ebbdc5d6294059004432c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 03 Jul 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[CVPR'24｜渲染速度比ENeRF快30倍！4K4D:实时4K分辨率4D视图合成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpqBncb4Il9ibGBvRPKEUic64O4Iia8lRmZ16iaVbibgibvnGUDBHsaeS4rFib9u1Afo0mibkrV1J6ZicQ2zgQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨Zhen Xu等来源丨AI生成未来编辑丨极市平台极市导读 实验表明，在使用RTX 4090 GPU的情况下，本文的表示在1080p分辨率下可以在DNA-Renderin</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687988&amp;idx=2&amp;sn=f53b51bbd78976337ed41f7e2391018f&amp;chksm=ed267133717bf1f78dca31eabd652a2b33c4c3ddfb7e7b431892f7e7b82aeec97a7e52460ccf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 03 Jul 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解大模型计算加速系列：分离式推理架构1，从DistServe谈起]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpqBncb4Il9ibGBvRPKEUic64GnsQENteicrtmEfxohvUvULoJKVNDockTZTPxzUicE4o3mhQCPWxEhFw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨猛猿来源丨大猿搬砖简记编辑丨极市平台极市导读 文章通过实验和数学建模，探讨了为什么分离式架构（prefill和decode阶段分开处理）比合并式架构更优，以及在分离架构</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687988&amp;idx=3&amp;sn=5fb71e52b9a37f45705191fa14c0d431&amp;chksm=eda509963eb3fa18964ba8a4212167164a473ef7c4ab1e03520ff749c5b08b288a735258d15b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 03 Jul 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[神经网络可能不再需要激活函数？Layer Normalization也具有非线性表达！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpqBncb4Il9ibGBvRPKEUic64ibpkibQpyxUZk0iao0rvHwjW8H7bok1DdjYeWxryJzmyUfc7cD8yiaiazSw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 该论文对LN的非线性进行了数学证明。并且提出了仅含线性层和LN的简单神经网络LN-Net，在足够深的情况下，理论上，可以任意分类给定的样本和样本类别。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687988&amp;idx=4&amp;sn=005f0e0800acc63ed456c41ea1e60548&amp;chksm=ed6d9e1f4b5e202d9eae09f10406e23f741b0081154afe240e2050b249cc2086fe0bd7962c06&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 03 Jul 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[自回归解码速度提高64 倍！MaskGIT：双向Transformer的图像生成新范式｜LVM经典解读]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpHjLJAToZaJXYlb9X5G9rURMmFJdqtqDj5ibuCXzibsUOvcbdEyRGSa9tFvudrXgNYZJTiclhiaBgnHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 MaskGIT 在 ImageNet 数据集上显着优于最先进的 Transformer 模型，相比自回归解码的速度，提高了多达 64 倍</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687924&amp;idx=1&amp;sn=a6a76cc756037c515b8e96e053387cd6&amp;chksm=ed099d85d469a364d5ccd3d3be9aa179e5376f4ccc1622a892695f006a5df429b2cbfba2aa45&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 02 Jul 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Mamba成功杀入ECCV 2024！VideoMamba：高效视频理解的状态空间模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpHjLJAToZaJXYlb9X5G9rUNN3meZn1JjEwBZUB8pDp1dCLHH63PMYkZDOlYibAbgyRw73wZE1EWYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨将门创投编辑丨极市平台极市导读 VideoMamba 克服了现有 3D 卷积神经网络和视频转换器的局限性，其线性复杂度运算符可实现高效的长期建模。 >>加入极市CV技术</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687924&amp;idx=2&amp;sn=a5f4a8b92eb439f3f808963d25009e62&amp;chksm=edb0ebc45d427d174bcea9381ee56216b24e56147223a37266cc5e7fdeb5363f11872eb38fa7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 02 Jul 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[CVPR'24｜RealNet：从数据生成到模型训练的最新工业异常检测]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpHjLJAToZaJXYlb9X5G9rU6tDOajpxeJvicvlg4zKKWD6ibfOtHHD7vfq50mbHn1FP6aFwJeIia0f4A/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨VincentLee来源丨晓飞的算法工程笔记编辑丨极市平台极市导读 论文提出了一种创新的自监督异常检测框架RealNet，集成了三个核心组件：可控制强度的扩散异常合成（</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687924&amp;idx=3&amp;sn=24aba527d10e53f764fd06490b42f9b5&amp;chksm=ed8b72cb7b52c860237ef700452f4018ffb04e034cfa7278037cffcc7a693bea69a2c9547ba6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 02 Jul 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ECCV 2024揭榜，录用率或创新低！2395篇论文中选，网友晒出成绩单]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpHjLJAToZaJXYlb9X5G9rU4ibLkSiclzz7RvyEtmPOdSeAL74ict434aSqDrdLs4GWbNxbJWTqnEcYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 两年一届的ECCV录用结果终于揭晓了！刚刚，ECCV组委会公布了录用论文名单，共有2395篇论文被录用。>>加入极市CV技术交流群，走在计算机视觉的最前</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687924&amp;idx=4&amp;sn=c760d642b41e0dec55e610a71807d985&amp;chksm=ede06e5effdab9e4565537d21b514be9b0a302dacc319dfcf196b13b4f1387c254bc69bfd64c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 02 Jul 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -386,70 +450,6 @@
       
 
       <pubdate>Thu, 27 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图像生成别止步于扩散模型，自回归模型也很好用！LlamaGen：实现414%推理加速！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqZiaeMzXC5wuWSaiafzpCB8j8PRKmkOE17bkB7U9p15H6ZCMiaxSIKOWsmXk6ITwBAF6ksLM3kW6IuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 应用与语言模型完全相同的 "next-token prediction" 的原始自回归模型也能够实现最先进的图像生成性能。 >>加入极市</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687278&amp;idx=1&amp;sn=86cd1187ba013bd7df424794f5a5e6de&amp;chksm=edb3f35626be7bb4ddbd34df750dc3585c4a9205ba2777254d6b61e6b5988a058daf5c5625ec&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 26 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[万文长文搞定检索增强生成(RAG)技术——13篇热门RAG文章解读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqZiaeMzXC5wuWSaiafzpCB8jvxKzVZ5ZHKrhTtuz2ZhbX1NFRSMdN7E9XujToWe0ias32VAJEZj04MQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨吕阿华@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/673392898编辑丨极市平台极市导读 检索增强生成（RAG）技术的综述。 >></p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687278&amp;idx=2&amp;sn=d0eeb68e17f25f29181900a1cc3afc92&amp;chksm=edc4b4bb7e330591eeed5d007f01de5f31e80a91c74d4288e38757b66f2579a9c6cad6156b9b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 26 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[极视角移动监控算法助力中钢天源设备工厂安全防护革新，高效守护工业安全]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqZiaeMzXC5wuWSaiafzpCB8jDkDUwoOgYXa7PnQv0wnU8yrNXrNoVzH6FVOzOfAYBhYeyIso7wjL7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台中钢天源 x 极视角钢铁厂安全管控AI识别项目中钢集团安徽天源科技股份有限公司成立于2002年3月27日,是中央企业中国中钢股份有限公司控股的上市公司，主导产品为永磁铁氧体器</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687278&amp;idx=3&amp;sn=22593ae5737e18319e0ba35e1f977ea8&amp;chksm=ed3382f23cbd333805ce0b00fd49e9766f57073f48df755026d52b985e70b0385545b392a96f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 26 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[00后华裔小哥哈佛辍学组团挑战英伟达，史上最快AI芯片Sohu推理性能超H100二十倍！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqZiaeMzXC5wuWSaiafzpCB8jCa4ro4QRMPEEA34Z1je9W8E4xABFJgWcIT96PiaYfS8uRbAD9ravgiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 史上最快Transformer芯片诞生了！用Sohu跑Llama 70B，推理性能已超B200十倍，超H100二十倍！刚刚，几位00后小哥从哈佛辍学后成</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247687278&amp;idx=4&amp;sn=6019b856a03c675e915ca09934be1ded&amp;chksm=ed8ac4bb1a26873a6d44a0d849d9302d2edfd72200d48e635a964aeeab97c5cc1e4d13c29e53&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 26 Jun 2024 14:00:00 +0000</pubdate>
       
 
     </item>
