@@ -32,11 +32,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[RegMix-用回归任务解决大模型数据混合问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nliad9bHpKtLSIEE0cpH9cQfvdHSaKjgEZLUaJGb8HibLktNxDLAdicCN0PibXH400hfXEVviaf6gGkkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面大家好，我是刘聪NLP。大型语言模型在预训练过程中，如何选取数据的混合比例（利用较少的Tokens来实现较小的Loss从而加速预训练过程）是一个复杂和关键的问题。手动确认数据集中各个组成的比例</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247489743&amp;idx=1&amp;sn=43178e7e33edca8ee848488fd1911b37&amp;chksm=ce3f55f89a2e880f1bc3cc9788aad1a60e656dd4c9dfea47d70691deb04b12ec4a89eb3b8a12&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 04 Jul 2024 15:23:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[开源真卷！Google开源Gemma 2大模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lBVbdytMXj9sceZ89ZmXuS1cFbkEFf17jEWG7ib5WujuPbTib59Y20CMvenc9kibmT9T9HQibSRe1aQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google 发布了最新的开放大语言模型 Gemma 2，共涉及4 个开源模型 (2 个基础模型和 2 个微调模型) 。HF模型地址：https://hf.co/collections/google/</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247489729&amp;idx=1&amp;sn=3c33b291bcc6a6ffa1270453b2b9b49c&amp;chksm=ce0a0f972f1ea5e324f17d4284fd4bfbe35bf9631ff5fb0e514e8ad7e587dc5f5dd96d29d2b2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 27 Jun 2024 23:44:46 +0000</pubdate>
+      
+
     </item>
     <item>
       
