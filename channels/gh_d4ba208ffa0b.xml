@@ -22,11 +22,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[不到100行，通过PINN求解CFD槽道流，免费源码随便抄]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklXv6mzW3P7QlicLicdZibgvvpwlAg9kIV5TeuKl3AHWpmDq0SNJYfneovVDp83v6lGiajaURJrEYlr5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>ML: PINN教程实例之1D槽道流本教材通过OpenFOAM环境直挂libtorch机器学习库，调用PINN来对其进行求解。libtorch是PyTorch的C++ API。可以理解为是PyTorc</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649428082&amp;idx=1&amp;sn=f6f8bb64e678192b5216eadf45a208cc&amp;chksm=891c1ded2728c44e5f0b526395b186dc19a4c0c125ecc7eea578a4946f5b12984c4ae8ef7984&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 12 Jul 2024 04:26:53 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[简版NS方程存在理论缺陷。国防科大再爆料，附源代码]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklGtJKM9mK98znJZ8Cdo9aTyQzuqxEgHTq60QTSac4lmicwRiaibFGcMnosdq8T4JhgSlqiapra3sp46g/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文为转发：看了一篇论文，观点非常新颖，认为NS方程用于CFD有角动量损失的缺陷。全文逻辑严密，有理论分析且给出解决方案。通过仿真计算，揭示传统方法损失了角动量，而新方法克服了角动量损失问题。甚至理论</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649428043&amp;idx=1&amp;sn=2f1ed42bad8db3b386d759b6d079cfaa&amp;chksm=895c5f1a9508302328c1cbcf840f5c5bd1f2b6556464427ca3c827e310d93a2bfc155fef30a5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 10 Jul 2024 04:28:52 +0000</pubdate>
+      
+
     </item>
     <item>
       
