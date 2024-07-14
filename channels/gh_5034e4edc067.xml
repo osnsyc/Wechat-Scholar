@@ -43,35 +43,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[从零训练的 1B 以下小模型汇总]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL1LI9NboL7nXo7AH6t1BBaCQfrxXHIFJGHP09cDA7DAVNW4RBZb9fEHfKMEQIDcyZMvtMq774czQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Angry Bugs链接：https://zhuanlan.zhihu.com/p/693252663最好的学习方式莫过于自己从头做一遍。学习大模型的相关知识以来，一直都想从头自己训练一个 1B</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443538&amp;idx=1&amp;sn=08bda0f2acf072c4805ebb2b2325052e&amp;chksm=bf1472219dc0f777220c339daf565d37bd356bed43f7a2343d3ad867ebd5a4b21d5f433c19ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 13 Jul 2024 14:01:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[不是H100租不起，而是GPU混布更有性价比！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL1LI9NboL7nXo7AH6t1BBauQwYZmElTSYnmC3puic4nfMOFiaqrc6QWReOMEKicMIaMZXCWjLEBPOrg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：方佳瑞，腾讯 · 专家工程师。声明：本文只做分享，版权归原作者来源：青稞AI原文：https://zhuanlan.zhihu.com/p/707684656大模型推理加速卷了这么久了，相信大家</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443538&amp;idx=2&amp;sn=be864977bb09d93925ec40487005dc15&amp;chksm=bfc2049cb0ba5c8ff70a33d8dc20f339f0c12ab61ebc0a4f6bc5fec097668a821ed849081d4c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 13 Jul 2024 14:01:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从Yuan2.0到Yuan2.0-M32]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW4670WHsrYZNdneZ2Nwwk5APribZkljGPebCVoTrbnksYstdcYOeu9psLibokWIyyvvHpXOSZ0ibwZ1yiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>整理下Yuan2.0和Yuan2.0-M32技术报告的一些内容。1.Yuan2.0Yuan2.0发布于23年11月，系列模型有3个规模：1.1.模型通常的self-attention会计算token两</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443538&amp;idx=3&amp;sn=0c50142476669b860d13ff43a6c32670&amp;chksm=bf549c69e0e29b7204f307bec0ff50b0c712197d527d22b4fea7a733c2093ded8622294758ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 13 Jul 2024 14:01:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【RAG】FoRAG：面向网络增强型长形式问答的事实性优化RAG]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGBQUQdRvtibicmO5Pe1dookWZQTx01GleZFAnibojLLhfSBTks2gxdz6zwBDq7EPyygKewy9c1OrZKUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、解决问题在基于网络的长形式问答（Web-enhanced Long-form Question Answering, LFQA）任务中，现有RAG在生成答案时存在的问题：事实性不足：研究表明，现有</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443538&amp;idx=4&amp;sn=337b5fb24de578c12896a8d548c174ff&amp;chksm=bfee522e3dec0cf7a020f7f33d2208a2d5679ae03dfa8b80193d6eee5085ce4bde81fc9dce41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 13 Jul 2024 14:01:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ACL2024 | IEPILE:大规模基于Schema的信息抽取语料库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcOjtg8Neh0ZsyoWOia4OtiaaSPSTAQR01ZyTyicuJxz43iaPEYcqCweXctzibYibMXE3icl54Wib0e6HbKUiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus本文作者：桂鸿浩（浙江大学、蚂蚁集团）、袁琳</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443538&amp;idx=5&amp;sn=d6b37322021c5fd8d65d770c15186999&amp;chksm=bfd1eb398e70bdc2d3cf0abf8deedcc948d0428acbe47b0ef08d353f618729f5372894c58208&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 13 Jul 2024 14:01:32 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[国家超算互联网平台1分钱算力来了！Qwen、Llama、Gemma等大模型免费用！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKPoco8cLvuQgq4tZK3YYj7LhJcG8wRW7O78icy73D3nlia32OSwUF21CmKW2ZZX5jaA4mu0fuPkmCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen, Llama, Gemma等大模型免费用！1分钱即能到手的AI算力资源长啥样？A800免费送是种什么境界？小编现在告诉你：是！真！的！作为AI的发展“引擎”，算力供应一直是实现及优化复杂模型</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443495&amp;idx=1&amp;sn=4ad40d5959ebc5e2220dff9332125798&amp;chksm=bf22d31577f64c028ca08dcf31b2cf651d9bec01a04a93f234a94c4d7333005ce14e65df2551&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Jul 2024 12:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[预训练LLM副本攻略：结构优化与超参数调整]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic38yAwlfX9arh4ibiatmYicz1oP8k0TVghCBtNctvND43ibOTlpWLs8abORPXicKgFG1TNiaZ3uaksl8bibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言在当前的深度学习研究领域，我们见证了一系列卓越的大规模语言模型（LLM）的诞生，包括DeepSeek、MiniCPM、Index、Qwen、ChatGLM、Baichuan等，它们不仅推动了技术的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443495&amp;idx=2&amp;sn=8e7100789793ff9d92a85772a484fea3&amp;chksm=bfe3413a0dac9d4111accb75caac1ac845fe128de7eb9e0cbcf77c3376a655b36512b239efe8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Jul 2024 12:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[万文长文搞定检索增强生成(RAG)技术——13篇热门RAG文章解读]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icojichbtejqgSvYI7rQIlYvRz5JYtpYRJvIBfoUmmInib0UNttbQJKEgKicwmvmkxu5OuOffsLXt5WhSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：吕阿华 编辑：AI生成未来链接：https://zhuanlan.zhihu.com/p/673392898楔子RAG(Retrieval-Augmented Generation)， 检索增强</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443495&amp;idx=3&amp;sn=33f17e053846c5429f8133fed536bf89&amp;chksm=bf03b791e95c566420accf3582d9e32f95bac21e5c1fb5646ab4988900ab2ce70aa4db2ecefb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Jul 2024 12:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ACL 2024 | TransliCo：一种用于解决多语言预训练语言模型中的文字障碍的对比学习框架]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibj1ATvtMalqIFC5DFTY27jRShOiawYj1mob3cbTVeibg8QsOicsGwgCYfibF5Ej7MuNWn10pAwh0uwwpPyicgfPnuwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享来自慕尼黑大学Prof. Hinrich Schütze 团队的一篇ACL 2024 Main Conf 长文：《TransliCo: A Contrastive Learning Frame</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443495&amp;idx=4&amp;sn=9d25ee52b4eff12ec8e18bf8d885b3eb&amp;chksm=bf2f3f31c4651deea3000bdae54145913c2a1737dcc4c63ab851f2c6efe2fbd6fb8c7ce1847c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Jul 2024 12:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【文档智能】LACE：帮你自动生成文档布局的方法浅尝]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGCwO5WiaAFic4YFONI1j6VicJYtr7EwjCia8oLaoiaW904S3R6jcfN23LDNUDyszVfzhc10ZfcicEfkNfBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言往期很多文章都介绍了【文档智能】上布局识别（版式分析）的技术思路，版式分析是通过对文档版式进行布局识别，识别文档中的元素类型的过程。这次来看看一个有趣的思路，通过已有的元素类型，来生成可控的文档的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443495&amp;idx=5&amp;sn=be11b67d0188cb5ac9b142810ed76040&amp;chksm=bff9131aac6be82de93857f2d59457987bbc695659fa1f0d3fa171a7d05b65b0604349f20b1a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 11 Jul 2024 12:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -326,166 +411,6 @@
       
 
       <pubdate>Sun, 07 Jul 2024 15:03:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[团队准备解散了。。。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSISP2AyqVAgedib23XEqXbayJ0Gc5r2fwym8ZlM7DVZA38Akric9t0kd0icWKDhWL7FGibvloXUuia6UdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>周末看到一个非常有意思的讨论，是关于如何带好团队的问题。讨论的大致话题是：如何才能把团队给带散？大家有没有经历过自己把团队带散的案例？或者说有没有看到过相关的案例？核心的关键点在哪几个？初看这个问题，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443410&amp;idx=1&amp;sn=dfbdda5543d90cb92dfe953f0a8b2d75&amp;chksm=bff0880d62a91f4a958298e0930240c90b1822ba8bbe2d33dd8ebba72812df2ef81084fcd993&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 12:30:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[文末赠书！上市一个月，多次重印的断货王，国际版统计教材实至名归！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSISP2AyqVAgedib23XEqXbaypsQkIibiaMeRpoVYwkvPrWEI3EsEEeIEW7gCmcbMIiccw5ze5tQPII5Tg/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书--最近，《基础统计学（第14版）（双色）》这本书可真是卖爆了！上市一个月，重印了好几次，多次在各大平台卖断货，读者群里小伙伴想要再买一本送人，结果买不到，急得不行！偷偷说一句，京东现在已</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443410&amp;idx=2&amp;sn=b790dd2f17d87c1226f42444aa648cb4&amp;chksm=bfbddc24d84afba3100c233b18a0dc91a8d5b1c954cd0677804a21087211d6d78f13bc300baf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 12:30:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大语言模型的前世今生：万字长文完整梳理所有里程碑式大语言模型（LLMs）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icohvnWHDnYrXsEvjBbpNksQtIPZAaO6ZIjFUWJRud2YeG0ibVEWkfEvgnrzZHO9ZwORjqCxrowASh5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>链接：https://zhuanlan.zhihu.com/p/691719636本篇博客全面汇总了大型语言模型（LLMs）。从早期的预训练神经语言模型开始，探讨了它们的起源和发展。重点讨论了Tran</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443410&amp;idx=3&amp;sn=eed3bd9b06513441dae43055e1beb96e&amp;chksm=bf35c3ae3fd79a74b7b162adff116ce3e4dcf768ce8e8676000bf4cda5683252a393877ec866&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 12:30:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型计算加速系列：分离式推理架构1，从DistServe谈起]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOoxD4ssXHzz3QZ2mt7n7j2dukZxAtT7naiboglFuicQhicqS8H9PuNSDNQQbmc5MTxmNhJA6DKRhibzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，最近Kimi开源了它的推理架构Mooncake的技术报告，让分离式推理架构的关注度一下升了起来。所以在这个系列中，我打算写一写关于分离式推理架构的一些有趣的优化知识。对于这个架构，我之前也只是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443410&amp;idx=4&amp;sn=6b1ce66bf5b123d6366b7a8765dc906e&amp;chksm=bff3dcb37b43d5b59b475845d8c9c8eb4dcba8d6e2230310c4fdf023cda8ef7272832107789a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 12:30:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACL 2024 | GNNavi：用图神经网络引导大模型的信息流动]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibj1ATvtMaloygLIoQngde37ZT9ZFmPBDEEcVm9VGdjB3wVcsibITYK1noMjG8Uono69NYocAMNWYfJ1O0kZuuPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享慕尼黑大学Prof. Hinrich Schütze 团队与德累斯顿工业大学团队合作的一篇ACL 2024 Findings 长文：《GNNAVI: Navigating the Inform</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443410&amp;idx=5&amp;sn=659c2a02a0517bd4ec62d6e6475b5092&amp;chksm=bf112807dbfdc787aa49015811fad3c1e99f9990e075d6df0a662ac51c9b4c99bc7bd5596970&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 12:30:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[微调神器LLaMA-Factory官方保姆级教程来了，从环境搭建到模型训练评估全覆盖]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJCA8cA2rBib1tF7DyZbVWu5t5usEo3Jb4QBV6rqssnApUSSjWUKgfAtkklf7kZ3vsNp9hpBeTQFFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编者注：之前一直用firefly做微调，最近切换到LLaMA-Factory，发现不但简单易用，而且非常全面，有点相见恨晚的感觉。使用过程中我主要参考2个文档，一个是github上的官方中文文档：ht</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443386&amp;idx=1&amp;sn=b343ab9a3c2bd69d2becbbe5325e8baa&amp;chksm=bf78e61b69963ccd6cce5c5477f8d2ac2b3cf09bd4acacfffa8e7941ed5e289e6b19a0809e84&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 04 Jul 2024 15:05:12 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[月之暗面kimi底层推理系统方案揭秘（二）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuzTPgLmqFBkHXb6l9ohia8p3e82XibUxRJ2yDolpwIlX6HLAc9B4eoZX4ibGf8icR0NY4l2uG6AXT7GBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>既上一篇许欣然的月之暗面kimi底层推理系统方案揭秘，本篇继续。作者分享在知乎上引起了广泛讨论，很多system方向的大佬炸出来了，本文根据作者清华助理教授zhangmingxing的一些分享整理，欢</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443386&amp;idx=2&amp;sn=5f9025450f3012c096900a2ef21155a3&amp;chksm=bf9375f32602079c91b2f6852c4b6f94124cbd4780c57b2e17a4f556bb1bd5f970ab43fac75f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 04 Jul 2024 15:05:12 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[京东招聘LLM+Rec研究型实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJCA8cA2rBib1tF7DyZbVWu5ibmY5bdWFb6neCjPPibIudjoZqdftr7iaf8bYME5dIsrbvsIdRTvmibvibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>京东招聘LLM+Rec研究型实习生（北京）【团队介绍】我们属于京东零售推荐算法团队，负责京东集团推荐平台的算法工作，在这里，有业内一流的推荐算法专家带领团队探索最新前沿技术，有来自国内外大厂的技术精英</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443386&amp;idx=3&amp;sn=2922291d21fa5cd41173b5746614d46e&amp;chksm=bf0703be5cf98a48f7ad60ff3a437bcb0fd008efc808b43ef1a156c9e31ae62e0ecbb590b104&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 04 Jul 2024 15:05:12 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[搜索广告召回技术在美团的实践]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hEx03cFgUsWxbsG8O3HaXCTnqicV2tg7r39ibbGPNDxhp8r4yDNssrZ3TOLPGRib5UHjqvibkopUuDaJfzokM9tlVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>内容整理自美团技术沙龙第81期《美团在广告算法领域的探索及实践》（B站视频）。本文首先介绍了美团搜索广告的三个阶段：多策略关键词挖掘、分层召回体系、生成式召回；然后重点介绍了生成式关键词召回、多模态生</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443386&amp;idx=4&amp;sn=efe2e79e55525c724729f1328366aeea&amp;chksm=bf6bf6a4d9747b696ad0d40720483e1fed40ec63f224b895ba40e9e7418721359c6e55cbf0e2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 04 Jul 2024 15:05:12 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GLM4报告的一些技术点]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467tjNeS9lhrypUtodbKDjjjUKzDcwK4IDLnicGY0Z8zicGCyre7BnPnJzG0Oc19Kws0xbHbnicY7KvxA/300?wxtype=jpeg&amp;wxfrom=0"/><p>智谱的GLM系列模型在中文领域一直是比较受关注的，特别是最新的GLM-4，个人在使用体验上，感觉已经可以满足大部分日常需求。最近智谱开源了GLM-4-9B，也发了相关的技术报告，总结了整个系列从预训练</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443386&amp;idx=5&amp;sn=0d6f805e4213a29eb325f4629954b8e3&amp;chksm=bf85635d91eb53cff937ba4702f0aba11d7d62368a54526237b06092be2e8f04211406bd6b75&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 04 Jul 2024 15:05:12 +0000</pubdate>
       
 
     </item>
