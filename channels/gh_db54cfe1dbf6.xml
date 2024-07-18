@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[HAFormer：融合 CNN 与 Transformer 的高效轻量级语义分割模型 ！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVVicxRd6Fj48RzbHqtfVVkRffrzHrvnRj0Jd02klaGiabPqpOW6wiaeRCNpYGyydicnA7FmNlpj1flnKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在语义分割任务中，卷积神经网络（CNNs）和Transformer都表现出了巨大的成功。人们已经尝试将CNN与Transformer模型集成在一起，以捕捉局部和全局上下文交互。然而，在考虑计算资源限制</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698374&amp;idx=1&amp;sn=d7f985062522a93daaca5204f8d1f20a&amp;chksm=f2edcd7de78ec28f6538703dd5eaf3b530045c8d7dd0250f5923f0f94fba38f93ac5efc620f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 17 Jul 2024 14:24:12 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[英伟达也对 Mamba下手了  ，视觉 Transformer 与 Mamba 的完美融合 ！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVVPdWMSoIl2eAlGnGInAOfww03F8ciboW0VRLoia1ic6J2J8QW5VoFuAenrezDqMrgFGYnLjfThqyA2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者提出了一种新颖的混合Mamba-Transformer架构，称为MambaVision，这是专门为视觉应用量身定制的。作者的核心贡献包括重新设计Mamba公式，以增强其高效建模视觉特征的能力。此外</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698372&amp;idx=1&amp;sn=6848ab228bf814ffed2cf9bd72b11548&amp;chksm=f23841031d47b63a41f3a4d2d3765ca1e6d05530c4a85755745c21562388ab775d1af4a2e643&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 15 Jul 2024 14:54:20 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -87,262 +104,6 @@
       
 
       <pubdate>Thu, 11 Jul 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ECCV'24｜清华黄高团队提出Agent Attention：无缝集成Softmax和Linear的注意力机制]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo3qv46xrQ9XnqDiae6E41BtTg8oKliaOy9SshdAVMpLVuPRiaoLNfsicxCfniavicuEZZTFia4vEFEiaJVkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽  编辑丨极市平台极市导读 本文介绍了一种新型的注意力机制Agent Attention，它结合了Softmax Attention和Linear Attention的优点。Agent </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698334&amp;idx=1&amp;sn=558de87a509249e65ee045afc23bb747&amp;chksm=f2c75cfd5a77f18e9b8be7fe4c21fdc172e950f41edf9e5ab95a00b4a3e301e35510250133ed&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 10 Jul 2024 13:59:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[EfficientMod：微软出品，高效调制主干网络 | ICLR 2024]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/s1ZNq0rdQe5UHzWJyugDx62oEOJl7ib8iaiafYeNanQPD26TdrQicfKfgC6ADpZMbheHBvYlGWNibQl4vaZw3TS3AnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Efficient Modulation (EfficientMod) 融合了卷积和注意力机制的有利特性，同时提取空间上下文并对输入特征进行投影，然后使用简单的逐元素乘法将其融合在一起。Efficie</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698332&amp;idx=1&amp;sn=d7c4cd2d79e6917350ad278d38f3a683&amp;chksm=f2576a12aff8de4a046be5fc5fd312a3217dd7e80253addf0ce0d1646953f82f88231f55e997&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 09 Jul 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[TraceNet: 移动设备上的一种实用、高效实例分割模型 ！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVVRlKgbJLQaic4FmVYJkmgUm5H4ChiaSMygGcdPxykI1c9oUhC5rBfsAGwwAibeANQbENUI7uPkAVIXg/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源于AI视界引擎，作者AI引擎高效的单实例分割对于在移动成像应用中解锁功能（如捕捉或编辑）至关重要。由于计算限制，现有的即时移动成像应用将分割任务限定在肖</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698332&amp;idx=2&amp;sn=027ceb10c39c9ce29e9defae61c6167e&amp;chksm=f2e03ae517006e1f5fc4c01777776a8b9cee00905b8352b5b9dbae0baf50dd3cf8a41f4a1216&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 09 Jul 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Mamba+Transformer！昆仑万维提出用于Diffusion的新架构Dimba！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Scy8opQtXAdGC8I1GFfswlkKtvJic4l4oDXn0picAGH3mjx8qqg6yxjFeqicGoauGkr3B3JEvzv37Iue2zDibnbV0w/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源于数源AI，作者小源论文名：Dimba: Transformer-Mamba Diffusion Models论文链接：https://arxiv.or</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698330&amp;idx=1&amp;sn=5d52537c0dc1cefe68d9138c9fc723ec&amp;chksm=f27377aa65de89c5c017ca2bce0d8fdc4bdc0842eace52546ea67dd482dacc7e56947b841996&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 07 Jul 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[结合卷积与变换，Perspective+ Unet 提升图像分割的性能与效率！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVUJkWqDHpHtLtSD3iavJGsdBwPLgKwxxCoo4XoIWy2yxcibyTiae66QcPSFD4CiaHV5uvCdsqps7egnVA/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源于AI视界引擎，作者AI引擎精确的医学图像分割对于提取关键的临床信息至关重要，这些信息在提高诊断准确性、制定有效的治疗方案以及改善患者预后方面发挥着关键</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698330&amp;idx=2&amp;sn=e30afd3207eb5847734489a866a17f2c&amp;chksm=f2e187f725997693aa686b18b3ac3cc038f96e4ad4d5037ac0efba57c5667f27a2294291a683&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 07 Jul 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[魔芯科技、中科大提出仅将 UMamba 的 Mamba 替换为 xLSTM，就能在各种2D和3D图像分割中取得SOTA表现！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVWQBotuEA1wtHhJvnvPAictf17hOMFXuZtzLYv0N0UHnmicNHjRek1ZW2ED0LZV4BrBvGJKkajG0EtA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「AI视界引擎」公众号( 添加时备注：方向+学校/公司+昵称/姓名 )img卷积神经网络（CNNs）和视觉变换器（ViT）在生物医学图像分割中起到了关键作用。然而，由于其固有的局部性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698314&amp;idx=1&amp;sn=e4bf83705ae01ad81e412f8ada0e63d5&amp;chksm=f2de4dad8bd404aa57cadd248da0daa161c2abef576e7e697cfdb8f5a725bd2d8015baba6c14&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 05 Jul 2024 15:00:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[顶会ECCV | 16个领域200个新思路，附代码与论文PDF]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDg4FNL316DuSEb3TLp4HFrgicqdtaTXsegqLDZo2tFyS41AHAqJiasewzryqK22UDzMCuh0SqicHVC6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多时候小伙伴们在网上收集论文，却发现大多年头久、没有开源代码。既不能复现，也不能提供最新的idea和实验思路。今天就分享AI各领域24年6月最新研究成果，帮大家紧跟一个月内行业最前沿进展。一共有16</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698312&amp;idx=1&amp;sn=88b27997896890ff2fadd636f3d0e63b&amp;chksm=f29d840613d53ab83aea4805352de410ae16ad7238a8c49edadc5317e4525ad4b4cd306bf570&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 04 Jul 2024 10:41:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从 CNN  到 Mamba | PyramidMamba 网络的语义分割优势,解决多尺度特征融合中的语义冗余问题 !]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVVibIU8jBB4DpLrgLatIuNYytW3H6pcQ3vNzwQsObr14IMxUa4oM35bibm0b6s8TZQwcbdLQkm8KeeQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源于AI视界引擎，作者AI引擎在深度学习（DL）浪潮的推动下，基于CNN和Transformer的语义分割方法得到了广泛探索，这两种架构都揭示了多尺度特征</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698312&amp;idx=2&amp;sn=218682203e04bd71e9b1b76fc9298c22&amp;chksm=f206960049b70d94633687be636c742e2bfdf3fb14b3dd635df77c6c8ddaa39365f45d2af8f8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 04 Jul 2024 10:41:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[自回归解码速度提高64 倍！MaskGIT：双向Transformer的图像生成新范式｜LVM经典解读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpHjLJAToZaJXYlb9X5G9rURMmFJdqtqDj5ibuCXzibsUOvcbdEyRGSa9tFvudrXgNYZJTiclhiaBgnHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 MaskGIT 在 ImageNet 数据集上显着优于最先进的 Transformer 模型，相比自回归解码的速度，提高了多达 64 倍</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698297&amp;idx=1&amp;sn=2c786fa7b5b5ba7ac25b82b6700d95ba&amp;chksm=f295a2a888493dc0946889dfa1655377e3a2f5b48f850c5f70f2db9ce47be526c87f1da3095d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 03 Jul 2024 13:36:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从 Mamba 到 RWKV-SAM | 速度提高2倍，分类和语义分割都优于 Mamba 模型 ！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVUyraq9p4PlWpJLlWX0ib740dibCarfaxO9GIgBAkVYbFQ16mkZteWYu3O3g1ExR7LPfqJjEibgAMPxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源于AI视界引擎，作者AI引擎基于Transformer的分割方法在处理高分辨率图像时面临着有效推理的挑战。最近，一些线性注意力架构，如Mamba和RWK</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698295&amp;idx=1&amp;sn=533862c43245b660375711d6469c8232&amp;chksm=f2218537f001eccadcc43744d739a273677d4f62e0a40300b5e2454ab115890caf258749e3a7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 02 Jul 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RPPM 模块助力 RDRNet 实现高性能实时语义分割，助力图像分割行业性能 SOTA！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVUfrZTD9t6SNMOpXTHcloKSSrtvHRSqlXFb1D1HibmHNXvuN9Hrr7dt8GnoV51ssESEk3rBwd5ricew/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源于AI视界引擎，作者AI引擎在诸如自动驾驶和医学图像等应用中，语义分割起着关键作用。尽管现有的实时语义分割模型在准确性和速度之间取得了令人称赞的平衡，但</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698292&amp;idx=1&amp;sn=13e44dbb3014d31f17cb6a52b7223a6a&amp;chksm=f2db75232effedef98be0cd17d8a91412191224bf27a6ef5d30764364ec39d0f031a571ae44f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 29 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[局部归纳偏置真的有必要吗？探索 Transformer 新范式：一个像素就是一个 token！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpqL9viaxKiaf4siaC74F2lb2SgYkrBotNgia2icicSJc4jj1qflTWjSCcKoH1xEbTibdFh22zAMr6eiclt4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者丨科技猛兽    编辑丨极市平台极市导读 原始 Transformer 中可以直接将每个单独的像素 (pixel) 视为 token。 >>加入极市CV</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698292&amp;idx=2&amp;sn=ac5a2401f274408dc45fb0262c7d54a8&amp;chksm=f20ff87a7c9fb325a476ab3b62588d8fa5c1cbe8a66394b6ea1bdb43fd7b9e1e5c62e876a9b4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 29 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[全新注意力范式！清华黄高团队提出Agent Attention：无缝集成Softmax和Linear的注意力机制]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo3qv46xrQ9XnqDiae6E41BtTg8oKliaOy9SshdAVMpLVuPRiaoLNfsicxCfniavicuEZZTFia4vEFEiaJVkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者丨科技猛兽    编辑丨极市平台极市导读 本文介绍了一种新型的注意力机制Agent Attention，它结合了Softmax Attention和Li</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698266&amp;idx=1&amp;sn=9be254802eccc1cd44cb4e3f163450cf&amp;chksm=f27f5eb2ce997e8c40715268387bd9b7fa0cdb74aad954245ce36dcf377e975e618694ae435e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 28 Jun 2024 14:05:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[力压Transformer？首篇Mamba综述来了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VnDXQzNf28jC3PJibUibibxicrQhLDJFicWZXTsAEDN27M8l2LyMHeGpp5BGU3VcfDvMxTaea8cvzjic4q89o2jh4qQA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文作者 | Rui Xu  编辑 | 自动驾驶之心写在前面&amp;笔者的个人理解Mamba是一种新的选择性结构状态空间模型，在长序列建模任务中表现出色。Mamba通过全局感受野和动态加权，缓解了卷积神经网</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698266&amp;idx=2&amp;sn=8e58f140e2b29e8a727f2bb7986a833b&amp;chksm=f2a1cb6e7b7083cc83ae322f6b966fcfdae3b9757723c9da4eeec0e430fdd3b6e04350375faa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 28 Jun 2024 14:05:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[414%推理加速！LlamaGen：图像生成别止步于扩散模型，自回归模型也很好用！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqZiaeMzXC5wuWSaiafzpCB8j8PRKmkOE17bkB7U9p15H6ZCMiaxSIKOWsmXk6ITwBAF6ksLM3kW6IuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者丨科技猛兽    编辑丨极市平台极市导读 应用与语言模型完全相同的 "next-token prediction" 的原始自回归模型也能够实现最先进的图</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698264&amp;idx=1&amp;sn=72c9351f41500418a54186f18e8df281&amp;chksm=f2b2575068adf5e4ef66fb68b936f8f3f11e881983353d41322b8769a115a2c75ceb0a639659&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 27 Jun 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LORS：腾讯提出低秩残差结构，瘦身模型不掉点 | CVPR 2024]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/s1ZNq0rdQe504R6mA94LYS1XKvg9pmUnbFEOibCYP7rFTosna8muRsFibZPZOKDKNjic93HQcZlO1XQIaY9TMgv6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习模型通常堆叠大量结构和功能相同的结构，虽然有效，但会导致参数数量大幅增加，给实际应用带来了挑战。为了缓解这个问题，LORS（低秩残差结构）允许堆叠模块共享大部分参数，每个模块仅需要少量的唯一参</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698264&amp;idx=2&amp;sn=097465e4f8a7235eb2e830939ff6eedb&amp;chksm=f299a22aa16c951de35321a6733639a5e90b9c9715e8d2d3041e481e69dd6003b721bd5b7913&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 27 Jun 2024 14:00:00 +0000</pubdate>
       
 
     </item>
