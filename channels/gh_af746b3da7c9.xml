@@ -33,277 +33,78 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[脆弱的不确定性：大模型的可信度如何被操控]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaicicRdjXiaJZUhBfvZLypoITDnEa0KegxnLYQTUreYanEbLJwxXXylc2tYerDRoHTa0Skx9QL7yWsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题脆弱的不确定性：大模型的可信度如何被操控时间2024.7.27 10:30-11:30 周六进群论文：Uncertainty is Fragile: Manipulating Uncertaint</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528578&amp;idx=1&amp;sn=258a96c8f4ca2d384fd0b780bf48cb48&amp;chksm=ea1dfd86072dcd45a3a7bafc544b333b2eb364ef13461367514dd296b5383722ecd8b0d26cb3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 19 Jul 2024 15:37:37 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从零预训练LLAMA3的完整指南：一个文件，探索Scaling Law]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaicicRdjXiaJZUhBfvZLypoITSpIv8wA0hwIaRBX47IA39Jibpx5hCBvIibY2FWUciaS0ueck6ATYFnhbg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Mantavers，AGI独角兽声明：本文只做分享，版权归原作者，侵权私信删除！原文：https://zhuanlan.zhihu.com/p/706097271编辑：青稞AI引言最近，Andr</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528578&amp;idx=2&amp;sn=50b208443a7a323a16c9d0c82a72df4a&amp;chksm=ea0031a19afaf82221a7bcb4842960e5d4d5022e5be48c983096e1d062afa38598083eda9c56&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 19 Jul 2024 15:37:37 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[对话AI科学家何晓冬老师：大模型时代的业务探索和个人发展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaicicRdjXiaJZUhBfvZLypoIT1J8m149BmjA0yzsZ0u5sQY4eLOvn6l2CQSgwChFsxGicJoicibVGEbOeQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>特邀嘉宾 | He Xiaodong访谈编辑 | Yuan Shaozu来自 | AI小白入门【导读】非常荣幸能与何晓冬老师进行一个小时的深入交流，这次对话让我学到很多。何老师主要分享了大模型带来的机</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528578&amp;idx=3&amp;sn=81f13b1bd3893682e49f00e7cf6e219d&amp;chksm=ea68356635adf55ed4ed366aa2ff19f06352ddb1076544b2837ff6db5085b407fbf76533323f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 19 Jul 2024 15:37:37 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[为视觉语言多模态模型进行偏好优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaicicRdjXiaJZUhBfvZLypoITmVmLrWRnx51w5LV0HCBndHPiarX1DJBqIGiaIfMY3XXDw4WOooABs7nw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：Hugging Face训练模型使得它能够理解并预测人类偏好是一项比较复杂的任务。诸如 SFT (Supervised finetuning) 的传统的方法一般都需要耗费较大成本，因为这些算法需</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528578&amp;idx=4&amp;sn=6ff7c4d3286b0e1292e89d12d47beb8a&amp;chksm=ea3aadad3f05406deda4052ce236ceef13ccc2fb981a8d039f2a5103a737e0913450b98c47bf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 19 Jul 2024 15:37:37 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[NICE分享 | 知识斗地主：解析RAG大模型中复杂的知识冲突综述]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag7pbGaMliaaiavCD1ZofRZda00GSQdazGcr9odyrCQPypRZLteaUpIBVZiaoJLxMiamiaWhBlEiblbtGTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题知识斗地主：解析RAG大模型中复杂的知识冲突时间2024.7.20 周六 下午16:00-17:10进群论文：Knowledge Conflicts for LLMs: A Survey地址：ht</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528545&amp;idx=1&amp;sn=2757c7072839a3de6e12af2bf293918d&amp;chksm=ea8a353bbc717ec13d58984d98ac1eee08c7800c3a168ca072d6ecba129c4ec7dbcb53b56c2d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 17 Jul 2024 14:47:21 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[不是H100租不起，而GPU混布更有性价比！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag7pbGaMliaaiavCD1ZofRZdadHm0AP1XFcIzibibAokTH85xMibvbSpzmHs1KophdC4E7aEsJHnV90niaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：方佳瑞，腾讯 · 专家工程师。声明：本文只做分享，版权归原作者，侵权私信删除！原文：https://zhuanlan.zhihu.com/p/707684656编辑：青稞AI大模型推理加速卷了这</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528545&amp;idx=2&amp;sn=83adfc17ae7749e7d5bbe39604212546&amp;chksm=eaef94cf8900a08910bb12a645c2d55e5cb54416caf5e8d5fd27f7b0886e328d5f393dd1c480&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 17 Jul 2024 14:47:21 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[谷歌重磅：告别RAG，长上下文的大语言模型无需检索增强！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag7pbGaMliaaiavCD1ZofRZda3uSVLIaHVzdxjDLctxTLv4Qp3WiaaOfYwXmo8Xlra69WBVeDDV5x7Tw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Richard，来源：夕小瑶科技说当今人工智能领域正在经历一场静默的革命。随着大语言模型(LLM)的快速发展，它们不仅能够处理更长的上下文，还展现出惊人的推理和检索能力。难道我们要告别基于LLM</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528545&amp;idx=3&amp;sn=a0a79b55c5875a383fce6c41044a4d0e&amp;chksm=ea6581b25c9af27f96e0500d8dbe98fd02023e0667135a8fa7ddb0a14b217f301b9ca016e5a2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 17 Jul 2024 14:47:21 +0000</pubdate>
-    </item>
-    <item>
-      
-
-      <title><![CDATA[具身大模型研究综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajF5RF84LK66G8nhJo9r7uC8ZeSX8tKF3JQibiclE1tJPd7AAMSUHwvDamwraDAXbyQ86VhgYAG1cRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>原创作者：陈一帆，张宇驰，孙楚芮，冯怀绪，宋浩，王寄哲指导老师：张伟男转载出处：哈工大SCIR1. 引言1.1 机器人的智能——通用性和泛化性在上个世纪六十年代，人类已经制造出机器人并且可以控制其执行</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528501&amp;idx=1&amp;sn=77e2d9101a75c1f967ff54a0f23d93f8&amp;chksm=ead5fb78e0de7426635c47180da60e1a22aacedae1b3ddff8c1cb6b82c050a33d1681d55a4d6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 11 Jul 2024 11:14:47 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACL2024｜D2LLM：将Causal LLM改造成向量搜索模型的黑科技]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajF5RF84LK66G8nhJo9r7uC7krV9qz3l0R4qia073Mdz9M6NK1TykXLysmVPcE2GXWlp7SWj8fAReA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CodeFuse语义搜索任务的主要挑战是创建既准确又高效的模型来精准定位与用户查询相关的句子。基于BERT风格的双编码器因为可以使用预先计算的嵌入表示时效率很高，但它们往往会错过句子对的微妙关系</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528501&amp;idx=2&amp;sn=b8a2aceef7552b103f794f1733dbfbd5&amp;chksm=eac4944c5c730b465855fc94b914a9250daf2f8d005bae861aedb789f1726c3907ab0be02265&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 11 Jul 2024 11:14:47 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[深度解析RAG大模型知识冲突，清华西湖大学港中文联合发布]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajF5RF84LK66G8nhJo9r7uCawIzZSq86ITfOsia5PNcu21rCczjiaicFfZicYLJalib7DHpN7d6SNiawCUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心本文章的作者为清华大学交叉信息院二年级硕士生许融武和一年级博士生祁泽涵，他们也是本篇综述的的主要作者。随着人工智能和大型模型技术的迅猛发展，检索增强生成（Retrieval-Augmen</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528501&amp;idx=3&amp;sn=45579e653f376d6ea13e123a75aeb5da&amp;chksm=ea2afb8ecae2485aa9e5c138bda2f88746b99d321afabe5e3b2a393c5324dc66f84b5a211fab&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 11 Jul 2024 11:14:47 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[解决问题而非制造问题！GLM-4-AllTools API革新大模型使用体验]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahSY85KibXsiaBVdBbaXzudfnHVPGlbKxNc43LY2WfIsn6ia9yOrnSCpKNuCMVOhe2ibQ8bISUZ0dCGow/640?wxtype=jpeg&amp;wxfrom=0"/><p>在日常使用大模型的时候你是否遇到过以下问题：需要自己字斟句酌提示词（Prompt），进行CoT需要自己为大模型分解任务需要在多种大模型，多种工具（绘图模型，集成开发环境IDE，搜索引擎….）之间辗转才</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528415&amp;idx=1&amp;sn=50c418a458d27b8ee38d99c3ce9843ad&amp;chksm=ea88e828a9bd4565a531ec6474cea4f84e19557c34d9a158ddf1d30d171157d44e441665bcf7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 10 Jul 2024 06:36:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[留言送书 | 清华汪玉教授团队：首部高效模型压缩与设计专著重磅上市]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagBnTUwAs1NUeCJ5fEuGvecoKOuObGib99aRaD3tu3QTmyt2GLDFOKibCwckMtngficsgeDyGOD39JAA/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末留言，送五本该书！汪玉 宁雪妃 著电子工业出版社-博文视点 2024-07-019787121480591 定价: 119.00 元新书推荐🌟今日福利｜关于本书｜本书系统地介绍了高效模型压缩和模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528415&amp;idx=2&amp;sn=8f002a43f2584dc6ee3851758b0dd1f5&amp;chksm=eaa06210cdc7d2c574c6cd1a142fbdf8f959b480cc1b6caf3fcce7b13a998ba85c197f23c58d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 10 Jul 2024 06:36:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年6月118篇代码大模型论文最全整理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahSY85KibXsiaBVdBbaXzudfnvw28rfXSFnO8nrxuFfluzOB5cCTIIpndF3srgLISPjYhicLFgJwDGlQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言本文整理了2024年6月全球各大高校与科研机构发布的118篇代码大模型相关论文。根据论文内容，我们将其整理为基座模型与训练数据、代码微调、测试基准、代码Agent、低资源语言处理、AI代码安全与分</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528415&amp;idx=3&amp;sn=c7d376eae180848e6c01a02a301842fe&amp;chksm=ea38ff9ff738ba53f9ef8a6b6e2276bcc1877df1520fd7bcb093db4de31a0ebca773112218ab&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 10 Jul 2024 06:36:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型上下文长度扩展中的检索增强技术简述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahSY85KibXsiaBVdBbaXzudfnTbWp0qdicNT8ibAy6giabAXuv6Vkpg3hJtauax9YzUaeZt3W63wK6b5NQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>笔记作者：刘议骏，徐阳转载出处：哈工大SCIR背景介绍基于Transformer的语言模型在众多自然语言处理任务上都取得了十分优异的成绩，在一些任务上已经达到SOTA的效果。但是，经过预训练后，模型能</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528415&amp;idx=4&amp;sn=9ea95b833af9e1c1472fd5cdb00a5dc5&amp;chksm=eae0bdd51cfee4e74abd693eca1ba702ae891cc7adcc165891a0c74412c3841d3282e5681ae2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 10 Jul 2024 06:36:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NICE分享 | Transformer模型能否进行隐式的推理？一个关于Grokking和泛化的深入探索]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagBnTUwAs1NUeCJ5fEuGvecckuxKLDIiaibug7vbO5KyGBkKFjcfU9R5piaydicUwYa3BMmHBwe3Cbwibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题Transformer模型能否进行隐式的推理？一个关于Grokking和泛化的深入探索论文：Grokked Transformers are Implicit Reasoners: A Mecha</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528362&amp;idx=1&amp;sn=427a6f7f4b0fe13922a0b3607fc128f7&amp;chksm=ea40f128e472e37919bbc025a37ccf4a44ad5c5a0c8790f5eb91cd9a6d63ca77317b451cb9c1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 09 Jul 2024 05:34:24 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一步生成超过10个Tokens!! 无损模型解码加速最新工作]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagBnTUwAs1NUeCJ5fEuGvect3CY3qymcSJ1bFXaWYL1AIpOyhCByibhEeibj5OzO0V3L1GiaicwxTKHew/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure链接：https://arxiv.org/abs/2406.17</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528362&amp;idx=2&amp;sn=179ae3c26e891ed8145ed27be758c1d0&amp;chksm=eae0d6ed8091524e088de46c1f2b3277c922b212d48b535b62fbab17add3eec1a9ac99e972b0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 09 Jul 2024 05:34:24 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACL 2024 ｜“我的回答是C": 在指令微调语言模型中，第一个token概率与文本答案不匹配]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagBnTUwAs1NUeCJ5fEuGvecazH9ibDEZJve87r247KHCYlyaHUH4RAdxLOH8st7NxRicUcibMQjZYDfA/300?wxtype=jpeg&amp;wxfrom=0"/><p>MunichNLP本文分享慕尼黑大学Prof. Barbara Plank 团队与意大利Bocconi大学团队合作的一篇ACL 2024 Findings 文章：《"My Answer is C": </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528362&amp;idx=3&amp;sn=f2f5d7a842f16508b78fe51474a633c4&amp;chksm=ead6e3f46f5c2aab94310fd39794fc918ab70f0267558618565d6234e69a7cd90a02c2cf1ffb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 09 Jul 2024 05:34:24 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[中科院深圳先进院SIAT-NLP团队招聘大语言模型方向博士后/助理研究员]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagBnTUwAs1NUeCJ5fEuGvecEPibeVQ4eXJRO9CPqqiccib9LvolG0JxW8tplTXOL1TgtqHCkJS7kYCTg/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国科学院深圳先进技术研究院（以下简称“先进院”）成立于2006年2月，是中国科学院直属国立科研机构。经过18年的发展积淀，先进院已经成为国内海归密度最高、国际化学术交流氛围最好的国立研究机构之一。已</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528362&amp;idx=4&amp;sn=dcf3c9b35cddea03230dcc3b544c6f2c&amp;chksm=ea245f3fe72e5e81918d78eeadb9f10c6003bf7a4218e70796e8cb6565646af479966d971c5f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 09 Jul 2024 05:34:24 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从零训练的 1B 以下小模型汇总]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajp7m4Pwic82UDJSuqmcYw7Sn7yiafs965fKt7hGhnsQnFkYN1tPepicqnqJjiap7n6Q1icvbCg7VU32tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Angry Bugs链接：https://zhuanlan.zhihu.com/p/693252663最好的学习方式莫过于自己从头做一遍。学习大模型的相关知识以来，一直都想从头自己训练一个 1B</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528332&amp;idx=1&amp;sn=2653cce98931bf651931f61aab35fa5b&amp;chksm=ead336157acf56296f86e84f6dda7417b576d5b6da5c171a82d92c8858a65d3ed5d8e7e9b375&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 14:34:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NICE分享 | 如何加速大语言模型推理？万字长文综述大语言模型高效推理技术]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajp7m4Pwic82UDJSuqmcYw7SD7BJQxILNibNjK3ibWzno0ib6CYrkXia3dsIf13fnib5CIM78enySOZYZzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题如何加速大语言模型推理？万字长文综述大语言模型高效推理技术论文：A Survey on Efficient Inference for Large Language Models地址：https:</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528332&amp;idx=2&amp;sn=1e608da9cbfa192b58eb185183a9ca4b&amp;chksm=eac8d89991aee83b8839a3e49261318d09df39548db85683eed8ee58f5226ce1f516dc412204&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 14:34:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACL 2024 | GNNavi：用图神经网络引导大模型的信息流动]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajp7m4Pwic82UDJSuqmcYw7SqxS6WN55CNfF8RBInn6KgZIiaQVDYuPYnt0gESAnCpy98EjMTb9iagwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>MunichNLP本文分享慕尼黑大学Prof. Hinrich Schütze 团队与德累斯顿工业大学团队合作的一篇ACL 2024 Findings 长文：《GNNAVI: Navigating t</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528332&amp;idx=3&amp;sn=9d7a46138236baeca3928970b7e47a29&amp;chksm=ea23d4acea75a636f0d5ac75fbdfc7ae185733da69cfd7f0d24c20be7870a19a0affb13b65ee&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 14:34:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[喜报 | 万小军团队论文荣获NAACL2024杰出论文奖]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajp7m4Pwic82UDJSuqmcYw7SnTQWtibTwWMsoicNE6dNyymmNdJM8rU0BUXCqvFVdPFsNy04lgeIZW9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，自然语言处理领域权威国际会议NAACL2024（2024年北美计算语言学大会）在墨西哥城成功举行，由王选所万小军团队独立完成的研究论文《Defining and Detecting Vulner</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528332&amp;idx=4&amp;sn=ea678b99bd15fe599642074db04cbc7d&amp;chksm=ea4823ab73605c3c110988d2bda740c87214227308d75139aae96b3fbcd660fdccb8a929598f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 06 Jul 2024 14:34:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NICE分享 | 如何加速大语言模型推理？万字长文综述大语言模型高效推理技术]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahXFicHicQ6uPSfzicR3FvRI3HcHaMn2ACn6VaVJW7XfekCOh6YFcw8tfXMa3wcbuyz2vc7xr06OIJicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题如何加速大语言模型推理？万字长文综述大语言模型高效推理技术论文：A Survey on Efficient Inference for Large Language Models地址：https:</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528305&amp;idx=1&amp;sn=638e3234d5952476076cdfea240207f6&amp;chksm=ea12ae4f0c637407f07aadd889955d62c0ed1bc6f9853aa94579c6dff14f89b083bef4869263&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 03 Jul 2024 09:35:40 +0000</pubdate>
       
 
     </item>
