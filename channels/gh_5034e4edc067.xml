@@ -47,35 +47,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[用最酷的LR，训最猛的模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIGNAd6DMJrmXXkrrzAGibbkMtibRZjze4nrrVKXTI9szRy9wLoZWFjFia9vHunkVIOHAiapQjY2dOibqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：李rumor预训练中，除了模型尺寸、数据、计算量之外，比较重要的就是batch size和learning rate这两个超参数了。从DeepSeek的scaling law工作[1]中可以看到</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443695&amp;idx=1&amp;sn=657606cbbd17a24cb424fc871f5ef578&amp;chksm=bfed5d097720acc0abe58a1e9a17351f0ef2b06eba3357f1181c0c60d727e10497d6aefea960&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Jul 2024 13:55:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型精细化对齐之step-dpo]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIGNAd6DMJrmXXkrrzAGibbkUU0F73P0qeEktI3gqNFiafic2QVAkEPdjZbocIicia5WkjIHt3C1ibhDrYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：算法让生活更美好前言相信大家对dpo都比较熟悉了，今天给大家介绍一篇dpo的变种step-dpo。数学任务相比于其他任务有着明显的不同，其每一步step的推理都必须准确无误，不然一步错步步错，传</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443695&amp;idx=2&amp;sn=0c562644485edbbec2383132ef8d9ed4&amp;chksm=bf1c20e86ef4a1bc5e3f4ad5c6213e30f4a34dfea2a721e9bfaa5e8b5f363e918131eddb94d8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Jul 2024 13:55:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Neural Networks（CCF-B）特刊征稿：大语言模型时代的模型压缩]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIGNAd6DMJrmXXkrrzAGibbkJsuoVnTUv7q9GncOx3wDCzBlKjych1Rch8H2X1utSP0mjdWGMvZVAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLMs）作为基于神经网络的大规模预训练统计语言模型系列，在自然语言处理、多智能体系统和多模态AI等多个领域取得了显著成功。由于应用场景广泛，LLMs 面临显著的效率挑战。直接在个人电脑和</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443695&amp;idx=3&amp;sn=25a39fa4025348ce3c2f762f3ea362fa&amp;chksm=bf1fa45831634ac57de1126408c4a4e01a71279c3546650ae2ae3fb264a12a37ca84154ce927&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Jul 2024 13:55:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[领域大模型修炼手册—从训练、评测到应用搭建]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwrOLGIZh5WBicpclFjUmWsKEiacUoLWJGmmHDdbVIYibibh2k7NuDgVibHQk8ajRKpRb4D3drwtyTryZ8xp2DvHdicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者| Zhenyu Zhang, Shen Lei, Yuming Zhao, Shaozu Yuan, Meng Chen    编辑| Shaozu Yuan, Yuquan Le一、整体介绍及</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443695&amp;idx=4&amp;sn=5c4298f3235d46437f568cc6fab95828&amp;chksm=bf19105910d8cf16a0ab466d1c20bcde1727632536724aed9e80589a6e04e52250355fbe0a46&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Jul 2024 13:55:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[vllm代码更新太频繁，我该怎么办？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNODJJ7uxbMLJevFmrdYlZLiaXqdu7GMB3GwibIk897DsIaAvWZlZCvUcluoV0P3sQFlOiccodaRnVNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，大家在读vllm源码解读系列时，肯定会有以下疑惑：“vllm仓库当前主分支的代码，好像和当前文章中展示的代码，存在许多不同之处，这是为什么呢？”这是因为vllm的开源社区非常活跃，代码一直在持</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443695&amp;idx=5&amp;sn=ab9da6544aeb23d4d411707d262270f5&amp;chksm=bff0fe6b83555a2c8b28f1fa4c46d2ea0767b5be4ab6f700134a9e2e54f27e6a558b8d941b46&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 20 Jul 2024 13:55:44 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[MMEVALPRO: 更加可靠、高效的多模态大模型评测基准]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLtBshx1pv6Jxdn7szZVia935qjF1db4o6WXIbMSBxXDNYs40YicPWtACFMaVxrD9uO6RnuOm9tZeNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：MMEvalPro 团队 单位：北京大学，中国医学科学院，香港中文大学，阿里巴巴摘要:  近期，多模态大模型如GPT-4o、Gemini-pro和QwenVL-Max在各类评估中崭露头角，频频登</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443675&amp;idx=1&amp;sn=11a546e0232a9c33aceb56630cad8d2b&amp;chksm=bfa03e5d446b31ad4c877bb55fa4108fe02280f96fb2e78bf90685eee17f99529b9f157a065f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Jul 2024 13:19:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[我为什么不看好LLM——记过去一年实习经历有感]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BIxKnWsJfBaqwjLTFVeoibMz4HJruvGG9vNQ44ksjzAGLohx0BsICe6yguITTrmrtKsiakDP4lCn6SXxAzWnWqJg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天分享一位好朋友过去一年在各个大厂和初创大模型公司实习的经历，现在大模型是风口，他的眼光和思考都值得我们认真体会和学习~笔者为了寻求科研界的不同体验，试图在工业界寻求一些经验，在大三一整年做过差不多</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443675&amp;idx=2&amp;sn=00c27d479e19b7cddb6f0ef5070af46d&amp;chksm=bf0307e9912820c85d7d45f34b248a012884c695576c9a10fa24ba7226a7338591ee51e94189&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Jul 2024 13:19:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[壹点灵招聘AI Agent工程师/架构师]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLtBshx1pv6Jxdn7szZVia93aSRl7EHbcHy6tqmfBibND5QhoCQIe26gV3bLXibicKmu8M62icMpvINDgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent工程师/架构师  工作地点： 上海/ 杭州 简历投递：liuf@yidianling.com岗位职责：1. 负责AI Agent的核心逻辑实现，算法及模型的设计、实验、调优等研发工作；</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443675&amp;idx=3&amp;sn=8fa2215d638aaeb3e28b2fa4ecef9b59&amp;chksm=bfccff952b0f5bdf9da901039dfc597c8c5d53aba71994ce29c1d5b40526a8aa654475cbb1c6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Jul 2024 13:19:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM基础知识】LLMs-位置编码知识总结笔记v3.0]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdAD1Oo35L747k4MCxcHVYYP7QAVMC3crJVO6lnnGicXOXouIPicTGocMMzhzGmqQ58KZ8zaTd2Yvp0w/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM知识点第三篇，介绍LLM位置编码的三种方法，主要介绍绝对位置编码sinusoidal位置编码，旋转位置编码RoPE，相对位置编码ALiBi位置编码。#接下来会更新围绕RoPE的改</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443675&amp;idx=4&amp;sn=a0d20d53c2525835ab10534619a0a827&amp;chksm=bf7e251ec22629f6885a0847d2bc7eb5a55e35a002f0cf972d6c474fc08387fba832d6f6e917&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Jul 2024 13:19:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型算法题(8)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467K6QOibf2swlTicAicrYHw6mianJMoqMTmXOcTibKK35dcsc67IXsjOaG3ueTlcy8BXgch7ibe2GuzyCPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本系列将持续整理一些LLM中关键的、细节的、值得关注的内容，持续更新~如有错漏，欢迎指正~1.激活函数GeLU是怎么设计的，有什么优点？GeLU函数在2016年在论文《Gaussian Error L</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443675&amp;idx=5&amp;sn=a32cdd57b8bc0a365d789c4c2d3047d5&amp;chksm=bf4888e6f91d524801d941de98bcb3f3746e2f9759680da3994b4286a22cb3b83e84f2cf11f8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 19 Jul 2024 13:19:17 +0000</pubdate>
+      
+
     </item>
     <item>
       
