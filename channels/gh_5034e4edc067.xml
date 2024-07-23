@@ -58,34 +58,114 @@
 
 
     <item>
+      <title><![CDATA[GPT-4o炸裂登场！大模型仍是最大赢家！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIvgYwzYO97qmBRfkkPv1wz9br4RPQw75FR6Pn6j9SgkMIcJaccr5q3kVBVLNnH9RGkSxCUARWE7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>从一年前ChatGPT突然爆火，到不久前文生视频大模型Sora以霸屏之势吸引全球舆论，再到OpenAI发布的王炸GPT-4o，与AI大模型相关的议题越来越多地被大众所讨论，如果说2023年的大模型风暴</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=1&amp;sn=42f6ee45b028da74a7f6c0d94224dc15&amp;chksm=bf0592850fe51ba8faa1e067df36fd29b2702d21feb03da712215e44c0738fbee307bae19d6e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[2024年大模型LLM还有哪些可研究细分领域？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDDbRBlyS0HB5ib1wvuEj19dd4Og24zsWBlC94Vvf73iam0w8hibKTBAAqgj5sEbC5tzZdXW8kuCeYVdA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：swtheking来源：知乎Pretraining部分Data Collection整个pretrain阶段最重要的部分就是数据收集，尽管OpenAI已经给我们了一套标准化的数据收集流程并也有很</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=2&amp;sn=43d05bbf11ec3d43f83fdd704baeb34b&amp;chksm=bff423f01a86941b9bf29864645e752397a6c69da4e8469ee864708840f057290f0a9dc74e6a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从dense到MoE -- sparse upcycling]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464KJqafZSxMgcFxyCd4r3vs1gmEdfVEr2WZu1OIeYYSeIJgDATYXUDicwjOib61m98Mnme0OvVfGChQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>目前已经有很多优秀的dense大模型，那么要通过MoE获得更强的模型，用已有的dense模型进行初始化是一个自然的想法。Google的sparse upcycling对此做了一些实验，由于实验是在20</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=3&amp;sn=c3fb9129c8d56fad741b209b21078e01&amp;chksm=bfabc9dfae3d89e4e5e40a2435a88476b69ea31aab0c39bb482e9e80853e5da82384a7cb4ed2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM基础知识】LLMs-Attention知识总结笔记v4.0]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBbOW12YJpSibiaSgCWJB70SsNl1lwC3L5zBZpy5zkib8Ba5qpjr1Osw5MbCmJ354aicMibhQLGD6Pia8Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>‍【导读】：本文是LLM知识点第四篇，介绍LLM中的最重要的Attention机制，具体有Attention机制，Self-Attention，Multi-head Attention的原理和实现细节</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=4&amp;sn=fc3695180d8a3ff584cd7180d430851a&amp;chksm=bfd514001223d3fb68b7def815549f77a790544d1e787b38e651ad95de7241d100a40282f49e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ACL 2024 | 关于多语言上下文学习中示例影响的多维分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibj1ATvtMalpSwjy3eOS2RDA2CIm0B42MeA6KPIPzPrNx3tUB2DYDjmQHp3Zd00RxZk9jOb4tAS1DaiaNL68CjNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享萨尔大学和慕尼黑大学团队合作的一篇ACL 2024 Findings 长文: The Impact of Demonstrations on Multilingual In-Context L</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=5&amp;sn=95cbc4557ceb1e831a39a3d146ef42cd&amp;chksm=bf77c04f25555605de05e3eef6985bdf67ee2c509ae61dc9fe3c24d0750f4997cfa8030cd362&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[刚刚，中国IMO奥数憾失第一，五连冠统治被美国队终结]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL12cxZFvsFfTxbxRLDXwM5BoMq1GIZO2KfibKca3ZBJ2ZR5HRa8Aj3LU7OxB9Dz4wQLHibIVSWDzsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | 量子位意外！全球奥数终极对决，第65届IMO，中国队以2分之差，憾失团体第一……卫冕失败，“五连冠”被终结。此次中国6位选手共摘得5金1银，总分190分，团体排名第二，位列美国队之后。中国队</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443733&amp;idx=1&amp;sn=836f8700b5449a73c20e2d3741725cbb&amp;chksm=bf135c320039611881c158b4588c364951af8cee82b58e577e3ef3196b9892daffe4fe472812&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Jul 2024 09:30:05 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【文末赠书】清华汪玉教授团队：首部高效模型压缩与设计专著重磅上市]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL12cxZFvsFfTxbxRLDXwM5Ol8K0KrEI8P9HwUibOPvlG1nKKYaE4iaicvhOdM0G1ibtQbRpNM7bBnjPA/300?wxtype=jpeg&amp;wxfrom=0"/><p>汪玉 宁雪妃 著电子工业出版社-博文视点 2024-07-019787121480591 定价: 119.00 元新书推荐🌟今日福利｜关于本书｜本书系统地介绍了高效模型压缩和模型设计的方法，在编写上兼</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443733&amp;idx=2&amp;sn=ce42184634f20e600ff53eff81a79f7c&amp;chksm=bf8f7a94354b89c784a4e8f8887a4c25f5f2de0d8629159a9ae86089d77ef50d5f587f1dabda&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Jul 2024 09:30:05 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[对话AI科学家何晓冬老师：大模型时代的业务探索和个人发展]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwrOLGIZh5WZiavuf6aAsYBcibhER7PdKnWRc6q7ic7GSAoiaGUzGzv7c5BSgvv1Gc8OcuxoiaENhgJAl3ZbfBkadxA/300?wxtype=jpeg&amp;wxfrom=0"/><p>特邀嘉宾 | He Xiaodong访谈编辑 | Yuan Shaozu【导读】非常荣幸能与何晓冬老师进行一个小时的深入交流，这次对话让我学到很多。何老师主要分享了大模型带来的机遇、业务探索的过程，以</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443733&amp;idx=3&amp;sn=fddd1944c345250332114348c3a89355&amp;chksm=bfc845510576ad81822c574fe7288e81b5213b6c13e7d8ff627b5ef3dd8f84e4888db380dc52&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Jul 2024 09:30:05 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[图解大模型计算加速系列：分离式推理架构2，模糊分离与合并边界的chunked-prefills]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkP0NCwHmDcdRAso0pHZib3DRvsLroqjxugylE4AiaI4wJBnAaBqeF9MfJ80qXZtJDaj1bibJxuU6A7Zw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在分离式推理架构1中，我们以DistServe为例，解释了“为何要使用分离式推理架构”：分离式推理架构可以解耦prefill（compute-bound）和decode（memory-bound）过程</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443733&amp;idx=4&amp;sn=79e9d3258e3971ea6cb627b8910a85b6&amp;chksm=bf85f8b53992bda7d6d08ccfd23265189c476a29d66fb81e90c2374d08680b39ce80d9094124&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Jul 2024 09:30:05 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Google最新开源大语言模型：Gemma 2介绍及其微调(上篇)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib4icLAibNLvZrOVxK4RXXjBSJXHhJ5JTpwGXjJm1F11ogE0JAy35aZUjM46DTCh3Utnnib5AptFLaAPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言简介Gemma 2模型介绍架构设计训练方法后训练优化关键发现:知识蒸馏的影响性能评估使用体验：Hugging Chat如何提示 Gemma 2基于Hugging Face Transformers</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443733&amp;idx=5&amp;sn=cee404b5aa92c1c8dea1654e61a5254c&amp;chksm=bf2da97dd3cef381d53727aa4b4a7d30088d18a0257048433953657be6ee050c248ab93f8531&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Jul 2024 09:30:05 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -404,246 +484,6 @@
       
 
       <pubdate>Wed, 17 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[打败Transformer，Mamba魔改将横扫顶会？！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJhP2T2OXL0vsN877UPMMZ8Fv7ib6X4cQexozZ6jAcpzRFTN4MD4oicGsfg2TBJh3LX383WibBjRGHSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年基于Mamba的改进变体层出不穷。涵盖图像分割、时序、视频音频、点云、多模态等方向。2024上半年已有近百篇相关论文，更有多篇被CVPR、ICLR、ECCV等顶会收录！未来几年内Mamba都是一个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443593&amp;idx=1&amp;sn=a941e6ff79bf6585a1e95aaaac88493c&amp;chksm=bf4de8724ef0228e55890224a6016822e0978484073bf9c10fdda991b62ac24e0c9ab48147bf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[超越DPO之Step-DPO]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL1LI9NboL7nXo7AH6t1BBa4ZfQ2S5M21FW3ox8vHhcPfyXoaTFU5q8tCDqEr38iaqSGHHH7PGOy9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：皓天来源：https://zhuanlan.zhihu.com/p/706106906近期，gsm8k、MATH被各种7B小模型刷的飞起，其中，step-level-dpo成为刷分利器。这里，i</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443593&amp;idx=2&amp;sn=281d4711062a6769e0ed9501ef85aba2&amp;chksm=bff175d3f0d728be2d761dcaa47d9e607bb836bc1ff71618838b2ef1e1d26a141dbbf48e6654&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Shopee上海MPI&amp;D招聘营销算法专家/高级算法工程师]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSINDeXxekXCmTAZ1b8TdgnCxL8REh2DTUF2cQTKpFWE69IicDbVvdiconNOyq7NNgnsxlZpymibAP6ibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Shopee-上海-MPI&amp;D-营销算法专家/高级算法工程师部门介绍：Marketplace Intelligence and Data 团队的使命是建立先进的大规模数据和智能产品来促进Shopee电</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443593&amp;idx=3&amp;sn=c2882f1575d36bfcd94eea3c50f41d53&amp;chksm=bf0ac6a781ef42563d52730d347881e928e9fe2d933668ee767b726f154cc5aa5bb182249378&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[MoE的top-p routing]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465Alh93SI5ZcL8ZZ6xA3FS2hVHslCZqcpvZylfGzM4uItic9eZ29ysGWVpHYiaEEOX0v0ib3P1DUiaIfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>北大、快手和AGIBang共同提出MoE模型的dynamic routing机制，把gating的top-k routing改成top-p routing，在减少平均激活参数量的同时效果还略有提升。M</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443593&amp;idx=4&amp;sn=0c902c201d763a5b338fa33c5593630b&amp;chksm=bfc35f0887978d99530dd44bf8bd316c24e5e0aacbb1ca59bb1c9ea6e10e7901414dea50fe53&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文详解AutoEncoder在图像生成和多模态大模型中的应用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icoiayg8hE0lmBlesuFrZLdvw67ZHnKQw2B5eNTNSs4iaQzibj7awcxw7UibXSGVhE1ZDq25SS1S2smqbZw/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：vasgaowei链接：https://zhuanlan.zhihu.com/p/681895334本文主要介绍AutoEncoder在图像生成（主要是自回归图像生成）以及多模态大模型中的应用</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443593&amp;idx=5&amp;sn=1cb7da3740614a67c7ae9454c3c933d5&amp;chksm=bf08dfd26d56ffdbfbb15a47717f460c596fb44cb8696d59e15fa52e79e45f0b982f605cd599&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从啥也不会到DPO：大模型实践经验最全总结]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLVgmAjVZ9YBCcaqjJmb3w96IlbtH6GrlCWEnfELPyWJJlhegoNOicZZOaDZhXnTVoxib11UTCnibnRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年半间就有了大幅度的技术迭代更新，LoRA，QLoRA，AdaLoRa，ZeroQuant，Flash Attention，DPO等技术效果已经在工业界逐渐得到验证。过去</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443573&amp;idx=1&amp;sn=27f7be7c6b3ad3518f11f92e6aa345ff&amp;chksm=bffca0e5abccc472f1890f8440bf5aad9744857e44aaf48f0de26408029e49ec9d1718da3c57&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从零预训练LLAMA3的完整指南：一个文件，探索Scaling Law]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL1LI9NboL7nXo7AH6t1BBa5uk82dDANcUgogEFopqwzkEHdQWZRbJLGI1jqbQ6IeVKCw9ZOjDsFA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Mantavers，AGI独角兽声明：本文只做分享，版权归原作者，来源 青稞AI原文：https://zhuanlan.zhihu.com/p/706097271引言最近，Andrew大神发布了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443573&amp;idx=2&amp;sn=f241d39c8c52a1a84332013c3c5e45d6&amp;chksm=bf2437f571ebde01a776798dfa5d50ff1cd3eb187c4e3ea9ca3aa2f9bf13b38968bdf534f9e3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DPO真比PPO更优吗？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vImdeGStOOexrAk93ArC4euYzW7V1UB8TzckQfwwiaFRjvbDzOVAOOln2n8UM5jRdOsYFEC0ictlD5Xia3LMBjVAw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文是对论文（Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study）的部分解析。因为找了几个知乎文章如 黄哲威 hzwer：[</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443573&amp;idx=3&amp;sn=2472ecdefeb5f77c0e5084f5ff283c35&amp;chksm=bf5d60eb573cbfdbc3b6fe4f2b9037cfd047c4466095bdb9d0a78c8cbdefc04e0a7f7008a856&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DeepSeek-V2和MLA]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW466ibAWgQCut83XjPG1RTzibBWpz8VVIQz0J1LQOa0vOsXe64ibAFAosTDsyNRZDEPxT5I0RU4ibNGBKiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek-V2发布之后，其低价策略在国产大模型界掀起一阵降价风。DeepSeek-V2能做到低成本推理的一个原因就是使用了MLA，使得推理时缓存量大大减小。本篇来看下MLA以及DeepSeek</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443573&amp;idx=4&amp;sn=019896da6c0353136087982c7adac11e&amp;chksm=bf09476968b268868d8c03291903c0f16431305338db5f10d73714ed9b7e0ff2d12c43d77635&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文详解多模态智能体（LMAs）最新进展（核心组件/分类/评估/应用）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icojYaJG2UIpZmpeKicR21GQic3dH0sicfPKuUia6byag0J7dJ3pBxfjUA58P70j2mN0nFtAhZhPic8HnR5w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Junlin Xie等解读：AI生成未来  文章链接：https://arxiv.org/pdf/2402.15116 github地址：https://github.com/jun0wanan</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443573&amp;idx=5&amp;sn=6853f2a6231f1035a83d9271c22bc07b&amp;chksm=bfe014c7b1c2695b4b95d20e138f86f30e20d87cf21d053a05c0c5419778e41aa016d5c1a68b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[现在LLM 的大小为什都设计成6/7B、13B和130B几个档次？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLVgmAjVZ9YBCcaqjJmb3w9CepsPXX9uE9zFz8aapia0EJMvJiaLdSNPtp9ExGiblz2SvvqiaJRe7FTiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：真中合欢链接：https://www.zhihu.com/question/627258986/answer/3262812950答案简单，就是匹配显存。6B模型可以在在12/16/24G显存的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443564&amp;idx=1&amp;sn=beaacddbf02a0761587743ffb5887413&amp;chksm=bf59cbe2b605e011265f2aab0da89bc250858663eb76b600f2289a393e076a78c649e3eb960a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Jul 2024 13:29:16 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【文末赠书】豆瓣8.4，时隔9年，经典Python编程三剑客之一第2版重磅上市！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLVgmAjVZ9YBCcaqjJmb3w9mvtBb6Z3v527wviaYqbFE7seEfHAnelbcQqp7wyPKiblCh0PL32Wel2A/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末赠书时隔9年，畅销近20万册，豆瓣评分8.4，被誉为"Python编程三剑客"之一的《Python极客项目编程》终于迎来了第2版中文版的问世！作为一本经典图书的延续，第2版不仅基于Python3.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443564&amp;idx=2&amp;sn=98b8b90a337fcf6a35981b336fb6811c&amp;chksm=bfd5f695ac7dcc0266edcd85ceaf90914b968449d35cc5cd97dc629670ffc4b7e7aa65c862c8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Jul 2024 13:29:16 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何评价LLM的好坏？一文汇总大语言模型评估数据集]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icohoT62GtodvFiarl35YDF3J4vxQlPNm3mn8VcibCb4wKlOVvXicia40BCD6zUNI0icQlBhBYRwFGVJCfwg/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：APlayBoy链接：https://zhuanlan.zhihu.com/p/691906037这篇博客深入探讨了大型语言模型（LLMs）的评估方式及其面临的挑战。随着LLMs应用领域的不断</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443564&amp;idx=3&amp;sn=bc264805045d0361f1151d95fa039fdb&amp;chksm=bf349c7a4fe6fcbc5ade0b6daaa37caa3c8d9ba50710fcc70c042c5775cfa4f61dd616f9e7dc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Jul 2024 13:29:16 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[bilibili的index-1.9B]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464Z43CCkAoap70eAjFQe9Y7Q3U5YORt78CMzvM16GKENxVpicxbtkJDurey9rhkrMF53jgQszibFOYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>bilibili发布的Index-1.9B包含：Index-1.9B base：在2.8T语料训练的基模型Index-1.9B pure：部分数据和base不同，其他相同Index-1.9B chat</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443564&amp;idx=4&amp;sn=99252b6fd6caf1aa0b2474a636ab05a3&amp;chksm=bffabdad085923d8e364ae9f61653fe97b81c43ca71d603eb894db02942528ae30e4676f6435&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Jul 2024 13:29:16 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACL 2024 | Temperature-scaling surprisal提高模型与人类阅读的相似；但是否"原因正确"?]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibj1ATvtMalpQVlygvdqYZcOwYcenic4iaYHv69CzWMiar7hTeoRzjhpvNOV0OyHPWfYP2HfQvyichKo3vRE8gseLCg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享慕尼黑大学， 萨尔大学和马普所合作的一篇ACL 2024 main 长文：Temperature-scaling surprisal estimates improve fit to huma</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443564&amp;idx=5&amp;sn=cf8d197f49035cb307e37b086f0a48a9&amp;chksm=bf96d8abbd258bf05034536fc348e3c87c8cce3f1818e19f1334623f6f21f1a4077ed456043d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 14 Jul 2024 13:29:16 +0000</pubdate>
       
 
     </item>
