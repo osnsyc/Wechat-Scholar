@@ -43,23 +43,80 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[60个最新开源Transformer压缩方法，让你的模型更高效！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbOaYkRRGyoDNXotGgbqIGSsfTWDbgrpJ1sqavpw5pOAvDkE4pkBSCjQsnsLC7QVAkPOabejNV7QOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家在实际部署Transformer时，都需要压缩模型来减少内存和计算成本。而Transformer模型结合了注意力和前馈网络，往往需要特定压缩技术来提升性能。本文总结了不同情况下的60种Transf</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247596049&amp;idx=1&amp;sn=4f3f5415ab1b83c3396bbb8b6b1917e4&amp;chksm=ce90b6961879cde8d086368b74f21c2470c20366cc5d0c94dac3ec70c0345bb858993b38c6cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Jul 2024 03:46:51 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[arXiv每日学术速递2024.7.24]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbOrIjqljcNw9qMrxAZvdsd4wGt68bpFumLZAtJT4TCx6AkriaZ5bHlYLSE089viaMQxM6DDTrw9tAQQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！  arXiv每日学术速递2024.7.24  人工智能相关计算机视觉与模式识别(cs.CV</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247596049&amp;idx=2&amp;sn=9a0d6f888a64578cfcfce8158b8ac530&amp;chksm=ceb4e45eb4f93de78bea2b384de1205f9a2a49300fd4089c52d60ff0121f1ec1f211af7c7c7b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Jul 2024 03:46:51 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[GroupMamba，基于SSM 的稳定高效视觉扫描技术 !]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVWVAEkNaUGwAckfuMXHm6eZR5lATgKqN3YeuRjkibw2g2xjRpSHYhdUnFFQia0PyB4e3Vw58SLWKGNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>状态空间模型（SSM）的最新进展已显示出在以次平方复杂度建模长距离依赖关系方面的有效性能。然而，基于纯SSM的模型仍然面临稳定性问题，并且在计算机视觉任务上实现最优性能的挑战。作者的论文针对基于SSM</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247596049&amp;idx=3&amp;sn=2d5a78ebea2cd0cbfe517e17a9defb34&amp;chksm=ce7c58e0f756f3948773f6db43cb11e6fa27300673736bed50d4003d7af3ec2b6099c641666e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Jul 2024 03:46:51 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[YoloCS：有效降低特征图空间复杂度（附论文下载）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1MtnAxmWSwPBHFQWibMaMAID2mTSaEpUs74iaicQOre11u7Kacicneibic2fMWcXOC5Uiby537WibVqgclSCia9logcjheA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文地址：YOLOCS: Object Detection based on Dense Channel Compression for Feature Spatial Solidification </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247596049&amp;idx=4&amp;sn=2d22a5d53ad51190e317f4e71228cc81&amp;chksm=ce14cf7b765d6867834932b0a83a09e52edacd3bafb36efb8382304b9bd6d287a1ec6fc2a785&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 24 Jul 2024 03:46:51 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[机器人版的「斯坦福小镇」来了，专为具身智能研究打造]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbOuBAokpQOU2cHtHBd2iaXbfDQ8wKP341ialuian3Q69R63qicdmDiaeSkic8FAPskazM5ibicA6RDJuOqX5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：张倩首个专为各种机器人设计的模拟互动 3D 社会。还记得斯坦福的 AI 小镇吗？这是斯坦福的 AI 研究者打造的一个虚拟环境。在这个小镇上，25 个 AI 智能体正常生活、工作、社交</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247595643&amp;idx=1&amp;sn=3b211d33d626ef0355c6e1406313f3e8&amp;chksm=ce057407023e92d1bdb5bf48c0e730c09dc3da9153e011f0b900a47eb85067e013e91b4f132a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Jul 2024 04:31:06 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[arXiv每日学术速递2024.7.23]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbOaYkRRGyoDNXotGgbqIGSsWibHY9smDgPAZiat4QZO7Ae3d6mUFBuSKNsNIqqpFFHAbeRJMPeQJSLA/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！  arXiv每日学术速递2024.7.23  人工智能相关计算机视觉与模式识别(cs.CV</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247595643&amp;idx=2&amp;sn=4e0364566149cac456f9bf97bd0b6a85&amp;chksm=ce2037426fda1df530d53f8550dc530a36e17b95ec5551cad02a8175ef10bbfe668ce5e5bc90&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Jul 2024 04:31:06 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大暑 | 浅谈量子复杂性理论]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3ca6UMoKPP3qSqlVrpwWsF8Be1kQre37E5jt6ecqVkOialdnL04NyjHDic58EQhaib87gzP8PwuelvibXRo75ldKlQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>算法复杂性理论的研究基于求解问题需要消耗的资源（如时间资源、空间资源等），通过算法的复杂程度探究问题的难易程度，并建立一个按照计算难度给问题分类的体系。通常我们可以将问题规范化为二元字符串上的判定问题</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247595643&amp;idx=3&amp;sn=30674b6dd0d2114462b0c04591d2accd&amp;chksm=ce9a2ac7e0350816b07d69e9d226785e66a9a4b5900d12b721fe0f03e96253c9e38674c9d6fe&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Jul 2024 04:31:06 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -410,70 +467,6 @@
       
 
       <pubdate>Wed, 17 Jul 2024 04:26:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[败给AI八年，围棋传奇李世石仍未走出AlphaGo阴影]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbPU9TicmicSUa9Dk2vJA687geXnrcbk42icqMhsfbJHA3wshdz9AEvibNMZQxP0QEAE3cIf0XGZBeMJTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑：编辑部【新智元导读】AlphaGo的胜利「是人工智能历史上的分水岭时刻」，也是李世石人生的一个「分水岭」，那次载入史册的失败让李世石的整个世界都坍塌了，但他正在用另一种方式重建着自己的世界，同时</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247593590&amp;idx=1&amp;sn=c439d7100379c7998d0ca8a65acb7382&amp;chksm=ceb69794f0d105ee0f5880a3ef5c42af881407fc2e4ef15170e2193fac0c6dfe333bdcacffa4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 04:51:01 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[arXiv每日学术速递2024.7.16]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbPU9TicmicSUa9Dk2vJA687geup3WLevMAjLv2WAqicKlCOJibHicKiaUMFJ7LRf51l9cQibx0uh5Vll4zeA/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！  arXiv每日学术速递2024.7.16  人工智能相关计算机视觉与模式识别(cs.CV</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247593590&amp;idx=2&amp;sn=dbfd148ed0357a2b7337170ee86f4099&amp;chksm=ce3a93eab8c523d43995f6a3531f4f3c152c5c28d975de19774016fc68621ce03db7d5846792&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 04:51:01 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[HAFormer：融合 CNN 与 Transformer 的高效轻量级语义分割模型 ！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVVicxRd6Fj48RzbHqtfVVkRffrzHrvnRj0Jd02klaGiabPqpOW6wiaeRCNpYGyydicnA7FmNlpj1flnKg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在语义分割任务中，卷积神经网络（CNNs）和Transformer都表现出了巨大的成功。人们已经尝试将CNN与Transformer模型集成在一起，以捕捉局部和全局上下文交互。然而，在考虑计算资源限制</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247593590&amp;idx=3&amp;sn=7ca1bf7cdad8748e660b7ca1b008e764&amp;chksm=ce0e60cbcb7a16b30bfe45dc4a75e136fa3e016bac6de31ae68d546ebed3e36779219fcf331b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 04:51:01 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[都在落地端到端！手撕代码，今天一起来梳理下UniAD的实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Ef2ZCfs8ZL5QesG1b0icaGJCPR0SPjHmobbhvIsaLAib3lZYC6JjWRibEHyXNiboZaZxEQx8ZJ3NGO1j1DiaUJO4m9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天自动驾驶Daily今天为大家分享一篇UniAD的核心模块实现部分，助力端到端落地。如果您有相关工作需要分享，请在文末联系我们！本文只做学术分享，如有侵权，联系删文写在前面UniAD是围绕查询设计的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247593590&amp;idx=4&amp;sn=f9d521f8a82953da3ea25e24c63f08f1&amp;chksm=ce440e6c7b4e78a83d9e56b22124c6a335b1f1cc272130dc4c549b9c4111fb0c03b0b5e707a5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 04:51:01 +0000</pubdate>
       
 
     </item>
