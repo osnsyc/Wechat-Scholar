@@ -47,45 +47,115 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[浅谈Llama3.1，从结构、训练过程、影响到数据合成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLcviay4L1dQiackaYRSH99s87hgbZFP6ic6zBZX1sD0ajb6JtQ9MfUWzblkB8Jsh4xPYfNbOdmbocsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Llama3.1系列模型的开源，真让大模型格局大震，指标上堪比最好的闭源模型比如GPT 4o和Claude3.5，让开源追赶闭源成为现实。这里给大家分享一篇俊林兄（@知乎张俊林）的一篇解读，主要对LL</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=1&amp;sn=1de5a42c127afba64f4838d3c578a66f&amp;chksm=bfa9db4e3b469b79bafa473318760bbed2bd655172ad48997d8ed56e5ce5f61fba43dfee5f1b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLama 405B 技术报告解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwreK2M2vvibMaCYv5mD1Wc49SCIteA4mzHqRBwzaV5wD7SlulnzQsLmQJiblBiaMVJiagWFo6hKScu9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>果然传的消息都是真的，meta在24号凌晨发布了llama 3的405B版本，这次还是做一个技术报告解读。值得一提的是，在技术报告的开头，meta特意强调了一个 Managing complexity</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=2&amp;sn=2b7d1f7dc00fabfbf71dc57e125bb9cb&amp;chksm=bfdd47bac70d7406349905126ade9bd84bf66eb4c7322d8ac01d69e17fef6b85acd469b6f9fe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[上海人工智能实验室招聘大模型群体智能方向实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLcviay4L1dQiackaYRSH99s8Cg5xTXiaA7l3rKqibLCJgQGiaGhKwZp7XdF9XSktUCcFNEvAZBGxWkibwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>实习生招聘｜上海人工智能实验室招聘大模型群体智能方向实习生          l实习单位：上海人工智能实验室           l地点：上海徐汇           l岗位名称：大模型群体智能方向实</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=3&amp;sn=472154d83662ec5e441f15dea8bd583d&amp;chksm=bf82627d30996ab7153a237ec5392a0cfa5e26e7360635f448905b33ac9521ff00971edc2e3a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[预训练数据处理--长度分解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467jyo7cNC1p5aQjb0l5pPWQSTUTIlkkjS0ZiakEp21Bu8xEwNNDv7acZnDgTJor9iagVibLic7ne6WGFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM预训练最重要的工作就是数据的准备，可以说90%的时间都在处理数据。苹果提出Dataset Decomposition，对数据按长度进行分桶，提升预训练的效率。1.预训练数据准备1.1.conca</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=4&amp;sn=b678bf4350ef262293d00ec72f29ed85&amp;chksm=bf440530b6495681902e5dcb0196c1a813b33f2a9da3a28bd7353f6f530c713ae8114c0e01db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[美团外卖AIGC视觉创意的探索与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hEx03cFgUsXicSLlh7QOFEpy6xWh7Wv84ibiaZAibhK9TM2ibKAbicdYRCQMwK728LBmyotrRXajoZweNcDn74C4kmVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>不同于其他电商场景，外卖业务下大量中小商家营销能力弱，菜品图像质量差，因此在C端对菜品图利用AIGC技术进行美化存在较大的潜力。自2023年以来，美团针对智能头图展示的菜品供给利用AIGC技术进行全面</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=5&amp;sn=9c9828f907af8aa6549559992e0e4d3a&amp;chksm=bf9daa6124dddd2a541e2d0e0fca47f19416c29b303bb4bd7a7b298312e132e416d7bb3ed956&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[GPT-4o炸裂登场！大模型仍是最大赢家！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIvgYwzYO97qmBRfkkPv1wz9br4RPQw75FR6Pn6j9SgkMIcJaccr5q3kVBVLNnH9RGkSxCUARWE7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>从一年前ChatGPT突然爆火，到不久前文生视频大模型Sora以霸屏之势吸引全球舆论，再到OpenAI发布的王炸GPT-4o，与AI大模型相关的议题越来越多地被大众所讨论，如果说2023年的大模型风暴</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=1&amp;sn=42f6ee45b028da74a7f6c0d94224dc15&amp;chksm=bf0592850fe51ba8faa1e067df36fd29b2702d21feb03da712215e44c0738fbee307bae19d6e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[2024年大模型LLM还有哪些可研究细分领域？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDDbRBlyS0HB5ib1wvuEj19dd4Og24zsWBlC94Vvf73iam0w8hibKTBAAqgj5sEbC5tzZdXW8kuCeYVdA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：swtheking来源：知乎Pretraining部分Data Collection整个pretrain阶段最重要的部分就是数据收集，尽管OpenAI已经给我们了一套标准化的数据收集流程并也有很</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=2&amp;sn=43d05bbf11ec3d43f83fdd704baeb34b&amp;chksm=bff423f01a86941b9bf29864645e752397a6c69da4e8469ee864708840f057290f0a9dc74e6a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[从dense到MoE -- sparse upcycling]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464KJqafZSxMgcFxyCd4r3vs1gmEdfVEr2WZu1OIeYYSeIJgDATYXUDicwjOib61m98Mnme0OvVfGChQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>目前已经有很多优秀的dense大模型，那么要通过MoE获得更强的模型，用已有的dense模型进行初始化是一个自然的想法。Google的sparse upcycling对此做了一些实验，由于实验是在20</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=3&amp;sn=c3fb9129c8d56fad741b209b21078e01&amp;chksm=bfabc9dfae3d89e4e5e40a2435a88476b69ea31aab0c39bb482e9e80853e5da82384a7cb4ed2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM基础知识】LLMs-Attention知识总结笔记v4.0]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBbOW12YJpSibiaSgCWJB70SsNl1lwC3L5zBZpy5zkib8Ba5qpjr1Osw5MbCmJ354aicMibhQLGD6Pia8Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>‍【导读】：本文是LLM知识点第四篇，介绍LLM中的最重要的Attention机制，具体有Attention机制，Self-Attention，Multi-head Attention的原理和实现细节</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=4&amp;sn=fc3695180d8a3ff584cd7180d430851a&amp;chksm=bfd514001223d3fb68b7def815549f77a790544d1e787b38e651ad95de7241d100a40282f49e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ACL 2024 | 关于多语言上下文学习中示例影响的多维分析]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibj1ATvtMalpSwjy3eOS2RDA2CIm0B42MeA6KPIPzPrNx3tUB2DYDjmQHp3Zd00RxZk9jOb4tAS1DaiaNL68CjNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享萨尔大学和慕尼黑大学团队合作的一篇ACL 2024 Findings 长文: The Impact of Demonstrations on Multilingual In-Context L</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443749&amp;idx=5&amp;sn=95cbc4557ceb1e831a39a3d146ef42cd&amp;chksm=bf77c04f25555605de05e3eef6985bdf67ee2c509ae61dc9fe3c24d0750f4997cfa8030cd362&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 23 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -324,166 +394,6 @@
       
 
       <pubdate>Fri, 19 Jul 2024 13:19:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[薪资真猛！小红书「REDstar顶尖人才计划」全球启动，大模型、算法、开发全都有！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLjjIjsuXOFg7G22yZoTDkHSpNFohmLBTHWZgrHoB1y8deCeVL7z9iaNAjpAPhAOSLiafsRhwW2oRUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>📢 小红书「REDstar顶尖人才计划」启动！大模型、算法、开发岗全都有建议今年校招的同学都去冲一冲毕竟小红书这几年发展特别特别快给顶尖人才的待遇属于Top1梯队 大家现在冲一波趁着校招提前批把小红书</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443648&amp;idx=1&amp;sn=ee06af34d3a49ac7990f591b3b58ecba&amp;chksm=bfed279516ba61405027cd768503587fb72be610f4fbe21f2dec1ab11b480de6bf0eb4173845&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jul 2024 12:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[首个WebAgent在线评测框架和流程数据管理平台来了，GPT-4、Qwen登顶闭源和开源榜首！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJBmOWaUib0Yq1t4m2RhFChv645UWGnPS9YMb1QEYJuIJxJ2ZUlGGKo77D9UBA3FBPDPDWUdZk1kRw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：WebCanvas: Benchmarking Web Agents in Online EnvironmentsArxiv论文链接：https://arxiv.org/pdf/2406.1</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443648&amp;idx=2&amp;sn=dfa7391a5f0babbdabf17d2634d00391&amp;chksm=bf1760340ddb3d5b79dae8f2f9ff6a7f3fbb93edd2cb58c88d638d4c18a7e9fff322eceab5bf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jul 2024 12:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2技术报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465Z198r2JSfhntlPNWtV9icJy1icM8Cb0G8pMB8Afib6kxe7CTrUlr1AhWngFTUtPS4N6iaWstoia1ETQQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>不久前Qwen2发布了4个dense模型和1个MoE模型，模型规模从0.5B到57B，实用效果都还不错。现在技术报告终于来了，来看下技术报告里披露了那些有用的信息。1.模型Qwen2的5个模型结构和训</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443648&amp;idx=3&amp;sn=824a060865fa36f9cb540fb0efd8956d&amp;chksm=bf9584c8cf08bc74d5ef2fdcc9a4b82498c3aa9e323b816005f777592fb611659857a9ff34b2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jul 2024 12:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型数学能力增强方法总结]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDDaPlxPvo65sjR5bYFAaiabBaJU0xezVEDlPXcwQ7WJF4AcxAbWxjCVJjxR3gjqYZE1aNficxVgXiaoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>WizardMath (2023-08) WizardMath模型的设计理念和训练方法体现了深度学习领域中对于特定领域知识处理的最新进展。下面简要概述一下WizardMath模型的训练流程：监督式微调</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443648&amp;idx=4&amp;sn=c3badc841ace914e0e6b4279e629c88b&amp;chksm=bff047ed1b53a5bf730ffaf3f32c37085cf4fc841f26969409335707693a6bacce0a89a09396&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jul 2024 12:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[微调 Florence-2 - 微软的尖端视觉语言模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2qJicbLk0lNibZMmJicddzyvITrWdibVKUibibtMakmcPoNpHre8T7FIqA6DojNOX0SZudcAS3N8quI9YfA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Florence-2 是微软于 2024 年 6 月发布的一个基础视觉语言模型。该模型极具吸引力，因为它尺寸很小 (0.2B 及 0.7B) 且在各种计算机视觉和视觉语言任务上表现出色。Florenc</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443648&amp;idx=5&amp;sn=a6741ca595c1fdc34961fab8f2fc4545&amp;chksm=bf41f0487dbda9bdc64451ef89fbcd7acfee0a93a6ab463a4091697318a3cc4c1f7e3cb6755e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jul 2024 12:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM新机遇：多模态大模型SOTA来了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSINDeXxekXCmTAZ1b8TdgnCzd8JuyHwISZZVdyCDLKiaWDLbBAPcM09vg8I0wcp0VX9Tv3xeic0FFew/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPT-4o在人工智能领域掀起一股多模态热潮，多模态技术也正处于大爆发早期。今天的多模态AI在科研领域几乎与2017年的NLP科研路线一样，所有需要研究的上下游任务与所有可能的技术路线之间，正在上演各</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443613&amp;idx=1&amp;sn=d6b8ca5c11c1afdcdb6d9a95c2200e58&amp;chksm=bf925eaceb09106202142d99a4677b28d225f8a9dd522b5916aefad07eaa5dcdfb365881af85&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型Infra这些年，从黑铁时代到黄金时代再到白银时代]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJBmOWaUib0Yq1t4m2RhFChvBuZfWVloibDFu9JvpscPP0DTh2g1bibc47JBWAfWcibWuPuG1u0FBQDWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：方佳瑞，清华大学 计算机科学技术博士；腾讯 · 专家工程师。声明：本文来源青稞AI，已经授权，版权归原作者！原文：https://zhuanlan.zhihu.com/p/708594043越来</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443613&amp;idx=2&amp;sn=fad70357f9a0ae0fbf7c5c278f6bb3ec&amp;chksm=bffb332cafa91c43172b0091def0b5a66ecc5b8e05a6f3be29c494e9b6bc703d4b921b052f0a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大语言模型高效推理知多少？三万字长文带你揭开神秘面纱（数据级、模型级和系统级）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icojeaw0hI4pYfd9YGsUzibiaeXk12tIVfiblCFTEIciagEfLb8C4t9uFaGoZxHzicGe4KibsNfSJrh3w2oIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Zixuan Zhou等解读：AI生成未来      论文链接：https://arxiv.org/pdf/2404.14294.pdf大语言模型（LLMs）因其在各种任务中表现出色而受到广泛关</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443613&amp;idx=3&amp;sn=de6aef5b8ccafc35d53a081981828b9f&amp;chksm=bf2c7b9d8819e0ec121a24c2533303e9ee7183f22d6ea3b6351810086a6a057e2a168e7bc2a4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[对MoE模型的一些观察]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465JrAA3I2jCvGvQBvqU3licQlvNPm1dYwZI2V1CRD2YIZBuAib4JFCeMKOwF9LeLX0ibuokhlP3etscw/300?wxtype=jpeg&amp;wxfrom=0"/><p>包括清华和港科大的五所高校对几个MoE模型进行一些研究，并给出一些相应的模型设计建议。1.MoE当前主流的Sparse Mixture-of-Experts模型在N个专家中激活k个，k < N，具体建</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443613&amp;idx=4&amp;sn=dc5abe660357efb712474422977ec68c&amp;chksm=bf40dc916306fa5a47602f6a8b670b64f18860c8439021362463ea9d54a192c709f8e7b07da6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Jul 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Cosmopedia: 如何为预训练构建大规模合成数据集]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2rYictgPCf8GWGydcas3SuwTOVF1LEGwkWREYmYCukdtTeGJ5Q2bbn16eVBEFwfGbReNibiakMwzDqZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文概述了我们在生成含数十亿词元的合成数据集以复现Phi-1.5过程中所遇到的挑战及其解决方案，由此最终创建了Cosmopedia合成数据集。合成数据已成为机器学习社区的 C 位话题，其题中之义是用人</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443613&amp;idx=5&amp;sn=673db84624d3f0ebeba79b94f2091a1b&amp;chksm=bf5c443bd687910bb60dc2846ad26e75d71a1096233f3554cb030806dacc458ad66dafeee461&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Jul 2024 02:10:00 +0000</pubdate>
       
 
     </item>
