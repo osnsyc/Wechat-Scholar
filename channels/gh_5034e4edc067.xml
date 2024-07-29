@@ -37,40 +37,115 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[Llama 405B背后的训练、对齐技术演变路径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJNm9ibRjg92hvspnjfnnUJxRDzu5IQtX0Q0L9mVKiaWibJeWQd7AYbsxj27X6NlDJYzqH6aGOOmwVjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型的飞速发展，在短短一年半间就有了大幅度的技术迭代更新，LoRA，QLoRA，AdaLoRa，ZeroQuant，Flash Attention，DPO等技术效果已经在工业界逐渐得到验证。过去</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443872&amp;idx=1&amp;sn=d1e12680276f9237dabe7ba80ebfa466&amp;chksm=bf252fa7a7a786644522d7fa8d68b1f1a5e153a83e5132a9a33d316b8bc01cfcc5de59d1350f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 29 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[为什么说大模型训练很难？聊聊预训练的一些经验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL5XkL946ZRAn14LSUn6Ktxv57nAWWy5rPhzuZn6mfEEzbgLLLoOyeMbeFFBTfWOLibKQGN0unX6hg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：罗小黑，主要做NLP声明：本文只做分享，版权归原作者，青稞AI整理原文：https://www.zhihu.com/question/498271491自从Bert网络模型产数量超过3亿规模，当</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443872&amp;idx=2&amp;sn=3df3010223b426ce74c8edca121bfd54&amp;chksm=bf2a2aaa5037c579c45620a6b5fb6ddf1923e2b5d34009bb9f25dd67e02bf8f282f224484557&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 29 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Llama3.1--post-training要点一览]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464iactcJwYsUrZcBMI7BgI5ZMbgUd9kClmXjZ5icto96sODFT3SY3u6kvBQRiak1gfl5DCjHQ5F4tSGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>书接上回：Llama3.1--预训练要点一览，继续整理一下Llama-3.1中post-training的内容。在Llama-3的报告中，任何在pre-training之后发生的训练都属于post-t</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443872&amp;idx=3&amp;sn=05f2ce4a16c8228801c02e9f41d00fab&amp;chksm=bf36231f619f25b0a2e815a81b55a613f7b0ec640fdb9a21f22b9694d7b0d1c8ab147783cff8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 29 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM基础知识】LLMs-Norm&amp;激活&amp;FNN层知识总结笔记v5.0]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBbOW12YJpSibiaSgCWJB70SsNl1lwC3L5zBZpy5zkib8Ba5qpjr1Osw5MbCmJ354aicMibhQLGD6Pia8Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM知识点第五篇，介绍LLM中采用的Norm方法，重点介绍LLM常用的LayerNorm，RMSNorm，DeepNorm。接着介绍ReLU，GeLU，Swish激活函数和GLU及其</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443872&amp;idx=4&amp;sn=af329c7b93a7e864bc18cc8b6b9cdd3f&amp;chksm=bfb8d5e126a88ad082efa3a86551ffe80b68742914362a23c1a0929a32df80026f36ac48d057&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 29 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[语言模型之text embedding（Decoder_only篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpsGBXO4eSaJl81GYQgRZ3NyQKicfZq3vTctrGmuBGKXJKOvl22D2Lp7zXaPMicGcfRbjoF3E7P8ib5dg/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介2 任务介绍3 decoder-only    3.1 模型基底优化    3.2 注意力机制优化    3.3 Pooling方式调整    3.4 训练数据优化    3.5 训练方式</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443872&amp;idx=5&amp;sn=80d40eca682034aa6dd59a963612ae67&amp;chksm=bf78acde071fcfdcd373a1108dfee76e5802d20c914729a20bebc86610a8060d04d2883cd5ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 29 Jul 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[腾讯宣布全员调薪了...]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJNm9ibRjg92hvspnjfnnUJx4R42s2NzFricyXQoGqIUGDAAPpLnkJErBNSreicXhicWbCdh0zpHGtTyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月10日，从腾讯内部人士处获悉，腾讯发布全员邮件，称将调整内部薪酬福利政策。主要内容如下：1. 校招生的房补从每月4000元调整为按15个月发放，并将其纳入月薪基数中。调整后，员工每月基本工资增加3</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443846&amp;idx=1&amp;sn=6d8272b34fe553d453cb4df0027256a7&amp;chksm=bf6791f66a2655c88a7bdc4fa5254e66b372ce89519dbba51f0cac55fbff521f5a315493d758&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 28 Jul 2024 11:25:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[赠书：《快速部署大模型，LLM 策略与实践》]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJNm9ibRjg92hvspnjfnnUJxrdzWibgBsKMHoeFib9GWaWN01qJKPjqqWEgsiaPaS9hS2gICicTrL5S7tg/300?wxtype=jpeg&amp;wxfrom=0"/><p>❝本文“如何写好提示词”节选自《快速部署大模型，LLM 策略与实践》一书提示链提示链涉及使用一个LLM的输出作为另一个LLM的输入,以完成更复杂或多步骤的任务。这是一种利用多个LLM的能力,并实现单个</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443846&amp;idx=2&amp;sn=04ccaf98ff4c97564aebb4a6f8b45320&amp;chksm=bf8b261fc726c4696bf4620ec3b7c03fc9af16174c63dd89047537b38d9af5975457f3f3ab8a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 28 Jul 2024 11:25:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[如何从Meta窃取价值百万的Scaling Law数据]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvLfeJib8wQKFH6zcM9Rial544FClvia23rLqem3jVkQoYs5cT2mBlaQV0C1cTSVme7VXKpy3s3Dcwp3Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>Surprise surprise 恭喜你被骗了，这里的一切内容都是合法且符合中国特色社会主义价值观的。背景开源皇帝meta最近推出新的开源模型llama 3.1，其中最大的模型尺寸来到了巨大的405</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443846&amp;idx=3&amp;sn=68380eeb803ce0a9a4319456a654f320&amp;chksm=bf982d028d3ba82edfa4872d27364460f83f11591199fae9a36801c46109118bb2b6c1499ea7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 28 Jul 2024 11:25:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[一大堆Llama3.1-Chinese正在袭来]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kuOUbz3AyNbp5qse4qsk9dFcK5tXRLkfWkRY8WjxSQiadlDzf5yfTxBiauzF6EiaXsDklvAItibicKFJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面Llama3.1模型已经开源，在这短短几天之内，也是出现了一些Llama3.1汉化的repo，开源社区也是相当的卷。主要是Llama3.1没有关注中文，虽然是多语言，但主要针对英语、法语、德语</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443846&amp;idx=4&amp;sn=c566979ad666e3a1f77bac9429faa205&amp;chksm=bf85f894796094c6247456e29f209c1c03e7737698529133f0f16ace864ff3dbbe7c5061af20&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 28 Jul 2024 11:25:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【推理加速】vLLM加速部署LLM重要参数]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGDTOu5v1pvJZ5c9MiaEdgSRDmib6LX2ibTdIWb2MI8Pwv4icibQLtNlqQclWPX0mHnuJXm9jkvjT3MthKA/300?wxtype=jpeg&amp;wxfrom=0"/><p>部署简单示例from vllm import LLM, SamplingParamsprompts = [    "Hello, my name is",    "The president of t</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443846&amp;idx=5&amp;sn=7c2a1989009b90e172bb8200ac64235b&amp;chksm=bfe1a6f8a76b7a206aff597db74b67a5919546925859f7ccc99fa3d396dbca9221050fd0f7a0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 28 Jul 2024 11:25:39 +0000</pubdate>
+      
+
     </item>
     <item>
       
