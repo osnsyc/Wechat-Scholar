@@ -24,17 +24,45 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[LSTM又火了！最新52个创新思路+全部开源代码！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDjJgkNqOecgicjIRogkkBia31fkbK6cmjhjNx5IricXYotA7oA9af6eqU5TdSRN6IoK58KrIbPW2PEzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年上半年，LSTM火了！LSTM原作者分别提出xLSTM和Vision-LSTM，解决了以往的局限性。同时，LSTM+Transformer登上Nature；LSTM+CNN、LSTM+Attent</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698406&amp;idx=1&amp;sn=e6b8bc57c22a492b5b0bc8bab457dac7&amp;chksm=f2561a1334de4c8ec7160718cceb3bcd1c4737cc553e62525c482bfb577a76785137cb6890be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 21 Jul 2024 13:58:41 +0000</pubdate>
+      <title><![CDATA[ICML 2024｜SLAB：华为开源，通过线性注意力和PRepBN提升Transformer效率]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/s1ZNq0rdQe7lH9k5e9VGkuJeqW7lhhjdr0eC4qyzzB1RItZK1gMSFjjF36xfvzuDSJKaXh6ibqGyKYlyl1ShfbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文提出了包括渐进重参数化批归一化和简化线性注意力在内的新策略，以获取高效的Transformer架构。在训练过程中逐步将LayerNorm替换为重参数化批归一化，以实现无损准确率，同时在推理阶段利用</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698408&amp;idx=1&amp;sn=4a03193ed2cd9a9772281b99ff1e4873&amp;chksm=f2fd02221c8351efda6c1db335b671b0abb8052401fa8fc842d3da994a381f64483a4bcdafff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jul 2024 14:11:22 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[DALL-E 3不到50%，SDXL仅24.92%！各大SOTA文生图模型为啥这么难符合常识？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icoj3o40oMaXOapk453Y2l3guGp3ibsgodKS5PdDyPrCxtuApwwia2mfm0cNBHettQb4f5OvGBZBzTxfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Xingyu Fu等    解读：AI生成未来   论文链接：https://arxiv.org/pdf/2406.07546 项目链接：https://zeyofu.github.io/Com</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698406&amp;idx=2&amp;sn=96827b4f7a447e28478774cebf9de47b&amp;chksm=f205d1eea63bc2f96ce25c9391e07dd2a7e3d2a3b28b5119369a5868540e2bf628d069356963&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <title><![CDATA[LSTM又火了！最新52个创新思路+全部开源代码！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDjJgkNqOecgicjIRogkkBia31fkbK6cmjhjNx5IricXYotA7oA9af6eqU5TdSRN6IoK58KrIbPW2PEzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年上半年，LSTM火了！LSTM原作者分别提出xLSTM和Vision-LSTM，解决了以往的局限性。同时，LSTM+Transformer登上Nature；LSTM+CNN、LSTM+Attent</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698406&amp;idx=1&amp;sn=e6b8bc57c22a492b5b0bc8bab457dac7&amp;chksm=f2561a1334de4c8ec7160718cceb3bcd1c4737cc553e62525c482bfb577a76785137cb6890be&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 21 Jul 2024 13:58:41 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[DALL-E 3不到50%，SDXL仅24.92%！各大SOTA文生图模型为啥这么难符合常识？]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icoj3o40oMaXOapk453Y2l3guGp3ibsgodKS5PdDyPrCxtuApwwia2mfm0cNBHettQb4f5OvGBZBzTxfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Xingyu Fu等    解读：AI生成未来   论文链接：https://arxiv.org/pdf/2406.07546 项目链接：https://zeyofu.github.io/Com</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698406&amp;idx=2&amp;sn=96827b4f7a447e28478774cebf9de47b&amp;chksm=f205d1eea63bc2f96ce25c9391e07dd2a7e3d2a3b28b5119369a5868540e2bf628d069356963&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 21 Jul 2024 13:58:41 +0000</pubdate>
+      
+
     </item>
     <item>
       

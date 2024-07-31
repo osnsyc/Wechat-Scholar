@@ -27,11 +27,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[基于FloEFD的太阳旋转照射仿真]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/luuln3nqibTKuE3JZic2iaG7AqPs0QpxspxzN32kgTc2do7B1IdMBepljHZaoG1KTKqMqFmyjBvQtJrXECoyzwPeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.在FloEFD中画个模型                      由图可知，坐标原点在中心，这里太阳是绕着全局坐标系的原点转的           2.其他正常设置，主要是辐射这里的太阳辐射  </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU4MjgyNTczMQ==&amp;mid=2247485417&amp;idx=1&amp;sn=ba9348d1016fb05745fb2a4f1a900f90&amp;chksm=fc586657012f62dbf34a2bc8d14fc3c10322f2038485b6a68aaba23d34cfaca4823046a8925d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 30 Jul 2024 09:30:42 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[hypermesh-abaqus热应力仿真]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/luuln3nqibTJEgup2FSLrLUXRY6r0k4Q8IsWUaIegPxOGpXtic9GicshKKyeiakhoic5XTPKHqCkgonjFH5C6iaYd7iaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.在Hypermesh画好网格并赋予材质（弹性模量、泊松比、CTE热膨胀系数），创建所需集合，导出inp                      这里留了0.01mm的间隙            </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU4MjgyNTczMQ==&amp;mid=2247485386&amp;idx=1&amp;sn=775d8ac072316e7dfc453b0101dd0cba&amp;chksm=fc6d858be958ec3fdf30b2fd26e5105ef2ef06d83cc8498655aa470f99a7cc10014885a502dd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 12 Jul 2024 01:54:53 +0000</pubdate>
+      
+
     </item>
     <item>
       
