@@ -43,34 +43,114 @@
 
 
     <item>
+      <title><![CDATA[探索混合专家（MoE）模型预训练：开源项目实操]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLy45lQiafOjJhNXiaBdyn6vu6ibl5gF1ibdYlEu9SzdibicIHhrghnMHDBYlA8FASI8icBFN8UbkQX457tg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Mantaverse，算法、产品、AGI，拥抱新时代声明：本文只做分享，版权归原作者，青稞AI整理原文：https://zhuanlan.zhihu.com/p/708804769MOE模型是什</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443908&amp;idx=1&amp;sn=bb12249cf0d284469760c451218f5e07&amp;chksm=bf6b9cc90fdabec5e773c2da4624b5e406aa7f47778d0351ae837d06510b83b83d7282f2d10f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Aug 2024 14:09:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM开源模型】LLMs-Qwen2-通关攻略笔记v2.0]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdAXjIXxza8x2XFbqyaqIncia9oMfbsug8uKBE73uFibXmjm1PvhRh8c1TRqryaH7fQicNxHxrKX8aaag/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM开源模型解析第二篇，介绍Qwen2系列的开源报告QWEN2 TECHNICAL REPORT，其中会涉及Qwen2核心总结，模型架构(Dense,MoE)，模型预训练(基本预训练</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443908&amp;idx=2&amp;sn=288e787bdb3c6bb0136dfa7b6d491adc&amp;chksm=bfc0a248f1df88b56a34023b07fca1bc29e078e415056b2f303d9eec40ee581da282f5410c00&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Aug 2024 14:09:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[一文详解模型权重存储新格式 Safetensors]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/J0mLianhFicBHgGYjELapDzUdsMKMa9tj9MzM9E8oDG3sB04WKYg8Wiaq04bfBuWOSUrVNMiboIvzPQl6OmX4wdAGQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在日常AI模型训练过程中，需要好的模型权重通常需要以一种格式存储在磁盘中。比如：目前最流行的AI框架 PyTorch 使用 pickle 格式存储模型权重文件。但 PyTorch 文档中有一段话说明如</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443908&amp;idx=3&amp;sn=40dfed24e1d92e3ac384dffdfc7425a0&amp;chksm=bf69bcceeca4c1edea725969df458236570f889d33267e1ff6227d349de8d638d72a8cc8c9d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Aug 2024 14:09:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[模型平均 -- model soup]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW466M8Y3U3QB91CqLRAlGaSWiaKRAQa7p0bSYEbAQuLNlvpRkLzHcE7zzG3sZr5w4XnvpgJTEqG6u3CA/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近苹果的DCLM和Llama-3.1技术报告都提到了model soup：《Model soups: averaging weights of multiple fine-tuned models </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443908&amp;idx=4&amp;sn=8e2715aabbd33e1c7301e0fa403a65a1&amp;chksm=bfa020199772c4811e0504612a9e3d1d180e2ac3fbcdda9de7360eb7727feba259cbc2e60148&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Aug 2024 14:09:30 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Language Modeling 中的negative diversity ignorance问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QLDSy3Cx3YJdJDpxic9ZaJz8DRGxxas0VkAibvG8kka3akOWv5VR1feRT4Oju8q4Clm5nFMnk4evIbAV4lPXnngA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Language Modeling 中的negative diversity ignorance问题Auto-regressive language modeling 使用 cross-entropy</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443908&amp;idx=5&amp;sn=d5031cf6c424a886e8c4182b2e5c6970&amp;chksm=bfa8e4e4be1c3f1d989324d05c6770f43db8a114e77ff1b0fb6630a5a89db83b41a5327c23dd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 01 Aug 2024 14:09:30 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[“我，在腾讯月薪6万，离职后突然惊醒：人越努力，只会越平庸”]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL5XkL946ZRAn14LSUn6KtxOqLYtEU1RIz2YiasfArW7SqtZg4DGLFGjDM51kY3TuXYsjIwOD7w4lQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>“人要努力，要有上进心，才能成功。”这句话我听了无数遍，所以我一直在努力。小时候努力考100分，长大后努力工作，努力买房买车。可我努力了快半辈子，但感觉成功还是离我好远，好像看得见，但总是摸不着。而且</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443895&amp;idx=1&amp;sn=94c88baeda0c4d02f9807058a1ff7d10&amp;chksm=bf4207343846a0f242d829a7b72fcecfca97bcbcaf58cfb37fb7b6e316e6e8e48004184a7e5e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 30 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[图解Attention优化: 从Online-Softmax到FlashAttention V1/V2/V3]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLG41KibtRk3XGfoRibZP2iaU3Gcc8eicqTOoTSXicJz11EZyWmhkJvribRbxed4rIicGibDsJclnpqxiaaqHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：DefTruth，AI Infra，暨南大学(JNU)主页：github.com/DefTruth声明：本文只做分享，版权归原作者，青稞AI整理原文：https://zhuanlan.zhihu</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443895&amp;idx=2&amp;sn=869eb05182628907d0f21c7d820b4799&amp;chksm=bf48dcf4bdb3682c20766d39752e1b608c3ab8484a0acd1ab1ac072fa11ad83cc9a1455e5379&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 30 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM开源模型】LLMs-Llama3.1-240723通关攻略笔记v1.0]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdAXjIXxza8x2XFbqyaqIncia9oMfbsug8uKBE73uFibXmjm1PvhRh8c1TRqryaH7fQicNxHxrKX8aaag/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM开源模型解析第一篇，介绍Llama3.1系列的报告The Llama 3 Herd of Models，其中会涉及LLama3.1核心总结，模型架构，模型预训练(预训练数据，模型</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443895&amp;idx=3&amp;sn=7cdd80c9cb922f189f9d063ce1d46255&amp;chksm=bf3b826f4adfe4008fb5c0fdd5096d85430693feb09d10d0d21e165482954dfe27d7f7fecb92&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 30 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[基于LLM的搜索排序]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BAVX0pafImnIo1TQpcomicOE9ibS6OIufooCE2r3xBgVoXVs6vYRzXm4EV7Db4G9QJfneZzGlWtAZmle5QV2KulQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型在各种与语言相关的任务中表现出了显著的零样本泛化能力，包括搜索引擎。然而，现有的工作主要利用LLM的生成能力进行信息检索，而不是直接进行段落排序。这篇EMNLP2023的论文(Outstan</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443895&amp;idx=4&amp;sn=0c3b540744d161093b16a57749f1c39a&amp;chksm=bf8d8ad5410cc0e12c15c734c236ac3220cd49839ad34da5ced9f80b3255954292124fe6af9e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 30 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Nvidia提出ChatQA 2，提升LLM的Long Context和RAG能力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDDlVFYzMaJU5uPu0Gf4Jt5Z0ywsKHUquJNUfsOmqEZKYpEUS9Ck1f3sPvILBdzbRTyZOW23NkoZ7g/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，英伟达发布了ChatQA 2模型，其想法是弥合开源模型和领先模型如GPT-4-Turbo之间的差距。文中提出了一种训练方法，以有效地扩展 Llama3-70B 的上下文窗口 (8K->128K)</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443895&amp;idx=5&amp;sn=5093a0f95c6d46476a8e06eec6b8578e&amp;chksm=bf2f99cf633ea2c26026d1e428d1d2b06a0d58d9a38a02eb8a1b01a795cf6a627e3e0b4d7149&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 30 Jul 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -309,86 +389,6 @@
       
 
       <pubdate>Fri, 26 Jul 2024 13:50:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[浅谈Llama3.1，从结构、训练过程、影响到数据合成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLcviay4L1dQiackaYRSH99s87hgbZFP6ic6zBZX1sD0ajb6JtQ9MfUWzblkB8Jsh4xPYfNbOdmbocsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Llama3.1系列模型的开源，真让大模型格局大震，指标上堪比最好的闭源模型比如GPT 4o和Claude3.5，让开源追赶闭源成为现实。这里给大家分享一篇俊林兄（@知乎张俊林）的一篇解读，主要对LL</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=1&amp;sn=1de5a42c127afba64f4838d3c578a66f&amp;chksm=bfa9db4e3b469b79bafa473318760bbed2bd655172ad48997d8ed56e5ce5f61fba43dfee5f1b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLama 405B 技术报告解读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwreK2M2vvibMaCYv5mD1Wc49SCIteA4mzHqRBwzaV5wD7SlulnzQsLmQJiblBiaMVJiagWFo6hKScu9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>果然传的消息都是真的，meta在24号凌晨发布了llama 3的405B版本，这次还是做一个技术报告解读。值得一提的是，在技术报告的开头，meta特意强调了一个 Managing complexity</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=2&amp;sn=2b7d1f7dc00fabfbf71dc57e125bb9cb&amp;chksm=bfdd47bac70d7406349905126ade9bd84bf66eb4c7322d8ac01d69e17fef6b85acd469b6f9fe&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[上海人工智能实验室招聘大模型群体智能方向实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLcviay4L1dQiackaYRSH99s8Cg5xTXiaA7l3rKqibLCJgQGiaGhKwZp7XdF9XSktUCcFNEvAZBGxWkibwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>实习生招聘｜上海人工智能实验室招聘大模型群体智能方向实习生          l实习单位：上海人工智能实验室           l地点：上海徐汇           l岗位名称：大模型群体智能方向实</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=3&amp;sn=472154d83662ec5e441f15dea8bd583d&amp;chksm=bf82627d30996ab7153a237ec5392a0cfa5e26e7360635f448905b33ac9521ff00971edc2e3a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[预训练数据处理--长度分解]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467jyo7cNC1p5aQjb0l5pPWQSTUTIlkkjS0ZiakEp21Bu8xEwNNDv7acZnDgTJor9iagVibLic7ne6WGFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM预训练最重要的工作就是数据的准备，可以说90%的时间都在处理数据。苹果提出Dataset Decomposition，对数据按长度进行分桶，提升预训练的效率。1.预训练数据准备1.1.conca</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=4&amp;sn=b678bf4350ef262293d00ec72f29ed85&amp;chksm=bf440530b6495681902e5dcb0196c1a813b33f2a9da3a28bd7353f6f530c713ae8114c0e01db&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[美团外卖AIGC视觉创意的探索与实践]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hEx03cFgUsXicSLlh7QOFEpy6xWh7Wv84ibiaZAibhK9TM2ibKAbicdYRCQMwK728LBmyotrRXajoZweNcDn74C4kmVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>不同于其他电商场景，外卖业务下大量中小商家营销能力弱，菜品图像质量差，因此在C端对菜品图利用AIGC技术进行美化存在较大的潜力。自2023年以来，美团针对智能头图展示的菜品供给利用AIGC技术进行全面</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650443806&amp;idx=5&amp;sn=9c9828f907af8aa6549559992e0e4d3a&amp;chksm=bf9daa6124dddd2a541e2d0e0fca47f19416c29b303bb4bd7a7b298312e132e416d7bb3ed956&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 25 Jul 2024 13:11:21 +0000</pubdate>
       
 
     </item>
