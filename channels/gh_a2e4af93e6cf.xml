@@ -74,53 +74,181 @@
 
 
     <item>
-      <title><![CDATA[《长尾学习》最新2024年综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oe30g6L44cWd9m1C8olIzAZUuaFqRaMHgQJz5XzbERF8C8gt0eIYCaXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>长尾数据是一种特殊类型的多类别不平衡数据，具有大量少数/尾部类，这些类的组合影响非常显著。长尾学习旨在在具有长尾分布的数据集上构建高性能模型，这些模型可以高精度地识别所有类别，特别是少数/尾部类别。这</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=1&amp;sn=f4619e09b1f60f126861b433aa04fcc6&amp;chksm=fdad104ee660e1b23a824e893a0554c9ef40adefe1cf89848ea279c715bdbfe66d4dbddbf68c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[GNN+多智能体？剑桥大学最新《图神经网络多智能体学习》博士论文]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1sFUP7aS2P8gzsTV6UtCMsIib5UHt2QdoMw1TYsH9xRAibibk5rRnm1Ymzjb5hbIWZUS07DNpib9yG3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着时间的推移，机器学习研究越来越重视利用关系归纳偏差[1]。通过关注图结构数据中的潜在关系，已经能够创建性能和泛化能力优越的模型。对于不同的图拓扑结构，这些模型可以表现为CNN（在网格图上）、RNN</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655397&amp;idx=1&amp;sn=5a5337088aa2138f6564ad8f513b883d&amp;chksm=fd6ac86cdd71f0fb2d8c187943febbd78e8524e469109df7313824f021c2bd64bd2a33509f7f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 05 Aug 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【MIT博士论文】大规模机器学习算法：效率、估计误差及其拓展]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oesfjcJngEN4G6j6JAticqcfgiawTkuyPh1OltHTyn5lk4zG9wN4BhL1bA/300?wxtype=jpeg&amp;wxfrom=0"/><p>优化算法是机器学习和统计推断的基石。随着大规模数据集的出现，计算挑战日益增加，迫使人们追求更高效的算法。现代优化技术通常针对特定的机器学习问题进行定制，这些方法利用问题的独特结构特征，使其比当前应用于</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=2&amp;sn=5858e2ffe929b154c489c4aac7a9262f&amp;chksm=fd076dcf2bcf1cacdb642bf3900dffe276c5b451fddeab35cf4ebb6e7a0b0c79712ff148c32b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[可解释图推荐系统综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1sFUP7aS2P8gzsTV6UtCMsOqrrWrDrQibicqL5Np9IjD2HEL4KVZnYoeT2oMr7Xw43yh6icX9xhRIHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>推荐系统的可解释性已成为确保用户信任和满意度的关键。各种类型的可解释推荐系统已被提出，包括可解释的基于图的推荐系统。本文综述了这些系统的最新方法，并根据三个方面对其进行了分类：学习方法、解释方法和解释</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655397&amp;idx=2&amp;sn=37e1b7194a530733d235df1c021a05f0&amp;chksm=fd836104e7cc2b8c39efb733ce7c9fe95fb37282bcf76f5b1380a108fcefc1cb0a4a70edcc52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 05 Aug 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【ACL2024】通过直接偏好优化的自训练提升链式思维推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oeyVZkHhWT44g6IDs7JpaDlYfIWmnH9PfCFBLOicyWB6icqqn8gDRiaLKVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在数学推理任务中有效训练语言模型（LMs）需要高质量的有监督微调数据。除了从人类专家那里获得注释，常见的替代方法是从更大且更强大的语言模型中采样。然而，这种知识蒸馏方法可能成本高昂且不稳定，特别是依赖</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=3&amp;sn=fb0e12e788aab1c12d6ed48057448a64&amp;chksm=fd611ead51070417f55d4a0253fa552174c7879427672d61684ca52d552222a33da9b87e1bbd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《注意力驱动的多智能体强化学习：利用专业知识强化任务决策》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1sFUP7aS2P8gzsTV6UtCMspmxy2QlhLhibvF1e8m2Uowcgg8cicCyXLP3880udMRCbTEInJZoAQm9g/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍了一种通过整合领域知识和基于注意力的策略机制来增强多智能体强化学习（MARL）的替代方法。方法侧重于将特定领域的专业知识融入学习过程，从而简化协作行为的开发。这种方法旨在通过使智能体专注于复杂</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655397&amp;idx=3&amp;sn=7ac90698f881d15f8d2a087fc7ac50f0&amp;chksm=fd695da5e5148f32b2447a6a84ade28ce8901368cd2f5e29515fd6b2a8677148fd41c60d753b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 05 Aug 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《军事态势感知：乌克兰的经验》乌克兰态势感知信息系统分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oenrTBw0cyqXxZM88F9uTKbxfDicoX1ZzibnSjBC9VfV4Zuuu3lKHWjiaicw/300?wxtype=jpeg&amp;wxfrom=0"/><p>态势感知（SA）已成为军事领域的重要概念之一。俄乌战争促使乌克兰发展信息技术，以管理部队和作战情况。陆军得到了众多信息技术专业人员志愿行动的支持。因此，乌克兰陆军获得了基于 SA 原则的现代软件解决方</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=4&amp;sn=b3443849f42af62af1829e656891f917&amp;chksm=fdf74f55cf5c852dc5c6a2d1a95cfd9503d9394cb3c9823aa27a2294d897abb617d7dbbcd6e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[《模拟反介入区域拒止（A2AD）环境中的自主无人机蜂群行为》最新89页论文]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1sFUP7aS2P8gzsTV6UtCMsu72oFAhbsP8ibCcjhc64mh2G1WJHDE4WtIictO9yl1uP1oiahkpQ7iaO8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>美陆军高级军事领导人正致力于获取现代化的空中平台和装备，以增强美国陆军克服现代一体化防空系统（IADS）带来的反介入区域拒止（A2AD）威胁的能力。这种现代化工作的一个突出要素是使用自主无人机来战胜 </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655397&amp;idx=4&amp;sn=43ae69c12817a13809064fc4183f1fd2&amp;chksm=fd0400b75f41a3876fa7163572fa46870a2c5dfe33b4a624c4cc63c6c257d63207166c3977c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 05 Aug 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[基于强化学习的智能空战模型研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oesbJu67RJEKjD1y1DeeNQqGMjfLXGibrK8CjiaR9Fibia5gRhSWibYCjyq7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能的进步深刻改变了各行各业,智能空战就是其中的典型代表之一。根据空战游戏的特点,构建了智能空战模型,主要包括样本集合的获取以及适用于空战决策的网络模型选择。结合空战连续状态、连续动作、现有战术动</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=5&amp;sn=4ffc2cc14303a0d93c20925c20318027&amp;chksm=fdb94705a0811f60718a3b27b32622925525756e6e731b4fbe08a5a7af9ef2aab442bce35f9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[【ICML2024教程】策略机器学习：如何处理“有行为”的数据进行学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1sFUP7aS2P8gzsTV6UtCMstHyMv0OZczYnS6qS8lVDdqgIUvLLOrxFU0MzwFIHCIN8T6fTDrkN5Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习在越来越多的任务中被用于对人类进行预测。然而，人类并不是传统意义上的输入数据：他们有目标、信念和愿望，并采取行动以促进自身利益。鉴于标准学习方法并非设计用于处理“行为”的输入，一个自然的问题是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655397&amp;idx=5&amp;sn=8829287f1d30a8c81c00c740c5d2c7f4&amp;chksm=fd1b051b2c162ffacbee1cdc76b09e7010783586f7617f837dca0a2258918845936d94f865f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 05 Aug 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[揭秘！47页文档拆解《苹果智能》，从架构、数据到训练和优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oeZevkCDEJ3IjMvoXyRI5afasNiaPcdnxBCV7A722Mqa8ia4QBYxUib5w8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部在 2024 年全球开发者大会上，苹果重磅推出了 Apple Intelligence，这是一个全新的个性化智能系统， 可以提供实用的智能服务，覆盖 iPhone、iPad </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=6&amp;sn=fdf5d2e743dcfb34fabf685324b61f47&amp;chksm=fd2af33240289352489ce2701fa0e67ed8ad7daeb4dff3a7d60ebba49ece2a52c160706e13c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[图神经常微分方程综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1sFUP7aS2P8gzsTV6UtCMsTlIEUutKs1kYQFyiaI4szdntzGusq32WjXolh0MNzWatEbKiciaD1ibicdA/300?wxtype=jpeg&amp;wxfrom=0"/><p>图神经网络（graph neural network，GNN）是处理图结构数据的强大工具，能够捕捉节点间的复杂关系和特征. 但GNN的离散架构导致其在表示图结构、建模图演化、适应不规则数据和计算开销等</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655397&amp;idx=6&amp;sn=d577360060327677c1a692fb17f046a1&amp;chksm=fdef7396481cdf7a148decfb87d192353865653018205d3c5f083e0db5dfc61b7bba2d017128&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 05 Aug 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[以人为本的可解释智能医疗综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oeYQvTJOct5lemWmcP4nS2OVdwwgj2g7OJAdGme4PHfqkAgRdP9ptibmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着人工智能(artificial intelligence, AI)的高速发展, “黑盒”模型已逐渐展示出逼近甚至超越人类的能力, 尤
-其在智能医疗等高风险应用场景中, 其可解释性是用户在应用中信任</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=7&amp;sn=0e148f53d06b7a71491a0846f4931567&amp;chksm=fd6271d0e3945d494fdf08f877c4ffe60a4b08f5783c2338eea92318e23e384daaabeedfaa4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      <title><![CDATA[基于深度学习的舰船目标重识别技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1sFUP7aS2P8gzsTV6UtCMsHeMS66mxASOHRQy6VvWyFlIZaR63rWicQicvEPDJdu7bhx9FVBKapIjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>面向行人和车辆的重识别技术已在情报分析领域得到成功应用,但是对于舰船目标的重识别技术研究还比较缺乏,对此本文提出了一种基于双重特征融合的海上去雾重识别网络,用于海面舰船目标的情报分析和监管。首先,为了</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655397&amp;idx=7&amp;sn=2b28b99d4ed2c627e75460cf91218631&amp;chksm=fddbd0e104a5f7035459f51b6082de292e41f396a4ce839858e389a57f38fe849aad6f35cac4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 05 Aug 2024 06:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=8&amp;sn=c8c5c32a01dada31c08ffefccff1a758&amp;chksm=fdbe80ccbbe955a26b4c5bfd57c4351185d8b6aff67644ed7a3988102f5dacf88d304df4ea02&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655397&amp;idx=8&amp;sn=5e7643e7832ec2c641904e9b9e6f351f&amp;chksm=fd8a6446661f6e5a3384f99421e3e2701f4defe1fa8a3cf401bd7ae0afabc71b45bfe4fba083&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 05 Aug 2024 06:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《长尾学习》最新2024年综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oe30g6L44cWd9m1C8olIzAZUuaFqRaMHgQJz5XzbERF8C8gt0eIYCaXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>长尾数据是一种特殊类型的多类别不平衡数据，具有大量少数/尾部类，这些类的组合影响非常显著。长尾学习旨在在具有长尾分布的数据集上构建高性能模型，这些模型可以高精度地识别所有类别，特别是少数/尾部类别。这</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=1&amp;sn=f4619e09b1f60f126861b433aa04fcc6&amp;chksm=fdad104ee660e1b23a824e893a0554c9ef40adefe1cf89848ea279c715bdbfe66d4dbddbf68c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【MIT博士论文】大规模机器学习算法：效率、估计误差及其拓展]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oesfjcJngEN4G6j6JAticqcfgiawTkuyPh1OltHTyn5lk4zG9wN4BhL1bA/300?wxtype=jpeg&amp;wxfrom=0"/><p>优化算法是机器学习和统计推断的基石。随着大规模数据集的出现，计算挑战日益增加，迫使人们追求更高效的算法。现代优化技术通常针对特定的机器学习问题进行定制，这些方法利用问题的独特结构特征，使其比当前应用于</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=2&amp;sn=5858e2ffe929b154c489c4aac7a9262f&amp;chksm=fd076dcf2bcf1cacdb642bf3900dffe276c5b451fddeab35cf4ebb6e7a0b0c79712ff148c32b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【ACL2024】通过直接偏好优化的自训练提升链式思维推理]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oeyVZkHhWT44g6IDs7JpaDlYfIWmnH9PfCFBLOicyWB6icqqn8gDRiaLKVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在数学推理任务中有效训练语言模型（LMs）需要高质量的有监督微调数据。除了从人类专家那里获得注释，常见的替代方法是从更大且更强大的语言模型中采样。然而，这种知识蒸馏方法可能成本高昂且不稳定，特别是依赖</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=3&amp;sn=fb0e12e788aab1c12d6ed48057448a64&amp;chksm=fd611ead51070417f55d4a0253fa552174c7879427672d61684ca52d552222a33da9b87e1bbd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《军事态势感知：乌克兰的经验》乌克兰态势感知信息系统分析]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oenrTBw0cyqXxZM88F9uTKbxfDicoX1ZzibnSjBC9VfV4Zuuu3lKHWjiaicw/300?wxtype=jpeg&amp;wxfrom=0"/><p>态势感知（SA）已成为军事领域的重要概念之一。俄乌战争促使乌克兰发展信息技术，以管理部队和作战情况。陆军得到了众多信息技术专业人员志愿行动的支持。因此，乌克兰陆军获得了基于 SA 原则的现代软件解决方</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=4&amp;sn=b3443849f42af62af1829e656891f917&amp;chksm=fdf74f55cf5c852dc5c6a2d1a95cfd9503d9394cb3c9823aa27a2294d897abb617d7dbbcd6e1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[基于强化学习的智能空战模型研究]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oesbJu67RJEKjD1y1DeeNQqGMjfLXGibrK8CjiaR9Fibia5gRhSWibYCjyq7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能的进步深刻改变了各行各业,智能空战就是其中的典型代表之一。根据空战游戏的特点,构建了智能空战模型,主要包括样本集合的获取以及适用于空战决策的网络模型选择。结合空战连续状态、连续动作、现有战术动</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=5&amp;sn=4ffc2cc14303a0d93c20925c20318027&amp;chksm=fdb94705a0811f60718a3b27b32622925525756e6e731b4fbe08a5a7af9ef2aab442bce35f9f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[揭秘！47页文档拆解《苹果智能》，从架构、数据到训练和优化]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oeZevkCDEJ3IjMvoXyRI5afasNiaPcdnxBCV7A722Mqa8ia4QBYxUib5w8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部在 2024 年全球开发者大会上，苹果重磅推出了 Apple Intelligence，这是一个全新的个性化智能系统， 可以提供实用的智能服务，覆盖 iPhone、iPad </p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=6&amp;sn=fdf5d2e743dcfb34fabf685324b61f47&amp;chksm=fd2af33240289352489ce2701fa0e67ed8ad7daeb4dff3a7d60ebba49ece2a52c160706e13c0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[以人为本的可解释智能医疗综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1UE6qvIPicZhFqZE5a1n5oeYQvTJOct5lemWmcP4nS2OVdwwgj2g7OJAdGme4PHfqkAgRdP9ptibmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着人工智能(artificial intelligence, AI)的高速发展, “黑盒”模型已逐渐展示出逼近甚至超越人类的能力, 尤
+其在智能医疗等高风险应用场景中, 其可解释性是用户在应用中信任</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=7&amp;sn=0e148f53d06b7a71491a0846f4931567&amp;chksm=fd6271d0e3945d494fdf08f877c4ffe60a4b08f5783c2338eea92318e23e384daaabeedfaa4a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655341&amp;idx=8&amp;sn=c8c5c32a01dada31c08ffefccff1a758&amp;chksm=fdbe80ccbbe955a26b4c5bfd57c4351185d8b6aff67644ed7a3988102f5dacf88d304df4ea02&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 04 Aug 2024 06:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -766,138 +894,6 @@
       
 
       <pubdate>Tue, 30 Jul 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[迈向可信的人工智能：伦理和稳健的大型语言模型综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3MUEzOhRyffhGlrAxS27VyFSJxYxKGia0YSJCjvboGX7wqV4RzRG8DrzKZmZX83L3MxqWv0Miah6lA/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要——大型语言模型（LLMs）的快速进展有潜力革新各个领域，但其迅猛发展在监督、伦理开发和建立用户信任方面带来了显著挑战。本综述全面调研了LLMs中的关键信任问题，重点关注意外伤害、缺乏透明性、易受</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655045&amp;idx=1&amp;sn=4523485bee02f16c76604c033be7009e&amp;chksm=fd000885ecafc365e9d27376cdad545f19db16111326fd2eda4ee9298b905bc3f4698e76433f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ETHZ博士论文】神经网络训练与认证，101页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3MUEzOhRyffhGlrAxS27VypTickfEpibiaibmxt5V2PuwJMAVnvemuO6GCWY9RRt5YlwGa0X45aKk6kA/300?wxtype=jpeg&amp;wxfrom=0"/><p>确保神经网络系统在关键任务应用中的安全性和可信度是其安全采用的关键。然而，尽管付出了大量努力，训练满足这些安全和可信属性的网络以及验证它们是否满足这些属性仍然是未解决的挑战。在本论文中，我们解决了这些</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655045&amp;idx=2&amp;sn=8cd9a43e1c685403dd32f00c91c3e5ff&amp;chksm=fddcfa5d05789cc30bba39b571bb740cb22581114de49592e391526f818600c2b7be9b105b0d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【KDD2024】GeoMix：迈向几何感知的数据增强技术]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3MUEzOhRyffhGlrAxS27VywfJYgiaIuibkJAfwK6XIA0FMWsWyHLspqxNb80f60AibibqicSJAtC0d8jA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Mixup 在缓解图像分类中有限标注数据所带来的挑战方面取得了显著成功。通过对特征和标签进行插值来合成样本，Mixup 有效地解决了数据稀缺问题。然而，由于图数据的不规则性和连接性，它在图学习任务中鲜</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655045&amp;idx=3&amp;sn=6e260a1d7767d03631d55b2a115c31fc&amp;chksm=fd6b04d00d39e099e05808cf1cd6b974abb04e453b1826c2f405fcc77828c51d614055f792b1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[反无人机蜂群作战战术战法运用分析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3MUEzOhRyffhGlrAxS27VyarzibTFyMsUbwQv7AJVmJlx964U6KV8y4uFSqlibIn7eTA50D2a6Sj2A/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着无人机技术快速发展和广泛应用推广，无人机蜂群作战也逐渐成为现代战争中重要的
-作战方式，如何反制无人机蜂群作战已成为当前防空系统的一个全新挑战。文中从无人机蜂群作
-战的概念内涵入手，深度分析了无人机</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655045&amp;idx=4&amp;sn=f0ee08029c3008ebfcfa1d8a2724f027&amp;chksm=fd1dfa986625ea23df0a8bb43af65c89b99d34045b31680202c17c0d598df48285a1a3e10880&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【新书】机器学习算法深度剖析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3MUEzOhRyffhGlrAxS27VyEe9k8WZSHrgkib3VCaCtUMoXfGyjDW3eicU7Z7spM0SaKJ5UaqrHA66g/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习算法深度剖析了解机器学习算法的工作原理是任何严肃的机器学习工程师的必备技能。《机器学习算法深度剖析》一书中，您将深入探讨数十种机器学习算法的实际实现，包括：蒙特卡洛股票价格模拟使用平均场变分推</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655045&amp;idx=5&amp;sn=53421a4e8efedd0696c2fca3d8b33d9c&amp;chksm=fde224185c517040c5399116060d9d2609d438bab2892c0162279118acb8ad3027960f443fca&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[作战方案驱动的可学习兵棋推演智能体研究]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3MUEzOhRyffhGlrAxS27Vy9cDdZ5xviaNicAU3Ib7DKrDAGfrSMknHQsDYuLw6kGG7cibGryRZx7ibkA/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了使智能体能够应对兵棋推演中的复杂作战场景和作战目的，提出作战方案驱动的可学
-习兵棋推演智能体架构。剖析智能体对兵棋系统的“依附特性”和“松耦合特性”，得到智能体的
-可学习要求；在智能体框架设计中，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655045&amp;idx=6&amp;sn=719b503132a48e1d023140ec187295d6&amp;chksm=fdc1b6c4468d0707a85e8e5d7f3e6cde78b3a08d26e7f760ed4baa9e35874aa5735e7a536dde&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《高超音速滑翔飞行器的天基反制措施》98页]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3MUEzOhRyffhGlrAxS27Vy7UfOWKoeTrbyjR5t92I9RKTRwwkD1hCxahOQ5MkiazIPPuQcSgM6QmA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文旨在研究天基激光武器系统对抗高超音速滑翔飞行器的有效性。高超音速滑翔飞行器是一种新兴的武器系统，兼具弹道导弹的射程和巡航导弹的机动性。这些系统对军事资产构成了独特的威胁，不仅因为其能力扩大，还因为</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655045&amp;idx=7&amp;sn=946f4e9cf05e2956252e19c8e1cd0fa1&amp;chksm=fd0eb0bd1fa6b28d92b7b97d4537df811270075c573ea91bf1ada37b737f3b7e7b386c0845ea&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655045&amp;idx=8&amp;sn=3555393e194689178f96c1a5a3296d83&amp;chksm=fd085c461f9ad6c23589723dea292cbb2a70137e4eea0f5aa03571b82cf8cd9b89d1d39be269&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 06:00:00 +0000</pubdate>
       
 
     </item>
