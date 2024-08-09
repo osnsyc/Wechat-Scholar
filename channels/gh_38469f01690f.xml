@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[RAG 进阶：一个 ctrl-c 就能拿走的图文检索框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP7khhU6pwSnYfSF35JP1mEBaLfB9Svrr20EegQMzd0fGpykBvicKQoDwdvib80mCfYbBTwic8mqPssGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>HuixiangDou 是群聊场景的 LLM 知识助手。群里人多口杂，机器人显然不应该答复所有消息，它的设计规则为：无关内容不吭声——拒答明确该答的，直接回复——检索不能违反核心价值观——可靠http</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530160&amp;idx=1&amp;sn=1abbdbe2bc612263c827896ad9bc8fe2&amp;chksm=ea459ffd403c179c6aa66d6a749e046c0da1b83242d498a16e9b9a1f1fab23e463df67552606&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 08 Aug 2024 11:02:08 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[直播预告丨书生·浦语2.5在魔搭社区的最佳实践及前沿技术分享]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP54ibvXuWIhDnK30FFicHUKKO2BBGA1maH6TibGFWHibN5ib8SNAG6JTbDnCzPWS0nwgMAKyN2ZQdyt6kA/640?wxtype=jpeg&amp;wxfrom=0"/><p>【社区开放麦】开播啦！！！技术下饭番追起来，每周一个新芝士。欢迎广大社区同学加入直播间参与讨论的同时，也非常鼓励社区同学拿起话筒登上舞台，社区知识开放麦等你来玩~本期精彩魔搭平台创建于 22 年 11</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530154&amp;idx=1&amp;sn=92bc3d0f0f4002d51cb92a896043c529&amp;chksm=ea13dc39b0e427a44b87ff38d6bf1a816ecb6c3a7d186a0bdc7f5f8dabd7dc8890a255d964d2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 07 Aug 2024 11:47:43 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -87,262 +104,6 @@
       
 
       <pubdate>Fri, 02 Aug 2024 09:57:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[还在排队 SearchGPT？快来试试 MindSearch！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP4KFUkU8TiaC6NRzH7fG6sbGwcJDeSqEDq39VKuNHrJpKFfMnd78C6NliaZTPqDf2jCvslRs8UCt4Tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>7 月 25 日，OpenAI 发布了其 AI 搜索的原型系统 SearchGPT，在社区引起轰动。社区小伙伴们纷纷加入了排队试用的名单。SearchGPT 将 LLM 和搜索引擎结合，试图成为我们搜</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530115&amp;idx=1&amp;sn=c10a6c717965278b167478e83e133947&amp;chksm=ea4ddb56e39d94f956b1ff65e9de42e57dcc0620e30bddacea28cb26be85683e6d5c6f3a1275&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 30 Jul 2024 12:07:31 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[使用 ollama 快速部署 InternLM2.5！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5r41RUlguloicTAAShlNibHp0gfEBqdM0Ur5f3Rsicpgf97I7X12cY88dMmGGNcf0C67NOaKtJIL4mQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>ollama 是一个用于部署和管理 LLMs 的工具，它可以帮助用户轻松地将复杂的模型部署到生产环境中。本文将介绍在 Linux 系统下如何使用 ollama 快速部署 InternLM2.5。htt</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530095&amp;idx=1&amp;sn=e06e3077ceb9cc82b4c597afb8420e8b&amp;chksm=ea2bd0322ad1a27de3a7666bd6632a0fd5ef2e898f076a5ace3cf20e1a45468e136107343944&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 26 Jul 2024 10:38:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[前沿智能体技术大揭秘：微软、腾讯、网易和 MILA 研究所的实践案例，不容错过｜AICon]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP6mFZn6c5kY4YZIGibU0ICekgehc89Z9eLvKrRlnCiakAaKd0uklYI0s6Myd7hS6mXghBdUoGoxJs6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自InfoQAI Agent 正迅速成为大模型非常重要的应用方向，这些智能实体通过先进的机器学习和人工智能技术，能够自主感知环境、做出决策并执行相关动作。AI Agent 的应用场景日益广泛，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530084&amp;idx=1&amp;sn=4d1b9b34f54cce47492ac1243f0c7c1f&amp;chksm=ea56e443ce77ab5b9415772c66a8b6fe81f1acc822c267852760455ed0faaf10572c46278e37&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 25 Jul 2024 09:55:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CVPR 2024 上海人工智能实验室专场直播丨AI Spot 学术分享会]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP4lHiaJKKQN218Hv5gj2oB0g6TCdGkwROKBhhxx3YDSg4BPSrAYuVCDWIu3krthyAmHSDxwaS4Jr4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>由 OpenMMLab 联合 OpenDataLab、OpenXLab、OpenGVLab 社区共同发起，MLNLP、Datawhale、ReadPaper、极市平台和真格基金共同参与的 AI Spo</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530071&amp;idx=1&amp;sn=17923eeb1866e6a7d492ab123814fbd7&amp;chksm=ea665d8b467d1fb5ea14c63d8988580cf825407269a87170bf1f4c6289692a90991035cff9df&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 22 Jul 2024 11:29:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[别浪费你的显存了！LLM偏好对齐的正确打开方式]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP7m95X5tg2qc2iaVy812ZpibHF23FMzyQJO5YJC5zFABHsf7nJxSbBn8A9xpeR9GKTwibgCHMuqwarFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 前言在大语言模型的训练过程中，偏好对齐是一项至关重要的任务，它能够更好地帮助语言模型的输出与人类的喜好进行对齐。目前，开源界的许多项目已经实现了基于偏好数据的 Reward Model、 DPO</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530049&amp;idx=1&amp;sn=1e6c6ab61ce8fff464705eb38f38e75f&amp;chksm=eafe093e7175e30172c0a26c490e8c785026f2548b665606daf6069440d884f78bdb2e8f4094&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 19 Jul 2024 09:30:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RAG进阶：混合稠密检索和知识图谱来提升精度]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP7BDIbSvicNeSmpNKdQb6iaadvv9oyzJ258Ir8bf0BmIkD2xcuUuL2IMgWVRicdWqU06POPDDfNjbicLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>HuixiangDou 是群聊场景的 LLM 知识助手。群里人多口杂，机器人显然不应该答复所有消息，它的设计规则为：无关内容不吭声——拒答明确该答的，直接回复——检索不能违反核心价值观——可靠http</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530039&amp;idx=1&amp;sn=95f7d632482e6f60c924066ff965118f&amp;chksm=eaa354e521609d5554988902645fe387d0315b38501830f02cd7b27341f07084d10655d551b9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jul 2024 10:08:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AI 风暴来袭，「真格星球」导师阵容重磅揭晓｜Z Events]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP45icY9ecFNLBv1Qo4xyicprjH4kGGwS1ibhfH4z0kaTGJ9IMWu31AGeNbxkqNL4ssDkBdjvchOC3xsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自真格基金Z Events 是真格的活动栏目。「真格星球 ZhenPlanet」是真格主办的前沿科技人才孵化项目，自 2019 年起已成功举办四期。我们已陪伴多家优秀的前沿科技创业公司走过从 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530028&amp;idx=1&amp;sn=47aa5f54d28fafb3dfc77579c1c33085&amp;chksm=ea280ba1e429e57fc626e5612ca1ab0aeefb83e2bda894e1a375d2caab6eb24e63ac589192b2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 16 Jul 2024 10:07:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Gitee AI 首届 AI 应用大赛报名倒计时！一等奖 5 万元现金]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP72nsxuClF6adIVFHtO9YVHFeONoR8OZ6ticGhILb4XcLUuEW2rjdJAYnTCEyH01aAHG52wKaPQLSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自 Gitee AI2024 年了面对「卷来卷去」的大模型你是否已经感觉有些疲劳？你是否仍在期待AI 时代真正的 Killer App？你是否想要成为那个Killer App 的开发者？「Gi</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530022&amp;idx=1&amp;sn=269e8b282efe8a19ba2ed2fd0e345a9b&amp;chksm=ea7774ee3ce5724e796db64c5ca25991ecf65463e1b9fe4b60a09b0317b7c8fb5d75d67c6288&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Jul 2024 10:51:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[A100算力加持！书生大模型实战营全面升级，趣味闯关等你来]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP62f4kJIrrCxJ8icF6ckUY2rBzAa8ewsSfNagGMv19G74ZoQ8e9GMXvj5HsXHTlibVnO1pibNmTJuRvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>书生·浦语社区于 2023 年年底正式推出了书生·浦语大模型实战营系列活动，半年来累计已有 15 万人次参与学习，并孵化出了超 600 个生态项目，在社区中收到广泛的好评。为了给大家带来更好的学习体验</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247529999&amp;idx=1&amp;sn=53b228c422a06dc301fb90fe58678147&amp;chksm=ea6d68cca3d0426213a9735eab95b80c01bdee59f67968971c827d04b2c38835372b07d35bc8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 12 Jul 2024 09:55:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型语料提取工具MinerU正式发布，开源免费“敲”好用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP55xuAx1lOwspVRr8D2uicXYiaRwCmaJFgibe5ofyd3nkuVdcDeBCKRrl6S3syImU1Q9MC4sDEtG2qicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月4日，2024 WAIC科学前沿全体会议在上海世博中心红厅隆重举行。上海人工智能实验室与商汤科技联合香港中文大学和复旦大学正式发布新一代大语言模型书⽣·浦语2.5（InternLM2.5），同时全</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247529957&amp;idx=1&amp;sn=118e73a5559f0d623a092588488d1e98&amp;chksm=ea721e9058300b32851db116c3a281ba4e96f3cf213dbb05a4d2e93c669c7a068ba919f26ae2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 11 Jul 2024 09:42:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[SD-Eval新基准，让语音交互大模型情智兼备]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP6Ticd84EUxRYToJmu8dW1xTTmFPMHKGaic7YmibZBd3LIjibmcKSTB7Jdc20IBQtHkLFliazPAVtR3qMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>【社区开放麦】开播啦！！！技术下饭番追起来，每周一个新芝士。欢迎广大社区同学加入直播间参与讨论的同时，也非常鼓励社区同学拿起话筒登上舞台，社区知识开放麦等你来玩~本期精彩随着 GPT-4o、Moshi</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247529953&amp;idx=1&amp;sn=285d29123ffc244d58e1cf1d2367d5ff&amp;chksm=ea49602f5fe7ad31d242349b72f74392766ef46c908c56b135b38fa87a8ba20f30a9dbf89f61&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 09 Jul 2024 10:25:55 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[书生·浦语2.5发布，支持百万长文，推理能力开源领先 | WAIC 2024]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP69t7xiaYjoYicFPUevofOEftzCDT0QKNlAiaKKsloDibsabGoOG6Ww5A0CcEXLFG2ZibsJU27Yw1kiaPvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在7月4日举行的WAIC 2024科学前沿主论坛上，上海人工智能实验室（上海AI实验室）发布通专融合系列成果。作为书生·浦语系列大语言模型的最新版本，书生·浦语2.5具备一百万词元（Token）的超长</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247529938&amp;idx=1&amp;sn=41bf4dedb91491bc5870f16fa7f23b01&amp;chksm=eaa8e4b5924e69e65d33e72228871bf859e0a1c6a533cd2d19430a445c03650fe50e03718207&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 08 Jul 2024 13:00:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[重要通知！GLCC学生报名延期！速来抢位！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP4mlUjjZhkVHWxqLC8CeGk06xlujuziaWSYT7TeCXsktDvEk3tkltDTBrjYuGW6spOQXISlwKQkl5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自：CCF开源发展委员会   第三届GLCC学生报名火热升级感谢各位同学的踊跃报名！由于时间紧迫，许多同学反映自荐书准备不足。为了让大家充分准备，展现最佳状态，报名截止日期已延期至7月4日！报</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247529933&amp;idx=1&amp;sn=b34c21dae19b2943e7a8372336592a09&amp;chksm=ea6bf12456012516da171af467b29586e6fc21e5df08b10fddae287029281d1d147a887d088b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 02 Jul 2024 12:26:29 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[所有男生女生，AI 卖货主播来咯！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5m7vlWwoFUAwUcPKicTWetomOhw5icjmSSfLDFYCWBM4oTj6eO8BsCwQ0fahXbib3Pdf3Bic0UEK6gbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>快一起来详细了解下第 2 期实战营优秀项目：销冠 —— 卖货主播大模型！该模型使用 XTuner 在 InternLM2 的基础上指令微调而来。AI 卖货主播来咯618刚从李佳琦一声声 “所有男生女生</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247529816&amp;idx=1&amp;sn=70a5958edbb352325dac189024df8b08&amp;chksm=ea3ee3a5c72cb58f6edf6868be03245d451e9234fbda477dd308a14fa08d3ae27d0cf381e7c2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 28 Jun 2024 10:28:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[倒计时1天！请收下这份稀土开发者大会最全“玩法”]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP6AIEyFR27lLekibTOZPDlic6aicRxCgvHaC9XoIzJhiaeicMENR8xMN1SkaW52MNnCFzrj7O8ErnXOsibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>6月28日-29日，由稀土开发者社区主办，英特尔助力的 「稀土开发者大会」 在北京富力万丽酒店正式开启！本次大会汇集12位出品人、70+技术嘉宾，共同打造10个主题分论坛。包括：架构设计和业务稳定性建</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247529791&amp;idx=1&amp;sn=4a3fb1110e4f54560d32c69fa37f5222&amp;chksm=ea3069d6338df36ad92cfe1fbe12ee3510bcb4361dd0f6e897be06959ad3258b6463f7f0624f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 27 Jun 2024 10:15:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[A2M人工智能创新峰会即将开幕！携手66家企业揭秘大模型标杆案例]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP6nib6gsBA2QmRvcDVQare03JTcY5KuDdJkQa845yShUnmkqUSnsMLQn1be4Kib6AJOaiax2wdO1VUZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自：msup今年，大模型的竞赛终于翻开了新的一页。大模型从卷文本长度、语言模型主导、聚焦认知层面的“上半场”，进入了多模态模型、注重商业模式和场景应用的“下半场”。大模型正在掀起一场“诸神之战</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247529741&amp;idx=1&amp;sn=574910b62cb47c9beef23fc8615def74&amp;chksm=ead3c28d2cc640fb24013fc407faecba92018d02f474b76ae14729db1ff6c5ed301e6b5761ef&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 26 Jun 2024 04:05:44 +0000</pubdate>
       
 
     </item>
