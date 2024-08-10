@@ -30,11 +30,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[无人机PX4飞控 | 电源系统详解与相关代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvzWOdE4hYQU1dSWy5KbQrUt1OQnsXSHWaunxYhVQRjU45HxO7tqmqdqzgPr8B0OiabibaTW1o9dFicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>无人机需要一个稳压电源用于飞控供电，同时用于电机、舵机、外围设备等的供电。供电系统一般是一块电池或多块电池电源模块通常用于“分离”飞行控制器的稳压电源，也用于测量电池电压和PX4学习笔记飞行器消耗的总</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247595073&amp;idx=1&amp;sn=bc08b9cf08166e4cbe03c9720a055310&amp;chksm=fa2aaf1a5f77bf382b250b36b53498291610ffb08736c0e696a58008faa9bebdfc983a4ce1d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 09 Aug 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[pytorch多GPU训练简明教程]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzumLVoaLqj05hzkI7y4oO9r6jUJRBIYY3aQhjnl0bAiasqnZ22NIic45Fcia6s73dV6EOYUXwYf4kmxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. Torch 的两种并行化模型封装1.1 DataParallelDataParallel 是 PyTorch 提供的一种数据并行方法，用于在单台机器上的多个 GPU 上进行模型训练。它通过将输入</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247595023&amp;idx=1&amp;sn=e4e666646464d39097f293f324cf2f0d&amp;chksm=fa4d346aa659fdeb4b6de63b99213bb39df53937b9186f2b3822e40a90511ee0d23d92dfcfae&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 08 Aug 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
