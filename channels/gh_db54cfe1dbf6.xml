@@ -36,11 +36,34 @@
 
 
 
+
     <item>
+      <title><![CDATA[图像生成别止步于扩散模型，自回归模型也很好用！LlamaGen：实现414%推理加速！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqZiaeMzXC5wuWSaiafzpCB8j8PRKmkOE17bkB7U9p15H6ZCMiaxSIKOWsmXk6ITwBAF6ksLM3kW6IuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者丨科技猛兽    编辑丨极市平台极市导读 应用与语言模型完全相同的 "next-token prediction" 的原始自回归模型也能够实现最先进的图</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698667&amp;idx=1&amp;sn=c03bda0ab287357eeed789727318d231&amp;chksm=f28947be9966cca66fe349099411b6262a15b81634ed0c0c3b23e2c7490f3ab7c06e8cd3c90b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 11 Aug 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图像去雨开源数据集资源汇总 ！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5ooHoYt0tgm6EDiakMYLE6Z4XpduK86Tv83Ubr2wutpnM7rBJ0DhHrRcWkibvr1rx0mDa4NPADGxU8tUUIPPOLog/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源于集智书童，作者小书童图像去雨（image deraining, rain removal）作为经典的底层视觉/图像复原问题，其目标是从雨天退化图像中移</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698667&amp;idx=2&amp;sn=c673cca512b69efb276219a4c4e94630&amp;chksm=f227aa6bc542f9784ab2e907cdd78262eb21e76cd87cff1ffaba492d4df25d2bc8ef5f763084&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 11 Aug 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[恺明团队新作MAR(Masked AutoRegressive): 破除封建迷信——谁说自回归图像生成一定需要 VQ的！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfotyHqEWb7hnBJ41jAcL0ocI01UoEJG248iatcRWiae4n0RXiaLVicxRXnE6Nm6q0hfM5TYrB07uAS15g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨CW不要無聊的風格。 编辑丨极市平台导读 文章讨论了MAR模型和VQ技术在自然语言处理中的应用。文章首先介绍了autoregressive模型的基本原理，然后指出了LLMs在处理这类模型时可能遇</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698648&amp;idx=1&amp;sn=4dca21be622e4212f703ae92c6244e51&amp;chksm=f221fb0d66ca37272fbe3c3f0dc31cad737c2e20ffcdbb853fa1ea345b0a3b4373d95e27a256&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 10 Aug 2024 13:40:50 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -151,198 +174,6 @@
       
 
       <pubdate>Mon, 05 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Diffusion反馈强势助力CLIP秒变火眼金睛：北京智源研究院、中科院自动化所联合推出DIVA]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDjNfqB2O78JJBfkYWMA5QngGnh0SB7O2IDDtFricAeIfGzyibLakeZFGKZicRzvzrcHFvRU62jDksQ8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者 | 王文轩等  编辑 | 我爱计算机视觉本文分享论文Diffusion Feedback Helps CLIP See Better，专注于通过自监督</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698422&amp;idx=1&amp;sn=75ab2657ba2f46cb3ab63f019eb9c3e0&amp;chksm=f2067f8a78eefc3ffab85b1cb7d4d02fdef9a289f2b1c9e512c993e43bdde3bc1e88ae50c0e3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Aug 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[武大 &amp; 加州大学提出 FairViT | 自适应Mask策略，提高视觉Transformer的公平性与准确度 ！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5ooHoYt0tgl1Oxx2dCpq2AMJKjtohFLp0AsLFicGn5Kp286J80LKuxqFfQRiah5D3dJfSdPfKh4xI4icibvCfL2fRw/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源 | 集智书童  作者 | 小书童在计算机视觉任务中，视觉Transformer（ViT）已经取得了优异的性能，并展示了其巨大的潜力。在现实世界任务中广</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698422&amp;idx=2&amp;sn=fea21d6cb455c688ee6b2b1f6c779061&amp;chksm=f20e1fe554b9c7a41676aa882f71243cae13faf1ac04ea794e1e2ad72e76c72a427a7256eb07&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Aug 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ICML 2024｜SLAB：华为开源，通过线性注意力和PRepBN提升Transformer效率]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/s1ZNq0rdQe7lH9k5e9VGkuJeqW7lhhjdr0eC4qyzzB1RItZK1gMSFjjF36xfvzuDSJKaXh6ibqGyKYlyl1ShfbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文提出了包括渐进重参数化批归一化和简化线性注意力在内的新策略，以获取高效的Transformer架构。在训练过程中逐步将LayerNorm替换为重参数化批归一化，以实现无损准确率，同时在推理阶段利用</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698408&amp;idx=1&amp;sn=4a03193ed2cd9a9772281b99ff1e4873&amp;chksm=f2fd02221c8351efda6c1db335b671b0abb8052401fa8fc842d3da994a381f64483a4bcdafff&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 30 Jul 2024 14:11:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LSTM又火了！最新52个创新思路+全部开源代码！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDjJgkNqOecgicjIRogkkBia31fkbK6cmjhjNx5IricXYotA7oA9af6eqU5TdSRN6IoK58KrIbPW2PEzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年上半年，LSTM火了！LSTM原作者分别提出xLSTM和Vision-LSTM，解决了以往的局限性。同时，LSTM+Transformer登上Nature；LSTM+CNN、LSTM+Attent</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698406&amp;idx=1&amp;sn=e6b8bc57c22a492b5b0bc8bab457dac7&amp;chksm=f2561a1334de4c8ec7160718cceb3bcd1c4737cc553e62525c482bfb577a76785137cb6890be&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 21 Jul 2024 13:58:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DALL-E 3不到50%，SDXL仅24.92%！各大SOTA文生图模型为啥这么难符合常识？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icoj3o40oMaXOapk453Y2l3guGp3ibsgodKS5PdDyPrCxtuApwwia2mfm0cNBHettQb4f5OvGBZBzTxfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Xingyu Fu等    解读：AI生成未来   论文链接：https://arxiv.org/pdf/2406.07546 项目链接：https://zeyofu.github.io/Com</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698406&amp;idx=2&amp;sn=96827b4f7a447e28478774cebf9de47b&amp;chksm=f205d1eea63bc2f96ce25c9391e07dd2a7e3d2a3b28b5119369a5868540e2bf628d069356963&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 21 Jul 2024 13:58:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LSTM又火了！最新52个创新思路+全部开源代码！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDjbGXqZJ6qRq4DuG8U5IOsYpjiaUJt8dj1joQjNa27sudN6vvc7W7a9f9JwoDIBPh6s3HyZ8RXaAIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年上半年，LSTM火了！LSTM原作者分别提出xLSTM和Vision-LSTM，解决了以往的局限性。同时，LSTM+Transformer登上Nature；LSTM+CNN、LSTM+Attent</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698401&amp;idx=1&amp;sn=fdf8bb0bd6a97c3e1aff4a904975784d&amp;chksm=f2006468fb3a1ebb812844d31dda587bff059663433874354ba61858b4a043ffa8dd8a7a36b7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jul 2024 11:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[用ViT取代Encoder！VIM：使用 ViT 改进的 VQGAN 进行矢量量化图像生成（ICLR 2022）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqYNbKKpnMmpFrmmvqmxxnibhFUFzVlU4oEPvRgKjkFAiaRGCsrNb6djtamptHfr7lnhicRIrX6b6aeA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽    编辑丨极市平台极市导读 本文探索了在 VQGAN 里面，把图像的 Encoder 换成 ViT。本文改进之后的 ViT-VQGAN 进一步改进了矢量量化图像建模的任务，包括无条件</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698401&amp;idx=2&amp;sn=94b175712c84203d77dcefcbd7a73c97&amp;chksm=f21961e6f26deb9370265cb1f3e2cd704c2d445e560f82cd8080baaf70d0e0dc82bf19563dc6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 18 Jul 2024 11:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[HAFormer：融合 CNN 与 Transformer 的高效轻量级语义分割模型 ！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVVicxRd6Fj48RzbHqtfVVkRffrzHrvnRj0Jd02klaGiabPqpOW6wiaeRCNpYGyydicnA7FmNlpj1flnKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在语义分割任务中，卷积神经网络（CNNs）和Transformer都表现出了巨大的成功。人们已经尝试将CNN与Transformer模型集成在一起，以捕捉局部和全局上下文交互。然而，在考虑计算资源限制</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698374&amp;idx=1&amp;sn=d7f985062522a93daaca5204f8d1f20a&amp;chksm=f2edcd7de78ec28f6538703dd5eaf3b530045c8d7dd0250f5923f0f94fba38f93ac5efc620f9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 17 Jul 2024 14:24:12 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[英伟达也对 Mamba下手了  ，视觉 Transformer 与 Mamba 的完美融合 ！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVVPdWMSoIl2eAlGnGInAOfww03F8ciboW0VRLoia1ic6J2J8QW5VoFuAenrezDqMrgFGYnLjfThqyA2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者提出了一种新颖的混合Mamba-Transformer架构，称为MambaVision，这是专门为视觉应用量身定制的。作者的核心贡献包括重新设计Mamba公式，以增强其高效建模视觉特征的能力。此外</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698372&amp;idx=1&amp;sn=6848ab228bf814ffed2cf9bd72b11548&amp;chksm=f23841031d47b63a41f3a4d2d3765ca1e6d05530c4a85755745c21562388ab775d1af4a2e643&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 15 Jul 2024 14:54:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[扩散模型的低比特量化方案探索，Q-DM：性能比肩全精度模型相当｜扩散模型经典解读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfq3s71lOFGiadwqQuKK6tOrYavJaicyTK93iaT8jra10FhSEn93fCXBYao3QauzmdZxTz8ZKr206qrMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽  编辑丨极市平台极市导读 本文提出 Timestep-aware Quantization (TaQ) 方法减少输出分布的振荡，提出 Noise-estimating Mimickin</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698370&amp;idx=1&amp;sn=d04888cfecc09717d98c8d86785497db&amp;chksm=f2c79f771bf8505a806d3b04113bd108414d1979f8a8aacd7fe2e6210a57918971e86ee2187b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 12 Jul 2024 13:46:44 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[缝合怪系列 | 82个必备即插即用缝合模块！附下载]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDiaa9F6OD1qnnK7KqruBRPicQmK5s2N0sKUEwzpwn2JR9iaiaj1rtrZNdOgFqlB4E4zwVaCIs065f4aYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>有创新点，就能顺利发paper吗？当然不是！有了创新点只是开始，模型的编码、调试才是重头戏。很多小伙伴都是改了大量的模型和代码，实验结果却没有多少提升，白白耽误投稿时间。今天就分享一些发paper必备</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698368&amp;idx=1&amp;sn=49cab5006e681cdaba042e6741bf6b85&amp;chksm=f2b2c6b9530c4196f9364b23636cf950aa3bbd92a3c050ba25a3866daafcda53e748b0fc1e8d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 11 Jul 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[绝地归来！英伟达等提出JeDi：无需微调,个性化图像生成新SOTA！[CVPR 2024]]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icoia5Ra17hBayxO2WZmJbRePic7zkaCrkLt5XibWJSeH0SianEYBMhT3teuFo4Y1EXgd58mqmOR4tvUNaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路作者：Yu Zeng等    解读：AI生成未来文章链接：https://arxiv.org/pdf/2407.06187 github链接：https:/</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651698368&amp;idx=2&amp;sn=3c65e7fa03d2529f7900c2d1b37621eb&amp;chksm=f24e909fdcbdc4d922673bbaf1d4ee458ded0ef962acae202ed0dd7c8ac199738eb896af26e9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 11 Jul 2024 10:00:00 +0000</pubdate>
       
 
     </item>
