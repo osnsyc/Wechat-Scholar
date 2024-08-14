@@ -41,29 +41,97 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[为什么需要RLHF？SFT不够吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmPeK8sJDuicz58LGyF3TvA0AQYsia6WxlrsZoZrWPNsN3dGOX6GnJtynFy2c6pwj5ibH6035OOpxicUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>上月，Meta宣布推出迄今为止最强大的开源模型——Llama 3.1 405B，同时发布了全新升级的Llama 3.1 70B和8B模型。最近出现了一系列令人激动的开源大语言模型，伴随大模型一起爆火的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247677995&amp;idx=1&amp;sn=9ca51b20ede34707f4c99b29cd76df94&amp;chksm=97630dc8eea4f0beb9e9d84d1a997577efeb5fe5ce42a2046f605c93a1ef27a54866af4ec34f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 14 Aug 2024 05:06:50 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从ACL 2024录用论文看混合专家模型（MoE）最新研究进展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmPeK8sJDuicz58LGyF3TvA0nCX1YUJUTyUPzvWPkxI4MRSeK88iccVj1koLDhfmpHILaGIicPyH00LQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 杨远航单位 | 哈尔滨工业大学（深圳）研究方向 | 自然语言处理最近 ACL 2024 论文放榜，扫了下，SMoE（稀疏混合专家）的论文不算多，这里就仔细</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247677995&amp;idx=2&amp;sn=40781c5dbe930087e6f407ebc34de2c0&amp;chksm=97c94a323704f6811355e238985b504c46d4bf72e5f8b8285f981a42f5d4d9e635a86ae68c15&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 14 Aug 2024 05:06:50 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[超越Llama 3.1！TII发布首个纯无注意力大模型，非Transformer架构站起来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmPeK8sJDuicz58LGyF3TvA0MKCgnTS49eohibdnggic9gK7aiaPttwfM5qwaibNDfbdg82HkFJ7FoPWcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 杜伟、陈陈来源 | 机器之心Mamba 架构的大模型又一次向 Transformer 发起了挑战。Mamba 架构模型这次终于要「站」起来了？自 2023 年 12 月首次推出以来，Mam</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247677995&amp;idx=3&amp;sn=1a29c9ab07448a45db794a2d6512c69b&amp;chksm=977120e4f26937d63cd5385863a4625697e357d125f3342088e97d4ba2ef52eb59e7feb83d8e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 14 Aug 2024 05:06:50 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[北京内推 | 腾讯机器学习平台部招聘混元大模型算法实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmPeK8sJDuicz58LGyF3TvA0nhia3HgdTloiabh3IlkbVrQrK8OLCc83RvqRZBiaRDx264A8QJb9FssIw/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！腾讯腾讯机器学习平台部是公司核心的AI大模型研发团队，依托其丰厚的资源、强大的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247677995&amp;idx=4&amp;sn=7642b5165259da2f42b93bcab3619f9a&amp;chksm=97d3a310c63ecc7f865674fcd7856adfd16bc5a9a5ee322fe629fd3344d08b0485e1ebf14b2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 14 Aug 2024 05:06:50 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[缝合几个模块实现了新SOTA，这样发论文算学术不端吗？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnHU3bibeiantB0vQzG78NNicJEiaTewMOT2shP1RXX9t5QicxgZhziaH4Cv3P2Ihy0twkLdzg9xQ8ibcD1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有创新点，就能顺利发paper吗？当然不是！有了创新点只是开始，模型的编码、调试才是重头戏。很多小伙伴都是改了大量的模型和代码，实验结果却没有多少提升，白白耽误投稿时间。今天就分享一些发paper必备</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247677801&amp;idx=1&amp;sn=b50eb9cdb1f335939fc501ddb229c841&amp;chksm=97b45e750839e6d92e5e7feff5679338117099504e28414eded6037b1e5001c18a9cde9fae9d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 13 Aug 2024 04:31:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[无需人工/GPT-4V排序，针对多模态大模型的全自动多级偏好学习]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnHU3bibeiantB0vQzG78NNicJKTIodOdTsbsdq05FYFibL1vib7O4xjqEkcAQu9TlUBlMV0Rr8CCdOe6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 吴文灏单位 | 悉尼大学博士生研究方向 | 多模态学习、视频理解前段时间分享了我们在多模态大模型（MLLM）视觉信号利用方面的思考：Dense Conne</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247677801&amp;idx=2&amp;sn=6b72f8c54fd15e3ab126548de7e9d386&amp;chksm=9764f8a47df889e5f0e2ec189932e755095b0a1b7de05d7284a6d873947be2fade2070a5e56f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 13 Aug 2024 04:31:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ICML 2024 | 上海交大发布UP2ME，首个多用途通用时间序列分析框架]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnHU3bibeiantB0vQzG78NNicJ8j08LB5AS5KExtpxQfCEaFu8icgQxv8GTqHNHtRqvcGZCPeUEw0qChA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | ReThinklab单位 | 上海交通大学背景近年来，针对多变量时间序列分析的深度学习模型发展迅速，并被应用于多种不同的任务，如预测、缺失补全和异常检测等。在其中，很大一部分模型需要根据所</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247677801&amp;idx=3&amp;sn=1e19a219d53276552dabe99cf75cddd6&amp;chksm=977d4d393c93a74d3b143635c395784f9119cedaa4fc16d488a7c88706948de75a84da5b0847&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 13 Aug 2024 04:31:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[杭州内推 | 阿里淘天集团未来生活实验室招聘大模型算法实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnHU3bibeiantB0vQzG78NNicJsQiamic5JnnzaVrQmFhW9aVnwexuwzlFpsGEN2CAVxrwxN1DecSbnQGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！阿里巴巴淘天集团未来生活实验室，聚焦于AI的发展，打造支撑电商及AI Nati</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247677801&amp;idx=4&amp;sn=975065edc5ef01cfb5fc4eacd847b93d&amp;chksm=970e2b338ecb6f6e828d2fefefdb37a7bf7f06a60bb03c0f621d524fc423d08736c02469eb72&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 13 Aug 2024 04:31:17 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -318,134 +386,6 @@
       
 
       <pubdate>Thu, 08 Aug 2024 04:46:59 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[投稿ID突破两万！NeurIPS'24审稿分数新鲜出炉]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnb7SXQ12ibsD9v2UkK0kplTgmeiaC6qTCXtFeN7WQqm9OupvEjhwMSCQxVBj2HPEkicyz0olAFibN4mA/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月31日，NeurIPS'24正式出分，从大家分享的分数来看，均分5分及以下占比较多，4-5分区间将近一半。对于低分区审稿人给的意见，大部分是缺乏novelty。一个research要满足创新性和性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247676292&amp;idx=1&amp;sn=ee5586992f2597289bf6ff331b17fcce&amp;chksm=97d4c14436d508bd6c6a644d29fecb72c68a06ba8bd8d63c5b80a32997911cd62e49623cd713&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 04:49:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[字节联合复旦推出LayTextLLM！交错融合布局信息，文档理解能力再创新SOTA]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnb7SXQ12ibsD9v2UkK0kplTbP4DPDD2icXboicR9YA0bpHoYOI97NibqmBcHLIDQM4ib40OK02mz8ib9Qg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 余海洋单位 | 复旦大学博士生研究方向 | 大语言模型引言在文档理解任务中，目前的主流方案普遍使用端到端的多模态大语言模型。但是，此类方法对图片的输入分辨</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247676292&amp;idx=2&amp;sn=2dd6755f47e0ff692665191540308ded&amp;chksm=97aac400e34e2ffbfb81e45611171b5b8c0b9f6a33cd57547c685b004bdf3a22d8cc1763afa1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 04:49:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[神笔马良版Sora！阿里提出全新DiT视频生成模型，实现精准轨迹控制]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnb7SXQ12ibsD9v2UkK0kplTO2DJdAN11FmqAcVy80VaV0v4kQsRnRAS2ATicWWuCAAoPrbnYZmfCWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景视频生成模型最近取得了显著进展。例如，OpenAI 的 Sora 和国内的 Vidu、可灵等模型，通过利用 Diffusion Transformer 的扩展特性，不仅能够满足各种分辨率、尺寸和时</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247676292&amp;idx=3&amp;sn=c184ee6bbe45c73134b7ec895c72e401&amp;chksm=975b01201996ca37eb9bff065a2a13c8d072d9d8335844e828b8ebd95809a8a4dad7328ed261&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 04:49:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[倒计时2天！第二届城市科学大会即将开幕，嘉宾阵容及日程全揭晓]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnb7SXQ12ibsD9v2UkK0kplTHb8NZoXb62iaic07RTwPGPuuWgNukkArKWlbMyZicvsenrX7C10GktmaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>🔍现在，在「知乎」也能找到我们了进入知乎首页搜索「PaperWeekly」点击「关注」订阅我们的专栏吧···</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247676292&amp;idx=4&amp;sn=bddec78cb99bef3c005274dc979a202b&amp;chksm=97b49216e12162da8f60551d2a12af05674019dc677619865d8f23ad0729e55552039dabd230&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 04:49:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[通向最优分布之路：概率空间的最小化]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnSgAnqfQtzC4B7N4NksQJ0vAJ4erb8S0gsFKNtG5cxWuFzfm326PVRmianBFV5uD9NQgODK1kqIWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 苏剑林单位 | 科学空间研究方向 | NLP、神经网络当要求函数的最小值时，我们通常会先求导函数然后寻找其零点，比较幸运的情况下，这些零点之一正好是原函数</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247676225&amp;idx=1&amp;sn=79997ae554bb62d11568d718db68bc39&amp;chksm=9734c2f58fbeaa08b3646fc039c56a9e803838156b656ec163a10420a288ea10398f9590f0f8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Aug 2024 13:43:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[文末送书 | AI for Science新书重磅发布！人工智能驱动科学创新]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnSgAnqfQtzC4B7N4NksQJ01BqkWBM4bUyicDPEc4nXTNDKfuYiaOPibF6aWNayRcl4eJC9wicP7wNOGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在古希腊神话中，工匠之神赫菲斯托斯曾打造出拥有人类意识与智能的黄金机器人，这可以被视为人工智能（AI）最早的思想起源之一。此后，人工智能的影子便无数次出现在人们对未来的幻想之中，但也仅停留在幻想之中—</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247676225&amp;idx=2&amp;sn=7702240f2268a97e6e7c2cc6d1308c31&amp;chksm=970c19345aa84eace232d032d62966f26e48474bddf80098a5dc2e1ed1a4011db32f6146e806&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Aug 2024 13:43:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[KDD 2024 | 通用的多源空间点数据预测：以PM2.5预测为例]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnSgAnqfQtzC4B7N4NksQJ0oPnh915cSVs1mW538sHZWs541gR4WyhZD26YJZHCvKm52VMAe0h0WQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景简介随着数字化世界的发展，空间数据已经成为人们认识世界并与其交互的关键要素。空间数据的主要特征是具有 2D/3D 空间坐标和与之关联的属性。空间预测（spatial predidction）利用空</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247676225&amp;idx=3&amp;sn=72a8dbb49761139409d40fd5c334e143&amp;chksm=9781a1c6390eb07d4100ad81a12832a37ce7e8e0100eec18ecea5cfae171cdb5175b99d3a25e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Aug 2024 13:43:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[博士申请 | 美国凯斯西储大学韩霄天老师招收LLM/GNN等方向全奖博士生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnSgAnqfQtzC4B7N4NksQJ0N1GmIoljic8FibNuGHMdpT6MMsl0BhTvoRWlOunNQqfvKIEbl4b1AJ4g/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！凯斯西储大学凯斯西储大学（Case Western Reserve Unive</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247676225&amp;idx=4&amp;sn=c96133b7f5906c911f7e57eff08cd643&amp;chksm=978844d1b11bb19700e6ef47afba4db3e9800fb157e689b475bc4427a1cd987382b9987e0a9e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Aug 2024 13:43:39 +0000</pubdate>
       
 
     </item>
