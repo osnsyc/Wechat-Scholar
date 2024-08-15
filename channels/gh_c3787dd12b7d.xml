@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[激光SLAM：Livox激光雷达硬件时间同步]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZUHCFZqSZztW4ej4YhPQz2FM97L1LEKqAFxVIKia4CUsmX1dC3Xwib1ocibp4CdQcDC3EPfwNBaLZ3f8vsPcwYM3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在进行机器人进行slam的时候往往单一的传感器不能实现强鲁棒性，很多时候需要用到多个传感器的融合，例如激光雷达+相机+IMU+GPS+轮速计+毫米波雷达等等。在进行多传感器融合的时候就涉及到了数据</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247595122&amp;idx=1&amp;sn=74f1e6dc12621de3f6c08d43bdd16fc8&amp;chksm=faf35cd4ebb15ae032a8c84e47a8b49de41a2e8db138b8caeb01b15f330fa8d7667a2c7948f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 14 Aug 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[基于BINN算法的CCPP全路径覆盖算法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ugsmVRLdTiaXAT9ntr3e42sJDTBIq14cUL2wy7b1jP7Cib7gicwpmXag8MAZJfibqK7wuiaoWA2wBGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>1、CCPP整体算法文档1.1 ccpp基础介绍全路径覆盖算法（CCPP: Complete Coverage Path Planning）作为扫地机器人较为关键的组成部分，其问题的本质是：在栅格地图</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247595114&amp;idx=1&amp;sn=70fb9998572e8c099b511b159a52dcf1&amp;chksm=fabfa626ee0ab0ae67fe43e9a4b73b1b9119f6351f55248c6ab9fea21a87e9a370d4ce128fc3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 13 Aug 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -135,214 +152,6 @@
       
 
       <pubdate>Thu, 08 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[搭建智能小车的视觉SLAM导航系统测试环境]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs0EpZuNCibmgibUklNxHGiagr5Wz6ibcKicus46icZBleEegksUn5OZ21pp0BRptJfSW5kicHyCvTur26CA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 引言SLAM（Simultaneous Localization and Mapping，即同时定位与地图构建）是机器人学和计算机视觉领域的核心技术，涉及在未知环境中同时估计机器人的位置并构建环</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594989&amp;idx=1&amp;sn=933240f1db8dabe15bd670bf9d91a823&amp;chksm=fa2130d741975e371d5285b5c30ad3f091b5f61cfa88ed8e8f96f8d01b72a030cb42b5bcb80f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐: ROS人机交互软件的界面开发 • 蒋程扬]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsB5aLJapOexn57VhuVWEs1MnrsW0hqmcb7Gr7L61Sh8uFfBEaiaRpaMh7ZsQdDiazNqVe15sLtZsIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1课程目的ROS使用过程中，涉及许多命令和终端的操作，虽然有Rviz做显示，但依然没办法充分满足多种多样的需求，那不如开发一款集成各种自定义功能的可视化软件吧！古月居推出“如何开发一个ROS人机交互软</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594971&amp;idx=1&amp;sn=5ca5f1a2335054a4ab68f441d5cb4c43&amp;chksm=fa1ef089e9f4079f944ffd77447010d7f68ff70f47bbdf74e865bc245e25c51b3830b88a5a81&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 06 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024 ROS暑期学校圆满成功！2025再见！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsjEhh0TyALEwDiaHF10epnXqzgZljpXVic3Xibroy42P8QsTMO6ss0W2W9HQj7yvUT265RopVRYeM5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年7月29日-8月3日，中国机器人操作系统(ROS)暑期学校在上海华东师范大学滴水湖国际软件学院如期举行！本届暑期学校邀请了数十家机器人公司，为各位开发者提供与ROS机器人技能和行业领航者交流</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594952&amp;idx=1&amp;sn=d2ca40df4181c1eb79bb9116c820a68c&amp;chksm=fa7e7e288bfaf669b98b37b0aae198ce15f35390b02f6956b6b28e702897d646d8789986f6e5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 05 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[古月严选 | 致力为每一位开发者提供最好的选择]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzticMgH9Z5nMgGfx4GwruoTxCXjoqOJEjR2uUbsyVIwZddLEX3iaAQOEkAjHZibt28NsGMnczpylMbJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>经过长时间的细心打磨与精心选品，古月严选终于在今年的5月20号这天与大家见面啦。在这个信息爆炸的时代，各种商品鱼龙混杂。因此，我们重磅推出了“古月严选”的策划，致力于从众多产品中为用户筛选出真正有价值</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594952&amp;idx=2&amp;sn=68680e810a1d751101e1cea48cfbfc61&amp;chksm=fa6db3a632430dd618ced8a03fc3b32b3fde2ce104fc54d693e854ad3b3cdade72a3a3291e09&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 05 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【Tello无人机】多机编队控制]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt94J01rcXoGSMYKTSibuOaVZKczjCOibhibOmlyMRrHKiar4dgWYvVvfW8rEv1bUjvf0ca2CR436htqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在现代工业、环境监控和城市安防应用中，多机器人系统（MRS）的应用日益广泛。相较于单一机器人系统，多机器人系统在执行复杂任务时不仅效率更高，而且对单一故障的鲁棒性更强。本文介绍了Tello无人机编队控</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594935&amp;idx=1&amp;sn=1f2c1088a0855969070270e849e6236e&amp;chksm=faa33f619f293b848156de992a6d13a0ce72cbe980cd65df612bfa9cc08836fe53c27329d7c7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 04 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于NE555芯片设计的地震报警器]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt94J01rcXoGSMYKTSibuOaVrtuCcttgHawVzxLJyqgXPwx8QoIrPk3r8FfbWVbrwt01uJu7hN6byA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：地震预警系统行业技术在人们的日常生活和工作中得到越来越广泛的应用。随着我国社会经济的不断发展,对地震预警系统行业的应用需求也会增加。中国地震预警系统行业技术的发展始于1990年代后期,经历了五个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594934&amp;idx=1&amp;sn=2ddd892f09f042a74fcad2da91cf4261&amp;chksm=fa4b554a4a500526769ed2b03f9e5c2166729a48bac53c99721721fbc6d1390d714b90aa00a8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 03 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--LIV-GaussMap(实时3D辐射场地图渲染的LiDAR惯性视觉融合算法)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs21dSwUjgUicic7pImRfPIuCkyeuY6t3asqlpLz02eaQd9ATTnuIDgFJ3FQey45RWo6zkWVySE8dBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介《LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering》（hhtt</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594885&amp;idx=1&amp;sn=526ca5d0b1175aa19b7acfa8d43cdcb5&amp;chksm=fab79b001a0cf83563258b39ddb60e68bb4fb2409d49deb589ce5ddc0aa782263a2d3b8a04b9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 02 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【文献解析】3D高斯最全综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsiaV2l4Ik72SicBxBPZ19rJRDhdLaicaMfEQs6BibPkbF5Lu2O9Xiao63qiccPj6sNsficN8g54NibV8CPRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>A Survey on 3D Gaussian Splatting论文：https://arxiv.org/abs/2401.03890一、文章概述1.问题导向基于图像的3D场景重建时机器理解现实世界</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594855&amp;idx=1&amp;sn=06d3ff2d76afcdbc8496f8266a49565b&amp;chksm=fab968d9f8db75398e766a5578de9cc310e165c5d2a812b8cdb303eb8f0a4cb820c831370de6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 01 Aug 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[名单公布 | 2024 ROS暑期学校 古月居OriginBot机器人人工智能精英班入选名单揭晓]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs3V760GmfexWKPG0I4XSlwlwl6F2fLmMgiaicdCEIjQw6BcNQnnCia27Wfm65VLicibsPS4FrTR6cDRvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>古月居OriginBot机器人人工智能精英班入选名单何东蔚王毅斌胡琦张蕊李志泽赵阳丽韩世博程鹏飞刘义莎马肖潇吴静怡汪佳怡陈炜恒侯东君赵昂李和富赵源麒张同羽汪志诚张开飞李凯谢佳静赵中阳胡琦赵文杰侯沛尧杨</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594812&amp;idx=1&amp;sn=dbb1bbe3c023ca4d498576fe375d7644&amp;chksm=fa629d0ee09b555dee5f8a4c182778437c881a5edc6a20c3ea134c7fee067bece4bdf1681bf9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 31 Jul 2024 09:20:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【文献解析】Point-LIO: 一种鲁棒高速带宽的LIO]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvr8Abxvfko4SgrUU2uegwNEtda6dqx6ZrqvhBS9GyGjd4bUyoCRNy0lrUYWqqsNQ6Nl9uIj4Dicgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Point-LIO: Robust High-Bandwidth LiDAR-Inertial Odometry论文地址：https://onlinelibrary.wiley.com/doi/ful</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594784&amp;idx=1&amp;sn=71eec423f8887be5f8444d425cbf1536&amp;chksm=fa86d0b0d54de4a7159da0828b05cf19961816c7d9d8778f5138f0e3820e056c38c6d379f5b5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 30 Jul 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年ROS暑期学校古月居精英班开课问卷大调查！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvr8Abxvfko4SgrUU2uegwNSn0vQ4u8kX1uV6GqCcHiaWoVjVNxaJL6xjexgHXKn6kH2RlVvWgz5ew/300?wxtype=jpeg&amp;wxfrom=0"/><p>亲爱的小伙伴们，感谢您对2024年ROS暑期学校古月居精英班的关注与支持！咱们精英班的课程将于8月1日开始，为了确保您能顺利参与我们精心准备的线下课程，请确定能到现场的小伙伴填写一下这个调查问卷哦。您</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594784&amp;idx=2&amp;sn=4aedf3ab35054e846e30af955b4c4d3c&amp;chksm=fab452c8929591aad27f744f8e607874e70f160cb7b05e45e4356442ac0fb5f4165b100ecf04&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 30 Jul 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐：MuJoCo机器人强化学习仿真入门 • 独孤小hi]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuIE4NJNTJQice3a51To37reX113XEjZFEV9dfBC5wicQD3HaodVmKAPhN9UEWXuiauQRHQDeC6eytpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>1课程目的强化学习，作为机器学习领域的一个研究热点，已经逐步融入工业制造、机器人控制、游戏开发当中，其以最为自然的心理学试错学习思想为核心，在整个人工智能领域占据重要地位，乃至决定着未来人工智能的发展</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594737&amp;idx=1&amp;sn=a00f3acd9138c3e872c33768bb3940a0&amp;chksm=faff809e2ea47db5661050c7c95c6ea97093af5f6c662ec13eb3eb338341eb354c1e84eead88&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[古月严选 | 致力为每一位开发者提供最好的选择]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzticMgH9Z5nMgGfx4GwruoTxCXjoqOJEjR2uUbsyVIwZddLEX3iaAQOEkAjHZibt28NsGMnczpylMbJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>经过长时间的细心打磨与精心选品，古月严选终于在今年的5月20号这天与大家见面啦。在这个信息爆炸的时代，各种商品鱼龙混杂。因此，我们重磅推出了“古月严选”的策划，致力于从众多产品中为用户筛选出真正有价值</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247594737&amp;idx=2&amp;sn=375200726c70e1c27b7fe1fc617fdb49&amp;chksm=fa923ea2ef0e99bd27e63c86acf33564e3373564d9c4e466aa27e3d560db044724670434a5c3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 29 Jul 2024 09:20:00 +0000</pubdate>
       
 
     </item>
