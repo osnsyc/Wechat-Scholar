@@ -47,28 +47,92 @@
 
 
     <item>
+      <title><![CDATA[为什么最近多模态大模型工作中用Q-Former结构的变少了？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrReCDFzRZvic08GxWGhicy7PoeI0M4PkcRejHLxYEwAZah6wUQ5zeqmj5cheK4v5u0MnzdRypc3W5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨姚林丽来源丨PaperWeekly编辑丨极市平台极市导读 训练资源有限的情况下（有限的 GPU、训练数据等），Q-former 也只是一个“低效”压缩器。如果想减少图片</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247692367&amp;idx=1&amp;sn=7e26ed627094bebcffd8bd58e42a54d5&amp;chksm=edb5d5a75080080be2aa9e4cf90abfaa81d8782ef080cff24a96ac4848a28b50333848b5996c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Aug 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[TPAMI'24｜显著性程度预测新SOTA！基于上下文感知的超图网络框架HyperSOR]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrReCDFzRZvic08GxWGhicy7PrREM71IiafLkeK7KO2rxOwtp98Qs9tbwTltQUPQCqpWBPsYElWPKpkA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨樵明朗，徐迈，蒋铼等编辑丨极市平台极市导读 本文瞄准图像中物体显著程度预测问题，提出了一种新颖的上下文感知超图神经网络框架。通过深入分析大规模的显著物体数据集，揭示了场</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247692367&amp;idx=2&amp;sn=808eaf434334a7781785a8df8ce2c79c&amp;chksm=ed6eaa97c284907e16c6e61daea74018043e56aa6d6d2e07f04a126eb5efa862b6dcb12af6a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Aug 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[极市直播回放第134期丨更强VideoChat来袭！InternVideo2：扩展多模态视频理解的基础模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrReCDFzRZvic08GxWGhicy7PV1jMZkGwz6WuESWkxHibvTxiaWREUP8qqk7ZpdGjNgKtxasfzqGJhaow/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台本次分享我们邀请到了上海人工智能实验室通用视觉中心（OpenGVLab）青年研究员王毅，为大家详细介绍他们在视频理解上的探索工作：视频理解是计算机视觉领域的关键研究方向，拥有</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247692367&amp;idx=3&amp;sn=291f7c4f17f2269897ea35285b06d5b0&amp;chksm=edc6ebcd9f3459b492932953a9f407c182b12a3393f1779d85bfdf4f24d8476e4ac19d61c853&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Aug 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[世界模型又近了？MIT惊人研究：LLM已模拟现实世界，绝非随机鹦鹉！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrReCDFzRZvic08GxWGhicy7PUltyfPzvfcfhdf0zD7OYKXC1UvStTJMzCjomSEZj3rK23D2qIiaiac5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 MIT CSAIL的研究人员发现，LLM的「内心深处」已经发展出了对现实的模拟，模型对语言和世界的理解，绝不仅仅是简单的「鹦鹉学舌」。也就说，在未来，L</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247692367&amp;idx=4&amp;sn=887d66e37f6d7500f06a1de44c91bcd0&amp;chksm=ed3f3ea7928b1df5dda57cdd5b75bc8ad537fe330c7e8187906c0abd5e25d8d58e93ce9beb8b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 17 Aug 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[ECCV 2024 Oral 满分论文！SpikeYOLO：高性能低能耗目标检测网络]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfos0133l92Q2MKa9tXTzYId9mZVKRZmmbNoesNXhHbBFHSZRorQ0BCCsriczDHoic1Kibtv4abx3ThWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨竹贤来源丨https://zhuanlan.zhihu.com/p/714264914编辑丨极市平台极市导读 本文提出了目标检测框架SpikeYOLO，以及一种能够执行</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247692238&amp;idx=1&amp;sn=c1a57050f7a1b0acff0fe1a2aef8f523&amp;chksm=edb96ea1377241ce0b9fdccee816f3ce22ae30cd6a837c3175e4839105eca2a7828a4976c594&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 16 Aug 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ECCV 2024｜POA：已开源，蚂蚁集团提出同时预训练多种尺寸网络的自监督范式]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfos0133l92Q2MKa9tXTzYIdMCXc9o4WbRL4LxW4XkCJJILSr6RKkwH6nmgm7NdvfejOsQ9133mYQA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨VincentLee来源丨晓飞的算法工程笔记编辑丨极市平台极市导读 论文提出一种新颖的POA自监督学习范式，通过弹性分支设计允许同时对多种尺寸的模型进行预训练。POA可</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247692238&amp;idx=2&amp;sn=3908a4075579b201cd32ea6b5c014024&amp;chksm=edab0b87793df3930ef0ea3b5b615a546d28105751d8238e530b1ac34e52d53d48fe8dfeb9b6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 16 Aug 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[即插即用，效率远超ControlNet！贾佳亚团队重磅开源ControlNeXt：超强图像视频生成方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfos0133l92Q2MKa9tXTzYIdQMgCu5MVQ9bfYUzrbMfQwflmniaLlzLRIQLTXQROMgtzVQCaQnIlkOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨Bohao Peng等来源丨AI生成未来      编辑丨极市平台极市导读 本文提出了 ControlNeXt，一种先进且高效的可控图像和视频生成方法。ControlN</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247692238&amp;idx=3&amp;sn=efb43704c6459aa8fec4c0fe46337c7a&amp;chksm=ed6d5d1654041944aa91cac08d5670926136798a29c3564439e81af6333949b8eab5e80c6776&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 16 Aug 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[英伟达玩转剪枝、蒸馏：把Llama 3.1 8B参数减半，性能同尺寸更强]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfos0133l92Q2MKa9tXTzYIdTB8SvGjdlAiavQ565KdzUrz8diaiaGATibp9DHmuPSQ0VjMgJATxZknFoQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 小模型崛起了。 >>加入极市CV技术交流群，走在计算机视觉的最前沿上个月，Meta 发布了 Llama 3.1 系列模型，其中包括 Meta 迄今为止</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247692238&amp;idx=4&amp;sn=74122223c58a12f44f7e69401aa0ce7d&amp;chksm=ed23ba1302f3117c57e5d4690b1b613ad9b0069c24071340c3a51fa13065fe729e75423282e6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 16 Aug 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -403,70 +467,6 @@
       
 
       <pubdate>Sun, 11 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CUDA卷积算子手写详细实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpCqclGjPHUdTuLvq3rOK5X7p1aynhLpFaQ9DsQkpgMzYWR938jdNAEAdU3ib1meicBlJrGBicpvhuvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨Pegessi@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/613538649编辑丨极市平台极市导读 本篇文章主要介绍如何利用CUDA</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247691748&amp;idx=1&amp;sn=9b712162c66d1fada9bc17de36519842&amp;chksm=ed21536d10d515cf6a43e85ee12eed150d00ecb9eb91ce2093cf5e4fdfd3ada86756d0bf65fa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 10 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[SAM 2无法分割一切？SAM2-Adapter：首次让SAM 2在下游任务适应调优！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoxuoV8T59g4bqatUDrMwSOAITV358KPeR6j4hvfNTibqSKKPqKnIe8S3zCIFMbaNiavvlgkpsbMDLw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨CVer粉丝投稿来源丨CVer编辑丨极市平台极市导读 SAM2-Adapter是一种新型适配方法，旨在充分利用Segment Anything 2（SAM2）模型的高级</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247691748&amp;idx=2&amp;sn=6e3824fc1c5c72193dbeae4e239e84ab&amp;chksm=edf54d567256d1d1749e96321a93cabfc29d09790556da32670ab40140d67e0d24d3f80dee65&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 10 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ECCV24｜全局式SfM最新SOTA，GLOMAP重新定义SfM！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfotyHqEWb7hnBJ41jAcL0ocbretauqwgfJj506Eo1VWNqWVLYryAn9Yt4EZ6icTrDudlEKOWknD1CA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨巴巴塔来源丨深蓝AI编辑丨极市平台极市导读 ETH&amp;微软最新开源-全局式GLOMAP，它与以前的全局SfM系统相比，其核心区别在于全局定位步骤。不是先执行不适定的平移平</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247691748&amp;idx=3&amp;sn=f6bebabd716d644bf36bd4b94104fbc8&amp;chksm=eddb33696262d4948463255cd3409c5f518952e199b6297cddba4a77bc84eb0ebb0fb7a6131a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 10 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DeepMind机器人打乒乓球，正手、反手溜到飞起，全胜人类初学者]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoxuoV8T59g4bqatUDrMwSOIYWwmsR3JoJiaia1LrMc1okiaPB7JQIV0RnjuKxSJqkiaynNmdoquEODmw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 但可能打不过公园里的老大爷？ >>加入极市CV技术交流群，走在计算机视觉的最前沿巴黎奥运会正在如火如荼地进行中，乒乓球项目备受关注。与此同时，机器人打</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247691748&amp;idx=4&amp;sn=6892ff7066c0860bd93563889875ccd5&amp;chksm=ed377eb8541044b383cfe1d0fdc26ea6a87cd985c35079ba549961d18621f4ee5f5eed5a71cc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 10 Aug 2024 14:00:00 +0000</pubdate>
       
 
     </item>
