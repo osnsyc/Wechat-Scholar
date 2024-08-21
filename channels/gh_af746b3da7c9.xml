@@ -26,23 +26,68 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[一文讲明白大模型显存占用（只考虑单卡）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajqI5ZIoTR91n1nKSFvg2Jku9G2n8wLJ8aXiae1fGtqSspDuSHsBMJukZAwSTavt5dXeu39GAR5iaGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：然荻链接：https://zhuanlan.zhihu.com/p/713256008纯知识分享，侵删1.告诉你一个模型的参数量，你要怎么估算出训练和推理时的显存占用？2.Lora相比于全参训练</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528860&amp;idx=1&amp;sn=5d31bc3ed34661db8caf211c0fba2c85&amp;chksm=eac705e6d4e76054e956446e8535fcc458dc65a49aea313b08b24e38fd107a337fe06a038892&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Aug 2024 12:54:35 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[你的模型真的擅长数学吗？MathCheck：大模型数学推理能力的新评估范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajqI5ZIoTR91n1nKSFvg2Jkf8SSXr2fe6VFGNYP6hbicJDQ6eHFhfpj6Pm1uMzXeVUzHVRTNstsOfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>标题你的模型真的擅长数学吗？MathCheck：大模型数学推理能力的新评估范式时间2024.8.24 10:30-11:30 周六入群内容大纲1.背景-大模型数学推理能力研究现状2.我们为什么需要更好</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528860&amp;idx=2&amp;sn=f6a7da7f4a70b47b3fbdc2f75bc8fa57&amp;chksm=ea1902fa0cddb3ef0d909c928488abcaa9976138369238889ffa6e4b64e56e46344c0f87a0a0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 20 Aug 2024 12:54:35 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[无矩阵乘法LLM - 一个来自线性Transformer的视角]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpDeTyBAhqczSZ7yndl5oEx9KjVlpbZC8HphCFOGoZztibEKKHAX0y4dc7whLFMlgKKmHIVvpYQ1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>标题无矩阵乘法LLM - 一个来自线性Transformer的视角时间2024.8.17 周六 上午10:30-11:30进群论文：Scalable MatMul-free Language Mode</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528828&amp;idx=1&amp;sn=7024f9665a6834946c32cd50b1ea858c&amp;chksm=eacae4cb3033961d6f997b30284b703d9f6f00652d6bf9602b88716e8d6d4be41cf1d35049f1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 14 Aug 2024 14:17:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[从ACL 2024录用论文看混合专家模型（MoE）最新研究进展]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpDeTyBAhqczSZ7yndl5oEHRObWCgv1ONyVLMPCkpEicPARu2gTDhrCKjeoL0KOu9hHaIyu9mJrsQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly 原创 · 作者 | 杨远航单位 | 哈尔滨工业大学（深圳）研究方向 | 自然语言处理最近 ACL 2024 论文放榜，扫了下，SMoE（稀疏混合专家）的论文不算多，这里就仔细梳</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528828&amp;idx=2&amp;sn=50e39b68847ddfad7b5352e6012d0c65&amp;chksm=ea6017a3ab1580dec7017ac14f9f2275ae4bfc18fa54e18e2e365bd6a2cc3f06dc3ed177dd3c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 14 Aug 2024 14:17:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[MOE系列模型-浅谈]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpDeTyBAhqczSZ7yndl5oEZdT3ZDb0kI2cjcxn6MANibfmW2fO2upXIZeuyoED3B5HKicKLJ2K0BIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：NLP工作站在本文中，梳理了近期 （24年7月前）部分 MOE 大模型的关键信息，包括它们的主要特点、亮点以及相关资源链接。涉及模型  Mixtral 8x7B，Mixtral 8x22B，De</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528828&amp;idx=3&amp;sn=c2e66f405897f7e444c49a33d31a537c&amp;chksm=eaa44051fe060fbcaa5dd6792bd3702518eb8e37264a52d82114ca3a413e1425543bdb692725&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 14 Aug 2024 14:17:11 +0000</pubdate>
+      
+
     </item>
     <item>
       
