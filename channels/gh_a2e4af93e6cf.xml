@@ -81,52 +81,180 @@
 
 
     <item>
-      <title><![CDATA[扩撒模型有何进展？OU等最新《扩散模型及其应用》最新综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YME5XtszqibVf9MGOYmAEHNRQFTPWjiaZyQPaROBTibZkAEAxnCtqyAQtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型是一种通过模拟扩散过程的概率模型，逐步向数据中添加和去除噪声，从而生成逼真的样本。这些模型由于能够生成高质量的样本，已经在图像处理、语音合成和自然语言处理等领域中获得了广泛的关注。随着扩散模型</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=1&amp;sn=609a97ad8af39137bfc6b29273b8ae90&amp;chksm=fd14f17b5bc03888b09d2e3fd03b79eaf533ee5921fcbd3173611b2ecce218bd403c6289b81f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[图怎么用RAG？北大等最新《图检索增强生成(GraphRAG)》综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw02Gwuzuia9HKGeibQP4JUMC1MgicoSeQ5Q5qP5guyRwd8ibM1Re5xic3BmURZfgGQaS7lPdasSK6z0FkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，检索增强生成（RAG）在应对大语言模型（LLMs）挑战方面取得了显著成功，而无需重新训练模型。通过引用外部知识库，RAG能够改进LLM的输出，有效缓解诸如“幻觉”、缺乏领域特定知识和信息过时等</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656323&amp;idx=1&amp;sn=49a0740725457ecbc4d731e87a9ebb7e&amp;chksm=fd7f01ab294de9f94c672a460e4cd9f190b9ef1fc0722965d8c806f82dd5de1111b1a0f01f48&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 23 Aug 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【剑桥大学博士论文】卷积条件神经过程，226页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YtWlhxftFqZV4EgQgLylibicAWudAxgibngM6ChkiaaI95UXbftdP3qdHvg/300?wxtype=jpeg&amp;wxfrom=0"/><p>神经过程是一类使用神经网络直接参数化从数据集到预测的映射的模型家族。直接参数化这个映射使得神经网络能够在小数据问题中表现出色，而传统上神经网络在这种情况下容易过拟合。神经过程能够产生良好校准的不确定性</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=2&amp;sn=f3b9e3cd4bc8991fd91bd8e1875ecad8&amp;chksm=fd85987af874e68cbaac5d56539c8576e5979d2afa7ab5c440c2871a599ee88972bfb8c4dfe1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【剑桥大学博士论文】推进归一化流模型以模拟玻尔兹曼分布，187页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw02Gwuzuia9HKGeibQP4JUMC1DtqNibEI25RHMGglhosQVe2iabiaVnHhG0kZwnHgsaMTUXZIXiapewfrqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>分子可以采取多种构型，它们以随机的方式出现，并遵循所谓的玻尔兹曼分布。对这种分布进行建模和采样对于许多应用至关重要，例如理解生化过程和疾病机制，以及发现药物。传统的玻尔兹曼分布采样方法成本高昂，而通过</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656323&amp;idx=2&amp;sn=c635b3c60afd1943a41d0a393e33185b&amp;chksm=fd0e8d3139b2958a19c42e27d4a05456df8e076d0a11cdedcdee8afc644809bca8e4e605bb87&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 23 Aug 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】深入理解数据结构，282页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YvphS9Xicib0c6yw4CZibo9xib8kMKDiag9QhraZyqhxicdoOgZ6L3iaicZiaUZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>不要被数据结构所困扰！这本有趣、友好且完全插图的指南让你轻松学习到日常工作中会用到的数据结构。《深入理解数据结构》让学习最有用的日常数据结构变得轻而易举。你将沿着一条稳健的学习路径，从最基本的概念到高</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=3&amp;sn=ae19b4ff86e165e373c3d9ae8c987c41&amp;chksm=fde41ad18618cfa35b1b65e7227b7d310676b317f79d4a93bd6871a0f0f400e2297ab488b35d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[YOLOv1 到 YOLOv10：最快且最准确的实时目标检测系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw02Gwuzuia9HKGeibQP4JUMC18ql3o2wW1ibljkCZGDUVKvG9LgFvnzW0WSxlpan2rp5W9u7LUMj2puQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要——本文对YOLO系列系统进行了全面的综述。与以往的文献调查不同，本综述文章从最新的技术视角重新审视了YOLO系列的特性。同时，我们还分析了YOLO系列如何持续影响和推动实时计算机视觉相关研究，并</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656323&amp;idx=3&amp;sn=5a75c249b341e653ece94cd0e2c4d64d&amp;chksm=fda42b329ca7f3b041bee33fd64841ae0528dedf0ab7c0b48bc6eb923b62100efa4d4f643483&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 23 Aug 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[作战和战术转变：现代战争如何重塑战场]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSyZtq7rNTSs5PMib5otDwEMBriaR7YIhwa7icgJDuUgbSUvnNYzyQPNYO5HFaSXQWs9jibU9dNfHLJ8w/300?wxtype=jpeg&amp;wxfrom=0"/><p>在最近的冲突中，常规作战要素与新的高科技作战要素结合在一起，这凸显了利用两个领域优势的平衡方法的重要性。在乌克兰和中东持续混乱和无休止的冲突中，战争性质正在发生一些变化。一方面，乌克兰与俄罗斯的战争让</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=4&amp;sn=e736039662efaa43f8866bde20364520&amp;chksm=fd96ae79f154f35b6d5a2df8302e3b61e1010d891e76489483b36adf9bfe74deeefcd017ca12&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[传感器融合：地面战的关键]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicR0rRLzlRhwQibjaaFia9M2GAr0AicYmWw6oYprcgiahUfTLM5xuKFG4JZJTUzXmoTia3UkyMjMnMaPT9g/300?wxtype=jpeg&amp;wxfrom=0"/><p>传感器领域的技术进步及其与综合态势实时图像的融合彻底改变了 ISR 能力。鉴于传感器融合在现代战场上发挥着至关重要的作用。导言将来自不同传感器的数据合并成一个更准确的情况表示（用户友好的输出，如显示器</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656323&amp;idx=4&amp;sn=d9c557f447f81357851aa8c309fcc78c&amp;chksm=fdc20637a83429aca16bb9f2a445cc634db257e6599330b12480ef2c31729f08dc3dcc9e7a3b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 23 Aug 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[视频大模型奇点时刻加速到来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YAXhicYla8WX1D3wbiaOC2iceqfn00k6S2qnfz6ykSZabt0CKduWib16fTg/300?wxtype=jpeg&amp;wxfrom=0"/><p>视频大模型迎来Sora时刻，生产力工具蓄势待发。自Sora发布以来，国内外已有十多家公司发布或更新视频生成模型。专知便捷查看便捷下载，请关注专知公众号（点击上方蓝色专知关注）后台回复或发消息“VMQA</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=5&amp;sn=39f896faa6faf16ae7b3881aa8dd8827&amp;chksm=fdf7d4fe1ad508e66d01c5f219abbe8e9eb506044f00bf41360e9ccd653896f56287d4ed95e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】线性代数 II：应用的高级主题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw02Gwuzuia9HKGeibQP4JUMC12Q3jJicgGa5GVbIp2gBiasp614eBwElWSrLPkeiafCn9icJ9KibYnK1AgibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这是东京大学（UTokyo）工程课程线性代数两卷书中的第二卷。本卷的目标是从第一卷中介绍的标准数学结果扩展出来，阐述与工程应用相关的实用特定主题。虽然线性代数主要涉及实数或复数项的矩阵和向量的方程组及</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656323&amp;idx=5&amp;sn=7fb17b2f7d60106e1277a83da6c331cf&amp;chksm=fdfb776333cfc2fc26ed63a471725b94210bc3ce07f7d5b1481d773d0232270e9c4615076993&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 23 Aug 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[CoLiDR: 使用聚合解缠表示进行概念学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YibCb2svZHElkeHmT5kumeXfnibbKziavwFqueYB98QcWMekN9nRYJFVhQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度神经网络的可解释性研究通过基于概念的模型提供了一种有前景的方法，以人类可理解的概念来解释模型行为。另一条平行的研究路径则侧重于将数据分布解缠为其底层生成因子，从而解释数据生成过程。虽然这两种方向都</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=6&amp;sn=b5f0c1dec8bccb219abf7401f656ffe8&amp;chksm=fdbc6d26a1bfd7a30f6cb34e040bbddf12efd58cda6fccf07f8e8c41e5f4acea17b3b69b1df2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【ICML2024】更快的自适应去中心化学习算法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw02Gwuzuia9HKGeibQP4JUMC1dcNMQPspv93YDDztnVKictetdaOXD3V4gHBKcqnKg2AHOS0IynpaBYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，去中心化学习因其在实现简便性、系统鲁棒性和数据隐私方面的优势而在机器学习中受到越来越多的关注。同时，自适应梯度方法在许多机器学习任务中（如神经网络训练）表现出卓越的性能。尽管已有一些工作专注于</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656323&amp;idx=6&amp;sn=e017a172d7dd59ba0185b92146ad322b&amp;chksm=fd76652fec6e4980ab5d1bf2f42a63f8fc235e84ed68d895c61309f13b0ac69c00eefc637e23&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 23 Aug 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[极化SAR图像分类深度学习算法综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YVYVWUUfS4TzyYqSto8u32AZvrA4ttRtPIBSjf363mEScwSjHOZ6icYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>极化合成孔径雷达(极化SAR)是一种先进的微波成像系统, 具有全天时全天候的强大观测能力. 因此, 针对极化SAR图像分类技术的研究具有重要意义. 近年来, 深度学习技术因其强大的学习能力为极化SAR</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=7&amp;sn=31f17a2bfd272e0259c2a4df44eab017&amp;chksm=fd3ec81539760eae738bea252b3c3babe43a10ed7aa2311bf18299da95964dc5e252f4274f6a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【CIKM2024】LLM蒸馏到GNN，性能提升6.2%！Emory提出大模型蒸馏到文本图｜CIKM 2024]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw02Gwuzuia9HKGeibQP4JUMC1opiauEN9HOrYJ4KlyK87xuLoicLDiauZfsMeWmOcqicHXCJW1KYM3wylIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>【转载新智元】Emory大学的研究团队提出了一种创新的方法，将大语言模型（LLM）在文本图（Text-Attributed Graph, 缩写为TAG）学习中的强大能力蒸馏到本地模型中，以应对文本图学</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656323&amp;idx=7&amp;sn=10d4476eb4f97d61adb8b89dcee70a55&amp;chksm=fd304e526ef7d1f8b2725f74a593ad2ac732e54a69a93cf3bfdb6bdd17dd0e8795871940d574&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 23 Aug 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=8&amp;sn=9098232b782d4425f12534d90ab7e5a4&amp;chksm=fd8bacdec27fbf8f763eba7603bcee5166a846aa4daafc66f1e0f8d381af3d63ccdad2103cca&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656323&amp;idx=8&amp;sn=0476ddff668f7726d527b6eae6058873&amp;chksm=fd89baced8c70783b6a9ae4fc808d2a538ec9bb5d83b432f8823205218d804648ea5701a07bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 23 Aug 2024 03:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[扩撒模型有何进展？OU等最新《扩散模型及其应用》最新综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YME5XtszqibVf9MGOYmAEHNRQFTPWjiaZyQPaROBTibZkAEAxnCtqyAQtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型是一种通过模拟扩散过程的概率模型，逐步向数据中添加和去除噪声，从而生成逼真的样本。这些模型由于能够生成高质量的样本，已经在图像处理、语音合成和自然语言处理等领域中获得了广泛的关注。随着扩散模型</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=1&amp;sn=609a97ad8af39137bfc6b29273b8ae90&amp;chksm=fd14f17b5bc03888b09d2e3fd03b79eaf533ee5921fcbd3173611b2ecce218bd403c6289b81f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【剑桥大学博士论文】卷积条件神经过程，226页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YtWlhxftFqZV4EgQgLylibicAWudAxgibngM6ChkiaaI95UXbftdP3qdHvg/300?wxtype=jpeg&amp;wxfrom=0"/><p>神经过程是一类使用神经网络直接参数化从数据集到预测的映射的模型家族。直接参数化这个映射使得神经网络能够在小数据问题中表现出色，而传统上神经网络在这种情况下容易过拟合。神经过程能够产生良好校准的不确定性</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=2&amp;sn=f3b9e3cd4bc8991fd91bd8e1875ecad8&amp;chksm=fd85987af874e68cbaac5d56539c8576e5979d2afa7ab5c440c2871a599ee88972bfb8c4dfe1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】深入理解数据结构，282页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YvphS9Xicib0c6yw4CZibo9xib8kMKDiag9QhraZyqhxicdoOgZ6L3iaicZiaUZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>不要被数据结构所困扰！这本有趣、友好且完全插图的指南让你轻松学习到日常工作中会用到的数据结构。《深入理解数据结构》让学习最有用的日常数据结构变得轻而易举。你将沿着一条稳健的学习路径，从最基本的概念到高</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=3&amp;sn=ae19b4ff86e165e373c3d9ae8c987c41&amp;chksm=fde41ad18618cfa35b1b65e7227b7d310676b317f79d4a93bd6871a0f0f400e2297ab488b35d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[作战和战术转变：现代战争如何重塑战场]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSyZtq7rNTSs5PMib5otDwEMBriaR7YIhwa7icgJDuUgbSUvnNYzyQPNYO5HFaSXQWs9jibU9dNfHLJ8w/300?wxtype=jpeg&amp;wxfrom=0"/><p>在最近的冲突中，常规作战要素与新的高科技作战要素结合在一起，这凸显了利用两个领域优势的平衡方法的重要性。在乌克兰和中东持续混乱和无休止的冲突中，战争性质正在发生一些变化。一方面，乌克兰与俄罗斯的战争让</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=4&amp;sn=e736039662efaa43f8866bde20364520&amp;chksm=fd96ae79f154f35b6d5a2df8302e3b61e1010d891e76489483b36adf9bfe74deeefcd017ca12&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[视频大模型奇点时刻加速到来]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YAXhicYla8WX1D3wbiaOC2iceqfn00k6S2qnfz6ykSZabt0CKduWib16fTg/300?wxtype=jpeg&amp;wxfrom=0"/><p>视频大模型迎来Sora时刻，生产力工具蓄势待发。自Sora发布以来，国内外已有十多家公司发布或更新视频生成模型。专知便捷查看便捷下载，请关注专知公众号（点击上方蓝色专知关注）后台回复或发消息“VMQA</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=5&amp;sn=39f896faa6faf16ae7b3881aa8dd8827&amp;chksm=fdf7d4fe1ad508e66d01c5f219abbe8e9eb506044f00bf41360e9ccd653896f56287d4ed95e0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[CoLiDR: 使用聚合解缠表示进行概念学习]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YibCb2svZHElkeHmT5kumeXfnibbKziavwFqueYB98QcWMekN9nRYJFVhQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度神经网络的可解释性研究通过基于概念的模型提供了一种有前景的方法，以人类可理解的概念来解释模型行为。另一条平行的研究路径则侧重于将数据分布解缠为其底层生成因子，从而解释数据生成过程。虽然这两种方向都</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=6&amp;sn=b5f0c1dec8bccb219abf7401f656ffe8&amp;chksm=fdbc6d26a1bfd7a30f6cb34e040bbddf12efd58cda6fccf07f8e8c41e5f4acea17b3b69b1df2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[极化SAR图像分类深度学习算法综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1DcvUyLSQzgwNoYbRRIt5YVYVWUUfS4TzyYqSto8u32AZvrA4ttRtPIBSjf363mEScwSjHOZ6icYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>极化合成孔径雷达(极化SAR)是一种先进的微波成像系统, 具有全天时全天候的强大观测能力. 因此, 针对极化SAR图像分类技术的研究具有重要意义. 近年来, 深度学习技术因其强大的学习能力为极化SAR</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=7&amp;sn=31f17a2bfd272e0259c2a4df44eab017&amp;chksm=fd3ec81539760eae738bea252b3c3babe43a10ed7aa2311bf18299da95964dc5e252f4274f6a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247656282&amp;idx=8&amp;sn=9098232b782d4425f12534d90ab7e5a4&amp;chksm=fd8bacdec27fbf8f763eba7603bcee5166a846aa4daafc66f1e0f8d381af3d63ccdad2103cca&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 22 Aug 2024 03:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -770,246 +898,6 @@
       
 
       <pubdate>Sat, 17 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型如何融合？东北大学等最新《在大语言模型（LLM）、多模态大语言模型（MLLM）及其他领域模型融合：方法、理论、应用与机遇》]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw25xicdHAfU92QZXjjGkWoFTl871oJiboRiaHCf3pFFJdXwibQatbjkBcicmTLR7nlraYvwkQDxaicVtauA/640?wxtype=jpeg&amp;wxfrom=0"/><p>模型融合是机器学习社区中的一种高效赋能技术，它不需要收集原始训练数据，也不需要昂贵的计算。随着模型融合在各个领域中变得越来越普遍，全面了解现有的模型融合技术变得至关重要。然而，文献中在系统且深入地审视</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655951&amp;idx=1&amp;sn=788d62d84d5f0a344dbad8e6c4d6b786&amp;chksm=fdc384557a4cce558efe6a568797e6ecfc00d640fad373316010f1771780736d78e7cbb05fa1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 16 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【MIT博士论文】优化与现代机器学习的融合：理论、计算与医疗应用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw25xicdHAfU92QZXjjGkWoFTGDXheBvnEg1aemtrTNpFALticek8BScctpqY0jBmhnc0wTGjVewuWoQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>优化和机器学习是当今决策领域的两个主要领域。近年来，数据的日益丰富促进了这两个领域交叉点的进展，从而催生了更好的决策支持工具。优化通过改进传统机器学习模型的训练方法显著提升了这些模型的性能，而机器学习</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655951&amp;idx=2&amp;sn=8b090f0a469cd8795dc60e0c4140b229&amp;chksm=fdfd36334cbc7af0fa2879af4dafa603c1e1abef98a23de2aa70123e4294021871a0a7a1253a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 16 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[战场数字展示的局限性]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicT1l3INRZWeyWvqU7DvrBqC2eup7UkguhyuY6FpKqpvqiaosWKIicb9XgXUQZ8wwAq4wyb1owN2EczQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>技术通常被视为战争的仆人。然而，对在日常使用该技术的过程中所做的假设进行审视，就会将其转变为一个模棱两可的形象，并拥有所认为的更多能动性。防务界认为用于了解战场的数据种类有对有错，这导致技术的动员方式</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655951&amp;idx=3&amp;sn=dde947b6aa9d1818d12e080ce3003413&amp;chksm=fd5a9146756027b3c5e3f61aa8d398033a0b159a6228611f829fefe87276d34978b5a8b7c531&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 16 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《中国企业级SaaS产业发展研究报告（2024年）》]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw25xicdHAfU92QZXjjGkWoFTradC4mwcEzv9kajKwvYViaHh5OnncLOubMgYUZQgzyWp2ulzj8RBIQg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：中国信息通信研究院8月15日消息，中国信通院发布《中国企业级SaaS产业发展研究报告(2024年)》表示，云计算作为数字时代的新型基础设施，是加快形成新质生产力的关键要素和构建现代化产业体系的核</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655951&amp;idx=4&amp;sn=d0c2599e07ba6a5cc15e030d1ed9e665&amp;chksm=fd8a411d6be657a2b0e49e5e0db03c1eab0302d8b490a4798a868b1dccbf30671579582a14f0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 16 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[扩展英语大语言模型到新语言的综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw25xicdHAfU92QZXjjGkWoFTyRJTYtC9yRxyG5rurhBicAfwqO0pds1yOxgwyj2S5icMAMTdCKVBwtlA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLMs）在广泛的自然语言处理（NLP）任务中展示了卓越的能力，表现出知识、常识和推理技能。虽然这些LLMs在处理英语时表现出色，但在非英语语言，特别是资源匮乏的语言上的表现显著较低。这凸</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655951&amp;idx=5&amp;sn=6b90a9e20c2c626ff7693271db6f83ee&amp;chksm=fd8ce0c3bc137a252a47e792b187d058eba0861dc0ac954beb99c029c254cb336003fabcc882&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 16 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[深度学习在雷达中的研究综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw25xicdHAfU92QZXjjGkWoFTXtFYoyGyPVbJIuf4u1TdiauP7AAkFt6Gp7IXPfZibuVpWsrYpOgWxItg/300?wxtype=jpeg&amp;wxfrom=0"/><p>雷达是一种通过电磁波探测物体的电子设备。其主要包括：发射机、发射天线、接收机、接收天线以及信号处理部分。发射机通过发射天线，将电磁波向外发射，在某方向上与物体发生碰撞，电磁波发生反射，反射回波则被接收</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655951&amp;idx=6&amp;sn=8e74f0a898db2bb61f5a15dfb423738d&amp;chksm=fd4973ba493461e4b06e5ec2f1ff8881f39761281bbb3b1bc5523d19e12f6cb6901326294f30&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 16 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【TPAMI2024】序列操作对排名聚合的攻击：理论与算法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw25xicdHAfU92QZXjjGkWoFTrh7kQFrgAZ6qMfvVnbHgn2dBXxZntosmiaKEpWnytlIB447zge5DLcA/300?wxtype=jpeg&amp;wxfrom=0"/><p>https://arxiv.org/abs/2407.01916成对比较的排名聚合广泛应用于社会学、政治学、经济学、心理学、体育等领域。鉴于其巨大的社会影响和随之而来的激励措施，潜在的对手有强烈的动机</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655951&amp;idx=7&amp;sn=fa420926058d4373a368af9e30327c96&amp;chksm=fd9eecca62069e1de1f2bb0971a86084435cbb502ec827663f7fe818c59ade2c6a9de19801bc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 16 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655951&amp;idx=8&amp;sn=51656a7475531f30fe48902f9cebde6a&amp;chksm=fd752c6155f6da0f0e05fb1ce9a10aa0e02cdd21d47cffe6a6f77a9045b84589f5c28b00726b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 16 Aug 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[全新GPT-4o mini发布！大模型杀疯了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1KjF6FgE9DYnkFWpSCwHVl3lhOOXectUw3BAO3R4MF07kM6zRRbZXdSl9cib5V3WDGlw87qXa1h0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI再进化！全新GPT-4o mini发布，多模态AI更强大，在5月中旬，OpenAI向世界揭开了GPT-4o的神秘面纱，这个全能的多模态巨人站在了GPT-4的肩膀上，将人工智能的边界推向了新</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655898&amp;idx=1&amp;sn=ff442b943f35951981287ace6e70d92b&amp;chksm=fdf38e2038f239b5da5446fce7b2c3730094f55b4fa710f95c6056364c18fea43d21de6dc0c7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 15 Aug 2024 03:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACL2024最佳奖项出炉！7篇最佳论文]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1KjF6FgE9DYnkFWpSCwHVl5jsdsO7Uf6sZlaxniapaREWVEkicKfk6TGPugU6XzxpP7bhYnV79e12g/300?wxtype=jpeg&amp;wxfrom=0"/><p>CL（Annual Meeting of the Association for Computational Linguistics） 2024，即第62届国际计算语言学年会，正在2024年8月11日</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655898&amp;idx=2&amp;sn=43a0a6034f8b610b6706c4f145c88707&amp;chksm=fd20f60cfa86d08c10fa614408137d3f6fe3e5d55de75eea97788529ad0f9b1246f82b735354&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 15 Aug 2024 03:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ETHZ博士论文】人工智能稳健性和公平性的形式化与统计认证]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1KjF6FgE9DYnkFWpSCwHVlMH5luLvt17y2lWtANj6jqXEwQrCwHY7hXBGIOz9iaicJh9sNUqZmKxdw/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着深度学习逐渐渗透到计算机视觉和自然语言等领域，并且越来越多地与可能影响人类的关键系统相结合，解决人工智能安全问题成为该领域的核心挑战之一。在这些重要系统中，首要目标不再仅仅是构建最准确的AI模型，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655898&amp;idx=3&amp;sn=c799bdee348dfce0468ba6352883c448&amp;chksm=fd125cf483af71840aef208ca8accff82b4ea089ea6c1be261cff354f735210d962afaf3f614&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 15 Aug 2024 03:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[人工智能赋能自主武器：变革现代战争]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQJEgAGpwaJfXoukYQ8V7L2MJibKddOxsibibvlUggibLldCSJk3wHwx4pyG14oaGHX3EqAzgZ8GicM72Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能技术正在重新定义现代战争。这些冲突加速了人工智能驱动的军事能力的发展，并凸显了该领域在监管方面存在的巨大差距。与此同时，尽管人们一直担心人工智能的不可预测性和道德影响，但人工智能与军事应用的快</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655898&amp;idx=4&amp;sn=68494d93a2641c90e44f19e51b8632ec&amp;chksm=fd32e38f816517d56d758e1781dfd24d81a84ee5615e8dadaf66a0abb25d3c03054e3dca442c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 15 Aug 2024 03:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ACL2024教程】大型语言模型对抗攻击的脆弱性，200多页ppt]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1KjF6FgE9DYnkFWpSCwHVl0mbJImuS1wpErlh6R59AzROxqGIIWGz7xl8bcwRWM34CDlpJWyglwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本教程全面概述了大型语言模型（LLMs）在对抗攻击下暴露的脆弱性——这是一个可信机器学习中新兴的跨学科领域，结合了自然语言处理（NLP）和网络安全的视角。我们强调了单模态LLM、多模态LLM以及集成L</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655898&amp;idx=5&amp;sn=3ae947f7bf8ee44919b9f63725228b6d&amp;chksm=fde50b64e262323b494dfe8b94ce296f269c6fc9cfe6016e76082141c1f63e53686450c23b62&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 15 Aug 2024 03:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ACMMM2024】用于多媒体推荐的模态平衡学习"]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1KjF6FgE9DYnkFWpSCwHVllQdyGVZu7DeLppUGYBo62gVJ8dgtEiaWYNK43ko8CiaLNRiaHS3Qa1Z9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>许多推荐模型已经被提出，以研究如何有效地将多模态内容信息融入传统的协同过滤框架中。使用多模态信息有望提供更全面的信息，从而带来更优异的性能。然而，整合多种模态通常会遇到模态不平衡问题：由于不同模态中的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655898&amp;idx=6&amp;sn=fd1142e727d22466dd71397d7405693f&amp;chksm=fda25427d10b0bafe6175b24c6c1621141d40545f1e0a08338368c268589b8ccc87c0a217d3d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 15 Aug 2024 03:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247655898&amp;idx=7&amp;sn=28b1bdff7d6f0c97233340c988081546&amp;chksm=fdf0d0569d2bd9dc22d18e387dee035eeb40c90d2d3ea77a3b0ff437758578611f75488fef9e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 15 Aug 2024 03:30:00 +0000</pubdate>
       
 
     </item>
