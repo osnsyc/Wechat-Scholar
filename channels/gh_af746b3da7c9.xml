@@ -31,30 +31,98 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[如何解读 Yann LeCun推文建议学生不要在大模型方向工作？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahd3bKtbbaxINMCbyYjyQLh3BDOqwkeaHrqNlDQWib6HicNAEhcpClh5sVTpdA1rtOMZgM7Eeb07CwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：摘星狐狸链接：https://www.zhihu.com/question/656903686/answer/3527956804来源：知乎（学术分享，侵删）Yann LeCun的建议说得很直白</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528959&amp;idx=1&amp;sn=244d5eb83aff1a06d69c5edb01ff3ec7&amp;chksm=ead2e741a1e43264573d79968b174f9c6c8575af6b00b3773cb60bd230985ec204e3f4b874ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 25 Aug 2024 03:54:40 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[prompt综述的解释和个人思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahd3bKtbbaxINMCbyYjyQLhyvPW274q0ythIiajxmRlicacibAc93YX9rb7ZJHnEoVbeiafAJ4NaFLICw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CS的陋室上周手上不太方便，即使后续好了也没有搞定（不过说实话，这篇文章的量似乎没读完也不好搞定）。最近是有3篇prompt的综述非常出名：The Prompt Report: A System</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528959&amp;idx=2&amp;sn=e593e4818a4b683c80bc78c6d4fb413d&amp;chksm=ea95b805eb6054bd1b332847946ab2738bf18f450fb7f9e02c5c619e5a97c7967e606d98517b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 25 Aug 2024 03:54:40 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[李沐重返母校上海交大，从LLM聊到个人生涯]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahd3bKtbbaxINMCbyYjyQLht6D7nOGmqvgiaf9xwx7rGvibT70EEGIhSJhGIOtibFVIO65giaxaWBJT6w/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载自 | 机器之心感谢这位同学的录制，视频链接见文后。）图源：上海交通大学特聘教授俞勇朋友圈。Hi！大家好，说我是计算机杰出校友有点不敢当。很多年没有回来，这次回国想见一见本科导师。我的 AI 启蒙</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528959&amp;idx=3&amp;sn=cb6249518187129ff494bc046af77702&amp;chksm=ea786fe1f873bd0a8763a2567b04de077a40e305afc5908f775587844b4a4716bee6e0d976e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 25 Aug 2024 03:54:40 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从ACL 2024录用论文看混合专家模型（MoE）最新研究进展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahd3bKtbbaxINMCbyYjyQLh2PPkdyht3Yvv1ia1u6Txrb04CCnOsQaHSeTiabK2Ykh4zgvVkNbPY8NQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | PaperWeekly作者 | 杨远航@哈尔滨工业大学（深圳）最近 ACL 2024 论文放榜，扫了下，SMoE（稀疏混合专家）的论文不算多，这里就仔细梳理一下，包括动机、方法、有趣的发现，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528959&amp;idx=4&amp;sn=b7b0bbea5d7193c0d63989994f215d14&amp;chksm=ea52c1ff6e6f00a607ed033bc94153d3c0a745281e779c6e5666cfdcc6afc0f5541985b931f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 25 Aug 2024 03:54:40 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[英伟达仅用380B tokens训练刷新8B模型新SoTA，剪枝和蒸馏应该这么用]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXnESy3Q86ibFQGpyCyKhmWSGia1fxeCmkZV0chQjaDicee1fJ32oCejiaeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：LLM Pruning and Distillation in Practice: The
 Minitron Approach链接：https://d1qx31qr3h6wln.cloudfro</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528909&amp;idx=1&amp;sn=858e7f77e86d880d257e4648e1d63ea5&amp;chksm=eaf9ac80203d507b306b92edfb750216891b8cf323acaeb0b759344f94a0be52fc0e7b6a74f1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 22 Aug 2024 04:02:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[GraphRAG综述来了~]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXXEfxIHXKwdTMGjuUfRcg3TBGSiaOePrHPsV9VzXqGVHaWMKfkufNPAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Graph Retrieval-Augmented Generation: A Survey链接：https://arxiv.org/pdf/2408.08921研究背景这篇文章要解决的问题是如</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528909&amp;idx=2&amp;sn=35efd40b64d67a54813eea8aa96cbcc3&amp;chksm=eafd97a38a95e7f8317612023308592335249e61f8ec92dbed8aa75d7bf5093d9006efccf690&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 22 Aug 2024 04:02:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[HITSZ-HLT人类语言技术团队招收2025级研究生（含直博生）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXWPqf1zaq02z1Vwd8ibsNwGib7kHrmsYsdbw4Umf81C5U8MPicoDaOv3uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>团队介绍:哈尔滨工业大学（深圳）人类语言技术团队(HITSZ-HLT) 研究方向主要集中在自然语言处理、情感计算、社交媒体分析、大语言模型、智能体、多模态处理、语言与情感认知等相关领域，以及在社会管理</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528909&amp;idx=3&amp;sn=3c750e82e594e2e25747f3e65d10bdac&amp;chksm=ea4aa9cae3478ccf0785657e4dd8707c2542762fe5ea687df92c17ba7feedd82a22d93f0f407&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 22 Aug 2024 04:02:25 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[招聘 | 公众号招聘论文解读小伙伴、NICE论文直播平台寻觅小伙伴！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXJ0yVCRZ7qIHkzWCSxnOrlFfC57AZJj5lDGdYIibLd2xxd0UoiaibxlpDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、【深度学习自然语言处理】公众号负责：前沿论文解读，可配合AI工具要求：热爱NLP、LLM前沿，有刷论文习惯，有经常刷twitter、小红书、知乎等习惯，有敏锐嗅觉可快速识别论文，期望1-2天可产出</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528909&amp;idx=4&amp;sn=5fcd56b2f08f213938687ecef337e7de&amp;chksm=eab8a610d021ca29e79bc37eeffe1767be2278c7b72ce1187f50b1097ef733de7b752117a950&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 22 Aug 2024 04:02:25 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -85,198 +153,6 @@ Minitron Approach链接：https://d1qx31qr3h6wln.cloudfro</p> ]]></description>
       
 
       <pubdate>Tue, 20 Aug 2024 12:54:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[无矩阵乘法LLM - 一个来自线性Transformer的视角]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpDeTyBAhqczSZ7yndl5oEx9KjVlpbZC8HphCFOGoZztibEKKHAX0y4dc7whLFMlgKKmHIVvpYQ1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>标题无矩阵乘法LLM - 一个来自线性Transformer的视角时间2024.8.17 周六 上午10:30-11:30进群论文：Scalable MatMul-free Language Mode</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528828&amp;idx=1&amp;sn=7024f9665a6834946c32cd50b1ea858c&amp;chksm=eacae4cb3033961d6f997b30284b703d9f6f00652d6bf9602b88716e8d6d4be41cf1d35049f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 14 Aug 2024 14:17:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从ACL 2024录用论文看混合专家模型（MoE）最新研究进展]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpDeTyBAhqczSZ7yndl5oEHRObWCgv1ONyVLMPCkpEicPARu2gTDhrCKjeoL0KOu9hHaIyu9mJrsQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly 原创 · 作者 | 杨远航单位 | 哈尔滨工业大学（深圳）研究方向 | 自然语言处理最近 ACL 2024 论文放榜，扫了下，SMoE（稀疏混合专家）的论文不算多，这里就仔细梳</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528828&amp;idx=2&amp;sn=50e39b68847ddfad7b5352e6012d0c65&amp;chksm=ea6017a3ab1580dec7017ac14f9f2275ae4bfc18fa54e18e2e365bd6a2cc3f06dc3ed177dd3c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 14 Aug 2024 14:17:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[MOE系列模型-浅谈]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpDeTyBAhqczSZ7yndl5oEZdT3ZDb0kI2cjcxn6MANibfmW2fO2upXIZeuyoED3B5HKicKLJ2K0BIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：NLP工作站在本文中，梳理了近期 （24年7月前）部分 MOE 大模型的关键信息，包括它们的主要特点、亮点以及相关资源链接。涉及模型  Mixtral 8x7B，Mixtral 8x22B，De</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528828&amp;idx=3&amp;sn=c2e66f405897f7e444c49a33d31a537c&amp;chksm=eaa44051fe060fbcaa5dd6792bd3702518eb8e37264a52d82114ca3a413e1425543bdb692725&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 14 Aug 2024 14:17:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一个半月的LLM预训练、微调(SFT/RW/RLHF/DPO)、推理和部署优化、RAG/Agent等最高效路线图]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagMNJnqERPjxEBFXKxGLDicUl4HSFrHLnv5XUTvwicQvmIkV0xvE61WOmrlAtsQFRLiaYuBNWevJiarRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们从2024.1月底到现在已经帮助大几十个同学进阶LLM了，课程不断更新优化，好评不断，期待你的加入~一些成果两位大四本科生0基础通过1个半月的学习，一位拿到20k*14，一位拿到23k*16的LL</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528765&amp;idx=1&amp;sn=5d679ce78b62fee862ab9ef09dd05f6c&amp;chksm=ea14e240497cf035866ec254078d38ba095219929e4fd683d2897003e663b94f1fa315495ad8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 13:07:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型分不清 9.9 与 9.11 谁大，那 Embedding 模型呢？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagMNJnqERPjxEBFXKxGLDicULBKls7b3PwYPzbTzoZibEib1TMia2Mnpl44npQobw0K2aC7WybjsGiabcw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自: Jina AI这是我在维也纳举行的 ICML 会议上被问到的问题。在茶歇期间，一位 Jina 用户向我提出了一个 LLM 社区最近热议的问题。他问我们 Jina Embedding 模型能不能</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528765&amp;idx=2&amp;sn=9ab38298f5790b35d5509c1485f3ec36&amp;chksm=ea6f508a84335e0c2a8479189cb38a0891ae5794d1ae6c92616393a4e3600cd8aeac05f77472&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 13:07:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文搞懂SFT、RLHF、DPO、IFT]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagMNJnqERPjxEBFXKxGLDicU06D2cueWTNukr3p7a87CbBBtoR8iaf5wke6ncaphcubiahA3FBmbhcdA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：边路腰刀，清华大学 电子系博士在读声明：本文只做分享，版权归原作者，侵权私信删除！原文：https://zhuanlan.zhihu.com/p/710652762编辑：青稞AITL;DR• S</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528765&amp;idx=3&amp;sn=80ce12bf0a6d0f7ae28fc71b3881dca9&amp;chksm=ea6faabedf9b2bc6f23d437524736bf09983968340660950d140e913b3ff77b654624bd0fbdb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 13:07:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[百篇代码大模型论文最全整理之7月篇]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagMNJnqERPjxEBFXKxGLDicUHV01eFcnyoZg8icXichYvlj0ickcPDnhzWZaNVyAJP1wwm7JeTFZVs2Kg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言来自：CodeFuse本文整理 2024 年 7 月全球各大高校与科研机构发布的 117 篇代码大模型相关论文，其中包括 12 篇发表于今年 ICML 的论文。根据论文内容，我们将这些论文整理为了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528765&amp;idx=4&amp;sn=1a105f631d1b103600afdc5bf2567060&amp;chksm=eadba4e0664fa8e5dc5b6d1b8de3755a6766c0cc7d6a0a8930fc6aa3e7660fbcae7a4931146e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 13:07:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型Infra发展路径盘点]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagMNJnqERPjxEBFXKxGLDicUGQCDlAw7I0cxgPHnTNzYqx6XOylKmTI9yYwVGjH4BVNDCs2Vf5bEVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：方佳瑞原文：https://zhuanlan.zhihu.com/p/708594043越来越多人开始关注大模型，很多做工程开发的同学问我怎么入门大模型训练推理系统软件（俗称大模型Infra）。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528765&amp;idx=5&amp;sn=04ba53aa69da139364cce943fd247a38&amp;chksm=eaa8154399a8f74ee9f2f0f89a589b090f9a5b4c8232d990728603f062d51b07ee682bb80878&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 07 Aug 2024 13:07:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[语言模型如何确保无害性？通过推理过程中的隐状态解析越狱和安全对齐]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag5fU4tY0qEOqBPJBbPECTRTjPuROUWWibqKEgCw0vfLl0tibJHiaI9z5o0PfF1c2CS8l6gLULneTvaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>标题语言模型如何确保无害性？通过推理过程中的隐状态解析越狱和安全对齐时间2024.8.3 10:00-11:00 周六上午入群论文：How Alignment and Jailbreak Work: </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528730&amp;idx=1&amp;sn=97dafe02731a5b200db64e98a5a1c8dc&amp;chksm=ea3c2948b44691500995925d00800ff9c877004fc9351a907ad3cd26d83e322dcbc239688642&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 31 Jul 2024 02:43:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[可信大模型 Reliable LLM（一）：生成大模型的置信度估计与评测]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag5fU4tY0qEOqBPJBbPECTRHHWBldHoEp454tM61r0BhySzk90JVTUDmMLIkKl3038Zw4UQ7XBbSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：没有鱼鳔的鲨鱼链接：https://zhuanlan.zhihu.com/p/696065154本系列 blog 是有关大模型的置信度、不确定性估计及校准的学习笔记分享，这些研究对提高大模型的可</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528730&amp;idx=2&amp;sn=7ab4c27e6c9f8a3992461d1af29f7f8f&amp;chksm=eac80ca3acc59caad79ca576a193eb1f25e50872e4a8099d9f49954188e8fcfd436dfc632518&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 31 Jul 2024 02:43:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型Infra发展路径盘点]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag5fU4tY0qEOqBPJBbPECTRib36U7CW89SfyRDORDkLRJuIOIZJXib6DzoK0CNmxLTex4EqlJpbZiceQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>原文：https://zhuanlan.zhihu.com/p/708594043越来越多人开始关注大模型，很多做工程开发的同学问我怎么入门大模型训练推理系统软件（俗称大模型Infra）。作为一名曾经</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528730&amp;idx=3&amp;sn=dbe5f9aeb53fdf0e612370891cdfbc26&amp;chksm=eaa6f574cdcfad109e06801bf749ecd32a4258cf5c0ed886023be44c2c28d438ad2be2f9e9b2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 31 Jul 2024 02:43:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型量化概述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag5fU4tY0qEOqBPJBbPECTRby1b9icKFP1C4zCJ982YoGwoU3PWXXkicMkRoibWwPlf9zglrbGicStG7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：吃果冻不吐果冻皮近年来，随着Transformer、MOE架构的提出，使得深度学习模型轻松突破上万亿规模参数，从而导致模型变得越来越大，因此，我们需要一些大模型压缩技术来降低模型部署的成本，并提</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528730&amp;idx=4&amp;sn=e3080faa84e3eab0912eedc9f585e4b8&amp;chksm=eae6e9f68eff0a0d104e40bc26ab58e13a02ad727449dc14ef6eac59132fd621d35d3369abe5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 31 Jul 2024 02:43:08 +0000</pubdate>
       
 
     </item>
