@@ -42,40 +42,115 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[LSTM+Transformer王炸创新，荣登Nature]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIjsADKYbj6sxmhrwk8CcR1WepTGV9ajCQV2Ppc11UwZtq44HaW7TVLegJgJMSUuhYUNsmricWTZMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年LSTM火了！LSTM原作者分别提出xLSTM和Vision-LSTM，解决了以往的局限性。同时，LSTM+Transformer登上Nature；LSTM+CNN、LSTM+Attention等</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444387&amp;idx=1&amp;sn=e97c0e309bcd9e3ba37c92af968d69e7&amp;chksm=bf9e521b1ea1def5f31588abf4350331e1e50c21cc7db3fde6499ec826419bbf255b4ee41969&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 27 Aug 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[这段时间搞大模型的血和泪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m7xaFAUayiclBI8EoHkTF0qotaA06wic167BrLHtuYG63cFgYefd4qu9czkq1Ric56LwtRUQDKZKS8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家分享一篇好友知乎@赵俊博 Jake在这段时间搞大模型的心路历程。作者：@赵俊博 Jake知乎：https://zhuanlan.zhihu.com/p/716420396李沐大神最近分享了很</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444387&amp;idx=2&amp;sn=eef3dc84d54b4e9452e7e38f25e06f3b&amp;chksm=bfbe19ec8b95b8a41e7c45410bf703c9172cd9edd6a06a89c1d5579ac50d1c5f5c06849ffd2d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 27 Aug 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型知识蒸馏的两种方式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vImdeGStOOeLic4Xg0fgSyjt4lgyymYHWD2RKMBKuOJxoVPucFTGsKJh2VKITMcSBmiby8rHJWtxAh9gGibo57XQA/300?wxtype=jpeg&amp;wxfrom=0"/><p>      上个月llama3.1的405B已经发布，除了感叹开源模型效果的厉害之外，另一个普遍的感受就是，跑不动，根本跑不动，没资源，就算能训练，也部署不起。所以很多人就自然而然关注到了知识蒸馏，通</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444387&amp;idx=3&amp;sn=6181d42138f21d4f6920edda1393655a&amp;chksm=bf615aa5ad6380d4e8dc61757dd5e2b7d4b8b00456606f260ccb191f09cb23b4941b12b7ead7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 27 Aug 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ggml 简介]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2ouTCuWXvqUCnn5PxnBpBJQ4JN2AouvrhDlkg2bHYic5unPZ3ea1cTWCZTicGIOfOOj4yIpz5mfN9Fw/300?wxtype=jpeg&amp;wxfrom=0"/><p>ggml是一个用 C 和 C++ 编写、专注于 Transformer 架构模型推理的机器学习库。该项目完全开源，处于活跃的开发阶段，开发社区也在不断壮大。ggml 和 PyTorch、TensorF</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444387&amp;idx=4&amp;sn=6471e0cf2a63ca8b352413fbeba5c099&amp;chksm=bf6cb4e8753de60eccf51dfe8852ed27d494c0f94cfec3fbb748622719b3c8850dae3cd169d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 27 Aug 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【微调数据过滤】One-Shot Learning as Instruction Data Prospector]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvI8BOEvEicIpu4uTIo4M82fG20U2ucZbdmMkic2PwOkVhwAq47UhFxyTGtk0UnBrKhQibMWO2dXg8xQg/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文介绍了一个挑选数据的trick，这么说好像论文很简单，但确实非常简单。虽然论文里还用公式阐述了提出算法的实施流程，但我感觉完全是形式大于内容。既然是trick，那我们就尽量用简单的语言描述清楚</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444387&amp;idx=5&amp;sn=af4efa5e332a3a87db0ffd600bed1f55&amp;chksm=bf4c685111284b2a8020655ad1c40082dafbafa1ab66f049f5b1522e344cf9ee6bdb3cb77b0c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 27 Aug 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[奇书：《一书解决几乎所有机器学习问题》.PDF下载]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKpiaZvAC2DexvQpTSw6A7eDVL6TFibYAusB6gIIzEYDrYnjP5L7lDxLlYwBLOfFdJ7micePzQ61le5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍本次分享1本「机器学习」和「深度学习」好书。专治ML和DL炼丹过程中遇到的挑战，而非单纯地算法理论，适合想应用机器学习的读者。作者作者是 Abhishek Thakur，AI公司的Chief Da</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444369&amp;idx=1&amp;sn=6e429e3a539ef64be7dacd42710b9b3f&amp;chksm=bf506dfb671079787bec1b4b62b537f68ea63c7a4d392806e5375f79f4fb8f9c82418c860165&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 26 Aug 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[突发！IBM中国研发岗访问权限一夜关闭，千人或被裁]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIjsADKYbj6sxmhrwk8CcR1vovod1IicKqAtOyfaFmCUhxeMdxA3vuIbxC48hXic2hibYKOlfdfJYzVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 编辑：桃子 乔杨 (新智元报道）【导读】一个时代即将结束？「蓝色巨人」IBM中国区一夜关闭了研发测试岗员工的内部权限，波及1000多名员工。有消息称，这是IBM中国区大裁员的前兆。IBM中国区，要有</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444369&amp;idx=2&amp;sn=ccd8cde6346c39a696a8685f4b53b40b&amp;chksm=bf874032f63264650435eb7ddfbb7f0339a786d0a614819190fcda6e34d8385d792ed17390bf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 26 Aug 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[关于post-training和一些思考]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuzDV6E5glFv6xor20yqrRPz6tBm4QCibIvND09OrKL7gTCkxvoXnRgiaW8AKL5G2EukVOOguAqiapDtw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Author: [yanwushen]Link: [https://zhuanlan.zhihu.com/p/710936230]最近有趋势是要扩大post-training规模，本文讨论的就是Lla</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444369&amp;idx=3&amp;sn=cba84567bfb558136c800e63c194ae0d&amp;chksm=bfb33a5b6b6f703c396acf8dee591bca04127ae5acdf3496f75fc2b298264799116fa697db25&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 26 Aug 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[腾讯版GPT-4o开源平替方案：VITA]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib6In88kx5YuAkeBic3Mnx8wduUvRBT3XzVcd9iaYiaQ8nPjjqztvs03ghUEqGtN9mY64XxmicnjYYtuHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言小伙伴们好，今天这篇小作文主要介绍腾讯开源(截至2024年8月25日尚未真正开源，只是在github创建了Repository)的GPT-4o平替方案：VITA。简介VITA是腾讯优图实验室在交互</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444369&amp;idx=4&amp;sn=283a9f763d3e931706a7813d1d7ecff5&amp;chksm=bf54a344235168c6d997bc90c6a695576ca3a67f8b3c2c73747aeea4d12f3a19b95e7a5e019f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 26 Aug 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RecLLM-Gen:将LLM应用于推荐系统]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hg6UPGp0Hib5uQBLE6luJ77Rp0pJGsENx7zggVoj2qMKNJcD8Je3eHFiaSgiaXywjM3LY7VPbSUstLT2jKQAyhIdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题: Aligning Large Language Models for Controllable Recommendations链接: http://arxiv.org/pdf/2403.0</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444369&amp;idx=5&amp;sn=45cb53694d4e738234e57fd050de99df&amp;chksm=bf3b7b7ad103e87ca07d3ed427c40f7e12f820367e517626d342a337489a3b792a882a6a1a01&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 26 Aug 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
