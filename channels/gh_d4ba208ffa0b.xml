@@ -21,27 +21,27 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[一文看爽，计算物理之多相流综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkTR3SLrCpUficX64Xk1zlvibn1Dd8ckHGppGMG7ibG6eyrymibzdmfLRGbgzIlCAl9Nd8HlzG0O3qv0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是岳子之前发在cfd-china的纯手敲。现转发在此。玩偏微分方程的大家梦想都是星辰大海，征途是万里苍穹！计算物理多相流，相对于单相流模拟一直都不是很成熟。模拟多相流的小伙伴们，这是个好事，这表明</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649428560&amp;idx=1&amp;sn=68bed286f44eb82b3288b4e96a827750&amp;chksm=89bb18ef9a0f940ba010f5441ce22b542d96cf8905d61c318dad6df8bc020d946a784e1ea9b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 27 Aug 2024 04:28:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[引用23万的算法？2行代码搞定！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkngbLLpQF9q4ef8qh13hWmQFc8zfU8sfTNkTnWIpE5kp96Qj6FEKiaPhR0HVYuHp1OgD8JqTJyE7rg/640?wxtype=jpeg&amp;wxfrom=0"/><p>真流弊！上个月我看何大佬的残差网络引用还是22万，这个月就23万了。这算法引用数每个月增长大约1万！关键这玩意也是真流弊。我在OpenFOAM/libtorch里面植入了一下，算了个顶盖驱动流。不带残</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649428555&amp;idx=1&amp;sn=082ae4027d69f1220e817c555a68a83e&amp;chksm=8931d9768c7ac3ab96d7212d77016375d5b8afb0ad3626c4388cc23fd2d1b056099ba9797238&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 26 Aug 2024 04:23:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
