@@ -35,12 +35,41 @@
 
 
 
+
     <item>
+      <title><![CDATA[OpenRLHF：大规模分布式RLHF训练系统介绍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagF7vOVhF7zsTulJhE1yuQqibZkN63WpibrfPMg7ZI8QZfQkLHHbicM6qskdibIE2ILFcyAM7ZWOuuASQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题大规模分布式RLHF训练系统介绍时间2024.9.1 10:30-11:30 周日入群大纲1. RLHF背景知识2. RLHF性能分析3. 基于DeepSpeed的TRLX/TRL/LMF4. 基</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529101&amp;idx=1&amp;sn=dafb1342af7932b5c1153b72a9383949&amp;chksm=ea093157743e62ec282c18b8f68161a4eba40f06844f2d615976fbe417a24b7cc6d3529bf062&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 29 Aug 2024 07:27:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[如何看待 Show-o 和 Transfusion 等 AR+Diffusion 的工作？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagF7vOVhF7zsTulJhE1yuQq3ZTRaV3b8nNyDXdJ0BMVUJruhibwGCQ0uHibddn8GyicdYkMrpACuotiag/300?wxtype=jpeg&amp;wxfrom=0"/><p>Show-o大致如下：作者：Mike Shou链接：https://www.zhihu.com/question/665151133/answer/3608387516来源：知乎好久没来知乎了，简单总</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529101&amp;idx=2&amp;sn=62b96defafc7a89a2a336a855d66e1dd&amp;chksm=ea4abd5fbac4b4ef5af83693f46491bd2db5b8d417a7a5713e5279e973398b951ab8054b1e3e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 29 Aug 2024 07:27:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[微解读 | 到底要不要使用Code？探索Code对pre-training的影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagF7vOVhF7zsTulJhE1yuQq78IEhicMo3j5lZKibonoicTRBEKxU0fq7Iae2xHmsaxFAtDRsQZVsTXBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：李磊 香港大学To Code, or Not To Code?Exploring Impact of Code in Pre-traininghttps://arxiv.org/pdf/2408</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529101&amp;idx=3&amp;sn=0d3fcf8ae500b94799649cca2953a4e2&amp;chksm=ea06aa77370b4800bd3df15bb37587ed1865c8d714ddb36b492d0faa5b5179d26b465e660b16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 29 Aug 2024 07:27:41 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[当心环境内容的干扰：大模型GUI智能体的忠实度研究]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPP2qia6PeP50RxGWyJ0xIw8l0eIh2OoPL6S1wYA4rfBHGBzB8UwBwkZj4peAqla3Hj1td4MGQJdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题当心环境内容的干扰：大模型GUI智能体的忠实度研究时间2024.8.31 10:30-11:30 周六入群论文：Caution for the Environment:
 Multimodal Ag</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529076&amp;idx=1&amp;sn=587a7e753aa7b7350c0a4586b85e6a9d&amp;chksm=ea70e0657cbf77ef4fabf24aabc9c96164b945c3973b0cccac9da0da892c973fee1d8389f24e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 28 Aug 2024 06:37:36 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -231,103 +260,6 @@ Multimodal Ag</p> ]]></description>
       
 
       <pubdate>Sun, 25 Aug 2024 03:54:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[英伟达仅用380B tokens训练刷新8B模型新SoTA，剪枝和蒸馏应该这么用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXnESy3Q86ibFQGpyCyKhmWSGia1fxeCmkZV0chQjaDicee1fJ32oCejiaeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：LLM Pruning and Distillation in Practice: The
-Minitron Approach链接：https://d1qx31qr3h6wln.cloudfro</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528909&amp;idx=1&amp;sn=858e7f77e86d880d257e4648e1d63ea5&amp;chksm=eaf9ac80203d507b306b92edfb750216891b8cf323acaeb0b759344f94a0be52fc0e7b6a74f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 22 Aug 2024 04:02:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GraphRAG综述来了~]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXXEfxIHXKwdTMGjuUfRcg3TBGSiaOePrHPsV9VzXqGVHaWMKfkufNPAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Graph Retrieval-Augmented Generation: A Survey链接：https://arxiv.org/pdf/2408.08921研究背景这篇文章要解决的问题是如</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528909&amp;idx=2&amp;sn=35efd40b64d67a54813eea8aa96cbcc3&amp;chksm=eafd97a38a95e7f8317612023308592335249e61f8ec92dbed8aa75d7bf5093d9006efccf690&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 22 Aug 2024 04:02:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[HITSZ-HLT人类语言技术团队招收2025级研究生（含直博生）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXWPqf1zaq02z1Vwd8ibsNwGib7kHrmsYsdbw4Umf81C5U8MPicoDaOv3uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>团队介绍:哈尔滨工业大学（深圳）人类语言技术团队(HITSZ-HLT) 研究方向主要集中在自然语言处理、情感计算、社交媒体分析、大语言模型、智能体、多模态处理、语言与情感认知等相关领域，以及在社会管理</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528909&amp;idx=3&amp;sn=3c750e82e594e2e25747f3e65d10bdac&amp;chksm=ea4aa9cae3478ccf0785657e4dd8707c2542762fe5ea687df92c17ba7feedd82a22d93f0f407&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 22 Aug 2024 04:02:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[招聘 | 公众号招聘论文解读小伙伴、NICE论文直播平台寻觅小伙伴！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXJ0yVCRZ7qIHkzWCSxnOrlFfC57AZJj5lDGdYIibLd2xxd0UoiaibxlpDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、【深度学习自然语言处理】公众号负责：前沿论文解读，可配合AI工具要求：热爱NLP、LLM前沿，有刷论文习惯，有经常刷twitter、小红书、知乎等习惯，有敏锐嗅觉可快速识别论文，期望1-2天可产出</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528909&amp;idx=4&amp;sn=5fcd56b2f08f213938687ecef337e7de&amp;chksm=eab8a610d021ca29e79bc37eeffe1767be2278c7b72ce1187f50b1097ef733de7b752117a950&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 22 Aug 2024 04:02:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文讲明白大模型显存占用（只考虑单卡）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajqI5ZIoTR91n1nKSFvg2Jku9G2n8wLJ8aXiae1fGtqSspDuSHsBMJukZAwSTavt5dXeu39GAR5iaGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：然荻链接：https://zhuanlan.zhihu.com/p/713256008纯知识分享，侵删1.告诉你一个模型的参数量，你要怎么估算出训练和推理时的显存占用？2.Lora相比于全参训练</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528860&amp;idx=1&amp;sn=5d31bc3ed34661db8caf211c0fba2c85&amp;chksm=eac705e6d4e76054e956446e8535fcc458dc65a49aea313b08b24e38fd107a337fe06a038892&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 20 Aug 2024 12:54:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[你的模型真的擅长数学吗？MathCheck：大模型数学推理能力的新评估范式]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajqI5ZIoTR91n1nKSFvg2Jkf8SSXr2fe6VFGNYP6hbicJDQ6eHFhfpj6Pm1uMzXeVUzHVRTNstsOfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>标题你的模型真的擅长数学吗？MathCheck：大模型数学推理能力的新评估范式时间2024.8.24 10:30-11:30 周六入群内容大纲1.背景-大模型数学推理能力研究现状2.我们为什么需要更好</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247528860&amp;idx=2&amp;sn=f6a7da7f4a70b47b3fbdc2f75bc8fa57&amp;chksm=ea1902fa0cddb3ef0d909c928488abcaa9976138369238889ffa6e4b64e56e46344c0f87a0a0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 20 Aug 2024 12:54:35 +0000</pubdate>
       
 
     </item>
