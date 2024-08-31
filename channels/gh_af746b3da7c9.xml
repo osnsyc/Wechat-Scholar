@@ -33,23 +33,75 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[LLM的范式转移：RL带来新的 Scaling Law]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajBLl5SltLUyttT3j67qAo9JeJKicMm9dTonKJ4RTia4Zm82V4xjiaBElBfmedltibyibIVuRJCcSviaEUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：海外独角兽作者：Cage从几周前 Sam Altman 在 X 上发布草莓照片开始，整个行业都在期待 OpenAI 发布新模型。根据 The information 的报道，Strawberry</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529378&amp;idx=1&amp;sn=fff2afb33393f0bbe797176aeb599f13&amp;chksm=ea1ae624d0ed56dffd1d6e48094cd3e2e39e827a00ef3c60a66aa83147c1c3cfbd165e784212&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 09:06:35 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[揭秘LLMs不确定性背后的隐患：后门攻击的悄然兴起]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajBLl5SltLUyttT3j67qAo9NHibQTBWsoX3VZrtRR76EudSR4nyc3ubXiaA4TmoLzJVByJhjvttoVAQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Uncertainty is Fragile: Manipulating Uncertainty
+in Large Language Models链接：https://arxiv.org/pdf</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529378&amp;idx=2&amp;sn=b286cdb0c4aee358cc4821a24b1e21e3&amp;chksm=eaa971bd9cee36bc90d8794529c8ce528e7d1b6534a2a9843eb44c1ddf4350d0718383be8aa3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 09:06:35 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[vllm代码更新太频繁，我该怎么办？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajBLl5SltLUyttT3j67qAo9pNVibGic5hyQZBRNY3OEGjgByJljdVlCiaegg7ZziaibSov1kG0WRQPe2Rw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记大家好，大家在读vllm源码解读系列时，肯定会有以下疑惑：“vllm仓库当前主分支的代码，好像和当前文章中展示的代码，存在许多不同之处，这是为什么呢？”这是因为vllm的开源社区非常</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529378&amp;idx=3&amp;sn=fe853ad92ffa461e46bb026acc27402a&amp;chksm=ea47e7092172e86de15156c255c7b89dc9e664fae8d099417157771b2f8ef6dd6eb58c0be44b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 09:06:35 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Concise Thoughts：仅通过长度限制，获取更简明的CoT能大幅度提升效果]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDVwQm4MoPzagh9RFKrHOFDWBuAiae3dKy2IicKEe5ZDEzhcsrS8lfjwJU7TNmjNibEffTsd3Wic7WVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost地址：https://arxiv.org/pdf/2407.</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529318&amp;idx=1&amp;sn=ab30fd1618261cdd15e513025bb13c6e&amp;chksm=ea024875b56d743e8d91c49990bb87b3f7c49ee592d09197f4992660df6667c865b0624d6fa5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 30 Aug 2024 11:59:02 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[校招生做大模型，选预训练还是SFT？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDVwQm4MoPzagh9RFKrHOFlKibSiaJAeYxl02WJ87rcZ7sbQBVAj1KA5SmLZhNrvsjQDjkvVmQukAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎: ybq链接: https://www.zhihu.com/question/635761315/answer/3608088928我推荐选 pretrain，理由如下：pretrain 提高工</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529318&amp;idx=2&amp;sn=a861858641f35f356f109f4ea8d8ac87&amp;chksm=ea5835d57ac335d91f0ac1de7fd5087750d6272d97d2d685562fb7c685222f95a9f9745d0fb1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 30 Aug 2024 11:59:02 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[情感分析的终极形态：全景式细粒度多模态对话情感分析基准PanoSent]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDVwQm4MoPzagh9RFKrHOF4Hw8y9uJXo48Ju6Uic7PTpFicQzvbSTowbmX0WjAAib4HFWnPElJibkMoQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心罗盟，本工作的第一作者。新加坡国立大学（NUS）人工智能专业准博士生，本科毕业于武汉大学。主要研究方向为多模态大语言模型和 Social AI、Human-eccentric AI。‍情</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529318&amp;idx=3&amp;sn=966e58907a6a84f7fad9aba8289f4771&amp;chksm=ea30814a66c76c9359858eca4603bc9c83d145727febaccc7baaaa570a7866d6fc78ec484595&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 30 Aug 2024 11:59:02 +0000</pubdate>
+      
+
     </item>
     <item>
       
