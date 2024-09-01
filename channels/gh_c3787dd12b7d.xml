@@ -30,11 +30,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[认识3D Gaussian Splatting以及如何和ROS结合完成实时建图]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsu9Y51jy23rdMskSedVsfXXvFdLw1TptibyxGVMhLFrCSRNzJxF2jfwK6Tbr9nI6RGf4Vhz4xWH0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介我们所知道的是高斯溅射需要预训练，然后才能完成比较好的建图，这里提出的要求就是如何预训练出比较好的参数，然后再将关键帧对应的位置作为输入，并完成3D环境的重建。这里是一个使用VINS作为输入</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247595689&amp;idx=1&amp;sn=040f89da76c4f29c8410b9a437032216&amp;chksm=fad315db25ba38f2181e53be1e25295cc09a331acdc12eb21e5029cc9a31c26daf9f7f3f53a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[揭秘ROSCon亮点 | 技术前沿、深度交流与创新展示]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsu9Y51jy23rdMskSedVsfXc6xTRBdQ5ZCbypZ7blHN053eFrc3TKtNy1eibep4XX0yeoXfn3bs0eg/640?wxtype=jpeg&amp;wxfrom=0"/><p>ROSCon China 2024ROSCon China 2024，由机器人操作系统 （ROS）教育基金会与国际ROSCon活动的组织方 OSRF（Open Source Robotics Foun</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247595669&amp;idx=1&amp;sn=22444608e3365ef72767de99bc48c9e3&amp;chksm=fa4442a8f2ed00a8fe42e7779553bd9ffe8384788ba22fbe4a582044d379563b4b7949723b72&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 30 Aug 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       

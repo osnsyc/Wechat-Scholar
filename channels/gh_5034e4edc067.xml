@@ -37,45 +37,115 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[大模型微调终极指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI3KiaZyOrB7CBgPJOfvicKO3rVkyYLss0X8f82uiaxs4hmQXiaa5FKlHceqR839IBhFWKOR1EzSKnvMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇大模型微调相关的最新综述，主要大模型微调归纳为7个阶段分别为数据准备、模型初始化、训练环境配置、模型微调、模型评估与验证、模型部署以及模型监控与维护。Paper: https://a</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444428&amp;idx=1&amp;sn=c063aeb1c800622c85bf69a759633bbe&amp;chksm=bfcd8fa9f8b98c8f3fce64b111473add241a94bd8bfd73f4a0d47bc3350fd78854c24010d3c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 14:45:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[校招生做大模型，选预训练还是SFT？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIURkEnvhgvAZACdIicTK4TtdhVoxV0eNwFxodzKOiblVsHzxibx5mvibfEH3ht3cMFJl0d7XOk7yoqiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：ybq链接：https://www.zhihu.com/question/635761315/answer/3608088928我推荐选 pretrain，理由如下：pretrain 提高工程能</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444428&amp;idx=2&amp;sn=4ff95d3b5f12e40b66489dc2a8631c98&amp;chksm=bf1814efe9072eb6d6e5bc25edfd11e04da052ca55b9c3e90ce4be5834a562220599db229793&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 14:45:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM模型幻觉】LLMs-模型幻觉-大模型幻觉缓解技术综述-v2.0]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdCw4YiaggpSvfJiaYksAg6eE1jgTE2V4GyH5UjnXPIg8pj1xBV2tk2gIkB0XG8D2TfIBOmcF6NTfo8w/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM模型幻觉第二篇，分享大模型幻觉缓解技术论文综述：A Comprehensive Survey of Hallucination Mitigation Techniques in </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444428&amp;idx=3&amp;sn=aa9d7a9948363df436baec7c5d341259&amp;chksm=bf57fd1cbf0dcb760ed52547d8a90f0e90cfdc6c83cea6e8fda31d224bc38e9cff9acfa66349&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 14:45:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[prompt综述的解释和个人思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPwicoQDRqib3uEVs3f20oIQJia8uQTRbfs168aKszsyKAT5ibg8AIfOauqEMRGgPvdJXeZUwbIiaPtYCWA/300?wxtype=jpeg&amp;wxfrom=0"/><p>上周手上不太方便，即使后续好了也没有搞定（不过说实话，这篇文章的量似乎没读完也不好搞定）。最近是有3篇prompt的综述非常出名：The Prompt Report: A Systematic Sur</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444428&amp;idx=4&amp;sn=d2241a200e180232bfbbf30f00a07826&amp;chksm=bfb6ccdc6644f30ed081866ac14d93a79454d1405b44e836aaaccda3a6fc54977bf2ea58d17b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 14:45:20 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[一次失败的实验 - 无限注意力，我们为什么坚持实验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2rJLNiaUdNmEc0xuDqUIVHcY4fM8usrrw4KJRIl9xYrg2txZjObNQ56y2UtIibHt9BmrpibRuxWYJJuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>总结: 随着我们增加内存压缩次数的次数，Infini-attention 的性能会变得越来越差。据我们所知，ring attention、YaRN和rope scaling这三种方法仍是将预训练模型拓</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444428&amp;idx=5&amp;sn=821202221df2322d0649f9917035ae98&amp;chksm=bff2c02089793f1ecb9712c51ae269d5007868f2f6e1136fd1b98aa34a1b712a89bff8612a40&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 31 Aug 2024 14:45:20 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[大模型的基本功]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIURkEnvhgvAZACdIicTK4TtOUC093l7xjQrpru5GeT0uQ9298wUghH1jmZtPBgXCs5ffl4lyO0DoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Author: [ybq]Link: [https://zhuanlan.zhihu.com/p/716344766]这篇文章给大家推荐几个大模型的练手程序，也就是所谓的“基本功”。先问个问题，除了 </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444410&amp;idx=1&amp;sn=e805ae79fbbba4daf2d5fd066fa921f3&amp;chksm=bfee2ffff1a99fb6b774d7befbd6eee80f78dd5cb0ddb44abd2928a8bc872df3c7d375529a6a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Aug 2024 15:17:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[449页pdf！深入探讨大语言模型的世界：赵宇教授新书《自然语言处理：大模型理论与实践》]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIURkEnvhgvAZACdIicTK4TtKNticcLMn7SGPcBFl6fc6pPUHfBe0TANSOeewiaOQkjTCnFFCjmX0Jhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>教材官网：https://nlp-book.swufenlp.group/PDF预览版下载链接:https://nlp-book.swufenlp.group/%e3%80%8a%e8%87%aa%e</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444410&amp;idx=2&amp;sn=285fd97ecd92170f6f7300718441963a&amp;chksm=bf9bc053f1bb630f8f1aa8fc0fc97caef37853e863eda09ae86f597e56d48c4a7eb506868f44&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Aug 2024 15:17:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM模型微调】LLMs-PEFT[微调]-QLoRA总结笔记v6.0]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdAGjG6CTCktBa8hUfec1MISxXE7Yvktanp4iaCxgnnEBA0OBfxjop6WPvprmxm29mDJy9nbNAAbxzg/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM模型微调第六篇，分享论文QLoRA: Efficient Finetuning of Quantized LLMs的解读。主要内容有论文解读(提出背景、技术原理，细节补充...)</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444410&amp;idx=3&amp;sn=e35eaf27b0c684ade62a8db04bf5c270&amp;chksm=bf2ae3c8ffa953e805d02fbfc4963824345cb341fd487a7ad4538b36419d38b9af3d44120342&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Aug 2024 15:17:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Monte Carlo Tree Search介绍]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvLjYIwlnRicx0bEVVOnPZ7YGtNv5uwCSDKMibaFfOm0j7vSZUWicwYicvp2Qr5z4MY7Nibuics6rbouibc1w/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景最近Andrej Karpathy在网上对RLHF的吐槽引起了很多人的精神共鸣，总结下来核心就是RLHF中很难定义清晰的奖励函数。RLHF训练的目标是构建一个有用的LLM助理，意味着要处理各种通用</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444410&amp;idx=4&amp;sn=c13e630930d94ced5a1be5a8877c7626&amp;chksm=bf1926c8d4cbcb800bb1125c4813083eeae56da44b963a2352dff6139c59e33a49cc3eaa0d4f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Aug 2024 15:17:11 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[使用重排序（Re-Ranking）来改善LLM RAG检索]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/xicQMWhcBia0I8lib9Qicic5FuYTe9b5UicgtcTgyqPHnILn6eQdPYJ4Oaibm3aC1omXmcL3cF7NofG02QiavmYG5sqicNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于大型语言模型（LLM）的聊天机器人可以通过检索增强生成（RAG）技术来获取外部知识来增强大语言模型的能力。这些外部知识可以减少错误答案（幻觉）并且还可以让模型获取到训练数据中没有包含的信息。在RA</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444410&amp;idx=5&amp;sn=150fd9e638808a158bd6c0750b8c59eb&amp;chksm=bf9d0aa6e2c74a799bac44ce0b1ab6b2406936394859105ccab44203f391cd29460ae9b1aa23&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 29 Aug 2024 15:17:11 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -234,86 +304,6 @@
       
 
       <pubdate>Mon, 26 Aug 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM真的解决表格问答了吗？全面覆盖复杂应用场景的新一代表格问答测试基准TableBench]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLibCgVI8QyTibIMo4gaboYK0cfTxrvOmniayuhvCsnj4AyKommZwcibCjRnnxkClRXHJmSckvNPkhMrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>LLM真的解决表格问答了吗？该工作提出了新一代的表格问答评测基准(TableBench)。TableBench通过涵盖四大类表格问答能力（如事实核查、数值推理、数据分析和可视化），并深入到18个子领域</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444348&amp;idx=1&amp;sn=5d8f4ff455c4cd32968618750a361afc&amp;chksm=bfe35f9ea3963cbfac551e92e51d4e392ad654515250277dbf454a054f278220f566b03429c4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 23 Aug 2024 09:09:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[黑神话悟空的薪资与招人标准!]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icmWrEONNM8WLmAOibic98bp45OmcpSr9MuLxYRKR9O9TwNdCLEdPOVK7VnNrLP5yhWaNBVpu7LepGrx4hibZcVf5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>黑神话悟空总算是熬出来了，前几天正式发布后，彻底火出圈，也轻松打破了一些记录。它的同时在线人数，突破了 241 万人，这个数字使得它成为了 Steam 历史上在线人数第二高的游戏，仅次于吃鸡游戏绝地求</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444348&amp;idx=2&amp;sn=10fee4ddc559ca379a7e26b92d0202f7&amp;chksm=bf2735f5a4776a23ffe78986627dc918dd8e07a7523be5621271dd741087b86a40e884bacd8a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 23 Aug 2024 09:09:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型：一文滤清 BPE]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HAFUHkn3vxtUKpfgz44pxzGamkl2HpaxVC1TtRsTO4ib6kja3oqvmP0MCZqm6VjvYoTiccKiauwoz9XnqLR8ibcBtg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言最近在整理笔记，陆续会把一些笔记整理下发布出来。分词器一直是 NLP 领域中非常重要的一项工作，而对于不同的语言，分词算法都可以采用：词，字以及字词结合来表示。经过多年的发展，现在不同语言的分词算</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444348&amp;idx=3&amp;sn=d5fb8d9d2958863eaeb0d5f128d0075c&amp;chksm=bfc6a99009740a7358f8190b96083d8ffb0c9459cb9b9e3f44b0188e9c51862d3b91ea9ba6d8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 23 Aug 2024 09:09:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM模型微调】LLMs-PEFT[微调]-LoRA总结笔记v5.0]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdD3zFSqVDbo9rqAy521pIqprj0TIl3z8bHGuu4CLt1gjvNL2OJkYXfWEicIncicTGux5LSy7f5cYN9A/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM模型微调第五篇，分享论文LoRA：LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS的解读。主要内容有论文解读(提出背景、关键优势，实现步骤</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444348&amp;idx=4&amp;sn=c10f7e9dbe4728b888350e296c5e25e4&amp;chksm=bf16bdf9865d252fc903576722fdf9058881dc66c690b7673f9f7e545d8bb7fad5887dce3395&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 23 Aug 2024 09:09:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[机器学习中的样本重要性权重 (Importance Weight)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QLDSy3Cx3YIZUXqXHndqDsyeyQNIQOP8GX0FVYdl57NqtUjRWoMGLWb5UhFQfT9GCVichf7EBOcsXZM7oX2ibVqQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>样本重要性权重（Importance Weighting, IW）是一种在机器学习中应对「训练-测试数据分布不一致」问题的经典方法，通过对样本给予合适的权重，理论上我们可以在分布不一致的情况下，学出在</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444348&amp;idx=5&amp;sn=bfae6b1d6487707f52625d7c6e595abf&amp;chksm=bf23c01e3670a3efaa5fcc8ebfd536927c69a35cfd55127e55b648de72ac35865c98554a43ca&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 23 Aug 2024 09:09:37 +0000</pubdate>
       
 
     </item>
