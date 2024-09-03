@@ -41,33 +41,93 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[预训练无条件扩散生成模型的 training-free 条件生成食谱（二）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpvmT4ACx8qKgRqdofFJEGJbREnxwza1wvqt2KsChMyeiayXNkjBsWCGq3Z5crQZPGgoemLs3Q2mWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨CW不要無聊的風格编辑丨极市平台极市导读 文章介绍了无需额外训练的条件生成方法，这些方法利用预训练的无条件扩散模型通过调整采样策略来生成与给定条件相符的图像。文章重点讨</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693795&amp;idx=1&amp;sn=809825905e1e87bbf17d89689f4aa414&amp;chksm=ede49e500d4dff1eab83c70dc653c8e951ecfd0d90f9efbd0ff6356c5c982574894fb5d61a5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Sep 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[共创AI+ 数智新引擎—2024 大模型创新应用线下沙龙上海站圆满落幕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpvmT4ACx8qKgRqdofFJEGJY3qRnxkE8zAWLzOuBJjf0N1miaicVyVtqtBxuOEFZa12gPiaJrYsdW02g/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台在数字化浪潮推动下，人工智能大模型技术正成为引领行业创新的重要引擎。8月29日，由无锡市梁溪区人民政府、无锡梁溪科技城管理局、无锡市梁溪科技城发展集团有限公司主办的“共创AI</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693795&amp;idx=2&amp;sn=741beeaa40b88c2bfbd96176b971ed51&amp;chksm=ed2086c5522245a16b20d3f1688a5c8a16acb60d9f9d3fb9910c84fc9a8a31b51f1ee6bd02c9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Sep 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[IJCAI'24｜端到端，无需预先对齐！首创视频人脸修复算法PGTFormer：革新视频人脸清晰度！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpvmT4ACx8qKgRqdofFJEGJjDUYkwQ4g9AiaYpicTDEicxdWe6ibXglUY8gx0LHY4TH74t6g0IncuefMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨徐克鹏编辑丨极市平台极市导读 本文提出了一种全新且专门为视频人脸修复设计的端到端方法PGTFormer，PGTFormer突破性地摒弃了传统对齐步骤，实现了更高效、更连</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693795&amp;idx=3&amp;sn=34ef84705be117e563532f612d6832cd&amp;chksm=ed1298f2120323822bc7846e8a1278de9fffc28729c5bd43e79dc60ddde41f8988f967233bd5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Sep 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[用最直观的动画，讲解LLM如何存储事实，3Blue1Brown的这个视频又火了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpvmT4ACx8qKgRqdofFJEGJrzrfiaTKEnwa35lFQ0aCTQGQ0SXltjuffIOwjQNsn4O1oZRNr0JhBIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 本文根据视频整理而来，有听错或理解不当之处欢迎在评论区指出。 >>加入极市CV技术交流群，走在计算机视觉的最前沿向大模型输入「Michael Jord</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693795&amp;idx=4&amp;sn=8f14d812e4be3c71eaccd5b05e03d422&amp;chksm=edcb76fc23a114e026d44e3e970c15c0d9139d9fb78264d2c4aa577e230329b565e186720bba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Sep 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[图解大模型训练之：数据并行（DP、DDP、ZeRO、零冗余优化)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrFcniaEfmDPHBLGYFSaGzA0WM2gZ2EWkEESRT7xYYsZf9QnHlNj6Clcw35RjQmXQibSBdvdgVDKtjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨猛猿来源丨大猿搬砖简记编辑丨极市平台极市导读 大模型场景里巨大的存储和GPU间通讯量是系统设计时需要考虑的重点，本文递进介绍了三种主流数据并行的实现方法：DP、DD皮、</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693620&amp;idx=1&amp;sn=e0bf193f929d4ec0068ca1664434d932&amp;chksm=edaa53d156211f8f50308a5c1e93e8ccb7537edcaa3e7673757edbaae00c92f3a93901188c70&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Sep 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[CVPR 2024｜仅用合成数据训练模型到底行不行？有新发现！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrgFRibV4EANZ7iaWjf35iaRWFMOCOu2jfmicUibe3lcXYPWmphD4icVhLagwygNQf8aVOcj0sib3xaN6Lbw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨VincentLee来源丨晓飞的算法工程笔记编辑丨极市平台极市导读 在许多鲁棒性指标（校准、背景偏差、形状偏差等）方面，使用合成数据训练的自监督和多模态模型的表现与其在</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693620&amp;idx=2&amp;sn=87c1d0dac93f92749e795d339ddbc46d&amp;chksm=ed4aa16cd8a038916febae6fda4782414cf9205dd8a97932b3d321354788fc1fff5e8387403f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Sep 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[实践教程｜图解NumPy，这是理解数组最形象的一份教程了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpqsHLf1rvo6xQlOHoHuSAFy5z1RLzDEGUf9QFGJe4pFsba3qRKFuBunYYMJH8YwQPPtJymOBwSicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨机器之心来源丨https://jalammar.github.io/visual-numpy/编辑丨极市平台极市导读 本文用可视化的方式介绍了 NumPy 的功能和使用</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693620&amp;idx=3&amp;sn=1c6cc32fe0c312049f47186e6821e877&amp;chksm=ed83b77ea6993a3c094855e13491c74de09054a87f1a7a809ab9c0f2c435c91f95ae876799a7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Sep 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OpenAI家庭机器人NEO登场，动作丝滑逼近人类！穿着西装的「人」却专做家务]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrgFRibV4EANZ7iaWjf35iaRWFRsdPXkkjwQZTib317yvzbEEzCDXI4ZZics7odKxqmEzzAFRJve1nh1Xg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 OpenAI支持的明星初创1X Technologies，发布了最新的通用家务机器人NEO。不仅外形自然拟人，还有仿生设计带来的丝滑动作。不想干的家务，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693620&amp;idx=4&amp;sn=77595ff4035578e773396641555de4e8&amp;chksm=edb456dd643f3dd4b2b88d780cb65cb4e7d599e7b56e6f3e54ee238cea14d10dd9be81708c3f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Sep 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -322,70 +382,6 @@
       
 
       <pubdate>Tue, 27 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[极市直播预告｜ACM Multimedia 2024 Oral-自动驾驶场景下面向真实世界布局的转变]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrwmiauzoGGz7KjVg0dszN5zfoSHIIogAwmtIcpiaemuLqnJx9ujuJZOGeFScyNRWyjqcga2ZWg1NdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台|极市线上分享第136期 |一直以来，为让大家更好地了解学界业界优秀的论文和工作，极市已邀请了超过100位技术大咖嘉宾，并完成了135 期极市线上直播分享。往期分享请前往bb</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693162&amp;idx=1&amp;sn=5308841cf5aaffcb8cc9a0864847392c&amp;chksm=ed0d4c080e005fb97da24ef1cd2492e1222f0e87cf72f358cee5765d89caa61a380d90f6fca1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ECCV'24｜OMG:已开源，遮挡友好的个性化多概念生成新框架]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrwmiauzoGGz7KjVg0dszN5zB7BlYq7bvMWIB1CmJMjqZk6jcne1SzicDrrW4KlmfYKaibMu6V2ibLjVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨孔哲 中山大学编辑丨极市平台极市导读 本文提出了一种两阶段的个性化生成框架OMG，旨在解决多概念个性化生成过程中遇到的遮挡问题。此外，本文还提出了一种概念噪声混合方法，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693162&amp;idx=2&amp;sn=7f090ebafccb979a9144a821fd0aa93c&amp;chksm=ed8fdbe037422eadd27436cd31320880d637a7194282831f39a07a5338ce7ab9c1da0c6c7466&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[关于post-training和一些思考]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrwmiauzoGGz7KjVg0dszN5zfm7HU13ibMG3DELcdFic44fgLPLMjyvUjKlGV29GEuoqouXRI6OFiaMHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨yanwushen来源丨https://zhuanlan.zhihu.com/p/710936230编辑丨极市平台极市导读 本文讨论了大模型技术报告中关于post-tr</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693162&amp;idx=3&amp;sn=0426dc2d1dbfaead066fa797f6cd6818&amp;chksm=ed83d1b1a2778b8414f1c240d000d95ce363a8a7d681ac682e318520d13827fbedb54495614f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Aug 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Yann LeCun不看好强化学习：「我确实更喜欢 MPC」]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrwmiauzoGGz7KjVg0dszN5zLU9GWAIQPW4NSCRMbMsnFvoPTJKLK0mNkQuUm3ibLCVE3cmWlfCh6Ig/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 五十多年前的理论还值得再研究一下？   >>加入极市CV技术交流群，走在计算机视觉的最前沿「相比于强化学习（RL），我确实更喜欢模型预测控制（MPC）</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247693162&amp;idx=4&amp;sn=4eda9be99d7527f12bc514a303d3c6a4&amp;chksm=ed405eaa84c622e85fb189c6878e1bf52602223209bdd9069b7ad1b22731f65935342ab471d4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Aug 2024 14:00:00 +0000</pubdate>
       
 
     </item>
