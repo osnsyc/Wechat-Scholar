@@ -38,17 +38,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[千问团队tech lead解读Qwen2-VL：让我们先把视觉理解干上去！（一）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajx2W5iciboKvJicT1rGVWkuYoN3dIshnl0M7VzEwaiaacibOZwHlnJib8NX9FoqejgJuChOxg485ufQebA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：林俊旸链接：https://zhuanlan.zhihu.com/p/717704002编辑：AI椰青正值前几天发布Qwen2-VL，大家应该在我们的博客或者各个公众号看到我们模型的表现，并且看</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529429&amp;idx=1&amp;sn=88234f6be39005bcfc95b05e679915d4&amp;chksm=ea9288195c3d0c54257d84b6d5016e9a9a27da6563d8063f6a39b295b650bf80d2514cc2b443&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 02 Sep 2024 05:30:39 +0000</pubdate>
+      <title><![CDATA[大语言模型多选题评估的偏见与鲁棒性]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahU80vrTaqdePtC23BeScz94hU1LxhAVyUccHTH1On8FzlTt3U9aKXxH4ZC3BUx951dRDjMo301eA/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题大语言模型多选题评估的偏见与鲁棒性   On the bias and robustness of LLM Multiple Choice Question Evaluation时间2024.9.</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529480&amp;idx=1&amp;sn=77fc7cdf9564600ab2dcef991135ecd0&amp;chksm=ea94f90ec4d17d1308927680e598e8581d8a34fc6e0eaf20561e2cd1808c597b609f995bea2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 03 Sep 2024 11:50:38 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[ACL2024 | LLM+RAG可能要毁了信息检索，一份深入研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajx2W5iciboKvJicT1rGVWkuYoYZDCcrwGR8OQTickc18vRHss6OM3d915tpI7tZ6tJ2yU9mMWPvcxciaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：[ACL2024] Spiral of Silence: How is Large Language Model Killing Information Retrieval?—A Case St</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529429&amp;idx=2&amp;sn=f37ef1b38b8a77924bcc3bfe991c200a&amp;chksm=eaaf5008af99548f94e9266c0f4f9659fa55ada4f27542f94116e79e3016e51def725a5d1749&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[情境化逻辑：LLMs推理能力的真正试金石]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahU80vrTaqdePtC23BeScz9woWiaCjcMLpuPGBFnhd0fNkq5FM7icqxKXKBAf58gSUtiae2rH18lzYEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Disentangling Logic: The Role of Context in Large Language Model Reasoning Capabilities地址：https:/</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529480&amp;idx=2&amp;sn=be6414f70170b8f601762593dc945e3d&amp;chksm=eac8feda8c189227d96da3f72cfb5e07bdc5df36f689d0de8bbb09d40b6cb104d8d1270dbcd3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 03 Sep 2024 11:50:38 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[千问团队tech lead解读Qwen2-VL：让我们先把视觉理解干上去！（一）]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajx2W5iciboKvJicT1rGVWkuYoN3dIshnl0M7VzEwaiaacibOZwHlnJib8NX9FoqejgJuChOxg485ufQebA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：林俊旸链接：https://zhuanlan.zhihu.com/p/717704002编辑：AI椰青正值前几天发布Qwen2-VL，大家应该在我们的博客或者各个公众号看到我们模型的表现，并且看</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529429&amp;idx=1&amp;sn=88234f6be39005bcfc95b05e679915d4&amp;chksm=ea9288195c3d0c54257d84b6d5016e9a9a27da6563d8063f6a39b295b650bf80d2514cc2b443&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 02 Sep 2024 05:30:39 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[ACL2024 | LLM+RAG可能要毁了信息检索，一份深入研究]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajx2W5iciboKvJicT1rGVWkuYoYZDCcrwGR8OQTickc18vRHss6OM3d915tpI7tZ6tJ2yU9mMWPvcxciaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：[ACL2024] Spiral of Silence: How is Large Language Model Killing Information Retrieval?—A Case St</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529429&amp;idx=2&amp;sn=f37ef1b38b8a77924bcc3bfe991c200a&amp;chksm=eaaf5008af99548f94e9266c0f4f9659fa55ada4f27542f94116e79e3016e51def725a5d1749&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 02 Sep 2024 05:30:39 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -257,134 +291,6 @@ Multimodal Ag</p> ]]></description>
       
 
       <pubdate>Wed, 28 Aug 2024 06:37:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GLM-4-Flash竟然免费了，还可免费微调...  让其他公司咋玩]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaoLxCmibLGCicJHacBiaVibAgC6PYktA933tg7sMukWSLH5K2Jbz64Lwq56qiaDwCK4maFELN92jCBSibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>NLP开发者的又一福音！！8月27日，智谱AI BigModel开放平台宣布：GLM-4-Flash 全部免费，同时开启了GLM-4-Flash 限时免费微调活动。值得注意的是，GLM-4-flash</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529067&amp;idx=1&amp;sn=eb6316de6f0d2f97fa68ad565c0923a2&amp;chksm=ea8d621d94d0eedc8e2a5ab49e0a6ea7064ccf29c4be9643145621c9478f78a978fa4cbb9fa2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Aug 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[以DeepSeek-VL为例，详解视觉语言模型原理及代码]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baghRaTqb1LSylABzStpsklUCnVpW9M9GPA0wvbYIKjpzfDicB3Me0rJ04om6zHskLiaq0KhwnmEibibfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：炼钢AI 最近开始看看视觉语言模型（VLM）相关的东西了，之前没特别仔细看过代码。翻了几篇比较知名的开源VLM技术报告，感觉DeepSeek-VL算是写的比较好的，因此本文就以DeepSeek-</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529067&amp;idx=2&amp;sn=29be5db70aaf3c9514b77bced4f88eba&amp;chksm=eae81c76e67cd6039a126466f7cc057637d7c7a8e8a27dbe192b79d3dab301efa1d5598b3807&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Aug 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Yann LeCun不看好强化学习：「我确实更喜欢 MPC」]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baghRaTqb1LSylABzStpsklUyt7LUdZZTM3ApDKhMtX6Via6t0hWUKIVPdvyuHeOly9nequL84tHyDg/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：张倩、小舟五十多年前的理论还值得再研究一下？  「相比于强化学习（RL），我确实更喜欢模型预测控制（MPC）。至少从 2016 年起，我就一直在强调这一点。强化学习在学习任何新任务时</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529067&amp;idx=3&amp;sn=b6305de1b20d45612d91be52f24e1c3c&amp;chksm=ea597b0ea8acae416e3acad1a04e183795ca2d406cd35c6a71598cfce08b4d200d4618052386&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Aug 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[MIT研究：LLM对世界模型的探索]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baghRaTqb1LSylABzStpsklUFsr7Gqj9blYS2z07Gf7FzbBP2zvcpm1VRtydG0VKYiabgertUZDUrHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文转自新智元【导读】MIT CSAIL的研究人员发现，LLM的「内心深处」已经发展出了对现实的模拟，模型对语言和世界的理解，绝不仅仅是简单的「鹦鹉学舌」。也就说，在未来，LLM会比今天更深层地理解语</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529067&amp;idx=4&amp;sn=403a018b80d07fcbc56730b556a43fa7&amp;chksm=ea260c5d2a5fc7d058013b69ff668d66fdc4220ed80d2f9652de627b3bcbbf01f0ab2fb0c725&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 27 Aug 2024 09:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[科研工作者该如何平衡科研和生活？ - 有个p的平衡...]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaoLxCmibLGCicJHacBiaVibAgCetMZA4VdcDRpDIHoXcTblCDEtTMnayTUYWKCGvpSciantHZrR8FwI1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：柯烟链接：https://www.zhihu.com/question/652294237/answer/3496229608来源：知乎有个p的平衡，你甚至没有选择，你只能all in科研。我刷</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529027&amp;idx=1&amp;sn=bd59247ffd38883be1f73281122febc7&amp;chksm=eacade80af2a74ccad0186666f69dde2142dd67b67d98523d4305ee84633491f4fe528cd46aa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Aug 2024 15:04:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从token到patch，一种LLM加速训练策略]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaoLxCmibLGCicJHacBiaVibAgCC5GSvZ57IYVCjTfYAYKM6aDMMia0RF0LuLIwlEbZzfltwRqE73G0ojQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>1前言来自：炼钢AI    此篇文章出自论文《Patch-Level Training for Large Language Models》，主要思路非常简单，就是把相邻的token embeddin</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529027&amp;idx=2&amp;sn=e1759af8503f42cd0701e7c5e5d6f19a&amp;chksm=ea904a05258850816ed88afb00ab684ce13903563db604a66d21e7dd65355bbb57cb20d73762&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Aug 2024 15:04:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图文跨模态检索研究综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaoLxCmibLGCicJHacBiaVibAgCqykfxmnxD0AyPB8VRvvxWhoKclEFglJQ7gdkeEJX2mUHHY05U1B2hw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：张振兴，王亚雄来源：《北京交通大学学报》编辑：陈萍萍的公主@一点人工一点智能原文：https://jdxb.bjtu.edu.cn/CN/10.11860/j.issn.1673-0291.20</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529027&amp;idx=3&amp;sn=9c4bcc58fe2578a465759280aee5b188&amp;chksm=ea26348c73ccd2272523da482acc90395b2cadafe57c335ec6ecd9ce7897c86582dcb7ef5464&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Aug 2024 15:04:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[长文本 Embedding 模型中的“迟分”策略]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaoLxCmibLGCicJHacBiaVibAgCwvibPVm2Od44ibqibbQ55g9d5grbBl1OUib2Jk1IjEc2ibO59ibEeFpCOXlw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：Jina AI大约一年前，2023 年 10 月，我们推出了全球首个支持 8K 上下文长度的开源 Embedding 模型 —— jina-embeddings-v2-base-en。自此，长文</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529027&amp;idx=4&amp;sn=1db3a7b6c0003625859ed861844352a5&amp;chksm=ea11fa1b1c1a9ffc71895b5be8c18ae0e0e979cf2034795bafb2755ff46d3ac12c389d24d880&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 26 Aug 2024 15:04:27 +0000</pubdate>
       
 
     </item>
