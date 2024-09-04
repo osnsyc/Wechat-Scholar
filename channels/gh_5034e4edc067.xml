@@ -43,35 +43,115 @@
 
 
     <item>
+      <title><![CDATA[LLM最新黑马：Transformer时序大模型来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ1UV8Uv3UQgXW2OMNvMdSB8vQSAO6yvzicH3E3Kos8HaxAozGTJMcEuWv7XA1ibyn83e2xaH0SPx7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>时序+大模型开始火了，大家最近关注了吗？在ICLR'24、WWW'24、AAAI'24、IJCAI'24等今年的顶会上，都有多篇时序+大模型的研究入选。时序+LLM的潜力非常大。首先时序的应用面就很广</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444500&amp;idx=1&amp;sn=e9197080daa6caa00d330846d40a767f&amp;chksm=bf1f47fc65c3b8dbdd474c373908d0c977b910a52c4c78dd13cf1a5f99779854ca4f13d41f02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 04 Sep 2024 02:07:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[55个大模型比赛汇总]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuyqYdr1xCdIxOBycEubQh9TlKKahy7QicB2hQ7CXic5QXWSg18OUI1rcJWBKLF7Jz5rLiby8TIKfOGOg/300?wxtype=jpeg&amp;wxfrom=0"/><p>砍手豪(授权原创)链接:https://zhuanlan.zhihu.com/p/717365109目前的想法是收集尽可能的多收集市面上的大模型算法竞赛，后续再从这些比赛的应用范围以及获胜方案的视角，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444500&amp;idx=2&amp;sn=64d0078ca22e53ec0cc259bcf403b832&amp;chksm=bfaa3d778a8c5c6897b1cc4864267cdd442b094447578660f746bc8b68586033127e8b2d3919&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 04 Sep 2024 02:07:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[GraphRAG综述来了~]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahibmq5xXBZEg2DnZ2t6DSicXXEfxIHXKwdTMGjuUfRcg3TBGSiaOePrHPsV9VzXqGVHaWMKfkufNPAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Graph Retrieval-Augmented Generation: A Survey链接：https://arxiv.org/pdf/2408.08921研究背景这篇文章要解决的问题是如</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444500&amp;idx=3&amp;sn=591d7188e010f122029b0e89d2bb25f4&amp;chksm=bfc82a875d0a60c6ec8018ed2c23b34582ae10f078face9c9956be1f78befec03d9d2ae6b3e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 04 Sep 2024 02:07:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【RAG】WeKnow-RAG：融合Web搜索与知识图谱的自适应检索增强生成方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGArzYQQPduicafLWcqG643oPyDHiaY7gyvj3a7EdxrKjzb4ofibsTLluIpK1ic9SO5q8WpA6vicIa93fhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言往期文章介绍了《【RAG】混合RAG系统，提升复杂推理任务表现》，本文再来看看KDD CUP2024的CRAG的第三名方案，该方案提出WeKnow-RAG方法，结合了知识图谱和基于Web的RAG技</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444500&amp;idx=4&amp;sn=2faadfb62f0413ccd26848dfe3af00b9&amp;chksm=bfb19b4d301f793873f6c7f47e7710f5df6260d8c7aaba42ceca51b1297644bc342b254c1a77&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 04 Sep 2024 02:07:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【保姆级教程】如何在Win11上搭建一个GPU环境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVfQYaBj6VxwoQNDeUyenPQDxvTicIC4gMYN1PelmgJW2hYM9wticFMNtFIFe0gZjYl6BDtrQRA8lujw/300?wxtype=jpeg&amp;wxfrom=0"/><p>unsetunsetCUDA和CUDNN安装unsetunsetCUDA安装下载对应cuda环境下载链接：https://developer.nvidia.com/cuda-downloads，图片下</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444500&amp;idx=5&amp;sn=0f035a4ae03c42946675044719ecede3&amp;chksm=bf68ed2623220b29bedb206b1377b0a01aa96b1abe74a2ebc3b73f996bbdc643d0d8a35179c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 04 Sep 2024 02:07:34 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[大模型实战！从0构建一个功能完备的RAG项目]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL0QuKNxzYruAYPLOMohXq1FoK3h7nEScP2dmLnKKdzdoOkft0j9Wo1zVT0Viaa9IdsNETttmaa3gA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型 (LLMs) 的应用面临的挑战有：领域知识的缺乏、信息准确性问题以及生成的虚假内容等。检索增强生成 (RAG) 技术通过引入外部知识库等额外信息源，将传统信息检索技术与大语言模型技术相结合</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444484&amp;idx=1&amp;sn=a120e85653d22c8e14c2ee885bbeab4e&amp;chksm=bf55812da848ef79bb99f650d86c67eb0be00cdb603b1c918a77c5d79a01e6b971e1eaba605b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 03 Sep 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[入坑大模型18个月的反思与贩私]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ1UV8Uv3UQgXW2OMNvMdSBrjt7ibEQT9DiccibKx32jpou6N8Z0DHbeKia3GFB8r3Szw6LdGXWEKhHGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Minogamehttps://zhuanlan.zhihu.com/p/71740269前几天开完一个有高层参加的会议，会后组里的技术大佬直接就开喷“要规划没规划，整天只知道对着几个糊弄老板的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444484&amp;idx=2&amp;sn=d17243d07902a167f4164f86b977846d&amp;chksm=bf929a58da482179648d945900d2f3f176e1cdb1f4f5c00a4534138e7afdb163211171fbfef1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 03 Sep 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[IJCAI-信也科技杯全球AI大赛-华东师范大学亚军队伍分享]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdVz9WXWwCeWTCjdLTQ1bNxkViaiakpSa4nCiciaPuSAX698oehqQgqWa6oSQKUFDiasibeSnq6soz8U2Ig/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：彭欣怡(找不到工作版) 华东师范大学; 马千里(搬砖版) 虾皮;
 指导：闫怡搏(科研版) 华东师范大学 比赛链接：https://ai.ppdai.com/mirror/goToMirrorDe</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444484&amp;idx=3&amp;sn=28c44881bb604cd70e347803c04986fa&amp;chksm=bf47b40d9efcb2388a3f8dd662835357e183aaaa723ffcd993d9d90806eb22e085f99eae55b5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 03 Sep 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM系列 |  解读阿里开源语音多模态模型Qwen2-Audio]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib6ZOJpkvcKQibZ8oreKAJYn5ddyLm7dW0V5t1Lh651rRlPRqzumS6LOQ0VemxbzjkO74a4WgaCCJHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言模型概述模型架构训练方法性能评估实战演示总结引言金山挂月窥禅径，沙鸟听经恋法门。今天这篇小作文主要是介绍阿里巴巴的语音多模态大模型Qwen2-Audio。近日，阿里巴巴Qwen团队发布了最新的大规</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444484&amp;idx=4&amp;sn=b2a4bc362720fd43412f5c7d70bab097&amp;chksm=bf5e71bc57575b963a3a1fb37fa3e959f34536f55f1651e6fbba6404ef9b519455c88793d5d8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 03 Sep 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM之RAG理论 |  RAG和Graph RAG对比]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1SiclcTWL7ibiakNTLe7aVqDe9vhaDtmP7Dtic0DYlGI2eSD0kE9eictQnaXHI52IRWTb5dGIfibUOoBUaHsg/300?wxtype=jpeg&amp;wxfrom=0"/><p>     最近Graph RAG非常火，它来自微软的一篇论文《From Local to Global: A Graph RAG Approach to Query-Focused Summariza</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444484&amp;idx=5&amp;sn=015dff2608a9906e0afaa304d888b066&amp;chksm=bf0fe090f70d52e95e4f63a551675a6eafb43b6462dc205e4ae06ddd284c8c6187f938e617b6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 03 Sep 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
