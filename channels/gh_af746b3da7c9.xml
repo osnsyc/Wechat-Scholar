@@ -34,17 +34,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[MemLong: 长文本的新记忆大师，可将上下文长度从4k提升到80k！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahWFWp46tGnsB6cfictLicFicj8a45tph06aWT4QKxkspewdg4S6MDVibemsMx0yUT69cjLBdNEPEOR7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章介绍了一个名为MemLong的模型，它通过使用外部检索器来增强长文本建模的能力。MemLong结合了一个不可微的检索-记忆模块和一个部分可训练的解码器-仅语言模型，并引入了一种细粒度、可控的检</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529579&amp;idx=1&amp;sn=f9993383eee80c22ef55eb229f4c9258&amp;chksm=eaf371e937a23ba7c561085879fa3cb431dfa14d1ac26f6d59a4b81d3e4dd0059300d0f10ece&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 04 Sep 2024 13:45:44 +0000</pubdate>
+      <title><![CDATA[你真的了解GPT4o吗？连续发CCFA的博士方法介绍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahWFWp46tGnsB6cfictLicFicjJcm9aeE95EQPqWLG3cgGOjKyLOyTgwySHJp75GFk4gJWRnRnssWH6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言    相信大家都听过ChatGPT，但很少有人能真正解锁这个地表最强AI模型的真实能力。其实是在数据分析、编程代码、文献检索等多方面都能大幅提升工作效率。我们一起来看看：GPT在科研中，到底能帮</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529586&amp;idx=1&amp;sn=f8e0c6ab3b11fab73a7f92a05656571e&amp;chksm=eabc6766d0ea4dfe7ac748de7ee3a47d691996bc47d58c554a6068e6ffbceed49940f1e709d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 05 Sep 2024 05:32:02 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[最强MoE完全开源模型发布啦~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahWFWp46tGnsB6cfictLicFicjsTTpnXXwnDSiamqSY2azoJatqrfFNnlNqSoSC4fEMjLras8WHfJ3MZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章介绍了OLMOE（Open Mixture-of-Experts Language Models）系列模型，这是一款开源的稀疏混合专家模型。OLMOE-1B-7B拥有70亿参数，但每个输入令牌</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529579&amp;idx=2&amp;sn=3af092a56e4c84437928122c2df9d147&amp;chksm=ea8209139602ae7228567b2043bd8b5cfaff036986e70840ed9be8fbf035935d8cb359221bf4&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[Alignment下一站：合成数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibLy5jXZAK6bMMImqrDvotj3hAIpkKplTSfOFTy2LqVmUXdPOXPTb5tzzDOSzvmGvibrWoC1Uy0nA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：李rumorNICE26期 | 大语言模型多选题评估的偏见与鲁棒性大模型训练中，数据质量已经是所有人的共识了。在23年开始接触Alignment之后，我一直是人工标注流派，深信InstructG</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529586&amp;idx=2&amp;sn=2b20138a341d7948ebc9efceb8260183&amp;chksm=ea5e179b8c2df4f8ebc8deac534e9ccc145676427191355cedc50bf8d9490762966317d07790&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 05 Sep 2024 05:32:02 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[MemLong: 长文本的新记忆大师，可将上下文长度从4k提升到80k！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahWFWp46tGnsB6cfictLicFicj8a45tph06aWT4QKxkspewdg4S6MDVibemsMx0yUT69cjLBdNEPEOR7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章介绍了一个名为MemLong的模型，它通过使用外部检索器来增强长文本建模的能力。MemLong结合了一个不可微的检索-记忆模块和一个部分可训练的解码器-仅语言模型，并引入了一种细粒度、可控的检</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529579&amp;idx=1&amp;sn=f9993383eee80c22ef55eb229f4c9258&amp;chksm=eaf371e937a23ba7c561085879fa3cb431dfa14d1ac26f6d59a4b81d3e4dd0059300d0f10ece&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 04 Sep 2024 13:45:44 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[最强MoE完全开源模型发布啦~]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahWFWp46tGnsB6cfictLicFicjsTTpnXXwnDSiamqSY2azoJatqrfFNnlNqSoSC4fEMjLras8WHfJ3MZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章介绍了OLMOE（Open Mixture-of-Experts Language Models）系列模型，这是一款开源的稀疏混合专家模型。OLMOE-1B-7B拥有70亿参数，但每个输入令牌</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529579&amp;idx=2&amp;sn=3af092a56e4c84437928122c2df9d147&amp;chksm=ea8209139602ae7228567b2043bd8b5cfaff036986e70840ed9be8fbf035935d8cb359221bf4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 04 Sep 2024 13:45:44 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -300,23 +334,6 @@ in Large Language Models链接：https://arxiv.org/pdf</p> ]]></description>
       
 
       <pubdate>Thu, 29 Aug 2024 07:27:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[当心环境内容的干扰：大模型GUI智能体的忠实度研究]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPP2qia6PeP50RxGWyJ0xIw8l0eIh2OoPL6S1wYA4rfBHGBzB8UwBwkZj4peAqla3Hj1td4MGQJdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题当心环境内容的干扰：大模型GUI智能体的忠实度研究时间2024.8.31 10:30-11:30 周六入群论文：Caution for the Environment:
-Multimodal Ag</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529076&amp;idx=1&amp;sn=587a7e753aa7b7350c0a4586b85e6a9d&amp;chksm=ea70e0657cbf77ef4fabf24aabc9c96164b945c3973b0cccac9da0da892c973fee1d8389f24e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 28 Aug 2024 06:37:36 +0000</pubdate>
       
 
     </item>
