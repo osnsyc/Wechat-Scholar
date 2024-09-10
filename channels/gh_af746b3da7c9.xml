@@ -36,18 +36,55 @@
 
 
 
-
     <item>
-      <title><![CDATA[关于如何做科研的一些个人经验 -- 清华AP、Mooncake作者]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahfcMKOVo1DH2AsU1CHEzEDLzJ9ASGsjOh5zxiadrHEhtBQib3icRU8x9iaceUB6micGicDWeibumt73Ge0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：ZHANG Mingxing链接：https://zhuanlan.zhihu.com/p/718156903最近开学季，被抓来给研究生新生们做个关于“如何做研究的”的入学教育报告。会后大家希望</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529635&amp;idx=1&amp;sn=daa01cb6a383800378b0c0b1e88b7f06&amp;chksm=ea9ffe2e7973981f315a3ddd92ab0e9decb72de9eac96344879cb5f0d300785049db20e19e3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 06 Sep 2024 11:36:07 +0000</pubdate>
+      <title><![CDATA[2024年大模型Alignment偏好优化技术PPO,DPO, SimPO,KTO,Step-DPO, MCTS-DPO,SPO]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia9l9AcgGZtGgl2zib28uNApkRn3Wq4NB0M6aUeJsgwSC7iaA3f0TnrEpDibtYofOOmwuTt852xLqygw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：是念链接：https://zhuanlan.zhihu.com/p/710021282学术分享，侵删今年做过一段时间的alignment工作，做得有点不开心，各种social的原因，觉得自己的发</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529712&amp;idx=1&amp;sn=141763b569a7fe274261545c6c25deb9&amp;chksm=ea6ce00b713ba37e9918c528b750aaa9a09e299487374388d444fbb212624eefcc7d790c2658&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Sep 2024 12:09:35 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[重复采样魔法：用更多样本击败单次尝试的最强模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahfcMKOVo1DH2AsU1CHEzED5eNEANHGY7JvYxGhbCbibjVbHKNDP826qORM5bjG7ib33sG0qicxt4q0A/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章探讨了通过增加生成样本的数量来扩展大型语言模型（LLMs）在推理任务中的表现。研究发现，重复采样可以显著提高模型的覆盖率，特别是在具有自动验证工具的任务中。研究还发现，覆盖率与样本数量之间的关</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529635&amp;idx=2&amp;sn=0af2dc8dd1a157e41fe4f1681f24d26a&amp;chksm=eac1ee2013daffd4fc327c3cf9e5ea30ae540adb0d6782953952a6d88cfbb8a3850e30fc111e&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[探索自然语言中的计划搜索：提升大型语言模型代码生成性能的新方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia9l9AcgGZtGgl2zib28uNAp1uGMAvD60GVRq5EFVElVia1ziblec5IicUep6wZ5HjUNiaSdg4llccuYqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Planning In Natural Language Improves LLM Search For Code Generation 链接：https://arxiv.org/pdf/240</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529712&amp;idx=2&amp;sn=9636b9860ce3959aa37a335f93b7a6a1&amp;chksm=eafaa3d431cd9d03fe054738d831e26105a492abbf81170e0dadf1db504aa4bbf137b4dfafe3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Sep 2024 12:09:35 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[揭秘MagicDec：如何推测解码让长文本处理不再纠结于延迟与吞吐？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia9l9AcgGZtGgl2zib28uNApoFZib61IIxR6Ku93abAEmL5UzVYc4rGiakgicV769UCKXTnXRloGCYJicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：MagicDec-part2: Breaking the Latency-Throughput Tradeoff for Long Contexts with Speculative Decod</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529712&amp;idx=3&amp;sn=178cdbb2485c5e43f8376bf1f37eaf8e&amp;chksm=eaf9379a84965ee2a86e3bb3a52b667c666200e55aed6606665d62c94219e3b6bfdf3d815643&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Sep 2024 12:09:35 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[关于如何做科研的一些个人经验 -- 清华AP、Mooncake作者]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahfcMKOVo1DH2AsU1CHEzEDLzJ9ASGsjOh5zxiadrHEhtBQib3icRU8x9iaceUB6micGicDWeibumt73Ge0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：ZHANG Mingxing链接：https://zhuanlan.zhihu.com/p/718156903最近开学季，被抓来给研究生新生们做个关于“如何做研究的”的入学教育报告。会后大家希望</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529635&amp;idx=1&amp;sn=daa01cb6a383800378b0c0b1e88b7f06&amp;chksm=ea9ffe2e7973981f315a3ddd92ab0e9decb72de9eac96344879cb5f0d300785049db20e19e3a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 06 Sep 2024 11:36:07 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[重复采样魔法：用更多样本击败单次尝试的最强模型]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahfcMKOVo1DH2AsU1CHEzED5eNEANHGY7JvYxGhbCbibjVbHKNDP826qORM5bjG7ib33sG0qicxt4q0A/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章探讨了通过增加生成样本的数量来扩展大型语言模型（LLMs）在推理任务中的表现。研究发现，重复采样可以显著提高模型的覆盖率，特别是在具有自动验证工具的任务中。研究还发现，覆盖率与样本数量之间的关</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529635&amp;idx=2&amp;sn=0af2dc8dd1a157e41fe4f1681f24d26a&amp;chksm=eac1ee2013daffd4fc327c3cf9e5ea30ae540adb0d6782953952a6d88cfbb8a3850e30fc111e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 06 Sep 2024 11:36:07 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -142,183 +179,6 @@
       
 
       <pubdate>Tue, 03 Sep 2024 11:50:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[千问团队tech lead解读Qwen2-VL：让我们先把视觉理解干上去！（一）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajx2W5iciboKvJicT1rGVWkuYoN3dIshnl0M7VzEwaiaacibOZwHlnJib8NX9FoqejgJuChOxg485ufQebA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：林俊旸链接：https://zhuanlan.zhihu.com/p/717704002编辑：AI椰青正值前几天发布Qwen2-VL，大家应该在我们的博客或者各个公众号看到我们模型的表现，并且看</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529429&amp;idx=1&amp;sn=88234f6be39005bcfc95b05e679915d4&amp;chksm=ea9288195c3d0c54257d84b6d5016e9a9a27da6563d8063f6a39b295b650bf80d2514cc2b443&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 02 Sep 2024 05:30:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACL2024 | LLM+RAG可能要毁了信息检索，一份深入研究]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajx2W5iciboKvJicT1rGVWkuYoYZDCcrwGR8OQTickc18vRHss6OM3d915tpI7tZ6tJ2yU9mMWPvcxciaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：[ACL2024] Spiral of Silence: How is Large Language Model Killing Information Retrieval?—A Case St</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529429&amp;idx=2&amp;sn=f37ef1b38b8a77924bcc3bfe991c200a&amp;chksm=eaaf5008af99548f94e9266c0f4f9659fa55ada4f27542f94116e79e3016e51def725a5d1749&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 02 Sep 2024 05:30:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型领域，你心目中 idea 最惊艳的论文是哪篇？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiacs3wOoAu29m8s9DFL55DcEic1KteF6JjtOZ49df6j0fOBCbN1J3w4tgEswOqZ5iax2vslj9WmZTEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Beyond Hsueh链接：https://www.zhihu.com/question/665735775/answer/3611972970推荐一篇 ICLR 2023 的文章：Seman</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529407&amp;idx=1&amp;sn=389d20bc6bcb690bea856ff3cf28c167&amp;chksm=eae651667c64cc2a2b21a07c331e74eba24ea64fbf852051bbb596b9cd6d8a4a195864d00c83&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 01 Sep 2024 14:33:29 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[入坑大模型18个月的反思与贩私]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiacs3wOoAu29m8s9DFL55DcIbdNqXEicgB2ZXhhHOmhlfD2NyB3dlWox6S1Gm2lDcxHEo9fiauiaSQIw/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎: Minogame链接: https://zhuanlan.zhihu.com/p/717402693编辑：包包算法笔记前几天开完一个有高层参加的会议，会后组里的技术大佬直接就开喷“要规划没规划</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529407&amp;idx=2&amp;sn=a0a026af84edf98625592f37305c5cbf&amp;chksm=eabd2b06ee51966d351723f3f36fdcecb4cc24f7733715935c74794ce73863ed5739050c7590&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 01 Sep 2024 14:33:29 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一周打完1000场官司，中科院发布首个AI法庭AgentCourt！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiacs3wOoAu29m8s9DFL55DcdAiaicpIJoH92dSUKH8WVialPzLu5S46u0HnQ91YGhjZ8cY8YogTvoQYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>编辑：LRST来自：新智元在人工智能重塑各个行业的今天,法律界也迎来了前所未有的变革。传统的法律实践面临着效率低下、成本高昂等挑战，而AI技术的出现为解决这些问题提供了新的可能。从最初斯坦福小镇火遍全</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529407&amp;idx=3&amp;sn=1c410330c388fbddf813e6177de9d4cc&amp;chksm=eac38bb256dc524e0a245a68fda7e2db32039a4df32655ee65fa1cd05c148a2c737f155e8fc0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 01 Sep 2024 14:33:29 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM的范式转移：RL带来新的 Scaling Law]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajBLl5SltLUyttT3j67qAo9JeJKicMm9dTonKJ4RTia4Zm82V4xjiaBElBfmedltibyibIVuRJCcSviaEUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自：海外独角兽作者：Cage从几周前 Sam Altman 在 X 上发布草莓照片开始，整个行业都在期待 OpenAI 发布新模型。根据 The information 的报道，Strawberry</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529378&amp;idx=1&amp;sn=fff2afb33393f0bbe797176aeb599f13&amp;chksm=ea1ae624d0ed56dffd1d6e48094cd3e2e39e827a00ef3c60a66aa83147c1c3cfbd165e784212&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 31 Aug 2024 09:06:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[揭秘LLMs不确定性背后的隐患：后门攻击的悄然兴起]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajBLl5SltLUyttT3j67qAo9NHibQTBWsoX3VZrtRR76EudSR4nyc3ubXiaA4TmoLzJVByJhjvttoVAQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Uncertainty is Fragile: Manipulating Uncertainty
-in Large Language Models链接：https://arxiv.org/pdf</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529378&amp;idx=2&amp;sn=b286cdb0c4aee358cc4821a24b1e21e3&amp;chksm=eaa971bd9cee36bc90d8794529c8ce528e7d1b6534a2a9843eb44c1ddf4350d0718383be8aa3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 31 Aug 2024 09:06:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[vllm代码更新太频繁，我该怎么办？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajBLl5SltLUyttT3j67qAo9pNVibGic5hyQZBRNY3OEGjgByJljdVlCiaegg7ZziaibSov1kG0WRQPe2Rw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记大家好，大家在读vllm源码解读系列时，肯定会有以下疑惑：“vllm仓库当前主分支的代码，好像和当前文章中展示的代码，存在许多不同之处，这是为什么呢？”这是因为vllm的开源社区非常</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529378&amp;idx=3&amp;sn=fe853ad92ffa461e46bb026acc27402a&amp;chksm=ea47e7092172e86de15156c255c7b89dc9e664fae8d099417157771b2f8ef6dd6eb58c0be44b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 31 Aug 2024 09:06:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Concise Thoughts：仅通过长度限制，获取更简明的CoT能大幅度提升效果]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDVwQm4MoPzagh9RFKrHOFDWBuAiae3dKy2IicKEe5ZDEzhcsrS8lfjwJU7TNmjNibEffTsd3Wic7WVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost地址：https://arxiv.org/pdf/2407.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529318&amp;idx=1&amp;sn=ab30fd1618261cdd15e513025bb13c6e&amp;chksm=ea024875b56d743e8d91c49990bb87b3f7c49ee592d09197f4992660df6667c865b0624d6fa5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 30 Aug 2024 11:59:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[校招生做大模型，选预训练还是SFT？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDVwQm4MoPzagh9RFKrHOFlKibSiaJAeYxl02WJ87rcZ7sbQBVAj1KA5SmLZhNrvsjQDjkvVmQukAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎: ybq链接: https://www.zhihu.com/question/635761315/answer/3608088928我推荐选 pretrain，理由如下：pretrain 提高工</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529318&amp;idx=2&amp;sn=a861858641f35f356f109f4ea8d8ac87&amp;chksm=ea5835d57ac335d91f0ac1de7fd5087750d6272d97d2d685562fb7c685222f95a9f9745d0fb1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 30 Aug 2024 11:59:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[情感分析的终极形态：全景式细粒度多模态对话情感分析基准PanoSent]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDVwQm4MoPzagh9RFKrHOF4Hw8y9uJXo48Ju6Uic7PTpFicQzvbSTowbmX0WjAAib4HFWnPElJibkMoQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心罗盟，本工作的第一作者。新加坡国立大学（NUS）人工智能专业准博士生，本科毕业于武汉大学。主要研究方向为多模态大语言模型和 Social AI、Human-eccentric AI。‍情</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529318&amp;idx=3&amp;sn=966e58907a6a84f7fad9aba8289f4771&amp;chksm=ea30814a66c76c9359858eca4603bc9c83d145727febaccc7baaaa570a7866d6fc78ec484595&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 30 Aug 2024 11:59:02 +0000</pubdate>
       
 
     </item>
