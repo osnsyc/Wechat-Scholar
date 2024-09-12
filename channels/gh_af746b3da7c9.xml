@@ -28,23 +28,81 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[探究大模型微调 Lora 的不同形态(上篇): AdaLora、 AsLora、 PiSSA、 DoRA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahxGzA2ppWZrRV8IEAYiaU3FW4qrWQibzyEib2vGkNibkQFfx7HlCkZNgMibohyfJ06RZIOmBuHch6fe4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：周星星链接：https://zhuanlan.zhihu.com/p/719438707排版：AI椰青@深度学习自然语言处理 公众号前言最近本人一直在研究 SFT 的落地工作，其中 LoRA 是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530186&amp;idx=1&amp;sn=e61e2f3a3f64e075a94824a0c30f73c3&amp;chksm=eab5dc6bee13e9ede0e52ec9e5be505420323b1ccb0cb9efb924447cd07d8eb0d057bbad6501&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[AnyGPT | 基于离散表示统一多模态理解与生成：把一种新模态当作一门外语 -- NICE27期]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahxGzA2ppWZrRV8IEAYiaU3FGT1OkdPwzgEJKPEiaQO5ibk2qnB8GwicPzSkTkAuhUCDBwfTj3dnrbUjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题基于离散表示统一多模态理解与生成：把一种新模态当作一门外语时间2024.9.14 20:00-21:00 周六入群论文：AnyGPT: Unified Multimodal LLM with Di</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530186&amp;idx=2&amp;sn=4076ce39610f66d44afec4115f0a4413&amp;chksm=eae45b90731034ea50dff645548bcefae18c86129c81591ed1dece3052a0c6380a9392ca4181&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[“晚期分块”：用长上下文嵌入模型拯救文本检索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahxGzA2ppWZrRV8IEAYiaU3F5kArxSSjpCmgCZRibvt2AWK8jR7A8vzbaCZB1iabz87cEJRnBPmGtctw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Late Chunking: Contextual Chunk Embeddings Using Long-Context
+Embedding Models地址：https://arxiv.or</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530186&amp;idx=3&amp;sn=e71a090979cbf36c86bd62e054c2e981&amp;chksm=ea0ec863a2a5ee64faa97632e701b3f207de155364e284e86314c795499233972acdab5d22e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Sirius：一种高效的上下文稀疏性校正方法，恢复稀疏模型在推理任务上的性能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahxGzA2ppWZrRV8IEAYiaU3FwT441jyWr08n4kldUKU64nBQulqXJdWmFETmpLLU8tZWPtqs9iabo2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Sirius: Contextual Sparsity with Correction for Efficient LLMs地址：https://www.arxiv.org/abs/2409.0</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530186&amp;idx=4&amp;sn=ab78bc470146524ec3761d9e8c31c298&amp;chksm=ea60c3909ece491de7ade3fc15d54d6865c9f05f3248e3050e588bc843914d88dcef33958d27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[中科院提出大模型“基准泄露”排行榜，Qwen模型位居榜首]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzSibbmeLOLFXzP6J5pZkiby2pN9bQD0PTMqOcneqUr2AZUgvVeKZ9jSrG1C9nYtVxiaWmceUG6Lbdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑&amp;整理：深度学习自然语言处理 公众号近期，大规模语言模型在多个自然语言处理的基准测试中取得了显著的进展。这些模型之所以能够取得成功，部分原因在于它们通过对互联网上收集的庞大语料库进行广泛的预训练。</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529789&amp;idx=1&amp;sn=2ec2dd35a7174f984c054c4ceb68e3f4&amp;chksm=eaad8f43bd1c73cea215cd6aa96fc7d2ed94a7980f61eb3d7f3915942ca45ecaccc018a97053&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 10 Sep 2024 09:27:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DPO，RM，RLHF 傻傻分不清楚]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzSibbmeLOLFXzP6J5pZkibyOibctBMMYAo6He7EwhyJvxVndgrdcVlwCjC0eRxZY7Gcljso8w6UFyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：曹宇链接：https://zhuanlan.zhihu.com/p/718913850编辑：AI椰青 | 深度学习自然语言处理 公众号纯学术分享，侵删DPO 的论文引用最近已经破千了，成了斯坦福</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529789&amp;idx=2&amp;sn=535a178e6e3da1b347924e58abe435d3&amp;chksm=eab40b35d51d2f170f8d970351fcfd6de0335f01d18e698ee5c987cec9d1bf12365c030fe25f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 10 Sep 2024 09:27:48 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLMs 能够生成创新的研究想法吗？——一项针对 100 多位 NLP 研究者的大规模人类研究]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzSibbmeLOLFXzP6J5pZkibyOvTonicJ5w7Cibe1pk6pIqFwia5z3mjgWdRIqRRTn900DokEXGibQBNgYw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers地址：htt</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529789&amp;idx=3&amp;sn=40cd15e464510e8bb8997a695e3369f8&amp;chksm=eaa1f9c0e9f24debc5ba1856f698c3f8ca7015ac0786a54418b68d2339a0fc3d9aeb78ac3ad8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 10 Sep 2024 09:27:48 +0000</pubdate>
+      
+
     </item>
     <item>
       
