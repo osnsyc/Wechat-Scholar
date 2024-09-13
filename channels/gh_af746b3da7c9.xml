@@ -31,30 +31,92 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[2万字的SFT for Alignment 总结纪要]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiafc1RFGJeZhbYvLsCcpcFM8JqFEAWibGnNGPKLYqxtICxrO63Dczq2qBl0jtMZClMNYEFkbAlcCDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：张峻旗链接：https://zhuanlan.zhihu.com/p/717553974本文是个人大模型学习笔记的第二十五篇，以18K再次刷新了单篇字符记录，感兴趣的话可以点击专栏阅读其余笔记，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530233&amp;idx=1&amp;sn=d76435f1541362dc7df3d77f2b56dc18&amp;chksm=ea0694f6d1068a42e6a8fc3ab380f645ffa5f12a56e4a7590aac190b62d0fcfd64b55fe38843&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 12 Sep 2024 15:05:16 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[中科院提出GPT-4o实时语音交互的开源对手：Llama-Omni]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiafc1RFGJeZhbYvLsCcpcFMVg8vrcmb34fURUWYibmWVutJRt5AYmvKR2tRdedRusatklCJ7VyC2bQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：LLaMA-Omni: Seamless Speech Interaction with Large Language Models地址：https://arxiv.org/pdf/2409.0</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530233&amp;idx=2&amp;sn=231c7b5f293ddd570e0ca3f102d8907f&amp;chksm=ea4f80dd2e4f816f8a7448283a6b66a221dbe733bfb6a705fbe7c36720cc2e85162fdd2174c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 12 Sep 2024 15:05:16 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[研究表明，LLMs的幻觉问题是我们永远无法逃避的...]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiafc1RFGJeZhbYvLsCcpcFMvBUicggtY0C2whDBbjSS0uyUbMALTfebSib89ECtkmPfjB3KkFfI181A/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：LLMs Will Always Hallucinate, and We Need to Live With This地址：https://arxiv.org/abs/2409.05746研究背</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530233&amp;idx=3&amp;sn=a2148b4e87c9018df8561bade19d5bd2&amp;chksm=eac43c44490b6a848e6719c67ceec8645026d836fece3d62c7b7c37d2d9e5261f3ba90c25024&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 12 Sep 2024 15:05:16 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[探究大模型微调 Lora 的不同形态(上篇): AdaLora、 AsLora、 PiSSA、 DoRA]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahxGzA2ppWZrRV8IEAYiaU3FW4qrWQibzyEib2vGkNibkQFfx7HlCkZNgMibohyfJ06RZIOmBuHch6fe4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：周星星链接：https://zhuanlan.zhihu.com/p/719438707排版：AI椰青@深度学习自然语言处理 公众号前言最近本人一直在研究 SFT 的落地工作，其中 LoRA 是</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530186&amp;idx=1&amp;sn=e61e2f3a3f64e075a94824a0c30f73c3&amp;chksm=eab5dc6bee13e9ede0e52ec9e5be505420323b1ccb0cb9efb924447cd07d8eb0d057bbad6501&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[AnyGPT | 基于离散表示统一多模态理解与生成：把一种新模态当作一门外语 -- NICE27期]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahxGzA2ppWZrRV8IEAYiaU3FGT1OkdPwzgEJKPEiaQO5ibk2qnB8GwicPzSkTkAuhUCDBwfTj3dnrbUjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题基于离散表示统一多模态理解与生成：把一种新模态当作一门外语时间2024.9.14 20:00-21:00 周六入群论文：AnyGPT: Unified Multimodal LLM with Di</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530186&amp;idx=2&amp;sn=4076ce39610f66d44afec4115f0a4413&amp;chksm=eae45b90731034ea50dff645548bcefae18c86129c81591ed1dece3052a0c6380a9392ca4181&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[“晚期分块”：用长上下文嵌入模型拯救文本检索]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahxGzA2ppWZrRV8IEAYiaU3F5kArxSSjpCmgCZRibvt2AWK8jR7A8vzbaCZB1iabz87cEJRnBPmGtctw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Late Chunking: Contextual Chunk Embeddings Using Long-Context
 Embedding Models地址：https://arxiv.or</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530186&amp;idx=3&amp;sn=e71a090979cbf36c86bd62e054c2e981&amp;chksm=ea0ec863a2a5ee64faa97632e701b3f207de155364e284e86314c795499233972acdab5d22e2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Sirius：一种高效的上下文稀疏性校正方法，恢复稀疏模型在推理任务上的性能]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahxGzA2ppWZrRV8IEAYiaU3FwT441jyWr08n4kldUKU64nBQulqXJdWmFETmpLLU8tZWPtqs9iabo2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Sirius: Contextual Sparsity with Correction for Efficient LLMs地址：https://www.arxiv.org/abs/2409.0</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530186&amp;idx=4&amp;sn=ab78bc470146524ec3761d9e8c31c298&amp;chksm=ea60c3909ece491de7ade3fc15d54d6865c9f05f3248e3050e588bc843914d88dcef33958d27&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -181,102 +243,6 @@ Embedding Models地址：https://arxiv.or</p> ]]></description>
       
 
       <pubdate>Fri, 06 Sep 2024 11:36:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[你真的了解GPT4o吗？连续发CCFA的博士方法介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahWFWp46tGnsB6cfictLicFicjJcm9aeE95EQPqWLG3cgGOjKyLOyTgwySHJp75GFk4gJWRnRnssWH6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言    相信大家都听过ChatGPT，但很少有人能真正解锁这个地表最强AI模型的真实能力。其实是在数据分析、编程代码、文献检索等多方面都能大幅提升工作效率。我们一起来看看：GPT在科研中，到底能帮</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529586&amp;idx=1&amp;sn=f8e0c6ab3b11fab73a7f92a05656571e&amp;chksm=eabc6766d0ea4dfe7ac748de7ee3a47d691996bc47d58c554a6068e6ffbceed49940f1e709d7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 05 Sep 2024 05:32:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Alignment下一站：合成数据]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibLy5jXZAK6bMMImqrDvotj3hAIpkKplTSfOFTy2LqVmUXdPOXPTb5tzzDOSzvmGvibrWoC1Uy0nA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：李rumorNICE26期 | 大语言模型多选题评估的偏见与鲁棒性大模型训练中，数据质量已经是所有人的共识了。在23年开始接触Alignment之后，我一直是人工标注流派，深信InstructG</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529586&amp;idx=2&amp;sn=2b20138a341d7948ebc9efceb8260183&amp;chksm=ea5e179b8c2df4f8ebc8deac534e9ccc145676427191355cedc50bf8d9490762966317d07790&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 05 Sep 2024 05:32:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[MemLong: 长文本的新记忆大师，可将上下文长度从4k提升到80k！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahWFWp46tGnsB6cfictLicFicj8a45tph06aWT4QKxkspewdg4S6MDVibemsMx0yUT69cjLBdNEPEOR7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章介绍了一个名为MemLong的模型，它通过使用外部检索器来增强长文本建模的能力。MemLong结合了一个不可微的检索-记忆模块和一个部分可训练的解码器-仅语言模型，并引入了一种细粒度、可控的检</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529579&amp;idx=1&amp;sn=f9993383eee80c22ef55eb229f4c9258&amp;chksm=eaf371e937a23ba7c561085879fa3cb431dfa14d1ac26f6d59a4b81d3e4dd0059300d0f10ece&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Sep 2024 13:45:44 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[最强MoE完全开源模型发布啦~]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahWFWp46tGnsB6cfictLicFicjsTTpnXXwnDSiamqSY2azoJatqrfFNnlNqSoSC4fEMjLras8WHfJ3MZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章介绍了OLMOE（Open Mixture-of-Experts Language Models）系列模型，这是一款开源的稀疏混合专家模型。OLMOE-1B-7B拥有70亿参数，但每个输入令牌</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529579&amp;idx=2&amp;sn=3af092a56e4c84437928122c2df9d147&amp;chksm=ea8209139602ae7228567b2043bd8b5cfaff036986e70840ed9be8fbf035935d8cb359221bf4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Sep 2024 13:45:44 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大语言模型多选题评估的偏见与鲁棒性]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahU80vrTaqdePtC23BeScz94hU1LxhAVyUccHTH1On8FzlTt3U9aKXxH4ZC3BUx951dRDjMo301eA/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题大语言模型多选题评估的偏见与鲁棒性   On the bias and robustness of LLM Multiple Choice Question Evaluation时间2024.9.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529480&amp;idx=1&amp;sn=77fc7cdf9564600ab2dcef991135ecd0&amp;chksm=ea94f90ec4d17d1308927680e598e8581d8a34fc6e0eaf20561e2cd1808c597b609f995bea2b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Sep 2024 11:50:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[情境化逻辑：LLMs推理能力的真正试金石]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahU80vrTaqdePtC23BeScz9woWiaCjcMLpuPGBFnhd0fNkq5FM7icqxKXKBAf58gSUtiae2rH18lzYEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Disentangling Logic: The Role of Context in Large Language Model Reasoning Capabilities地址：https:/</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529480&amp;idx=2&amp;sn=be6414f70170b8f601762593dc945e3d&amp;chksm=eac8feda8c189227d96da3f72cfb5e07bdc5df36f689d0de8bbb09d40b6cb104d8d1270dbcd3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Sep 2024 11:50:38 +0000</pubdate>
       
 
     </item>
