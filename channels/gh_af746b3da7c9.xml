@@ -36,18 +36,49 @@
 
 
 
-
     <item>
-      <title><![CDATA[简单图解一下线性注意力机制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajAZKOjhFTYnMhorwBnjxZIn02hTRdtqvslmSvhBD7KVaARkeyISxnEj1QNXgScL1Xug9qkicFrauA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：刀刀宁链接：https://zhuanlan.zhihu.com/p/718156896线性注意力机制的文章有很多了，在本篇笔记中，我们简单地对各种方法进行一下图解比较，串一下当前的线性注意力机</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530369&amp;idx=1&amp;sn=5091dc77081b6cdaa2c4aa09061edf81&amp;chksm=ea227fe3c2fa12f683fc208a9ba6cbeb5ff4b60bd71577f90baea0af5f0e374a831ae1fe42b9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 16 Sep 2024 15:49:02 +0000</pubdate>
+      <title><![CDATA[OpenAI o1 self-play RL 技术路线推演]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahC5sVyq22FnFhRA7M8giclFGPlpedxxvnY7yef3r6EnNTiasFjpty6NH5M2hh7yicID69FO0jro3qMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：曹宇链接：https://zhuanlan.zhihu.com/p/720106482OpenAI的self-play RL新模型o1最近交卷，直接引爆了关于对于self-play的讨论。在数理</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530405&amp;idx=1&amp;sn=85cd8225d04ab219de8f9076d4332026&amp;chksm=ea7d896e29c51411f9c8006b3dda639f7290e0f4898ef931e1adae4c02aa18a602c6241e2377&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 17 Sep 2024 12:55:15 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[人人都能看懂的DPO数学原理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajAZKOjhFTYnMhorwBnjxZImYouQCutlZm4fY9sOmNDMdjfWcXssXCDGOTiaJ7HEUNUVpXlAjZGKjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、DPO在做一件什么事来自：大猿搬砖简记在文章的开始，我们来思考一个问题：如果想让你训练一个能听得懂人类问题，并给出人类满意答案的模型，你会怎么设计大致的训练步骤？一口吃成一个大胖子是困难的，所以不</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530369&amp;idx=2&amp;sn=cf08c105ba7bfdb6983263416f7af62f&amp;chksm=eaaaf7a08444ceb75f5831a40f41d424591c1de579b27c0d9a8b4643c197f32600cd30ad28ca&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[“博士级”模型GPT-o1折戟中学数学“陷阱”问题，准确率仅为24.3%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahC5sVyq22FnFhRA7M8giclF8dfmicKSicDY3yLUzE7b6aqx2Z5Tls1rbuH9PjUuicdo4mhFQ723m8RUw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：FudanNLP北京时间9月13日凌晨，OpenAI正式推出最新模型GPT-o1，一时间引发学界与工业界的广泛讨论，相较于先前版本GPT-4o，新模型在各大评测指标上显著提升，号称已达"博士级"</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530405&amp;idx=2&amp;sn=c8da89dbb6ff58f2e88a0ec893dc5688&amp;chksm=eac2b4dfd2de307041be7c3fc4817c24b4407b423f7dd3c2299453ba643fff39c84bcd4d73dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 17 Sep 2024 12:55:15 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[简单图解一下线性注意力机制]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajAZKOjhFTYnMhorwBnjxZIn02hTRdtqvslmSvhBD7KVaARkeyISxnEj1QNXgScL1Xug9qkicFrauA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：刀刀宁链接：https://zhuanlan.zhihu.com/p/718156896线性注意力机制的文章有很多了，在本篇笔记中，我们简单地对各种方法进行一下图解比较，串一下当前的线性注意力机</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530369&amp;idx=1&amp;sn=5091dc77081b6cdaa2c4aa09061edf81&amp;chksm=ea227fe3c2fa12f683fc208a9ba6cbeb5ff4b60bd71577f90baea0af5f0e374a831ae1fe42b9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 16 Sep 2024 15:49:02 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[人人都能看懂的DPO数学原理]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajAZKOjhFTYnMhorwBnjxZImYouQCutlZm4fY9sOmNDMdjfWcXssXCDGOTiaJ7HEUNUVpXlAjZGKjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、DPO在做一件什么事来自：大猿搬砖简记在文章的开始，我们来思考一个问题：如果想让你训练一个能听得懂人类问题，并给出人类满意答案的模型，你会怎么设计大致的训练步骤？一口吃成一个大胖子是困难的，所以不</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530369&amp;idx=2&amp;sn=cf08c105ba7bfdb6983263416f7af62f&amp;chksm=eaaaf7a08444ceb75f5831a40f41d424591c1de579b27c0d9a8b4643c197f32600cd30ad28ca&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 16 Sep 2024 15:49:02 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -271,54 +302,6 @@ Embedding Models地址：https://arxiv.or</p> ]]></description>
       
 
       <pubdate>Wed, 11 Sep 2024 14:49:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[中科院提出大模型“基准泄露”排行榜，Qwen模型位居榜首]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzSibbmeLOLFXzP6J5pZkiby2pN9bQD0PTMqOcneqUr2AZUgvVeKZ9jSrG1C9nYtVxiaWmceUG6Lbdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑&amp;整理：深度学习自然语言处理 公众号近期，大规模语言模型在多个自然语言处理的基准测试中取得了显著的进展。这些模型之所以能够取得成功，部分原因在于它们通过对互联网上收集的庞大语料库进行广泛的预训练。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529789&amp;idx=1&amp;sn=2ec2dd35a7174f984c054c4ceb68e3f4&amp;chksm=eaad8f43bd1c73cea215cd6aa96fc7d2ed94a7980f61eb3d7f3915942ca45ecaccc018a97053&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 09:27:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DPO，RM，RLHF 傻傻分不清楚]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzSibbmeLOLFXzP6J5pZkibyOibctBMMYAo6He7EwhyJvxVndgrdcVlwCjC0eRxZY7Gcljso8w6UFyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：曹宇链接：https://zhuanlan.zhihu.com/p/718913850编辑：AI椰青 | 深度学习自然语言处理 公众号纯学术分享，侵删DPO 的论文引用最近已经破千了，成了斯坦福</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529789&amp;idx=2&amp;sn=535a178e6e3da1b347924e58abe435d3&amp;chksm=eab40b35d51d2f170f8d970351fcfd6de0335f01d18e698ee5c987cec9d1bf12365c030fe25f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 09:27:48 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLMs 能够生成创新的研究想法吗？——一项针对 100 多位 NLP 研究者的大规模人类研究]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzSibbmeLOLFXzP6J5pZkibyOvTonicJ5w7Cibe1pk6pIqFwia5z3mjgWdRIqRRTn900DokEXGibQBNgYw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers地址：htt</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247529789&amp;idx=3&amp;sn=40cd15e464510e8bb8997a695e3369f8&amp;chksm=eaa1f9c0e9f24debc5ba1856f698c3f8ca7015ac0786a54418b68d2339a0fc3d9aeb78ac3ad8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 09:27:48 +0000</pubdate>
       
 
     </item>
