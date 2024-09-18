@@ -47,40 +47,118 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[Qwen2.5系列即将开源]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>官方剧透， 预计明天开源：
+
+Qwen2.5: 0.5B, 1.5B, 3B, 7B, 14B, 32B, and 72B
+Qwen2.5-Coder: 1.5B, 7B, and 32B on th</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=1&amp;sn=515e81ea6bc08eadf75d8946c9383cfa&amp;chksm=bfab7b2ac35126839d4ab5679dbb7b5bb72107ace90669c7b088cfc2bba9910f7be022bf3fa7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI o1的开源平替版self-replay RL来了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UkaMPMaoibmiawGaYDsjLPZmVdIgbAEX0UaeJYTZMup8TM6yibfSuFwiczkyG3gZAaHV62tyJNnG7GqhJnMLlzZ9Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>MSQA和哈佛发表rStar，对标OpenAI的超级对齐Q*项目！摘要：本文介绍了一种名为rStar的self-play互推理方法，它显著提高了小型语言模型（SLMs）的推理能力，而无需微调或更高级的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=2&amp;sn=164a59436f4b2a8ffc9b1879f85d5579&amp;chksm=bf0ca9c1e2968945966ec50835661b79a048c18d48e7b3af4baf52628a1631e6ae030e9079ef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Quiet-STaR: Think before Speaking技术介绍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvJS6r1ToZiaot00plaGgPPG2tkTreFALlYLhkoJbiclkbHR1jVnNmd0g8p4kz2tiaLicnibonicSmRnO2bA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天介绍的技术来自论文《Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking》，论文的作者Eric Zel</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=3&amp;sn=fde2ee985e65959d3a97cf91e52df9ea&amp;chksm=bf058d738c7e26bcd069aecec590aae033200fbfb59634a452a2abd2f845ef9c3b73d473d002&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[什么是RAG？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJmsyFyYnl9gIFnmKtibK69niaBuBDbXFTiaGP99yzOX4cwz6IHydFK8VGGY5VouicNL4HtkVkSC0L19g/300?wxtype=jpeg&amp;wxfrom=0"/><p>进技术交流群请添加AINLP小助手微信（id: ainlp2)请备注具体方向+所用到的相关技术点关于AINLPAINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=4&amp;sn=5c33c8a840d1e506ca0475d27e9e3066&amp;chksm=bf2a83f01fab001779316e9c811c8c383c05b1eb478a6835491ac05f46a3108f12654773af8f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[CV入门--无监督学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465r0IJDVyNQZXQsAzJfPr22ypUq8SczFAHHx4mWRYGSdvxYHhRoicA751T3E80sbaJRheQ7gdhzUZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>标注数据总是缺乏的，特别是对于大规模预训练。因此无监督学习在大模型时代就更加重要了。相比有监督的训练，无监督学习不需要把最终结果都reduce到一个单一的label，因此模型也能学到更丰富的数据特征。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=5&amp;sn=008203bb70e1d06b69585563ba5b9ee4&amp;chksm=bf25f14f6d7e636c842930e4eef41056e717bb8bd31ff1b5fe7084bc64dd6627c640fbad4ac3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[RWKV作者对OpenAI 发布 o1 系列模型的看法，很深刻]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJUM1woH3jcu0XkwO9t8TwWWM0T9ic2l5BCRrfXvPPFql6UlDHoyt3rtaXUeRiaprv4aW3dKziaLib2Rw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：PENG Bo链接：https://www.zhihu.com/question/666991594/answer/3624168868大家都知道长期CoT可以提升性能，而且很快我们会看到其它家</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444724&amp;idx=1&amp;sn=8f802ecbbad16ee07129e982a97acd39&amp;chksm=bf855e582c12a5de8dd9ec49e2c77ef2330cc6407cda9f44cf0c261b3a03d73d3e31f1beca8c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 16 Sep 2024 12:39:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【文末赠书】大型语言模型实战指南]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJUM1woH3jcu0XkwO9t8TwWbpC8yR6Xcmgw0TGBETcFT2IMFNYS4ArcCfRXicKjJ2TCpHibBft7XOag/300?wxtype=jpeg&amp;wxfrom=0"/><p>自ChatGPT模型问世后，在全球范围内掀起了AI新浪潮。有很多企业和高校也随之开源了一些效果优异的大模型，例如：Qwen系列模型、MiniCPM序列模型、Yi系列模型、ChatGLM系列模型、Lla</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444724&amp;idx=2&amp;sn=dda95f23140a57d55f170eb723c5e96b&amp;chksm=bf55a39894ef1e67b57f190d1a4975fbcd2c1aad1828d71a0c7dc1d7724cee26cabef9cf7c34&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 16 Sep 2024 12:39:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[为什么LLM大模型会产生幻觉？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJUM1woH3jcu0XkwO9t8TwWF5WgicEwu1OjJ559z8rX8UsTUEIjGcRibwRXMTgcibzribTcMicz8OT4mFA/300?wxtype=jpeg&amp;wxfrom=0"/><p>为什么LLM大模型会产生幻觉？进技术交流群请添加AINLP小助手微信（id: ainlp2)请备注具体方向+所用到的相关技术点关于AINLPAINLP 是一个有趣有AI的自然语言处理社区，专注于 AI</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444724&amp;idx=3&amp;sn=7bba2be661df307675ccb4360bfd39a1&amp;chksm=bf8479b3ce43384db5321933e2088a3082aa0a1178fca601c0308388db46ab4234d6cec84248&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 16 Sep 2024 12:39:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OpenAI o1：隐含在训练与推理间的动态泛化与流形分布]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yToxjhYT5ibbicIBQC30AVQiaUuFDnmqB84zggwh9ycza2TVt2CnTcC6nXaegcXm1LSpcet1PWR1WSZmcib5U2MsTA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：吕明随着OpenAI o1发布，进一步激发了产业与学术各界对AGI的期待以及new scaling law下的探索热情，也看到来自社区和专业机构对o1的阐释，但总感觉还差点什么，因此决定以自己的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444724&amp;idx=4&amp;sn=b35c836ce9733912fc432bafb808d862&amp;chksm=bfbaf28b2c3a19becca19e4e8f091a1b6b61e56dc3b15c36da92234f1fab84ac6897c9b7cb55&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 16 Sep 2024 12:39:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[分享一些高效阅读论文和代码的方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOS7o0jtkTZdzXRSaVIHhEdOzAyswiblUEaiaQCe9mvrUPwQIcQ3ndTicR0sSOWjObRJPuk2Ywd7T3bQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好～先预祝大家中秋节快乐🎑🎉！在节前这一天，我们来聊聊一个比较轻松、也是很多朋友关注的话题：如何能更高效阅读一篇论文、学习一份源码呢？以我自己的经验来看，有效的方法无外是3点：写笔记。按照自己的思</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444724&amp;idx=5&amp;sn=2d3f07b5e18d3654f02587edca47c8ec&amp;chksm=bf06c028d7c2443aa0f565b5753bb346a7b63492c8ea08bdfae6ddf7c96526efc4bf326306a3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 16 Sep 2024 12:39:03 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -319,166 +397,6 @@
       
 
       <pubdate>Thu, 12 Sep 2024 06:35:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新趋势！AI大模型走下神坛！！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSL3LWORRJ7RZibYvIqeQDIv8eWgibcsAfa6QjjIRAfaGnLH9VzbQyGV97psQB1ictvZl0HQ8C1Kd09FA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年招聘市场确实是好点了，我发现群友都在讨论，得赶快学点 AI 大模型。他们有的是想正式转到一些新兴的 AI 行业，需要系统的学习训练。更多的是想跟已有的技能结合，辅助编程提效，或上手实操应用，增加自</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444622&amp;idx=1&amp;sn=e55e56e1308957ec900ca3ce2352661e&amp;chksm=bfe850ad8fff787220767db3aa280157f7fe2d4020c04fd548981e8c3cbb65fe9becdd14e859&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Sep 2024 03:15:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[浅谈Role Play：从当红炸子鸡到无人问津]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BIxKnWsJfBbaWqaNfs0lA4bLd4cZiaTVGCwLYwnQBdUZZ1Bseez9skw9Ys7g8P9By5jNxibF7dInmmU2A5G9MJkQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章简单谈一下我之前做过的Role Play方向，从当红炸子鸡到鲜有人问津，感觉还是挺让人唏嘘的。一、Role Play为什么火了？Role play这个方向，我觉着是很少见的“算法想做”，而不是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444622&amp;idx=2&amp;sn=529bcc02f0b20c03a5de3d5dba937aad&amp;chksm=bf4a0ac1be699d65855a8788856c5f22f27ba0c53d520619f5ee64c7b98b0d15b153ff0a844a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Sep 2024 03:15:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[人人都能看懂的DPO数学原理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMauSv71fMibEbQPAyHjlr5VrZOtgqP2xbI6yyKb9wCUXS3GHfiachwQ8x10Lk0ibXmvic3JAjmxb08Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、DPO在做一件什么事在文章的开始，我们来思考一个问题：如果想让你训练一个能听得懂人类问题，并给出人类满意答案的模型，你会怎么设计大致的训练步骤？一口吃成一个大胖子是困难的，所以不如让我们循序渐进地</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444622&amp;idx=3&amp;sn=e6de5484112e9031d3eabbb83be318ad&amp;chksm=bf24ef16cea868e8a40ed4a12b999e4ad28be6561e5d900a29789b8f9b63da8bd427ffb27ecd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Sep 2024 03:15:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何获取高质量数据进行代码指令调优？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lt6E6ibAicB8HVEXcezcs1lkOEYVhvE4rial4oicWYDHuDLgzFHufL8hhrmxRYyytng0JLPFgPc1vaSw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，之前很多研究都是生成、发现、过滤高质量的通用指令微调数据，而大家对代码任务的越发关注，如何构建更好的代码指令调整数据也越发重要。下面给大家带来一篇筛选高质量代码指令微调数据的文章，主要基于指令</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444622&amp;idx=4&amp;sn=2921e15e339cbc0e3e39eee177ec7710&amp;chksm=bfab6100c9066ad8135a23efae1320fa8d0c69e96620a65f048d365ed7404f48255ed6235b1e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Sep 2024 03:15:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【NLP】基于“检测器-纠错器”中文文本纠错框架]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGCCykTcw1s6vQN2ED3MFI4JVCTCWpNnwOue4eem7NgcpX2cStBcJjxKzr9ibQ0U5pl8qyZ0m37PuAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言许多方法将中文拼写纠正（检测和纠正给定中文句子中的错误字符）视为序列标注任务，并在句子对上进行微调。一些方法使用错误检测器作为初步任务，然后将检测结果用于辅助后续的错误纠正过程。然而，现有方法在使</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444622&amp;idx=5&amp;sn=f28b651bd18cbd80f09d68251c7a3287&amp;chksm=bf50bbbe0ca1c9712b60ee3f3f23596ba50aa1a5ce44b7e341724b2e60f2bad414f90af782f4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Sep 2024 03:15:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[关于GPT5训练失败的思考]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLHaMd90poEXobiazptWXG6vjiardW6SVJp5q2CbSv3UXJCruiaNiaDnF1pA6jgF60uWg10D0ZNQibSP6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：姚广https://zhuanlan.zhihu.com/p/7185135701. 大模型：AI仍是硅谷的热门话题，但不如去年狂热硅谷对AI的关注依然持续，但热度有所降低，主要原因是大模型扩展</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444613&amp;idx=1&amp;sn=017770e17ba81abd5e826a84938f6635&amp;chksm=bf2ee6a2a0cddbc482bc1986afe569bb73b4509b513fb368f562b2c1f137f8f102a0db0b3333&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 07:50:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年大模型Alignment偏好优化技术PPO,DPO, SimPO,KTO,Step-DPO, MCTS-DPO,SPO]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLHaMd90poEXobiazptWXG6vNmpaXnNFPACmwmHkrOiaQpPChjpNLMKHeibXqQMUb3McQLaiczryn5rrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：是念链接：https://zhuanlan.zhihu.com/p/710021282今年做过一段时间的alignment工作，做得有点不开心，各种social的原因，觉得自己的发挥受到了限制，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444613&amp;idx=2&amp;sn=6313b631abea7108131c5044146859b9&amp;chksm=bfc7df3f6ebf7def15ccf1219b690896ead11053d1e20c00c127495dc212efeaefd0cf12415b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 07:50:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[快手海外商业化广告算法工程师]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLHaMd90poEXobiazptWXG6vD8mR7NuRoAZctVl9atL8hlgIdJvqajrCq57xARjkCxb6NtlJIic1foA/300?wxtype=jpeg&amp;wxfrom=0"/><p>快手海外商业化广告算法工程师岗位职责：【流量策略方向】：信息流、激励、联盟的策略迭代和更新，混排机制探索，保证用户体验的同时最大化平台商业化价值。【出价策略广告】：解决客户在广告投放中的痛点，降低广告</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444613&amp;idx=3&amp;sn=e51abc84a5524ef37ef0d218f735360f&amp;chksm=bff2c95518d36cdd776687eab23de34182902e875a58f21c4b4439e98df2ed447a2c7e470b92&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 07:50:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM模型幻觉】LLMs-模型幻觉-哈工大LLM幻觉综述-v4.0]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdD5NMibf8YiaAuBlh1xnpxgUGoaYQplhTQjic0u9PxRgxkV4XibYBkdT91X0GoVibMjlic9aYEclzpiciaMZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM模型幻觉第三篇，分享哈工大LLM幻觉综述：A Survey on Hallucination in Large Language Models：Principles, Taxon</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444613&amp;idx=4&amp;sn=998b4ce4c9b2463a325c208f9e74bd97&amp;chksm=bf0f196a470cd80672ae8162c62699f807aa6065a66d8f8320a524026c15561f5a944ee7c8e0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 07:50:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[五分钟内白板解释所有机器学习模型：机器学习模型类型的基础知识]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>五分钟内白板解释所有机器学习模型：机器学习模型类型的基础知识</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444613&amp;idx=5&amp;sn=fabdbce84b0a0e9f7951ee5528842987&amp;chksm=bf510d0e4eaf9e834b8d4dabeb4bd60a02adb7a9da2ad2070e8e3622488bc83614802b983cec&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 07:50:21 +0000</pubdate>
       
 
     </item>
