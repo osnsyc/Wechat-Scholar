@@ -30,24 +30,55 @@
 
 
 
-
-
-
-
-
-
-
     <item>
-      <title><![CDATA[Qwen2.5-Math 技术报告详细解读]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPX54Jz0iabk2ToiaJYJtYBgQV1ITFkS21dEjzDKwH9wSlibk94mfqqJWRWJHmdLRU3oxBiaShgEKsDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Xode链接：https://zhuanlan.zhihu.com/p/7210152041. 标题中的方法论2. Pre-training——数据工程2.1.1 Qwen Math Corpu</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530485&amp;idx=1&amp;sn=1b5a648c57b6181181ba3c6c9ce4a47b&amp;chksm=eab91c693775e2486a90fb6e3dd9b1f83ad0b4594d8be88d376af35f1b35f02cab8a11ec8ac4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 20 Sep 2024 06:03:38 +0000</pubdate>
+      <title><![CDATA[Qwen2.5-Coder 技术报告详细解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwQXgkHcIl2ahNBlWpjv7vvGzAKITaeFThPH3MjfAmMauLO88hRg64LQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Xode链接：https://zhuanlan.zhihu.com/p/7211894990. 前文1. 模型架构2. Tokenizer3. 预训练3.1 数据3.2 训练4. Post-Tr</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=1&amp;sn=967e83e3574f95dd559aef454771cb21&amp;chksm=eafbe7f4bae53799d4ee4e3217433bfb64c2ea13f0f444a8b90340678520c3840ad5bdf41e78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[tokenizer简述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPX54Jz0iabk2ToiaJYJtYBgLUPZmsI8XX5BbrPA36AYuUs7cU4Eeo5eIZfibhPXic3yknCwTIEbxxaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：难赋链接：https://zhuanlan.zhihu.com/p/721054525简述为了方便计算机处理文本，我们常把文本转化为数值的形式。具体操作是把文本分割成有意义的片段，再把这些片段映</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530485&amp;idx=2&amp;sn=3f1e3ded01a1e7d2bc53f3dc3317aa79&amp;chksm=eaac303b4ba3701cc296d7854cf808c19adfc17b10fc73fdd955647177e2be334b5f2d7ecdf1&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[实现一个简洁的代码模型评测框架（以Qwen2.5-coder 评测Humaneval为例）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwU1iaq0PWaZ3klqFFTra39oz50g85Siceo4eR5a3RbxrQeZ5Yu9UXE1OA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：KaiH链接：https://zhuanlan.zhihu.com/p/721218072代码大模型在评测时主要用到的指标就是了，特别是在测试集上。各个模型在其发布时也都给出了指标，使用的一些开</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=2&amp;sn=6c93f53effa9a32c5ed744165d142ce9&amp;chksm=ea60755279a19ec3a0cf8184823ee6a53610a4c43ceb376469cb212f83730fd1d0c14da7acef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[CGE：基于Causal LLM的Code Embedding模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwhXE9fpXdtNgxQyNn5q3icic8OEwrrStqTJHyLribdXwPtyNYc0Q91QKaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CodeFuse近日，CodeFuse-CGE 项目在外滩大会展出，吸引了众多技术、产品从业者的到访，部分参观者表示“文搜代码”令人耳目一新，期待模型后续的表现。以下是 CodeFuse-CGE</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=3&amp;sn=6006a5da9654ae547c68fcf756445f61&amp;chksm=ea705b2a1c5626974276e3c6fd8ecf69c204c43bf7804ae650c84e0eee41aaa5ce30b6b2b61c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Qwen2.5-Math 技术报告详细解读]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPX54Jz0iabk2ToiaJYJtYBgQV1ITFkS21dEjzDKwH9wSlibk94mfqqJWRWJHmdLRU3oxBiaShgEKsDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Xode链接：https://zhuanlan.zhihu.com/p/7210152041. 标题中的方法论2. Pre-training——数据工程2.1.1 Qwen Math Corpu</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530485&amp;idx=1&amp;sn=1b5a648c57b6181181ba3c6c9ce4a47b&amp;chksm=eab91c693775e2486a90fb6e3dd9b1f83ad0b4594d8be88d376af35f1b35f02cab8a11ec8ac4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 20 Sep 2024 06:03:38 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[tokenizer简述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPX54Jz0iabk2ToiaJYJtYBgLUPZmsI8XX5BbrPA36AYuUs7cU4Eeo5eIZfibhPXic3yknCwTIEbxxaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：难赋链接：https://zhuanlan.zhihu.com/p/721054525简述为了方便计算机处理文本，我们常把文本转化为数值的形式。具体操作是把文本分割成有意义的片段，再把这些片段映</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530485&amp;idx=2&amp;sn=3f1e3ded01a1e7d2bc53f3dc3317aa79&amp;chksm=eaac303b4ba3701cc296d7854cf808c19adfc17b10fc73fdd955647177e2be334b5f2d7ecdf1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 20 Sep 2024 06:03:38 +0000</pubdate>
+      
+
     </item>
     <item>
       
