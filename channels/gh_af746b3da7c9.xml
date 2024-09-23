@@ -30,23 +30,68 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[山寨版 OpenAI o1 实验记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsWnHWxcY5ia8Uk8ODSUxJF2kQY0RAonklkyrJ8GFPsFrMRZRMzw5eNWql2t8VvCvK1bTNf6h4zVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：季逸超链接：https://zhuanlan.zhihu.com/p/721272352纠结了一下还是决定把中秋假期捣鼓的山寨版 o1 模型开源出来。受限于数据和算力，该模型还只是个玩具，离 O</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530738&amp;idx=1&amp;sn=cbf91185c68aa5759303ea74dad41c79&amp;chksm=eae2b428c84eac7c5a5b491bdc90aaba0454165153ab665e185b6f1310934945a7f6b4977f53&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 22 Sep 2024 13:33:23 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[开源大模型技术路线及趋势]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsWnHWxcY5ia8Uk8ODSUxJFr3aw69DlbbBDqAoibPGrIVkbjgKESNnP621vCYLstHYoE4kibrDjtAfA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：晴天链接：https://zhuanlan.zhihu.com/p/7212723521. 三个维度大模型研发力量学术机构大模型创业公司科技大厂旗舰开源模型的形态/模态基础大模型 -> inst</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530738&amp;idx=2&amp;sn=c7e4f95bbf7856245b3bb93f922c4ac5&amp;chksm=ea84c4b404d0d610e8e2da601df1af69ce040c3dda261af1a83a52878259bdec348d96e5deab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 22 Sep 2024 13:33:23 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Qwen2.5-Coder 技术报告详细解读]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwQXgkHcIl2ahNBlWpjv7vvGzAKITaeFThPH3MjfAmMauLO88hRg64LQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Xode链接：https://zhuanlan.zhihu.com/p/7211894990. 前文1. 模型架构2. Tokenizer3. 预训练3.1 数据3.2 训练4. Post-Tr</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=1&amp;sn=967e83e3574f95dd559aef454771cb21&amp;chksm=eafbe7f4bae53799d4ee4e3217433bfb64c2ea13f0f444a8b90340678520c3840ad5bdf41e78&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[实现一个简洁的代码模型评测框架（以Qwen2.5-coder 评测Humaneval为例）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwU1iaq0PWaZ3klqFFTra39oz50g85Siceo4eR5a3RbxrQeZ5Yu9UXE1OA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：KaiH链接：https://zhuanlan.zhihu.com/p/721218072代码大模型在评测时主要用到的指标就是了，特别是在测试集上。各个模型在其发布时也都给出了指标，使用的一些开</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=2&amp;sn=6c93f53effa9a32c5ed744165d142ce9&amp;chksm=ea60755279a19ec3a0cf8184823ee6a53610a4c43ceb376469cb212f83730fd1d0c14da7acef&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[CGE：基于Causal LLM的Code Embedding模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwhXE9fpXdtNgxQyNn5q3icic8OEwrrStqTJHyLribdXwPtyNYc0Q91QKaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CodeFuse近日，CodeFuse-CGE 项目在外滩大会展出，吸引了众多技术、产品从业者的到访，部分参观者表示“文搜代码”令人耳目一新，期待模型后续的表现。以下是 CodeFuse-CGE</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=3&amp;sn=6006a5da9654ae547c68fcf756445f61&amp;chksm=ea705b2a1c5626974276e3c6fd8ecf69c204c43bf7804ae650c84e0eee41aaa5ce30b6b2b61c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
+      
+
     </item>
     <item>
       
