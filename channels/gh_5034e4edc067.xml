@@ -42,35 +42,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[Grok-2王者归来，大模型杀疯了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJur6CkhicqwkfO4vs3f6xVendyQOzSicwFVLe2JgGru8ciauO8fnQVa3oo6vPVYP02yibwqgCRe2eHLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，马斯克的人工智能初创公司xAI发布了他们最新、最出色的人工智能模型Grok 2。Grok 2是一个大型语言模型，根据行业基准，它是目前市场上最好的语言模型之一，这也被证明是马斯克迄今为止最成功的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444841&amp;idx=1&amp;sn=ce647cfe1c64e4eb4cc0d24cf10be7a3&amp;chksm=bfa611054c09eeb83e6860757befe04878685432137a692f33520ee74be11b8358bc315189d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 23 Sep 2024 02:09:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[蹭蹭o1的热度，再聊一聊AGI的远方]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuyRNUPLHIWbJibZZJyCibiaZCiaibbEEiceiaKatcAiamOQFHib3tWdkQEqibhCQc4ibI5Rb4IbfXkmCbtAJklTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者: mackler链接: https://zhuanlan.zhihu.com/p/720282169OpenAI沉寂了大半年，炒作了一波又一波 ，终于o1出来了。网上分析或者吹嘘的一大堆，这些就</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444841&amp;idx=2&amp;sn=c698edc010f661fbb636b0987fb77987&amp;chksm=bf1be9c800139b6ad4c02b16f05ca4d8493375fa868e56ebff4bd5b4bce13cb965351fece9d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 23 Sep 2024 02:09:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[2种实用主义微调数据筛选方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvJNjwBib3Dib5qVnKV24uU4b6ON51mQAsmeZZCFsZf4QYqoEicJfx1ou5Z2E9FdvOSJxvibiaxZ5OlRfgg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前面我们介绍了基于Influence formulation理论的数据筛选方法，虽然该方法直接通过梯度去衡量数据的特性更接近本质。但在实际使用中会因为优化器依赖、存储压力、相似度计算效率 等问题的影响</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444841&amp;idx=3&amp;sn=d9212e0e996e02c5990298a04f3bd315&amp;chksm=bf77bb8b1ea2ed7fc766ae7bbe6087ffe1112bb7eff8bcb44ffd77889fcff603c70996158855&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 23 Sep 2024 02:09:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型推理服务调度优化技术-Continuous batching]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/J0mLianhFicBGPZVAB98vSoF9ib8LRLA8icibDo8BFnt9XCksHfdDeuyynnS2vGQDicm8tMpmRb0Dvjv4YJC6jGic5iaicA/300?wxtype=jpeg&amp;wxfrom=0"/><p>由于类 GPT 的仅编码器模型推理分为预填充和解码两个阶段。在解码阶段一次推理只输出一个token，输出的 token 会与输入 tokens 拼接在一起，然后作为下一次推理的输入，这样不断反复直到遇</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444841&amp;idx=4&amp;sn=254ae582c84ba6dad647346149efd3dc&amp;chksm=bf7e9dadb99c42fe30c7000d6a05f61957f7f91af51bff43e8b2bb2fff25e0acb4660a10e879&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 23 Sep 2024 02:09:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[如何实现大模型Speech2Speech Dialogue？(一)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vImdeGStOOfaqbEoVPibgsjydMIEs4iaEOfwM6ay2ygDWGWjy0B8eAmZOd9eaM59sHfu199Mk4Q6oeV77sHTdWZA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文对端到端语音技术进行一些调研,主要涉及到的paper是SpeechGPT和CosyVoice。总的来说，SpeechGPT提出了语音到语音的算法框架，包含语音离散化/大模型/声码器三个部分。Cos</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444841&amp;idx=5&amp;sn=32730193f22ce448371a54d93fdbda7f&amp;chksm=bf8f3ec86b67142cef7c4389d4411a1843f52d8d20ae0b870a03ac42bee578339adff917d268&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 23 Sep 2024 02:09:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[突发！高通拟全盘收购英特尔]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJumnB2JgjNtvjToFibw53cw9rtmwFbfR3sBuzku9FktrqnsTe0FQ6R2g53CWFVKnPGEwY6jOcQQCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>转自 | 机器之心我们可能会见证一场世纪收购。Arm 与 X86 的战争会以这种方式终结？本周五，据《华尔街日报》援引知情人士的话称，高通已对芯片巨头英特尔提出了收购要约。此次收购若能成功，以手机芯片</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444823&amp;idx=1&amp;sn=4368a4ffad71024521c3400089592947&amp;chksm=bf8929f0b5eb30b770075b59b70a6e720ea941692e47cc9aff5928f066f06ec1a5cfb2670ee8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 21 Sep 2024 07:38:04 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Blurr AI 招聘 AI Agent研发实习生 - LLM算法方向 &amp; RAG方向]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJumnB2JgjNtvjToFibw53cwFmNoE6bvoGibOoSDfEFxsX652YDreEK6x9Je1PCWHFKniavg6zYHudPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>职位名称：AI Agent研发实习生-LLM算法方向招聘企业：Blurr AI（北京三垣瀚智科技有限公司），清华计算机系大咖创立的人工智能新锐科技企业，基于 AI 大语言模型，为全球企业提供面向销售场</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444823&amp;idx=2&amp;sn=b6697d6a723ec1a2cb0dcfb50908936d&amp;chksm=bf60c7dee4b450ac8807bfb91f7b4f9177c076a58787e53dc25ee4eac23182d2cc0891ac4508&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 21 Sep 2024 07:38:04 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[如何提升角色扮演大模型的拟人能力？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kTqXcq87icj0C7qkwpxElsc6icx8UAHWKoBjAJ3IJbSCRTJVom7HTWXwJiag8qOaJGE662aMf2QmFrQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇好友知乎@快乐子涵酱 对于角色扮演大模型提升拟人能力的方案介绍。知乎: https://zhuanlan.zhihu.com/p/719772276在这里我们先提出一个问题：在没有大</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444823&amp;idx=3&amp;sn=df3917f8ee54a33d486129036f51f71d&amp;chksm=bfe0a4f0bd99666c281ee51472a5f321ddd8ea875eab62594cf0db56a7c5a9c45eeec1cfe1cf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 21 Sep 2024 07:38:04 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Qwen2.5-Math 技术报告详细解读]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPX54Jz0iabk2ToiaJYJtYBgQV1ITFkS21dEjzDKwH9wSlibk94mfqqJWRWJHmdLRU3oxBiaShgEKsDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Xode链接：https://zhuanlan.zhihu.com/p/7210152041. 标题中的方法论2. Pre-training——数据工程2.1.1 Qwen Math Corpu</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444823&amp;idx=4&amp;sn=639f737c44e87e876d12a07bc0f14cb6&amp;chksm=bf844fa15d89aa513126b6e87f661a1f8b110759f4c4d0e0f5fa5ef11ac32570f765a6209b4d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 21 Sep 2024 07:38:04 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[什么是AI Agents？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJumnB2JgjNtvjToFibw53cw0EnJ1FJxhgxtJFQUSnzffvhSwpXRHricdLM0rYeqZ5dLCGYVSIckZOg/300?wxtype=jpeg&amp;wxfrom=0"/><p>进技术交流群请添加AINLP小助手微信（id: ainlp2)请备注具体方向+所用到的相关技术点关于AINLPAINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444823&amp;idx=5&amp;sn=7d762d4b9a99b1a3eb88d2210d20e3c0&amp;chksm=bf9a8d0cf595ce1f5e476e93c5805536a792290d5ba1b8afc943131be4d15d7881c96b36d939&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 21 Sep 2024 07:38:04 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -392,86 +477,6 @@ Qwen2.5-Coder: 1.5B, 7B, and 32B on th</p> ]]></description>
       
 
       <pubdate>Mon, 16 Sep 2024 12:39:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[张俊林：OpenAI o1的价值及意义]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJBuBmuqzFkmbPElsicmgSdboVibmrF1NMvlOo4amStibhTaL1ST0yAoeu0iaVeqR8pCocZOysmaQpGkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：张俊林链接：https://zhuanlan.zhihu.com/p/720078255一.OpenAI o1是大模型的巨大进步1.1 我觉得OpenAI o1是自GPT 4发布以来，基座大模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444702&amp;idx=1&amp;sn=fabcada96e362b0d163e451616b04cc0&amp;chksm=bf74352c44fabcc2c0808ac87a50355c00790a9e665c58252c125bb172e62ebdda69cfecf137&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Sep 2024 07:41:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[“博士级”模型GPT-o1折戟中学数学“陷阱”问题，准确率仅为24.3%]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Y5AJB71iahGar0IDQTgMCrLsa3EJWT9ghdxibLg56F3Ev86Io1ibreXE9qY1tj75rfRbQh5NRo7WOLumianic1iaUrBw/300?wxtype=jpeg&amp;wxfrom=0"/><p>北京时间9月13日凌晨，OpenAI正式推出最新模型GPT-o1，一时间引发学界与工业界的广泛讨论，相较于先前版本GPT-4o，新模型在各大评测指标上显著提升，号称已达"博士级"智能水平。图一：最新发</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444702&amp;idx=2&amp;sn=95e2ee55fdac34e46870f537b9d78360&amp;chksm=bf360a60aa6689281ac12583bc84462899d7fb81294787da40ddec013f0e69a8e4418275dc4d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Sep 2024 07:41:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI官方视频展示用o1解决编程和逻辑谜题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJBuBmuqzFkmbPElsicmgSdbN9DbR4OiauHpHZulGBUUIYzIIJTxV0OjIoMsMM1pJjxIYffsrhvFIng/300?wxtype=jpeg&amp;wxfrom=0"/><p>进技术交流群请添加AINLP小助手微信（id: ainlp2)请备注具体方向+所用到的相关技术点关于AINLPAINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444702&amp;idx=3&amp;sn=a81031fc0d1fa459064da03b67603017&amp;chksm=bfc757c965f5d87376d698e5f178765072f697bbf859da83cb7b1c1e5b2e93d20bdb04b2ba93&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Sep 2024 07:41:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CV入门--关于Vision Transformer]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW464du2TGe75D7ML7ibOyPb6M3b9Pp1gkdRTiaCRFRsfHcyNUGBXhiaibDu38S20nkiar50NG2Kq7Z9ibcialw/300?wxtype=jpeg&amp;wxfrom=0"/><p>CV入门--关于Vision TransformerTransformer在自然语言的应用很成功，而在CV领域的崛起相对来说就比较慢，毕竟Transformer最初是为自然语言设计的。图片相比自然语言</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444702&amp;idx=4&amp;sn=47af0ed6bce6eb1691c55219f0946c2d&amp;chksm=bf3e0dde99bb2cca7586b66f3feef3efd74f85b2a1c43dfc7986b724142b345979da7fdd1fab&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Sep 2024 07:41:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DoubleEnsemble，基于学习轨迹的样本权重方法+基于shuffling的特征筛选方法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QLDSy3Cx3YKw0WmkDlBHIJX2lkTa8C73mrW0cuIVEURAgcG0ibuSqQxLczQhZ8EibX2MOBpTjKxiaE0kBOgjry2YQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>DoubleEnsemble: A New Ensemble Method Based on Sample Reweighting and Feature Selection for Financia</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444702&amp;idx=5&amp;sn=e4ee7dd43bf11f068cb2cdbcb0c7e1c5&amp;chksm=bfd89c36997cef61a9c9802d4a187b12997a27b32514d29f870b9f5245851987874073046bb1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Sep 2024 07:41:03 +0000</pubdate>
       
 
     </item>
