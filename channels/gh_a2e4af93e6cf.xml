@@ -74,52 +74,180 @@
 
 
     <item>
-      <title><![CDATA[大模型如何多模态偏好对齐？最新《基于人类反馈的语言、语音和视觉任务偏好优化》综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0Ma7wHTTRAwica2icicRxpN2n3LP5c1kWMzUjpfmpVzolrlWGY5saUia6icw/640?wxtype=jpeg&amp;wxfrom=0"/><p>偏好调整是将深度生成模型与人类偏好对齐的关键过程。本文对偏好调整及其与人类反馈的整合的最新进展进行了全面综述。文章分为三个主要部分：介绍和预备知识：介绍强化学习框架、偏好调整任务、模型和跨不同模态（语</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=1&amp;sn=48ce8e3f4242978fbb5fad5d6f1a50f6&amp;chksm=fda9fe440240c7b2366db5084c2bfb2a436e5817a9a3e47237bc9542e8949f4c769977ffe178&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[分布外OOD检测的最新进展：问题与方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2bibHYVlNxVAskZKAm822Ic9rZWSZDMQ0V0YDjY3w9QrnibXvt0S3z79Ihjxcyz1QO9EVdlXrwa9Yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>分布外检测（Out-of-distribution，OOD）旨在检测超出训练类别空间的测试样本，这是构建可靠机器学习系统的重要组成部分。现有的关于OOD检测的综述主要聚焦于方法分类，通过对各种方法进行</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658250&amp;idx=1&amp;sn=d76292cbb0d252fa589083bb655b1250&amp;chksm=fda49ba88af930f46474ea9e3e97b4532fb8aa91416ec4012a7f69381446d2a2a39478d12843&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Sep 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【斯坦福博士论文】数据高效的强化学习：在复杂环境中决定学习什么]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St05tY1N2WgS3MYDYgHPTzqVUdiceiaQfhN7rtibwyEOmUe7eaRmxafEXkVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习是机器学习中专注于序列决策问题的范式。与机器学习和统计学的许多其他领域一样，数据效率常常是一个主要关注点；即，一个序列决策的智能体需要多少试验与错误的交互数据才能学习到所需的行为？数据效率低下</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=2&amp;sn=0f705d5f2f100450a2d40d75cbcfb183&amp;chksm=fde9c07be8a84b3cf04759cded553729dec7dac2c340e6a72d6cc4b19860dcd91d3b3ca377a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】AI驱动的开发者：使用ChatGPT和Copilot构建出色的软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2bibHYVlNxVAskZKAm822Ic3v4KVIrIou77SQ5MIBmNRvNRs5OZKp5JWSNDtLbUACL63ubRFkv3IQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>使用突破性的生成式AI工具提高你的生产力、效率和代码质量。像ChatGPT和GitHub Copilot这样的AI编程工具正在改变我们编写代码和构建软件的方式。《AI驱动的开发者》揭示了使用AI实现可</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658250&amp;idx=2&amp;sn=9c261b8ac619dbef35ceb2c351edfa61&amp;chksm=fde69b2547da5f2a4708c416fb72fde550aab14ef7de0ae3758425ce1df0cafe89299ac1d56c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Sep 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】《变分法导论（第四版）》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0yic0r1FwkZ71VZ7fjEXRUNs7I2CVUw9WQia607LUDM2D8svpOiaKicjiceA/300?wxtype=jpeg&amp;wxfrom=0"/><p>变分法是数学中最古老的学科之一，如今它依然充满活力，并在不断发展。除了其在数学中的重要性及其与几何学、微分方程等其他数学分支的联系之外，变分法还广泛应用于物理学、工程学、经济学和生物学。本书既是对现有</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=3&amp;sn=9ccee3e66b888d252bfc3ea203cb4f6e&amp;chksm=fd41e07fdf4a1d582183cd2adc906ea4a2b9b4dddda6d6e42543fabba261d903486b42132150&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[军事目标定位算法中的黑盒性：需要重新确定人工智能可解释性的优先顺序]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS2zWQ4Pf6CaF82licrZibhEN0aJcnTOD4ibAp6nShjGrXP2ZgYiaIFYtZAxpVJul0uARkTSSE1WFe5oQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>世界各国都在竞相利用人工智能（AI）的快速发展为自己的军事优势服务。在未来几十年中，基于人工智能的系统预计将彻底改变后勤工作，极大地改变瞄准过程，并为日益复杂和致命的自主武器系统提供动力。加沙和乌克兰</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658250&amp;idx=3&amp;sn=c8efa70a721dd995791d5322f5b3cfd1&amp;chksm=fd788751b942d5c1088be111fe05071f88ee198cba8674814691daec61746ca52c9377aec993&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Sep 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[人工智能决策支持系统：变革军事指挥与控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRJDnLWCsgeDZkF8o4EOVlDk0GKwy9hM1CMZ6b9ttQ1TMlC4tPia1TQeXicBTNbZXdE62mUVxm5Vyfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在复杂多变的现代战争环境中，军事指挥官面临着铺天盖地的海量信息。要在巨大压力下做出关键决策，就必须具备快速处理和分析来自不同来源的大量数据的能力。传统的决策过程往往依赖于人类的直觉和经验，容易受到认知</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=4&amp;sn=c92e3e1e28b2ab7cedf7ce9bfa9cefcf&amp;chksm=fdaa3ef382febbad8861a39c1a2318a3911ecc09c2a172a1c20127daddb90f5678a8cf9d3edd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[【伯克利博士论文】以人为中心的奖励设计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2bibHYVlNxVAskZKAm822IcCAblySPNGfaYsWPdPlguYsozicTy86F4ic8TicZzl1nE8YJZ7kgl6mJ8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们如何引导人工智能体表现出我们期望的行为？引导智能系统行为的一种方式是通过奖励设计。通过指定要优化的奖励函数，我们可以利用强化学习（Reinforcement Learning, RL）使智能体从自</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658250&amp;idx=4&amp;sn=b53d460eed944718df02db97435b3f13&amp;chksm=fdf5faa73591eaa38f2b0bbcfb8781d2b0d3c6fc3cbcd847745acb00c85835ae2c55c56a6283&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Sep 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[人形机器人：黎明破晓，AI归宿]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0FQd5LzyLfQdc5NYxECvngdWN8FrrH9f7nKJH5wKhvNDJ9OrwdZsRNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>人形机器人：行则将至，量产可期。人形机器人是AI技术落地物理世界的优质载体，近两年通用大模型的发展赋予人形机器人强大的泛化能力，产业进入商业化落地的初级阶段，特斯拉、OpenAI、英伟达、三星等科技巨</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=5&amp;sn=7fbe6ed2087fcafe95315da7f506fa4e&amp;chksm=fdad0e03e0d0b4f5af536036b97687e69355f566964cf525c13cba03a1b008fc9a25580a5254&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[大语言模型的知识冲突：成因、根源与展望]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2bibHYVlNxVAskZKAm822IcwUicpqsj7K6hPYta7NbaiaSWormYfJ6lfUzDxwhCmAuHq1JYrFibdGHfQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>文/李兴明，胡庆拥摘 要：大语言模型在实际应用场景中经常面临知识冲突的问题，主要包括上下文 - 记忆知识冲突、多源上下文知识冲突和记忆内知识冲突。本文首先从训练数据的局限性、模型问题，以及外部信息缺陷</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658250&amp;idx=5&amp;sn=66d16f1aae34882a45d40c0eb82cf68e&amp;chksm=fd1f95ed93122856cae1c193ad8b0c41d0cee45083358b6a145acc34c710f05d5aefa02b8eb5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Sep 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[实值无标签图文跨模态检索研究综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0fVH0KUFjiasXhxKjSJm4btiaCvpjiaUK3XnTuwKujGqQrVNsEpUibqwWXA/300?wxtype=jpeg&amp;wxfrom=0"/><p>为研究面向无标签数据集基于实值特征的图像文本跨模态检索（以下简称跨模态检索）方法的发展现状和亟待解决的关键问题,对目前该领域的文献进行了分析与总结。跨模态检索是根据给定的一种模态查询,从另一种模态中检</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=6&amp;sn=cba348211342fbfe9c97de7ba9873419&amp;chksm=fde86927e2357481b9dd6c76e58e4d18c898e2446a9dd9101587c732d71fe13b1b1cfe350f9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[博士论文 | CMU 2024 | 用于特定目标药物设计的深度生成方法 170页]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2bibHYVlNxVAskZKAm822IcSmPYT7heWbX4wxt0I8cJ2ibte6s0K0ibicECgxJyBPyRpVjU6icTPm6C5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载： 图科学实验室Graph Science Lab 通过根据目标受体的特性直接生成潜在的结合化合物，可以有效缩短早期药物设计阶段。传统上，药物设计很大程度上依赖于高通量筛选（HTS），它缺乏选择要</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658250&amp;idx=6&amp;sn=a3f7341911b4cf7d63917a89536da929&amp;chksm=fd984544355b22c556acb531b393351981eab955a2366cba196e74749922f6fdd298c384b8a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Sep 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《智能任务规划的人类-自主性编队的透明度和操作员性能（TOPHAT）的关键属性》113页]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0ib9WyFD2dBiam9yTBEsUMSSC7RSicapsqbA1rxOLp6l23NWiaib2NbrARKQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能推荐决策是一种人类-自主团队合作形式，其中人工智能推荐系统向人类操作员推荐解决方案，而人类操作员则负责最终决策。本文旨在通过支持人类决策者的认知判断过程，增强能力。本文建议通过向决策者提供相关</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=7&amp;sn=7d3d9e0b7df6d9fca12fbdb83115a467&amp;chksm=fd06712690323ed783021a1453cbd3c41033442ea004522121e6ac7527885865265d949766f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[混合专家模型在大模型微调领域进展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AYxz3cIHvyrtpd33TSkto7x7tBzvKAaPJTE7ibMPCfpNJ3Of8IMSehSYS7FqAHl63X4hutdoFbGtXdsUS8CmBMg/300?wxtype=jpeg&amp;wxfrom=0"/><p>混合专家模型在大模型微调领域进展前言：随着大规模语言模型（LLM）的快速发展，人工智能在自然语言处理领域取得了巨大的进步。在将大模型转化为实际生产力时，不免需要针对实际的任务对大模型进行微调。然而，随</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658250&amp;idx=7&amp;sn=b4621750c8eacc6f258440bb9f2447ee&amp;chksm=fd7b587a77a846fd7364005fe0d006e522814c6d770bb30ea1ee44782603ffdbf5dced47bb10&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Sep 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=8&amp;sn=159a04651b29a8de63be739c2c5d135d&amp;chksm=fd00168f5e7ff5a625700b8b3a278472170c46ffe26e1104259c57906964d77cad76600fe2ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658250&amp;idx=8&amp;sn=ce348ddb88506a29aa249c90aa307530&amp;chksm=fd486c88770c7d946b64d29d0f192d78d2e1beee4369e4e2dfcd8ad2b53dda080ebf34a56a0b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Sep 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大模型如何多模态偏好对齐？最新《基于人类反馈的语言、语音和视觉任务偏好优化》综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0Ma7wHTTRAwica2icicRxpN2n3LP5c1kWMzUjpfmpVzolrlWGY5saUia6icw/640?wxtype=jpeg&amp;wxfrom=0"/><p>偏好调整是将深度生成模型与人类偏好对齐的关键过程。本文对偏好调整及其与人类反馈的整合的最新进展进行了全面综述。文章分为三个主要部分：介绍和预备知识：介绍强化学习框架、偏好调整任务、模型和跨不同模态（语</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=1&amp;sn=48ce8e3f4242978fbb5fad5d6f1a50f6&amp;chksm=fda9fe440240c7b2366db5084c2bfb2a436e5817a9a3e47237bc9542e8949f4c769977ffe178&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【斯坦福博士论文】数据高效的强化学习：在复杂环境中决定学习什么]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St05tY1N2WgS3MYDYgHPTzqVUdiceiaQfhN7rtibwyEOmUe7eaRmxafEXkVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习是机器学习中专注于序列决策问题的范式。与机器学习和统计学的许多其他领域一样，数据效率常常是一个主要关注点；即，一个序列决策的智能体需要多少试验与错误的交互数据才能学习到所需的行为？数据效率低下</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=2&amp;sn=0f705d5f2f100450a2d40d75cbcfb183&amp;chksm=fde9c07be8a84b3cf04759cded553729dec7dac2c340e6a72d6cc4b19860dcd91d3b3ca377a9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】《变分法导论（第四版）》]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0yic0r1FwkZ71VZ7fjEXRUNs7I2CVUw9WQia607LUDM2D8svpOiaKicjiceA/300?wxtype=jpeg&amp;wxfrom=0"/><p>变分法是数学中最古老的学科之一，如今它依然充满活力，并在不断发展。除了其在数学中的重要性及其与几何学、微分方程等其他数学分支的联系之外，变分法还广泛应用于物理学、工程学、经济学和生物学。本书既是对现有</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=3&amp;sn=9ccee3e66b888d252bfc3ea203cb4f6e&amp;chksm=fd41e07fdf4a1d582183cd2adc906ea4a2b9b4dddda6d6e42543fabba261d903486b42132150&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[人工智能决策支持系统：变革军事指挥与控制]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRJDnLWCsgeDZkF8o4EOVlDk0GKwy9hM1CMZ6b9ttQ1TMlC4tPia1TQeXicBTNbZXdE62mUVxm5Vyfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在复杂多变的现代战争环境中，军事指挥官面临着铺天盖地的海量信息。要在巨大压力下做出关键决策，就必须具备快速处理和分析来自不同来源的大量数据的能力。传统的决策过程往往依赖于人类的直觉和经验，容易受到认知</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=4&amp;sn=c92e3e1e28b2ab7cedf7ce9bfa9cefcf&amp;chksm=fdaa3ef382febbad8861a39c1a2318a3911ecc09c2a172a1c20127daddb90f5678a8cf9d3edd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[人形机器人：黎明破晓，AI归宿]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0FQd5LzyLfQdc5NYxECvngdWN8FrrH9f7nKJH5wKhvNDJ9OrwdZsRNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>人形机器人：行则将至，量产可期。人形机器人是AI技术落地物理世界的优质载体，近两年通用大模型的发展赋予人形机器人强大的泛化能力，产业进入商业化落地的初级阶段，特斯拉、OpenAI、英伟达、三星等科技巨</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=5&amp;sn=7fbe6ed2087fcafe95315da7f506fa4e&amp;chksm=fdad0e03e0d0b4f5af536036b97687e69355f566964cf525c13cba03a1b008fc9a25580a5254&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[实值无标签图文跨模态检索研究综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0fVH0KUFjiasXhxKjSJm4btiaCvpjiaUK3XnTuwKujGqQrVNsEpUibqwWXA/300?wxtype=jpeg&amp;wxfrom=0"/><p>为研究面向无标签数据集基于实值特征的图像文本跨模态检索（以下简称跨模态检索）方法的发展现状和亟待解决的关键问题,对目前该领域的文献进行了分析与总结。跨模态检索是根据给定的一种模态查询,从另一种模态中检</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=6&amp;sn=cba348211342fbfe9c97de7ba9873419&amp;chksm=fde86927e2357481b9dd6c76e58e4d18c898e2446a9dd9101587c732d71fe13b1b1cfe350f9f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《智能任务规划的人类-自主性编队的透明度和操作员性能（TOPHAT）的关键属性》113页]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw14NnVb9t6TdT8cx2mF5St0ib9WyFD2dBiam9yTBEsUMSSC7RSicapsqbA1rxOLp6l23NWiaib2NbrARKQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能推荐决策是一种人类-自主团队合作形式，其中人工智能推荐系统向人类操作员推荐解决方案，而人类操作员则负责最终决策。本文旨在通过支持人类决策者的认知判断过程，增强能力。本文建议通过向决策者提供相关</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=7&amp;sn=7d3d9e0b7df6d9fca12fbdb83115a467&amp;chksm=fd06712690323ed783021a1453cbd3c41033442ea004522121e6ac7527885865265d949766f3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658214&amp;idx=8&amp;sn=159a04651b29a8de63be739c2c5d135d&amp;chksm=fd00168f5e7ff5a625700b8b3a278472170c46ffe26e1104259c57906964d77cad76600fe2ea&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 23 Sep 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -761,134 +889,6 @@
       
 
       <pubdate>Wed, 18 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《多模态情感计算》最新趋势：来自自然语言处理视角的综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw21uicxnhW1iaCGic0cHJCBSAX1I580xklOAiae6ohTRdjonDnZclCOCjAPRVAnYOcvWxFsAfzTc9v9vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要—多模态情感计算（MAC）由于其在人类行为和意图分析中的广泛应用，尤其是在以文本为主导的多模态情感计算领域中，受到了越来越多的关注。本综述从自然语言处理（NLP）视角出发，介绍了多模态情感计算的最</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247657878&amp;idx=1&amp;sn=6b542d8cf95b5100ba9d888142bcd7d0&amp;chksm=fd0431dc73ea1359fd54f7eb7b09ca704b1143c142b26097e154970e2e46528464b3a4193ed7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【博士论文】大语言模型的测试与评价：准确性、无害性和公平性，223页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw21uicxnhW1iaCGic0cHJCBSAXkOJAU82ibk5VJhAibpXVTUVJZXy1fearibKZDH4Qa46cInQnhPdEQ15Mw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs），如ChatGPT，凭借其出色的对话能力和智能性，在过去几年中迅速渗透到人们的工作和日常生活中。ChatGPT已经成为人类历史上用户增长最快的软件，并成为下一代人工智能应用的重</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247657878&amp;idx=2&amp;sn=7eeb99c24e3af4e03d169f56f4d3dc97&amp;chksm=fd398f676cadabfb4b166d1a6f61b9400ed888fb83c83c78271049ad98592a2147faf1e4b9c4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《基于证据推理的空间态势感知预测传感器任务分配和决策支持》200页]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw21uicxnhW1iaCGic0cHJCBSAXZRe6cia6kyXutsm9NuvvNClJ9snldcBq0eJtgtFuxlg2b1aJVletPnQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>态势感知是对环境因素的感知、对其含义的理解以及对其未来状态的预测。空间态势感知（SSA）尤其关注准确呈现空间物体的状态知识，以解决碰撞等潜在威胁。空间监视系统中使用的跟踪技术在很大程度上仍然依赖于 2</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247657878&amp;idx=3&amp;sn=12daab91f411b52cdaf8bfe05fd73e7f&amp;chksm=fdb76c280b5acdd0ade94efe208b84501da9e3f424b33ecf6dccf57d8dbe39284782468081ac&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【新书】构建大型语言模型，370页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw21uicxnhW1iaCGic0cHJCBSAXWg11Rs0cCrhwxEJNCbLxxPXLKiaMLUvVHMyYnic1XVpficpZKfnVbqOMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>学习如何从零开始创建、训练和调整大型语言模型（LLMs）在《从零构建大型语言模型》一书中，畅销书作者塞巴斯蒂安·拉什卡（Sebastian Raschka）将一步步指导你创建自己的LLM。每个阶段都有</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247657878&amp;idx=4&amp;sn=811d5d34ba591659c558db8aa45032f8&amp;chksm=fdc29c95deea6c2a87394de37db4008ec770a38164322473c94d774943b63e6fd38c38044e0e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[复杂推理大模型OpenAI o1亮相，数学与代码能力飞跃]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw21uicxnhW1iaCGic0cHJCBSAXABc8ESqkRadrbwTiavOaSp5yibQBabILZwc1X6UUFsIvGr7pIgLXibYFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>9月13日，OpenAI正式发布并上线o1系列模型o1-preview和o1-mini。　　平安观点：　　OpenAI计数器重置回1，o1系列开启复杂推理序幕。本次OpenAI发布的是o1-previ</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247657878&amp;idx=5&amp;sn=be6a34ea0e88e576e8a954c305c5f571&amp;chksm=fdd374514133a178cfd418d92f715900b829a2fd9bd2d9486573a426b3a766c59ce237cebabc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[360视角：大模型幻觉问题及其解决方案的深度探索与实践]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zHbzQPKIBPjibX1HXAAGY5ODHkQ5gmrLfkaluQBogYicnVHic9kHgm5LWQCO5ctJwhQVAOfAfKcQ5yXbbWR3vjo0A/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读 大模型幻觉问题在大模型应用过程中，非常阻碍实际业务落地。解决该问题是一项复杂的系统工程任务，需多角度综合探索。业界正通过持续的研究与实践，寻找更有效的检测与缓解策略，以提升大模型的可靠性、安全性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247657878&amp;idx=6&amp;sn=b38e79f4ca78e1b418e6ddc25a874c89&amp;chksm=fd8653d613c3c2287512a61e4ecff1be506789a64ac2f42208735c9dbc7fe381b259f51e2fe5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[无人机边缘计算: 架构、多址接入与计算卸载]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw21uicxnhW1iaCGic0cHJCBSAX5EWxtsrupeJd1usXbia7ugRJKxODLoib2LkZkMG6tBF7TibVpCJV7CLDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>无人机(unmanned aerial vehicle, UAV)边缘计算技术将UAV平台与移动边缘计算技术相结合, 充分利用UAV的灵活性和机动性, 为用户设备提供及时有效的计算服务。从UAV边缘计</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247657878&amp;idx=7&amp;sn=dff20719a95c8ca84aa079118af1e89c&amp;chksm=fdb5195f155a59ca32329ff4025ca65558afda739c6c580be191015f41c7269e11676e048301&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247657878&amp;idx=8&amp;sn=3e01492ca7f9e3d5acbd959b4e94b3f9&amp;chksm=fd4afaaeca9c8cb26a4649c4650b2e5f43c27b4709f3a9196eec1a2890cffcbe1d15a4e8d355&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 04:00:00 +0000</pubdate>
       
 
     </item>
