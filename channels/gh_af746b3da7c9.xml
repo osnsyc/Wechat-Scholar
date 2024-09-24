@@ -33,17 +33,57 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[山寨版 OpenAI o1 实验记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsWnHWxcY5ia8Uk8ODSUxJF2kQY0RAonklkyrJ8GFPsFrMRZRMzw5eNWql2t8VvCvK1bTNf6h4zVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：季逸超链接：https://zhuanlan.zhihu.com/p/721272352纠结了一下还是决定把中秋假期捣鼓的山寨版 o1 模型开源出来。受限于数据和算力，该模型还只是个玩具，离 O</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530738&amp;idx=1&amp;sn=cbf91185c68aa5759303ea74dad41c79&amp;chksm=eae2b428c84eac7c5a5b491bdc90aaba0454165153ab665e185b6f1310934945a7f6b4977f53&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 22 Sep 2024 13:33:23 +0000</pubdate>
+      <title><![CDATA[EMNLP2024在线论文分享会 -- NICE平台&amp;苏大AI lab组织]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcXb45KiacDJHCgRthdmI4ic8eKQFko42yib9qPicFiamzZMFjiagYTE1V4ibc7Vj1ibm6rd8572GfPTf8qw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，EMNLP2024已经公布结果啦，对于中稿的同学在此表示衷心的祝贺，没有中稿的同学也别灰心哈，再弥补完善下，必定会有收录的一天！我们NICE平台已经连续举办了28期、47次在线论文分享，感谢大</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530873&amp;idx=1&amp;sn=a2f406807bb6af37612ef576df664a66&amp;chksm=ea7f73d59addc34d1a6af83cb62095ef64583beeebaa27e7caef7e9eb02dff1a9713f1b4f8b9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 23 Sep 2024 13:09:46 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[开源大模型技术路线及趋势]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsWnHWxcY5ia8Uk8ODSUxJFr3aw69DlbbBDqAoibPGrIVkbjgKESNnP621vCYLstHYoE4kibrDjtAfA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：晴天链接：https://zhuanlan.zhihu.com/p/7212723521. 三个维度大模型研发力量学术机构大模型创业公司科技大厂旗舰开源模型的形态/模态基础大模型 -> inst</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530738&amp;idx=2&amp;sn=c7e4f95bbf7856245b3bb93f922c4ac5&amp;chksm=ea84c4b404d0d610e8e2da601df1af69ce040c3dda261af1a83a52878259bdec348d96e5deab&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[MatchTime | 当LLM开始做足球解说：关于多模态模型在体育领域的应用 -- NICE29期]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcXb45KiacDJHCgRthdmI4ic5peFgSW9lvxdWAWuwe63DEXhIxwxibK2qghlzialxQQveMhX6McW1sCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题当LLM开始做足球解说：关于多模态模型在体育领域的应用时间2024.9.28 20:00-21:00 周六入群论文：MatchTime: Towards Automatic Soccer Game</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530873&amp;idx=2&amp;sn=4a5754fd5cb9557aec9749b6be664377&amp;chksm=ea3ccce8417036bafb57fd60a6588717bf4d654ced75bc30655b2f0abf072e0f8af5dbf20c53&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 23 Sep 2024 13:09:46 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从零开始构建GPT风格的LLM分类器   微调GPT模型进行垃圾邮件分类]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajcXb45KiacDJHCgRthdmI4icaWVbdD8zZhSjNtkAOma8hqulqkz8oj6ZF4KHIerxJp6X2vyMW6WpXA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者: Sebastian Raschka, PhD在这篇文章中，我想向您展示如何将预训练的大型语言模型（LLM）转变为强大的文本分类器。为什么专注于分类？首先，将预训练模型微调为分类器提供了一种温和</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530873&amp;idx=3&amp;sn=d3fc5f14a27acdefbe35bd5438d46ca8&amp;chksm=ea6722170b43abb84594e08b485eae3bb4471810e5976f2f9a6feaa3678cda6bb702bc4caddd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 23 Sep 2024 13:09:46 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[山寨版 OpenAI o1 实验记录]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsWnHWxcY5ia8Uk8ODSUxJF2kQY0RAonklkyrJ8GFPsFrMRZRMzw5eNWql2t8VvCvK1bTNf6h4zVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：季逸超链接：https://zhuanlan.zhihu.com/p/721272352纠结了一下还是决定把中秋假期捣鼓的山寨版 o1 模型开源出来。受限于数据和算力，该模型还只是个玩具，离 O</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530738&amp;idx=1&amp;sn=cbf91185c68aa5759303ea74dad41c79&amp;chksm=eae2b428c84eac7c5a5b491bdc90aaba0454165153ab665e185b6f1310934945a7f6b4977f53&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 22 Sep 2024 13:33:23 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[开源大模型技术路线及趋势]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagsWnHWxcY5ia8Uk8ODSUxJFr3aw69DlbbBDqAoibPGrIVkbjgKESNnP621vCYLstHYoE4kibrDjtAfA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：晴天链接：https://zhuanlan.zhihu.com/p/7212723521. 三个维度大模型研发力量学术机构大模型创业公司科技大厂旗舰开源模型的形态/模态基础大模型 -> inst</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530738&amp;idx=2&amp;sn=c7e4f95bbf7856245b3bb93f922c4ac5&amp;chksm=ea84c4b404d0d610e8e2da601df1af69ce040c3dda261af1a83a52878259bdec348d96e5deab&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 22 Sep 2024 13:33:23 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -218,86 +258,6 @@
       
 
       <pubdate>Mon, 16 Sep 2024 15:49:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[技术上，如何复现 o1?]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagGZenX4LXy3M8yoliboFIq47tFTI2cOzXB0SiaguXcKfTb7pfU0NZric8iaEqw2NUD8pOwRjgZ8ia1xBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：周舒畅链接：https://zhuanlan.zhihu.com/p/720127190基础模型搞 o1 首先需要一个基模，这个基模必须是：能进行“长”生成。注意这和“长 context”不是一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530330&amp;idx=1&amp;sn=243a8ae021c7252d644a2b8aa56cf481&amp;chksm=eac5d6c78f789052b34a71811accf35f5e6d4b4d9e8add81658615d59f09094eb34cb191e90d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 15 Sep 2024 13:22:55 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI o1背后的技术：LLM的快思考与慢思考路线之MCTS]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagGZenX4LXy3M8yoliboFIq4UUJzJoxgfP0Fxuic0d9JC3drUzY8QYib2MQDuHRAtZk4e8y58UkSiagHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：皓天 链接：https://zhuanlan.zhihu.com/p/659230417在上一篇文章[1]中，我们初步探索了基于EBM-MCTS的方法，并在多个数学数据集上完成实验验证。相比使用</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530330&amp;idx=2&amp;sn=073985546d01e00231278970ca43b1c3&amp;chksm=ea84e3c9061117516838fcf0a84c610a6a8ce903a87aca61edb059944649c2aafd011b1ece5a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 15 Sep 2024 13:22:55 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2025智谱AI校园招聘正式启动！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagGZenX4LXy3M8yoliboFIq4a7vMNqEaGxBN7S7CeYhozzeJibdj5xoAb2k74I4DEUA2HES2ribQicGhg/300?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530330&amp;idx=3&amp;sn=7362f2bc6293855289eb172edbb82a53&amp;chksm=eab0cfb60daf15300b657d2eb35b6d44c5a44853922005f00b245cb2ee641e7033bbafe5ab5a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 15 Sep 2024 13:22:55 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何用1024张显卡训练一个模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah9yWXAm1bx4425eIiaUwIiaiaTkzKCzuWC9rI609Kst9S5OMSFMRJXyibNPDOY8IJW5Jd9YHppUEZAtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：你的真实姓名链接：https://www.zhihu.com/question/650979052最近看到知乎一个回答，把千卡训练的难度吹上天了。但其实真正用过千卡就会发现也就那么几个点。于是想</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530294&amp;idx=1&amp;sn=15cfd3cbc240394bec555231c4f991d8&amp;chksm=ea4606c1d9776b5be562e1895eeff98b96cd6b7c7eb2afdd21cb187d1317d720b93be5483b0d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Sep 2024 14:03:44 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[黄哲威与丁霄汉为初学者撰写AI会议论文写作手册，独具一格！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah9yWXAm1bx4425eIiaUwIiaiaiaBjvWq8LUxvgqmJlZlpStapdpBM7x5Y7DfJQu985XOalBGo7TXhMKw/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者: 黄哲威、丁霄汉知乎：https://www.zhihu.com/question/438031462/answer/3624649447链接：https://github.com/hzwer</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530294&amp;idx=2&amp;sn=6d9419cb01cc9296990623f9f205d2ad&amp;chksm=eaeb68f117b0a480605d5568d851269a19f865126086d626565a40f1c0f199e86e9c71bea568&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Sep 2024 14:03:44 +0000</pubdate>
       
 
     </item>
