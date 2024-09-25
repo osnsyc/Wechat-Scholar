@@ -48,34 +48,114 @@
 
 
     <item>
-      <title><![CDATA[全是细节 | 聊一聊做Pretrain的经验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK2y5DziavvVj7obPrPwSiaLQhut1aOouU4Xkrcf8OmxGQZyCFFu75Jw9r42a9N8wxBLoiad2GOPftWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理：NLP工作站今天给大家分享一篇好友@知乎ybq的文章，主要介绍下如何从零到一进行 pretrain 工作。知乎：https://zhuanlan.zhihu.com/p/718354385类似的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=1&amp;sn=ad412b138c9bccd82b2a1a5b1b4a7fae&amp;chksm=bf1000b36da0e51854e03661380bd3f86641b1b892f377153349a561a062744e6c0b9a557e7e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
+      <title><![CDATA[张俊林：Reverse-o1 - OpenAI o1原理逆向工程图解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI2s42IaSr1Xibib3uqia5K8jRqoP6SyZVia62k9KicUkuo8VAFwL8bTSGXlyiaEOvUicERKtg9tD7Gzc0Kw/640?wxtype=jpeg&amp;wxfrom=0"/><p>内容来自：张俊林 新浪新技术研发负责人原文链接：https://zhuanlan.zhihu.com/p/721952915OpenAI o1的推出称为横空出世不为过，尽管关于Q*、草莓等各种传闻很久</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444877&amp;idx=1&amp;sn=bb7c9688da014b0ede0642e25d1dfc6c&amp;chksm=bf57d8801f0eb4aece917024fd807ed56b6f23eecec6adc081e3e61aa391d8d8cfc1c8c0736d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 25 Sep 2024 06:29:58 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【LLM开源项目】LLMs-微调框架-LLaMA-Factory入门指南v3.0]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdAWjRQquE28WJwUjuguAkKxYOHY4w312zOUAsfAyiaTGTnKRLdMRcL1aSuQ132VxPWl3SrRsHCiaNuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>【#】SFT 训练项目地址：https://llamafactory.readthedocs.io/zh-cn/latest/getting_started/sft.html可以使用以下命令进行微调：</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=2&amp;sn=81f11c2397b7fc2fae4bcb6f80f30b60&amp;chksm=bf5fe0d485eee8e10492a1bd7d38e0a5bbae64c15f8c0694b2e490777ff696c03a5891eb7f1e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌DeepMind新RL方法·SCoRe，让我后背一紧]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yToxjhYT5ibYiac4rjhesAxxg7MtZ3J8iaS0J68fI8oia92kbTFGMBg8hF8olXfobHjV1kUWtib3xrtziaDWCtYVvCxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>就在上周五(09/20)，来自Google DeepMind的研究人员提出了一种创新多轮强化学习方法——SCoRe。这篇论文在周末粗读下来后，当时给我最直观感受是稀松平常，并略带一些遗憾，但同冥冥之中</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=3&amp;sn=3978f0ec16aee91b74fc643c937b7522&amp;chksm=bf0e9f3b9b3b9dd6b52d10dcbcefc9d7ca587012b34de16b8de115f2b0b8a7459042e3c01847&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[从近100场大模型比赛看大模型关注热点]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwe2rvshJ33UZIovSKagiaXObw4ibBwRNicMcuckzEkGTibO3r5hR3kQGxWf4TleiaDvUnkpDM4KDzqnQg/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：砍手豪（授权原创） 链接：https://zhuanlan.zhihu.com/p/720381778在之前的文章55个大模型比赛汇总里可以看到,从去年十月 Kaggle 第一个大模型比赛ht</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=4&amp;sn=9fc5ec809a52694887e92a061b4230b5&amp;chksm=bf5aa9bbc173f0696f89a4980652f58e46048f2938c8dface17b47eb77b8215c596b6e22369f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
+      <title><![CDATA[全职 【社招】深度求索DeepSeek 招聘强化学习算法研究员/工程师（北京/杭州均可）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI2s42IaSr1Xibib3uqia5K8jR23uyTVhJpKlhGRJ0ZgwzLre4NaDGqNTlNtLcI7Ap3iaHOedsfCgoq9A/300?wxtype=jpeg&amp;wxfrom=0"/><p>全职 【社招】深度求索DeepSeek 招聘强化学习算法研究员/工程师（北京/杭州均可）公司简介：我们相信大模型是科研 + 工程 + 组织的优雅艺术。我们正在寻找并长期培养优秀的 AI 人才，与我们一</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444877&amp;idx=2&amp;sn=3fb41f83e9fbeaca6ce2915686fa6461&amp;chksm=bf01ff4efa6fdd200fb362278bfa35b2111ba8b3744cad9ad5f67d5b62c8cccc2ad275002280&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 25 Sep 2024 06:29:58 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[微调数据工程入门论文合集]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvJ05lOLQZU22VxzYxuwPTgs07Iv5yZlJE4dcRjozxaz04S11nFKL8tibBYjEAjuItE7BJ4pr74iasXg/300?wxtype=jpeg&amp;wxfrom=0"/><p>目录：质量>数量LIMA: Less Is More for Alignment什么是SFT数据质量指令数据复杂度WizardLM: Empowering Large Language Models </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=5&amp;sn=36b791fcf5d8053a473c60029c76a279&amp;chksm=bf41074e55eba911d56d563b7d39624b72c06e6d8f280976f04cc7ae976d52353afa61599559&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444877&amp;idx=3&amp;sn=94f142524291e4483b6b2492104abdfb&amp;chksm=bf7712d5ce11a44e2798c680ac127c75dd0d81a8c6b0cd58a4aa035b91f609a047872d6991a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 25 Sep 2024 06:29:58 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[对 LLM 工具使用进行统一]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2qVSCwV97VxtiarI6uJhWwicJpWowj0KZpDibpjwhTTic3gqpu39bj71cuPGqeRG06rzQ2r1l0feKBAqg/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们为 LLM 确立了一个跨模型的 统一工具调用 API。有了它，你就可以在不同的模型上使用相同的代码，在Mistral、Cohere、NousResearch或Llama等模型间自由切换，而无需或很</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444877&amp;idx=4&amp;sn=463a26fbcc9bbc22705784ed41163ce5&amp;chksm=bf92109b963d2367e509c5e11886963a75eec395791e71ddb839bb3a90410cecd2c89910f70a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 25 Sep 2024 06:29:58 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Quest：一种以查询为中心的长文本数据合成方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5n33RGcM0R16IoCjKvCsLf3VkbYzcz2dE8wyzGHoVCvDqdDlq6l8pkW3uibV2ybX71hJibZaXcA0hOQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇长文本数据合成方法。作者: 高超尘机构: 中国科学院信息工程研究所Arxiv: https://arxiv.org/abs/2405.19846大规模语言模型可接受长度愈加得到关注，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444877&amp;idx=5&amp;sn=cb7ffd6d1403983625711a04335743c0&amp;chksm=bf71c74803b2c70fda5ffb21d2c40abd3e131f09eb143577bf2486a52963c3208dd3ca2ae4ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 25 Sep 2024 06:29:58 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[全是细节 | 聊一聊做Pretrain的经验]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK2y5DziavvVj7obPrPwSiaLQhut1aOouU4Xkrcf8OmxGQZyCFFu75Jw9r42a9N8wxBLoiad2GOPftWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理：NLP工作站今天给大家分享一篇好友@知乎ybq的文章，主要介绍下如何从零到一进行 pretrain 工作。知乎：https://zhuanlan.zhihu.com/p/718354385类似的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=1&amp;sn=ad412b138c9bccd82b2a1a5b1b4a7fae&amp;chksm=bf1000b36da0e51854e03661380bd3f86641b1b892f377153349a561a062744e6c0b9a557e7e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【LLM开源项目】LLMs-微调框架-LLaMA-Factory入门指南v3.0]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdAWjRQquE28WJwUjuguAkKxYOHY4w312zOUAsfAyiaTGTnKRLdMRcL1aSuQ132VxPWl3SrRsHCiaNuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>【#】SFT 训练项目地址：https://llamafactory.readthedocs.io/zh-cn/latest/getting_started/sft.html可以使用以下命令进行微调：</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=2&amp;sn=81f11c2397b7fc2fae4bcb6f80f30b60&amp;chksm=bf5fe0d485eee8e10492a1bd7d38e0a5bbae64c15f8c0694b2e490777ff696c03a5891eb7f1e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[谷歌DeepMind新RL方法·SCoRe，让我后背一紧]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yToxjhYT5ibYiac4rjhesAxxg7MtZ3J8iaS0J68fI8oia92kbTFGMBg8hF8olXfobHjV1kUWtib3xrtziaDWCtYVvCxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>就在上周五(09/20)，来自Google DeepMind的研究人员提出了一种创新多轮强化学习方法——SCoRe。这篇论文在周末粗读下来后，当时给我最直观感受是稀松平常，并略带一些遗憾，但同冥冥之中</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=3&amp;sn=3978f0ec16aee91b74fc643c937b7522&amp;chksm=bf0e9f3b9b3b9dd6b52d10dcbcefc9d7ca587012b34de16b8de115f2b0b8a7459042e3c01847&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[从近100场大模型比赛看大模型关注热点]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuwe2rvshJ33UZIovSKagiaXObw4ibBwRNicMcuckzEkGTibO3r5hR3kQGxWf4TleiaDvUnkpDM4KDzqnQg/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：砍手豪（授权原创） 链接：https://zhuanlan.zhihu.com/p/720381778在之前的文章55个大模型比赛汇总里可以看到,从去年十月 Kaggle 第一个大模型比赛ht</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=4&amp;sn=9fc5ec809a52694887e92a061b4230b5&amp;chksm=bf5aa9bbc173f0696f89a4980652f58e46048f2938c8dface17b47eb77b8215c596b6e22369f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[微调数据工程入门论文合集]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvJ05lOLQZU22VxzYxuwPTgs07Iv5yZlJE4dcRjozxaz04S11nFKL8tibBYjEAjuItE7BJ4pr74iasXg/300?wxtype=jpeg&amp;wxfrom=0"/><p>目录：质量>数量LIMA: Less Is More for Alignment什么是SFT数据质量指令数据复杂度WizardLM: Empowering Large Language Models </p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444858&amp;idx=5&amp;sn=36b791fcf5d8053a473c60029c76a279&amp;chksm=bf41074e55eba911d56d563b7d39624b72c06e6d8f280976f04cc7ae976d52353afa61599559&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 24 Sep 2024 14:07:15 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -394,89 +474,6 @@
       
 
       <pubdate>Thu, 19 Sep 2024 09:39:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2.5系列即将开源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>官方剧透， 预计明天开源：
-
-Qwen2.5: 0.5B, 1.5B, 3B, 7B, 14B, 32B, and 72B
-Qwen2.5-Coder: 1.5B, 7B, and 32B on th</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=1&amp;sn=515e81ea6bc08eadf75d8946c9383cfa&amp;chksm=bfab7b2ac35126839d4ab5679dbb7b5bb72107ace90669c7b088cfc2bba9910f7be022bf3fa7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI o1的开源平替版self-replay RL来了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UkaMPMaoibmiawGaYDsjLPZmVdIgbAEX0UaeJYTZMup8TM6yibfSuFwiczkyG3gZAaHV62tyJNnG7GqhJnMLlzZ9Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>MSQA和哈佛发表rStar，对标OpenAI的超级对齐Q*项目！摘要：本文介绍了一种名为rStar的self-play互推理方法，它显著提高了小型语言模型（SLMs）的推理能力，而无需微调或更高级的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=2&amp;sn=164a59436f4b2a8ffc9b1879f85d5579&amp;chksm=bf0ca9c1e2968945966ec50835661b79a048c18d48e7b3af4baf52628a1631e6ae030e9079ef&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Quiet-STaR: Think before Speaking技术介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvJS6r1ToZiaot00plaGgPPG2tkTreFALlYLhkoJbiclkbHR1jVnNmd0g8p4kz2tiaLicnibonicSmRnO2bA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天介绍的技术来自论文《Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking》，论文的作者Eric Zel</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=3&amp;sn=fde2ee985e65959d3a97cf91e52df9ea&amp;chksm=bf058d738c7e26bcd069aecec590aae033200fbfb59634a452a2abd2f845ef9c3b73d473d002&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[什么是RAG？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJmsyFyYnl9gIFnmKtibK69niaBuBDbXFTiaGP99yzOX4cwz6IHydFK8VGGY5VouicNL4HtkVkSC0L19g/300?wxtype=jpeg&amp;wxfrom=0"/><p>进技术交流群请添加AINLP小助手微信（id: ainlp2)请备注具体方向+所用到的相关技术点关于AINLPAINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=4&amp;sn=5c33c8a840d1e506ca0475d27e9e3066&amp;chksm=bf2a83f01fab001779316e9c811c8c383c05b1eb478a6835491ac05f46a3108f12654773af8f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CV入门--无监督学习]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465r0IJDVyNQZXQsAzJfPr22ypUq8SczFAHHx4mWRYGSdvxYHhRoicA751T3E80sbaJRheQ7gdhzUZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>标注数据总是缺乏的，特别是对于大规模预训练。因此无监督学习在大模型时代就更加重要了。相比有监督的训练，无监督学习不需要把最终结果都reduce到一个单一的label，因此模型也能学到更丰富的数据特征。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444741&amp;idx=5&amp;sn=008203bb70e1d06b69585563ba5b9ee4&amp;chksm=bf25f14f6d7e636c842930e4eef41056e717bb8bd31ff1b5fe7084bc64dd6627c640fbad4ac3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Sep 2024 03:31:59 +0000</pubdate>
       
 
     </item>
