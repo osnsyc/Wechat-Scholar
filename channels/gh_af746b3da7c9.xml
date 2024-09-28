@@ -36,29 +36,85 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[一文讲明白大模型分布式逻辑（从GPU通信原语到Megatron、Deepspeed）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagQvVwrmOjXSaJCPicGM6srBcRicHSlwlBF8JyrTQkmzupknVkh5yxDw22fu8Pkib8PtzPJGNajN0glw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：然荻链接：https://zhuanlan.zhihu.com/p/7219419281. 背景介绍如果你拿到了两台8卡A100的机器（做梦），你的导师让你学习部署并且训练不同尺寸的大模型，并且</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531522&amp;idx=1&amp;sn=a1003e1e49241f4633414a1613147a04&amp;chksm=ea69680daf188c90531471b76c0c8fc064e8bd2a73bddb5a05fd5beae71c2b760269f53fb833&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 27 Sep 2024 14:26:47 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[MOE模型的过去、现状和未来是怎样的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagQvVwrmOjXSaJCPicGM6srBfEH8f9coX5MEPMl2vXXXagA4WUokC4cMUDuPTM9kDARgoV2nyxrwcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：朱小霖链接：https://www.zhihu.com/question/664040671/answer/3655141787过去就先不说了，这里我 survey 得不够全面，主要来聊一下我认</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531522&amp;idx=2&amp;sn=b20f0543964a18d4f2a922bbe1790a9b&amp;chksm=ea05d5eb2e194178a4351c30e61b30dbd5d04942b4b5e3e1f80e228294154674ee4c76cb405f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 27 Sep 2024 14:26:47 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[现代LLM基本技术整理]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiapGnZ3gaXKeQL3RUErGoFzicJCIZhaic28uZBgS83fibTtxwOCKzg8N48QDHQAQmBCChwbHRK8zWAmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hadiii，北京大学 电子信息硕士在读原文：https://zhuanlan.zhihu.com/p/713794852编辑：青稞AI0 开始之前本文从Llama 3报告出发，基本整理一些现代</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531459&amp;idx=1&amp;sn=9e9ea89189d9a57ce0181e220d6bc962&amp;chksm=ea4b6632ba492ef670a81652a50e54ca7bc82fc61559f84bb908f83057a84527bd704bda4b1b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Sep 2024 15:52:26 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Qwen2-VL series 技术报告解读]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiapGnZ3gaXKeQL3RUErGoFzwgNp5WWpPqSAicNLUrsZn2TyFNEO5hlU2RYfCLQcYfRGsfdO8Nu1xNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Cassie链接：https://zhuanlan.zhihu.com/p/721908386写在前面Qwen团队在 2024年9月19日开源了Qwen2-VL-72B 模型，并发布了技术报告。</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531459&amp;idx=2&amp;sn=7919ff44b2457e959d73b444bcccb7ec&amp;chksm=eaa064b74ed6c51c7fec7591be165580efbbd5d37d7f711db84ad8fbe2590f28940b0e673f39&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Sep 2024 15:52:26 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[速读 LLaMA3.2-Vision 模型的结构]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiapGnZ3gaXKeQL3RUErGoFzVzwO5trqYZ2vqy3icFHhQtnhQJb3garxczHqeEuiafXicEYfZXBpVjgew/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：45度角仰望天空链接：https://zhuanlan.zhihu.com/p/722249121随着 Meta 在今天放出了 LLaMA3.2 系列模型，LLaMA 系列也正式迎来了官方版本的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531459&amp;idx=3&amp;sn=30a9a2994e203baa3a385fa5124c6a3d&amp;chksm=eaf44509815be77004a7e70b050563cfd18d52719db7506e332547bdd9bda269cd5de858d075&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Sep 2024 15:52:26 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[万字长文总结多模态大模型最新进展（生成-理解大一统）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiapGnZ3gaXKeQL3RUErGoFzBKq8Fx8dAnSXsRqqQ83uGS1d9NAx2AuSSWYPibo9hicicqmXN5ibZiaK63w/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：yearn链接: https://zhuanlan.zhihu.com/p/719475102?utm_psn=1821538424047423489在过去几年中，多模态智能的两个关键支柱——理</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531459&amp;idx=4&amp;sn=ce719c97927f2f575ca8a3e565778737&amp;chksm=eaa8907e12d9b56246eb985698414548a7a3231d3d261d8b50125094ef1fcfadc8c6836bad22&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Sep 2024 15:52:26 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -297,70 +353,6 @@
       
 
       <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2.5-Math 技术报告详细解读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPX54Jz0iabk2ToiaJYJtYBgQV1ITFkS21dEjzDKwH9wSlibk94mfqqJWRWJHmdLRU3oxBiaShgEKsDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Xode链接：https://zhuanlan.zhihu.com/p/7210152041. 标题中的方法论2. Pre-training——数据工程2.1.1 Qwen Math Corpu</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530485&amp;idx=1&amp;sn=1b5a648c57b6181181ba3c6c9ce4a47b&amp;chksm=eab91c693775e2486a90fb6e3dd9b1f83ad0b4594d8be88d376af35f1b35f02cab8a11ec8ac4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Sep 2024 06:03:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[tokenizer简述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahPX54Jz0iabk2ToiaJYJtYBgLUPZmsI8XX5BbrPA36AYuUs7cU4Eeo5eIZfibhPXic3yknCwTIEbxxaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：难赋链接：https://zhuanlan.zhihu.com/p/721054525简述为了方便计算机处理文本，我们常把文本转化为数值的形式。具体操作是把文本分割成有意义的片段，再把这些片段映</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530485&amp;idx=2&amp;sn=3f1e3ded01a1e7d2bc53f3dc3317aa79&amp;chksm=eaac303b4ba3701cc296d7854cf808c19adfc17b10fc73fdd955647177e2be334b5f2d7ecdf1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Sep 2024 06:03:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NICE28期 | “显微镜”下的检索增强生成：通过 RAGChecker 进行细粒度诊断评估]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajnRvmDQDrz9IMsAiaibIfmoqUw0Ftj5DVAJou7x2xlnlew93c0R8Bge1JxcFmxGbWiaYHJFgktTKLQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题“显微镜”下的检索增强生成：通过 RAGChecker 进行细粒度诊断评估RAG Under the Microscope: Fine-grained Diagnostic Evaluation </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530440&amp;idx=1&amp;sn=981b6e233e687df739518a0e97e00e8b&amp;chksm=ea4ca95e59643567ff0067973330ac9fc6de8aa4cbbca51359e386ca744b311eefcc1b6e17aa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Sep 2024 15:55:16 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[微软提出GRIN MoE，引领大规模预训练模型的新浪潮]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajnRvmDQDrz9IMsAiaibIfmoqoe1KddUgYsm46LwLiaCI3Tk8Tv2s4SrrLEHsYYmsDvl5XFSrZP9VDPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>链接：https://arxiv.org/html/2409.12136v1论文：GRIN: GRadient-INformed MoE研究背景研究问题：这篇文章要解决的问题是如何有效地训练混合专家（</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530440&amp;idx=2&amp;sn=7df2fe8f96eb3800c71dc8865ec5352d&amp;chksm=ea881effd3c5b1b0816de3066203340fb79a51337f569fd00daf117841f4a41f72eb500e96a1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Sep 2024 15:55:16 +0000</pubdate>
       
 
     </item>
