@@ -30,17 +30,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[机器学习 | 孪生神经网络综合指南请查收！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBaply0mIF7Kap0OGDgAEMGSrTkbzZ5dVUZgtdSQSrnxnicucFHyffGvqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你对机器学习感兴趣或者一直从事机器学习，那么分类和回归是最常见词汇。但还有一种常见的技术，称为相似性问题，它可以发现两个输入是否相似，这就是所谓的孪生神经网络。假设你熟悉用于图像分类的 CNN，并</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597232&amp;idx=1&amp;sn=0a681c19a157d8d78e31ebfbb6a9f139&amp;chksm=fa752fee06fc30b1a3259bdf507b921d54f205784d2ecb86d3da9df93fcfd11caff7355e1ba8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 27 Sep 2024 09:20:00 +0000</pubdate>
+      <title><![CDATA[模型部署 | ONNX定义、读写和调试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBadw9ZmTJHQ3O2vJLSqJVX5Gd9kwbu1JLicgpK60bUS2E9ib4lXr4B3kKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述神经网络本质上是一个计算图。计算图的节点是算子，边是参与运算的张量。而通过可视化 ONNX 模型，我们知道 ONNX 记录了所有算子节点的属性信息，并把参与运算的张量信息存储在算子节点的输入输出信</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597659&amp;idx=1&amp;sn=7a9501ec520756e3b9be83c549edb8e7&amp;chksm=fa023da5b4ecb23e91e7399792025a6e89af6e9075d7340d8163a310eb9e64192fe102752da9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 28 Sep 2024 09:20:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[自动驾驶与具身智能的三驾马车你都知道吗?]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztjMLYU9v0gTsmBTmDJ4KHo9KdIXOXOjyrJuypicDUyD7UW5smVxSeCAURrKbwdBm8O94FuWPHEpLw/300?wxtype=jpeg&amp;wxfrom=0"/><p>今年来，自动驾驶与具身智能方向越来越火爆，各家公司开始规模化量产自己的产品，可落地的技术成为大家争先占领的重点，然而这个行业对从业者能力要求较高，内部非常卷，一个岗位难求。如何从内卷中脱颖而出，除了极</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597232&amp;idx=2&amp;sn=312108b1e7f92a06944316259b8a7728&amp;chksm=fa2010ee4903ee02ffc955903b69fd190e66d10ce7bf0f6b8b42063f9c8e7f866957090e20f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[课程上新 | 三轴机械臂运动学与动力学控制 • 高晴]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBa1QLaNOXys7aLOmkQA6vPjISUFzYdJBmnLpd75lf68GnfXiaNic1rg8Gg/300?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍本课程介绍并实现的三轴机械臂的运动学（计算关节角度、角速度和角加速度），动力学（计算关节力矩），PID+前馈控制；介绍一种无需计算雅可比矩阵逆的方法，计算关节的角速度和角加速度，快速高效，适合</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597659&amp;idx=2&amp;sn=ecd8bd78e4e05fd64031c45fea1bf92a&amp;chksm=fa1961880bd667fb882f69f4950ff8f314256c83ce298eccab7dede252bc6f90c4740a5e98e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 28 Sep 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[机器学习 | 孪生神经网络综合指南请查收！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBaply0mIF7Kap0OGDgAEMGSrTkbzZ5dVUZgtdSQSrnxnicucFHyffGvqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你对机器学习感兴趣或者一直从事机器学习，那么分类和回归是最常见词汇。但还有一种常见的技术，称为相似性问题，它可以发现两个输入是否相似，这就是所谓的孪生神经网络。假设你熟悉用于图像分类的 CNN，并</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597232&amp;idx=1&amp;sn=0a681c19a157d8d78e31ebfbb6a9f139&amp;chksm=fa752fee06fc30b1a3259bdf507b921d54f205784d2ecb86d3da9df93fcfd11caff7355e1ba8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 27 Sep 2024 09:20:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[自动驾驶与具身智能的三驾马车你都知道吗?]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztjMLYU9v0gTsmBTmDJ4KHo9KdIXOXOjyrJuypicDUyD7UW5smVxSeCAURrKbwdBm8O94FuWPHEpLw/300?wxtype=jpeg&amp;wxfrom=0"/><p>今年来，自动驾驶与具身智能方向越来越火爆，各家公司开始规模化量产自己的产品，可落地的技术成为大家争先占领的重点，然而这个行业对从业者能力要求较高，内部非常卷，一个岗位难求。如何从内卷中脱颖而出，除了极</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597232&amp;idx=2&amp;sn=312108b1e7f92a06944316259b8a7728&amp;chksm=fa2010ee4903ee02ffc955903b69fd190e66d10ce7bf0f6b8b42063f9c8e7f866957090e20f8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 27 Sep 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       

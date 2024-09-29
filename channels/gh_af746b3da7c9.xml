@@ -38,19 +38,49 @@
 
 
 
-
-
     <item>
-      <title><![CDATA[一文讲明白大模型分布式逻辑（从GPU通信原语到Megatron、Deepspeed）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagQvVwrmOjXSaJCPicGM6srBcRicHSlwlBF8JyrTQkmzupknVkh5yxDw22fu8Pkib8PtzPJGNajN0glw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：然荻链接：https://zhuanlan.zhihu.com/p/7219419281. 背景介绍如果你拿到了两台8卡A100的机器（做梦），你的导师让你学习部署并且训练不同尺寸的大模型，并且</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531522&amp;idx=1&amp;sn=a1003e1e49241f4633414a1613147a04&amp;chksm=ea69680daf188c90531471b76c0c8fc064e8bd2a73bddb5a05fd5beae71c2b760269f53fb833&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 27 Sep 2024 14:26:47 +0000</pubdate>
+      <title><![CDATA[万字干货！从零到一进行LLM pretrain的经验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibPXRhAHR6fJjDJCR0PHR1AZytG8Ts3x6djbNlTyGtO5gZZ0A1VGtpOQGXQKYRNQ9iaRu26DkYH2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者: ybq，nlp码农，中国科学院大学 信号与信息处理硕士原文: https://zhuanlan.zhihu.com/p/718354385编辑：青稞AI这篇文章介绍下如何从零到一进行 pret</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531536&amp;idx=1&amp;sn=a84113daee2f01c6f6e1564810e0321f&amp;chksm=ea6ac4d09b8e71112dc3d20285a97b522b3581eeef7fcb91debc3e542013fa48f7c47f2007e4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 28 Sep 2024 14:36:53 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[MOE模型的过去、现状和未来是怎样的？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagQvVwrmOjXSaJCPicGM6srBfEH8f9coX5MEPMl2vXXXagA4WUokC4cMUDuPTM9kDARgoV2nyxrwcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：朱小霖链接：https://www.zhihu.com/question/664040671/answer/3655141787过去就先不说了，这里我 survey 得不够全面，主要来聊一下我认</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531522&amp;idx=2&amp;sn=b20f0543964a18d4f2a922bbe1790a9b&amp;chksm=ea05d5eb2e194178a4351c30e61b30dbd5d04942b4b5e3e1f80e228294154674ee4c76cb405f&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[分享一些高效阅读论文和代码的方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibPXRhAHR6fJjDJCR0PHR1iaZC0g8jCC6U31WDib4NGBnHbwcWgm6JBulnsl9VSjFngHM8usWSuwpg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记我们来聊聊一个比较轻松、也是很多朋友关注的话题：如何能更高效阅读一篇论文、学习一份源码呢？以我自己的经验来看，有效的方法无外是3点：写笔记。按照自己的思路重新捋顺一个新东西的逻辑，并</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531536&amp;idx=2&amp;sn=2a06bcd86260d06916a105029ac0966e&amp;chksm=ea26efaa7a500d95573d8acfde10ae7bbdf6de275dacb84f08ef96b912f668ac975bf9069704&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 28 Sep 2024 14:36:53 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[一文讲明白大模型分布式逻辑（从GPU通信原语到Megatron、Deepspeed）]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagQvVwrmOjXSaJCPicGM6srBcRicHSlwlBF8JyrTQkmzupknVkh5yxDw22fu8Pkib8PtzPJGNajN0glw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：然荻链接：https://zhuanlan.zhihu.com/p/7219419281. 背景介绍如果你拿到了两台8卡A100的机器（做梦），你的导师让你学习部署并且训练不同尺寸的大模型，并且</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531522&amp;idx=1&amp;sn=a1003e1e49241f4633414a1613147a04&amp;chksm=ea69680daf188c90531471b76c0c8fc064e8bd2a73bddb5a05fd5beae71c2b760269f53fb833&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 27 Sep 2024 14:26:47 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[MOE模型的过去、现状和未来是怎样的？]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagQvVwrmOjXSaJCPicGM6srBfEH8f9coX5MEPMl2vXXXagA4WUokC4cMUDuPTM9kDARgoV2nyxrwcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：朱小霖链接：https://www.zhihu.com/question/664040671/answer/3655141787过去就先不说了，这里我 survey 得不够全面，主要来聊一下我认</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247531522&amp;idx=2&amp;sn=b20f0543964a18d4f2a922bbe1790a9b&amp;chksm=ea05d5eb2e194178a4351c30e61b30dbd5d04942b4b5e3e1f80e228294154674ee4c76cb405f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 27 Sep 2024 14:26:47 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -305,54 +335,6 @@
       
 
       <pubdate>Sun, 22 Sep 2024 13:33:23 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2.5-Coder 技术报告详细解读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwQXgkHcIl2ahNBlWpjv7vvGzAKITaeFThPH3MjfAmMauLO88hRg64LQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Xode链接：https://zhuanlan.zhihu.com/p/7211894990. 前文1. 模型架构2. Tokenizer3. 预训练3.1 数据3.2 训练4. Post-Tr</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=1&amp;sn=967e83e3574f95dd559aef454771cb21&amp;chksm=eafbe7f4bae53799d4ee4e3217433bfb64c2ea13f0f444a8b90340678520c3840ad5bdf41e78&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[实现一个简洁的代码模型评测框架（以Qwen2.5-coder 评测Humaneval为例）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwU1iaq0PWaZ3klqFFTra39oz50g85Siceo4eR5a3RbxrQeZ5Yu9UXE1OA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：KaiH链接：https://zhuanlan.zhihu.com/p/721218072代码大模型在评测时主要用到的指标就是了，特别是在测试集上。各个模型在其发布时也都给出了指标，使用的一些开</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=2&amp;sn=6c93f53effa9a32c5ed744165d142ce9&amp;chksm=ea60755279a19ec3a0cf8184823ee6a53610a4c43ceb376469cb212f83730fd1d0c14da7acef&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CGE：基于Causal LLM的Code Embedding模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwhXE9fpXdtNgxQyNn5q3icic8OEwrrStqTJHyLribdXwPtyNYc0Q91QKaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：CodeFuse近日，CodeFuse-CGE 项目在外滩大会展出，吸引了众多技术、产品从业者的到访，部分参观者表示“文搜代码”令人耳目一新，期待模型后续的表现。以下是 CodeFuse-CGE</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247530718&amp;idx=3&amp;sn=6006a5da9654ae547c68fcf756445f61&amp;chksm=ea705b2a1c5626974276e3c6fd8ecf69c204c43bf7804ae650c84e0eee41aaa5ce30b6b2b61c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 21 Sep 2024 09:42:14 +0000</pubdate>
       
 
     </item>
