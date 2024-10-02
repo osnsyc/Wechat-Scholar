@@ -35,17 +35,45 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[好课推荐 | 三轴机械臂运动学与动力学控制 • 高晴]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBa1QLaNOXys7aLOmkQA6vPjISUFzYdJBmnLpd75lf68GnfXiaNic1rg8Gg/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍本课程介绍并实现的三轴机械臂的运动学（计算关节角度、角速度和角加速度），动力学（计算关节力矩），PID+前馈控制；介绍一种无需计算雅可比矩阵逆的方法，计算关节的角速度和角加速度，快速高效，适合</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597895&amp;idx=1&amp;sn=1a62705f29ecd72287272a64e0191966&amp;chksm=faf3d4ee337ed3a8c40d6b3fbdd7539e71fea61548b326d63410e291158fe7c331e22bf0682e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 30 Sep 2024 09:20:00 +0000</pubdate>
+      <title><![CDATA[【四足机器人】足端接触检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFm9cKNalXdT6yuzpCmLeuKB3y1UmzAnYH2fa5Q1gT5aibyxHbXNDoNKaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>接触检测步态规划器给出的接触序列是严格按照时间进行周期性计算的。而在实际运行当中，由于地形的不平整，又或者存在坡度等情况，腿部会发生提前或者延迟接触等情况，因此只靠步态规划器给出的接触序列来控制机器人</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247598101&amp;idx=1&amp;sn=1da3313417788b5de310132d0558c8cc&amp;chksm=fa1298f9f22d02046e2101fc7a7ba953789b3742366d2ae5bf086757546ef6a7913477aa057c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 01 Oct 2024 09:20:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[stack smashing detect以及解决之道]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFmSeQmeWcNfUKuU0b3xnHf1zCKAMflZwK6KzCNo1B01Vpxf6Lbl4u4MA/300?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介相较于其他报错，stack smashing detect这个报错是最令人头疼的段错误种类。“Stack smashing detect” 是指在程序运行过程中检测到栈溢出的情况。栈溢出是一</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597895&amp;idx=2&amp;sn=2c44e98760f2a60b390fe18920cb685c&amp;chksm=fa68abbe1b0730b880389f438fb3f7791896e442951a2c1fcb4ba829140e21a48559eef0e05b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <title><![CDATA[好课推荐 | 三轴机械臂运动学与动力学控制 • 高晴]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBa1QLaNOXys7aLOmkQA6vPjISUFzYdJBmnLpd75lf68GnfXiaNic1rg8Gg/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍本课程介绍并实现的三轴机械臂的运动学（计算关节角度、角速度和角加速度），动力学（计算关节力矩），PID+前馈控制；介绍一种无需计算雅可比矩阵逆的方法，计算关节的角速度和角加速度，快速高效，适合</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597895&amp;idx=1&amp;sn=1a62705f29ecd72287272a64e0191966&amp;chksm=faf3d4ee337ed3a8c40d6b3fbdd7539e71fea61548b326d63410e291158fe7c331e22bf0682e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Sep 2024 09:20:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[stack smashing detect以及解决之道]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFmSeQmeWcNfUKuU0b3xnHf1zCKAMflZwK6KzCNo1B01Vpxf6Lbl4u4MA/300?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介相较于其他报错，stack smashing detect这个报错是最令人头疼的段错误种类。“Stack smashing detect” 是指在程序运行过程中检测到栈溢出的情况。栈溢出是一</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597895&amp;idx=2&amp;sn=2c44e98760f2a60b390fe18920cb685c&amp;chksm=fa68abbe1b0730b880389f438fb3f7791896e442951a2c1fcb4ba829140e21a48559eef0e05b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 30 Sep 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -204,134 +232,6 @@
       
 
       <pubdate>Tue, 24 Sep 2024 09:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[古月居全新改版上线：AI 大模型“古月知道”引领 ROS 学习新体验]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuicCsXX4tIaricWLkMjvib6JmzFianPtxmnS8KQbJhUY6tic7Ap9Ahj9KBt0a9m3dfEybzNsLaibIhtN2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>✦前言✦古月居自成立以来，一直致力于为广大 ROS（机器人操作系统）爱好者和开发者提供优质的学习资源和社区交流平台。经过长期的用户调研和反馈，我们发现旧版古月居在使用过程中存在一些不便之处。为了更好地</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247596884&amp;idx=1&amp;sn=6f4690a6e0386c8f8ab8d8419e710478&amp;chksm=faaac5bde36dd582f17e623633e235d8c09ab7a3b97080069b1d262ac472c54a8748fab35fa7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 23 Sep 2024 11:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新手友好 | 嵌入式概念及硬件组成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztofSOWQ7PBBzZYrqb6Dc5ianDKuN6iam7KVJQAR92rN4ERPqKaQcZO57kopN57F2GlFI0p6GGCgWNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、MPU、MCU、SoC、Application Processors的概念https://www.microcontrollertips.com/microcontrollers-vs-micro</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247596862&amp;idx=1&amp;sn=8a0ef1f024101694c173bba37fd1490f&amp;chksm=fa95f9e96fc0c82cfb2a492b9484f214a98abb77c4fcdc49367a28cfc12a4c40798d9cf73b41&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 22 Sep 2024 09:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[深度学习 | Transformer图解]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs75BPCx9EMmLYB1E3Ms7wO9dg65KdrMuvqU17XWCH9oXXvctjic0y4Zt44fkWePQWbypQmYajjMOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言transformer是目前NLP甚至是整个深度学习领域不能不提到的框架，同时大部分LLM也是使用其进行训练生成模型，所以transformer几乎是目前每一个机器人开发者或者人工智能开发者不能越</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247596845&amp;idx=1&amp;sn=d3d7d87c7ac52506f6c7d5d81773db6a&amp;chksm=fa83dcc5a3389cfc5b23b7eb02e80c93c266a96cb635d0c098852ef9bb14bb08271a93fe052b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 21 Sep 2024 09:50:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RDK X5 | 预售用户专属回馈]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztZvgIeVNnlZibicrr5FibN1QUNDquXx6cVRlXS1icTUSPiaKYfeiaA77fFWwyKCAt6pS2vEaggDVn0VTvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着地瓜机器人开发者大会暨新品发布会圆满落幕，地瓜机器人开发者套件RDK X5正式上市。自9月14日预售启动以来，RDK X5凭借其卓越的性能与创新的设计，赢得了广大用户的热烈关注与积极预订。在此，我</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247596810&amp;idx=1&amp;sn=07b19929a0f096ead088c634e636c2ae&amp;chksm=fa9be9762fb5b21d8968e4528a5cdafeb468e46079dd53d255f1d92a629f3574a9e8ca7450ce&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Sep 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[你真的知道什么是具身智能吗？一文带你了解！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuEl6TcuN90AZn5FvKrY1CSgu7m2hnRb3XK8MCsFFgontDaasiaB5Kp3PmnvicvD2WJwgXA1d5QMM6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前整个科技圈的大浪潮有两个，一个是由ChatGPT开始爆火的大模型浪潮，另一个就是大家目前看到几乎科技圈大厂都在卷的人形机器人，更广泛一点的称呼叫具身智能浪潮。尤其是从上周世界机器人大会看到国内外企</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247596798&amp;idx=1&amp;sn=6f29e3ac4a2ab0a756fd3efabc10616a&amp;chksm=fac87ec20620672bbd5f7e40506a78d0ba0a9075d8fdbdebf47e2fe9f79f9adcb9035c704c34&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Sep 2024 12:38:19 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[正式发布 | OriginBot Pro发布&amp;开启预售]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztzzA1Wib2PNW5SqYSJqA5FT6VCkSBiaBppv0h3vhH5gJR1qQFoicc86dPKL2htHnrCbwFe30FFriaQlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OriginBot  历史一览2022年3月设计OriginBot的想法诞生，古月居希望创造出一款ROS2生态下开源共建的机器人套件，配合对应的软件生态，并逐步开始研发。经过七个月的打磨，在2022年</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247596392&amp;idx=1&amp;sn=dcea15efd64cfe7eddc0f48eea128924&amp;chksm=fa839ded1f70e803f14049116221ed13b5378c8acd386c4681857a29a3c44a8aa0d8e4e37a07&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Sep 2024 04:27:26 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【四足机器人】足端运动最短路径问题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu7EG1ics4amIJkGVFK5tmJmUibIy6hXLeeL61BrsIepe3ZIb6Xumg8m34zOpdPn0MfGfian737AkXkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述随着机器人技术的飞速发展，四足机器人因其卓越的地形适应能力而受到广泛关注。这类机器人能够在复杂多变的环境中移动，如山地、废墟、森林等，执行搜救、勘探等任务。在四足机器人的设计中，足端轨迹规划是一个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247596336&amp;idx=1&amp;sn=7b081576e6e89cd6183783997adc8b6f&amp;chksm=fa628dda397f4e5528709785cd855112b1fa6f4111e74cd1532209e80713e54da7e54c67284a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 09:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[无人机 PX4 飞控 | 如何检测状态估计EKF性能]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu7EG1ics4amIJkGVFK5tmJmhEdC8ltc4KiawnQFrudlEwFau3eW7icOgI1rRrHfQGjTybXYJ2aicgHkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言ECL （Estimation and Control Library，估计和控制库），其中的状态估计使用扩展卡尔曼滤波算法（EKF）处理传感器的测量信息,是一个很成熟很优秀的状态估计模块。EKF</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247596309&amp;idx=1&amp;sn=b3948901aad0ec78bff88077c9051542&amp;chksm=faf100359b97a216dc86de7db067e45b032fcece47931473df00c3f2d3e9e0175ac902731b2d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Sep 2024 09:30:00 +0000</pubdate>
       
 
     </item>
