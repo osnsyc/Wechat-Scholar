@@ -30,11 +30,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[学习笔记 | 日志、参数文件读写]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFmwUs3wwHvFzUibZa2dvlrNmjCLzxFMJCfW0acOFfLusx9c5MEPm1icZaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人调试过程中，日志系统和参数文件非常重要。这里提供一个简单魔板，实现日志写入、参数加载。包含：1、一个可以通过程序把符号、数字等日志信息写入程序的模板。仅依赖C++11（或更高版本）。每次运行新</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247598213&amp;idx=1&amp;sn=2601be682081c7ab0c96b90b3baabb23&amp;chksm=fa88c62bbdffb858f874fdecd6c71a45dc87c88cc0e93b1caf90dd17b6eeabb5c2c363124d20&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 03 Oct 2024 09:20:01 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[学习笔记 | 概率基础：贝叶斯滤波]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFmwfia3Y4mfvmnqqibPicWz2x7SsSLyBOfNXl4Xlx39oiccpPmqwHpVsohFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文主要记录一下，概率公式，先验、后验、似然等概念，并记录对贝叶斯滤波、离散贝叶斯滤波、静态二值贝叶斯滤波、粒子滤波的理解过程。一、条件概率，条件独立联合概率1.1 条件概率与联合概率的概念条件概率是</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247598212&amp;idx=1&amp;sn=6c824c0ed25d70d23de06e78418e95b1&amp;chksm=fa8bd57e8ce2cb79cbf01e43eeb1cc00ee5089456f60543bbd0e1ba38c150c555df2df68c267&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 02 Oct 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
