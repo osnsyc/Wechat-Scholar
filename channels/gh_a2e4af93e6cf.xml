@@ -74,52 +74,181 @@
 
 
     <item>
-      <title><![CDATA[几何关系嵌入]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1R429oYxhN004grxYTNEgeM9TFa6hy204bTJa0KLqlVPH2PUtvI6pQSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在经典的人工智能中，符号知识通常表示为图结构框架中的关系数据，即关系知识库（KBs）。关系知识库存在不完整性问题，许多研究致力于知识库的补全。一种流行的方法是将关系数据映射到低维向量空间中的连续表示，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=1&amp;sn=789fae59516a3773ed917171f624e078&amp;chksm=fd3d9552fbe59d47c5be83a7e817e28b45952b2c76f45a0a2c4fc567ef5021058974944b12b3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[低比特大语言模型综述：基础、系统与算法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2HJmbO2LkpbwHpd3cBy7EZXvctT44pfKYe17Lu4QgHMP43DXMX8aTlGEl0pNYLbmo1rSPvhRF7zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>自然语言处理在各种任务中展现出了卓越的性能。然而，昂贵的内存和计算需求对其实际部署提出了重大挑战。低比特量化作为一种关键方法，通过减少模型参数、激活值和梯度的比特宽度，降低了内存使用和计算需求，从而缓</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658910&amp;idx=1&amp;sn=fab8b28fede72f37fed70fc122684d27&amp;chksm=fd1152c338f26f8d1f6c42d71ba08d53901fa93e2c6d7f2a6222e087320549502ccbec3b5163&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【NeurIPS 2024 Oral】用于多条件分子生成的图扩散Transformer]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1R6KsLSia7RRlcqTQBt3geGfL7Wkdpb20rnqse0bA0leuphCvavA1FEvQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于扩散模型的逆分子设计在材料和药物发现方面具有巨大的潜力。尽管在无条件分子生成方面取得了一定的成功，但将多个性质（如合成评分和气体渗透性）作为条件约束集成到扩散模型中仍未被探索。我们提出了用于多条件</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=2&amp;sn=788035dca0ff73b873ddd30338840989&amp;chksm=fdc08a2460ebcb5420271d540a51ce2eff82caf8bc40ee4456ed6ecaabc84bbbb41d2889f2aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[【普林斯顿博士论文】大型模型的高效扩展：优化原则与数据方面]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2HJmbO2LkpbwHpd3cBy7EZicIFLSAsc1NMo2cTUjic7TN48cO03UfglicqAricNeezrhkM5KCRNoXulw/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，深度学习取得了显著进展。然而，其理论基础，尤其在大模型领域，仍然相对滞后。本文的研究重点在于将坚实的理论基础与大模型高效扩展的实际应用相结合。
+在论文的第一部分中，我们聚焦于神经网络的训练动态</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658910&amp;idx=2&amp;sn=44940ab44c7e290a14c18d0b05ce096d&amp;chksm=fd3ab8bb258d9d38c8279fd1ada08f258d3cbcc934d58f45ad5e3f2c3ba0e09fadb756d46498&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[AI在医疗中的安全挑战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1RerI7feXc04PNycLnxj4umD4fNmOPvjz3mEfVTdI6rSNxqZXOMZFOcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，人工智能（AI）尤其是在深度学习和大型语言模型（LLM）方面的进展，推动了其在医学领域的整合。然而，这些发展也引发了公众对AI安全应用的担忧。在医疗保健中，这些担忧尤为重要，因为AI的伦理和安</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=3&amp;sn=81e52f609a5cc3566b8bad4c87ceba51&amp;chksm=fd4041a6a90ede569c1a655f12d4100ce0829466f360f2f570be7c0c167be7b7a0b9612bf002&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[设计和构建强大的大语言模型智能体]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2HJmbO2LkpbwHpd3cBy7EZicehkpfN25pQYWRy5YA7rk96MTPTc3quvzvHzeVVTMRVJM5ibJXIMbBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>当谈到由生成式 AI 驱动的应用程序时，当前最流行的框架之一是智能体。智能体可以定义为高度专业化的实体，能够通过规划和与周围生态系统的互动来实现用户的目标。在本次讨论中，您将探讨 AI 智能体的主要组</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658910&amp;idx=3&amp;sn=72a3414f61c00dcfdb82788a7f25e24e&amp;chksm=fdf698f7d78c0c24fa9019b858c9e2f296470e2dfdf8fc011e690db10268a166851a6cc2d4c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【教程】通过人类反馈的强化学习，77页ppt]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1Rt8hemLWpqUG1YdJmSuEzM1lQNCDHibayQPdibTxalGibA7cFD1AicmmQrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>通过人类反馈的强化学习Luis Serrano, PhD | 《Grokking Machine Learning》作者，Serrano Academy创始人 | 幻灯片虽然大型语言模型（LLMs）在</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=4&amp;sn=fd8872401b582df133c3883fa565abba&amp;chksm=fdd6a83c3cc589a430b5c85998d805d88794b01e7592ee268b633c06aa0e4dab9db763d8d561&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[【NeurIPS 2024】通过等变性提升多智能体强化学习中的样本效率和泛化能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2HJmbO2LkpbwHpd3cBy7EZ104HRpoW7fpzEWLxGwUxtDIVkA5ZzZKDaAzcvAweEzoicwbfewE9RNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>多智能体强化学习（Multi-Agent Reinforcement Learning, MARL）在样本效率和泛化能力方面存在挑战 [1]。这些挑战部分源于通常用于学习策略的神经网络缺乏结构或归纳偏</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658910&amp;idx=4&amp;sn=1059a8e61eb4de4b7ab5f78cbb0ec73e&amp;chksm=fd7b8a2cbc5b3c154a3c8cfe133dd6b60dc897562b5b3f748656b87ced584a34ac6b57c74c76&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《当前和未来高强度作战中的火炮》最新65页报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1RMde3KbFPuKmBk16vg77axTTg6zZF6IibS7Z4qElW2B961soePCkhFMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>乌克兰战争凸显了北约盟国为长期、大规模和高强度冲突进行规划的重要性。在这种情况下，火炮能力重新获得了重视，不仅明确强调了生存能力、质量、数量和射程，还强调了充足的弹药储备和生产能力。然而，成功整合更广</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=5&amp;sn=2951ab7d93e87098577d2e7ee2baaa15&amp;chksm=fd00125c7ae18661b460786e15acf58cc16184612b0167f9c58f5001744e6e0b06d238c80264&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[大语言模型增强的知识图谱问答研究进展综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2HJmbO2LkpbwHpd3cBy7EZxlb5cFbEITRpZlL106Pia7lt9Blrn7O9nlaa6VEWF8kwWIvAIaHmNjQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知识图谱问答（Knowledge Graph Question Answering， KGQA）是一种通过处理用户提出的自然语言问题，从知识图谱中获取相关答案的技术。早期的知识图谱问答技术受到知识图谱</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658910&amp;idx=5&amp;sn=1b9dbf0a52a8379149bf2d83cd87f663&amp;chksm=fd64aedbc8195947052baa651f968631cd68dc3fcf44da58d92a201f326c3e41260a5ceb59f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】AI智能体的崛起：整合人工智能、区块链技术与量子计算]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1RTj9k5nUyKtO1qsK584SWGTTNxtV7buXickezPTkGNhdNsPIhDSTCwicA/300?wxtype=jpeg&amp;wxfrom=0"/><p>与《AI智能体的崛起》一起探索未来科技在《AI智能体的崛起》中，您将探索人工智能（AI）、区块链和量子计算如何彻底改变世界。本书不仅仅停留在理论层面，还提供了一个实用且富有洞察力的旅程，深入探讨这些颠</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=6&amp;sn=c3564a959afc1b3e6796aece9f66e8b3&amp;chksm=fdbcb20b9d7cd1426cdefc88582f17bee0968bb68024d3eafdbb2047fea56055cea8718914a4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[《数据价值化与数据要素市场发展报告（2024年）》下载]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2HJmbO2LkpbwHpd3cBy7EZzVD6rjtZibPylwQRlqAFuEIxgBam6iaEr3VgWibM8hlzibjMPmsQAQA7Ug/300?wxtype=jpeg&amp;wxfrom=0"/><p>无论是数据、数据资源还是数据要素，都具有虚拟性、可复制性、复用性、增值性、异质性等特征，这些特征也为数据要素这新型要素的管理和治理带来新的挑战。近日，中国信息通信研究院（简称“中国信通院”）发布《数据</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658910&amp;idx=6&amp;sn=60ba67111e7bfe3b763cdc6dbc6ef436&amp;chksm=fd6970777ff58b406e5f758f3df58d61b6bb4186c689a44747f069a566b182ccc6f8a6c6b24e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[小红书搜索：生成式检索的探索与实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zHbzQPKIBPgETldW7wLNhPAdJ3j6pGvhVmGFWm7d7fbhQ4yeaQm7hW14xYb6c6dT185QfkQUOWSE9WvdVqlbag/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读 本次分享主题为生成式检索的探索和实践，将介绍当前常见的检索范式，以及发表于 EACL 的关于生成式检索的一篇论文，重点剖析记忆机制相关问题。主要内容包括以下几大部分：1. 研究团队2. 检索范式</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=7&amp;sn=2cb4d483b90e959e8e7469e71510781a&amp;chksm=fd998734b3a3f5864817818dfa2b69e3a435e9e43d24b5f0628970fcca6c4fc70896916781b7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[语言模型窗口外推技术综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zHbzQPKIBPhP1QEfIWzMutPIoiajPicc5vEqK3gNW8c1hW5z8RuZ7uvm76TB3DOUAuzQaUndZ4EwQreoYCw4A0zQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读 本次分享的题目为“大语言模型窗口外推技术进展”。主要内容包括以下几个部分：1. 摘要2. 绝对位置编码3. 相对位置编码4. 外推能力5. 问答环节分享嘉宾｜姜鑫 北京智源人工智能研究院 研究员</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658910&amp;idx=7&amp;sn=3df8b7f4d82b23fed262cbfc304847a1&amp;chksm=fd77109348ff19af93ec3a08ee5b2e4b2a26a5b578a977c85cb32134156a3cd09494003d054b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=8&amp;sn=772dfc7108de86aed964d4a9a35702c6&amp;chksm=fd32b994194d132dfb926331e479bf36f18e216a7c64aa7b1b1643d482f5501a5d0934ca71f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658910&amp;idx=8&amp;sn=1a9e3e43b55259b2ac1fad295c864b19&amp;chksm=fdf65e11c20c3ea023297ef2257acda2e04fccbd213c6f976f57d75ff573f68a455ebf099a3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[几何关系嵌入]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1R429oYxhN004grxYTNEgeM9TFa6hy204bTJa0KLqlVPH2PUtvI6pQSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在经典的人工智能中，符号知识通常表示为图结构框架中的关系数据，即关系知识库（KBs）。关系知识库存在不完整性问题，许多研究致力于知识库的补全。一种流行的方法是将关系数据映射到低维向量空间中的连续表示，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=1&amp;sn=789fae59516a3773ed917171f624e078&amp;chksm=fd3d9552fbe59d47c5be83a7e817e28b45952b2c76f45a0a2c4fc567ef5021058974944b12b3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【NeurIPS 2024 Oral】用于多条件分子生成的图扩散Transformer]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1R6KsLSia7RRlcqTQBt3geGfL7Wkdpb20rnqse0bA0leuphCvavA1FEvQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于扩散模型的逆分子设计在材料和药物发现方面具有巨大的潜力。尽管在无条件分子生成方面取得了一定的成功，但将多个性质（如合成评分和气体渗透性）作为条件约束集成到扩散模型中仍未被探索。我们提出了用于多条件</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=2&amp;sn=788035dca0ff73b873ddd30338840989&amp;chksm=fdc08a2460ebcb5420271d540a51ce2eff82caf8bc40ee4456ed6ecaabc84bbbb41d2889f2aa&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[AI在医疗中的安全挑战]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1RerI7feXc04PNycLnxj4umD4fNmOPvjz3mEfVTdI6rSNxqZXOMZFOcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，人工智能（AI）尤其是在深度学习和大型语言模型（LLM）方面的进展，推动了其在医学领域的整合。然而，这些发展也引发了公众对AI安全应用的担忧。在医疗保健中，这些担忧尤为重要，因为AI的伦理和安</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=3&amp;sn=81e52f609a5cc3566b8bad4c87ceba51&amp;chksm=fd4041a6a90ede569c1a655f12d4100ce0829466f360f2f570be7c0c167be7b7a0b9612bf002&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【教程】通过人类反馈的强化学习，77页ppt]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1Rt8hemLWpqUG1YdJmSuEzM1lQNCDHibayQPdibTxalGibA7cFD1AicmmQrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>通过人类反馈的强化学习Luis Serrano, PhD | 《Grokking Machine Learning》作者，Serrano Academy创始人 | 幻灯片虽然大型语言模型（LLMs）在</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=4&amp;sn=fd8872401b582df133c3883fa565abba&amp;chksm=fdd6a83c3cc589a430b5c85998d805d88794b01e7592ee268b633c06aa0e4dab9db763d8d561&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《当前和未来高强度作战中的火炮》最新65页报告]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1RMde3KbFPuKmBk16vg77axTTg6zZF6IibS7Z4qElW2B961soePCkhFMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>乌克兰战争凸显了北约盟国为长期、大规模和高强度冲突进行规划的重要性。在这种情况下，火炮能力重新获得了重视，不仅明确强调了生存能力、质量、数量和射程，还强调了充足的弹药储备和生产能力。然而，成功整合更广</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=5&amp;sn=2951ab7d93e87098577d2e7ee2baaa15&amp;chksm=fd00125c7ae18661b460786e15acf58cc16184612b0167f9c58f5001744e6e0b06d238c80264&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】AI智能体的崛起：整合人工智能、区块链技术与量子计算]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1CLGTYCA562wZsjCDUhM1RTj9k5nUyKtO1qsK584SWGTTNxtV7buXickezPTkGNhdNsPIhDSTCwicA/300?wxtype=jpeg&amp;wxfrom=0"/><p>与《AI智能体的崛起》一起探索未来科技在《AI智能体的崛起》中，您将探索人工智能（AI）、区块链和量子计算如何彻底改变世界。本书不仅仅停留在理论层面，还提供了一个实用且富有洞察力的旅程，深入探讨这些颠</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=6&amp;sn=c3564a959afc1b3e6796aece9f66e8b3&amp;chksm=fdbcb20b9d7cd1426cdefc88582f17bee0968bb68024d3eafdbb2047fea56055cea8718914a4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[小红书搜索：生成式检索的探索与实践]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zHbzQPKIBPgETldW7wLNhPAdJ3j6pGvhVmGFWm7d7fbhQ4yeaQm7hW14xYb6c6dT185QfkQUOWSE9WvdVqlbag/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读 本次分享主题为生成式检索的探索和实践，将介绍当前常见的检索范式，以及发表于 EACL 的关于生成式检索的一篇论文，重点剖析记忆机制相关问题。主要内容包括以下几大部分：1. 研究团队2. 检索范式</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=7&amp;sn=2cb4d483b90e959e8e7469e71510781a&amp;chksm=fd998734b3a3f5864817818dfa2b69e3a435e9e43d24b5f0628970fcca6c4fc70896916781b7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658855&amp;idx=8&amp;sn=772dfc7108de86aed964d4a9a35702c6&amp;chksm=fd32b994194d132dfb926331e479bf36f18e216a7c64aa7b1b1643d482f5501a5d0934ca71f5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 06 Oct 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -758,134 +887,6 @@
       
 
       <pubdate>Tue, 01 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[不可错过！CMU最新《生成式人工智能大模型》课程：从文本、图像到多模态大模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2e5ichykeTibLicTSlaXuf1eJyrVTNbh6eZR2eIjsNzJ8Oyuvh48P4WVuKu50YYvV1ckkDaTnfGRSPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 课程简介从生成图像和文本到生成音乐和艺术，生成模型一直是人工智能的关键挑战之一。本课程将探讨推动生成模型和基础模型（Foundation Models）最近进展的机器学习和人工智能技术。学生将学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658530&amp;idx=1&amp;sn=d8f03e78c5e9549fe0dbbb4f4c81643d&amp;chksm=fde9ffffc9e6de54f4b8007b1d281d1e54e810e72beb2ebfb3bc285938eca8f3fe30eea90b90&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【牛津博士论文】大规模观测因果机器学习中的结构与统计不确定性]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2e5ichykeTibLicTSlaXuf1eJN4MBhjBzGZnibaP42vX1QvtTU6GdqOp7pHzS6aTad5JV1KcAmnPjdHA/300?wxtype=jpeg&amp;wxfrom=0"/><p>因果机器学习 (Causal ML) 处理多种任务，包括因果效应推断、因果推理和因果结构发现。本论文探讨了适用于大规模数据集和复杂高维输入/输出模式（如图像、文本、时间序列和视频）的因果机器学习方法中</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658530&amp;idx=2&amp;sn=8f0b98b5b26acca54e9fc6ac698b6b2c&amp;chksm=fd135d5a40df34b098bd281c93c03162bdb6d2cae862cde56d39b675d5e333127d727553f342&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【新书】深度学习与机器学习：推动大数据分析与管理的发展]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2e5ichykeTibLicTSlaXuf1eJ4CRaPs5sOphOyFL775k0j2BFYKglJdNDX2CQnEC5pfqdASpibGfSnEQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本书探讨了人工智能 (AI)、机器学习 (ML) 和深度学习 (DL) 在推动大数据分析与管理进步中的作用。书中着重简化深度学习背后的复杂数学概念，通过直观的可视化和实际案例研究，帮助读者理解神经网络</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658530&amp;idx=3&amp;sn=fae4aa37948dd91f5bd2b7c812444e76&amp;chksm=fdddde25109586f785dc30605a37538804e78da6f3b8b1170b9e259ac94ed3ab24227e18ed47&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2022-24 年俄乌冲突中的海上无人系统 (USV) 概览]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSZJdnmgeLtmEH2EvrfNNSmCwTrao05Nibq8DMLNdXULQnszYPdQhc6yuS2pWibpaFqASxCBCKZHWiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>乌克兰的无人系统：俄罗斯的无人系统：在俄罗斯乌克兰冲突于 2022 年全面发动后，乌克兰迅速发展了一支强大的无机组海军部队。乌克兰利用配备爆炸装置的无人水面舰艇（USV），成功地给俄罗斯海军造成了重大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658530&amp;idx=4&amp;sn=692bf08e69e2667c8cac2f01d64623cd&amp;chksm=fdcb7755dbbc4e17a39648eb8119d933cfcdc86b6cce1c9b0ab75213bb3124aa9d21b8b7623a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【NeurIPS2024】超越冗余：信息感知的无监督多重图结构学习]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2e5ichykeTibLicTSlaXuf1eJQhRspNHLbDHNmcYqod7ZUgC5jsrWvE6AB1D7icK30GSRs8JveRYdEnA/300?wxtype=jpeg&amp;wxfrom=0"/><p>无监督多重图学习 (UMGL) 旨在通过各种边类型学习节点表示，而无需手动标注。然而，现有研究忽略了一个关键因素：图结构的可靠性。现实世界的数据通常表现出复杂的特性，并且包含大量与任务无关的噪声，严重</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658530&amp;idx=5&amp;sn=95b3047fd87582a273f72c17016eeeb9&amp;chksm=fd5e5f3555ca9b0c4e48d63bed6c8d73a34e254adfc373682eb89643bd0987641c6cd624da69&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大语言模型安全开发者手册：构建安全的 AI 应用程序]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2e5ichykeTibLicTSlaXuf1eJtpVp02WYWqzq6KQBBbmIJlSoFeDylCgHs92GdnTg4kXGJeb8ZknSgg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）不仅在塑造人工智能的未来发展轨迹，也揭示了全新的安全挑战时代。这本实用书籍直击这些威胁的核心。作者史蒂夫·威尔逊（Steve Wilson），Exabeam 的首席产品官，专注</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658530&amp;idx=6&amp;sn=e8ffefdc7a09977c3eb8ce60b1f9b15c&amp;chksm=fd8a0a2049e10b09e0fe42bb69a50d4719eb77534515d05d570ab04df8f9776d8517b2462932&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年具身智能产业发展研究报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2e5ichykeTibLicTSlaXuf1eJdtGsmhz0BOfQNgx5nUhEZ3icr3fEUnMDGqMdKoWgF9VfcXmWIGDccpg/300?wxtype=jpeg&amp;wxfrom=0"/><p>2024年，在各大企业纷纷角逐大模型之际，具身智能却“异军突起”，成为推动人工智能向物理世界深度渗透的重要力量。据不完全统计，2024年上半年，具身智能概念创业公司超50家，融资事件频发。同时，在上海</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658530&amp;idx=7&amp;sn=9d4a7df958ae8dda58ecfe945a65530e&amp;chksm=fd2a47f5a4ec04b0f4ce2f00e32314063beaf90da4a9e5e289020a881feebe0bf737167709ab&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658530&amp;idx=8&amp;sn=273899775dfd3d54c86f6ad212d90e45&amp;chksm=fddb3931365a1553dfa85a9e1f7d87b0d2d2ec3c7cf1b91632132b6c47a0f26d041fb1d8999f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 04:00:00 +0000</pubdate>
       
 
     </item>

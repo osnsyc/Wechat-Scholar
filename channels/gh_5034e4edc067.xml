@@ -30,35 +30,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[大模型最热方向：LLM-Multi Agent 来了！！！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLmC7XupDBzUH8LCPfwV9VOKaMibjhXcoJJlcoibBsticpMK6XOKlcKmAbplvEB9jqS2X6ExpH4Icseg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型(LLM)2024年火出圈了。然而,单一的LLM在处理复杂任务时往往力不从心。多智能体辩论方法应运而生，它通过模拟多个智能体之间的互动，提高语言模型在事实性和推理能力方面的表现，有效缓解了单</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=1&amp;sn=01eb66f15725a462cebec66a0d40d1c3&amp;chksm=bfeebb885ab5438fc93723702f03387b012cc5f43f77c184ff44c23cec17955acd5d920a8e98&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI o1 技术初探1：整体框架，利用Test-Time Scaling Law提升逻辑推理能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOibl50lXj5CZaPDGGkyRVkMGRaftWsjfl9b06ZjicQ5Wyh1Yx0whWJ0Rxu5WHteSsPLCiaiaxHWmmDJA/300?wxtype=jpeg&amp;wxfrom=0"/><p>前段日子OpenAI推出的o1模型，以其提升显著的逻辑推理能力，引发了人们对它背后训练方法的热烈讨论。关于o1的介绍和输出结果demo，这里就不再赘述，大家可以去openai的官网上阅读（很短，读起来</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=2&amp;sn=a77fce570c1011ba22111625efcc3d4f&amp;chksm=bfcdb93f7193e0bbf4903b453aa0a972381fed714c86414928337639019c55ebf2bb4958d962&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[还在“卷”长度？长文本模型真的基于上下文进行回复吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag2bO6GGCNvku2fdsq8nsPy8uMeHDr4zyjKIBUKibEHEPgdgF69EVp4CCOMa0CclNWhOUibUJJqiamcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，随着长文本模型（Long-context Model, LCM）技术的突飞猛进，处理长上下文的能力已成为各大语言模型（Large Language Model, LLM）的核心竞争力，也是各大</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=3&amp;sn=d4ede8fee2936b1b0dd8bc1036f4b597&amp;chksm=bf7822b7c912c0ece1d68b5e7f2aa11cb74698d019c09078cadf31a6a468d9ded3221f3fedd5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM模型量化】-官方教程-qwen官方教程v2.0]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBNLaTxqVrRzg2mRJb209Vw8pcLKcXRCjwRXpVZOOqt3zl3BoW7JT1icsUjeoeu8eo8FQlfCI8sHicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载自qwen doc，: https://qwen.readthedocs.io/zh-cn/latest/quantization/awq.html https://qwen.readthedoc</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=4&amp;sn=24758ff0f49a7ed029d8cc961866b0b3&amp;chksm=bf48c4287386221cf7cb46a49d66e09a2cc2ad31e3b538c9521411a1b85a17dd018439c22d56&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[通过负样本挖掘炼出更强Embedding模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh5LiaFLIwDO54vmUP5Jl1SLs5s9J80uLicT44xIShtxmic0pssX4cCz94gyfOKnrico0ibsfibHcgTWTyVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一句话总结：Conan-Embedding模型，旨在通过利用更多和更高质量的负样本来提升嵌入模型的能力。论文原文： https://arxiv.org/pdf/2408.15710研究方法预训练阶段:</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=5&amp;sn=3d5aa09aa3e052658427d4ab82f6ad10&amp;chksm=bfe60e649fab86a6d86ff59a2782a4706819650c3a9f836a2e178841f8052f967da44632a3a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[36岁当上985高校院长！女教授称“最强大的背景”是。。。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLmC7XupDBzUH8LCPfwV9VOkmrIdpPPaS6y46DIom0UAnwGvfGa8CSpdNGElb0NGzupQPRyEU02Zg/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：募格学术 ｜ 整理自中国青年报、天津大学等一袭白色连衣裙，讲话坚定而有力。9月12日，天津大学2024年新生开学典礼举行，药学院院长刘秀云教授作为师友导师代表发言。图源：天津大学新闻网这位年轻</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=1&amp;sn=5a8f5b37607ba3b4807d222b56dbb229&amp;chksm=bf0570be6002d0213333561b73ffb6523b1f0e50a1537f327f0b33246c2061977fbc7542ebd0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【文末赠书】内容透彻接地气的多模态大模型通识读本！国家队大模型紫东太初负责人王金桥力作]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLmC7XupDBzUH8LCPfwV9VOkTZ68QrOyHlcOF5gd2yAKgbObKcPU4DOsceK2kibJMo1TC00iaOBy74Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书--不得不说，如今的大模型应用只有具备多模态能力才更可能在这条赛道上脱颖而出，被更多人所使用！在人工智能的浪潮中，多模态学习作为一颗冉冉升起的新星，正引领着技术的未来。从ChatGPT的火</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=2&amp;sn=c32dfb91076d5850d1294eaa46a4aee3&amp;chksm=bf85b0c8ccd0ddda16ee2fc5bb25522d7ce7e7347070510cd5cd4436640fb682243003d2d211&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[多模态大模型: 盘点&amp;Highlights part3——Gemini系列]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPyhqhSGTqefbv3CtwPZCGJRlt35WYuzPmicHeytQ9qeYWe01wPavHcwU6DYgxABX4jkZ3AoZIjosCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言Hi大家好，我叫延捷，是一名计算机视觉算法工程师，也是叉烧的老朋友了。我们计划发布一系列关于多模态大模型的文章，帮助大家快速、精准地了解多模态大模型的前世今生，并且深入各个多模态大模型领域优秀的工</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=3&amp;sn=6bcc26cdefcd923ed3c245fe40e373ed&amp;chksm=bfac0979634c8d4697b6497048b0941f4ce49ee7f8b397dc1b29e34a85b74aa6d7ee9f44be5f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM模型量化】-官方教程-hf-Transformers官方教程v1.0]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBNLaTxqVrRzg2mRJb209Vw8pcLKcXRCjwRXpVZOOqt3zl3BoW7JT1icsUjeoeu8eo8FQlfCI8sHicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：https://huggingface.co/docs/transformers/main/zh/main_classes/quantization量化 🤗 Transformers 模型-A</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=4&amp;sn=6600ff888bb5ed5fb42c29889aea0ace&amp;chksm=bf5c6dfea8d55f290004e923ca6f51cab3da0c303c26aab8be8584016705e566ee09d062b335&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[KDD Cup 2024 Meta LLMs RAG挑战赛冠军方案开源]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UkaMPMaoibmia9olzZnRkTqRbCl1QqBrwF3rGeAueJhs3BS742rjrU9KazYlbu1ibNn7XJmKnnKic2KvibCZcFpcZfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>先介绍下赛题：赛题背景研究表明，GPT4对快速变化事实的准确性通常低于35%。LLM（大型语言模型）基于AI代理可能出现幻觉性回应的频率取决于多种因素，包括训练数据中的偏见、缺乏上下文理解以及知识表示</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=5&amp;sn=8c3c96f34c54a1e49eab18bf6c7a6500&amp;chksm=bf41319a721a1fbf381a23ba1ac817551fd3fd68575e490802a680db397e73b840c26ca8369c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -105,166 +190,6 @@
       
 
       <pubdate>Fri, 04 Oct 2024 12:06:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2 源码解析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKARpcFPLEDMBxoRYxIqVVNXmtE0CDjTsW8Luf4SXeCJ3JgIwosUxVoXicM9dbtBNxCTWMzCdMGvMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>注：作者 wangs，毕业于985高校，曾在中国科学院国家重点实验室开展科研工作。从学期间，发表了1篇SCI论文、1篇EI论文，并申请了若干项专利。主要研究方向集中在大模型（LLM)和（RAG）等领域</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445209&amp;idx=1&amp;sn=bbba96cfe4fe9405f0d6274c1419d563&amp;chksm=bf76df200fcc021e2203e3b487b6699a79ecc9e214724fb27e2089c4e642c11e5805ad0c2c62&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Sep 2024 13:42:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[避开复数推导，我们还可以怎么理解RoPE？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkO38Hh3kiaBp0W8SCQXcdG6uuZnKqvbsmgNrE1PxOHW2L7Iic4x9Ca47utibGj6HWejn2LpHqvyyrp4A/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，今天的这篇文章，我想避开复数的推导，从一些全新的、更好玩、更可视化的角度，来探究RoPE的原理和各种性质。这里所说的“可视化”，不仅仅是大家熟悉的“空间向量的旋转”，而是：具体能让你在调控Ro</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445209&amp;idx=2&amp;sn=4f32e7b928ae01d13e1c8b75c2ada70b&amp;chksm=bf8ef664ee49e7955bb8798bfb614c592c9048ef95ef30a0be18bf5c968d55a3b1a353ba76a2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Sep 2024 13:42:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[希望这篇是最清晰好懂的 Layernorm 原理解析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LrbmPIAsVRUwTLfVZibN8DLbyhVWrickfotcibib8wQhPr747CP2Low4jblCTqP33geofukp0z4KRDGNxN7fTOprBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这一篇文章主要讲讲 Layer Normalization。在本文里，Layer Normalization 统一都被称为 layernorm。字面意思就是层归一化，也属于数据分布归一化的一种。在神经</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445209&amp;idx=3&amp;sn=8499f97ee755083b01a3d36bfc19b068&amp;chksm=bfa0e31036817b6ab9a0847c329df802277b08462c60cdcf711dc9376209d40e3b3fda5ab1da&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Sep 2024 13:42:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[搭建 RAG 系统的技巧和策略]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BwrOLGIZh5WuZp613xvq7X9ib2Hu8Tj2LLVdPfktNFJ2iaXk7owCzXODrLuuj3Owm5ibibtytxwodAwdKeQSzSb4Sw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者 | Yuan Shaozu【导读】RAG（Retrieval-Augmented Generation）是一种结合检索和生成的混合系统，在当前大模型的实际应用中具有重要意义。以下是我在之前分</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445209&amp;idx=4&amp;sn=5e481adddedc499fbba9a7d534380cee&amp;chksm=bf05b905d035e44e7ffae9d3d1b7663ec2fdd97cadad5ff5e71e0277c0d419230aa82cc4fdcd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Sep 2024 13:42:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型位置编码概览及在图像视频领域应用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vImdeGStOOcicQuxInGN4EPrnAy1t8Auaqu01rMuaDj31GSPk39S7AAkrJgPBdlPyk867QOkJQI1ttZYRZHYJtA/300?wxtype=jpeg&amp;wxfrom=0"/><p>     本文主要总结了下大模型位置编码，以及位置编码在图像/视频上的应用及变种。一、  为什么要有位置编码？由于attention的设计，计算的是token的矩阵乘法，矩阵元素之间除了相似关系没有其</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445209&amp;idx=5&amp;sn=bb2960329a7019d7c040d365cfad52d5&amp;chksm=bf21f551cbfb0427f1a7e05a24a44dc754c74f8862256ced5fcde1032c661643545f923ff28c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Sep 2024 13:42:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[技术上，如何复现 o1?]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLnL1vTS0Gop09HAz1jYJATTG7fe4EoZhgCHvibXnQw52JKGRcnSibQuRx3EZXfExiaicz8sfwibDz4j3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：周舒畅链接：https://zhuanlan.zhihu.com/p/720127190基础模型搞 o1 首先需要一个基模，这个基模必须是：能进行“长”生成。注意这和“长 context”不是一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444938&amp;idx=1&amp;sn=51efa3f775a7f157d617c3ee1173d705&amp;chksm=bf02bcd87ecec0e6c5393ab9e834bbe7400765f140e590ba94eb49df9e0dd4279aa60f77bbd0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Sep 2024 13:57:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[全量指令微调有害！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLnL1vTS0Gop09HAz1jYJATuxViawCndp2BicLTxsW3ib8X9UwbA20wzcSAZkNuSbonI9sowKoB6k4Iw/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：楠楠楠楠x  链接：https://zhuanlan.zhihu.com/p/721870518https://openreview.net/forum?id=XkHJo8iXGQ本文介绍一篇相</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444938&amp;idx=2&amp;sn=66709c5bea393b87e0db0f8b611027cc&amp;chksm=bf3bc06657d19094f4442ac4a6ebc6ce005e274c37c29d7efe4ff04bde8efabc08ce247fc96c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Sep 2024 13:57:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2.5-Coder 技术报告详细解读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajR5iaVgyAYgBz3CGJd8icONwQXgkHcIl2ahNBlWpjv7vvGzAKITaeFThPH3MjfAmMauLO88hRg64LQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Xode链接：https://zhuanlan.zhihu.com/p/7211894990. 前文1. 模型架构2. Tokenizer3. 预训练3.1 数据3.2 训练4. Post-Tr</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444938&amp;idx=3&amp;sn=09e7f0772ab035cf27614253f130848d&amp;chksm=bf418c00fbfcc942e1b9caa1138606b1f739f391ff09ac93c6b8ac582f30dbe5f3afaf509a82&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Sep 2024 13:57:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Bge-en-icl: 当in-context learning遇上了text embedding...]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpsBj3RsWAbywuTEXdljjM4wJibyvfCKMDHEdNTVPJrNGDW1fg4kURu5HZfwtibBZejVK9cl1lic4k6Ng/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介2 方法    2.1 模型输入    2.2 Pooling策略    2.3 训练方式3 实验4 实验结论5 讨论参考文献1 简介    In-context learning作为大模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444938&amp;idx=4&amp;sn=60a8f31b80a33e8bc83083a66357cde9&amp;chksm=bf8ad969f4bc1b101fc3cd9b5f2d82261354c88887f9fb9e180961c55545af36b06e469fe182&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Sep 2024 13:57:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[普林斯顿大学提出首个基于MoE的稀疏时序预测大模型，参数量扩展到2.4billion]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dcUv9UF2OUWExicV2x7NVsdKYBsnczia0dOOP1Fx47wQlQBA26Sdh2ibDRNX4I6YeEA2Mu5t4SSd3sacfxv3icpwvA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一篇普林斯顿大学提出的时间序列大模型工作，是首个基于MoE的百万级别参数时间序列大模型，将时序大模型参数量扩展到2.4billion的水平，在多个数据集上取得了显著优于其他时间序列大模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650444938&amp;idx=5&amp;sn=4ecc2b8a65c801b19c10cb618a51c8c2&amp;chksm=bf530afbab88a64082858c926fd22f6b90dadbb6767cca8ed4aa96c17717ded97952bf149744&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Sep 2024 13:57:03 +0000</pubdate>
       
 
     </item>
