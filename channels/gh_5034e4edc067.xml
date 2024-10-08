@@ -30,40 +30,115 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[又一本开源免费的大模型书来了，449页pdf！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLqRFgO1HNQMUngG5LfKK4eN15Rxeib8cEFnJzb40Okh6icNvR3v0o2Irr32NgWJVwGKibOic18ibly1ibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍《自然语言处理：大模型理论实践》（预览版）一书以自然语言处理中语言模型为主线，涵盖了从基础理论到高级应用的全方位内容，逐步引导读者从基础的自然语言处理技术走向大模型的深度学习与实际应用。自然语言处</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445276&amp;idx=1&amp;sn=c7f802b7f6758907a73c95afb518de58&amp;chksm=bf0e5321a5053ad603ce37d0ee27cc5a5e7b8ea9dac749b1acd07981023487bae5939b863eb0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 08 Oct 2024 02:09:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM高效预训练(二)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467AukRdq9SPFe8zBtoWBI5qwLzXc0AkmRvUJQckrJ9FNS945oko2LyzVPib0HadCTZHxWhDYv47hyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>从目前的实践结果来看，从大模型通过裁剪、蒸馏等手段获取小模型，效果是比较好的，同时成本也相比直接从零预训练要低廉得多，而且也免去了大量收集数据和清洗数据的工作。今天就集中讲一下模型裁剪的工作。裁剪 +</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445276&amp;idx=2&amp;sn=be55cd18bf4fc30bddd4f7302515818c&amp;chksm=bf4f2b2c1813ea2b84486f875625ae17069cdfaca2aaa417a6091a1391a65a4f95f884c83a80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 08 Oct 2024 02:09:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI o1 技术初探2：使用MCTS增强推理能力（基于代码实践的解读）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNOOc1O2OnNnXpEv2R0OHfQv4IF4YU0RbzQ7436wjX43s2uKAib2SEtMSnbHO46N5fgw3M4IlLW7uw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在o1的整体框架篇中（https://zhuanlan.zhihu.com/p/773907223），我们从现有开源的论文和代码中（https://github.com/hijkzzz/Awesome</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445276&amp;idx=3&amp;sn=fc255f07e150ca773e62dc516e5d5121&amp;chksm=bf890bf8ca84e757dd25fb773beef81cc146e5b6c9dcd369c13416befac8ada8f50ce9d04d53&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 08 Oct 2024 02:09:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型落地困境讨论与解决思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPxiciaXd4CDibrv60kBrU2Y8IiatCIvsFeVh9FUic7uojDicGY5MXDMHFZunkz3269xP6VAx2icXeJrtCHug/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型出来的时间也不短了，以chatgpt发布时间为里程碑（22年11月），至今已经快过了两年时间，虽然目前的热度仍未下降，但是从我最近和几个朋友的沟通来看，大家的心态已经逐步从当初的热情变成了目前的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445276&amp;idx=4&amp;sn=99b0529aa06d04a83742f45111a4300c&amp;chksm=bf9016e6a620801056e051663725f911fae93436bc231c660e54d789a4d54ecdc7187ae24903&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 08 Oct 2024 02:09:41 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Neurips 2024 | 通过解耦的位置向量探索大语言模型的上下文窗口]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0OqDtrZdAFnbK0LoDIlgk6MVCibM1rWlAa2wWwjQVWia9RKWH9PkL2jJ4uWo3h0TT9r6ypfuFm5QF9LA/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜董梓灿‍‍‍‍‍‍‍‍机构｜中国人民大学研究方向｜大语言模型、长文本处理基于Transformer的大语言模型天然具有固定的上下文窗口。虽然已有一些方法用于拓展上下文窗口，但对于其背后的原理</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445276&amp;idx=5&amp;sn=119d6c445e7427941eae15ea34599bf8&amp;chksm=bfdcb8dca5927742a6e9b303e6201e9c94a80df3d271959221c0c570a3c68fb35485eeaa244e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 08 Oct 2024 02:09:41 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[大模型最热方向：LLM-Multi Agent 来了！！！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLmC7XupDBzUH8LCPfwV9VOKaMibjhXcoJJlcoibBsticpMK6XOKlcKmAbplvEB9jqS2X6ExpH4Icseg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型(LLM)2024年火出圈了。然而,单一的LLM在处理复杂任务时往往力不从心。多智能体辩论方法应运而生，它通过模拟多个智能体之间的互动，提高语言模型在事实性和推理能力方面的表现，有效缓解了单</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=1&amp;sn=01eb66f15725a462cebec66a0d40d1c3&amp;chksm=bfeebb885ab5438fc93723702f03387b012cc5f43f77c184ff44c23cec17955acd5d920a8e98&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OpenAI o1 技术初探1：整体框架，利用Test-Time Scaling Law提升逻辑推理能力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOibl50lXj5CZaPDGGkyRVkMGRaftWsjfl9b06ZjicQ5Wyh1Yx0whWJ0Rxu5WHteSsPLCiaiaxHWmmDJA/300?wxtype=jpeg&amp;wxfrom=0"/><p>前段日子OpenAI推出的o1模型，以其提升显著的逻辑推理能力，引发了人们对它背后训练方法的热烈讨论。关于o1的介绍和输出结果demo，这里就不再赘述，大家可以去openai的官网上阅读（很短，读起来</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=2&amp;sn=a77fce570c1011ba22111625efcc3d4f&amp;chksm=bfcdb93f7193e0bbf4903b453aa0a972381fed714c86414928337639019c55ebf2bb4958d962&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[还在“卷”长度？长文本模型真的基于上下文进行回复吗？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag2bO6GGCNvku2fdsq8nsPy8uMeHDr4zyjKIBUKibEHEPgdgF69EVp4CCOMa0CclNWhOUibUJJqiamcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，随着长文本模型（Long-context Model, LCM）技术的突飞猛进，处理长上下文的能力已成为各大语言模型（Large Language Model, LLM）的核心竞争力，也是各大</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=3&amp;sn=d4ede8fee2936b1b0dd8bc1036f4b597&amp;chksm=bf7822b7c912c0ece1d68b5e7f2aa11cb74698d019c09078cadf31a6a468d9ded3221f3fedd5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM模型量化】-官方教程-qwen官方教程v2.0]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBNLaTxqVrRzg2mRJb209Vw8pcLKcXRCjwRXpVZOOqt3zl3BoW7JT1icsUjeoeu8eo8FQlfCI8sHicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载自qwen doc，: https://qwen.readthedocs.io/zh-cn/latest/quantization/awq.html https://qwen.readthedoc</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=4&amp;sn=24758ff0f49a7ed029d8cc961866b0b3&amp;chksm=bf48c4287386221cf7cb46a49d66e09a2cc2ad31e3b538c9521411a1b85a17dd018439c22d56&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[通过负样本挖掘炼出更强Embedding模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vtIvcrPJjh5LiaFLIwDO54vmUP5Jl1SLs5s9J80uLicT44xIShtxmic0pssX4cCz94gyfOKnrico0ibsfibHcgTWTyVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一句话总结：Conan-Embedding模型，旨在通过利用更多和更高质量的负样本来提升嵌入模型的能力。论文原文： https://arxiv.org/pdf/2408.15710研究方法预训练阶段:</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445261&amp;idx=5&amp;sn=3d5aa09aa3e052658427d4ab82f6ad10&amp;chksm=bfe60e649fab86a6d86ff59a2782a4706819650c3a9f836a2e178841f8052f967da44632a3a9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
+      
+
     </item>
     <item>
       
