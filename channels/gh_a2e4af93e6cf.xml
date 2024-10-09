@@ -74,52 +74,180 @@
 
 
     <item>
-      <title><![CDATA[《视觉中的Mamba：技术与应用》全面综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrtMzBl4zRO3jUsVwHmYE5x8FenZbM9XFm47ibCEN0mvtg649yiaZjF5vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Mamba 正在成为克服卷积神经网络（CNNs）和视觉Transformers（ViTs）在计算机视觉中面临的挑战的新方法。虽然 CNNs 在提取局部特征方面表现出色，但它们往往难以在不进行复杂架构修</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=1&amp;sn=09d50e8c662cdac84067278f47700587&amp;chksm=fd3bbb0da85878f9bf6bba12166125c956bdfb91e64465510dfae4c076ff328d12cba0e0103d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[《语音大语言模型》最新进展综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1ymI3rP0OzMtIterXNYupq97FJLmgC9pTSC7Fru7TpJSSRAACsibrTndkV73ocvUO23XkgI1hGVEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型 (LLMs) 近期因其文本交互能力而受到广泛关注。然而，自然的人类互动通常依赖语音，这促使人们向语音模型转变。一种实现这一目标的直接方法是使用“自动语音识别 (ASR) + LLM + </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658982&amp;idx=1&amp;sn=45523ff651e296a95c51d15de7f97804&amp;chksm=fd999437b84f51d894a2bc547967d85f00558bf5423766a316db9282a40cc0b60c29551ca8fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【普林斯顿博士论文】在差分隐私机器学习中有效地从数据中学习和生成数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrOxuJpqECv89skKAia7pv8n4BzcjSWPY8IPwyAF6cbO7cKQP3M0VAicMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习模型容易受到多种利用训练模型数据泄露的攻击。差分隐私（DP）是量化隐私风险并提供对抗攻击的可证明保证的黄金标准。然而，在差分隐私下训练机器学习模型通常会导致显著的效用下降。本论文研究如何在差分</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=2&amp;sn=c4a5889d6f1ea11564b7600fdafa22c3&amp;chksm=fd1795c706920ef597307f48e1bd5fba3d05bda7626a9c3268ee76782c540d0bbbee14a8001e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[【普林斯顿博士论文】将负责任的机器学习落地：从平等走向公平]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1ymI3rP0OzMtIterXNYupqhvVTRZia1HCx82kUpWVibiayEQRg9UZnTIq7EUbugQBaP4PcyiaOExfzvw/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着机器学习的广泛普及，这项技术既带来了社会效益的机会，也存在产生危害的风险。负责任的机器学习具有挑战性，因为技术方法往往优先考虑便利性，并采用数学上的公平性定义，从而可能抽象化了现实世界中公平性的相</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658982&amp;idx=2&amp;sn=b9f072e7d5a9ded643b86b1c340cb121&amp;chksm=fd4660d95e89a9da890f6949db9a57bafbd8e429eefed6422257e9ed7b9a01d774675919ac72&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【NeurIPS 2024】分治与共识的结合：释放函数在代码生成中的强大力量]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrWxK9Lw2qUhkLibfGYEr9dA2PlHqT32qje9yZCawqwZxyeqtXh9zXg8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）在代码生成方面取得了显著进展，但它们在处理具有复杂需求的程序时仍面临挑战。近期的研究尝试通过“规划与求解”（Plan-and-Solve）的分解策略以降低复杂性，并利用自测机制不</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=3&amp;sn=9fe385fc4f0f4aebfd04ea09ef2c0df0&amp;chksm=fd59b67e325da0cb09815b8ce9e619f20d097e1a570e227e904143ac8d671c60bbdeb2fcd235&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[军事战略变革：机器生成作战规划，实现高速决策]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQDM8HCAZY6icf5mG8JPBbIpzbGI9R9Z1WMHLmOR0ibT3ibhnoLnEicFT4tnMCh2M0W47mZVm7HAEWDQQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器生成的军事作战规划战略简介用于军事作战规划的机器生成战略是战争领域的一大进步，有可能彻底改变战略决策过程。部分创新战略由 BAE 系统公司开发，是 SCEPTER 计划的一部分，旨在以计算机的速度</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658982&amp;idx=3&amp;sn=2941120782791c61294da2875f79350b&amp;chksm=fd7d6e90d82626f05720adc375f0be93b08b0ae5ef64f12cb42c4f0d98ae52044f2e6e795a5e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Neurips 2024 | 通过解耦的位置向量探索大语言模型的上下文窗口]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0OqDtrZdAFnbK0LoDIlgk6MVCibM1rWlAa2wWwjQVWia9RKWH9PkL2jJ4uWo3h0TT9r6ypfuFm5QF9LA/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜董梓灿‍‍‍‍‍‍‍‍机构｜中国人民大学研究方向｜大语言模型、长文本处理基于Transformer的大语言模型天然具有固定的上下文窗口。虽然已有一些方法用于拓展上下文窗口，但对于其背后的原理</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=4&amp;sn=5c22f278511d10bd75fbb32d34b5a110&amp;chksm=fd400646a077bb053c26c46716b4e984d3cdc3900b8980aa29ad5067cf1e779a23bfd288e92c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[智能金融稳步前行：构建负责任的可信大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zHbzQPKIBPhP1QEfIWzMutPIoiajPicc5v3R1VI7jZbibWRicBuTVfEf4P3NQDPNnW6n9dFapLnZo991tCsG63N9xQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读 在人工智能技术飞速发展的今天，大模型的应用已经渗透到金融等多个领域。本文将分享东方财富人工智能研究院在大模型可信度提升方面的工作，以及 AI 领域的最新进展，特别是大模型在金融场景中的应用实践。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658982&amp;idx=4&amp;sn=b39d695f403269af26690709c786d9f2&amp;chksm=fd08358d98dace3a242f53a1dd678876941dcf618280d9fa591b02c6b0447d31cbc020acdd21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[人工智能赋能数字兵棋推演以支持决策]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSQlakMx6qtJ41JzaZ2t1nJRkqK8ptaQ62LeZPpiaUicEru2FISxOQQI92KsxmBicEGhmibWS7CSbhiaEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这个前所未有的技术驱动转型时代，我们比以往任何时候都更需要积极投资开发强大的人工智能（AI），用于兵棋推演以支持决策。通过推进人工智能系统并将其与人类判断力相结合，将能增强全域感知，提高决策周期的速</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=5&amp;sn=0e0ce093bcbfd96b4eb1c697fd845e5b&amp;chksm=fd3e9ce0fead29dc3251f88c7360ae4e17f891b884d32fd7cfd2309c52bab0d954a58497e51a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[AI大模型创业格局报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1ymI3rP0OzMtIterXNYupq4y5gbuibpWRaNkYTMeWiawHQVcma5jVQDr9n3PjYia8wicONfMVsP141ew/300?wxtype=jpeg&amp;wxfrom=0"/><p>模型　　在模型维度上，本章将根据各家创业公司特点有侧重地介绍其研发历程、模型能力特点、架构特色、矩阵构成、Benchmark成绩、AGI路径规划等情况中的一到三项。　　应用　　在应用维度上，本章将根据</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658982&amp;idx=5&amp;sn=4117549ebc4f9efe2cd4f553fabb78c2&amp;chksm=fd0881f7c4993425f9950b0d13dd5da1e974cb44b821fbfd4c3cf14b152b3b8192c511a9397d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[AI 开发生命周期：大规模语言模型（LLMs）带来的变化学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrj2WlpvLj47twOJIia5gBSszP8BaNLSwic1G1ibFW0u1muX6WsFvKv7wbg/300?wxtype=jpeg&amp;wxfrom=0"/><p>使用大规模语言模型（LLMs）来构建模型和流水线极大地简化了概念验证的构建过程，但同时也使得模型评估变得更加具有挑战性。因此，评估步骤往往被忽视，导致重复迭代却未能深入了解产品的真实性能。本次演示中，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=6&amp;sn=57145b5ea0bc4208777278c28ba1a6d8&amp;chksm=fd4b5b0a95486ee7a2c0f3b0d0e39f06e9ddde79f246c8c2edb1f3376bdde9acb396a70e1f31&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[【NeurIPS2024】TableRAG：基于语言模型的百万标记表格理解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1ymI3rP0OzMtIterXNYupq1qtzVjAztic44q4ZtVYK0uCl5LU6icYTcDGJf3hNM4aYQYxZmTvjMN4g/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着语言模型（LM）在处理表格数据能力方面的显著进步，尤其是通过程序辅助机制来操控和分析表格数据，其推理能力得到了显著提升。然而，这些方法通常需要将整个表格作为输入，这导致了由于位置偏差或上下文长度限</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658982&amp;idx=6&amp;sn=593d441a15035a6e292a4e00c9f32cd5&amp;chksm=fde466df3b97fe61a6f575df8fba772aa5924867cb22d6da2c996210dd80535dcbe9461248ca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【书籍】检索增强生成（RAG）在大规模语言模型（LLM）应用中的应用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrq8SWP5IkljouUssRxb3yl0JiaarFcU5vZS0wiazUsicSPsxFYLo02VZiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本指南旨在帮助数据科学家、机器学习工程师和机器学习/AI 架构师探索信息检索与 LLMs 的集成及其相互增强。特别聚焦于 LLM 和检索增强生成（RAG）技术在信息检索中的应用，通过引入外部数据库与 </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=7&amp;sn=8163e67753180cf9c54e065bb12d74f7&amp;chksm=fdbd052841bf3760c55c36da20065c3fecfe6fc9ebf44eff226fb992e4806438b8c67595bd5b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[2024年诺贝尔物理学奖，颁给了搞AI教父Hinton和Hopfield！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/vI9nYe94fsGldJqkH7hic2WpBKU3wRvcnsqAkbSAIyXXxko4w0qtzuqVNnWyYzfk9PgwRbYk6hKaGJ6FLibsmSUg/300?wxtype=jpeg&amp;wxfrom=0"/><p> Datawhale分享 公示：诺贝尔奖，编辑：Datawhale人工智能终于不是技术，而是科学啦！刚刚，2024 诺贝尔物理学奖揭晓！2024 诺贝尔物理学奖授予了 John J. Hopfield</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658982&amp;idx=7&amp;sn=8b44814bac8dbfcda05e38e468d9f9e4&amp;chksm=fd10b31ebd3f0b2bd32629789bd1fee294c078ace066aff347234d64a18b84d8c6c82ffd8ca8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=8&amp;sn=8bd499eb95d71f58a0127c2518f0842a&amp;chksm=fd12b476c1254c110e258046daf4de889afd2e0bdca86886b7d8dd127b4be850f3c69864a620&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658982&amp;idx=8&amp;sn=11c187969aee745d49cf947323a0ae02&amp;chksm=fd16a038079bf1aeb1b44643e665f94a5165a4946a08351df3dbbca6a87e4606d1c7e3c13cac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《视觉中的Mamba：技术与应用》全面综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrtMzBl4zRO3jUsVwHmYE5x8FenZbM9XFm47ibCEN0mvtg649yiaZjF5vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Mamba 正在成为克服卷积神经网络（CNNs）和视觉Transformers（ViTs）在计算机视觉中面临的挑战的新方法。虽然 CNNs 在提取局部特征方面表现出色，但它们往往难以在不进行复杂架构修</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=1&amp;sn=09d50e8c662cdac84067278f47700587&amp;chksm=fd3bbb0da85878f9bf6bba12166125c956bdfb91e64465510dfae4c076ff328d12cba0e0103d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【普林斯顿博士论文】在差分隐私机器学习中有效地从数据中学习和生成数据]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrOxuJpqECv89skKAia7pv8n4BzcjSWPY8IPwyAF6cbO7cKQP3M0VAicMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习模型容易受到多种利用训练模型数据泄露的攻击。差分隐私（DP）是量化隐私风险并提供对抗攻击的可证明保证的黄金标准。然而，在差分隐私下训练机器学习模型通常会导致显著的效用下降。本论文研究如何在差分</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=2&amp;sn=c4a5889d6f1ea11564b7600fdafa22c3&amp;chksm=fd1795c706920ef597307f48e1bd5fba3d05bda7626a9c3268ee76782c540d0bbbee14a8001e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【NeurIPS 2024】分治与共识的结合：释放函数在代码生成中的强大力量]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrWxK9Lw2qUhkLibfGYEr9dA2PlHqT32qje9yZCawqwZxyeqtXh9zXg8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）在代码生成方面取得了显著进展，但它们在处理具有复杂需求的程序时仍面临挑战。近期的研究尝试通过“规划与求解”（Plan-and-Solve）的分解策略以降低复杂性，并利用自测机制不</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=3&amp;sn=9fe385fc4f0f4aebfd04ea09ef2c0df0&amp;chksm=fd59b67e325da0cb09815b8ce9e619f20d097e1a570e227e904143ac8d671c60bbdeb2fcd235&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Neurips 2024 | 通过解耦的位置向量探索大语言模型的上下文窗口]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0OqDtrZdAFnbK0LoDIlgk6MVCibM1rWlAa2wWwjQVWia9RKWH9PkL2jJ4uWo3h0TT9r6ypfuFm5QF9LA/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜董梓灿‍‍‍‍‍‍‍‍机构｜中国人民大学研究方向｜大语言模型、长文本处理基于Transformer的大语言模型天然具有固定的上下文窗口。虽然已有一些方法用于拓展上下文窗口，但对于其背后的原理</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=4&amp;sn=5c22f278511d10bd75fbb32d34b5a110&amp;chksm=fd400646a077bb053c26c46716b4e984d3cdc3900b8980aa29ad5067cf1e779a23bfd288e92c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[人工智能赋能数字兵棋推演以支持决策]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSQlakMx6qtJ41JzaZ2t1nJRkqK8ptaQ62LeZPpiaUicEru2FISxOQQI92KsxmBicEGhmibWS7CSbhiaEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这个前所未有的技术驱动转型时代，我们比以往任何时候都更需要积极投资开发强大的人工智能（AI），用于兵棋推演以支持决策。通过推进人工智能系统并将其与人类判断力相结合，将能增强全域感知，提高决策周期的速</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=5&amp;sn=0e0ce093bcbfd96b4eb1c697fd845e5b&amp;chksm=fd3e9ce0fead29dc3251f88c7360ae4e17f891b884d32fd7cfd2309c52bab0d954a58497e51a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[AI 开发生命周期：大规模语言模型（LLMs）带来的变化学习]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrj2WlpvLj47twOJIia5gBSszP8BaNLSwic1G1ibFW0u1muX6WsFvKv7wbg/300?wxtype=jpeg&amp;wxfrom=0"/><p>使用大规模语言模型（LLMs）来构建模型和流水线极大地简化了概念验证的构建过程，但同时也使得模型评估变得更加具有挑战性。因此，评估步骤往往被忽视，导致重复迭代却未能深入了解产品的真实性能。本次演示中，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=6&amp;sn=57145b5ea0bc4208777278c28ba1a6d8&amp;chksm=fd4b5b0a95486ee7a2c0f3b0d0e39f06e9ddde79f246c8c2edb1f3376bdde9acb396a70e1f31&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【书籍】检索增强生成（RAG）在大规模语言模型（LLM）应用中的应用]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0Ucp5N43MeDWQDJy54HgKrq8SWP5IkljouUssRxb3yl0JiaarFcU5vZS0wiazUsicSPsxFYLo02VZiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本指南旨在帮助数据科学家、机器学习工程师和机器学习/AI 架构师探索信息检索与 LLMs 的集成及其相互增强。特别聚焦于 LLM 和检索增强生成（RAG）技术在信息检索中的应用，通过引入外部数据库与 </p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=7&amp;sn=8163e67753180cf9c54e065bb12d74f7&amp;chksm=fdbd052841bf3760c55c36da20065c3fecfe6fc9ebf44eff226fb992e4806438b8c67595bd5b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658943&amp;idx=8&amp;sn=8bd499eb95d71f58a0127c2518f0842a&amp;chksm=fd12b476c1254c110e258046daf4de889afd2e0bdca86886b7d8dd127b4be850f3c69864a620&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 08 Oct 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -759,134 +887,6 @@
       
 
       <pubdate>Thu, 03 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《基于扩散模型的条件图像生成》综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2GV4dHOFr3n6w8X6OEr9qtMtt4KLYbib4MBwqGlwK8LqITAAUeFEjsGcqIibXPDsqDVARzsF2yG8xQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要——基于用户指定要求的条件图像生成是创建复杂视觉内容的关键组件。近年来，基于扩散的生成模型已成为条件图像生成的一个非常有效的方法，导致了相关文献的爆炸式增长。然而，扩散模型的复杂性、图像生成任务的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658627&amp;idx=1&amp;sn=e7a200fb9080846c0d07736022e30895&amp;chksm=fd4419e5394986fcca1b72ae1a3e01c4d39926e6105e4c8b16399951271a13378e09177e4aab&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【斯坦福博士论文】自适应推理系统：概念、理论与应用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2GV4dHOFr3n6w8X6OEr9qtps8IiaHrK8PWvaHuVHVdwglduwSKQKnYoDtteicwPiayGodkN7Rgz03Gw/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着摩尔定律的放缓，提升处理器的尺寸、性能和效率变得越来越具有挑战性，硬件性能可预测提升的时代已经结束。同时，高清传感器在消费设备和自动化技术中的广泛应用，推动了感知数据的大幅增长。当前全球趋势表明，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658627&amp;idx=2&amp;sn=10edeb950d5b7b401f64bdd7bf22a3a3&amp;chksm=fd99a238b55a28bcc8e79b34e3c15bbbbb02effcb5310a74d521cd6c19c111147a31170bb15c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【NeurIPS2024】迈向统一的多模态编辑与增强的知识协作]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2GV4dHOFr3n6w8X6OEr9qtFMcwmKwwf5M7Row33EBQgAG06Bgbvc0C0Pp170bKc2ykrwYcj4Ph4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着多模态大语言模型 (MLLMs) 的快速发展，有效的知识编辑也面临着巨大的挑战。现有方法，包括内在知识编辑和外部知识检索，各自具有优缺点，但在应用于 MLLMs 时，难以平衡可靠性、通用性和局部性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658627&amp;idx=3&amp;sn=eda530a6f2f4ba6c18b6184fd7962d6c&amp;chksm=fd5148ed27c4cb3013f228cd3c4167eb4986c65e5d56ca4020224dd2ae422122637d131a5576&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[俄乌战争：乌克兰使用的远程攻击无人机]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTQWmcCv3VsYcagaZVfFwVMQO3JiaiahoT1hbZnfcg0NTznWKRFDbF8GbibHsUPZxzVtx0pqHrd37ibibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>俄乌战争中，双方都使用了远程无人机。这些无人机被称为单向攻击无人机（OWA-UAVs）。这些无人机与更昂贵的巡航导弹结合使用，是大规模攻击的一部分。虽然无人机本身也是有效的进攻性武器，但它们被用来扩大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658627&amp;idx=4&amp;sn=2b0e0b2577ad4880f5684e38d3f27a9b&amp;chksm=fd869c9e69cd874ab318e1cce169f13338884e88912036476fd561ffee15e47299078bc0f6fe&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【新书】实践大型语言模型：语言理解与生成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2GV4dHOFr3n6w8X6OEr9qtrVxtEYiawcA3Gp3PQyaRxH0AvO1XicktnyFmc0uy5OrEbGICArxRvd0Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，人工智能在语言能力方面取得了惊人的进步。在深度学习的快速发展推动下，语言 AI 系统的文本生成和理解能力达到了前所未有的高度。这一趋势正推动着新功能、新产品甚至整个行业的发展。通过本书直观的教</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658627&amp;idx=5&amp;sn=bfde33c8494ef17132fd77c526c03cd6&amp;chksm=fdbc17adab73cbbdc62f65acd8e5675545ff6d8bbf86674adefa5715ae06d7d9445d099f1540&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[280页PDF，全方位评估OpenAI o1，Leetcode刷题准确率竟这么高]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2GV4dHOFr3n6w8X6OEr9qtHmeN6x8ISKzCFjGpNRqmnpJexGTKs1X3Y9maWsGGqbTfspSYFH0IBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心报道编辑：张倩计算机科学、数学、自然科学、医学、语言学、社会科学……OpenAI o1擅长什么？还有哪些不足？ OpenAI 的 o1-preview 模型已经发布两周了，网上也有了很多零</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658627&amp;idx=6&amp;sn=5109b2c78a710271384755da7b313694&amp;chksm=fd6e8842e1cd30492b3f3915e4f748ce3d2c8c1f743c1a2800dada6cecce240267c115138e57&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《针对无人机威胁的联合兵种作战适应性》48页报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2GV4dHOFr3n6w8X6OEr9qt3vUNOtoHEr3ZXrmQ8ZR4NBpngb8YpM5fJVX3LG4miavpXhjWk6OPcdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>无人机系统（UAS）的发展及其在作战行动中的应用代表着战争模式的转变。自 20 世纪末以来，无人机系统一直被用于情报搜集和精确打击，但传统武装部队一直认为无人机系统不适合大规模作战行动（LSCO），而</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658627&amp;idx=7&amp;sn=bdd83b2214ba5085e40bcbe54267e576&amp;chksm=fd8b792712ed26f5c77e3e42c09eb0693531d0c5439a05b5ead0751c1f454c7d31577f966a93&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247658627&amp;idx=8&amp;sn=4b436541bd5e1ebe3d4c53df4125bdec&amp;chksm=fdcfa3a8c395ce006e8fae9aea980b1fa866d503b35c754f4f3a4707a037cd3f97ba0fbe18e1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 04:00:00 +0000</pubdate>
       
 
     </item>
