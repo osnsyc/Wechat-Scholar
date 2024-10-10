@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[一文梳理自监督学习以及最火的端到端自动驾驶]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsfEelZDM7CnKaM1fGos0GM1BIVhEP8bT5Sk8fgMhpYaNmNcIhOdr77a3P4pt5INiaibJ7RwIIZlBzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言特斯拉的FSD带火了自监督学习，而GPT这类大模型也使用了自监督学习的理念。众所周知，监督学习的成本过于高昂，尤其在任务复杂时，典型的就是FSD这样的系统。特斯拉收集的训练数据已经超出4亿公里，这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247598220&amp;idx=1&amp;sn=05914f6b0c0d0ecc4e18c581abcfdd30&amp;chksm=fa2138e21e56634b5245ffa977c31cc5a87979a8649b3a5751b3ef50ed1c3da1782f312332e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 09 Oct 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Gstreamer 应用开发 - 基础介绍]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsfEelZDM7CnKaM1fGos0GMtetkLpzbmvER8iaicS7mwR2doblGML9lVSDdBOrrKLt2VV29Vmr0ZiaOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇围绕如何用命令实现一个音视频混合，或者单独的音频，和单独的视频文件如何实现播放，并逐步开始使用C语言程序来实现之前我们用命令行来实现的功能。在国内，在音视频领域接触最多实现的方案通常是通过ffmp</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247598218&amp;idx=1&amp;sn=f9759632763f1757cf28dbb238c66020&amp;chksm=fac8bce95b20612e52e560202e508b516ed08f334b6d77d0dc5aa5408dc620127a79094537e3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 08 Oct 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -119,230 +136,6 @@
       
 
       <pubdate>Thu, 03 Oct 2024 09:20:01 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[学习笔记 | 概率基础：贝叶斯滤波]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFmwfia3Y4mfvmnqqibPicWz2x7SsSLyBOfNXl4Xlx39oiccpPmqwHpVsohFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文主要记录一下，概率公式，先验、后验、似然等概念，并记录对贝叶斯滤波、离散贝叶斯滤波、静态二值贝叶斯滤波、粒子滤波的理解过程。一、条件概率，条件独立联合概率1.1 条件概率与联合概率的概念条件概率是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247598212&amp;idx=1&amp;sn=6c824c0ed25d70d23de06e78418e95b1&amp;chksm=fa8bd57e8ce2cb79cbf01e43eeb1cc00ee5089456f60543bbd0e1ba38c150c555df2df68c267&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 02 Oct 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【四足机器人】足端接触检测]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFm9cKNalXdT6yuzpCmLeuKB3y1UmzAnYH2fa5Q1gT5aibyxHbXNDoNKaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>接触检测步态规划器给出的接触序列是严格按照时间进行周期性计算的。而在实际运行当中，由于地形的不平整，又或者存在坡度等情况，腿部会发生提前或者延迟接触等情况，因此只靠步态规划器给出的接触序列来控制机器人</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247598101&amp;idx=1&amp;sn=1da3313417788b5de310132d0558c8cc&amp;chksm=fa1298f9f22d02046e2101fc7a7ba953789b3742366d2ae5bf086757546ef6a7913477aa057c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 01 Oct 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐 | 三轴机械臂运动学与动力学控制 • 高晴]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBa1QLaNOXys7aLOmkQA6vPjISUFzYdJBmnLpd75lf68GnfXiaNic1rg8Gg/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍本课程介绍并实现的三轴机械臂的运动学（计算关节角度、角速度和角加速度），动力学（计算关节力矩），PID+前馈控制；介绍一种无需计算雅可比矩阵逆的方法，计算关节的角速度和角加速度，快速高效，适合</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597895&amp;idx=1&amp;sn=1a62705f29ecd72287272a64e0191966&amp;chksm=faf3d4ee337ed3a8c40d6b3fbdd7539e71fea61548b326d63410e291158fe7c331e22bf0682e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[stack smashing detect以及解决之道]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFmSeQmeWcNfUKuU0b3xnHf1zCKAMflZwK6KzCNo1B01Vpxf6Lbl4u4MA/300?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介相较于其他报错，stack smashing detect这个报错是最令人头疼的段错误种类。“Stack smashing detect” 是指在程序运行过程中检测到栈溢出的情况。栈溢出是一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597895&amp;idx=2&amp;sn=2c44e98760f2a60b390fe18920cb685c&amp;chksm=fa68abbe1b0730b880389f438fb3f7791896e442951a2c1fcb4ba829140e21a48559eef0e05b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Sep 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新手友好 | ROS2 技术及分布式介绍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsp4XBcp608eTO0znLYBpFmicaHz5QMHKkwAuHMS3HOsMO0E4jqRXEgFy9Et3uq0x9qEu7yU5hGD5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>PC端开发环境搭建WSL环境搭建https://www.guyuehome.com/46574In Windows 11 builds that support wslg:1.Open up powe</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597699&amp;idx=1&amp;sn=62f35250141be9ae9b96c0149febfe56&amp;chksm=faf657fd804c76a275955bccc2bac6433ac6af4131ba858baca695a28ac1bbfd65cbc25e4536&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Sep 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[模型部署 | ONNX定义、读写和调试]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBadw9ZmTJHQ3O2vJLSqJVX5Gd9kwbu1JLicgpK60bUS2E9ib4lXr4B3kKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述神经网络本质上是一个计算图。计算图的节点是算子，边是参与运算的张量。而通过可视化 ONNX 模型，我们知道 ONNX 记录了所有算子节点的属性信息，并把参与运算的张量信息存储在算子节点的输入输出信</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597659&amp;idx=1&amp;sn=7a9501ec520756e3b9be83c549edb8e7&amp;chksm=fa023da5b4ecb23e91e7399792025a6e89af6e9075d7340d8163a310eb9e64192fe102752da9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Sep 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[课程上新 | 三轴机械臂运动学与动力学控制 • 高晴]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBa1QLaNOXys7aLOmkQA6vPjISUFzYdJBmnLpd75lf68GnfXiaNic1rg8Gg/300?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍本课程介绍并实现的三轴机械臂的运动学（计算关节角度、角速度和角加速度），动力学（计算关节力矩），PID+前馈控制；介绍一种无需计算雅可比矩阵逆的方法，计算关节的角速度和角加速度，快速高效，适合</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597659&amp;idx=2&amp;sn=ecd8bd78e4e05fd64031c45fea1bf92a&amp;chksm=fa1961880bd667fb882f69f4950ff8f314256c83ce298eccab7dede252bc6f90c4740a5e98e1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Sep 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[机器学习 | 孪生神经网络综合指南请查收！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv1ppjWdr825eNV9w4lcEBaply0mIF7Kap0OGDgAEMGSrTkbzZ5dVUZgtdSQSrnxnicucFHyffGvqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你对机器学习感兴趣或者一直从事机器学习，那么分类和回归是最常见词汇。但还有一种常见的技术，称为相似性问题，它可以发现两个输入是否相似，这就是所谓的孪生神经网络。假设你熟悉用于图像分类的 CNN，并</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597232&amp;idx=1&amp;sn=0a681c19a157d8d78e31ebfbb6a9f139&amp;chksm=fa752fee06fc30b1a3259bdf507b921d54f205784d2ecb86d3da9df93fcfd11caff7355e1ba8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 27 Sep 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[自动驾驶与具身智能的三驾马车你都知道吗?]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztjMLYU9v0gTsmBTmDJ4KHo9KdIXOXOjyrJuypicDUyD7UW5smVxSeCAURrKbwdBm8O94FuWPHEpLw/300?wxtype=jpeg&amp;wxfrom=0"/><p>今年来，自动驾驶与具身智能方向越来越火爆，各家公司开始规模化量产自己的产品，可落地的技术成为大家争先占领的重点，然而这个行业对从业者能力要求较高，内部非常卷，一个岗位难求。如何从内卷中脱颖而出，除了极</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597232&amp;idx=2&amp;sn=312108b1e7f92a06944316259b8a7728&amp;chksm=fa2010ee4903ee02ffc955903b69fd190e66d10ce7bf0f6b8b42063f9c8e7f866957090e20f8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 27 Sep 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--DriveVLM(自动驾驶与大型视觉语言模型的融合)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztRTfibUd3hibUa3Yg04kMXYMRulbHvpnQNnFcflib46kZA1qIrVM2Clv67EJ7hqrLkrp75BHdtlqJDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0.简介本文介绍了DriveVLM：自动驾驶与大型视觉语言模型的融合。城市环境中自动驾驶的一个主要障碍是理解复杂且长尾的场景，例如具有挑战性的路况和微妙的人类行为。为此，本文引入了DriveVLM，这</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597203&amp;idx=1&amp;sn=b43d97293e7ee78610917fbdd0c8e32a&amp;chksm=fa2f7bd8d2961647662a9185b2a99bb61fe5ac9728db81dd469b317467bf8108885d5afba035&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 26 Sep 2024 10:40:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[机器人多模态大模型转换与量化]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztjMLYU9v0gTsmBTmDJ4KHoZ4zeIpUkVyUlrUibt5snIIs3AzjbkKXgxoiaDppiayapfX4q1RicKb4ialA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在当今的人工智能领域，机器人多模态大模型的应用日益广泛。本文旨在介绍如何将多模态大模型转换为 gguf 格式并进行量化，以便在 ollama 平台上实现高效部署。通过这一过程，实现更高效的模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597188&amp;idx=1&amp;sn=6a9d79c67827eecacca43e5797a089e5&amp;chksm=fa865c18a0e727fe2373ae255f47edff79f3f0c0760ed298b19bccc98b2fa43f0a66cd6f42ba&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 25 Sep 2024 09:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[明晚七点直播预告 | 开源项目OriginCar edu版——基础使用指南]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztjMLYU9v0gTsmBTmDJ4KHoTbibjwEnxuEwAFETHwRWJ9tFZujcPZCww6XunC26mF3QAbOdqnNO64g/300?wxtype=jpeg&amp;wxfrom=0"/><p>01直播主题《开源项目OriginCar edu版——基础使用指南》02直播讲师刘能 | 古月居机器人开发工程师03直播内容OriginCar edu版内容介绍OriginCar edu版操作演示交流</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597188&amp;idx=2&amp;sn=228b9c821001bded6f09775058c1299a&amp;chksm=fabd928f686a47a59f080524e8ed282c34093610a64ccb36135d4e31f862fe2ec4778b87b53c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 25 Sep 2024 09:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐：四足机器人VMC算法仿真实现 • Tim（阳炼）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvIAILfsM8EpRa8FeSWS9RpgZQ54IdJJC6LaJgianYfzicxibaIIJ8wTRPj0PWjPDxiar0dLc5JRHOqkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1课程目的本课程是基于《四足机器人控制与仿真入门》的基础上的拓展课程。课程采用Coppeliasim作为四足机器人仿真平台，Matlab作为编程语言，实现二维空间中VMC算法的仿真应用。通过此课程，大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597033&amp;idx=1&amp;sn=a369fe2dfa7fc2c243c523baa1611fa5&amp;chksm=fa43a695c204ddcc198d1756ccd07bda110a6544dc6ed0af2e420e86e6ee32388e9922ef70a0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 24 Sep 2024 09:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【simpleFOC】一个电机如何模拟不同旋钮的手感反馈？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvIAILfsM8EpRa8FeSWS9RpKMrydT64EWymELeYFCWcmZf2UECzkz3J1SXqjXicibHQUaU4WnlY9K9A/300?wxtype=jpeg&amp;wxfrom=0"/><p>概述simpleFOC可以实现对各种电机的精确控制，并且提供闭环扭矩反馈控制。那我们是否可以利用这种特性，用一个电机来模拟不同旋钮的手感反馈呢，答案是，当然可以！！而且网上也有不少开源的案例，例如最开</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247597033&amp;idx=2&amp;sn=e92f8f1dec8b363aa209788354f8fa64&amp;chksm=fad1130bfafd0b9af53b0f110e354d8772f6c5a0d98735690d1c0c75d0c3c75785ea1041ea1a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 24 Sep 2024 09:30:00 +0000</pubdate>
       
 
     </item>
