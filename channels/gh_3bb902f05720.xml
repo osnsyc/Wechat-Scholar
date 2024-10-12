@@ -37,29 +37,94 @@
 
 
 
+
     <item>
+      <title><![CDATA[CVPR 2024｜英伟达发布新一代视觉基础模型: AM-RADIO = CLIP + DINOv2 + SAM]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrmn7WzAxZXlIykqeswOyjzp6l3IYaiajAEv7qO21SW6rt6V2ciaLX8aGicaaxPbtHalWV8z9IiaUoOIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨派派星来源丨CVHub编辑丨极市平台极市导读 本文介绍了英伟达发布的新一代视觉基础模型AM-RADIO，该模型通过多教师蒸馏的方式融合了CLIP、DINOv2和SAM等</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247696820&amp;idx=1&amp;sn=bd168af9c9602357864ea9975badf262&amp;chksm=ed0356c1312355f2b2f2a2894d90bffcb7c3c78d4dd24c26743cfd0f91266b8e54ea6e9f3433&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 11 Oct 2024 15:25:33 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2024｜大模型的词表大小，同样适用于Scaling Law]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrmn7WzAxZXlIykqeswOyjz6UIkkuzyKudKn1d16qeTWBaRLFDa3pRjTj3uMiaKNXQ8CHiclhN6IElw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨机器之心来源丨机器之心编辑丨极市平台极市导读 本研究通过训练包含不同词表配置的模型（参数范围从 33M 到 3B，字符数最多 500B），提出了三种方法来预测计算最优的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247696820&amp;idx=2&amp;sn=d0d5ae5bf00fc36d3a010a13db0c9a12&amp;chksm=ede626d5be8bdcd0a785c740e616355760756b6c8647a96323ad4e8053eb209406c305f3e760&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 11 Oct 2024 15:25:33 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[多模态大模型评测集最全综述，涵盖近200个评测集]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrmn7WzAxZXlIykqeswOyjzJfiarCJ12uLxiaRbYicqNlEv9ZprS6ics8dC92dfYAnC2EibTWBwFDQckgg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 本综述对200个多模态大模型评测集进行了全面的回顾和总结，涵盖了MLLM评估的五个关键领域：(1) 感知和理解，(2) 认知和推理，(3) 特定领域，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247696820&amp;idx=3&amp;sn=cb1c67f6ac422e658b3879364822cf5a&amp;chksm=ed37f2b7dc1010a9695564b971dbf13910c7b2c54964e7d8644ccefb7057c2aa3538dfa9e87d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 11 Oct 2024 15:25:33 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[深度｜李飞飞：我不知道什么是AGI]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrmn7WzAxZXlIykqeswOyjzVIIDlIDaBJcUIsJbicJIAuI6OOxGWwdt88X1uxsZD2H9mwzEpaEohBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨Z Potentials极市导读 什么是 AGI？ >>加入极市CV技术交流群，走在计算机视觉的最前沿图片来源：Stanford University你对人工通用智能（</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247696820&amp;idx=4&amp;sn=935bd863262401ca35981e035d6d9962&amp;chksm=ed94762e2a3eedc5896bfa1e8f260943367523d9743acacddf823d697f1bc27936d81a6d4260&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 11 Oct 2024 15:25:33 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[细谈大模型监督微调SFT：实战经验技巧和debug分析思路]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpq9ogPZw6eoMN9VDnJ9LHWNsO7y2ibfbpVmopibpia5jB5mkTczd1dR3vmg7nBIibmYSd4iaiaQia8z50MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨ybq来源丨PaperWeekly编辑丨极市平台极市导读 本文详细介绍了大型语言模型（LLM）监督微调（SFT）的实战经验技巧和debug分析思路，包括数据准备、训练技</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247696759&amp;idx=1&amp;sn=02d807944490e8203890124f78989287&amp;chksm=edafb1d649b7f0a2d4b816bca4e11e45ffa6acd37681f94d7aa682865852b73e4e1ae4874177&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ECCV24｜跨域小样本物体检测CDFSOD benchmark及CD-ViTO方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpq9ogPZw6eoMN9VDnJ9LHWxjibtbs542BzwuJu8hPms1xkQ606T58z0f9H7y0ofqnME3FUy5XoqSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨与阳光共进早餐@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/738100045编辑丨极市平台极市导读 本文主要是针对目前大多数跨域小样</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247696759&amp;idx=2&amp;sn=ee680bb8634bc792965e3395aebe7aa9&amp;chksm=ed3fbcec33b598cceb769fb9d64133db37d67f3b3c72f8ddee377bc6cdd6a6dac7791fb92e59&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OpenAI o1 技术初探2：使用MCTS增强推理能力（基于代码实践的解读）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpq9ogPZw6eoMN9VDnJ9LHW59G3OUEhDZtaEYWnCnSMr72fwbvhcmRWmDYyezFH01MHZrMzLTVNibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨猛猿来源丨大猿搬砖简记编辑丨极市平台极市导读 本文深入探讨了如何使用蒙特卡洛树搜索（MCTS）增强大型语言模型（LLM）的推理能力，通过微软开源的rStar项目为例，详</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247696759&amp;idx=3&amp;sn=312c1f0c689fd4c78384a3f10e4ea8bd&amp;chksm=edbef7895cf9052ecbb820b1034d3ec1aa33257d7b74a80a8ab9c84a6b52325fab02f9ba3cd2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[诺贝尔文学奖要颁给ChatGPT？奥特曼得奖呼声高，Hinton怒斥：他不配！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpq9ogPZw6eoMN9VDnJ9LHWDmZ7Ty1RmT7FBzC8DO3wT7JB3qKAQZTgSg96oOzAecPF0j5BM3odlA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 本届诺奖的AI含量，实在是过高了！今晚的文学奖会颁给ChatGPT或者奥特曼吗？已经有一大波网友下注了。另一边，Hinton已经炮轰起了奥特曼，力挺Il</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247696759&amp;idx=4&amp;sn=58610fa6be73663b6b9556432e4e123e&amp;chksm=ed012bb2297c4c4edff390d35c1fcd8aae1ba322e0686d4c4f0bcfaf5cce3dc447a4993163e5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
