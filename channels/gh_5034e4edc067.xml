@@ -40,35 +40,120 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[LLM预训练与SFT数据配比调研]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJsJnOHTWe75WsIgwo2tv4VZYj6VfnWGwbR0ciamfgEEIjcGeAibfcccKIicwyk1d1Efo9Yia37FX2SlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：天晴链接：https://zhuanlan.zhihu.com/p/703825827背景与目标最终目标是在 LLAMA3 模型的基础上进行继续训练与 SFT，但 LLAMA3 的数据与配比方案</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=1&amp;sn=280ea21b46e88585cb203f7be73bd6bd&amp;chksm=bf2e6bfc4f1bd081907e5a73591a950b1c4404845e5022a73d880164139c877f4270dc8ff75a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI o1技术初探3：如何让模型拥有自我纠错的能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOpqVjLraGbzg9n0LCX1PlGhB4mNkjqHLC9mpEgW9PSh5PRWTGerVXAkHO4ibE51v6c9yvGpHlrJCA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这个系列之前的文章中：我们探索了o1（可能基于test-time scaling law）做的基本框架。以及框架中的一块积木（靠纯inference优化来增强逻辑推理能力，我们分别列举了“PRM+s</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=2&amp;sn=052314b8bc533b3cc7195837c407453c&amp;chksm=bff4591bf9fbdb6b29a7bff28685da4aa721596384325a293e93abd26462537b3f323d4fab4e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[COLING 2025 Call for Papers: 多模态生成评估研讨会]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJsJnOHTWe75WsIgwo2tv4V1BH0Up6UpogBPhxVb8uYdr1zRlIvPKaicaAwxU1nWFTKgXY9R2Dkiafg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Call for Papers: 多模态生成评估研讨会 The First Workshop of Evaluation of Multi-Modal Generation @ COLING 2025</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=3&amp;sn=7a2641a1956981bc39e1e8cbc52fa554&amp;chksm=bf6808095642a0c8aac0502961f8abebe1ea4b9e8ee2ed9d737aa2ad42bee236b54b810bb807&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[CodePMP：提升LLM推理能力的可扩展偏好模型预训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nbQgT8S1l4BLjrkFXxvP4ia1QDwiaa5yJdhphnkRLTF0JPOwicfGiaAZblynlrhX564ibDsTnpYU1GK0g/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：鱼汇沐  机构：中国科学院信息工程研究所 paper: https://arxiv.org/abs/2410.02229在LLM（大语言模型）的对齐训练中，尽管RLHF（基于人类反馈的强化学习）</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=4&amp;sn=faaffe2962949b2a34844610544dc06b&amp;chksm=bf06f271e05111f880f0afbe313229f36c297f9739f5bef70defb501ae99dc6697688c1261ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM开源项目】LLMs-开发框架-Langchain-Tutorials-external knowledge-v3.0]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBYEj1f5rwrMGJp0tEItiaSqug9PWn9RRSXKjVxTVOmOwjYpvAF9w3lusIia57PWtxePkNwcab3ad1g/300?wxtype=jpeg&amp;wxfrom=0"/><p>【1】构建检索增强生成（RAG）应用程序Build a Retrieval Augmented Generation (RAG) Applicationhttps://python.langchain</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=5&amp;sn=04219ba504100b20e3faeea94a57c24c&amp;chksm=bf58d0a6c00fd4d853c33211496815cc45b1256b25d6c113437d6d450114117213285e9ac80e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[一份MoE 可视化指南]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahHRkRw7bHSfaGqosebVZjBMpLRAgPjSou2QqLWlDJ5A2OGFv0KryGicGqic40THnJhzq9r7LAd9PKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑：AI椰青整理：https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts在查看最新发布的L</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445323&amp;idx=1&amp;sn=c77482d38bda5c267f7212a1f0afa0db&amp;chksm=bf0f421cd1f67b10b94fcc8d997fdf1dc81d420fdfefe70946f429f2de62e4592d7a9530c276&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 11:46:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RoPE背后的数学想象力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKGvADdGyKWmHJXZI8OlCHsgB9B4dw6YtO2ywog9rcrN8kVBOGP3ENFo6HRIZPEFIXia81zgHOyRlA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Polya said it well: “When you have satisfied yourself that the theorem is true, you start proving it</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445323&amp;idx=2&amp;sn=7a9458b86c5940430c834ed28252dc65&amp;chksm=bf47842271e626e0245b659c80ba4ac8b2e39c308e929764affcc51959a2211a6daa6f54915d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 11:46:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[[社招/研究型实习生]通义实验室-角色扮演/分身复刻算法方向招聘]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKGvADdGyKWmHJXZI8OlCHstLTKWQBh8IUVvU0unyiaLW7NzpibpIQKmoIibhrrrK4GrVicISLZdhoLuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>[社招/研究型实习生]通义实验室-角色扮演/分身复刻算法方向招聘[团队介绍]阿里巴巴通义实验室，主要负责通义系列大模型的研发和应用落地。其中对话智能团队以大模型对话技术为核心，研究及应用方向包括角色扮</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445323&amp;idx=3&amp;sn=0872378e95e42bab7239219f8af09a0e&amp;chksm=bff610f83f3c4cb1c21078e260c1d122b70d72d348d088b3369c83ed142974d7577adc0136c4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 11:46:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[2024年诺贝尔化学奖官方解读：他们通过计算和AI揭示“蛋白质奥秘”]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKGvADdGyKWmHJXZI8OlCHszqN6u61oqrnLczMW6tz1Ao5vFNBQcKo47ye4R4LbFiaLWNNIQr0ibyibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>长期以来，化学家们一直梦想着全面了解和掌握生命的化学工具--蛋白质。现在，这个梦想已经触手可及。Demis Hassabis 和 John M. Jumper 成功地利用人工智能预测了几乎所有已知蛋白</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445323&amp;idx=4&amp;sn=e188b0984a295cb64fef0e50e0deee22&amp;chksm=bf1dff4cd83d7009c06e635abad0091da39004d941618f30e119cc493ad16b36ee3bd1461971&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 11:46:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[多模态入门--CLIP]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465ZwfEVEGyUkIibc0vicYcV0aTjXLptibp5kam0S5wLtl7uNxBrGlQSy9dBsvXm6celrqxYUc3THzw7g/300?wxtype=jpeg&amp;wxfrom=0"/><p>放假了，小小水一篇多模态的经典之作，CLIP。论文：《Learning Transferable Visual Models From Natural Language Supervision》时间：</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445323&amp;idx=5&amp;sn=752509cc7386fc2175424858c6c891cd&amp;chksm=bfe692ee1fe7d8d2aaa52c492abb935dc85fa73f24bc52686246bd5114f289c6ffd422a5e750&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 10 Oct 2024 11:46:14 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -387,54 +472,6 @@
       
 
       <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[知识链=知识图谱+大模型+推理-幻觉]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIFN058Yaa2kstdtAsDY4ueHoMibYs4V5WHcK1ic9gRHka4WFtWIhNlgCXNchgGDLNnO96CEf47j9OA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近由华东师大和香港大学联合提出了一种面向大语言模型推理的幻觉缓解方法Chain-of-Knowledge被ACL2024接收为长文主会。PDF: https://arxiv.org/pdf/2306</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445225&amp;idx=1&amp;sn=9efb520e27d39e0934331e64ee54cde5&amp;chksm=bfc799b2c52069038eefcce5dc4dae8c9532502f8d9a89fcfff99ffb72eb99635511204f1404&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 04 Oct 2024 12:06:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[什么！SFT完全没用！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiawBZfF689rxSflI0IpicsL07icfq5k0VeN6veIhkicI4vGTgtkU1BT4XMK8oHlAe1ENjrp9vKKX4DyA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：莫笑傅里叶链接：https://zhuanlan.zhihu.com/p/744847498Google Deepmind: Training Language Models to Self-C</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445225&amp;idx=2&amp;sn=39274f196dc8b67bfc91b467cae48f07&amp;chksm=bfac856dbd547c6a4d9ea4320659b9b49a78560f5deba818a951071195fd7e4d0d3a5995251c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 04 Oct 2024 12:06:10 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen招聘：让我们一起点燃这支大火箭！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/JrHT8u594NG5pmullG4zBQdvHxKINP4RldgMtYd1WHC9SzvwvUvQzSWDrqLZfN6GbBVGGl4Gp7MIibOL02WV3Vw/300?wxtype=jpeg&amp;wxfrom=0"/><p>这是一条关于Qwen整个大团队的招聘帖，下面将拆分为多个部分来介绍我们在做的事情以及希望和什么样的同学合作。01Qwen开源现状伴随着Qwen2.5的开源和发布，Qwen系列模型在全球的影响力进一步扩</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445225&amp;idx=3&amp;sn=09ebbb51a5da51f29d30e3c74b51ff04&amp;chksm=bf42f6c1805f34939f5dce77f094d46770048519f2b70a3648646116104eaece2c344a92b9d4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 04 Oct 2024 12:06:10 +0000</pubdate>
       
 
     </item>

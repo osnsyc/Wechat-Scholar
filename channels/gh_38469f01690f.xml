@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[细谈大模型监督微调SFT：实战经验技巧和debug分析思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP4jqS3hAWiaZv2ygEPA0EOny15OHZibDeJrH36FJ7oc1L2FuTDhaWuibibIbhm9SkUjh0k5a5mkDIBQ7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自 PaperWeekly，作者 ybq这篇文章介绍一下大模型的 SFT 如何去做。SFT 其实没有太多的技术细节和琐碎工作需要科普。因此，我会默认读者们都知道 SFT 是做什么的以及如何去做</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247531020&amp;idx=1&amp;sn=e44883dee0ada37c6b6d94167dd5466a&amp;chksm=ea797401e23dbc7745341f1f90878248c078daee1f302cb007f92cc8b97168ec7733184eb833&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 12 Oct 2024 10:06:01 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[如何解决大模型长距离依赖问题？HiPPO 技术深度解析]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5fgibT86a2wvkzkib1AwWhBvcmwXxVG6SHkSgFtZvuftY6iaCHCBicsg3tDHUU2Eqr82ufOPzg50ib6gA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自社区投稿，作者 GYHHiPPO 是包括 S4、H3 等一系列 state space model (SSM) 相关模型的理论基石，提出了全新架构，旨在解决序列建模中的长距离依赖问题（long</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530981&amp;idx=1&amp;sn=d17d962cdcddf60d0b743e70edbc7f41&amp;chksm=eacc198b7931d997b587081b185412ec60b0af75e0ae2e46777c4784667f873e1a97c288d5c9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 11 Oct 2024 10:36:23 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -71,278 +88,6 @@
       
 
       <pubdate>Wed, 09 Oct 2024 12:17:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[喜迎国庆，祝大家节日快乐！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p></p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530866&amp;idx=1&amp;sn=5a4ece4d2cb77cbcdfce5e7ba4493652&amp;chksm=ea9e88c78b1f5f6d29713d54558a76ac52e5fb4f89414983d2182ba13f55c034fd26165bff0a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 01 Oct 2024 02:26:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[在HF上部署你的专属MindSearch，随时随地开启智能搜索！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5eXC8XFH7Urba2zIgG318rliaglMldyfLeiavESOt7fUZEZ678JBaY1R2T8fgACmUdpxtp9bOOPsww/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自社区用户投稿，作者：MindSearch 兴趣小组成员张富才本文将详细带领大家学习如何在 Hugging Face Space 部署并美化专属自己的 MindSearch 应用，免去排队等待的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530862&amp;idx=1&amp;sn=f4a7455c24a2a1f93ce7aff16d2f922f&amp;chksm=ea867e064cce4fb438286dba8e592dc4439078d3a70793e81f461109e44dfef2bcbe323f6c65&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Sep 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[国庆参加算力充沛的「大模型实战营和社区共建」偷偷卷，节后......]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5eXC8XFH7Urba2zIgG318rAfUIy2qIrqz5RrIGPX8vuzbEicGktMyX5q1PyozoVjicS8cU9XJqEG1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>国庆佳节即将来临，为响应社区同学的强烈要求，第三期书生大模型实战营增设“国庆卷王专场”，并新增「书生·共建」活动，涵盖 InternLM、InternVL、MindSearch、LMDeploy、XT</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530773&amp;idx=1&amp;sn=d84fc616ca9059061282b71e434d2875&amp;chksm=eab6270af86d9af8bf6a65c78b16dd07c00e41b8b85faa458891ea91b754f71514b4b7a325e1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 27 Sep 2024 10:52:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[你一票我一票，第3期书生大模型实战营人气项目就出道！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP4oXa9Dvu9UJfnOk9D6h1libSKLANj41BLQloHMhB25ic7I1PaP2TCLXmgicqtyRFFGPdLKOf1AibndWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>第 3 期书生大模型实战营共收到 500 多个项目申报，我们在众多的项目中为大家精选了 28 个项目，现在就让我们一起欣赏下学员们的成果吧，看看他们是怎么将奇思妙想带入现实~同时，别忘了为你喜爱的项目</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530705&amp;idx=1&amp;sn=d9fe04e304bd652588cf08279de9d518&amp;chksm=eaec5e59491a7adb146b917abbe0c77880b717a5fe430148025ce679f7ac9ff7903d2990ae6f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 26 Sep 2024 10:56:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[夺冠之作！揭秘基于InternLM2的离线具身智能导盲犬]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP44gg4aia2grFNDWRzKibyh4mQrWzMJmdXO6AMw1iamfZmHhicMyndCgTMkxVH7aHYnl7ulmrtB0Cficag/640?wxtype=jpeg&amp;wxfrom=0"/><p>在之前的一篇文章中，我们带领大家走进了实战营优秀学员任宇鹏的故事。今天，让我们把目光转向实战营明星项目《基于 InternLM2 大模型的离线具身智能导盲犬》。团队队长安泓郡是首期书生大模型实战营优秀</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530641&amp;idx=1&amp;sn=50f1316e5ef6c2fb3bfc11566e7bbd22&amp;chksm=ea721eaeb3c6076bc3c1ddab81c52bed2c50552a34cc99c009fd261a9e166f34eae57628116d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 24 Sep 2024 10:29:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AI奇妙夜 | 轻量级多模态大模型Mini-Monkey，专治“切分增大分辨率”后遗症]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5MYRZLq2EG9dGo1NcKic34jtDicg6n6CWYjCGpxqFIvSic58PnbJeaI4jkjajKmrGhUK4icUOm8fCP1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>追踪社会热点，解读 AI 前沿，用开源的算法，促进 AI 知识渗透，以超算/高性能计算为原点，开启人工智能前沿应用视角。OpenMMLab 开源社区 联合北京超级云计算中心，共同发布直播栏目【AI 奇</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530640&amp;idx=1&amp;sn=6aacc7b846b523ed44663850bb9e49bb&amp;chksm=ead632bb1eb0340f2152f97a15654dfb49429fcb8123ec9003fee25e51847f998f43b6c4430c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 23 Sep 2024 11:06:12 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文读懂大模型推理必备技术KVCache]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5MYRZLq2EG9dGo1NcKic34jzic5mUkOpRQGibbc76vg1XF35lAjyEC2QblbAibkFEFeCj1MsHEs5SxnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自知乎：https://zhuanlan.zhihu.com/p/686183300作者：游凯超，华软件学院博士研究生，人工智能/机器学习/迁移学习在 LLM 的推理过程中，KVCache 已</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530638&amp;idx=1&amp;sn=7f44154f2902239e34a30331f1936c49&amp;chksm=ea8011e23779cd240950c29ece934e141d5c2e0d0257714349dc6267e5fdb95af7dba60b4a46&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Sep 2024 10:23:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从学员到讲师，AI 萌新任宇鹏在实战营的蜕变之旅]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP62oBUqzGZy4dE8QBWeGAQpKxeWHjP7DEckkcFhhPDx6cdxStCRYO4iaZCNSNEUlSe1TM126xNias3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>书生大模型实战营第 3 期正在如火如荼地进行中，在这里，我们见证了众多同学的成长与进步。今天，让我们一起走进首期实战营优秀学员任宇鹏的故事。任宇鹏最初是一名安全领域的 AI 萌新，但他在实战营中迅速崭</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530597&amp;idx=1&amp;sn=5e705bbf13e62d4999a31a0a657e4ab3&amp;chksm=ea942509f631740623f1438eb6747fca1f41db8e733432aa209446790a2afb1df94150b962d0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Sep 2024 09:56:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[中秋节快乐！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p></p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530575&amp;idx=1&amp;sn=9e9c4b2549bfc36f98764fac83be6e43&amp;chksm=eabdf5a01f4dac8c591a82ebcf617b8b606c39f9590637990c92aa4779776332144fcbc226d3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Sep 2024 02:24:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[星启计划 | 上海人工智能实验室2025届校园招聘启动]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP6850f3fqd6Oh6ACynkTnjibSQFjnwIZDS1ZSvujqHMBnXOkMYaSnN4chnqrVbKmm5ntDbb0srDdsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自上海人工智能实验室公众号实验室部分最新成果书生·浦语大语言模型具备1M词元（Token）超长文本窗口及开源模型中领先的推理能力，并支持自主规划和在线信息整合。基于InternLM系列模型目前</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530574&amp;idx=1&amp;sn=b56c07b492d20b16b9c39485b2142f02&amp;chksm=ea89aeed9cfd09953ed645368492bb85458a45963199b9479f21873c078d79f74d6bf792436c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Sep 2024 10:00:44 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GraphRAG源码解读：基于知识图谱构建的检索增强生成系统]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP6850f3fqd6Oh6ACynkTnjibxmljCEQ8pFh8JpfxWH5McB4venjEXgpurTsEXPiaEaJpf2XqcZYfpYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自社区投稿，作者薛明1. 引言GraphRAG，微软开源的一个新的基于知识图谱构建的检索增强生成（RAG）系统，该框架旨在利用大型语言模型（LLMs）从非结构化文本中提取结构化数据, 构建具有标</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530549&amp;idx=1&amp;sn=bc74cbf2ce8aafcf4f4aa83abe429d4f&amp;chksm=ea168a4033d37e11f5b9e3af2616c9535fdc1c1e92074e96e1d4ed790911664d1d68cdf7dd05&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 13 Sep 2024 10:31:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何在MindSearch中集成新的搜索API，全面提升智能搜索能力！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5468sCTRsaggAkJPkva0veHxCQkVibBFpEOx8xbKRiaRaElmAjGXCyWqgRicOE3NoYd2IxFLVnViaQ4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自 MindSearch 兴趣小组，作者 wongtack hwa在这个信息爆炸的时代，如何高效地从海量数据中提取有价值的信息成为了一项挑战。智能搜索技术的出现，为我们提供了一把解锁知识宝库的钥</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530535&amp;idx=1&amp;sn=c74cb1263251f3d773c3fa403549cd3f&amp;chksm=ea0496f61a85c4dd166f571abc8474affe623599967b82972c9bba75cc8e8dbfcd876baa39aa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Sep 2024 10:43:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[300 亿 API Tokens 支持，书生大模型实战营「中秋卷王场」重磅来袭！！！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5oeeWf4F89iboJia8j1FKWRrTJ4mEKd2vfmsQBDykvT1j4GVmORN7ncNIWwhuXIl092iaw70hyhPzIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>书生大模型实战营自 2023 年底推出以来，已经吸引了超过 15 万人次参与，孵化了超过 600 个生态项目，并在社区中获得了广泛好评。在书生大模型实战营第 3 期中，我们引入了全新的升级打怪闯关学习</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530527&amp;idx=1&amp;sn=a8dd0b7c75f0ebe2a3470ae863793af1&amp;chksm=ea5961735c3117952c6162b08ead9b22680cf2d2501dd48542bded38e5b1aa14966af86b71ba&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Sep 2024 10:54:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[直播预告丨社区热议的Follow Family可控视频生成技术大揭秘]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP7qh4gl5Onh71LtwLTGwdJV7ibJHEE3LEO42HrpicDS4Tm1EOcq3Z2RlfwkjePNGnVyUgPhMO4vOXcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>【社区开放麦】开播啦！！！技术下饭番追起来，每周一个新芝士。欢迎广大社区同学加入直播间参与讨论的同时，也非常鼓励社区同学拿起话筒登上舞台，社区知识开放麦等你来玩~本期精彩随着生成技术的快速发展，视频生</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530514&amp;idx=1&amp;sn=fad8ae1635de09e29ebe491451476708&amp;chksm=ea159e84201317943f2c65eb8160b4300823eff3c928f19d5e21a4292c6b3c50a840fe02898d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Sep 2024 11:01:33 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AI玩家已上线！和InternLM解锁“谁是卧底”新玩法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP59b6jtSTdiczPWaIq3w6pUyCnTw3caibVR5oJ6fSFEicwCqzgyffdrbEJWYyUggia9GzhweDiaxQcVPjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自社区投稿，作者 LangGPT 联合发起人、东北大学在读博士生王明在大模型技术日益普及的今天，AI 的应用已经渗透到各个领域，带来了无数创新和乐趣。今天，我们将一起探索如何搭建一个 AI 版的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530498&amp;idx=1&amp;sn=f8b59c8faf3d8c6b1bb17573cc69a8e4&amp;chksm=eaec34c1917037369bfeae2c50f8e7988b4cdb21283e9e2c96f534cceb6a5723178aa3f6075c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 06 Sep 2024 11:02:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[书生·浦语赋能AI创新，快来为你心动的应用投上宝贵的一票]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP7GGOyibolVkhPVwCr9LeVxlNyBrlMNTL8uA7nKeqM7d1iajfT9t7yITlUF7ficmxbobxGCOC5hFjibvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>书生·浦语作为合作伙伴参与的「Gitee AI &amp; 天数智芯创新应用大赛」现已进入公开投票阶段！本届赛事中，开发者们结合各行业的独特需求与应用场景，打造了众多创意十足、功能丰富的 AI 应用。今天，我</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530484&amp;idx=1&amp;sn=33b1b99963cbb2123f525a560c9b32fb&amp;chksm=ea590536156ceb027e9ffc3a41c9f56c2cc0574913e80d4c5a7e3ee6ba1b1de4c5394376d89d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 05 Sep 2024 10:44:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RAG 进阶：零成本 chat_with_readthedocs]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ialW0xobVWP5Ox51uL4qeqP14zCnNQ0ufZMbVktAcoWJbh6L55y4NTdltD1XhrPMfUKqfFIuicBJSk40ep4icFtxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Readthedocs 是知名的文档托管平台，通常用于免费存放 GitHub 和 GitLab 的项目文档。当项目文档较多时，简单的搜索难以满足读者需求，此外在 AI 2.0 时代，“主动寻找答案”这</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&amp;mid=2247530473&amp;idx=1&amp;sn=4aeebfd9993b1b12e87848ef3bbcbb41&amp;chksm=eaaad54f0944893a9316bad66fa6053a794d8415ffe8878e8e0e3684cc776c50104d2aa96149&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Sep 2024 10:18:56 +0000</pubdate>
       
 
     </item>
