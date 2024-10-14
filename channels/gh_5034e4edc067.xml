@@ -45,35 +45,117 @@
 
 
 
+
+
     <item>
+      <title><![CDATA[现代LLM基本技术整理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKzPhuVnIGXEon53TWIzS1uzxVQRd0aAEPaqKCs4MjO6KoDtRyubkaLiaQN85drBibfa3KQ2pDBErFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hadiii，北京大学 电子信息硕士在读原文：https://zhuanlan.zhihu.com/p/713794852编辑：青稞AI0 开始之前本文从Llama 3报告出发，基本整理一些现代</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445374&amp;idx=1&amp;sn=daca2614e9baa46e8ed957b3a25bc80d&amp;chksm=bf80ef8d858fdc80c7f3e3768531358be82c2832b42a015c6182156b88d557d0bdb88cbbfbdc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 13 Oct 2024 10:55:15 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【文末赠书】如何构建出更好的大模型RAG系统？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKzPhuVnIGXEon53TWIzS1uN4YdeZibfF3Z4pfWGs5YgJuy2ERZ8lf7WhXRSqtGhRq9THjqgscgz9g/300?wxtype=jpeg&amp;wxfrom=0"/><p>ChatGPT爆火之后，以ChatPDF为首的产品组合掀起了知识库问答的热潮。在过去一整年中，大多数人都在完成RAG系统到高级RAG系统的迭代升级。但是技术发展是迅速的，如何深入了解RAG的发展，做出</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445374&amp;idx=2&amp;sn=2d0b6aa41a8a92e8fb929f73873595b9&amp;chksm=bfdebbfee8b33f3a886fbeae444a5bb8f3b6481321583ece833206e68791142d86e6749576f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 13 Oct 2024 10:55:15 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[通义实验室招聘大模型算法专家]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKzPhuVnIGXEon53TWIzS1uB5WXQRgvxYLcoj5fq3SVd04LLuPqyt5BGPc4CjnG56vYhM38cGfoHA/300?wxtype=jpeg&amp;wxfrom=0"/><p>通义实验室-大模型算法专家团队介绍阿里巴巴通义实验室-对话智能团队 以大模型对话技术为核心，研究及应用方向包括智能客服、个性化对话、角色扮演、分身复刻、社交智能、数字人等，主要业务场景包括（1）通义晓</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445374&amp;idx=3&amp;sn=6d40dce53892ae336ee58a11a5cb6061&amp;chksm=bf32357c2fbab41cc9e61242cdfa8ebf7b392bf632436086968ca7d8a7b871c18cc7af7a7716&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 13 Oct 2024 10:55:15 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[全面深入解读Movie Gen技术原理(5部曲)：概述 (1)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib6oCdibFAwFnv0jASek0FryIwx13noW7mKsJvt5ypiaGG9H6vE3VTITKfCgFiczGBQ1iaX462OncMYcwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>1. 引言2024年10月4日，Meta发布其视频生成产品Movie Gen，对标OpenAI的Sora、Runway等视频生成工具。这标志着Meta正式进入视频生成赛道，与Pika、Runway等进</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445374&amp;idx=4&amp;sn=7b17134fe47b7407c8785965fe212687&amp;chksm=bf28211f7edc8800dbb5ddfc9d6581548e678be64a6a41c3e32adff829d99976805378f7a310&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 13 Oct 2024 10:55:15 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[如何实现大模型Speech2Speech Dialogue？(二): LLaMa-Omni]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/vImdeGStOOcp3R0PgIMIzyr30qee7uLTrMUn4zpcp1pOILe5Vsnf0f8nFxjOoGaSBxy97zicHVXWwe3Oydm4Zqg/300?wxtype=jpeg&amp;wxfrom=0"/><p>上篇文章主要介绍了SpeechGPT和CosyVoice，本篇主要介绍下另一个端到端语音到语音方案LLaMa-Omni。NetRookie，公众号：NetRookie如何实现大模型Speech2Spe</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445374&amp;idx=5&amp;sn=5e8f3be71851076a311b3f55b108c7e1&amp;chksm=bff7055cc542fc5de4c4e6f97b216dc2c6b04a12488aae32adbe064c7286dc4447da430be702&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 13 Oct 2024 10:55:15 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[LLM预训练与SFT数据配比调研]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJsJnOHTWe75WsIgwo2tv4VZYj6VfnWGwbR0ciamfgEEIjcGeAibfcccKIicwyk1d1Efo9Yia37FX2SlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：天晴链接：https://zhuanlan.zhihu.com/p/703825827背景与目标最终目标是在 LLAMA3 模型的基础上进行继续训练与 SFT，但 LLAMA3 的数据与配比方案</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=1&amp;sn=280ea21b46e88585cb203f7be73bd6bd&amp;chksm=bf2e6bfc4f1bd081907e5a73591a950b1c4404845e5022a73d880164139c877f4270dc8ff75a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OpenAI o1技术初探3：如何让模型拥有自我纠错的能力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOpqVjLraGbzg9n0LCX1PlGhB4mNkjqHLC9mpEgW9PSh5PRWTGerVXAkHO4ibE51v6c9yvGpHlrJCA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这个系列之前的文章中：我们探索了o1（可能基于test-time scaling law）做的基本框架。以及框架中的一块积木（靠纯inference优化来增强逻辑推理能力，我们分别列举了“PRM+s</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=2&amp;sn=052314b8bc533b3cc7195837c407453c&amp;chksm=bff4591bf9fbdb6b29a7bff28685da4aa721596384325a293e93abd26462537b3f323d4fab4e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[COLING 2025 Call for Papers: 多模态生成评估研讨会]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJsJnOHTWe75WsIgwo2tv4V1BH0Up6UpogBPhxVb8uYdr1zRlIvPKaicaAwxU1nWFTKgXY9R2Dkiafg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Call for Papers: 多模态生成评估研讨会 The First Workshop of Evaluation of Multi-Modal Generation @ COLING 2025</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=3&amp;sn=7a2641a1956981bc39e1e8cbc52fa554&amp;chksm=bf6808095642a0c8aac0502961f8abebe1ea4b9e8ee2ed9d737aa2ad42bee236b54b810bb807&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[CodePMP：提升LLM推理能力的可扩展偏好模型预训练]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nbQgT8S1l4BLjrkFXxvP4ia1QDwiaa5yJdhphnkRLTF0JPOwicfGiaAZblynlrhX564ibDsTnpYU1GK0g/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：鱼汇沐  机构：中国科学院信息工程研究所 paper: https://arxiv.org/abs/2410.02229在LLM（大语言模型）的对齐训练中，尽管RLHF（基于人类反馈的强化学习）</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=4&amp;sn=faaffe2962949b2a34844610544dc06b&amp;chksm=bf06f271e05111f880f0afbe313229f36c297f9739f5bef70defb501ae99dc6697688c1261ce&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【LLM开源项目】LLMs-开发框架-Langchain-Tutorials-external knowledge-v3.0]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBYEj1f5rwrMGJp0tEItiaSqug9PWn9RRSXKjVxTVOmOwjYpvAF9w3lusIia57PWtxePkNwcab3ad1g/300?wxtype=jpeg&amp;wxfrom=0"/><p>【1】构建检索增强生成（RAG）应用程序Build a Retrieval Augmented Generation (RAG) Applicationhttps://python.langchain</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445341&amp;idx=5&amp;sn=04219ba504100b20e3faeea94a57c24c&amp;chksm=bf58d0a6c00fd4d853c33211496815cc45b1256b25d6c113437d6d450114117213285e9ac80e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 12 Oct 2024 09:58:34 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -392,86 +474,6 @@
       
 
       <pubdate>Mon, 07 Oct 2024 02:12:44 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[36岁当上985高校院长！女教授称“最强大的背景”是。。。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLmC7XupDBzUH8LCPfwV9VOkmrIdpPPaS6y46DIom0UAnwGvfGa8CSpdNGElb0NGzupQPRyEU02Zg/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：募格学术 ｜ 整理自中国青年报、天津大学等一袭白色连衣裙，讲话坚定而有力。9月12日，天津大学2024年新生开学典礼举行，药学院院长刘秀云教授作为师友导师代表发言。图源：天津大学新闻网这位年轻</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=1&amp;sn=5a8f5b37607ba3b4807d222b56dbb229&amp;chksm=bf0570be6002d0213333561b73ffb6523b1f0e50a1537f327f0b33246c2061977fbc7542ebd0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【文末赠书】内容透彻接地气的多模态大模型通识读本！国家队大模型紫东太初负责人王金桥力作]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLmC7XupDBzUH8LCPfwV9VOkTZ68QrOyHlcOF5gd2yAKgbObKcPU4DOsceK2kibJMo1TC00iaOBy74Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书--不得不说，如今的大模型应用只有具备多模态能力才更可能在这条赛道上脱颖而出，被更多人所使用！在人工智能的浪潮中，多模态学习作为一颗冉冉升起的新星，正引领着技术的未来。从ChatGPT的火</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=2&amp;sn=c32dfb91076d5850d1294eaa46a4aee3&amp;chksm=bf85b0c8ccd0ddda16ee2fc5bb25522d7ce7e7347070510cd5cd4436640fb682243003d2d211&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多模态大模型: 盘点&amp;Highlights part3——Gemini系列]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPyhqhSGTqefbv3CtwPZCGJRlt35WYuzPmicHeytQ9qeYWe01wPavHcwU6DYgxABX4jkZ3AoZIjosCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言Hi大家好，我叫延捷，是一名计算机视觉算法工程师，也是叉烧的老朋友了。我们计划发布一系列关于多模态大模型的文章，帮助大家快速、精准地了解多模态大模型的前世今生，并且深入各个多模态大模型领域优秀的工</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=3&amp;sn=6bcc26cdefcd923ed3c245fe40e373ed&amp;chksm=bfac0979634c8d4697b6497048b0941f4ce49ee7f8b397dc1b29e34a85b74aa6d7ee9f44be5f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM模型量化】-官方教程-hf-Transformers官方教程v1.0]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBNLaTxqVrRzg2mRJb209Vw8pcLKcXRCjwRXpVZOOqt3zl3BoW7JT1icsUjeoeu8eo8FQlfCI8sHicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：https://huggingface.co/docs/transformers/main/zh/main_classes/quantization量化 🤗 Transformers 模型-A</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=4&amp;sn=6600ff888bb5ed5fb42c29889aea0ace&amp;chksm=bf5c6dfea8d55f290004e923ca6f51cab3da0c303c26aab8be8584016705e566ee09d062b335&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[KDD Cup 2024 Meta LLMs RAG挑战赛冠军方案开源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UkaMPMaoibmia9olzZnRkTqRbCl1QqBrwF3rGeAueJhs3BS742rjrU9KazYlbu1ibNn7XJmKnnKic2KvibCZcFpcZfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>先介绍下赛题：赛题背景研究表明，GPT4对快速变化事实的准确性通常低于35%。LLM（大型语言模型）基于AI代理可能出现幻觉性回应的频率取决于多种因素，包括训练数据中的偏见、缺乏上下文理解以及知识表示</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445246&amp;idx=5&amp;sn=8c3c96f34c54a1e49eab18bf6c7a6500&amp;chksm=bf41319a721a1fbf381a23ba1ac817551fd3fd68575e490802a680db397e73b840c26ca8369c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 06 Oct 2024 06:45:34 +0000</pubdate>
       
 
     </item>
