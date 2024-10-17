@@ -47,36 +47,121 @@
 
 
 
+
+
+
+
+
     <item>
+      <title><![CDATA[全世界最好的LLM资源汇总 | Summary of the world's best LLM resources]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK4iakUU8HgV68ucEmQiat7WonACnhsj4pJOibzN35icvNVEkUd04Q8iaWv4LIzVjv6A7rQzqoibibpQSyLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐一个LLM资源汇总项目：awesome-LLM-resourses链接：https://github.com/WangRongsheng/awesome-LLM-resourses以下来自该项目主</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445444&amp;idx=1&amp;sn=71b3f091b2796ff91e53cf9b7d8ec707&amp;chksm=bf7c09812384b4d6dd6089a1757050f8cf84a1c2ca1a1b0aad327df2a3537f27f6e0c5f30cf4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 17 Oct 2024 08:55:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[微信团队发布全新多模态大模型 POINTS: 简单高效又不失性能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK4iakUU8HgV68ucEmQiat7Woj49eQ5oxsHq2PaIWvhHuibjaNhEMaecFNNibsVo40Dibo2hZsZTZu56xQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文地址：https://arxiv.org/pdf/2409.04828论文源码：https://github.com/WePOINTS/WePOINTS项目主页：https://huggingfa</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445444&amp;idx=2&amp;sn=5dc31326e170f17a9c6b86e0724818ec&amp;chksm=bf57ac05cb690cc2f199632600134ce02cb88faab187f7838b95aa0264a2ca0ffafaa528fa7d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 17 Oct 2024 08:55:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【LLM】一文详解MHA、GQA、MQA原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGBqH0xc6WjF9KmwhsDQf8iat4aorTTricwSIOnwKngL60uVDraqsfia8PfOXlEaHiaD5icqLlfqVZkdRaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言本文回顾一下MHA、GQA、MQA，详细解读下MHA、GQA、MQA这三种常见注意力机制的原理。图1 MHA、GQA、MQA一览self-attentionself-attention在自注意力机</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445444&amp;idx=3&amp;sn=e847a9bda0620cffe0c4d817e122f816&amp;chksm=bf967ea8a6af2837418306daa7f0eb8193eac241046e10904eea0a320ae1149d06bb749cfde2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 17 Oct 2024 08:55:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【实习】【MetaGPT】多智能体框架开源团队招募实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK4iakUU8HgV68ucEmQiat7WoQmqeFkdmMlmjYzDdCbXiarTTAUKXuVZzASCFiauxGVCsNF02FPaP8yYw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【实习】【MetaGPT】多智能体框架开源团队招募实习生团队背景：1. 团队开源的MetaGPT，已在GitHub上获得近4w Stars，是全球领先的多智能体框架；2. 团队主要由来自腾讯、百度、华</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445444&amp;idx=4&amp;sn=296158fdb50c53bfe7cafadfc5eb8c34&amp;chksm=bf1673cf0df02bf06fd1d443f9937b6b61f57e6212e98af44097e0cd2b298b8c8dc882d3c476&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 17 Oct 2024 08:55:39 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[清华大学最新发布：统一时序预测模型，上下文长度首次扩展至千级别，适用各类数据集]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dcUv9UF2OUW03N5AwecE1bUIuR5UUH0micjDgibGXe8ajytjC8aHQzNJR7r1BQLMWibQNkicdNPc4hlzvhpSxh2G5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一篇清华大学的时间序列预测最新工作，提出了统一的Transformer时序预测模型，能同时处理单变量和多变量时序预测，并将时序预测的上下文长度首次扩充到千级别。论文标题：TIMER-XL</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445444&amp;idx=5&amp;sn=7ed436273e811b24974d75361c1f7a68&amp;chksm=bf81ceeb33a501ea834b8a4b530ce92c1b174e8aa0b693dbca8548190a12e5a1b68bfdd70e50&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 17 Oct 2024 08:55:39 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Kaggle 2024 保姆级教程！！！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKLibibWRavZORtBPVSsTRI4ENyG7V8zDZdboibetibzfufo9hq7icUY3Tye5cmX3QPTFAqmAtvUiaIuFSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们在初学kaggle比赛时，可以找一些金牌or优秀解决方案参考学习。相对来说kaggle上NLP主题的比赛相对来说还是比较少的，这里整理了近两年的NLP比赛及Top方案，NLP方向的同学建议收藏。大</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445412&amp;idx=1&amp;sn=bd619cef645abb5568be79137c464f4d&amp;chksm=bfdffbe413c1afa14231a015a3f15f372776ae571acac487a3c85a6d03487696577a9781c5b8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 16 Oct 2024 02:18:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[如何从头训练大语言模型: A simple technical report]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaibZBUyAJxCfkyJRdHllZSmdMcGG6MN2EOxaOy0QFsptAypF12wa3GWypdmiaT7zGs3icqBj8jz3U7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：涮月亮的谪仙人（已授权）链接：https://zhuanlan.zhihu.com/p/906819356写在前面自8月底训好自己的1.5B的LLM后，一直都没有发布一个完整的技术报告，不少小伙</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445412&amp;idx=2&amp;sn=ba85374aff85efb1420219cc4518ace3&amp;chksm=bf0d975cc7db0c42358473c7347ac3999fbcdea5cfeeb8d55e4c99507b3cf2393c11f8fbccb2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 16 Oct 2024 02:18:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[IJCAI-信也科技杯全球AI大赛-华东师范大学亚军队伍分享]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdVz9WXWwCeWTCjdLTQ1bNxkViaiakpSa4nCiciaPuSAX698oehqQgqWa6oSQKUFDiasibeSnq6soz8U2Ig/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：彭欣怡(找不到工作版) 华东师范大学; 马千里(搬砖版) 虾皮;
 指导：闫怡搏(科研版) 华东师范大学 比赛链接：https://ai.ppdai.com/mirror/goToMirrorDe</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445412&amp;idx=3&amp;sn=d2456cc18c0ec113e13fe8ad45b262cf&amp;chksm=bff54876c39c61cc0a821bb141a3bed0598cc60b3a69631ff09309230f9e7a718be7fa80c98c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 16 Oct 2024 02:18:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[万字长文深度解读Movie Gen技术原理(5部曲)：图像&amp;视频联合生成模型 (2)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib6NicJVAN5KibQE1gYP8FaKVk7wqaD7llcm8GsicrA0hu3ZbbaP85B0Mxzg3gtFEBqUNXJpAmcGb7S2A/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言简介图像和视频基础模型时间自编码器(TAE)训练目标骨干架构文本嵌入和视觉-文本生成空间上采样模型扩展和训练效率预训练预训练数据训练微调STF微调数据集创建监督微调&amp;模型平均推理推理提示重写提高推</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445412&amp;idx=4&amp;sn=9f5df79ab4357a59e1cc59e28e629bc7&amp;chksm=bfdcf4d5b8e95d3d4499e37932ca029192f8b2eca7bac903d9f82e1aa0b14c31e2ec6e1211ea&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 16 Oct 2024 02:18:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【翻译】CUDA-Free Inference for LLMs]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3toxkP33hb0wrGiaVaBiaqwauDvz36kNaE1fHsyVLGqd0FhlVG5jWNQrYTNNwDyAMWKeSE8XI6tSZ9w/300?wxtype=jpeg&amp;wxfrom=0"/><p>blog链接：https://pytorch.org/blog/cuda-free-inference-for-llms/无CUDA的LLM推理作者：Adnan Hoque, Less Wright,</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445412&amp;idx=5&amp;sn=152f29682aaadb1a559aa7fe26909aaf&amp;chksm=bf757ef29fd0c4f0d8be6b0959f2f128086292ac17238aadfed9a702db29608f72811f5c6624&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 16 Oct 2024 02:18:27 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -475,86 +560,6 @@
       
 
       <pubdate>Thu, 10 Oct 2024 11:46:14 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[全是细节｜大模型SFT的100个关键点]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIXM2OJMOJmibe3GicicukSzmial8iaRAtoN081OET6Nmoib8ic9C7qElia4rULgibwicMvt7DECW6MK7M4y64A/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：ybq链接：https://zhuanlan.zhihu.com/p/809229182点击底部访问原文直达这篇文章介绍一下大模型的 sft 如何去做。相比较于上一篇文章介绍的 pretrain</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445303&amp;idx=1&amp;sn=cae55e0e581e260dfb40df6a9ae0f83f&amp;chksm=bfadfc49bd22d4097638ea12daddcda7880d49b786f941406e96a3627987ec7b6eb1e8071c53&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 09 Oct 2024 07:56:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年诺贝尔物理奖官方解读：他们用物理解码信息]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIXM2OJMOJmibe3GicicukSzmiaNQjdv6ticGDreqlgpL7NxicukkKmwbxib5KoNCnkMliaZUA30InZGDhQYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>源：中科院物理所今年的获奖者利用物理学工具构建了一些方法，为今天强大的机器学习奠定基础。约翰·霍普菲尔德（John Hopfield）创造了一种可以存储和重构信息的结构。杰弗里·辛顿（Geoffrey</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445303&amp;idx=2&amp;sn=a1d907587fd891d7032b83532e0f5374&amp;chksm=bf7339c0ec4a749942d37e564ee3341ba0faa136082789b2d5a77af49ef43af18f2de526204e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 09 Oct 2024 07:56:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[天池-蚂蚁AFAC大模型挑战赛-冠军方案分享(文末有代码)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVfsUStsEBq7vAaBVqJq8hBdQ88P3WNbrgADdOXGh5NMC34IcsDNIZEDtiaibMjiby3KC7mGzctKcJQ7Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言❝作者    彭欣怡 华东师大; 马千里 虾皮; 戎妍 港科广说在前面    在当今信息技术迅猛发展的背景下，大模型技术已经成为推动人工智能领域进步的重要力量。    前段时间备受瞩目的AFAC赛</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445303&amp;idx=3&amp;sn=58f198732ef21b44871262dc02f022af&amp;chksm=bfd3e41960a31b8e10ca949980edeb26367058dd2aaae4884c59f5aa3ac0dddfed39e6341ed6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 09 Oct 2024 07:56:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型是否具有自己风格？这个风格来自于哪里？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiawBZfF689rxSflI0IpicsL0m511RkybJWwFBAwTD6NalUoG99kog0KsqSv8CuFtVEKRVSe59Ipo9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：bhn (已获授权)链接：https://arxiv.org/abs/2309.17415背景这篇文章研究的是大模型生成任务中，出现上下文信息，与模型本身的知识冲突时（常见于rag场景），模型的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445303&amp;idx=4&amp;sn=4e80d3ffcf5a3bdaaf15680b325da2bf&amp;chksm=bf2e99579ecb3e5c897c971a94e484659938160e823701859e24bccde109a6f2a67fe2c3f284&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 09 Oct 2024 07:56:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM开源项目】LLMs-开发框架-Langchain-Tutorials-Basics-v2.0]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdBYEj1f5rwrMGJp0tEItiaSqug9PWn9RRSXKjVxTVOmOwjYpvAF9w3lusIia57PWtxePkNwcab3ad1g/300?wxtype=jpeg&amp;wxfrom=0"/><p>【1】使用LCEL构建简单的LLM应用程序(Build a Simple LLM Application with LCEL)https://python.langchain.com/docs/tut</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445303&amp;idx=5&amp;sn=f623873b3cd190e84bfb078d8a58c1a7&amp;chksm=bf81fe10ce57e8a75d24f1ce9eccee784de9ce77ef18309d63f2442402f83ddd58782ec3a922&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 09 Oct 2024 07:56:58 +0000</pubdate>
       
 
     </item>
