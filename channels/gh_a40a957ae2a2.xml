@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[LLM实践系列-拯救Continue Pretrain的数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5l29iaSsz4ibXE7KCILFDIdWvicghtOUYcMxjEPxUaxNhMq8nujL9a8tKYL41icW0mRWDNVxTEpln5P7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来知乎@真中合欢的一篇文章，《LLM实践系列-拯救Continue Pretrain的数据》。知乎：https://zhuanlan.zhihu.com/p/721492096打分清洗的文</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490612&amp;idx=1&amp;sn=0a9025eed834cb600f18c1e17044519e&amp;chksm=ce9c68c8eeffb86b6607198f89fa4e77b61ab661fc9f5723199ba936ef25dcbb38b19b6d184a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 18 Oct 2024 01:09:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[超全！一文详解大型语言模型的11种微调方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kFsc1MXu7YZnJIZSVUNaL2XzHibpkSDoFlsCZne0XuOtbH9ZgbrBtTvibFEuuIM2ic8t9Ouvh1Syhzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读：大型预训练模型是一种在大规模语料库上预先训练的深度学习模型，它们可以通过在大量无标注数据上进行训练来学习通用语言表示，并在各种下游任务中进行微调和迁移。随着模型参数规模的扩大，微调和推理阶段的资</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490603&amp;idx=1&amp;sn=cc5327a08875e60916aefa510ea7cfa3&amp;chksm=ce0f58032845f59fff22a03baa7541c5cb14f342b5952155148c2f400ea4d7d09266c9a7323e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 16 Oct 2024 15:23:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -87,262 +104,6 @@
       
 
       <pubdate>Sat, 12 Oct 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[全是细节 | 聊一聊做SFT的经验]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nhzQ2ZdBU0T3ZInAYrnE34kUibeoTlhRL8QAttia2IEDSWOpQeSoLzQ90AvNDUiaP3icCa6echdmxbibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>国庆回来，大家都学起来吧！赶紧分享一篇好友 知乎@ybq 的一篇关于大模型SFT的经验分享。知乎：https://zhuanlan.zhihu.com/p/809229182这篇文章介绍一下大模型的 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490540&amp;idx=1&amp;sn=bc51432489fa79475eae5f4ba43a8c82&amp;chksm=ced37357e03c70c1a7d2243e4fe91b85f1e2029d516291f7edd41a2176468380af14e9f24de0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 08 Oct 2024 02:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Llama3.2开源：Meta发布1B和3B端侧模型、11B和90B多模态模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lpH1kticWL2scy02X1GZ58jYHWDxq3JyaWPBNjUA9agzplfDj3pcP9mhxYSpQ9XPjXGVWcLN4EW4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源啦！开源啦！早上起来发现，Meta AI又开源模型，文本模型开源了端侧小模型1B和3B模型，也是首次开源了多模态大模型11B和90B两个版本；同时还开源了一个 Llama Stack项目。Blog</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490524&amp;idx=1&amp;sn=cc0ec27ac0e6b252256dea8b83838079&amp;chksm=ce24e0cd09770df46273930490c29ddc6b5381c4e1e27f3b41485d2c91005a57f93c34543e3d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 26 Sep 2024 01:11:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[长文 | Reverse-o1：OpenAI o1原理逆向工程图解]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nWrwSVftSz9JSt7cPzo6cdc3Ca07DzylL6kDhhibKsC89Fo4DkwDiczCAQSbglyTpRFyeJZ56L4GJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇知乎@张俊林 大佬的文章，针对OpenAI o1原理进行逆向工程图解。知乎：https://zhuanlan.zhihu.com/p/721952915OpenAI o1的推出称为横</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490505&amp;idx=1&amp;sn=b069582e195cccd861af6098524bcf59&amp;chksm=ce0b1603e29afbd9d540c28327228887dd0e444859998c40d49d02322d2221612fb3f0f0d6b7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 25 Sep 2024 05:13:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[全是细节 | 聊一聊做Pretrain的经验]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5llhbsMLBtMCtVag4n3ck5XHeC5XIk2apiay10fHy0SqALP0EASgrwXd593QXjiaAXaDTj8lrPzN0xQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家分享一篇好友@知乎ybd的文章，主要介绍下如何从零到一进行 pretrain 工作。知乎：https://zhuanlan.zhihu.com/p/718354385类似的文章应该有很多，不</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490424&amp;idx=1&amp;sn=53ee03a9233135c10b66e5437238a9ff&amp;chksm=ce7a8fb98b10e8b88df824245b3663f40032b8b880850453086dcea3f51ea07c948f96991bb3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 24 Sep 2024 05:13:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Quest：一种以查询为中心的长文本数据合成方法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5n33RGcM0R16IoCjKvCsLf3VkbYzcz2dE8wyzGHoVCvDqdDlq6l8pkW3uibV2ybX71hJibZaXcA0hOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇长文本数据合成方法。作者: 高超尘机构: 中国科学院信息工程研究所Arxiv: https://arxiv.org/abs/2405.19846大规模语言模型可接受长度愈加得到关注，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490419&amp;idx=1&amp;sn=67fda00fcef193c12cc46dcdbac5462d&amp;chksm=ce467125eee081846e557621b3e26d5a5ac51901f88a83568c06d3440b75906de738a18f66e9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 23 Sep 2024 15:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何提升角色扮演大模型的拟人能力？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kTqXcq87icj0C7qkwpxElsc6icx8UAHWKoBjAJ3IJbSCRTJVom7HTWXwJiag8qOaJGE662aMf2QmFrQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇好友知乎@快乐子涵酱 对于角色扮演大模型提升拟人能力的方案介绍。知乎: https://zhuanlan.zhihu.com/p/719772276在这里我们先提出一个问题：在没有大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490234&amp;idx=1&amp;sn=13ced4673f25231728aa2353b6e49742&amp;chksm=ce10a67cf719fdae28da0a1b0fecf4472a23e8646c71a784bc46e9cd45914cc116ce6dbb8e99&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Sep 2024 15:23:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2.5系列模型开源，你值得拥有！！！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lALOt9XBSwuNks9e9HoVNcgiaqQM8wO9d6NZp8lUPpQsRdeiavoRlpmaicY7HF87BLDvTicDEuGrvl8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。Ta来了，Ta来了，Ta带着7个Size的开源模型迎面走来了。是的，期待已久的Qwen2.5开源了，共有7个尺寸规模，包括：0.5B、1.5B、3B、7B、14B、32B和72</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490226&amp;idx=1&amp;sn=d54640fc47f339d19fd56cc82fd1a6d1&amp;chksm=ce28a42015e6b847ab4f51f950a9e183481c3a7af0420cc5ddb95c7f6ad52a8bc715a53f5850&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Sep 2024 17:18:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[长文 | 探索基于RL的新LLM scaling范式]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5npDuKXWnH8JLs5FomdEzwrC07sCiaHiaReicmxZKQsBGwm43t9KGibFiaEYvdia4XDjDh94cVUksCvm1aA/640?wxtype=jpeg&amp;wxfrom=0"/><p>借着 o1 发布的机会读读基于 RL 的新 LLM scaling 范式的相关论文。背景简介首先推荐阅读一下拾象的《LLM 的范式转移：RL 带来新的 Scaling Law》，很好地科普了一下基于 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490176&amp;idx=1&amp;sn=b5346dc09a1d83f3a6ad99ba1c988276&amp;chksm=ce3c33742286b611c2a40709c7124863c6cf48b6fd76570a11618dfa8f51332b042cc48ae248&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Sep 2024 04:12:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型千卡训练-经验指北]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5npDuKXWnH8JLs5FomdEzwrC07sCiaHiaReicmxZKQsBGwm43t9KGibFiaEYvdia4XDjDh94cVUksCvm1aA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：你的真实姓名知乎：https://www.zhihu.com/question/650979052/answer/3501160453最近看到知乎一个回答，把千卡训练的难度吹上天了。但其实真正用</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490171&amp;idx=1&amp;sn=355a382e460984da9b0070ecdeaa5d79&amp;chksm=ceb5727e7f421bc98bdb80311aca39ab89b1fbdc1761c11f3a0f2c805d6f68967316f3af9865&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 15 Sep 2024 05:13:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[浅谈OpenAI o1的价值意义及RL 的Scaling Law]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5ln1ZQhOnZYDqu6DxSohfHC27NqSB9PF4AR7iaMmgMY8efHdwEJw2CyQGFaJSO02bm7grszdfH0HiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>蹭下热度谈谈OpenAI o1的价值意义及RL 的Scaling law。知乎：https://www.zhihu.com/question/666991594/answer/3624703380一.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490163&amp;idx=1&amp;sn=f2a87170add0f613aae5c5cf5ed243fe&amp;chksm=ce3b57e423c90e20781ab0ad8b230a70ac1a5e1a9d3c419ce40a2c2651dfee924b450b64d325&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 13 Sep 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[六个问题带你看懂什么是理工科学霸-OpenAI o1！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5ln1ZQhOnZYDqu6DxSohfHC27NqSB9PF4AR7iaMmgMY8efHdwEJw2CyQGFaJSO02bm7grszdfH0HiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇主要会回答下面的问题（too long，don't read）：什么是OpenAI o1？——一个擅长数学物理化学生物编程等问题的理科学霸大模型OpenAI o1最大的技术特征是什么？——RL训练</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490158&amp;idx=1&amp;sn=40a0c2ebed939af10b541658c3303b5d&amp;chksm=cedc819a2c565ff12ff68e2a8de94346a76aacbfdaddb523c2684515a143720413695c2c7b95&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 13 Sep 2024 00:49:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大型语言模型实战指南]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5l5Q35MrGyedKI1xNojSTianRtyyr0VJd78ywvzoWFIEF9LSfnPicy74LdzfZq8ue4FcNrJ3IylibpMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。是的，没错，对的，很酷，又出了一本大模型书籍《大型语言模型实战指南：应用实践与场景落地》。我将在公众号抽3位粉丝，送上签名版的新书，规则会在文末给出。文末送书、文末送书、文末送</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490132&amp;idx=1&amp;sn=3d22a9291cd464251c17d6f14752f388&amp;chksm=cee719be1f55e8ac534eca897bdc59eb5715d4832257378907a2c48e049d61f207320150a88c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Sep 2024 01:09:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型论文淘金]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nZYmGhQVUD78Hicem7GU7NGUG0GwesmpaEeTuMu9tsDXiaxjJomlmicKicywOOytYDTrJSfzrWDdukNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天带来一篇知乎好友@ybq 的文章，主要分享给大家判断论文价值的一些经验。注意：该经验更多的是辅助提升工程能力，对纯搞学术的同学并无帮助，还望理解。知乎：https://zhuanlan.zhihu</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490132&amp;idx=2&amp;sn=ece82d85fd4be387fdbaccce257c8db4&amp;chksm=ce3e878aa408d01457bad8cdede35eba42709b0e02eade2f3a4113a96d740f86d4d3ae05208b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Sep 2024 01:09:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DPO，RM，RLHF 傻傻分不清楚]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kj6ozcTfEBKNiaq6ibiaSyIsoApDWufK79Th4WaVLVE5RApkNDNibQU1GLpQQ2j42PkRc5oQOqusuDew/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇曹宇兄的文章，带你进一步理解什么是大语言模型的对齐。知乎：https://zhuanlan.zhihu.com/p/718913850DPO 的论文引用最近已经破千了，成了斯坦福的C</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490112&amp;idx=1&amp;sn=56bae815ac46196be483a5d88dbe8aa7&amp;chksm=ce436eb0caa529c2eeb98990727078559734da96821a74535d8be366bbb7a22d542c61a1dd49&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Sep 2024 00:08:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何获取高质量数据进行代码指令调优？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lt6E6ibAicB8HVEXcezcs1lkOEYVhvE4rial4oicWYDHuDLgzFHufL8hhrmxRYyytng0JLPFgPc1vaSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。之前很多研究都是生成、发现、过滤高质量的通用指令微调数据，而大家对代码任务的越发关注，如何构建更好的代码指令调整数据也越发重要。下面给大家带来一篇筛选高质量代码指令微调数据的文</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490038&amp;idx=1&amp;sn=6dd971bd19d60ca5c4f0330ffb851b1f&amp;chksm=ce1c37ab3f92c70d901c611181d4c9ea146a88d4367a99e407cc8b204d1b7035e784a32cf790&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Sep 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[浅谈大模型角色扮演：从当红炸子鸡到无人问津]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lt6E6ibAicB8HVEXcezcs1lkOEYVhvE4rial4oicWYDHuDLgzFHufL8hhrmxRYyytng0JLPFgPc1vaSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>带来一篇知乎好友@ybq 对大模型作角色扮演的浅谈，role play方向，从当红炸子鸡到鲜有人问津，感觉还是挺让人唏嘘的。知乎：https://zhuanlan.zhihu.com/p/718761</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490017&amp;idx=1&amp;sn=7e873b323336eb3c316d4d4f619a5375&amp;chksm=ce9055f359441df665a61a8f8bd7aa39a08b962416aba88b5ef2f7816d86375393b64066c0a0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Sep 2024 06:41:00 +0000</pubdate>
       
 
     </item>
