@@ -32,21 +32,61 @@
 
 
 
-
-
-
-
     <item>
-      <title><![CDATA[合成数据用于AI训练的艺术与科学]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6P7uLqYMqFSangHNBAFVs6xq33RSILDQ2osQUibTRsk3bDYJ2RAXcsbia7aQzKPAdfauqO9AwiavxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Nathan Cooper链接：https://www.answer.ai/posts/2024-10-15-how-to-synthesize-data.html引言合成数据已经成为大规模语言</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532765&amp;idx=1&amp;sn=5dde12b93d5256fda251b5e94d387f59&amp;chksm=eac9a9d966b621bdf253de3347a3b0173620860243044ea74b1a798830d49ce41eb0d40c2c6f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 17 Oct 2024 15:55:17 +0000</pubdate>
+      <title><![CDATA[可怕！llm训练的bug，梯度累计设置过大，会导致最终loss过大。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTTVxWXOl5ZlKtyqBbfibZV33GlHqCSb1ibhrT7IhDEfNqYc2TQX0YaEMIyFfZeJxZ0jk5gHRJXzZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：车中草同学(已授权）链接：https://zhuanlan.zhihu.com/p/1485465898范围：该问题影响所有使用梯度累计的库，包括hf的等。（hf的人在修复中了）10.18日更新</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532873&amp;idx=1&amp;sn=79ba187b1f1d225cd17edfc189aa0e37&amp;chksm=ea8a1cc4cc97e2f3ffe691d79d2b1f9f77ec47f27cf8b673a3588bc5a1bd3ef8dd1d7a73c101&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 18 Oct 2024 15:58:49 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[LLM实践--支线：拯救Continue Pretrain的数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6P7uLqYMqFSangHNBAFVsX3TaEJNdGvWNtthrXKKfT3j2WwqM3jWibynichcBNaEpmVlF68KZyYcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：真中合欢链接：https://zhuanlan.zhihu.com/p/721492096打分清洗的文章难产，写起来没有思路，就换换脑子写写旁门左道，探讨一下common数据质量不理想的情况下，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532765&amp;idx=2&amp;sn=04542c1fc0ede232218dc97011bd2d8b&amp;chksm=ea94689564078c31d0f1271e783f39861948b031d0df0d6df04a97c669801f22ba413af34f45&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[EMNLP2024分享会要开始啦！6大主题、2多主题，快来预约不错过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTTVxWXOl5ZlKtyqBbfibZVtWNFSJhtJfw0loI5fW8awIsMFQfGlicmkPibovkglFvibGxCBd7DKSecg/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末进群~大家好，欢迎来参加我们NICE-苏大AI Lab举办的EMNLP2024分享会，在接下来的两个周六(10.19和10.26)，我们邀请到多位EMNLP2024中稿的同学来分享交流他们的工作，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532873&amp;idx=2&amp;sn=2268ad826f9e5bf3f46370cf344e60e3&amp;chksm=eabf84658dd7b4574bdf2f16fa2c9915ff83fa29a670e751ec4d89e88ab956bc35c3ea64600f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 18 Oct 2024 15:58:49 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[关于LLM+RL(HF)的片面脉络梳理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTTVxWXOl5ZlKtyqBbfibZVX5KR511EcibQWymGXMNia70EfzibqvNl6UaPu3a2pgdZSyMHPYdYZO5kA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：王小惟 Weixun链接：https://zhuanlan.zhihu.com/p/1686790674片面的脉络梳理，主要是希望能帮助大家建立一个更全局的视角，因为篇幅有限，仅包含了支撑脉络的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532873&amp;idx=3&amp;sn=a9d776dfe943fffefe40947b811fd670&amp;chksm=ea8cfdfe103665fcbfe1d926fc217dd19d7d3ebd1836cd1633eb5898bc59fdb1fbde1d6120fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 18 Oct 2024 15:58:49 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[BWArea Model: 决策视角下的可控语言生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTTVxWXOl5ZlKtyqBbfibZVZeqgXOnrbzfxptZo626k19eewjAsicicXl2FCgVjHmsZQUIoKCZAFyDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：j0229链接：https://zhuanlan.zhihu.com/p/721464986前言在前段时间，在俞老师 @俞扬 的指导下，和鹏远师弟、子牛师兄 @李子牛 以及组内其他师弟一起做了可</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532873&amp;idx=4&amp;sn=0bdf2b782aa80066bc5bb65596de0160&amp;chksm=eaafde846d5bab9698f22dfe0a00b5b472c45561f2430bb4a6417cbf58a4f94d3be9fa0d2fa0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 18 Oct 2024 15:58:49 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[合成数据用于AI训练的艺术与科学]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6P7uLqYMqFSangHNBAFVs6xq33RSILDQ2osQUibTRsk3bDYJ2RAXcsbia7aQzKPAdfauqO9AwiavxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Nathan Cooper链接：https://www.answer.ai/posts/2024-10-15-how-to-synthesize-data.html引言合成数据已经成为大规模语言</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532765&amp;idx=1&amp;sn=5dde12b93d5256fda251b5e94d387f59&amp;chksm=eac9a9d966b621bdf253de3347a3b0173620860243044ea74b1a798830d49ce41eb0d40c2c6f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 17 Oct 2024 15:55:17 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[LLM实践--支线：拯救Continue Pretrain的数据]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6P7uLqYMqFSangHNBAFVsX3TaEJNdGvWNtthrXKKfT3j2WwqM3jWibynichcBNaEpmVlF68KZyYcg/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：真中合欢链接：https://zhuanlan.zhihu.com/p/721492096打分清洗的文章难产，写起来没有思路，就换换脑子写写旁门左道，探讨一下common数据质量不理想的情况下，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532765&amp;idx=2&amp;sn=04542c1fc0ede232218dc97011bd2d8b&amp;chksm=ea94689564078c31d0f1271e783f39861948b031d0df0d6df04a97c669801f22ba413af34f45&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 17 Oct 2024 15:55:17 +0000</pubdate>
+      
+
     </item>
     <item>
       
