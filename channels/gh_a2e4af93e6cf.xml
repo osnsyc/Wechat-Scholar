@@ -73,62 +73,184 @@
 
 
 
-
-
-
-
-
-
-
-
     <item>
-      <title><![CDATA[《深度表格学习综述》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1So62v3Wy2Fh5kvhtHiaupcicSS0ibAd2IR1ooIwJFCQ1QcB7ibvKIgAksia1ibJKYytFoOK5lejLEIjQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>表格数据广泛应用于医疗、金融、交通等行业，但由于其异构性和缺乏空间结构的特性，给深度学习带来了独特的挑战。本综述回顾了用于表格数据的深度学习模型的演变，从早期的全连接网络（FCN）到先进的架构，如Ta</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=1&amp;sn=c9d54721665b82e77639c691248ffd2d&amp;chksm=fd17bde92168525b46faab54cebd07f60236733d379c86fb036610e7a693a1c5aca3983505b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[《大语言模型的数据合成与增强综述》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3fAfrzfTKekXNv0ndFEbxqKjV516CyUaKhicnj4vprUJibibh36389pRetxvuhaeDgJSFduREMNbj2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要大型语言模型（LLMs）的成功本质上与海量、多样化和高质量的训练和评估数据的可用性密切相关。然而，高质量数据的增长速度远远落后于训练数据集的扩展，导致了潜在的数据枯竭危机。这凸显了提高数据效率和探</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659503&amp;idx=1&amp;sn=2cae01f668fbe42409fd75ebc1ed278d&amp;chksm=fde0802cdd82b510a0f62faaa176df9cb8d940de87dc05f5c547647e3f082d7d801b36eb707f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【普林斯顿博士论文】在差分隐私机器学习中有效地从数据中学习并生成数据，189页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1So62v3Wy2Fh5kvhtHiaupcElLXjJ4Jty44ujmtd54wU669wn46HBBecmGHx5uMEHYorsH8rZrDVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习模型容易受到一系列攻击，这些攻击利用了训练模型中的数据泄露。差分隐私 (Differential Privacy, DP) 是量化隐私风险并提供可证明的攻击防御保证的黄金标准。然而，在差分隐私</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=2&amp;sn=3888263fb4e2e624fbecf2bfd6e9a770&amp;chksm=fdd010c95a01a7c8435498c408f9edd4fb80df108b55876fd002b752fe8c77b70731a9705075&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[【普林斯顿博士论文】通过稀疏性解锁可信的机器学习，206页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3fAfrzfTKekXNv0ndFEbxq7kAVa68VOGfH6nModRjz95ElBXVPiclp7uG9oZUiakTnFEXCulhbspGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>现代人工智能的定义已被大型神经网络的使用所塑造，这些网络在大规模的网络数据集上进行训练。由于训练数据集的规模庞大，这些数据集已无法被有效过滤。我们展示了这些模型能够逐字复现私密数据，并可能学到有害或有</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659503&amp;idx=2&amp;sn=db285bab791c0d7d366fd3b32e801f1e&amp;chksm=fd05c607c05969ab536bc81d96e65d178f12861faf985857dcd42929992b739bdcfdf58fb7fb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[35篇 NeurIPS 2024 | 自动化所新作速览]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iaxzY2iaFnkPpFngjpB4S51uG0mXzVNXMbaB6SpGqRxRbGfiblaFFbcFqAIdn3G6Q2ApoMK4kRwXMWHmxftLehcvw/300?wxtype=jpeg&amp;wxfrom=0"/><p>NeurIPS全称为神经信息处理系统大会(Conference on Neural Information Processing Systems)，是机器学习和计算神经科学领域的顶级国际会议。Neur</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=3&amp;sn=0dc52d8e23d0544e20cd686d73a6e770&amp;chksm=fd40207a69e9dffe55da18cd0ccbd38369f9a87f2e13de529756de4a1f99715d5992951d5410&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】空间-时间数据建模：马尔可夫随机场、客观贝叶斯与多尺度模型，293页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3fAfrzfTKekXNv0ndFEbxqNys8GBIvlJbVZBEu79aIQoYWgoVc91sdvgm3LfGSNWaMyHdJRDCPqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在过去15年中，空间和时空统计中的几个重要主题在教材中未得到足够的重视。《空间-时间数据建模：马尔可夫随机场、客观贝叶斯与多尺度模型》旨在填补这一空白，概述了近期提出的多种分析空间和时空数据集的方法，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659503&amp;idx=3&amp;sn=84a416cec6d3583594ec3ead76bc9adf&amp;chksm=fd25d5a2a88e05119f383e2da5fa8b57df472acf9f4169b790ea4cec5dc3fd5e866ab7a4a9d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[人工智能在战争规划中的新领域： AI智能体如何彻底改变军事决策]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS0e6ogX29jtUH2nibrZpCDTRsrN4KKW6Aia9uVrPuFO8NEuiaYnk6872P4bJ5PARDHlUiaV1fQCcG83g/300?wxtype=jpeg&amp;wxfrom=0"/><p>纵观历史，地缘政治和军事环境的快速变化影响着决策者实现战略或行动目标的能力。在动态环境中，如果对不断变化的条件适应太慢，就会造成灾难性后果。历史上，军队因不适应环境而付出生命损失、战斗甚至战争代价的例</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=4&amp;sn=0b3e1718febd98293baee66ba6c42648&amp;chksm=fd2c1964a2c501bbf3b4816398a652a97d18235a14dc21e01b261a6741a1f48e783c9e0705ac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[C4ISR 系统：军事行动的支柱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQf7j1F8iahdAB58XYZeufq1fZSRcNx3KY6fgpDcGAib8UDF5RQKFIfmOsg7TXZaa5BItuYg18NQ19w/300?wxtype=jpeg&amp;wxfrom=0"/><p>了解现代国防中的 C4ISR 系统不断发展的全球防务需要将信息收集、实时通信和战略指挥复杂地融合在一起。C4ISR 系统是这一复杂等式的解决方案。对于不了解的人来说，这个缩写可能听起来像科技术语，但对</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659503&amp;idx=4&amp;sn=2dcf090545810c07cf076544ab76776f&amp;chksm=fd2ae5c7e66bdd3f33f15fa55c532a6beaf16686f3cce334d39ec6d0b35075edcec473a31b6d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】利用生成式人工智能进行网络防御策略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1So62v3Wy2Fh5kvhtHiaupc8CQZ4Yy0uYssjMQrDVkVLNxGvuTGRDCy7uZbPk2Ov4rZ1XTibSrRjuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着网络威胁日益复杂，创新防御策略的需求变得迫切。生成式人工智能（AI）提供了一种革命性的方法来增强网络安全。通过利用高级算法、数据分析和机器学习，生成式人工智能可以模拟复杂的攻击场景，识别漏洞，并开</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=5&amp;sn=3e6415daa66b1577abca8073646d7b4f&amp;chksm=fd6fdd646760ea4981a18a20154e754610ddca29133c4c843d5ee7ea38f857d930f2cf9548cb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[2024年中国数据要素流通行业研究报告：多举措齐头并进，共同探索数据资源创新应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3fAfrzfTKekXNv0ndFEbxq5Zib7lOyej5sMVdT3bDxoibvticshIPSOx60HwrOMQiaU35hjazC3F7ib1Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国大数据产业在“十三五” 发展期间取得了显著的发展成效， 产业规模年均复合增长率超过30%， 2020年超过1万亿元。 自2022年起， “公共授权运营平台建设” 、 “数据二十条” 、　　“《“数</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659503&amp;idx=5&amp;sn=7efd1b0cb806d6d4472e17bb24cb820b&amp;chksm=fd84dec4ca70fba1e7fbd228e1a4647453413d2ddad558f104add94a970fc0b0fd1f4b56e1bf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[ICML2024｜知识感知的强化学习优化的蛋白质定向进化方法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcMib4Z9jOWfib7hp0nUSYDFsy8PxNPe0ZIYCj7iamM3ybQXsPS51kxUL6Hia5euN9Ghian3L6F0aiaOaPHA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Knowledge-aware Reinforced Language Models for Protein Directed Evolution本文作者：王钰皓（浙江大学）、张强（浙江大学</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=6&amp;sn=32a59cf274bef330ff6fa4828f3a1f37&amp;chksm=fd42085e996517770fd7627dc913d268a0ee10c9d15cb886c5c7568f304e7ae9c8dec4443b5a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[从杀伤链看无人智能装备在俄乌冲突中的运用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3fAfrzfTKekXNv0ndFEbxqg1wK2DFb64fKMCibW88uVsgcrqaaKJqJrRBLmo9umI4OkO8lYiaVzV9g/300?wxtype=jpeg&amp;wxfrom=0"/><p>俄乌冲突是无人智能装备自研发列装以来运用最为广泛的一次局部冲突。 在此次冲突中出现的各型无人
+智能装备给传统的杀伤链带来了一系列的变动与挑战。 为研究无人智能装备在俄乌冲突中的作战运用及对杀伤链
+的影</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659503&amp;idx=6&amp;sn=5aec800c9f835dd58f568b3b7c97590f&amp;chksm=fd9d8ac0e8ac463823608f9f6624aa266071af516b41f28aed27398a9defa5f78a3d37856587&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[人工智能对指控领域的影响]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1So62v3Wy2Fh5kvhtHiaupcPVmARaaTzxibyBmWSQfbnYvswCnwv82o490G5hAu2tSy4SZVBo79JaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能技术的飞速发展，影响、制约、引导甚至主导现代作战方式。 尤其在指控领域，人工智能技术通过
-指控系统与装备，深刻影响着指控活动各要素、各环节。 然而，受限于人工智能技术新质性和军事系统特殊性，人</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=7&amp;sn=2445e7006e50f2b2ef09ec2b15a44da6&amp;chksm=fdd50e041e44a390cdcb229adee321b4dca056e165060caa749e137b4f73fe1d30b80ec7cf89&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      <title><![CDATA[视频分析大模型技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zHbzQPKIBPgdYXjlMZ2rXsvpTWJRdrDTeibTrqsemNzZ8ps2lpckmLdnHA0y1sqSVneyRmuhKGl7xI4ZgZr6q1g/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读 随着人工智能和大数据技术的不断发展，海康威视凭借多年的技术积累和丰富的行业经验，逐步将大模型应用于各个行业，特别是在金融安防领域，海康通过观澜大模型实现了跨模态感知和自主学习能力。本文将分享海康</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659503&amp;idx=7&amp;sn=dcf2cf34cfd171e4a4853769bf8a9acc&amp;chksm=fd97cc6e45781e041398b75a135d01c475c1d321d8c96edbbb43e6414a36a5b903be18be48bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 04:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=8&amp;sn=fc09be9735ba9a0a6bc4d939a9b5b484&amp;chksm=fd952c61b4e78d5199bfb2ed88ac2f089784750586ec5f9d31ec8904641dc688243638a2999e&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659503&amp;idx=8&amp;sn=5e43e7e32836fc37fd962d91aae3dfd2&amp;chksm=fd3e6ad30f4b4625cc9e9477c61fb1827b11d69bf81c57025cf95cc38d7c0fbcb6bcaa179290&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《深度表格学习综述》]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1So62v3Wy2Fh5kvhtHiaupcicSS0ibAd2IR1ooIwJFCQ1QcB7ibvKIgAksia1ibJKYytFoOK5lejLEIjQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>表格数据广泛应用于医疗、金融、交通等行业，但由于其异构性和缺乏空间结构的特性，给深度学习带来了独特的挑战。本综述回顾了用于表格数据的深度学习模型的演变，从早期的全连接网络（FCN）到先进的架构，如Ta</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=1&amp;sn=c9d54721665b82e77639c691248ffd2d&amp;chksm=fd17bde92168525b46faab54cebd07f60236733d379c86fb036610e7a693a1c5aca3983505b8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【普林斯顿博士论文】在差分隐私机器学习中有效地从数据中学习并生成数据，189页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1So62v3Wy2Fh5kvhtHiaupcElLXjJ4Jty44ujmtd54wU669wn46HBBecmGHx5uMEHYorsH8rZrDVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器学习模型容易受到一系列攻击，这些攻击利用了训练模型中的数据泄露。差分隐私 (Differential Privacy, DP) 是量化隐私风险并提供可证明的攻击防御保证的黄金标准。然而，在差分隐私</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=2&amp;sn=3888263fb4e2e624fbecf2bfd6e9a770&amp;chksm=fdd010c95a01a7c8435498c408f9edd4fb80df108b55876fd002b752fe8c77b70731a9705075&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[35篇 NeurIPS 2024 | 自动化所新作速览]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iaxzY2iaFnkPpFngjpB4S51uG0mXzVNXMbaB6SpGqRxRbGfiblaFFbcFqAIdn3G6Q2ApoMK4kRwXMWHmxftLehcvw/300?wxtype=jpeg&amp;wxfrom=0"/><p>NeurIPS全称为神经信息处理系统大会(Conference on Neural Information Processing Systems)，是机器学习和计算神经科学领域的顶级国际会议。Neur</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=3&amp;sn=0dc52d8e23d0544e20cd686d73a6e770&amp;chksm=fd40207a69e9dffe55da18cd0ccbd38369f9a87f2e13de529756de4a1f99715d5992951d5410&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[人工智能在战争规划中的新领域： AI智能体如何彻底改变军事决策]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS0e6ogX29jtUH2nibrZpCDTRsrN4KKW6Aia9uVrPuFO8NEuiaYnk6872P4bJ5PARDHlUiaV1fQCcG83g/300?wxtype=jpeg&amp;wxfrom=0"/><p>纵观历史，地缘政治和军事环境的快速变化影响着决策者实现战略或行动目标的能力。在动态环境中，如果对不断变化的条件适应太慢，就会造成灾难性后果。历史上，军队因不适应环境而付出生命损失、战斗甚至战争代价的例</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=4&amp;sn=0b3e1718febd98293baee66ba6c42648&amp;chksm=fd2c1964a2c501bbf3b4816398a652a97d18235a14dc21e01b261a6741a1f48e783c9e0705ac&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】利用生成式人工智能进行网络防御策略]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1So62v3Wy2Fh5kvhtHiaupc8CQZ4Yy0uYssjMQrDVkVLNxGvuTGRDCy7uZbPk2Ov4rZ1XTibSrRjuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着网络威胁日益复杂，创新防御策略的需求变得迫切。生成式人工智能（AI）提供了一种革命性的方法来增强网络安全。通过利用高级算法、数据分析和机器学习，生成式人工智能可以模拟复杂的攻击场景，识别漏洞，并开</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=5&amp;sn=3e6415daa66b1577abca8073646d7b4f&amp;chksm=fd6fdd646760ea4981a18a20154e754610ddca29133c4c843d5ee7ea38f857d930f2cf9548cb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[ICML2024｜知识感知的强化学习优化的蛋白质定向进化方法]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcMib4Z9jOWfib7hp0nUSYDFsy8PxNPe0ZIYCj7iamM3ybQXsPS51kxUL6Hia5euN9Ghian3L6F0aiaOaPHA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Knowledge-aware Reinforced Language Models for Protein Directed Evolution本文作者：王钰皓（浙江大学）、张强（浙江大学</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=6&amp;sn=32a59cf274bef330ff6fa4828f3a1f37&amp;chksm=fd42085e996517770fd7627dc913d268a0ee10c9d15cb886c5c7568f304e7ae9c8dec4443b5a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[人工智能对指控领域的影响]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1So62v3Wy2Fh5kvhtHiaupcPVmARaaTzxibyBmWSQfbnYvswCnwv82o490G5hAu2tSy4SZVBo79JaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能技术的飞速发展，影响、制约、引导甚至主导现代作战方式。 尤其在指控领域，人工智能技术通过
+指控系统与装备，深刻影响着指控活动各要素、各环节。 然而，受限于人工智能技术新质性和军事系统特殊性，人</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=7&amp;sn=2445e7006e50f2b2ef09ec2b15a44da6&amp;chksm=fdd50e041e44a390cdcb229adee321b4dca056e165060caa749e137b4f73fe1d30b80ec7cf89&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659460&amp;idx=8&amp;sn=fc09be9735ba9a0a6bc4d939a9b5b484&amp;chksm=fd952c61b4e78d5199bfb2ed88ac2f089784750586ec5f9d31ec8904641dc688243638a2999e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 19 Oct 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -772,134 +894,6 @@
       
 
       <pubdate>Mon, 14 Oct 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《大语言模型推理加速》全面综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3aUr9jtQ4uM3ibFRDj8pdQPDGSUxDv9cTqnAGVvC6BfFv31VylNZdsq2LEOcP6ia9sTHHnGaicUtF7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）在多个领域展现了卓越的能力，从自然语言理解到文本生成。相比于非生成型的大型语言模型（如 BERT 和 DeBERTa），生成型的大型语言模型（如 GPT 系列和 Llama 系</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659187&amp;idx=1&amp;sn=742fa9ef348e1afed07416d88b845f4a&amp;chksm=fddcc1d45f48fca502ed21e06622356fc1bba3a413ad177499827549903824b155e6948243d0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 13 Oct 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【博士论文】自然语言处理中的不确定性，365页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3aUr9jtQ4uM3ibFRDj8pdQPfH2YJNjVFwDC26764gfQAms5BaGZt4vXzuVQZib3R1zDc7m5CIgMfeg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在过去十年中，深度学习领域催生了越来越强大的系统，并已在各种应用中广泛部署。在自然语言处理领域，随着一系列突破性进展的出现，包括大型语言模型的开发，领域已发生了巨大的变革。如今，这些模型被越来越多地应</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659187&amp;idx=2&amp;sn=ebc1f4ec54aece6e06ea0b5f45b70cce&amp;chksm=fda67a4e3ace54d0d27db615df210776d9cfe212c91e2741b38417158680fa2950cd50ff4a5c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 13 Oct 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年中国工业大模型行业发展研究报告｜附43页PDF文件下载]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3aUr9jtQ4uM3ibFRDj8pdQPt0msYaREjfvib6bhhXYLyBnChP4e6JUDOJeIl2gqdnUKEj49r2VowGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>工业大模型伴随着大模型技术的发展，逐渐渗透至工业，处于萌芽阶段。就大模型的本质而言，是由一系列参数化的数学函数组成的计算系统，且是一个概率模型，其工作机制是基于概率和统计推动进行的，而非真正的理解和逻</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659187&amp;idx=3&amp;sn=e5d85e09341aff45d5b7c7026c07be03&amp;chksm=fd77571123d1a1d9293e711b03ec32124da2b3c1d77e3aad54030ee669a03f09ce78608321eb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 13 Oct 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[24篇ECCV 2024 | 自动化所新作速览]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iaxzY2iaFnkPqhIlKCRkxETQ2Jj4zPibHm5OzgCaqToW1TX4q4vNjmwMPsuAaJeF2icVEClf9mAVOCoTJ8PQ2PZaOg/300?wxtype=jpeg&amp;wxfrom=0"/><p>ECCV（European Conference on Computer Vision，欧洲计算机视觉会议）是全球计算机视觉领域的三大顶级会议之一。日前，ECCV 2024 在意大利米兰召开。自动化所</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659187&amp;idx=4&amp;sn=9546b0e70cea12ed3bfdb738f250bd69&amp;chksm=fdeace9c832360d73f0c569eaac51c62b0dd681c241d003c049c910d56cf2f6ceec85353d3d1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 13 Oct 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[军用无人机与人工智能：改变游戏规则的能力]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQCD6icJS2YV0qSVWIwAv2bBye9TM0T4azw1rhjQOYcouvpWFBiby3LicALibsr7niaSTMImC36FL9quYA/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能正在彻底改变军用无人机技术，开创了具有改变游戏规则能力的自主系统的新时代。将人工智能融入无人机，正在以前所未有的规模增强决策过程、态势感知和作战效率。随着世界各国军队对尖端人工智能技术的投资，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659187&amp;idx=5&amp;sn=71073c19e92e92b71973fa1bf942e1da&amp;chksm=fd13fd79e0e21c123e501a656b954b7178b673cccb8085a877f9440c5aed7316429e3fcbe7a3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 13 Oct 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【新书】使用 OpenAI API 构建 AI 应用：利用 ChatGPT等构建 10 个 AI 项目（第二版），404页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3aUr9jtQ4uM3ibFRDj8pdQPgaqWibP2GxVr3qdddSNM5menY2Ba9GZwv4alPhol18eKBXO6YlWBPjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>通过构建 ChatGPT 克隆、代码错误修复器、测验生成器、翻译应用、自动回复邮件生成器、PowerPoint 生成器等项目，提升您的应用开发技能。关键特性通过掌握 ChatGPT 概念（包括微调和集</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659187&amp;idx=6&amp;sn=3a1a7bcbed279dbca48373837b5993b8&amp;chksm=fd07fcc15b2a99820b2332751c6cbf9e96a3c1eab3fab044780791d89739b40e0c1acbf125a4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 13 Oct 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《美国防部数字化对工程、开发、采购和生命周期管理的影响评估》最新109页报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3aUr9jtQ4uM3ibFRDj8pdQPNiaSlKKNicdWEmsK8FKzk0pJia7uxHgwObIAXGNJDKhAE8NibXKVJtwvuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>《2022 年国防战略》（NDS）要求美国国防部（DoD 或 “国防部”）继续推进其对现代化和创新的承诺，并 “建立一个有弹性的联合部队和国防生态系统”。创建一个具有共同标准和要求的可互操作数字生态系</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659187&amp;idx=7&amp;sn=af24f49e346995701f4205571a8b7ada&amp;chksm=fd6b586a5862beae1efcb5ca781f8c54e59b322d674545e8913d748eed254508a16e26b4a521&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 13 Oct 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247659187&amp;idx=8&amp;sn=c66bcf07ab3e8982f76c0729daa98ef2&amp;chksm=fdc874948fdcc1f9dc50465b33928fd65add388cb7740c787d39ad1e7d5dfbebff0486df58c1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 13 Oct 2024 03:00:00 +0000</pubdate>
       
 
     </item>
