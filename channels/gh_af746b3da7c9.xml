@@ -32,29 +32,85 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[训练VLM(视觉语言模型)的经验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaJxicwG8EkXRY90uWS9TK4nBOGt87n6W6w81Nlia9noBxfB0EnpRib9JheKXeEOicWqKezEUgQZZYIGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：lym链接：https://zhuanlan.zhihu.com/p/890327005如果可以用prompt解决，尽量用prompt解决，因为训练（精调）的模型往往通用能力会下降，训练和长期部</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532929&amp;idx=1&amp;sn=87c65d444448db50484fcc074254b342&amp;chksm=ea6447ccf146ffe10bbd32a8adffba13092a2d2caa8ae868cadf1f8b24817675bb063199402f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 19 Oct 2024 15:16:54 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[MoE实验性工作Upcycling Large Language Models into Mixture of Experts]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaJxicwG8EkXRY90uWS9TK4nlSiaF9qqQHNjHtmr8hBTNLDJZgCnHXibS7UKkw7NHuldxx4pWDo2BnxA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：LLM迷思(已授权）链接：https://zhuanlan.zhihu.com/p/1431483173Zijie大佬的最新工作，拜读了一下，对于我之前一些工作很有启发。包括之前"介绍LLM迷思</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532929&amp;idx=2&amp;sn=5bab6bf564687845247841aff78476cd&amp;chksm=eae38280777f142a1a413f324befb53c18039f68e51372297bcb173a471f4893d1d84ebd30f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 19 Oct 2024 15:16:54 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[可怕！llm训练的bug，梯度累计设置过大，会导致最终loss过大。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTTVxWXOl5ZlKtyqBbfibZV33GlHqCSb1ibhrT7IhDEfNqYc2TQX0YaEMIyFfZeJxZ0jk5gHRJXzZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：车中草同学(已授权）链接：https://zhuanlan.zhihu.com/p/1485465898范围：该问题影响所有使用梯度累计的库，包括hf的等。（hf的人在修复中了）10.18日更新</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532873&amp;idx=1&amp;sn=79ba187b1f1d225cd17edfc189aa0e37&amp;chksm=ea8a1cc4cc97e2f3ffe691d79d2b1f9f77ec47f27cf8b673a3588bc5a1bd3ef8dd1d7a73c101&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 18 Oct 2024 15:58:49 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[EMNLP2024分享会要开始啦！6大主题、2多主题，快来预约不错过]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTTVxWXOl5ZlKtyqBbfibZVtWNFSJhtJfw0loI5fW8awIsMFQfGlicmkPibovkglFvibGxCBd7DKSecg/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末进群~大家好，欢迎来参加我们NICE-苏大AI Lab举办的EMNLP2024分享会，在接下来的两个周六(10.19和10.26)，我们邀请到多位EMNLP2024中稿的同学来分享交流他们的工作，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532873&amp;idx=2&amp;sn=2268ad826f9e5bf3f46370cf344e60e3&amp;chksm=eabf84658dd7b4574bdf2f16fa2c9915ff83fa29a670e751ec4d89e88ab956bc35c3ea64600f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 18 Oct 2024 15:58:49 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[关于LLM+RL(HF)的片面脉络梳理]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTTVxWXOl5ZlKtyqBbfibZVX5KR511EcibQWymGXMNia70EfzibqvNl6UaPu3a2pgdZSyMHPYdYZO5kA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：王小惟 Weixun链接：https://zhuanlan.zhihu.com/p/1686790674片面的脉络梳理，主要是希望能帮助大家建立一个更全局的视角，因为篇幅有限，仅包含了支撑脉络的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532873&amp;idx=3&amp;sn=a9d776dfe943fffefe40947b811fd670&amp;chksm=ea8cfdfe103665fcbfe1d926fc217dd19d7d3ebd1836cd1633eb5898bc59fdb1fbde1d6120fd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 18 Oct 2024 15:58:49 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[BWArea Model: 决策视角下的可控语言生成]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTTVxWXOl5ZlKtyqBbfibZVZeqgXOnrbzfxptZo626k19eewjAsicicXl2FCgVjHmsZQUIoKCZAFyDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：j0229链接：https://zhuanlan.zhihu.com/p/721464986前言在前段时间，在俞老师 @俞扬 的指导下，和鹏远师弟、子牛师兄 @李子牛 以及组内其他师弟一起做了可</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532873&amp;idx=4&amp;sn=0bdf2b782aa80066bc5bb65596de0160&amp;chksm=eaafde846d5bab9698f22dfe0a00b5b472c45561f2430bb4a6417cbf58a4f94d3be9fa0d2fa0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 18 Oct 2024 15:58:49 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -165,134 +221,6 @@
       
 
       <pubdate>Mon, 14 Oct 2024 14:40:23 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[决策智能与强化学习：重放比率（replay ratio）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajdC8WABSdnepk2A5cBM5BDkAkaYicSM9aaMgVKRgdXPKdmjWKBTdrXP4VpY4bsgXLxw99vImHaJvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：DILab决策实验室（已授权）链接：https://zhuanlan.zhihu.com/p/8986418630. 概览近年来，深度强化学习（Deep Reinforcement Learni</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532518&amp;idx=1&amp;sn=c5ea3b853c18174f1ea72fedec21e005&amp;chksm=ea6b45605029a01810fbe2c47297b6dd8bc54c06b05884636a7f268aec0a51b15aeb13be1f33&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 12 Oct 2024 13:51:43 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Journey Training：o1的一次复现尝试，极长思维链的合成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajdC8WABSdnepk2A5cBM5BDFPFhDnOO03co5D8RvBJzCiao6qorKYUH2bYE4EQiaK0dxeq1zZ9IHqJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：啦啦啦啦（已授权）链接：https://zhuanlan.zhihu.com/p/902522340论文：O1 Replication Journey: A Strategic Progress</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532518&amp;idx=2&amp;sn=0ae1912a36b86a8bdc3cb11195b13b1b&amp;chksm=ead0853d2930749f973ed30b492d4de75df26b07b5bd916b98b32d9b82da6469a9d762081916&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 12 Oct 2024 13:51:43 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[避开复数推导，我们还可以怎么理解RoPE（重制版）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajdC8WABSdnepk2A5cBM5BDatzRX1q282hocsWYNK0nYTH4Ind3Ry8Eia9vGfQn2s7icLVVQ7j6X4gA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记写在前面：前段日子公众号发过从圆盘旋转视角理解RoPE的文章，发出后反响比较好。有读者在后台问，是否可以延续圆盘旋转的视角，重新理解NTK-RoPE呢？因为直接从数学推导的角度看实在</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532518&amp;idx=3&amp;sn=11e208ad36a0cfb9bd41b7fe1214eff6&amp;chksm=ea3d144f39ecb5e226ecff530cca988228dace72822a1b7065229fe078df679f13f76bc0f601&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 12 Oct 2024 13:51:43 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[长序列（Long Context）大模型笔记]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajdC8WABSdnepk2A5cBM5BDdxXSq2f4dfzANvcjwBP0qaEJPj2qdg5KbdKcpY9nxsXHfztjDJibERg/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Rooters链接：https://zhuanlan.zhihu.com/p/926602895过去一年中，长序列大模型（LLM）的训练和推理方法在业界取得了显著进展，本文将从模型建模和机器学习</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532518&amp;idx=4&amp;sn=03cd61d265a30d9aef5857d6d702cf5b&amp;chksm=ea02e3fc8f9e8f568825f615f5b838fb3470be889502bc391e24851cd7db6bdc1b78597d54b5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 12 Oct 2024 13:51:43 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLAMA-BERRY：o1的一次复现尝试，对比奖励引导self-refine的飞越]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagG6REkJyXvp0JKxrpAmiczoRElzcl8b8jxV8oPjP2DialnLtrkDFv4OG0BnX6TARhwiahaIG8zfiarZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：啦啦啦啦链接：https://zhuanlan.zhihu.com/p/872969444LLaMA-Berry: Pairwise Optimization for O1-like Olymp</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532432&amp;idx=1&amp;sn=4c735e222c11aa20f8552117e28d6dd2&amp;chksm=ea653c496b2d89f7e7c1583972f19f17378d36fa71f4bc7b0b61592698737cd1a412e7df6496&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 11 Oct 2024 10:44:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[在上下文学习中，语言模型究竟学到了什么? - NICE30期]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagG6REkJyXvp0JKxrpAmiczoTBASjvKibE72brncnXOcKAGj6WV6trYYX9jfgp9w3RynZcmTT9nLQfQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题在上下文学习中，语言模型究竟学到了什么? 探索结构化任务假说时间2024.10.13 15:00-16:00 周日入群论文：What Do Language Models Learn in Con</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532432&amp;idx=2&amp;sn=499f335de5166df34c70453dfd1e4473&amp;chksm=ea62697e1b9d0cf4d2d2f6e9c3805079c15113e587fd72ec6275b1793b718f6f7b610d440462&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 11 Oct 2024 10:44:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[招聘 | 智谱大模型评测优化团队]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagG6REkJyXvp0JKxrpAmiczo5n2Dd26ttibaBxe67EMwAnNibGZ3Peib8LxcLNGuvy1ZhTd4FcH1qH5bw/300?wxtype=jpeg&amp;wxfrom=0"/><p>公司介绍以“让机器像人一样思考”为愿景，智谱AI致力于打造新一代认知智能大模型，专注于大模型的中国创新。公司于2020年底研发了GLM预训练架构，并于2023年推出千亿基座对话模型ChatGLM，经历</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532432&amp;idx=3&amp;sn=2e320c3786ad74ff520f06d81b363464&amp;chksm=eadd81526c92b95905407cfaa9ac9b09f86e4b46904469abc6b72330efa564a7ea03a53b7366&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 11 Oct 2024 10:44:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[招聘 | IT:U奥地利跨学科创新技术大学 Prof. Yufang Hou 招聘NLP方向岗位制博士生、博士后]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagG6REkJyXvp0JKxrpAmiczoibZn51WAW6x6JVZL4WnB0KPpyFkNAhpjf0ibRQcrVg6EzrUkGncniayzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>MunichNLP01导师简介Prof. Dr. Yufang Hou (侯玉芳教授) 是一位自然语言处理 (NLP) 和计算语言学领域的优秀学者。她在篇章理解 (discourse processi</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532432&amp;idx=4&amp;sn=b25f57f7f05c8a1f313b94d797aba87b&amp;chksm=ea8388789e0df37fc7ff070078e4ad39faca41a916523a3c1d17d2c386b20bc8f28f37dccf7a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 11 Oct 2024 10:44:36 +0000</pubdate>
       
 
     </item>
