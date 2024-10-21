@@ -30,23 +30,50 @@
 
 
 
-
-
-
-
-
-
     <item>
-      <title><![CDATA[训练VLM(视觉语言模型)的经验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaJxicwG8EkXRY90uWS9TK4nBOGt87n6W6w81Nlia9noBxfB0EnpRib9JheKXeEOicWqKezEUgQZZYIGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：lym链接：https://zhuanlan.zhihu.com/p/890327005如果可以用prompt解决，尽量用prompt解决，因为训练（精调）的模型往往通用能力会下降，训练和长期部</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532929&amp;idx=1&amp;sn=87c65d444448db50484fcc074254b342&amp;chksm=ea6447ccf146ffe10bbd32a8adffba13092a2d2caa8ae868cadf1f8b24817675bb063199402f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 19 Oct 2024 15:16:54 +0000</pubdate>
+      <title><![CDATA[哈工深、微信：“慢思考”超长文档翻译智能体]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiadVkMPXdicKibQ5NDyBxtnI4bBSwx75crwUpoAMVDmufKvBXaibiaZnNYljHfWVqsCy2YHPJxBxBBsWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，大语言模型已经成为机器翻译任务（Machine Translation）上的新型强大工具。
+然而，多数在机器翻译大语言模型（MT-LLM）上开展的研究工作都是句子层面的，每一句话都被独立进行翻译</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532980&amp;idx=1&amp;sn=91a01462cfa1c6e2089fb562675dec5e&amp;chksm=ea309f0372c80f9eded1484c3f037d92985762db58423960dae12b67d684a7865abef603dc32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 15:59:28 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[MoE实验性工作Upcycling Large Language Models into Mixture of Experts]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaJxicwG8EkXRY90uWS9TK4nlSiaF9qqQHNjHtmr8hBTNLDJZgCnHXibS7UKkw7NHuldxx4pWDo2BnxA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：LLM迷思(已授权）链接：https://zhuanlan.zhihu.com/p/1431483173Zijie大佬的最新工作，拜读了一下，对于我之前一些工作很有启发。包括之前"介绍LLM迷思</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532929&amp;idx=2&amp;sn=5bab6bf564687845247841aff78476cd&amp;chksm=eae38280777f142a1a413f324befb53c18039f68e51372297bcb173a471f4893d1d84ebd30f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[解构DPO：从RLHF推导到多偏好对齐的简化之道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiadVkMPXdicKibQ5NDyBxtnI4raSeibXQZYFOUoyELWQdxaV0AnXIYX57dR0OQJLOicOkiaeWMQ43GaIog/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：克鲁斯卡OpenAI发布了 o1之后，LLM领域又掀起了Inference Scaling Law的热潮，此次推理能力的大幅提升其中就有强化学习的参与，其利用 RL 改进模型思维链的中间步骤，得</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532980&amp;idx=2&amp;sn=9a1620d0edfde345e79904997c3b6ae2&amp;chksm=eae6fb028b21872ec54b30517375297667945b7cba395d36069f0a2071dafc8c3ca145365fb1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 20 Oct 2024 15:59:28 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[训练VLM(视觉语言模型)的经验]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaJxicwG8EkXRY90uWS9TK4nBOGt87n6W6w81Nlia9noBxfB0EnpRib9JheKXeEOicWqKezEUgQZZYIGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：lym链接：https://zhuanlan.zhihu.com/p/890327005如果可以用prompt解决，尽量用prompt解决，因为训练（精调）的模型往往通用能力会下降，训练和长期部</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532929&amp;idx=1&amp;sn=87c65d444448db50484fcc074254b342&amp;chksm=ea6447ccf146ffe10bbd32a8adffba13092a2d2caa8ae868cadf1f8b24817675bb063199402f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 19 Oct 2024 15:16:54 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[MoE实验性工作Upcycling Large Language Models into Mixture of Experts]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaJxicwG8EkXRY90uWS9TK4nlSiaF9qqQHNjHtmr8hBTNLDJZgCnHXibS7UKkw7NHuldxx4pWDo2BnxA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：LLM迷思(已授权）链接：https://zhuanlan.zhihu.com/p/1431483173Zijie大佬的最新工作，拜读了一下，对于我之前一些工作很有启发。包括之前"介绍LLM迷思</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532929&amp;idx=2&amp;sn=5bab6bf564687845247841aff78476cd&amp;chksm=eae38280777f142a1a413f324befb53c18039f68e51372297bcb173a471f4893d1d84ebd30f5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 19 Oct 2024 15:16:54 +0000</pubdate>
+      
+
     </item>
     <item>
       
