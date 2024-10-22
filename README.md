@@ -1,5 +1,7 @@
 # Wechat-Scholar
 
+![](./doc/logo.png)
+
 提供稳定的**学术类**微信公众号转RSS服务.
 
 何为**学术类**？主打学术资讯、论文分享、高质量科普.
@@ -27,6 +29,8 @@
 - 在[channels.json](./channels.json)中寻找公众号名称，复制Links栏地址至RSS阅读器;
 
 - **或**通过`subscriptions.opml`直接导入所有频道;
+
+- **或**通过[Follow](https://app.follow.is/list/71378259800441856)订阅;
 
 - 如列表中找不到您需要的公众号，请移步[Issues](https://github.com/osnsyc/Wechat-Scholar/issues).
 
