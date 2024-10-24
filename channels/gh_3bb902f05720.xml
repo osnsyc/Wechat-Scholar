@@ -15,11 +15,18 @@
     
 
     <language>zh-cn</language>
-    <image>
-      <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_3bb902f05720.jpg</url>
-      <title>gh_3bb902f05720</title>
-    </image>
+    
 
+    <image>
+      
+
+      <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_3bb902f05720.jpg</url>
+      
+
+      <title>gh_3bb902f05720</title>
+      
+
+    </image>
     
 
 
@@ -51,28 +58,92 @@
 
 
     <item>
+      <title><![CDATA[谢赛宁新作：表征学习有多重要？一个操作刷新SOTA，DiT训练速度暴涨18倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoN5Hib0N56hRhdv82jJtcDFo50SCLr7OA2QOTreVFsnrQm1Xn3nVQI63cVP2pD3yL8z5m7dibU0uIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元编辑丨极市平台极市导读 在NLP领域，研究者们已经充分认识并认可了表征学习的重要性，那么视觉领域的生成模型呢？最近，谢赛宁团队发表的一篇研究就拿出了非</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697844&amp;idx=1&amp;sn=ce6d7bfdc94c642850d404efc5399b17&amp;chksm=ed097fe989d30c09b734a1dd2a3ebe8d77870b46e70f96e734aaaab1c88de666bc5d4c02155f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 23 Oct 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[PointGST：点云分析精度卷到99%了，还只用了2M训练参数]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoN5Hib0N56hRhdv82jJtcDFY0pNQiaN5EfMLpic2LjBcKOB04zWzR9GeVtrNVTWvichxNtdJ7cRSltng/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨极市粉丝编辑丨极市平台极市导读 本文提出了一种全新的点云参数高效微调算法—PointGST，在极大地降低微调训练开销的同时，还展现出了优异的性能。仅凭 2M 可训练参数</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697844&amp;idx=2&amp;sn=02ff9db1548b21e7de6e3e3d6400bad3&amp;chksm=ed9d53332126b110c582a755533b40992df489ee82dc748a79c2efb2a4e36c767293ca81881d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 23 Oct 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[一起理解下LLM的推理流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoN5Hib0N56hRhdv82jJtcDFVruuP92WPibqSITtKFKNHUW31B9wWCaSs0vbW5ibyHQy5c3fwaibuYsSA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨oldpan来源丨oldpan博客编辑丨极市平台极市导读 本文介绍了大型语言模型（LLM）的推理流程，包括推理的两个阶段（prefill和decode）、chunked</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697844&amp;idx=3&amp;sn=0331496c37f2ed4cbc73b7ac2baf2434&amp;chksm=ed49a8ac33a162363d66c0dd3394af4ec83339344b7d0e275ed1052bc4a0d38c9fa4682855ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 23 Oct 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[2¹³⁶²⁷⁹⁸⁴¹−1，GPU发现人类已知最大的素数，比第二大多1600万位数字]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoN5Hib0N56hRhdv82jJtcDFfVrYLGVjxAuMtSnXPQMvgicgJFjuuHEJ798nJvSnDJVOHwLFoGRcsibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨量子位极市导读 新的人类已知最大素数，被GPU发现！ >>加入极市CV技术交流群，走在计算机视觉的最前沿这个数就是2¹³⁶²⁷⁹⁸⁴¹ −1，如果展开会有4102432</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697844&amp;idx=4&amp;sn=7643e3253a510c82208b545f89fbf3e9&amp;chksm=edd79387660eb7b5decf1a1e483d6ad9df14929949529015f32eeff1131fdd9b6c6254f01689&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 23 Oct 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[课程升级、资源加码！万人共学的书生大模型实战营第4期正式起航！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoprfEwHpLiacic7lZXhwkTlTn4DJEmLf1op3eUIjSyY6EbIHDn94lUea8VD1fJ48wGRGuCTLfgW8FQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台不知不觉间，书生大模型实战营已迎来第四期！回顾前三期，累计超过 15W 人次踊跃参与，涌现出像「InternDog」和「销冠——卖货主播大模型」这样的明星项目，感谢社区小伙伴</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697759&amp;idx=1&amp;sn=6a36bdc63881ee3701c972675a3c0650&amp;chksm=edb53334c3a2e4b3bf07e18ac01e46d8d0b166f32a59e080cf7f015eb376e7203229c54742aa&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 22 Oct 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Janus: 解耦视觉编码，引领多模态理解与生成统一的新范式]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoprfEwHpLiacic7lZXhwkTlTdjwRWn5YWYIFkCKTRdSpoKOaJXFaicm937Bbs14icx7pQcp7sfw8h0ZA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨陈小康@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/2360185063编辑丨极市平台极市导读 Janus通过为多模态理解和生成任务解</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697759&amp;idx=2&amp;sn=ee81502a50a5512946286db1dbb80791&amp;chksm=ed4d0049b7e2105bbd7120080706ade6f42c4387b2c637bfcc65912389537662836d777d130e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 22 Oct 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[如何用一个统一的视角，分析RLHF下的各种算法？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoprfEwHpLiacic7lZXhwkTlTfmzicJ0oEr2W25jfES8IunTicT0NmUIcEwEn2rrcOrW74BxoLxaibK5icw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨猛猿来源丨大猿搬砖简记编辑丨极市平台极市导读 本文探讨了如何用一个统一的视角来分析强化学习从人类反馈（RLHF）中的不同算法，包括DPO和PPO，以及它们在实现RLHF</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697759&amp;idx=3&amp;sn=a7974134508ab22b9e28d4de11b7c30e&amp;chksm=ed4ba439a2d8d506d9000f24705acf8fb4999916047b961cc83e0a5f3945b14768c7e6701dc9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 22 Oct 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型是否有推理能力？DeepMind数月前的论文让AI社区吵起来了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoprfEwHpLiacic7lZXhwkTlTKrvm1Bvxss2hB1eJxk7KQrH1vH8fNNUIOAibtQXGwVwdoDzOe2j9Ywg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 最近一段时间，随着 OpenAI o1 模型的推出，关于大型语言模型是否拥有推理能力的讨论又多了起来。比如苹果在前段时间的一篇论文中指出，只要给模型一</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697759&amp;idx=4&amp;sn=a1b488d9326180d5f771bcfd3337bd17&amp;chksm=edd77474c82e15468c06549b55459fa363f7966cdd5f1855fc10b833ec40799daf29e24f3ddd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 22 Oct 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -391,70 +462,6 @@
       
 
       <pubdate>Thu, 17 Oct 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[视频深度估计大幅升级！Depth Any Video：开启视频深度估计新纪元]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqxdtGXiaP33lXO30SIzSmOW76ibJSs7BAn3kJwkJ1T9LCtTykueYhebrV6G6FmhDicGkXO0yBhrK3Bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 本篇分享论文Depth Any Video with Scalable Synthetic Data，基于多样的仿真数据集和强大的视频生成模型，Dep</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697293&amp;idx=1&amp;sn=37ab30a2fce42be756962406cb51744c&amp;chksm=ed7865dc36f2f49e0042073422b928ca06a9528cc9a396fc256f7c8fda8dd5fda652d2038f0d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 16 Oct 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[TPMAI'24｜即插即用的解决方案！无监督盲超分算法MLMC开源！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqxdtGXiaP33lXO30SIzSmOWQoNsnn7EsTOYqCX1EcnYW0y9PuTBY50jtAibCnP6rwBt7Zej50jnQiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨夏靖远编辑丨极市平台极市导读 本文介绍了一种新的无监督盲超分辨率算法MLMC，该算法结合了元学习和马尔可夫链蒙特卡罗核估计，无需监督预训练或参数先验，即可实现卓越的核估</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697293&amp;idx=2&amp;sn=e1c13f8d8ae7cb0ff62f29427b8c80e6&amp;chksm=ed3873ecbc59579e025ad11441a5f68f600463c161d6f1a1b3dfbad26c88b924b7ce03b62f25&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 16 Oct 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[vLLM vs TensorRT-LLM 性能对比测试二（Towards Optimal Batching），基于最新版本]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqxdtGXiaP33lXO30SIzSmOW1yWZ4BKzwoYP8sZ1JDXouCliaa2IRkHWV8IE16XPVgAyt4riaAVlp92w/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨oldpan来源丨oldpan博客编辑丨极市平台极市导读 本文比较了vLLM和TensorRT-LLM在最新版本下的性能，通过调整关键参数如最大批量大小和最大token</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697293&amp;idx=3&amp;sn=cc1d7c9d131ed584e890b6bb69014595&amp;chksm=edd6a1a71a8517c35a9052245654defb9aa114dcce043daeb120dc599e04f62b870ef208dc42&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 16 Oct 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ChatGPT竟会「看人下菜」！ OpenAI 53页研究曝惊人结果：「你的名字」能操控AI回答]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqxdtGXiaP33lXO30SIzSmOWibmPw8EKNaxjIbXC4T6XjDZ2ZIOvL3EmfribdkOHibjkKqgf01yzr5wPA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 就在刚刚，OpenAI 53页报告发现，你的名字会决定ChatGPT的回答。在少数情况下，不同性别、种族、民族背景的用户，会得到「量身定制」的回答，充满</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247697293&amp;idx=4&amp;sn=8df7db4bbbe753021bd5cf9031f22f49&amp;chksm=ed4d1d81af01be76b012ce6a99bf711e7f61526fe5816cbba50dc48dc41ac74823866107ba6e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 16 Oct 2024 14:00:00 +0000</pubdate>
       
 
     </item>
