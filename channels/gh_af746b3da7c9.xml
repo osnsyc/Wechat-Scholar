@@ -15,11 +15,18 @@
     
 
     <language>zh-cn</language>
-    <image>
-      <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_af746b3da7c9.jpg</url>
-      <title>gh_af746b3da7c9</title>
-    </image>
+    
 
+    <image>
+      
+
+      <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_af746b3da7c9.jpg</url>
+      
+
+      <title>gh_af746b3da7c9</title>
+      
+
+    </image>
     
 
 
@@ -37,23 +44,74 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[数据或许比算法更重要？不要轻视大模型剪枝中的校准数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiajOibadC0GdTKdFtrTwHcLqFkaeueoUst86zY1ow526GEHMHpk1sicdnQoB9l4pBM4wWiaZmQub8gQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（Large Language Model, LLM）日益强大的性能吸引了各行各业的关注，并逐步在各种领域得到了广泛应用。为了节省大模型部署的成本，降低大模型服务延迟，越来越多的研究</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533278&amp;idx=1&amp;sn=e73f70ad998d04f0c8d082dbd2b38f52&amp;chksm=eab66395d2d3943b2fb07f830f3db40c5a66de80d05fb52505e02487791166f86491e002ffb7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 24 Oct 2024 12:33:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[（徒手搓LLM）逐行代码从0构造一个LLM——LlaMa篇]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiajOibadC0GdTKdFtrTwHcLqxkUyrRohEVUSM002bl6Kp9IdcTwicib3HezakOcMuHU8cCDzzJYJibQ0g/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：mc112611（已授权）链接：https://zhuanlan.zhihu.com/p/1674261485本篇为：面向人群：觉得LLM很多复杂的结构和层级，懂很多原理，但是不知道怎么结合到一</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533278&amp;idx=2&amp;sn=5f4d450ae4359fa69a8dfd07fc9f3c1c&amp;chksm=ea33fa90be40dba1820c225476c56ea1b59dbe9027113465d13c0661077b5b6b0826ee7d4172&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 24 Oct 2024 12:33:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP2024分享会下半场！有Agent、模型/推理加速等主题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiajOibadC0GdTKdFtrTwHcLqw64lsFWauIiaHPfXMdZn77jxic1jwfWsDq2VMFrHeQvoBsrEYUNY8wMA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，欢迎来参加我们NICE-苏大AI Lab举办的EMNLP2024分享会，在本周六(10.26)，我们邀请到多位EMNLP2024中稿的同学来分享交流他们的工作，每篇分享都有5mins问答环节，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533278&amp;idx=3&amp;sn=223f602a33b808f5ddb70253c92ad171&amp;chksm=ea5c9370c1aad1eb51b8b1a03dae9cef09302ca50b4130ac88ce639681ae428f9ded5de0813d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 24 Oct 2024 12:33:19 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[大模型评测的真正难点：内在精细决策逻辑与人认知的对齐]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baguSjMTwLCUXQOqxqfNicfyFyEQ0YVHQ1k4eajYwHHY6ibPtxx5YVnFmxaHsCic7J8cxrzUxiaibn5F6og/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Qs.Zhang张拳石链接：https://zhuanlan.zhihu.com/p/2092355900陈鹭，张拳石Lu Chen, Yuxuan Huang, Yixing Li, Yaoh</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533042&amp;idx=1&amp;sn=b65b41a1fa5931eac86ea247f3100104&amp;chksm=eadf3d362c60b1bbde78b9334673f96f985776cf590a752f5fb05993b582d0d6bfa656281b53&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 21 Oct 2024 15:44:43 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM在Reranker任务上的最佳实践？A simple experiment report（with code）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baguSjMTwLCUXQOqxqfNicfyFzS4tl5jONszDQMILVsowCO48kEYIiadhtkcsx3X8P9OcIws004LzjCA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：车中草同学(已授权)链接：https://zhuanlan.zhihu.com/p/987727357引言在BERT时代，对于Reranker任务，我们使用encoder-only的BERT为基</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533042&amp;idx=2&amp;sn=d640662c4dda381b41dbc63047480dbc&amp;chksm=ea09ed6b1ab74fc2e21cbe8c3a65dffcda8f46a3aa5843e3f95d5ca05bc8b875641eb5b50fec&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 21 Oct 2024 15:44:43 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[RMB: 这是一个Reward Model Benchmark]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baguSjMTwLCUXQOqxqfNicfyFmJ7gwUX55YuMNLmacIVfgl4WIUtTtQRUOJkj5SS4V5HQkMT4rrO0Ig/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：FudanNLP 我们提出了一个全面、细粒度的奖励模型评估基准，涵盖了超过 49 个现实世界场景，包含了超过三千条现实世界的用户问题。在pairwise 比较之外，我们还提出了 Best-of-</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533042&amp;idx=3&amp;sn=ac55f8aaeb192fe9e4d221215c139270&amp;chksm=eaf8717db5dc2c32d4150105518c6c6700d32e9e925d2c90ccdbe3b9ef0ac2e4d35b736da6ca&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 21 Oct 2024 15:44:43 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -213,86 +271,6 @@
       
 
       <pubdate>Thu, 17 Oct 2024 15:55:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[可视化剖析与代码实践，带你一文掌握Mamba和SSM]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzwgAAhbzeGTJY6xrY8FL5mMXbsuYOeib31kYvlsW2AlRjHHZGSqJRLpe7wmcTdQdF1qa512D4WBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理：参天地化育EMNLP2024分享会要开始啦！6大主题、2多主题，快来预约不错过和其他具有长文本处理能力的组件一样，Mamba作为一种有可能超越Transformer的深度学习组件，最近一段时间以</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532659&amp;idx=1&amp;sn=be3441d65f65c9ee0ec33db2cbc37b75&amp;chksm=ea30fb8c868869947c518c6bc7e587af09c085c220ff89e2176c363f3c2c5bd72e4fd998dafa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 16 Oct 2024 12:27:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[双工大模型—真正的对话大模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzwgAAhbzeGTJY6xrY8FL5MJfK8ib3ia0ibxic1hnE4VIt5Tq7OIqicob7hcSlaRSMUljWYOCw0icU664w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：bhn（已授权）论文:Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models链接：http</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532659&amp;idx=2&amp;sn=ddbb071691372b4ba03578e91a51e76f&amp;chksm=ea41e0d66f9c23907b1f1c1a8ce6b1cea079d6880526b2e6e47ec3bf79dd385dab6b26909a60&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 16 Oct 2024 12:27:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何从头训练大语言模型: A simple technical report]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaibZBUyAJxCfkyJRdHllZSmdMcGG6MN2EOxaOy0QFsptAypF12wa3GWypdmiaT7zGs3icqBj8jz3U7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：涮月亮的谪仙人（已授权）链接：https://zhuanlan.zhihu.com/p/906819356写在前面自8月底训好自己的1.5B的LLM后，一直都没有发布一个完整的技术报告，不少小伙</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532612&amp;idx=1&amp;sn=00df14ef541bef54cbe7553945d4961a&amp;chksm=ea9e3a7d44e464de6f3f1c4f5bfe94b3fbb3638b4e57816e87016b75b7867bb60c9912527313&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 15 Oct 2024 14:11:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[EMNLP2024分享会要开始啦！6大主题、2多主题，快来预约不错过]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaibZBUyAJxCfkyJRdHllZSmPib7H5Xia8Ak2OJO6jYuZd2qniaP2dKy2qWiaE5Aq4PicIPicTIYJcicnGSCA/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末进群~大家好，欢迎来参加我们NICE-苏大AI Lab举办的EMNLP2024分享会，在接下来的两个周六(10.19和10.26)，我们邀请到多位EMNLP2024中稿的同学来分享交流他们的工作，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532612&amp;idx=2&amp;sn=1d0b249c099ad0bb1c833b4157e089d1&amp;chksm=ea05e8a75f80f2c95368934e1e1d7fdfc178a5c794f7d0ea0b135ffbf8c6b626faf773a0d696&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 15 Oct 2024 14:11:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[写在Ph.D第0年：AI/CV科研菜鸟的持续进阶之路]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahkibguGicJa4Z3svWJhcsGRHeiblrruaCxHicZ9kvOAe5hUUqJicUhkbhiaDJ4MJsx7PrNLavf4O6NCUQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：Yujin Tang链接：https://zhuanlan.zhihu.com/p/960781637在申请25fall US CS Ph.D的间隙，来分享自己这一年半在科研路上的心得体会和成长</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247532602&amp;idx=1&amp;sn=611afab8faa8cedaccf2600112370192&amp;chksm=ea551efa632ab08305be806de2d75966ef50a05336d7c7d5da3854fb668b8521428a8fee3ae0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 14 Oct 2024 14:40:23 +0000</pubdate>
       
 
     </item>
