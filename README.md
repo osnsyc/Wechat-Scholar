@@ -1,7 +1,7 @@
 # Wechat-Scholar
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/doc/logo.png" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/doc/logo.png" width="20%" height="20%">
 </div>
 
 提供稳定的**学术类**微信公众号转RSS服务.
