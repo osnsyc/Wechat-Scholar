@@ -60,34 +60,114 @@
 
 
     <item>
+      <title><![CDATA[o1 实现方法碎碎念]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJgRxJLLIDeNX2NRzpI4uOND6ibaLHlTp2SzHiceYLnlaQoWp76icUohOJpibuRMf5vNw2DdnvyVhibnDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：朱小霖 原文地址：https://zhuanlan.zhihu.com/p/839732117最近几周都在开心地猜 o1 可能是怎么做的，目前思路上相对收敛了，所以来记录一下，一方面是可以等答案</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445593&amp;idx=1&amp;sn=21a752b402e9e1805ddd8647350e5aba&amp;chksm=bf795d4ff5f31be4a2431b79188c194e5d83b609dc42ba3b7163bee23cfd13c3806d040deb14&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 25 Oct 2024 09:38:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[数据或许比算法更重要？不要轻视大模型剪枝中的校准数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiajOibadC0GdTKdFtrTwHcLqFkaeueoUst86zY1ow526GEHMHpk1sicdnQoB9l4pBM4wWiaZmQub8gQA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（Large Language Model, LLM）日益强大的性能吸引了各行各业的关注，并逐步在各种领域得到了广泛应用。为了节省大模型部署的成本，降低大模型服务延迟，越来越多的研究</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445593&amp;idx=2&amp;sn=9de239db3a0926cedbcbe44d56d4aa89&amp;chksm=bf265cf5f09851296748aa41446d6d9ab3ecc397a345c86712ad81c77d6eaf9815e17791ff3b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 25 Oct 2024 09:38:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[[实习|蚂蚁技术研究院] 基础语言模型方向研究性实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJgRxJLLIDeNX2NRzpI4uONI4uxppM4SoPiaLyxBUcDYeZibovSSLFyPnX6PJJ8J922WSmMDROM7FJQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>[实习|蚂蚁技术研究院] 基础语言模型方向研究性实习生（上海）项目简介：如果你对高效语言模型架构、长文本建模、推理、对齐有独到见解，蚂蚁技术研究院期待与你携手，共同推动人工智能技术的发展。‍ 职位亮点</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445593&amp;idx=3&amp;sn=178bb805504afc004188db08d4821e03&amp;chksm=bf64a8b93008bff84012bab8e766e66215d33e2136e105f3a187490d3a30630f74cf0e000087&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 25 Oct 2024 09:38:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[CartesianMoE：通过笛卡尔积路由提升专家间的知识共享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5krbzZibp3kf0iccx5IWucbAGWY1aD2UEianyEtZ2SibCXl1RNzFCeuSOMFl5jk5hVrmkegehnicOySCog/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）因其在下游任务中的优异表现备受关注。尽管扩展LLM可以提高其能力，但计算复杂性也随之增加。专家混合（MoE）模型通过扩大规模而不显著增加成本来缓解这一问题，但MoE模型的专家之间</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445593&amp;idx=4&amp;sn=d9bd34da3d094cdf285c7bef55d4e481&amp;chksm=bf77473be0466fffe6f67fd3578f8f709d7497ddf05f3b561b3addee371a9dfd32018f3270a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 25 Oct 2024 09:38:43 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[500G！BAAI发布高质量预训练中文语料库CCI3.0-HQ]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UkaMPMaoibmiaJfnRCkic2iaXbaxaffWESVDC4X0d0zvUM9XoespI1iczNibPCibxEkoA3NbC3QsTensDqPnsyM3aaSMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM虽然有scaling law鼓吹大家不断要更多变更大，但行业内已经慢慢取得共识，量级小些但质量更高的数据，训出来的效果可能要好过 量级大但质量一般的数据。北京人工智能研究院（BAAI）发布了50</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445593&amp;idx=5&amp;sn=efb41138cd618967db202e8fe80c2eae&amp;chksm=bf0e553e425a54133fb7c6f224c9da85d274c482538d8af518bc3430af8901d6f5c486a09c49&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 25 Oct 2024 09:38:43 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[中国最“孤独”的985高校！校长曾正面回应人才流失严重等问题]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKQWkku2KzibJxIbPeNBwXWkBxh4dUPuuibGDMj2MqITEFw7TZ4YwbXpQzibzgEjONqXvrHgassPWP9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>兰州大学地处西北，自建校伊始就受人才缺乏、经费不足、生源质量等所困。百余年来，虽面临诸多困境，兰州大学却始终屹立于中国顶尖大学之列，成为投入产出比最高大学之一。在很多中西部高校发展举步维艰之际，取得非</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445563&amp;idx=1&amp;sn=aa00aea2c68f9f8260a3f53c4bf7bd56&amp;chksm=bf8eecd0b8926f68e262f8cbaf1d87c679ecbe3cfe7086ebfb253f90fd06420c03f22e25f47a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 24 Oct 2024 14:34:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[实验室一块GPU都没有怎么做深度学习？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKQWkku2KzibJxIbPeNBwXWkfCBHWJX7sPWbWH7nklxXwmBlMzkRRueteZ00osicvTSTVPpGp8RskRw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：知乎，编辑：Datawhale原帖地址：https://www.zhihu.com/question/299434830/answer/2141600017观点一：Brain Is All Yo</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445563&amp;idx=2&amp;sn=175fa5f6ee5f9f8c3b55c03242570587&amp;chksm=bf8ec52ba5d7468c86704726854cf956614d81367b5a4faa2ef472b72aef4929fd13166b6b85&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 24 Oct 2024 14:34:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[港科大广州2025年春季与秋季博士生/研究助理招聘-大模型、AI4SCI、几何机器学习等方向]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKQWkku2KzibJxIbPeNBwXWkGpM9FSFjAYA6ulDMBxsKyEeqtXp4VY8oibtmFCNZDqic3FJGMUudu8fQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>北卡罗来纳大学夏洛特分校 (UNCC) 成立于1946年，是一所位于美国北卡罗来纳州夏洛特的公立研究型大学，也是北卡罗来纳大学系统的16所分校中的第4大分校。其中计算与信息学院 (CCI) 是UNCC</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445563&amp;idx=3&amp;sn=5a2a892b93d404bdb05a56c5d08e3662&amp;chksm=bf4c52996af43e6d00658abeb1101ca1a80303a32f648249b7fa7fdf7507e041be02a1cb6215&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 24 Oct 2024 14:34:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[图解大模型RLHF系列之：人人都能看懂的PPO原理与源码解读]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMAFJTU4OcjZgBQI9a5Dkv1s5Dwr4OMibFIuMickmbuvUA6dPlHysEzvassgyHBOJkib736MTUPOZctg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，最近我又读了读RLHF的相关paper和一些开源实践，有了一些心得体会，整理成这篇文章。过去在RLHF的初学阶段，有一个问题最直接地困惑着我：如何在NLP语境下理解强化学习的框架？例如，我知道</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445563&amp;idx=4&amp;sn=97d2379a1784f10a9f0c211f8ef25329&amp;chksm=bf370f1db17838e3f043573810e443dc8ba802e1475720541dc491fec5311f0e6024c823e6d2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 24 Oct 2024 14:34:14 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型推理能力增强方法总结]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDAJT3tXhDicibNF9sI7lf7kXNJS1aY2CPQ6icRbyMAHVd8wPIxg7hImqRQzGAGXWLeLpkGbBufFFRQlg/300?wxtype=jpeg&amp;wxfrom=0"/><p>推理能力作为一种可能的“象征着真正的智慧”的能力，在过去的几年里兴许不是被探索和研究得最多的，但肯定是被讨论得最为热烈的。相关工作分成三个主要的类型，思维链提示 (CoT Prompt) ，一个生成器</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445563&amp;idx=5&amp;sn=ccd9e8312438cc836fc221ce033bee47&amp;chksm=bf1f5bd6496e70815e264e746797a96c5efc3b901f632935ac16e1003d9c66e783c19c13c05b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 24 Oct 2024 14:34:14 +0000</pubdate>
+      
+
     </item>
     <item>
       
