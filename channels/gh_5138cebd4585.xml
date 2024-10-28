@@ -53,33 +53,93 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[NUS、NTU等提出通用像素级视觉大语言模型，实现理解、生成、分割、编辑大统一]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglvJs2zKC7bWEyLicf7rEpOKcdahYxa9mZWj3RTia3wCXrVE7VeQXuknNyMTmomqUib6oC0LwE4FcPhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 费豪单位 | Skywork AI、NUS近年来，视觉大型语言模型（MLLM）的发展取得了显著进展，但在迈向多模态通用性时仍面临一些挑战，例如粗粒度的实例</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247690176&amp;idx=1&amp;sn=7e9dee4ca3df56f1bc5426a31ded9121&amp;chksm=97e3053e18125fa1c58104c7ad81a2123108194f2be5fc421ff8824744c76fb7afe72918d915&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 27 Oct 2024 10:06:48 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[告别内存与训练表现的取舍！Fira首次实现低秩约束下的大模型全秩训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglvJs2zKC7bWEyLicf7rEpOK6Oq10VkPBudMVj9fJEw8kJ7WY4OoOffoFR9Ok2vDX9VetJRTrX44DQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>内存占用与训练表现的取舍，一直是大模型高效训练的难题。为了突破内存瓶颈，许多低秩训练方法应运而生，如 LoRA（分解参数矩阵）和 GaLore（分解梯度矩阵）。▲ 图1：从宏观层面分析三种内存高效低秩</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247690176&amp;idx=2&amp;sn=517e420b19101c6aa624650fc69c2fa2&amp;chksm=97db52603acc36aec110b5ea2ceebbf3a01523d8248710e7c1f98fe3e50998c2521500d7ee94&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 27 Oct 2024 10:06:48 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2024 | 涨点神器树形SSM！清华、腾讯提出多功能多模态框架GrootVL]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglvJs2zKC7bWEyLicf7rEpOKcFNWOX4rPvvIHJiaMJEOBqUdYvlfsfEACf5bz4xAO4KT3Rve560X7bw/300?wxtype=jpeg&amp;wxfrom=0"/><p>使用递归范式传播特征的状态空间模型展示了与 Transformer 模型相当的强大表征能力和卓越的推理效率。然而，受序列固有几何约束的限制，它在建模远程依赖方面稍显不足。为了解决这个问题，我们提出了 </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247690176&amp;idx=3&amp;sn=f9c8da2f85c4a6eb978100f2adc6395b&amp;chksm=9752e3cc1b1e0224cda4a9e58fa08b3b8779a5c93711a435a8a2e554d3057f38ee2237dde110&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 27 Oct 2024 10:06:48 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[北京内推 | 北京智源人工智能研究院招聘具身智能大模型算法实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglvJs2zKC7bWEyLicf7rEpOKqcEPw6N4a8EWho4Dy3MQeMibjZaiafJYsE5mR50u53aLCYgmV2XTSk2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！智源研究院北京智源人工智能研究院（简称“智源研究院”）是人工智能领域的新型研发</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247690176&amp;idx=4&amp;sn=d3f9ef87be215373a2fbf03065843d90&amp;chksm=97f3598297e6d58f02ea4e18b021c646949cfd9412bc1c6a6176e8e0629d3f2ab3aacb656f09&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 27 Oct 2024 10:06:48 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[一个Agent拿下15款Atari游戏，RL也能实现Pretraining、Scaling和Few-shots微调]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmggKYJyDelpbC4YGod2Bu0ycaodHlaASsDzgUcaWCqdicxQtJ5suibQv0ibicPkXjEpTcgTaAqNVRMGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 程杰单位 | 中科院自动化所、阿里通义实验室研究方向 | 强化学习论文标题：Scaling Offline Model-Based RL via Join</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247689996&amp;idx=1&amp;sn=9d0f67ab7bf8a8630ebfd13ba2eb38d3&amp;chksm=97a0435a43f7f4dc89612d66aeb124308000396ac2f59fe5b7ab4328f4930414a8de81112253&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 25 Oct 2024 14:21:40 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NeurIPS 2024 | 字节联合华师提出统一的多模态文字理解与生成大模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmggKYJyDelpbC4YGod2Bu0picSCmiawx0u8lFsju4S910xD7JnaoogwvhohdbIhG2icIVJdQBZYbAMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>研究背景与挑战在人工智能领域，赋予机器类人的图像文字感知、理解、编辑和生成能力一直是研究热点。目前，视觉文字领域的大模型研究主要聚焦于单模态生成任务。尽管这些模型在某些任务上实现了统一，但在 OCR </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247689996&amp;idx=2&amp;sn=3a979de46f813592388bf18351518451&amp;chksm=975f82657d0cba44e639eb032374de09499bcd305a9702b8810121ea0e80e42e4b979d2eaec3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 25 Oct 2024 14:21:40 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[MIT韩松团队提出DuoAttention框架：单GPU实现330万Token上下文推理]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmggKYJyDelpbC4YGod2Bu0VDGsf4B8vAGOZTGPRREzfgSCZf0pjibBg3oaA4jtaw9l3wiastXpHLKg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 肖光烜单位 | 麻省理工学院博士生研究方向 | 深度学习加速TL;DR：DuoAttention 通过将大语言模型的注意力头分为检索头（Retrieval Heads，需要完整 KV 缓存</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247689996&amp;idx=3&amp;sn=55f48e438c4076987fe2ebec97837efc&amp;chksm=977b22f240dc7caf9d8143b3a01e76d54519fd6ad0c7fd9ef84ab6ceea28d830e6e20eb13384&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 25 Oct 2024 14:21:40 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[北京内推 | 微软亚洲研究院通用人工智能组招聘多模态方向实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmggKYJyDelpbC4YGod2Bu04ETFtIQqc4dQJq6DccrmQVzpu0OrGib02Kq7zuYIAK2DvatfUYWRuIA/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！微软亚洲研究院微软亚洲研究院通用人工智能组（General Artificia</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247689996&amp;idx=4&amp;sn=701a28dc2c0f31ab6f2e087564ff7911&amp;chksm=97a56d7ece02ebd1f3b68eba8e6372e83ebeb054d4bab7c5d571fe9e51d28b2f10e2859abf7d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 25 Oct 2024 14:21:40 +0000</pubdate>
+      
+
     </item>
     <item>
       
