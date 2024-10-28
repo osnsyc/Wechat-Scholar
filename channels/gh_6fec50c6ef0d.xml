@@ -1,19 +1,58 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  
+
   <channel>
+    
+
     <title><![CDATA[AI公园]]></title>
+    
+
     <link>https://mp.weixin.qq.com/</link>
+    
+
     <description><![CDATA[AI公园公众号]]></description>
+    
+
     <language>zh-cn</language>
+    
+
     <image>
+      
+
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_6fec50c6ef0d.jpg</url>
+      
+
       <title>gh_6fec50c6ef0d</title>
+      
+
     </image>
+    
+
+
     <item>
+      <title><![CDATA[理解DETR应用到自然图像和医疗图像之间的差异]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvoFd2CoAibMyBAOpDFcLm22gCAa6aCibyXa5Pc01XmElplmhPAw37cia7IribibHTfz0rvNrj1ficfJIazQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读我们的分析表明，来自自然图像领域的常用设计选择，如复杂的编码器架构、多尺度特征融合、查询初始化和迭代边界框精炼，并未改善，有时甚至削弱了医学影像中的目标检测性能。相反，更简单和更浅层的架构通常能达</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498162&amp;idx=1&amp;sn=fbd626583525a7d23841bc1561ba315e&amp;chksm=c1e3b21fdc51339e3be1d84f6ec8a1057b0a216e4928b3ca78dcb8142747edcb3cef81266e5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 28 Oct 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Grounding DINO：将DINO与有基础的预训练相结合以实现开放集目标检测]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvqV5icicerhjHKthgywuuvQHd5Ia3mImZ9yFcyW3WPcEPwl0NtWXxBRG6S8icJLZPXW4qm1EyNkJJP9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读Grounding DINO在COCO零样本检测基准上达到了52.5的平均精度（AP）。它在ODinW零样本基准上创下了平均26.1 AP的新纪录。摘要在本文中，我们开发了一种开集目标检测器，称为</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498139&amp;idx=1&amp;sn=c03923c5a4c227682a551e756144593f&amp;chksm=c16ea61769bce3d9515365667622ed3ab8ab664c55edf91f3ca122c9721673b5de39a7e6eac7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 25 Oct 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
   </channel>
+  
+
 </rss>
