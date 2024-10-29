@@ -1,23 +1,58 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  
+
   <channel>
+    
+
     <title><![CDATA[机器之心SOTA模型]]></title>
+    
+
     <link>https://mp.weixin.qq.com/</link>
+    
+
     <description><![CDATA[机器之心SOTA模型公众号]]></description>
+    
+
     <language>zh-cn</language>
-    <follow_challenge>
-      <feedId>73701288146282496</feedId>
-      <userId>69694715808772096</userId>
-    </follow_challenge>
+    
+
     <image>
+      
+
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_b81ad58dc224.jpg</url>
+      
+
       <title>gh_b81ad58dc224</title>
+      
+
     </image>
+    
+
+
     <item>
+      <title><![CDATA[今日开源（2024-10-28）：蚂蚁开源知识增强大模型服务框架KAG，知识图谱结合向量检索，专业知识问答表现优异]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxEmibJNKWqQkXZKLXf38ia05NXWIS35XEaVCial2DZBj8tx95h2QFUWIAGdUmHuq2DIqPIwCozTibZow/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：KAG★KAG是一个基于OpenSPG引擎的知识增强生成框架，旨在构建知识增强的严谨决策和信息检索服务。通过知识图谱和向量检索的双向增强，KAG解决了RAG技术在知识推理</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496741&amp;idx=1&amp;sn=8c11a8706f7da67cca2235c7d9257f67&amp;chksm=c0b1f70b3432c101036b0a21d9a1673c0f0a622a00ddd7eaee9dda7ebe72e0f3224e70b3d56d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 28 Oct 2024 10:15:51 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[今日开源（2024-10-25）：智谱开源GLM-4-Voice，支持中英文以及中国方言语音，模拟有情感语调的实时语音对话]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwPOkyzibnYs7yGbViatVCalbLvQgzhk0Gz1ajZy5vdAhAZXYfHxZrKJRnu0jOqXgmykdvc8BGNjY9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：GLM-4-Voice★GLM-4-Voice 是智谱 AI 推出的端到端语音模型，能够直接理解和生成中英文语音，实现实时语音对话。该模型支持根据用户指令改变语音的情感、语调、语速和</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496730&amp;idx=1&amp;sn=b208c6534a0a1990d1e570d1b1ce0fdd&amp;chksm=c00fb3627fb92fecf10fa93f3bbfd1bf068ec3c307c36e06aa7ddce1f91a8e39120e0cc15414&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 25 Oct 2024 10:23:22 +0000</pubdate>
+      
+
     </item>
   </channel>
+  
+
 </rss>
