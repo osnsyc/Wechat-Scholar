@@ -1,37 +1,127 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  
+
   <channel>
+    
+
     <title><![CDATA[AIGC Studio]]></title>
+    
+
     <link>https://mp.weixin.qq.com/</link>
+    
+
     <description><![CDATA[AIGC Studio公众号]]></description>
+    
+
     <language>zh-cn</language>
+    
+
     <image>
+      
+
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_5ba19d995457.jpg</url>
+      
+
       <title>gh_5ba19d995457</title>
+      
+
     </image>
+    
+
+
+
+
+
     <item>
+      <title><![CDATA[做游戏不用建模了？微软提出DIAMOND：AI可根据玩家行为自动实时合成下一帧画面！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUwt2qWt9shOGw9sxyFMLh9xibEGauevCtfMZJhxjvescfqkeFTwyalPicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>DIAMOND是一个完全在扩散世界模型中训练的强化学习代理。上图显示了在扩散模型中玩耍的代理。DIAMOND的扩散世界模型还可以训练来模拟 3D环境，例如下图中的《反恐精英：全球攻势》（CSGO）。并</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488662&amp;idx=1&amp;sn=1f3848988c69dce00e3efc62b81e7532&amp;chksm=fdb6fe7c81a1e307327b72b448ed469cda9ae1f0707542239d817006a424e31b94239792bb6e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 29 Oct 2024 16:03:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Story-Adapter：能够生成更高质量、更具细腻交互的故事图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZSKKULxCTzezvw8wSOvf1jqib40MePuLWQamEVrmH3RC3HsKvOkJ9S3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍过关于故事文本生成图像的相关内容，感兴趣的小伙伴可以点击以下链接阅读~字节&amp;南开提出StoryDiffusion：生成一致的图像和视频来讲述复杂故事，图灵奖得主Yann LeCun亲</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488662&amp;idx=2&amp;sn=0df72236d6c2585906d3f72fdf044b94&amp;chksm=fde488b0194cf63b1f4d80b842b71a38fa5209c06a7e508eadc396308db58291cc523170124e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 29 Oct 2024 16:03:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ComfyUI 轻松实现二次元线稿上色，快速生成精美动漫图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ACyQFjNqyE43ZhibNumWwPfbNYseGEicjXGtYQia6kicWCRv6eS0GlIiaZkGh8JUPFH5UibjRzVKH3qNK6YYfu8LiadVw/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击蓝字关注我吧！ComfyUI轻松实现二次元线稿上色，快速生成精美动漫图像在数字艺术创作领域，效率和品质一直是创作者们关注的焦点。ComfyUI为创作者们提供了一个灵活且强大的图像生成工具，它不仅可</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488662&amp;idx=3&amp;sn=270381deb42690e929612e2d78210137&amp;chksm=fd499474c27c5870fdd9939af10322a480a2a701a7788ee45afecb1f125e44ad4a1a262ee39d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 29 Oct 2024 16:03:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[阿里开源MIP-Adapter，可将IP-Adapter推广到多个参考图像！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en553ETYWe4BYUv7R7Iibote1AADVDfRBnkq3JPLgRiclNJjwcPXztGYwW8ChWH8NjEcr9ibKS4asmjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍阿里最近开源的个性化图像生成的新方法MIP-Adapter，将无需微调的预训练模型（IP-Adapter）推广到同时合并多个参考图像。MIP-Adapter会根据每个参考图像与目标对象的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488662&amp;idx=4&amp;sn=6812c45302cf97385439dc7ce9cffe05&amp;chksm=fd286dff4458c9135c00972bc8823805aa112bb2192ca8952234e45e411e7afece2f9d7fe163&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 29 Oct 2024 16:03:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[统一的图像生成模型OmniGen：可以根据多模态提示直接生成各种图像，无需额外插件。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enjwj4Ry2OH6auaAn9DU954RGLVLiaJQhnSsUOPiaYkiaE5VPAB4AUAtmLI24PhQm9bK4JduBhT9ZjTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个北京市人工智能研究院 提出的统一的图像生成模型OmniGen，可以使用它来执行各种任务，包括但不限于文本到图像生成、主题驱动生成、身份保留生成、图像编辑和图像条件生成。OmniGen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488661&amp;idx=1&amp;sn=03c0bea287c9a21b54aea5905084fea4&amp;chksm=fdc29a2d1f521af3390daf4e0ab4e8b1ac3c50c1b17dc07cad0e8f771dd89e57c5ef6d28fc64&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 28 Oct 2024 23:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[GroundingBooth：一个用于文本到图像的定制框架，支持多主题和文本联合接地定制！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUN5oqyRgSButjKACUwRIxoR4VWqymzeNXHxsW4rxM6qoeicJM6XkODXXx3zP4H0duuNP0vk91Sg/300?wxtype=jpeg&amp;wxfrom=0"/><p>GroundingBooth是一个用于文本到图像的接地定制框架。首先提取文本描述和图像的特征，然后通过一种特殊的注意力机制来控制这些特征的结合。这个机制就像是一个精密的筛子，确保每个对象和背景之间的信</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488661&amp;idx=2&amp;sn=e73709276ae072cde9c53c3509201af0&amp;chksm=fd3df8b30249ae945e91aff907dfe6efa0d403de5b7e6c30a0fba6b0fe4ca8eeeb82537e224e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 28 Oct 2024 23:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NeurIPS2024 | OCR-Omni来了！字节&amp;华师提出统一的多模态生成模型TextHarmony。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUw9icM2HlibUyI4RtyIsiaB9FOY9taoKCFlibTeImBZT585GC3ias7FialR6UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，赋予机器类人的图像文字感知、理解、编辑和生成能力一直是研究热点。目前，视觉文字领域的大模型研究主要聚焦于单模态生成任务。尽管这些模型在某些任务上实现了统一，但在 OCR 领域的多数任务</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488661&amp;idx=3&amp;sn=248eb2405292d3b0b6a5d2abeba6643a&amp;chksm=fd669af48b120c7e4745b8902f382a16593adbb333dc6eafe501d5ac27cecc1335acec3615ed&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 28 Oct 2024 23:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[零样本主题驱动图像生成新方法！EZIGen：在保持灵活性的同时保留主题身份！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en4dVnOT75Vve5gBZeAMAcqamPTNAwic2GwjgfabapQsxHL8u80ejLQBuGvbmR6PKA9PETicI3UQ5UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个零样本主题驱动图像生成方法EZIGen，它可以从提供的主体图像中提取出重要特征，就像是给图像做一个“身份识别”，确保生成的新图像能够保留主体的独特特征。接下来，EZIGen会根据你输</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488661&amp;idx=4&amp;sn=58a12e99c2ebc6c29616442707e7162b&amp;chksm=fdb1ab17c440527f88fa952f9d496ae33bd1bdd7dceee825c218fbe6e025d69416d39758868d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 28 Oct 2024 23:00:00 +0000</pubdate>
+      
+
     </item>
   </channel>
+  
+
 </rss>
