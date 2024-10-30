@@ -31,11 +31,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[超越scaling laws：通过数据裁剪来降低资源消耗，同时不影响甚至提升模型效果]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvofz1sM9QicyCsWBic3VuYHJa8ajgQgUFalhZ69YtDL8PdYH2Oo2ScoDvEHLEseOLZD0mQGqwd9prhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读本文关注的是错误率随数据集规模的变化，并展示理论上如果能够获得一个高质量的数据裁剪度量标准，该标准可以对应该丢弃哪些训练样本以达到任何裁剪后的数据集大小进行排序，我们就可以超越幂律缩放，甚至可能将</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498218&amp;idx=1&amp;sn=a5a4ba0141a9aa6f6f142dde145b2e85&amp;chksm=c18986cf1e145626f67a95815073e1dd4645a4950f3631fa0a7e82fbda8e6b3866f1ba2c3855&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 30 Oct 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[ESOD：在高分辨率图上进行小目标检测的高效方法]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvqmTUaU15N7wYJP9jBNdtgwqKKXGnzrUnXnrxIGvfWP2vibcrJhzcK3q7dMuthS15nyVeO3ejbzgKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读在本文中，我们提出了重用检测器主干网络来进行特征级别的目标搜索和区域切割的方法，这可以避免冗余的特征提取并降低计算成本。结合一个稀疏检测头，我们能够对高分辨率输入（例如1080P或更高）上的小物体</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498205&amp;idx=1&amp;sn=dfa85092f2c05f05b482d4a74191cf5b&amp;chksm=c11a66c15457a259b6384c2430b41adb2a72d14c2cb7d60b7866f9d3b6dd37816a2219e5e654&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 29 Oct 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
