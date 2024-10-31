@@ -32,11 +32,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[数据集裁剪：通过检查泛化能力的影响来裁剪数据集]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvp93SPXFNUm1HiaKicVCwtJ9mS4VSJd067UEqXLCMdCJ1pokAdPXbtAlzmoyXkicKl3UtfsgENJaE7pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读所提出的方法在CIFAR-10数据集上修剪了40%的训练样本，使收敛时间减半，同时测试准确率仅降低了1.3%，这一表现优于之前的基于评分的样本选择方法。摘要深度学习的巨大成功在很大程度上依赖于日益</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498252&amp;idx=1&amp;sn=e3d0b3dc8cde0fabe65fd5207953814f&amp;chksm=c1c729023f86237d9931f12dd07c19cbadb7e205300dda1cedbe2d59c4bc109c957fd8895a68&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 31 Oct 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[超越scaling laws：通过数据裁剪来降低资源消耗，同时不影响甚至提升模型效果]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvofz1sM9QicyCsWBic3VuYHJa8ajgQgUFalhZ69YtDL8PdYH2Oo2ScoDvEHLEseOLZD0mQGqwd9prhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读本文关注的是错误率随数据集规模的变化，并展示理论上如果能够获得一个高质量的数据裁剪度量标准，该标准可以对应该丢弃哪些训练样本以达到任何裁剪后的数据集大小进行排序，我们就可以超越幂律缩放，甚至可能将</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498218&amp;idx=1&amp;sn=a5a4ba0141a9aa6f6f142dde145b2e85&amp;chksm=c18986cf1e145626f67a95815073e1dd4645a4950f3631fa0a7e82fbda8e6b3866f1ba2c3855&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 30 Oct 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
