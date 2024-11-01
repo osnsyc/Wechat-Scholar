@@ -33,11 +33,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[并不是所有数据都有用：一种端到端的自适应数据集裁剪框架，可以提升模型表现和效率]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvpahkeDuRekWN7Hzicricbb49WU2JlD6YZVF81rFKX8W0f8pwS7sdv486icYklQ3sps1vrBZ4zHfjpag/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读即使在裁剪高达10-30%的训练数据之后，AdaPruner仍能显著提高模型性能。值得注意的是，这些改进伴随着内存和计算成本的大幅节省。定性和定量实验表明，AdaPruner在很大程度上优于其他最</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498276&amp;idx=1&amp;sn=22b5ad8db4f9ef8cd9325bb7f72181b6&amp;chksm=c1bceed8a64e5cbf0ef26542102bb10b3858ada13ae1b002093d0f0a9965333bc7c9c9eb47ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 01 Nov 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[数据集裁剪：通过检查泛化能力的影响来裁剪数据集]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvp93SPXFNUm1HiaKicVCwtJ9mS4VSJd067UEqXLCMdCJ1pokAdPXbtAlzmoyXkicKl3UtfsgENJaE7pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读所提出的方法在CIFAR-10数据集上修剪了40%的训练样本，使收敛时间减半，同时测试准确率仅降低了1.3%，这一表现优于之前的基于评分的样本选择方法。摘要深度学习的巨大成功在很大程度上依赖于日益</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498252&amp;idx=1&amp;sn=e3d0b3dc8cde0fabe65fd5207953814f&amp;chksm=c1c729023f86237d9931f12dd07c19cbadb7e205300dda1cedbe2d59c4bc109c957fd8895a68&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 31 Oct 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
