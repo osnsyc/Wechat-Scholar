@@ -35,11 +35,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[【翻译】在FSDP2中开启Float8 All-Gather]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sHBICLErntpNR7ZV68eFxYkGOp5ib8pXdKnfSFF7y9GicjQQQm5z7AicJg8EwYYX2EP2HxSZRsXhPqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：https://discuss.pytorch.org/t/distributed-w-torchtitan-enabling-float8-all-gather-in-fsdp2/209323</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525329&amp;idx=1&amp;sn=395032c2cc3678e2633a6781ace367e0&amp;chksm=9e55404a8bf187fa33537846689eb8fd7f6f97aaa400231d841b5ab8845d0a7acbe9298e8412&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 02 Nov 2024 14:08:58 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[图解大模型训练系列：序列并行1，Megatron SP]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNwhvqaGTVyruPcNZvesOv1xRLQMrk1bnian31NiabR2yIDANqRsjOPJGT6lQGfU6Vrq0XmNlKI3njg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，最近在抽空整理之前“序列并行”相关的学习笔记，想着之前dp，pp，tp，ep都已经写过了，漏了一个sp总是有点遗憾，所以趁着最近有热情，赶紧补上来，也算是我对这一块的一些总结。其实，序列并行是</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525278&amp;idx=1&amp;sn=1c9dd156f6e50a4e23a466edb80dbf73&amp;chksm=9ee0f994759966b37ef1c8d8993ec5a2fb80f35bed7ca79123110692e2a37dbaaec41091f1a1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 01 Nov 2024 09:02:06 +0000</pubdate>
+      
+
     </item>
     <item>
       
