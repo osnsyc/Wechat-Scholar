@@ -34,11 +34,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[数据裁剪在目标ReID上的应用方法，减少35%数据量，几乎不影响准确率（<0.1%）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvptYTm79rTFiaweibGA15nHwhibWZqp7jTs9mHKx0yM7Lb6DicalW164QnM8IOamGk3ufg8z96v4n1rtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读通过充分利用训练过程中的logit历史记录，我们的方法提供了一个更准确和全面的量化样本重要性的指标，同时还能纠正错误标记的样本和识别异常值。此外，我们的方法具有很高的效率，相比于现有方法，它能够将</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498298&amp;idx=1&amp;sn=b32985f5d0b681fdd52944c697993db8&amp;chksm=c1cf5a6f20db5a3b7c35dd92eda2a6195c3fcc4202e3b0910ec057beaceb7d50bc970b74690c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Nov 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[并不是所有数据都有用：一种端到端的自适应数据集裁剪框架，可以提升模型表现和效率]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvpahkeDuRekWN7Hzicricbb49WU2JlD6YZVF81rFKX8W0f8pwS7sdv486icYklQ3sps1vrBZ4zHfjpag/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读即使在裁剪高达10-30%的训练数据之后，AdaPruner仍能显著提高模型性能。值得注意的是，这些改进伴随着内存和计算成本的大幅节省。定性和定量实验表明，AdaPruner在很大程度上优于其他最</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498276&amp;idx=1&amp;sn=22b5ad8db4f9ef8cd9325bb7f72181b6&amp;chksm=c1bceed8a64e5cbf0ef26542102bb10b3858ada13ae1b002093d0f0a9965333bc7c9c9eb47ae&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 01 Nov 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       

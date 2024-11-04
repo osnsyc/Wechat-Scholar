@@ -52,11 +52,52 @@
 
 
 
+
     <item>
+      <title><![CDATA[大模型经典著作《大语言模型基础与前沿》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJaMleiaXCicMffyib6icSRn1O2nhW1Fc9PkEHzYJOpjibI6B8v8O9n6H3rDDxNdykemEPpenM2UibrFztw/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍《大语言模型基础与前沿》是由美国明尼苏达大学双城分校电子与计算机工程博士熊涛所著。熊博士曾在多家中美知名高科技公司担任高级管理职位和首席科学家，在人工智能的多个领域，包括大语言模型、图神经网络等从</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=1&amp;sn=df3d8477a5fb7d8e085fe09d93108a7e&amp;chksm=bf28d77e8c156c0f26e13fa405287eafd84eb082cbc2b2fdd098643ca1d5fb2e30c6c5f85542&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[FlashAttention算法之美：极简推导版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajzlLJaymiaSMgZzzytwlkmQjyhTia4iccZpZFkp91U0KVKo93a1CJ1H1pKsFb0pS6Y2W4ANz61PFUmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：方佳瑞地址：https://zhuanlan.zhihu.com/p/4264163756FlashAttention（FA）是大模型训练和推理性能优化最重要的组件。从并行计算角度，FA算法设计</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=2&amp;sn=b29c02ff5f148a6ab86f777f6166a9f1&amp;chksm=bfc11d1835e0908370f35ffcfb98e58bdadfcf80fc63505daa8a2b1d5460c5ea2451308f2713&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解大模型训练系列：序列并行2，DeepSpeed Ulysses]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNZyFCNKgX0mTpFKBzpNhW8bToraCteV2xnMTNFoTGszmUc8p4QM5WTvozicAMdDHK8EfD9H42UzxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，在序列并行系列中，我们已经介绍过了Megatron SP，今天这篇文章我们来看DeepSpeed Ulysses。在正文开始前，请允许我吐槽一下，DeepSpeed Ulysses继承了DS家</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=3&amp;sn=43ed97e8b23da4e1f87729858eb1b31d&amp;chksm=bf535c4457993aebdaafcbc4c42d5d26b3ea8a89b8a8e3c205bc2abb3130684a0eca72346004&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[万字长文细说端侧大模型进展(综述)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib5BUNEBv4PpWpJ4Abcib6QibTmr54xVRK0iaWJlia5I1JN9AtrJF7icODkgRnCzo8oAFVIhywRbbbhibhBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天小编将基于近期一篇关于端侧大模型的综述文章，介绍该领域的一些最新进展。随着端侧大模型的发展，这些隐私安全的顾虑有望得到有效缓解。鉴于篇幅较长，建议小伙伴们收藏以便后续阅读。论文地址：https:/</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=4&amp;sn=638d83455c5064c804cbde775dc644f0&amp;chksm=bfde5003e981314a21b8b8de7e600aff52ba8cf7a51e3cc92d7cd025d0ad4c56770fdd4ec6bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【RAG】R²AG:将检索信息融入RAG，提升问答系统准确性]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGD3VTdauYKYmEtiaRH1HV433z24cIsxRorF5dnx1vKu6DGX0FEbuF9XsICQTvLkvg1NFdDpgtrZvag/300?wxtype=jpeg&amp;wxfrom=0"/><p>文章指出，传统RAG通过向量检索排序召回与Query相关的片段，通过prompt生成回复，LLMs与检索器之间存在语义鸿沟（LLMs难以有效利用检索器提供的信息）。下面来看看这篇文章引入检索信息增强R</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=5&amp;sn=ade404094df33550f089507c55127bbf&amp;chksm=bf3f6b525fd6b67223680288f99d5cc9ec7ce39024b4a0f964444f3d49bfee831cfc85fbd581&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[姜萍事件尘埃落定！阿里数赛出结果。。。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJaMleiaXCicMffyib6icSRn1O2ybIhXVtIYNwqtA681XNFSw3dtDSptSheb5g4Yw47aEY48OqnsM2qaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>转自：机器之心刚刚，2024 阿里巴巴全球数学竞赛决赛结果正式公布！共有86名选手获奖，其中金奖5名，银奖10名，铜奖20名，优秀奖51名。与初赛不分方向不同，决赛设有代数与数论、几何与拓扑、分析与方</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445757&amp;idx=1&amp;sn=29b10d28b2ef79a9bf97109b29db1c09&amp;chksm=bffa0bb8a84ee017a569de38878e67d1c4491caf6701834b3a8b5c05364d1df51195abde121d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 03 Nov 2024 05:16:42 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -263,166 +304,6 @@
       
 
       <pubdate>Tue, 29 Oct 2024 14:59:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[为啥本科生都能发顶会，而博士一篇都没有？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJgRxJLLIDeNX2NRzpI4uONRiayhFCIUcFyKdadT9BoDxtpuyhYhWZu0DGpqWkughJCJbFjpmp7WOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>无论你是研究生或者是博士生，都离不开一篇好论文的加持！如果发表过高含金量的SCI/SSCI论文，不论是求职还是申博，其竞争力极大可能是发表一篇普通科研论文的数倍，绝对是杀手锏的存在！如果你在写论文的过</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445641&amp;idx=1&amp;sn=1860f24fdf8602774902c1759d48865d&amp;chksm=bf7da577a74d5fe2cacc5ec5f78715448fcd888bdd5e9202b2715ef44f0ee6b78034a229460e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 28 Oct 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[（徒手搓LLM）逐行代码从0构造一个LLM——LlaMa篇]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiajOibadC0GdTKdFtrTwHcLqxkUyrRohEVUSM002bl6Kp9IdcTwicib3HezakOcMuHU8cCDzzJYJibQ0g/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：mc112611链接：https://zhuanlan.zhihu.com/p/1674261485本篇为：面向人群：觉得LLM很多复杂的结构和层级，懂很多原理，但是不知道怎么结合到一起本篇会很</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445641&amp;idx=2&amp;sn=14eb678cb61f312336a71ee817e7cf2a&amp;chksm=bf1dc4e45bf6df5528e5089ad2c924f0c2e82df3baeb1dd3f4abc99870d5c30df87926d2d152&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 28 Oct 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践：Common数据质量不理想，怎么做Continue Pretrain的数据]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLk1vZcPxWxOOZWmDLD4c1DJaSSYuEOticiccg4NDJlM3RzWqbR8ib6hwzBwDZC8QT2CYuXCIJ5lFl0A/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：真中合欢原文：https://zhuanlan.zhihu.com/p/721492096>打分清洗的文章难产，写起来没有思路，就换换脑子写写旁门左道，探讨一下common数据质量不理想的情况下</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445641&amp;idx=3&amp;sn=b18bd420c90b79f03755b3875b6ed5d4&amp;chksm=bfa9ae70909ba58286d9f3f0f8e3a89b223a0d184e5a938eac42e8383d380d8bcd9c9732c9a9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 28 Oct 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多模态大模型: 盘点&amp;Highlights part4——MiniCPM-V]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPyrQ7DsZB2FsCIWz1OicTqxbzR4WM9sD9q8CqTXTdbw9GodG1lia0Cfns71ibZP2Jb8x9wtV3dJBBMzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言Hi大家好，我叫延捷，是一名计算机视觉算法工程师，也是叉烧的老朋友了。我们计划发布一系列关于多模态大模型的文章，帮助大家快速、精准地了解多模态大模型的前世今生，并且深入各个多模态大模型领域优秀的工</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445641&amp;idx=4&amp;sn=7b42e6a761a203f1f2535edd86c0ffcd&amp;chksm=bf85536fffe1e8a85e360b08ff57b766d0ab6ec94e1aa6e34364e2fe84f0bbd0dd4bd31d87a3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 28 Oct 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[开源！清华&amp;微信提出LLM预训练知识蒸馏框架MINIPLM]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UkaMPMaoibmiaPZaKYUJyB7lLCU7icQOn6miaYaNwDIsgV7DWiaZO53ljncgib4AKVD8mjfcCgx6CG2gPEGbZA2ts6Iw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在之前的文章北邮&amp;剑桥最新SLM（小语言模型）研究综述中小编感受到了大家对“小而美”模型的热爱。本期继续介绍优化小模型还有什么小妙招。为了逼近小模型的性能天花板，除了老老实实从头训练小模型，优化各种数</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445641&amp;idx=5&amp;sn=eeb87511fa848d87558acb0b3b5853c1&amp;chksm=bf7af300b7355991abc65eadac8fed88f0893975cf2f34653fce2dcb805d8953ca0e58bc30c2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 28 Oct 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新增9所985！这份名单，再扩容！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKWEFyj4AZAIKJianiaO6yHjecahYtYagwaoJowQxj4icALgh5M7rJeibiaQ0cZG1IXohgBLU7VicS79Zug/640?wxtype=jpeg&amp;wxfrom=0"/><p>香港“抢人大战”继续：新增9所内地高校的本科毕业生，可申请落户香港！10月16日，香港特区行政长官李家超发布2024年施政报告，描绘了香港新蓝图。其中提到，未来五年，香港各行业人力短缺估算约18万人。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445627&amp;idx=1&amp;sn=c2fc9ccec8e0795b9030feff043a168e&amp;chksm=bf35d81ad99d47349956edd8ba8d099bcaa0a96ee227f1d1b9cafeb52aa108002c5c3cca0f88&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 27 Oct 2024 14:19:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[文末赠书！国内首本大模型推荐系统著作来啦~~]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKWEFyj4AZAIKJianiaO6yHjeibGibpCB9McMGx0d53fELw3bNXgUvOYwqUtIglTDHyZ4MNiaibQh9C25Ng/300?wxtype=jpeg&amp;wxfrom=0"/><p>--文末赠书--文/刘强ChatGPT与大模型技术的影响已经渗透到各行各业，无论是谁，都无法忽视其带来的革命性变化。自2023年初以来，我一直密切关注大模型的进展，特别是在推荐系统中的应用。在这个每天</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445627&amp;idx=2&amp;sn=6613a00970ea48b20b5c906aee98a1d1&amp;chksm=bfcab53022073d120f21d1be27e5190bf2fe5a660345020330991496ff5deb76553c97e2b109&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 27 Oct 2024 14:19:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[小数据，大突破！揭秘仅0.3B个token如何让8B模型逼近GPT-4，长文本开源新纪元]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajRvH91Dm10DLz6oGHMlFwW0tiaJAHFS6wAHicuMThiaVibbNVgGXyI4GQN2o1WjqLzWhZvQEd1Q5ickSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者: 汤泽成 (知乎：ZetangForward)链接: https://zhuanlan.zhihu.com/p/2993874959当前，越来越多的研究指出，长文本模型（Long-context</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445627&amp;idx=3&amp;sn=c19dcb84c508a4f443a9bbff68f10328&amp;chksm=bf889cbff5de2a9fbc2cd9d28baae2c5d180a8fa694cf8bf3dbe30537f129f701a7c97185dc8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 27 Oct 2024 14:19:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一个超强的构建Agent的大模型框架]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/njjfaJS7c9pehgjK5mXc2NKC9OFCcOWExoicfQqv3ISGFsgqkaVepGIUOu6CkFf6ibBRaPeEWaYqUchjYiaMUXicUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>向大家推荐一个超强的构建Agent的大模型框架——PhidataPhidata是一个用于构建智能Agent系统的Python框架。它让你可以方便地创建具有记忆力、知识、工具使用能力和推理能力的AI助手</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445627&amp;idx=4&amp;sn=406bfd5416facab70b44d71cd6f5ca34&amp;chksm=bfd45fc33912717bbc00f8e6e6afcea12cd7ce1da2f841f1606eb9dcf0a42660da3b78750c3b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 27 Oct 2024 14:19:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北邮&amp;剑桥最新SLM（小语言模型）研究综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UkaMPMaoibmjzaoxG2jWAD2pRMarv2KTMf10h5JItGltvTl3XdpX04O9QLcoOpRSxxbUdLVd46eZkxWmae7icMRQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天介绍的这篇文章是关于小型语言模型（Small Language Models, SLMs）的研究综述，作者团队来自北京邮电大学、鹏城实验室、Helixon Research、剑桥大学等机构。语言模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445627&amp;idx=5&amp;sn=925d52c0a2abf02eb5a3c6edf1c0bce6&amp;chksm=bf1a07c1c229630f836b9fa021a96afd121b9ed488458cfc840c812e33283cef5612657fb226&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 27 Oct 2024 14:19:21 +0000</pubdate>
       
 
     </item>
