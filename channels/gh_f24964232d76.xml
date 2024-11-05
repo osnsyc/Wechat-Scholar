@@ -36,11 +36,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[图解大模型训练系列：序列并行2，DeepSpeed Ulysses]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNZyFCNKgX0mTpFKBzpNhW8bToraCteV2xnMTNFoTGszmUc8p4QM5WTvozicAMdDHK8EfD9H42UzxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，在序列并行系列中，我们已经介绍过了Megatron SP，今天这篇文章我们来看DeepSpeed Ulysses。在正文开始前，请允许我吐槽一下，DeepSpeed Ulysses继承了DS家</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525331&amp;idx=1&amp;sn=a7247f3e9da80a1cdea57911e24a4be5&amp;chksm=9eb4ef5af48befc914ff4382cf6c4a6faa596a5981920dcceb88e63c9e0af17b453170a29ffd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Nov 2024 08:42:06 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[【翻译】在FSDP2中开启Float8 All-Gather]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sHBICLErntpNR7ZV68eFxYkGOp5ib8pXdKnfSFF7y9GicjQQQm5z7AicJg8EwYYX2EP2HxSZRsXhPqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：https://discuss.pytorch.org/t/distributed-w-torchtitan-enabling-float8-all-gather-in-fsdp2/209323</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525329&amp;idx=1&amp;sn=395032c2cc3678e2633a6781ace367e0&amp;chksm=9e55404a8bf187fa33537846689eb8fd7f6f97aaa400231d841b5ab8845d0a7acbe9298e8412&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 02 Nov 2024 14:08:58 +0000</pubdate>
+      
+
     </item>
     <item>
       
