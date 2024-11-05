@@ -53,23 +53,62 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[刚刚，阿里重磅开源基于FLUX的In-Context LoRA，可一次生成多张风格和ID一致的图片集。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwaZq27QklGnm2euIIenh9a4vvHuaekrpqk2PuGae3ghYQjGRse85BXsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍In-Context LoRA 这个项目太强了，前几天发布的时候就引起了许多小伙伴的关注，但是当时还没有开源，就在刚刚，作者开源了In-Context LoRA项目。它基于FLUX训练，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488724&amp;idx=1&amp;sn=8db864e5b1098b3e661805547439293e&amp;chksm=fd78c7d59b25760d6483cab92f446ff28bca67952f718fb50e66e99aaf71a95bfbb8d204f96e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 04 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[超火的开源文本转语音工具 F5-TTS，一段音频+文字就可以模仿你想要的任何声色。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elXSHQPic5rJ8IBKiaNosJKl4QQWgqW0Vjia1wZ7KjB0bJZhC8sUt9Nknjh8xHMh9TGk0ibRKE6OQykwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5-TTS是一种完全非自回归的基于流匹配和扩散变换器 (DiT) 的文本转语音系统。无需时长模型、文本编码器和音素对齐等复杂设计，只需用填充标记填充文本输入，使其长度与输入语音相同，然后进行去噪以生</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488704&amp;idx=1&amp;sn=43aec685fd757cfdc670f1e68280cc96&amp;chksm=fdfc6c5b36f474f72c7da7e01264edfd25b27c8183e65aded726d6b8ba0bd39ddc913f3db61a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 03 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ChatTTS：对话式高可控的语音合成模型，最强文本转语音工具！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeHe6LRGvmFzc5YNEYkO9c1cFSsR6eODR1H7cQTYwnRxnVtWMtNFHZJhcBia8MQvH4ApUYFKcibZkA/300?wxtype=jpeg&amp;wxfrom=0"/><p>ChatTTS 一夜爆火， 极速出圈， 3 天就斩获 9k 的 Star 量， 截止 2024.06.04， 已经 19.3k 的 star， 极速接近 GPT-soVITs 当天的 26.2k 的 </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488704&amp;idx=2&amp;sn=64fbbd1b88d41e818e9f598749dd6495&amp;chksm=fd50f3dcda3b8f2003aac99bfe5e4569e436ed646dc4a865a35f50945f4fc17c5f841a036adf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 03 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Seed-Music：字节跳动开发的音乐生成模型 支持多种数据输入生成和编辑音乐！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elIm6icxMVSQ1CxgxFiaRZRxgIpSB6lVKMSWd1DpYwO7bNGaOdrtXY1KXTzkCV8N36E83o4z8JLtxBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>Seed-Music是一个由字节跳动研发的音乐生成模型，用户可以通过输入多模态数据（如文本描述、音频参考、乐谱、声音提示等）来生成音乐，并且提供了方便的后期编辑功能，比如修改歌词或旋律。Seed-Mu</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488704&amp;idx=3&amp;sn=d0bbed958f92b8c952516e9f840bf496&amp;chksm=fd8bfade1b8f35752bf2d6ecfea105f98d11a4be0728efe1235129e2ccba9567d7cd9ac46d64&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 03 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
