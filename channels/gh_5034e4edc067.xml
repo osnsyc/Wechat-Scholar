@@ -48,40 +48,116 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[大模型 vs 搜广推？算法工程师们应该如何选择职业方向？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/7YJVBU9FXkUcMWvxD2nhicLHibngXjrb5xZTBFApvou9c9ibbWHlSWu6YmlHMJumW7SibNplxJgTNSH0J3Es2icia2MQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型 vs 搜广推？算法工程师们应该如何选择职业方向？这里是「王喆的机器学习笔记」的第四十三篇文章，很久不更新了，难得今天有空，跟大家聊一聊同行们比较感兴趣的话题，算法工程师如何选择行业。选择这个话</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=1&amp;sn=1d007e9aa1cc544c44dfa5ddc3aeb61b&amp;chksm=bf496b7dd453a3306172f3550890c70c30ae73d632944b2a1e279274610ded94bbb2c76ae53f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解大模型训练系列：序列并行3，Ring Attention]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOS1A7Y59KCysq2pG4H4SfEm5rdgSy6jyfuP4vPCWvCVX4rOiaFkMmrtW3P67icdXiazVgZSoZZ8dVpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在序列并行系列中，我们将详细介绍下面四种常用的框架/方法：Megatron Sequence Parallelism：本质是想通过降低单卡激活值大小的方式，尽可能多保存激活值，少做重计算，以此提升整体</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=2&amp;sn=9ec7b302070689f367253a6238f23361&amp;chksm=bf975d840bb9ba9e5a6f0e07a642073986b7bb00a61a8bed8bdad7148f98f4e5463848e417fe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[阿里通义实验室LLM实习生招聘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJUTuRzv7YuFibrNlP0lIKU5dWXgnibJZQFTtqjw8v8AOacVJk2rsbGG0BKZ8el9r9QyIfq3iam6Hhmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里通义实验室LLM实习生招聘(杭州)项目介绍：通义星尘角色对话，包括分身复刻、心理&amp;策略推理、长期记忆、社交Agent等方向，具体工作包括 CPT、SFT、DPO、RewardModel 等。‍ 职</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=3&amp;sn=0362df9e04c65c849c225157713f3a74&amp;chksm=bfa2f90b6363b4bcb0a16b103eec60a8335e6ec95ac5786fde8cf16f53ec50a95a9f97a336c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[从鼠标点击到自然语言：LLM based 文件管理系统怎么样]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaEoZB98J8rvHibVv0UCB75MsMZniblY1o9egA12ZXSrwSXxWrrSNeY2e9mB9ichq3lCzK4VZlFbZ4TQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文提出了一种基于大型语言模型的语义文件系统（LSFS），通过自然语言提示实现了更智能和高效的文件管理。论文: From Commands to Prompts:
+LLM-based Semant</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=4&amp;sn=eacaebf0a8eed8c77bd0d08539245c1b&amp;chksm=bfe3f3463e6785242b6817e02f8acb3f9cb5b84571b92fa752d23d1239ff815b69d0e673fc6c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[实测腾讯开源的Hunyuan-Large大模型，感觉。。。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nCZ2nKoiaUPic1iapfzyCdOOwzH92sb0l4A9lCYdwg88LpPITIrY2YftROrw6vTfz8tZvV3ZBxWu1xQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>下面实测内容没有任何个人观点，仅为测试结果。另外，测试用例可能不多，但都是之前常测得一些问题，今天突然发现腾讯开源混元大模型，十分震惊，腾讯也来挤开源赛道了，只能说大模型开源越来越繁华了。这次开源的主</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=5&amp;sn=e0e599861fd7f68667c83f91ee293fa8&amp;chksm=bf7c29c34324a1a634932c0eb4d1cfcf1e9e993a4eb71c00f08d55cc645a1d1b8bfe7bf6aee5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[大模型经典著作《大语言模型基础与前沿》]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJaMleiaXCicMffyib6icSRn1O2nhW1Fc9PkEHzYJOpjibI6B8v8O9n6H3rDDxNdykemEPpenM2UibrFztw/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍《大语言模型基础与前沿》是由美国明尼苏达大学双城分校电子与计算机工程博士熊涛所著。熊博士曾在多家中美知名高科技公司担任高级管理职位和首席科学家，在人工智能的多个领域，包括大语言模型、图神经网络等从</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=1&amp;sn=df3d8477a5fb7d8e085fe09d93108a7e&amp;chksm=bf28d77e8c156c0f26e13fa405287eafd84eb082cbc2b2fdd098643ca1d5fb2e30c6c5f85542&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[FlashAttention算法之美：极简推导版]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajzlLJaymiaSMgZzzytwlkmQjyhTia4iccZpZFkp91U0KVKo93a1CJ1H1pKsFb0pS6Y2W4ANz61PFUmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：方佳瑞地址：https://zhuanlan.zhihu.com/p/4264163756FlashAttention（FA）是大模型训练和推理性能优化最重要的组件。从并行计算角度，FA算法设计</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=2&amp;sn=b29c02ff5f148a6ab86f777f6166a9f1&amp;chksm=bfc11d1835e0908370f35ffcfb98e58bdadfcf80fc63505daa8a2b1d5460c5ea2451308f2713&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[图解大模型训练系列：序列并行2，DeepSpeed Ulysses]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNZyFCNKgX0mTpFKBzpNhW8bToraCteV2xnMTNFoTGszmUc8p4QM5WTvozicAMdDHK8EfD9H42UzxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，在序列并行系列中，我们已经介绍过了Megatron SP，今天这篇文章我们来看DeepSpeed Ulysses。在正文开始前，请允许我吐槽一下，DeepSpeed Ulysses继承了DS家</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=3&amp;sn=43ed97e8b23da4e1f87729858eb1b31d&amp;chksm=bf535c4457993aebdaafcbc4c42d5d26b3ea8a89b8a8e3c205bc2abb3130684a0eca72346004&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[万字长文细说端侧大模型进展(综述)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib5BUNEBv4PpWpJ4Abcib6QibTmr54xVRK0iaWJlia5I1JN9AtrJF7icODkgRnCzo8oAFVIhywRbbbhibhBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天小编将基于近期一篇关于端侧大模型的综述文章，介绍该领域的一些最新进展。随着端侧大模型的发展，这些隐私安全的顾虑有望得到有效缓解。鉴于篇幅较长，建议小伙伴们收藏以便后续阅读。论文地址：https:/</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=4&amp;sn=638d83455c5064c804cbde775dc644f0&amp;chksm=bfde5003e981314a21b8b8de7e600aff52ba8cf7a51e3cc92d7cd025d0ad4c56770fdd4ec6bc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[【RAG】R²AG:将检索信息融入RAG，提升问答系统准确性]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGD3VTdauYKYmEtiaRH1HV433z24cIsxRorF5dnx1vKu6DGX0FEbuF9XsICQTvLkvg1NFdDpgtrZvag/300?wxtype=jpeg&amp;wxfrom=0"/><p>文章指出，传统RAG通过向量检索排序召回与Query相关的片段，通过prompt生成回复，LLMs与检索器之间存在语义鸿沟（LLMs难以有效利用检索器提供的信息）。下面来看看这篇文章引入检索信息增强R</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445773&amp;idx=5&amp;sn=ade404094df33550f089507c55127bbf&amp;chksm=bf3f6b525fd6b67223680288f99d5cc9ec7ce39024b4a0f964444f3d49bfee831cfc85fbd581&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 04 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
