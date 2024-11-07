@@ -50,18 +50,27 @@
 
 
 
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[腾讯发布业界最大开源MoE模型：Hunyuan-Large，具有3890亿参数，在长文本处理、常识推理、数学能力等方面表现出色。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emo5W5SskRqTMcQ39iaLjtibd6J8s54Iu3pUT6mLLnbic6sYmEEkC7TkRkQKSSVTg6VtPoZogicQCHTgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯发布开源 Mixture of Experts（MoE）模型：腾讯混元大模型（Hunyuan-Large），这是目前在业界是规模最大的开源 Transformer 专家模型，具有 3890 亿参数</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488790&amp;idx=1&amp;sn=b99000f43374054ba84a7239ca056342&amp;chksm=fdea95e56c1b06b57aa0546ac9ffb9a37a0cc6a20cfc4355a4d55b0b1f4c6b981e047690663b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 06 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[登顶Hugging Face文生图模型榜首！Recraft V3可精确处理复杂长文本和手指等解剖学细节！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emo5W5SskRqTMcQ39iaLjtibdfWiaulu8SLia1CmOhUK8o1DFXv1ZuIO9wgBw4mH09eF6uw4vAzibRT3rQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Recraft推出了其最新的图像生成模型—Recraft V3。通过引入设计语言思维，Recraft V3为图像生成树立了新的卓越标准。在Hugging Face 人工智能文本转图像模型排行榜。它以 </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488789&amp;idx=1&amp;sn=00bd975be576f39119dfc98be2a85c0e&amp;chksm=fd0b5a4ade0de5906f69aa87ee309cb8736db086774a9681124a61452c8f8ce29351b7c3dfde&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 05 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -316,70 +325,6 @@
       
 
       <pubdate>Thu, 31 Oct 2024 22:11:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图像编辑大一统？多功能图像编辑框架Dedit:可基于图像、文本和掩码进行图像编辑。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekDYMeOJw6PMrPrgUmBfVvIibC8Suae7poAtMSSVAkicNMibK5CyJB4RLSAKFiajeuqXiaiaib0vMibRiaSKCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个基于图像和文本的编辑的框架D-Edit，它是第一个可以通过掩码编辑实现图像编辑的项目，近期已经在HuggingFace开放使用，并一度冲到了热门项目Top5。使用 D-Edit 的编</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488699&amp;idx=1&amp;sn=85b41adad2e418d1817c9f3b452c28a8&amp;chksm=fd9dc0e29c917c55cf31f893f694d34949f076de2003e3848405059f90ae5d14c8eaf68f0335&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[自动生成ComfyUI工作流？英伟达提出ComfyGen：通过LLM来生成匹配文本的工作流。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eny4Iriba5NSXkHvLxicLITJDqnLYd3byQhrC0bKwIGSOFEPvibmO8gTicw8bg8Y16oLT3TR7jWM7j2AA/300?wxtype=jpeg&amp;wxfrom=0"/><p>ComfyGen的核心在于通过LLM来匹配给定的文本提示与合适的工作流程。该方法从500个来自用户的多样化提示生成图像，随后使用一系列美学预测模型对生成结果进行评分。这些评分与相应的工作流程形成了一个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488699&amp;idx=2&amp;sn=17107037158b0dc638a3a9821c92a664&amp;chksm=fd77543a8033e36921a18c0cf81d58ba9fc00f5655f5ad85dc3a759e1f2911977bf6ff8ba2cf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[长篇故事可视化方法Story-Adapter：能够生成更高质量、更具细腻交互的故事图像。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZSKKULxCTzezvw8wSOvf1jqib40MePuLWQamEVrmH3RC3HsKvOkJ9S3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍过关于故事文本生成图像的相关内容，感兴趣的小伙伴可以点击以下链接阅读~字节&amp;南开提出StoryDiffusion：生成一致的图像和视频来讲述复杂故事，图灵奖得主Yann LeCun亲</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488699&amp;idx=3&amp;sn=af0b42380e5b570520e14a730d5a8ceb&amp;chksm=fd026e536578bb032b3655936b0a35e20726719298f6401191f2809a65012dcb292ba92f9ad0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CVPR 2024 | 英伟达发布新一代视觉基础模型: AM-RADIO = CLIP + DINOv2 + SAM]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/vgev6PHxuZ0Dvab3vYyROyU9ESg3n8zG0anOa04cV0GwicWOGAJ4dG0eXAYscczTvCEPaibXFictDib936FdbCMoww/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注一个有趣有AI的AIGC公众号:关注AI、深度学习、计算机视觉、AIGC、Stable Diffusion、Sora等相关技术，欢迎一起交流学习💗～标题：《AM-RADIO: Agglomer</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488699&amp;idx=4&amp;sn=5ad85e49fd868257f051727402d5a47e&amp;chksm=fddf098f78cc1ee96b0e7b790a63c7fd9c68cc3bf3db0346b281d5fd75d965345c2c0f2b5236&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 16:00:00 +0000</pubdate>
       
 
     </item>
