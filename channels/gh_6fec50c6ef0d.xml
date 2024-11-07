@@ -37,11 +37,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[LDConv：线性可变形卷积，将参数数量增长修正为线性增长]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvpVjzuJ1ia8a4prKJuia9oBnOAZotRBNoXxI1ezicPuXF3K4NYlDeSWibbsN5pV1taM1Y59Oj86IBS04g/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读LDConv将标准卷积和可变形卷积的参数数量增长趋势修正为线性增长。摘要基于卷积操作的神经网络在深度学习领域取得了显著的成果，但标准卷积操作存在两个固有的缺陷。一方面，卷积操作局限于局部窗口，因此</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498368&amp;idx=1&amp;sn=356ffd50dc47d4250912dd4f22f06fdb&amp;chksm=c118e0d63e33b3777ffdc8fce695b2edc176c2d107025286e8daa07e40240c026040f0f88e3b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 07 Nov 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[基于拓扑几何约束的动态蛇形卷积用于管状结构分割]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvonEKlEZkK7W8cZt5y65Ke3mdmRz0HQ6qmRRxdQia3c2M3M4EkAygzVwyLl8UuqhgebBFFVM6vkicIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读在本研究中，我们注意到管状结构的特殊性，并利用这一知识指导我们的DSCNet同时在三个阶段增强感知能力：特征提取、特征融合和损失约束。摘要准确分割拓扑管状结构，如血管和道路，在各个领域中至关重要，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498342&amp;idx=1&amp;sn=9d70e5f0d61686e2cd342a2a56e93ee5&amp;chksm=c15fef4f527d3a6ccf168aa7325e7f7df6855fd369fcb283988e274f5e0308bf21363d159ef5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Nov 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
