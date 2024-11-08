@@ -47,14 +47,39 @@
 
 
 
-
-
-
     <item>
+      <title><![CDATA[混合专家模型 (MoE) 详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emOmPkEN8wch4M3txAeFlUKiaJVQDmPia8vwoiccAOopcuhcVyF7mZX5Oa03m0QFQpQxO4NicicCvicnbyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着 Mixtral 8x7B (announcement, model card) 的推出，一种称为混合专家模型 (Mixed Expert Models，简称 MoEs) 的 Transforme</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=1&amp;sn=97482b175fcb34cafbe65e8ae8a1402f&amp;chksm=fd85cbfec9e615eee2d84056a0f37f66d74e7c4d9660a9e7cc1e785b0c9a1bbe9c630a9b0a48&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[统一图像生成模型OmniGen：可由多模态提示直接生成各种图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enjwj4Ry2OH6auaAn9DU954RGLVLiaJQhnSsUOPiaYkiaE5VPAB4AUAtmLI24PhQm9bK4JduBhT9ZjTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个北京市人工智能研究院 提出的统一的图像生成模型OmniGen，可以使用它来执行各种任务，包括但不限于文本到图像生成、主题驱动生成、身份保留生成、图像编辑和图像条件生成。OmniGen</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=2&amp;sn=abd2b31fb9f16f038e4bf790b3521c0a&amp;chksm=fd38baa4e4e1de996e775471047d00e83da572de22b61f69c56c49411761f1786fb882b7002c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS2024 | OCR-Omni来了！字节&amp;华师提出统一的多模态生成模型TextHarmony。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUw9icM2HlibUyI4RtyIsiaB9FOY9taoKCFlibTeImBZT585GC3ias7FialR6UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，赋予机器类人的图像文字感知、理解、编辑和生成能力一直是研究热点。目前，视觉文字领域的大模型研究主要聚焦于单模态生成任务。尽管这些模型在某些任务上实现了统一，但在 OCR 领域的多数任务</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=3&amp;sn=9821b297fc93dd6351a7ca88002155fb&amp;chksm=fdcb7867cbd617d238bf53a1ebb94e79f2b0faf0c3aa85d6223595757b67437f32eb34dd6d01&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[腾讯发布业界最大开源MoE模型：Hunyuan-Large，具有3890亿参数，在长文本处理、常识推理、数学能力等方面表现出色。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emo5W5SskRqTMcQ39iaLjtibd6J8s54Iu3pUT6mLLnbic6sYmEEkC7TkRkQKSSVTg6VtPoZogicQCHTgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯发布开源 Mixture of Experts（MoE）模型：腾讯混元大模型（Hunyuan-Large），这是目前在业界是规模最大的开源 Transformer 专家模型，具有 3890 亿参数</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488790&amp;idx=1&amp;sn=b99000f43374054ba84a7239ca056342&amp;chksm=fdea95e56c1b06b57aa0546ac9ffb9a37a0cc6a20cfc4355a4d55b0b1f4c6b981e047690663b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
