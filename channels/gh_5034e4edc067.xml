@@ -53,35 +53,119 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[LD-DPO：基于DPO的长度脱敏偏好优化算法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIOtRPnAvibFdFL73MfQOJCTraE1HAyUz4GHVBaEwbEmYhSHiaMBuzgXOAJUS4TnfsymvZGjv1pSy9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Length Desensitization in Direct Preference Optimization论文地址：https://arxiv.org/abs/2409.064111 </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445849&amp;idx=1&amp;sn=c991e4762c0409330787bea036d60a54&amp;chksm=bf46842c50d3317961b010f6eb8f1f3820e0f708e3b309f335415e0499bcd6c7b8799ecb47e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 09:28:21 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM实践系列—大模型的拒绝采样2]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lgIOGr6FcFHxSlfbLae4MKAqkFwRkrLIOZDtkjeda2sUylblxHf9ibJkOjs47P527mvyIg8goyRwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来知乎@真中合欢的大模型实践系列文章-LLM的拒绝采样。作者：真中合欢 知乎：https://zhuanlan.zhihu.com/p/4547529049拒绝采样是一种蒙特卡洛方法，和重</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445849&amp;idx=2&amp;sn=2d821dc84f4739233e49a577559217bf&amp;chksm=bf459730e2c06bad20c2029dd4b3e0f6036892b1a9b7af53d5f71bf94b1a983eebb7cc74d4b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 09:28:21 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯TEG招聘：机器学习平台高级算法研究员-大模型应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKiabbib5RoHKibQ3CWCzNXJUH2UXjEc9OI7jW4FPJ3Wxx0IkshhteaFxyVIT3Uthfr2h4bPGiaNWQfmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯TEG招聘：机器学习平台高级算法研究员-大模型应用（北京）岗位职责： 1.负责大语言模型在捜广推场景应用相关核心能力研发，包括大模型微调能力，相关模型算法调优以及性能优化等 ； 2.负责大语言模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445849&amp;idx=3&amp;sn=4b376b9830e917b1319c41d2669755b0&amp;chksm=bf22df1211fbad4af230667614a57d9827ef837e75dd33b600be5682b00ce2a680774fd853d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 09:28:21 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[答案搜索生成引擎现阶段局限性思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yToxjhYT5ibZlC4Tce8xk7bMIdCwq2sxpjMfYdiaKxtU7QTXYQMiaiab7SB9adia9cVgqvwQj7NtXQkd5Rcy8FaF8yA/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于LLM的生成式搜索引擎（Generative Search Engines）正在取代传统搜索引擎。答案引擎不仅检索与用户查询相关的来源，还综合引用这些来源的答案摘要。来自PSU与Salesforc</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445849&amp;idx=4&amp;sn=73d1e9c7e9f5b840e00339362eff9b2d&amp;chksm=bfca7942a89d3ed988180b3b44975ce745f027e8c29488cc323423d25ee4397d2636a0a984f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 09:28:21 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[告别随机采样！PRS：一种简单高效的数据采样新方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajic9JLicM7eJt5ss0OfNNzFKk691b9PVOSYNrdHWicyMdkthvAf9MT0QZmgbONWSzibS41F1A2XZOI2A/300?wxtype=jpeg&amp;wxfrom=0"/><p>Hai Ye, et al. “Preference-Guided Reflective Sampling for Aligning Language Models” -- EMNLP2024论文：h</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445849&amp;idx=5&amp;sn=eaa7e5bc2558e3c66b086327f8f563fa&amp;chksm=bf8fe61b9b4c13c99c89c00e79ba53a66eb40140aafada5e897b5de92e9524e6940bbd5814b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 09:28:21 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[突发！ETH官宣制裁中国学生，国防七子、中科大、川大、北邮等高校均在名单内。。。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ0O5U1aJmhjSUeQrmfews6Gmg52FPtfVyJ0SGXCjOlJRXkBMSp9qQ2xROndpZW3annrDMdpSBeLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：募格学术 ｜整理自环球科学科研圈、洛阳理工学院官网、ETH官网、启德留学广州、英伦大叔等2024年10月24日，瑞士ETH（苏黎世联邦理工大学）官网发布了安全审查政策，更新了硕士、博士（以及更</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445818&amp;idx=1&amp;sn=673eadbc37aef6dca34bee7ae7571e73&amp;chksm=bf918d84be665995361d46baca329c23328c86753f405fefc262cd1fd06a88800debf6b31c2d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Nov 2024 14:51:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Qwen2.5 全链路模型体验、下载、推理、微调、部署实战！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8ZLuyaibrZbnW2qfuGfhibjSoY7zRpLEfJqUxNbjLiarKQ7ON28zjPf2a8gHA1zRXU8dz09O2Zkwqrv1ly5QdGlRg/300?wxtype=jpeg&amp;wxfrom=0"/><p>01引言在 Qwen2 发布后的过去三个月里，许多开发者基于 Qwen2 语言模型构建了新的模型，并提供了宝贵的反馈。在这段时间里，通义千问团队专注于创建更智能、更博学的语言模型。Qwen 家族的最新</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445818&amp;idx=2&amp;sn=6e019c792c6abf2a00cf726a3ab04664&amp;chksm=bf4c8ecf130cd0cfe002b1f497603ae09c64cf21c995b12b056c514fa34f72e55628f3e1d83c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Nov 2024 14:51:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[图解大模型训练系列：序列并行4，Megatron Context Parallel]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNzBibbTprRN5ftPSHJh43eV1g1V1C3zDTZpQIpba3Uo4hUaqOY6sawgT7FBnNBhwO5Sr1rU3VHTQg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在序列并行系列中，我们将详细介绍下面四种常用的框架/方法：Megatron Sequence Parallelism：本质是想通过降低单卡激活值大小的方式，尽可能多保存激活值，少做重计算，以此提升整体</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445818&amp;idx=3&amp;sn=61eede931563d5adec447db065de6a71&amp;chksm=bf3684eba217dae4bb50394a2a7520a18125bf64340c08d5edc07c7372cd8a3767446d8d6fdc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Nov 2024 14:51:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[遇上博大精深的中华文化，多模态大模型还能行吗？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajrjk193zib0Q1RG5e8pZ9uPiafVEAzd6U1ibpH16ibljQhtVOkWXW7VYu5HmRF5TVbibqoibqv5hYX4upw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：张辰皓随着多模态大模型（MLLMs）能力的不断提升，对其高阶能力的评估需求也在增加。然而，目前缺乏对MLLMs在理解中文特色视觉内容方面的高阶感知和推理能力的评估工作。为了探讨多模型大模型与人类</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445818&amp;idx=4&amp;sn=f15706bf9ba908636b717b868bd6a7cf&amp;chksm=bfb0958c832250ed4df41adad24130cd567bbd710862f2cb087adde6d137dc77f923cf51257b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Nov 2024 14:51:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM之RAG实战（四十七）| GraphRAG：使用知识图谱改进 RAG 检索策略]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/N5aX12H1Sicl5MqtnzPeRpIictcy0QAHVyNKOtnfBhX8bWMnDZprCxWSNxWwVFO1T3J8Cgr9TXH8OMHnzgb40NIw/300?wxtype=jpeg&amp;wxfrom=0"/><p>       在 Retrieval Augmented Generation （RAG） 技术中，检索是直接影响生成输出质量的关键步骤。然而，基础 RAG 中的向量检索技术通常不足以满足所有情况。例</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445818&amp;idx=5&amp;sn=dddbc96ed26c91e2d8bb873961845608&amp;chksm=bf0adc909a7e59cd089e0a273f7b6d6ce2b8be16ca5119fc34b1912e3a33908c3c22d4626d8c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Nov 2024 14:51:03 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -337,118 +421,6 @@ LLM-based Semant</p> ]]></description>
       
 
       <pubdate>Sat, 02 Nov 2024 13:29:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[又一院士被“除名”！院士终生制，没了？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJibDTG0YpMGGYZRuibhEEtgZPdJeyDdk9NRSJzibfIoaE6gDR9zNzT7GEoAJ59lE2E02UIEiat8CPgPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>转自 | 小木虫据新华社报道，政协第十四届全国委员会常务委员会第九次会议11日上午在京闭幕。经表决，会议通过关于接受龚六堂辞去第十四届全国政协委员的决定；通过关于撤销肖龙旭院士第十四届全国政协委员资格</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445729&amp;idx=1&amp;sn=0c489c65bc05a906da15526f627b7bd2&amp;chksm=bfc49caa9fa328437b6ac87c6b9bfbc9e18d9154a8cea089d9d683bbcf028bb7fd86bbf43c35&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 31 Oct 2024 09:21:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文看完多模态：从视觉表征到多模态大模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJibDTG0YpMGGYZRuibhEEtgZul5dGEVzVYRAvia96mCria83QibibHR2N8Oa7d0FZygzfX1xiauDia8C4GQg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨菜人卷@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/684472814编辑丨极市平台转眼2024，距离上次知乎写作就快过去一年，上一次的计划主题还是“开源大模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445729&amp;idx=2&amp;sn=d9cd57ff786ecd193d0f479706b5de47&amp;chksm=bfd5759753605ecd014ba47c82aaf9293317f19c42be4b9eede00fb58e578f12798d819b0915&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 31 Oct 2024 09:21:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一网打尽长文本训练技术]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLk1vZcPxWxOOZWmDLD4c1DnpgOia18b6bgjWIIcxguYL8zIkunGOXmNhgE1TGTQfGYP99wm40PEmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>注：作者 wangs，毕业于985高校，曾在中国科学院国家重点实验室开展科研工作。从学期间，发表了1篇SCI论文、1篇EI论文，并申请了若干项专利。主要研究方向集中在大模型（LLM)和（RAG）等领域</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445717&amp;idx=1&amp;sn=f53f4ccf511d707c45fc654a9f5cc39d&amp;chksm=bf3925185bd12b71fdac0ed373edc49f115cf005aceacd6cfb4af9193794bfb62fdd07eb3e76&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 14:58:15 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[​大模型时代的对话分析：阿里最新综述全面解析对话分析的必要性]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnAC4ibnDxKSbkQnAtibeUicXgxNmDtrXb2HnUCh1xiaZ9upbqk5t5koqcWvmHdG04j1iaCGU4k6jEHXxw/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景随着大语言模型的发展，下一代系统交互朝着基于自然语言对话交互（LanguageUI）高速发展，这将会产生大量的自然语言交互日志，对这些对话日志进行提取、总结、分析、推理，将会带来如等系统优化、客户</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445717&amp;idx=2&amp;sn=99ffe39ff0d78a513d542f0ab4c80a72&amp;chksm=bfde017841792e75cc5b31dcdd9fb9238adb97a2d6bf3041bbcf4bd07b303bcf772e22682f9e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 14:58:15 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【校招-应届生｜阿里健康】NLP-商品理解方向]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIzk0pdV1JmLO58OeLXJaCvqJnCyb28Q9z9p0vuzRnlj1NLBhQibSczTOLfPOibUYBiaIyw2diaZOpRmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>【应届生｜阿里健康】NLP-商品理解方向（杭州）我们是阿里健康的算法团队，我们致力于构建健康商品深度理解、同品匹配、卖点抽取、商品优化能力，并推动其在健康各个业务中应用起来，解决AI导购/搜索/AI客</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445717&amp;idx=3&amp;sn=83d65695be9be656aab80e68a1ccfcfa&amp;chksm=bf84442b3b0ef029cc1e5d3d6a74c735b6f981ee3d51b236551db5a7edbd6e1b4521ec4d7ad9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 14:58:15 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[突破数据合成scaling瓶颈！7B模型可以赶超GPT4-Turbo]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiadajiaUXzVycYU8KRuovOZ2CDY2tWfIUG8DPDKRfOmK2XlSvutmibNKWYR0YLs5oktticG0iaMXcOBDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者: 丁誉洋 项目链接: https://scalequest.github.io/复杂任务的推理能力已成为当前大语言模型的核心竞争力，也是各大厂商争相角逐的关键领域。OpenAI将其 o1 模型定</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445717&amp;idx=4&amp;sn=ba3a43c443dac95782cb4fb769beb0b7&amp;chksm=bf3979d4fe046829eadc42145dbf133d7280a0a2500e6f110eb7378ae8b963faec3a6eea7c8a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 14:58:15 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[面向中文有害表情包（meme）的综合性检测]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kjjKDtKRaq6HWvhZpbRE7kMyKFLRcXgXy9Ym9CR5d4AvPF1pesNOqJqoPofpp3OibnH5SSPY96ldA/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着互联网的迅速发展，有害表情包在网络上日益泛滥。通常，有害表情包被定义为一种包含图像和嵌入文本的多模态单元，通过针对特定社会实体对个人、组织、社区或社会群体造成伤害。此类表情包可能加剧社会分裂、引发</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445717&amp;idx=5&amp;sn=0db8079923b719f339f52099a0589907&amp;chksm=bf0891e4bb069189501b5a006f0af5c861a0d61884a52780741187935bb4b667ab02f7a74816&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 14:58:15 +0000</pubdate>
       
 
     </item>

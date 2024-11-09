@@ -38,12 +38,29 @@
 
 
 
+
     <item>
+      <title><![CDATA[图解大模型训练系列：序列并行3，Ring Attention]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOS1A7Y59KCysq2pG4H4SfEm5rdgSy6jyfuP4vPCWvCVX4rOiaFkMmrtW3P67icdXiazVgZSoZZ8dVpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在序列并行系列中，我们将详细介绍下面四种常用的框架/方法：Megatron Sequence Parallelism：本质是想通过降低单卡激活值大小的方式，尽可能多保存激活值，少做重计算，以此提升整体</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525353&amp;idx=1&amp;sn=c2ed84380fb812198885f2f1668bc023&amp;chksm=9eaf71ed27449a1cbcd5337e8c442cd1b090d3677aa954f4942ac2ece8da9195bc7cada12e26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 11:20:08 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[【ml-engineering 翻译系列】训练之模型并行]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uiabNjbahnWYygcxEnuNSvtA8aqU175GicFKb6OicZk6LibGRcFMlzU4uD0ibw70icSjDDOvbItPDgUGgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode
 本篇文档的来源：htt</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525351&amp;idx=1&amp;sn=b9f476743d8d2828bdc7a3966768fc84&amp;chksm=9e50a11580927735c5939a48974df080e68ac85209e4f01be33f60a3f1f8fb365a0e2eb1d1ad&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 06 Nov 2024 10:14:39 +0000</pubdate>
+      
+
     </item>
     <item>
       

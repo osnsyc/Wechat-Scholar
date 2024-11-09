@@ -47,23 +47,74 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[Flux LoRA | Then and Now：可将历史照片和现代场景融合，实现不同时间点的对比展示。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwa5IZKDYBAO7LLOlXfTp24Tpqlh9Q3AG0qQKRWByqvmjXWQzoSf3LVqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐一个我最近发现的特别棒的概念 LoRA 模型-Then and Now，能生成过去和现在的照片相匹配的图像，可将历史照片和现代场景融合在一个画面中，实现不同时间点的对比展示。作为概念训练</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488815&amp;idx=1&amp;sn=03a6f96aa01c56f293f6fc1861d1653d&amp;chksm=fd25cf17002f880c9d817ed398f999cc8d515b38342540e317213142b5ffdcedf2bfb8b1c84a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 22:25:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[英伟达提出ComfyGen：通过LLM来生成匹配文本的工作流。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eny4Iriba5NSXkHvLxicLITJDqnLYd3byQhrC0bKwIGSOFEPvibmO8gTicw8bg8Y16oLT3TR7jWM7j2AA/300?wxtype=jpeg&amp;wxfrom=0"/><p>ComfyGen的核心在于通过LLM来匹配给定的文本提示与合适的工作流程。该方法从500个来自用户的多样化提示生成图像，随后使用一系列美学预测模型对生成结果进行评分。这些评分与相应的工作流程形成了一个</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488815&amp;idx=2&amp;sn=8461e5284d5af2575cdd351e1c1e34bf&amp;chksm=fd7bb8ae9c043cc72ed1417f3f69676c50a5131891fe10a04d85ea49d972dcbd0b7008f54ba9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 22:25:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Story-Adapter：能够生成更高质量、更具细腻交互的故事图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZSKKULxCTzezvw8wSOvf1jqib40MePuLWQamEVrmH3RC3HsKvOkJ9S3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍过关于故事文本生成图像的相关内容，感兴趣的小伙伴可以点击以下链接阅读~字节&amp;南开提出StoryDiffusion：生成一致的图像和视频来讲述复杂故事，图灵奖得主Yann LeCun亲</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488815&amp;idx=3&amp;sn=546be76ecc65a94c2317fb1a238555d2&amp;chksm=fd5eaa4f93de7f597980d694e1cb745412fc619e6a3f3ae7ce91dd97913a06a674d1b5e3ffba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 08 Nov 2024 22:25:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[混合专家模型 (MoE) 详解]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emOmPkEN8wch4M3txAeFlUKiaJVQDmPia8vwoiccAOopcuhcVyF7mZX5Oa03m0QFQpQxO4NicicCvicnbyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着 Mixtral 8x7B (announcement, model card) 的推出，一种称为混合专家模型 (Mixed Expert Models，简称 MoEs) 的 Transforme</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=1&amp;sn=97482b175fcb34cafbe65e8ae8a1402f&amp;chksm=fd85cbfec9e615eee2d84056a0f37f66d74e7c4d9660a9e7cc1e785b0c9a1bbe9c630a9b0a48&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[统一图像生成模型OmniGen：可由多模态提示直接生成各种图像。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enjwj4Ry2OH6auaAn9DU954RGLVLiaJQhnSsUOPiaYkiaE5VPAB4AUAtmLI24PhQm9bK4JduBhT9ZjTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个北京市人工智能研究院 提出的统一的图像生成模型OmniGen，可以使用它来执行各种任务，包括但不限于文本到图像生成、主题驱动生成、身份保留生成、图像编辑和图像条件生成。OmniGen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=2&amp;sn=abd2b31fb9f16f038e4bf790b3521c0a&amp;chksm=fd38baa4e4e1de996e775471047d00e83da572de22b61f69c56c49411761f1786fb882b7002c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NeurIPS2024 | OCR-Omni来了！字节&amp;华师提出统一的多模态生成模型TextHarmony。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUw9icM2HlibUyI4RtyIsiaB9FOY9taoKCFlibTeImBZT585GC3ias7FialR6UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，赋予机器类人的图像文字感知、理解、编辑和生成能力一直是研究热点。目前，视觉文字领域的大模型研究主要聚焦于单模态生成任务。尽管这些模型在某些任务上实现了统一，但在 OCR 领域的多数任务</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=3&amp;sn=9821b297fc93dd6351a7ca88002155fb&amp;chksm=fdcb7867cbd617d238bf53a1ebb94e79f2b0faf0c3aa85d6223595757b67437f32eb34dd6d01&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -222,134 +273,6 @@
       
 
       <pubdate>Sat, 02 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Flux Lora｜可以和二次元合影啦！RealAnime-Detailed V2，可将动画与真实人物风格融合！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUwqgvk05w7f8uadCgfhevafdaLgHvO27pEwiaeOFibIj2ibunwDjv1xj7oQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个很有意思的flux Lora：RealAnime-Detailed V2，可以合成二次元和真实人物混合的图片！它一个使用LoRA技术开发的Flux模型，专注于将动画角色与真实人物风格</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488702&amp;idx=1&amp;sn=70107543f5c0ecbb94ec501b8f18468a&amp;chksm=fdcdf3ed3dfa9f13dbb3c6b4eb3b0e2e2c9f5470222953cacd16d27fafd28626aa6cc34621a3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[免费开源 AI 证件照制作工具：HivisionIDPhoto，文章附下载和使用教程。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emVz5IyibD56YfAMqS63ibnE79C90fGSNkrr3zcFjBAhZUiaoYiavM4pxriaRyhXia9icULucAbSTWvL812w/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐 GitHub 上一个轻量级的 AI 证件照制作工具：HivisionIDPhoto。实现了对多种用户拍照场景的识别、抠图与证件照生成，并提供不同尺寸规格的标准证件照。感兴趣的小伙伴可先</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488702&amp;idx=2&amp;sn=00801667fb4311c409904ba0eae09bb6&amp;chksm=fd9a9143659ad5b05812f514b2335dd70adf4ea8369474e114e9732c54768d23ef4280031f86&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CustomCrafter，可保留动作和概念合成功能的定制视频生成框架！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emy0sTwEr46sY1TPQUca24qEr6a2p0foxbK63246N9Qkew62Ao8GWBjoAlibINQt95oRPfFzA5ia4wA/300?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯联合浙大提出了一种定制化视频生成框架-CustomCrafter，它能够基于文本提示和参考图像生成自定义视频，同时保留运动生成和概念组合的能力。通过设计一系列灵活的模块，使得模型实现了无需额外视频</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488702&amp;idx=3&amp;sn=4fb3dd74b48a215afa43a62ee653c9b1&amp;chksm=fda2d958a46a4c6b3378ca46b1f37ad3aa0b7dd2be24cba639fa38c4791c50c47ca37a08b1ca&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Glyph-ByT5-v2，支持10国语言图文海报生成，效果惊艳！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekUlTbakAQ9PkRVtjuPOYtMklfrlDVxgTLUqQxQB6Xzp3hd7zxxMa0HXnBhpURAxPhMlClBWcF7eQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>清华&amp;北大&amp;微软&amp;利物浦大学联合提出Glyph-ByT5-v2这款工具支持多语言图文生成，包括英语、中文、日文、韩文、法文、德文、西班牙文、意大利文、葡萄牙文和俄文。以下分别展示中、英、日、韩图文的视</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488702&amp;idx=4&amp;sn=5a7939b9d1925e89f8558fc4dd96d69e&amp;chksm=fdb06100462eba112fcde0c50b4ff3c93d19961788711f4b4c1ee8bc99528a255c94ba44aaaa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[阿里巴巴推出升级版AI翻译工具：Marco MT 性能超越Google、DeepL和ChatGPT]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekDYMeOJw6PMrPrgUmBfVvICGVGwvK1ZowHkm5otQN1GWBq1oKgOpXCvFcU6T8e0WgLCSBUqvcfmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里巴巴的国际业务部门于推出了一款升级版的AI翻译工具，名为Marco MT。这款工具在翻译性能上超越了Google、DeepL和ChatGPT的同类产品。该工具的目标是帮助商户更好地在全球市场销售，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488701&amp;idx=1&amp;sn=f0e0cb37d36aa42baf94d3f364d36589&amp;chksm=fd9800798a6f3705c79c21e2d26ea5fc57dada8e46537196a78e3d3b72f52bd0138b13cd91c3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 31 Oct 2024 22:11:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[UIUC提出InstructG2I：从多模态属性图合成图像​，结合文本和图信息生成内容更丰富有趣！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZqBubdMgx3yBMfDK8JGL4YYX3hw4kJVRCHjFaqvVYYc7nEPXjibpCEug/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍的这项工作是伊利诺伊大学厄巴纳-香槟分校的研究者们提出的一个新任务 Graph2Image，其特点是通过调节图信息来合成图像，并引入了一种名为InstructG2I的新型图调节扩散模型来</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488701&amp;idx=2&amp;sn=2d5783cb36385536df2759642354117f&amp;chksm=fdbd12834e1417a1b08e002d76ef94d0eefe212d170a8035da44e62deb112e97eb370b1ecfda&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 31 Oct 2024 22:11:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[港大和字节提出长视频生成模型Loong，可生成一分钟具有一致外观、动态和场景过渡的视频。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eny4Iriba5NSXkHvLxicLITJD5gFTkWLoBqMSNfUicQxXgibIh9n6vokK5ia5EOh7ZDJLVHGEsbaLz86XA/300?wxtype=jpeg&amp;wxfrom=0"/><p>HKU, ByteDance｜⭐️港大和字节联合提出长视频生成模型Loong，该模型可以生成外观一致、运动动态大、场景过渡自然的分钟级长视频。选择以统一的顺序对文本标记和视频标记进行建模，并使用渐进式</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488701&amp;idx=3&amp;sn=9bf506f3fabe0199361a53a5868384a7&amp;chksm=fd2177eb6b71d6b9b1c6c3af545e06684f31493f36641bb5fc15e0f57c24e513d1d2e753676d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 31 Oct 2024 22:11:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ScribbleDiff：使用涂鸦精细引导扩散，实现无需训练的文本到图像生成。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en4dVnOT75Vve5gBZeAMAcqnHFQnQNTu2jZ3gdtvtEhgfeuBiawdPpo4eRXb4xIj7t0TCyfMVB3Rhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>ScribbleDiff可以通过简单的涂鸦帮助计算机生成图像。比如你在纸上随意画了一些线条，表示你想要的图像的轮廓。ScribbleDiff会利用这些线条来指导图像生成的过程。首先，它会分析这些涂鸦，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488701&amp;idx=4&amp;sn=27a4add445756a40a03fe744b202923a&amp;chksm=fd09450a8a6006c2fde53a5bb6215ad48682978e8c6639704b0dc1d2c21ecd101813dc0138ea&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 31 Oct 2024 22:11:00 +0000</pubdate>
       
 
     </item>
