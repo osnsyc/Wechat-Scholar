@@ -45,28 +45,77 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[3D服装生成新SOTA！谷歌和CMU提出FabricDiffusion：可将织物纹理从单个图像迁移到3D服装]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUwdDAlYv2ITgdKDOu7W8riapJOLuXkDL8cFpr3uMCxGiaooqI4z7Zcl4cQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>3D服装生成新工作！谷歌和CMU提出FabricDiffusion：一种将织物纹理从单个服装图像迁移到任意形状的 3D 服装的方法。FabricDiffusion性能表现SOTA！同时可以泛化到uns</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488816&amp;idx=1&amp;sn=ce5b99fc9eef591e2d2a32e18685b23a&amp;chksm=fdfb5d58fe40c7553a28295a84c1b7d5e754009ce4a1b03645486a200a0ffae0180afd997908&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 10 Nov 2024 01:19:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[告别大头娃娃，东京大学开源数字人TANGO：能根据目标语音音频生成同步全身手势的视频。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en6pFnDNvWHLiaftE66MEoWpW84gLODaQtSQ9LfJlyThsRQM3P6M7VVqstMXBRlYemO0FShZxQIGrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>目前已经有很多面部和唇形同步的数字人项目了，但大多只支持头像和上半身，前几天介绍的Hallo2音频驱动图像生成视频小伙伴们都非常关心，后台也有留言问有没有支持全身视频生成的方法。开源EMO再升级！复旦</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488816&amp;idx=2&amp;sn=9505a3a55ca42f7d92faa5ae63112ded&amp;chksm=fd5c5b9addd27fc9815a9cac470974e71b04eaf0728295a60310a16f8c927488b87a349c40b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 10 Nov 2024 01:19:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[超级智能“试衣镜”！GarDiff：高保真保持目标人物特征和服装细节，虚拟试穿技术新SOTA！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUN5oqyRgSButjKACUwRIef94PhQmUMcfJSkj4W9NicELKlw377icJuhpfjx2VUNPWKHMM0Gqib5Eg/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍了很多关于虚拟试穿的文章，本公众号也总结了虚拟试衣专题在公众号菜单栏，感兴趣的小伙伴可以在公众号内搜索“虚拟试衣”阅读～今天给大家介绍一个最新的虚拟试穿技术GarDiff，它可以分析</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488816&amp;idx=3&amp;sn=6e2618dabeac5fd5b822c59df894a492&amp;chksm=fdc18973ba2f4374fac3decc02efd056fb681c2a927776c26cdf53afbb42170bdc56c98183d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 10 Nov 2024 01:19:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[GarmentAligner，解决服装生成中语义对齐、数量、位置和相互关系等问题。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek9OAibiaD8uzvEUOVyfeBR4Jdf4ILiayFhFoSg9mrsibicO6wic29rCpGI5ibIyargoQS8aFXOwkjoq5a1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>中山大学和联想研究院提出一个能够根据文字描述生成服装图像的智能工具GarmentAligner。它可以从已有服装图像中提取出各个组成部分，并记录下它们的位置和数量。接着根据你的描述进行匹配，找出最吻合</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488816&amp;idx=4&amp;sn=77ddbe628b51eea6da4b03d70bd1d3ed&amp;chksm=fdbac772d051d11622b849fa309e41b83c68050c6553642cc45ae1eaf80ac0dc44232c29a49b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 10 Nov 2024 01:19:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Flux LoRA | Then and Now：可将历史照片和现代场景融合，实现不同时间点的对比展示。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwa5IZKDYBAO7LLOlXfTp24Tpqlh9Q3AG0qQKRWByqvmjXWQzoSf3LVqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐一个我最近发现的特别棒的概念 LoRA 模型-Then and Now，能生成过去和现在的照片相匹配的图像，可将历史照片和现代场景融合在一个画面中，实现不同时间点的对比展示。作为概念训练</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488815&amp;idx=1&amp;sn=03a6f96aa01c56f293f6fc1861d1653d&amp;chksm=fd25cf17002f880c9d817ed398f999cc8d515b38342540e317213142b5ffdcedf2bfb8b1c84a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 08 Nov 2024 22:25:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[英伟达提出ComfyGen：通过LLM来生成匹配文本的工作流。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eny4Iriba5NSXkHvLxicLITJDqnLYd3byQhrC0bKwIGSOFEPvibmO8gTicw8bg8Y16oLT3TR7jWM7j2AA/300?wxtype=jpeg&amp;wxfrom=0"/><p>ComfyGen的核心在于通过LLM来匹配给定的文本提示与合适的工作流程。该方法从500个来自用户的多样化提示生成图像，随后使用一系列美学预测模型对生成结果进行评分。这些评分与相应的工作流程形成了一个</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488815&amp;idx=2&amp;sn=8461e5284d5af2575cdd351e1c1e34bf&amp;chksm=fd7bb8ae9c043cc72ed1417f3f69676c50a5131891fe10a04d85ea49d972dcbd0b7008f54ba9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 08 Nov 2024 22:25:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Story-Adapter：能够生成更高质量、更具细腻交互的故事图像。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZSKKULxCTzezvw8wSOvf1jqib40MePuLWQamEVrmH3RC3HsKvOkJ9S3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍过关于故事文本生成图像的相关内容，感兴趣的小伙伴可以点击以下链接阅读~字节&amp;南开提出StoryDiffusion：生成一致的图像和视频来讲述复杂故事，图灵奖得主Yann LeCun亲</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488815&amp;idx=3&amp;sn=546be76ecc65a94c2317fb1a238555d2&amp;chksm=fd5eaa4f93de7f597980d694e1cb745412fc619e6a3f3ae7ce91dd97913a06a674d1b5e3ffba&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 08 Nov 2024 22:25:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
