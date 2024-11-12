@@ -45,27 +45,71 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[腾讯发布HunYuan-3D，支持文本到3D和图像到3D，10秒即可生成高分辨率细3D模型。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elMhPFZCKibTiaBKrjL4Yql4lFH5tVlYMlAnW2RYL3JiaF4vHrEFr3z5TWpyzCAENlicH9DuH5PnpYic3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>HunYuan-3D支持文本到3D和图像到3D功能，包括网格和纹理提取在内，整个过程在 10 秒内完成。文本到 3D：用户可以通过简单的文本描述生成 3D 对象。例如，描述一片绿叶或一把棕色吉他，模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488848&amp;idx=1&amp;sn=e68202c2a057ca9f3c986de03049d2fc&amp;chksm=fd58d5fdd17b2dce1c37a44c76999ce03e69679ef7b3a657ca861ea06b118b9c54b8974024b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 11 Nov 2024 16:31:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[统一图像生成模型OmniGen：可由多模态提示直接生成各种图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enjwj4Ry2OH6auaAn9DU954RGLVLiaJQhnSsUOPiaYkiaE5VPAB4AUAtmLI24PhQm9bK4JduBhT9ZjTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个北京市人工智能研究院 提出的统一的图像生成模型OmniGen，可以使用它来执行各种任务，包括但不限于文本到图像生成、主题驱动生成、身份保留生成、图像编辑和图像条件生成。OmniGen</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488848&amp;idx=2&amp;sn=b485d9ca45a43ecc8a6e180d6b0abade&amp;chksm=fdf4b9f87d236d84f6423e17c10b8c2e374ad8feaa7e1db6d58aed12e58eea9b0df5ffc5768d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 11 Nov 2024 16:31:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图像编辑大一统？多功能图像编辑框架Dedit:可基于图像、文本和掩码进行图像编辑。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekDYMeOJw6PMrPrgUmBfVvIibC8Suae7poAtMSSVAkicNMibK5CyJB4RLSAKFiajeuqXiaiaib0vMibRiaSKCQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个基于图像和文本的编辑的框架D-Edit，它是第一个可以通过掩码编辑实现图像编辑的项目，近期已经在HuggingFace开放使用，并一度冲到了热门项目Top5。使用 D-Edit 的编</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488848&amp;idx=3&amp;sn=52d341f054e40fc3d760239bebe3fa3f&amp;chksm=fd1d9bb2f86496eb25af3c5cecbdeb6e949cb6b759e310323eff309eb29a06ea7d7c61e6aa9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 11 Nov 2024 16:31:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[文本转视频模型Allegro，可以生成长达 6 秒、15 FPS 和 720p 分辨率的高质量视频。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elXSHQPic5rJ8IBKiaNosJKl47LGniaXW6NGticOnwCibeK5T8qlic4oPfsd5XwpM5KFOOqbuSEJIUictd6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Allegro 是一个强大的文本转视频模型，可以通过简单的文本输入生成长达 6 秒、15 FPS 和 720p 分辨率的高质量视频。主要特点• 开源：完整的模型权重和代码可供社区使用，Apache 2</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488847&amp;idx=1&amp;sn=7e920fd13492baee8e07ce1fa1ee3e58&amp;chksm=fd5338152f52b31169fb2443f34daf6b646929be096615b115094c4133cb6f58501db26b7fe0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 10 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NeurIPS2024 | OCR-Omni来了！字节&amp;华师提出统一的多模态生成模型TextHarmony。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUw9icM2HlibUyI4RtyIsiaB9FOY9taoKCFlibTeImBZT585GC3ias7FialR6UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，赋予机器类人的图像文字感知、理解、编辑和生成能力一直是研究热点。目前，视觉文字领域的大模型研究主要聚焦于单模态生成任务。尽管这些模型在某些任务上实现了统一，但在 OCR 领域的多数任务</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488847&amp;idx=2&amp;sn=2f66668760c3bba06fcc7c993b9ea415&amp;chksm=fdb2b1dbd4394e63daf13dce37abbef85d3da445c8bf3040fc869302812dede1705c11b5ea53&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 10 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Adobe发布TurboEdit：可以通过文本来编辑图像，编辑时间<0.5秒！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elKcprhHqENugIHSUTwb3EOiaaqictMa8fmmNEDqsoISMhGDZH4oZmh7vtMn5sov6khPdhIypPkhDZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍Adobe研究院新的研究TurboEdit，可以通过文本来编辑图像，通过一句话就能改变图像中的头发颜色、衣服、帽子、围巾等等。而且编辑飞快，<0.5秒。简直是图像编辑的利器。相关链接项目</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488847&amp;idx=3&amp;sn=64148d8d2a1c573abeeac043dc1b0961&amp;chksm=fde83fc4064a492acd10d620182d03a053dcda595c7f741ae8dd50f97aff57c1c7316411074b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 10 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
