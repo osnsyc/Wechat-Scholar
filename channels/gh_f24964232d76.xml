@@ -39,11 +39,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[梳理下Flash Attention的dispatch逻辑（文末免费送书）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uTowcOdGauxzND6FZVjqnv9lmnWOeyMjK5R884WiaS4LKxE9lfaXscc5T9UMXdQyYqWyhIsDm5pOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x1. 前言这篇文章来源是当运行下面的对HuggingFace Qwen2.5-7B-Instruct模型使用Flash Attention的代码时，使用Nsight System工具抓取的kern</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525377&amp;idx=1&amp;sn=f6bbc1d507eb1e46924c23efcc8b3aae&amp;chksm=9e746c783f3e39fc047310aab177278a8b6f880eb566842881bbee10e6844b8e5d6ca292bd05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 12 Nov 2024 04:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[图解大模型训练系列：序列并行3，Ring Attention]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOS1A7Y59KCysq2pG4H4SfEm5rdgSy6jyfuP4vPCWvCVX4rOiaFkMmrtW3P67icdXiazVgZSoZZ8dVpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在序列并行系列中，我们将详细介绍下面四种常用的框架/方法：Megatron Sequence Parallelism：本质是想通过降低单卡激活值大小的方式，尽可能多保存激活值，少做重计算，以此提升整体</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525353&amp;idx=1&amp;sn=c2ed84380fb812198885f2f1668bc023&amp;chksm=9eaf71ed27449a1cbcd5337e8c442cd1b090d3677aa954f4942ac2ece8da9195bc7cada12e26&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 08 Nov 2024 11:20:08 +0000</pubdate>
+      
+
     </item>
     <item>
       
