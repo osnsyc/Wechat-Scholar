@@ -60,34 +60,114 @@
 
 
     <item>
+      <title><![CDATA[LSTM再升级！xLSTM杀入大模型，连超Transformer和Mamba]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJhANLL2tAvHHWZMrG0icas96G1ibQAVRttUnYdeulgoKm1esEVBYM0D5xoA9iccMxJrhmic0Cib7ONWicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>时隔27年，原作者携xLSTM回归，通过引入指数门控和修改记忆结构来增强传统LSTM的能力，不仅打破了LSTM在处理长序列和复杂依赖关系方面的局限性，并在广泛的任务和基准测试中表现出了显著的性能。为了</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445936&amp;idx=1&amp;sn=a97944f10d899eb526494c6c5496e13d&amp;chksm=bfc31c641c92aa329df26e703b8218132d5529479bb3cdae388331738c805143af27ea486737&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 02:08:47 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLaMA系列一直在假装开源...]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJhANLL2tAvHHWZMrG0icas9zh4rzwzFrRB5vialyQk2WWDzY4C8j7R2GKibYIKyhUqVPtalrBcQNoBw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：chenyi源：深度学习自然语言处理伙伴们，很奇怪~ 关于LLM的开源与闭源模型的竞争又开始愈发激烈。众所周知，开源模型以其开放性和社区驱动的特点受到一部分用户的青睐，而闭源模型则因其专业性和性</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445936&amp;idx=2&amp;sn=3ea5f1d127af2ed2ab79b721da4aa297&amp;chksm=bfbf40fede70cf1bdadbb86c64a873f6a54d8a8b4fb217e86a879886839cf8b4f3a01ad38a16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 02:08:47 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[代码大模型(二)--OpenCoder]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467gHs3ulgIHQ7ttdIuxMn0eicKnJhCRSDl3FqwwkiaMbIoyIJodibDkXPtj6KcT2HxKVVn33mXYxz65w/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近由M-A-P、无限光年、墨尔本大学、复旦大学等机构共同开发的OpenCoder开源了模型和部分数据，并且后续还会有更多资料放出。先来学习下技术报告的内容。目前各个规模和阶段的模型在 https:/</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445936&amp;idx=3&amp;sn=2de5ca87565b0f197970ecb5594efc20&amp;chksm=bff86ccfd60e97b60386fbd214daa8ae1f5fe130cd742a638b7ee4406eb6bd6b415ae4ecf58d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 02:08:47 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[AI回答，不止于文字！阿里OmniSearch与传统的一场检索较量]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagPzaaVicAu3rUaOic95GhbNnjNRV6RiaHaCmhhg3vqCzgCcxUEa5LlicU8AOYfpmRTBtzdt4jWJe8I9A/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家分享一篇阿里的文章，目前还在ICLR2025投稿中，真的很不错！这篇论文提出了一种新的自适应规划代理OmniSearch，用于多模态检索增强生成（mRAG），并通过构建Dyn-VQA数据集展</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445936&amp;idx=4&amp;sn=910b5c903b6681827970cfc2e6522dd5&amp;chksm=bf35bb0153f6ac4a45b69e0895ba94e451461f08649ff537724188186075a2e29fe323e8192b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 02:08:47 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【RAG】浅看引入智能信息助理提升大模型处理复杂推理任务的潜力-AssisTRAG]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGDwAI50wAX8Gz0nJFy83cTXJy2DZkhgTNvmbGbMrQC95cCxqzKnNxUapMsia38jtHcvfjQENhnx12Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>AssisTRAG通过集成一个智能信息助手来提升LLMs处理复杂推理任务的能力。该框架由两个主要组件构成：一个冻结的主语言模型和一个可训练的助手语言模型。AssisTRAG与之前的RAG对比1. 组件</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445936&amp;idx=5&amp;sn=c61cad09ad9a1b21ddc4b0ed84d8f1fb&amp;chksm=bff8c164a3b0e5498cf04feb10f83c73b16b7f5e4a88f8764cb07fccf3f77e41b0414cc6a528&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 02:08:47 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[免费白皮书《从头训练大模型最佳实践》]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKiabbib5RoHKibQ3CWCzNXJUHh6qZDID92CQUCxZUFWQNOslia6gZL6xs47QYljqytib33HIWRlFpTy9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍《Current Best Practices for Training LLMs from Scratch》是由Weights &amp; Biases（W&amp;B）提供的一份关于从头开始训练大型语言模型（</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445912&amp;idx=1&amp;sn=da00a8912fab02eed1f944e1c38f0818&amp;chksm=bf253ca507e98a24ed559f762b533ebaf13c12e52a10f16e809c0b0c4af5d6d840f5d084fe71&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[写的真好，万字长文串烧LLM大模型技术原理]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ1XGZYuiaicCfvVzibbpL9YbPQPuxsHfBNc9EW40NgmyXOY8UAfwt3ksRIZVxCg60lA9M2dwL47ibCqw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hadiii，北京大学 电子信息硕士在读原文：https://zhuanlan.zhihu.com/p/713794852编辑：青稞AI0 开始之前本文从Llama 3报告出发，基本整理一些现代</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445912&amp;idx=2&amp;sn=6cc12594f94c43366ea109cf7007f759&amp;chksm=bfc338ec476a6a4fe0a27b9d3a0f72e4d616e3bd4102b88dedfe73c7397bf2fa001991bffdf6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[阿里巴巴通义实验室招聘日常实习生：Qwen的RAG方向相关技术研究与落地]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ1XGZYuiaicCfvVzibbpL9YbPDOcHEcdJAW9lLC0m3yXhmuy3jt5ibmGTH4dGw9BIILEOAd68QlQrgKw/300?wxtype=jpeg&amp;wxfrom=0"/><p>研究型实习生招聘：阿里巴巴通义实验室招聘日常实习生，Qwen的RAG方向相关技术进行基础研究和应用落地，团队近几年在顶级会议ACL/EMNLP/NAACL/ICLR等发表50+篇论文，登顶多项榜单，在</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445912&amp;idx=3&amp;sn=b492e574030409beadb31b490386632d&amp;chksm=bf3bc47c1df502137b0fea8f1790c8b96f2bd2a6f0a580f4945b6a2560ffed3205b5e715202e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[UI Agents（智能体）技术综述]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AarBgY6LWZlrqFpemUkUd3n3BjRNyT6gqbzT25R8LlmibyAmn57Yc5DSC2ZXTJrD5Ij8ptQiaCLylCXiaM8fANeAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、UI Agents技术概述UI Agents 技术利用大模型技术（VLM / LLM）实现智能体对手机或电脑的自动操作，模拟人类行为完成指定任务，涵盖 Web GUI 和 Mobile GUI 等</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445912&amp;idx=4&amp;sn=ec4aa9d4db8904eff2c60ff43039e9dc&amp;chksm=bfcb55e798c80279f280b53f185c8380ff5d6c3e274c21f193496a7343d73edd8f8f20e7ea7b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[EMNLP 2024 | Better Call SAUL: 通过生成正则化实现流畅一致的语言模型编辑]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibj1ATvtMalocIq4IUhRvnjxdUuvjFsoZGk5Ow9gRFqFVsbHOeZh8ywZWFI7DZGrVEvVAUiaD3kQJZwcQLlwQ4AA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享慕尼黑大学 Prof. Hinrich Schütze 团队的一篇EMNLP 2024 Findings 短文：《Better Call SAUL: Fluent and Consistent</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445912&amp;idx=5&amp;sn=6c51509e019393b47c7548d7e3ca323d&amp;chksm=bf47de0978e3f6a1c46a80fa9de6a15245a18151060eadcb7996409ad6b8eba1c2fe50f743ec&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Nov 2024 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -406,87 +486,6 @@
       
 
       <pubdate>Wed, 06 Nov 2024 14:51:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型 vs 搜广推？算法工程师们应该如何选择职业方向？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/7YJVBU9FXkUcMWvxD2nhicLHibngXjrb5xZTBFApvou9c9ibbWHlSWu6YmlHMJumW7SibNplxJgTNSH0J3Es2icia2MQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型 vs 搜广推？算法工程师们应该如何选择职业方向？这里是「王喆的机器学习笔记」的第四十三篇文章，很久不更新了，难得今天有空，跟大家聊一聊同行们比较感兴趣的话题，算法工程师如何选择行业。选择这个话</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=1&amp;sn=1d007e9aa1cc544c44dfa5ddc3aeb61b&amp;chksm=bf496b7dd453a3306172f3550890c70c30ae73d632944b2a1e279274610ded94bbb2c76ae53f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型训练系列：序列并行3，Ring Attention]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOS1A7Y59KCysq2pG4H4SfEm5rdgSy6jyfuP4vPCWvCVX4rOiaFkMmrtW3P67icdXiazVgZSoZZ8dVpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在序列并行系列中，我们将详细介绍下面四种常用的框架/方法：Megatron Sequence Parallelism：本质是想通过降低单卡激活值大小的方式，尽可能多保存激活值，少做重计算，以此提升整体</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=2&amp;sn=9ec7b302070689f367253a6238f23361&amp;chksm=bf975d840bb9ba9e5a6f0e07a642073986b7bb00a61a8bed8bdad7148f98f4e5463848e417fe&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[阿里通义实验室LLM实习生招聘]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJUTuRzv7YuFibrNlP0lIKU5dWXgnibJZQFTtqjw8v8AOacVJk2rsbGG0BKZ8el9r9QyIfq3iam6Hhmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里通义实验室LLM实习生招聘(杭州)项目介绍：通义星尘角色对话，包括分身复刻、心理&amp;策略推理、长期记忆、社交Agent等方向，具体工作包括 CPT、SFT、DPO、RewardModel 等。‍ 职</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=3&amp;sn=0362df9e04c65c849c225157713f3a74&amp;chksm=bfa2f90b6363b4bcb0a16b103eec60a8335e6ec95ac5786fde8cf16f53ec50a95a9f97a336c5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从鼠标点击到自然语言：LLM based 文件管理系统怎么样]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaEoZB98J8rvHibVv0UCB75MsMZniblY1o9egA12ZXSrwSXxWrrSNeY2e9mB9ichq3lCzK4VZlFbZ4TQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文提出了一种基于大型语言模型的语义文件系统（LSFS），通过自然语言提示实现了更智能和高效的文件管理。论文: From Commands to Prompts:
-LLM-based Semant</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=4&amp;sn=eacaebf0a8eed8c77bd0d08539245c1b&amp;chksm=bfe3f3463e6785242b6817e02f8acb3f9cb5b84571b92fa752d23d1239ff815b69d0e673fc6c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[实测腾讯开源的Hunyuan-Large大模型，感觉。。。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nCZ2nKoiaUPic1iapfzyCdOOwzH92sb0l4A9lCYdwg88LpPITIrY2YftROrw6vTfz8tZvV3ZBxWu1xQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>下面实测内容没有任何个人观点，仅为测试结果。另外，测试用例可能不多，但都是之前常测得一些问题，今天突然发现腾讯开源混元大模型，十分震惊，腾讯也来挤开源赛道了，只能说大模型开源越来越繁华了。这次开源的主</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445797&amp;idx=5&amp;sn=e0e599861fd7f68667c83f91ee293fa8&amp;chksm=bf7c29c34324a1a634932c0eb4d1cfcf1e9e993a4eb71c00f08d55cc645a1d1b8bfe7bf6aee5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 14:39:34 +0000</pubdate>
       
 
     </item>
