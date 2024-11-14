@@ -48,23 +48,78 @@
 
 
 
+
     <item>
-      <title><![CDATA[ComfyUI-Detail-Daemon：用于控制图像生成细节的ComfyUI节点，文中附工作流下载。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elMhPFZCKibTiaBKrjL4Yql4l5tSPbWv6ISeSB5iazRTGNmX1GIWphk4G8iavT8x0dOTgM97dgvchODEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>ComfyUI-Detail-Daemon将muerrilla的sd-webui-Detail-Daemon移植为ComfyUI的节点。通过调整生成过程中的sigma值，该工具帮助用户在生成高分辨率图</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488849&amp;idx=1&amp;sn=b756cd14a1a2f7eedb739e1a67000fc3&amp;chksm=fd8ebb166dac841961b7e81bcf26a020deb05f861ca37b4c96caf5a4644e4c6b020b51204b3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 12 Nov 2024 16:12:00 +0000</pubdate>
+      <title><![CDATA[阿里发布新ID保持项目EcomID, 可从单个ID参考图像生成定制的保ID图像，ComfyUI可使用。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwazEmicf1F7ZjrxQSj4JNP3x3icluxM84Et2UYGdsdxfDOXnd9OlZYFCwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妈妈发布了一个新的ID保持项目EcomID，旨在从单个ID参考图像生成定制的保ID图像，优势在于很强的语义一致性，同时受人脸关键点控制。EcomID 方法结合了 PuLID 和 InstantID</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488850&amp;idx=1&amp;sn=8d16e99274bc4b5bc03f0e497b5bab3f&amp;chksm=fd549325f683f5b64ae025623a456a4383f87dfab475a69089ec8128438508e4b13ffb105b0e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 16:01:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Flux LoRA | Then and Now：可将历史照片和现代场景融合，实现不同时间点的对比展示。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwa5IZKDYBAO7LLOlXfTp24Tpqlh9Q3AG0qQKRWByqvmjXWQzoSf3LVqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐一个我最近发现的特别棒的概念 LoRA 模型-Then and Now，能生成过去和现在的照片相匹配的图像，可将历史照片和现代场景融合在一个画面中，实现不同时间点的对比展示。作为概念训练</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488849&amp;idx=2&amp;sn=bdc4fdc3db6368e2bd3004338b51a55f&amp;chksm=fddc6c0da6a9c8c6db63ead228fe0223442c313cac59f3d39adead18338d49caabd235debd78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 12 Nov 2024 16:12:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[​Controlnet作者新作IC-light V2：基于FLUX训练，支持处理风格化图像，细节远高于SD1.5。]]></title>
+      <title><![CDATA[​IC-light V2：基于FLUX训练，支持风格化图像，细节远高于SD1.5。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elXSHQPic5rJ8IBKiaNosJKl4zjuJBWaX5OT2Lf7ZUfribJIKIVPQd63HVFcGOR4owDUYVuia3JgZoueg/300?wxtype=jpeg&amp;wxfrom=0"/><p>IC-light V2：支持处理风格化图像“IC-Light”全称是“Imposing Consistent Light”，IC-Light 是一个操纵图像照明的项目。目前已经发布了两种类型的模型，两</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488849&amp;idx=3&amp;sn=9355a06bb63228a3ae7900ae260246f8&amp;chksm=fd7055ba3322f918687a5d0076fd692a8e78115a7a0d6e641bdb3da79ee204bcc2329e28890e&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488850&amp;idx=2&amp;sn=1523c167357fce882dba3da1b9b26978&amp;chksm=fda0b03bcdf8eab3001abdb7d8d21baa7de903183b2fe0344de52c680bf49e3294a60632e460&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 16:01:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Flux Lora｜可以和二次元合影啦！RealAnime-Detailed V2，可将动画与真实人物风格融合！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUwqgvk05w7f8uadCgfhevafdaLgHvO27pEwiaeOFibIj2ibunwDjv1xj7oQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个很有意思的flux Lora：RealAnime-Detailed V2，可以合成二次元和真实人物混合的图片！它一个使用LoRA技术开发的Flux模型，专注于将动画角色与真实人物风格</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488850&amp;idx=3&amp;sn=265311a35f91a326e9b82b03780ff4bc&amp;chksm=fdbfdc55ae193e59afa0854965c820a8a9910a11ea16cc92dbadcbc3ad1352d854897e7a241d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 16:01:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Glyph-ByT5-v2，支持10国语言图文海报生成，效果惊艳！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekUlTbakAQ9PkRVtjuPOYtMklfrlDVxgTLUqQxQB6Xzp3hd7zxxMa0HXnBhpURAxPhMlClBWcF7eQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>清华&amp;北大&amp;微软&amp;利物浦大学联合提出Glyph-ByT5-v2这款工具支持多语言图文生成，包括英语、中文、日文、韩文、法文、德文、西班牙文、意大利文、葡萄牙文和俄文。以下分别展示中、英、日、韩图文的视</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488850&amp;idx=4&amp;sn=518d4d1f7e1847aa26b7bdc5213f5f5c&amp;chksm=fdccafa78042c3c1275ed61b9df1fff595baec4d5717d894d1a6f95c8396e4198bc9d96fc5e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 13 Nov 2024 16:01:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[ComfyUI-Detail-Daemon：用于控制图像生成细节的ComfyUI节点，文中附工作流下载。]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elMhPFZCKibTiaBKrjL4Yql4l5tSPbWv6ISeSB5iazRTGNmX1GIWphk4G8iavT8x0dOTgM97dgvchODEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>ComfyUI-Detail-Daemon将muerrilla的sd-webui-Detail-Daemon移植为ComfyUI的节点。通过调整生成过程中的sigma值，该工具帮助用户在生成高分辨率图</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488849&amp;idx=1&amp;sn=b756cd14a1a2f7eedb739e1a67000fc3&amp;chksm=fd8ebb166dac841961b7e81bcf26a020deb05f861ca37b4c96caf5a4644e4c6b020b51204b3a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 12 Nov 2024 16:12:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Flux LoRA | Then and Now：可将历史照片和现代场景融合，实现不同时间点的对比展示。]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwa5IZKDYBAO7LLOlXfTp24Tpqlh9Q3AG0qQKRWByqvmjXWQzoSf3LVqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐一个我最近发现的特别棒的概念 LoRA 模型-Then and Now，能生成过去和现在的照片相匹配的图像，可将历史照片和现代场景融合在一个画面中，实现不同时间点的对比展示。作为概念训练</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488849&amp;idx=2&amp;sn=bdc4fdc3db6368e2bd3004338b51a55f&amp;chksm=fddc6c0da6a9c8c6db63ead228fe0223442c313cac59f3d39adead18338d49caabd235debd78&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 12 Nov 2024 16:12:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[​Controlnet作者新作IC-light V2：基于FLUX训练，支持处理风格化图像，细节远高于SD1.5。]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elXSHQPic5rJ8IBKiaNosJKl4zjuJBWaX5OT2Lf7ZUfribJIKIVPQd63HVFcGOR4owDUYVuia3JgZoueg/300?wxtype=jpeg&amp;wxfrom=0"/><p>IC-light V2：支持处理风格化图像“IC-Light”全称是“Imposing Consistent Light”，IC-Light 是一个操纵图像照明的项目。目前已经发布了两种类型的模型，两</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488849&amp;idx=3&amp;sn=9355a06bb63228a3ae7900ae260246f8&amp;chksm=fd7055ba3322f918687a5d0076fd692a8e78115a7a0d6e641bdb3da79ee204bcc2329e28890e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 12 Nov 2024 16:12:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -319,22 +374,6 @@
       
 
       <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[腾讯发布业界最大开源MoE模型：Hunyuan-Large，具有3890亿参数，在长文本处理、常识推理、数学能力等方面表现出色。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emo5W5SskRqTMcQ39iaLjtibd6J8s54Iu3pUT6mLLnbic6sYmEEkC7TkRkQKSSVTg6VtPoZogicQCHTgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯发布开源 Mixture of Experts（MoE）模型：腾讯混元大模型（Hunyuan-Large），这是目前在业界是规模最大的开源 Transformer 专家模型，具有 3890 亿参数</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488790&amp;idx=1&amp;sn=b99000f43374054ba84a7239ca056342&amp;chksm=fdea95e56c1b06b57aa0546ac9ffb9a37a0cc6a20cfc4355a4d55b0b1f4c6b981e047690663b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Nov 2024 16:00:00 +0000</pubdate>
       
 
     </item>
