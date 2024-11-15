@@ -45,20 +45,49 @@
 
 
 
-
-
-
     <item>
-      <title><![CDATA[ROS学习 | ROS1 Nodelets 与 ROS2 rclcpp_components 多节点运行以及功能插件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuz2c2vUlO0j90AkjMdNzMfDxKxUXqrj5FZ81UohkrJOfBw8LMGrUIKUjndJyNxiakauWgiauEhGz4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 概述在ROS1中，Nodelets和Nodes是两种不同的实现方法。Nodelets允许在同一进程中运行多个节点，从而减少了跨进程通信的开销，提高了性能。而在ROS2中，推荐使用组件（Compo</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247601235&amp;idx=1&amp;sn=3381f5ac7901c1b06944bec250aab071&amp;chksm=fa78ea7fca1a77b4f8c552833871b814b0c781eec79159d1af6b417593391af15c7a5c65618f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 13 Nov 2024 09:20:00 +0000</pubdate>
+      <title><![CDATA[新手友好 | 如何使用Tracy完成在线的性能分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuz2c2vUlO0j90AkjMdNzMfDzJ59U6L905Qw6gYUmeQicPk6zNlryv0OUUia9k5qTPErp8eiaqsmr7Pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介Tracy（https://github.com/wolfpld/tracy/releases/latest/download/tracy.pdf）是一款实时、纳秒级分辨率的混合帧和采样剖析</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247601239&amp;idx=1&amp;sn=f1e6aedf462cc2eb3296333ecca5fdde&amp;chksm=faa60bf2d83c625590b77e7b0a44ec65b175a2a1be84e441e090c1a1da6dabe827e6b9e44031&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Nov 2024 09:20:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[活动报名 | ROSCon China 2024 正式门票开售]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsNibJg4keJ69MXckGtnViaFUhmXwlGmjmmsViavvJJCzoNWo85icKzSrv1NlfOAZQMIsUOzGUvI3p7iaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>ROSCon China 2024，一场汇聚全球机器人技术精英的盛会，即将在2024年12月7-8日于上海长滩音乐厅震撼开启，带你领略一场前所未有的科技冒险！我们精心策划了一系列精彩纷呈的活动，旨在让</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247601235&amp;idx=2&amp;sn=6e00b096d43f36fb4fea10080d66838b&amp;chksm=faeabdfdefa3dd3623dd2a3344d102edb9c18939e6f5cda25b5356a7fd3a5538cc480719771b&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247601239&amp;idx=2&amp;sn=996f1153236814802073cd08aa0d16b0&amp;chksm=fafa293f9ded012c522023f5f5cbd3ef9c878b8788bb7014148753a067194ebffd228797ac70&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Nov 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[ROS学习 | ROS1 Nodelets 与 ROS2 rclcpp_components 多节点运行以及功能插件]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuz2c2vUlO0j90AkjMdNzMfDxKxUXqrj5FZ81UohkrJOfBw8LMGrUIKUjndJyNxiakauWgiauEhGz4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 概述在ROS1中，Nodelets和Nodes是两种不同的实现方法。Nodelets允许在同一进程中运行多个节点，从而减少了跨进程通信的开销，提高了性能。而在ROS2中，推荐使用组件（Compo</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247601235&amp;idx=1&amp;sn=3381f5ac7901c1b06944bec250aab071&amp;chksm=fa78ea7fca1a77b4f8c552833871b814b0c781eec79159d1af6b417593391af15c7a5c65618f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Nov 2024 09:20:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[活动报名 | ROSCon China 2024 正式门票开售]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsNibJg4keJ69MXckGtnViaFUhmXwlGmjmmsViavvJJCzoNWo85icKzSrv1NlfOAZQMIsUOzGUvI3p7iaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>ROSCon China 2024，一场汇聚全球机器人技术精英的盛会，即将在2024年12月7-8日于上海长滩音乐厅震撼开启，带你领略一场前所未有的科技冒险！我们精心策划了一系列精彩纷呈的活动，旨在让</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247601235&amp;idx=2&amp;sn=6e00b096d43f36fb4fea10080d66838b&amp;chksm=faeabdfdefa3dd3623dd2a3344d102edb9c18939e6f5cda25b5356a7fd3a5538cc480719771b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 13 Nov 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       

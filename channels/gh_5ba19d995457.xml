@@ -49,29 +49,90 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[一键将音乐转为五线谱！开源Audio Decomposition：盲源音频分离，无需外部乐器分离库。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el2gcPqyiclMWPWUZdmfKRIsDSxppmSofU02PZrmQI1n5NONe3OHl3HmsTuAGyKmonelpdSHz3fNFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家分析一个音频分解器，通过傅里叶变换和信封匹配分离音乐中的各个音符和乐器，实现音乐到乐谱的转换。将音乐开源分离为组成乐器。该方式是盲源分离，从头开始制作，无需外部乐器分离库。一键将音乐转换为五</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488882&amp;idx=1&amp;sn=868446cbd88d58055a85462e210b0d55&amp;chksm=fd8d777c84919f05512208c434eae6ee070d940542bb3b80364ce8e20f3fe23ec6040978fa01&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[做游戏不用建模了？微软提出DIAMOND：AI可根据玩家行为自动实时合成下一帧画面！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUwt2qWt9shOGw9sxyFMLh9xibEGauevCtfMZJhxjvescfqkeFTwyalPicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>DIAMOND是一个完全在扩散世界模型中训练的强化学习代理。上图显示了在扩散模型中玩耍的代理。DIAMOND的扩散世界模型还可以训练来模拟 3D环境，例如下图中的《反恐精英：全球攻势》（CSGO）。并</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488882&amp;idx=2&amp;sn=d92920dd7aee0cf57757f7969d358fd0&amp;chksm=fd09692b36e44c2168a4241933b41954a45526362562fef980081f8bb571a5fe9166bc43723a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Story-Adapter：能够生成更高质量、更具细腻交互的故事图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZSKKULxCTzezvw8wSOvf1jqib40MePuLWQamEVrmH3RC3HsKvOkJ9S3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍过关于故事文本生成图像的相关内容，感兴趣的小伙伴可以点击以下链接阅读~字节&amp;南开提出StoryDiffusion：生成一致的图像和视频来讲述复杂故事，图灵奖得主Yann LeCun亲</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488882&amp;idx=3&amp;sn=ac0041c00b6ecd76c7eb57dab8bfe70b&amp;chksm=fd022da9400c18e304213226eca326bb48d6d5b7b42b07b19995b792d543369be715a8f81f8d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 14 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[阿里发布新ID保持项目EcomID, 可从单个ID参考图像生成定制的保ID图像，ComfyUI可使用。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwazEmicf1F7ZjrxQSj4JNP3x3icluxM84Et2UYGdsdxfDOXnd9OlZYFCwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妈妈发布了一个新的ID保持项目EcomID，旨在从单个ID参考图像生成定制的保ID图像，优势在于很强的语义一致性，同时受人脸关键点控制。EcomID 方法结合了 PuLID 和 InstantID</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488850&amp;idx=1&amp;sn=8d16e99274bc4b5bc03f0e497b5bab3f&amp;chksm=fd549325f683f5b64ae025623a456a4383f87dfab475a69089ec8128438508e4b13ffb105b0e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Nov 2024 16:01:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[​IC-light V2：基于FLUX训练，支持风格化图像，细节远高于SD1.5。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elXSHQPic5rJ8IBKiaNosJKl4zjuJBWaX5OT2Lf7ZUfribJIKIVPQd63HVFcGOR4owDUYVuia3JgZoueg/300?wxtype=jpeg&amp;wxfrom=0"/><p>IC-light V2：支持处理风格化图像“IC-Light”全称是“Imposing Consistent Light”，IC-Light 是一个操纵图像照明的项目。目前已经发布了两种类型的模型，两</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488850&amp;idx=2&amp;sn=1523c167357fce882dba3da1b9b26978&amp;chksm=fda0b03bcdf8eab3001abdb7d8d21baa7de903183b2fe0344de52c680bf49e3294a60632e460&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Nov 2024 16:01:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Flux Lora｜可以和二次元合影啦！RealAnime-Detailed V2，可将动画与真实人物风格融合！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUwqgvk05w7f8uadCgfhevafdaLgHvO27pEwiaeOFibIj2ibunwDjv1xj7oQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个很有意思的flux Lora：RealAnime-Detailed V2，可以合成二次元和真实人物混合的图片！它一个使用LoRA技术开发的Flux模型，专注于将动画角色与真实人物风格</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488850&amp;idx=3&amp;sn=265311a35f91a326e9b82b03780ff4bc&amp;chksm=fdbfdc55ae193e59afa0854965c820a8a9910a11ea16cc92dbadcbc3ad1352d854897e7a241d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Nov 2024 16:01:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Glyph-ByT5-v2，支持10国语言图文海报生成，效果惊艳！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekUlTbakAQ9PkRVtjuPOYtMklfrlDVxgTLUqQxQB6Xzp3hd7zxxMa0HXnBhpURAxPhMlClBWcF7eQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>清华&amp;北大&amp;微软&amp;利物浦大学联合提出Glyph-ByT5-v2这款工具支持多语言图文生成，包括英语、中文、日文、韩文、法文、德文、西班牙文、意大利文、葡萄牙文和俄文。以下分别展示中、英、日、韩图文的视</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488850&amp;idx=4&amp;sn=518d4d1f7e1847aa26b7bdc5213f5f5c&amp;chksm=fdccafa78042c3c1275ed61b9df1fff595baec4d5717d894d1a6f95c8396e4198bc9d96fc5e9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 13 Nov 2024 16:01:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -326,54 +387,6 @@
       
 
       <pubdate>Fri, 08 Nov 2024 22:25:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[混合专家模型 (MoE) 详解]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emOmPkEN8wch4M3txAeFlUKiaJVQDmPia8vwoiccAOopcuhcVyF7mZX5Oa03m0QFQpQxO4NicicCvicnbyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着 Mixtral 8x7B (announcement, model card) 的推出，一种称为混合专家模型 (Mixed Expert Models，简称 MoEs) 的 Transforme</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=1&amp;sn=97482b175fcb34cafbe65e8ae8a1402f&amp;chksm=fd85cbfec9e615eee2d84056a0f37f66d74e7c4d9660a9e7cc1e785b0c9a1bbe9c630a9b0a48&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[统一图像生成模型OmniGen：可由多模态提示直接生成各种图像。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enjwj4Ry2OH6auaAn9DU954RGLVLiaJQhnSsUOPiaYkiaE5VPAB4AUAtmLI24PhQm9bK4JduBhT9ZjTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个北京市人工智能研究院 提出的统一的图像生成模型OmniGen，可以使用它来执行各种任务，包括但不限于文本到图像生成、主题驱动生成、身份保留生成、图像编辑和图像条件生成。OmniGen</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=2&amp;sn=abd2b31fb9f16f038e4bf790b3521c0a&amp;chksm=fd38baa4e4e1de996e775471047d00e83da572de22b61f69c56c49411761f1786fb882b7002c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NeurIPS2024 | OCR-Omni来了！字节&amp;华师提出统一的多模态生成模型TextHarmony。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUw9icM2HlibUyI4RtyIsiaB9FOY9taoKCFlibTeImBZT585GC3ias7FialR6UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，赋予机器类人的图像文字感知、理解、编辑和生成能力一直是研究热点。目前，视觉文字领域的大模型研究主要聚焦于单模态生成任务。尽管这些模型在某些任务上实现了统一，但在 OCR 领域的多数任务</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488814&amp;idx=3&amp;sn=9821b297fc93dd6351a7ca88002155fb&amp;chksm=fdcb7867cbd617d238bf53a1ebb94e79f2b0faf0c3aa85d6223595757b67437f32eb34dd6d01&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 07 Nov 2024 16:00:00 +0000</pubdate>
       
 
     </item>
