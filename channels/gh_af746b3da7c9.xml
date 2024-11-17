@@ -39,50 +39,131 @@
 
 
 
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[ICLR突发：我论文的图，但作者不是我？？？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajnTHfIN8x7q6VjrXZ1lw48qzOYUKCybP3JZpwYsP8Yn6CSN0e85oMtXMzribAHoxDdqhkYKlOGKfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Frank Guan 深度学习自然语言处理 原创最近小红书爆出了一则抄袭大瓜，涉及到南加利福尼亚大学的博二在读学生Quankai Gao(郜泉凯)和中国科学技术大学的硕士研究生Ruijie Zh</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533837&amp;idx=1&amp;sn=1d7087faab2667fad56ed138f386cd85&amp;chksm=ea8ad52618a29a2007461c029abbf539313bd7732c3c82f1467176737605ddfd46f27858c05b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 17 Nov 2024 05:08:27 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[个人从零预训练1B LLM心路历程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajnTHfIN8x7q6VjrXZ1lw484K3kLibJLzA2cy3vibWFWOuJHdtlYoN9qxOtYMdYGXnXyboTEdwEOIiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言来自：炼钢AI项目开始于2024年3月初，当时朋友搞到了一台不知道能用多久的A100。这么棒的机器放着也是浪费，就琢磨着尝试从零训练一个小型号的LLM。其实在当时就有不少些这种“从零预训练LLM”</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533837&amp;idx=2&amp;sn=aceb1d4348f3e2fedd0de6e56109c33d&amp;chksm=eaad6b98fe6f8591e6910d8c437083d786122ffc20faabb363021e097e761cbadba45f1a5fa5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 17 Nov 2024 05:08:27 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM性能优化中的一些概念扫盲]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajnTHfIN8x7q6VjrXZ1lw488QO0G9AdnuyZ0VOAUlT6FPCnsVrjfWxd0qedwGd9JW5gWZaE8KNm4w/300?wxtype=jpeg&amp;wxfrom=0"/><p>排版：吃果冻不吐果冻皮原文：https://zhuanlan.zhihu.com/p/4525257731一、MHA结构优化（效果有损）KV Cache的大小取决于模型大小（dim和layers) 和</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533837&amp;idx=3&amp;sn=d07cfbf1bc4a9a005b57c6727d166a03&amp;chksm=eae9fe6791fc2cb321a092d2e0f35a1e3c26cc01d9f0578e6969c2427c71235e8b5988f43f8b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 17 Nov 2024 05:08:27 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2024 | 基于知识编辑的大模型敏感知识擦除]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajnTHfIN8x7q6VjrXZ1lw48KzMPrOiagiajucGSzFO1O0GgQt8NBcwTzVEUzBPVOoibic7kc5ROB2djcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models本文作者：田博中（浙江大学</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533837&amp;idx=4&amp;sn=6516a9ac6b85d87c87056ddb6603a1a4&amp;chksm=ea6f3c452b515e4297c6441233edb80f4c56657cc2e56412cf7ddf5bd0ab8bf6a04e82ed95a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 17 Nov 2024 05:08:27 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型图形用户界面操作智能体(GUI Agents)综述：数据、架构、分类、应用、挑战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajnTHfIN8x7q6VjrXZ1lw4825AO63ItHaZcWRHLdJGIyibh0rVTy7duAqTB8CGFGbaQKNNoodgXGgw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：旺知识最近在基础模型，特别是大型语言模型（LLMs）和多模态大型语言模型（MLLMs）方面的进步，使得智能体能够执行复杂任务。通过利用（M）LLMs处理和解释图形用户界面（GUIs）的能力，这些</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533837&amp;idx=5&amp;sn=38d66a0e26770571b2b0600c44255a35&amp;chksm=ea707e1a03cd6c4396e1dea756aea10a9c100204f9ee7715f7b40d57827383ea1a612c56c4a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 17 Nov 2024 05:08:27 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[中科院杨万里：大语言模型编辑中的崩溃相关系列研究分享]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahAPQfmVIUfW6GBJG5TkaVqYhOygFibGBrbPLUwRW5g7ebDRu3xZ28MIn4CAricvjedm30dkw3fuElA/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题大语言模型编辑中的崩溃研究 时间2024.11.17 10:30-11:30 周日入群欢迎加入NICE每周分享交流群，在群内与分享嘉宾和观众进行深入交流讨论，并且可第一时间收到后续NICE分享报告</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533786&amp;idx=1&amp;sn=2cabbf0737921df56d89f21c37542e84&amp;chksm=ea4f77077b64031abfa024148dd0b9cc264340cdbed5d03d0cd3f40b345ba157353a99195ab4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 16 Nov 2024 06:16:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[“大模型智能体”论坛详情公布｜CIPS-LMG2024]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahAPQfmVIUfW6GBJG5TkaVq0OfaWyQonWbqrHXWjSiaT5E17VIAyCmo8eIYEPBMia6lNaibPiamNwmHuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国中文信息学会2024学术年会暨第三届全国大模型智能生成大会（CIPS-LMG 2024）将于2024年11月28日-12月1日于浙江嘉兴召开。前沿技术论坛将于2024年11月30日召开。本次大会的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533786&amp;idx=2&amp;sn=0b1c5c59137d9f7d9737bd58da50aefb&amp;chksm=eaf3f24f3c9e0a469a0e608976f8ce154cd7b34e58038642c495014dc3629a27b2f4033794ab&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 16 Nov 2024 06:16:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[“大模型安全与对齐”论坛详情公布｜CIPS-LMG2024]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahAPQfmVIUfW6GBJG5TkaVq3aMxKT90nkasKcfpCE2jB4Avk3nhRRIrlsyjBnB0iaK7SxpQ2oy2nicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国中文信息学会2024学术年会暨第三届全国大模型智能生成大会（CIPS-LMG 2024）将于2024年11月28日-12月1日于浙江嘉兴召开。前沿技术论坛将于2024年11月30日召开。本次大会的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533786&amp;idx=3&amp;sn=d7af1afe2b73cf4e10ac4cf3c7fb5b23&amp;chksm=ea7bed7484d1f3817280aaae1344aa7fd88e639cb3e1e10597fb4c19616b770982591889a1d7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 16 Nov 2024 06:16:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[“大模型与生成的评估”论坛详情公布｜CIPS-LMG2024]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahAPQfmVIUfW6GBJG5TkaVqlJGPCW9prq6czCqdlszQhjiaSLWlCbNkQVLH5736Ufk172HRNCNFmibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国中文信息学会2024学术年会暨第三届全国大模型智能生成大会（CIPS-LMG 2024）将于2024年11月28日-12月1日于浙江嘉兴召开。前沿技术论坛将于2024年11月30日召开。本次大会的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533786&amp;idx=4&amp;sn=a4a960c5382c18eab133752a86046bb7&amp;chksm=eaddc85c4694c12572306306b9268458d0b0f2a66f851634402d357a787e596b0247c5994c03&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 16 Nov 2024 06:16:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[“科学智能”论坛详情公布｜CIPS-LMG2024]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahAPQfmVIUfW6GBJG5TkaVq3aMxKT90nkasKcfpCE2jB4Avk3nhRRIrlsyjBnB0iaK7SxpQ2oy2nicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国中文信息学会2024学术年会暨第三届全国大模型智能生成大会（CIPS-LMG 2024）将于2024年11月28日-12月1日于浙江嘉兴召开。前沿技术论坛将于2024年11月30日召开。本次大会的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533786&amp;idx=5&amp;sn=a8d8bb041e9309b2ed888e0893c5b8e5&amp;chksm=eafea9c6d15388c207d77fb75b0c615d2e1bd9ba7f445d04140941440a2fcbb983a61144a3c9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 16 Nov 2024 06:16:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[“大模型搜索与推荐”论坛详情公布｜CIPS-LMG2024]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahAPQfmVIUfW6GBJG5TkaVq2Bdd5TicMAavFUkSXiaia3xn78NjqeiaRElW7cjBhPeKerbXm9XMYckBfQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国中文信息学会2024学术年会暨第三届全国大模型智能生成大会（CIPS-LMG 2024）将于2024年11月28日-12月1日于浙江嘉兴召开。前沿技术论坛将于2024年11月30日召开。本次大会的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533786&amp;idx=6&amp;sn=90c6001cbafac4d8b0efe728c25b23cf&amp;chksm=ea01a92600e7a30862eb862a0dac2a38322793e17f4ed0474558d0972e2001d5dc743156cdca&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 16 Nov 2024 06:16:27 +0000</pubdate>
+      
+
     </item>
     <item>
       
