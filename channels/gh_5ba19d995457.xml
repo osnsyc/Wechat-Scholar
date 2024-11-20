@@ -49,17 +49,39 @@
 
 
 
-
-
-
-
-
-
     <item>
+      <title><![CDATA[ComfyUI | OmniGen-ComfyUI：简化多任务图像生成和编辑操作,一键生成任意你想要的效果！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek3AzrrMoNWTaibIOp0yQxuUdhncrj6uxibR6BDtnnc5GUloGNfcX0jbZfEnkb7yqhSkm5IicnKTPlfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>还记得之前的文章中给大家介绍过的OmniGen么？感兴趣的小伙伴可以点击下面链接阅读~统一图像生成模型OmniGen：可由多模态提示直接生成各种图像。今天给大家介绍OmniGen的Comfyui实现，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488936&amp;idx=1&amp;sn=ada2232d5d2650344d0da9783f8a492b&amp;chksm=fd6b004327f85ce6e6353eab44b287dbb08100a9154108db1bc62ab916e16b1e7f3c18b44c8a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 19 Nov 2024 13:30:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[统一图像生成模型OmniGen：可由多模态提示直接生成各种图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enjwj4Ry2OH6auaAn9DU954RGLVLiaJQhnSsUOPiaYkiaE5VPAB4AUAtmLI24PhQm9bK4JduBhT9ZjTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个北京市人工智能研究院 提出的统一的图像生成模型OmniGen，可以使用它来执行各种任务，包括但不限于文本到图像生成、主题驱动生成、身份保留生成、图像编辑和图像条件生成。OmniGen</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488936&amp;idx=2&amp;sn=e215415486fc144a459a629a8a4abfe5&amp;chksm=fd1da9e4d711fe845151b4f7ea5d5dde72231a6437da1ed9141019d75255039ffa02a30ba3e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 19 Nov 2024 13:30:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图像编辑大一统？多功能图像编辑框架Dedit:可基于图像、文本和掩码进行图像编辑。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekDYMeOJw6PMrPrgUmBfVvIibC8Suae7poAtMSSVAkicNMibK5CyJB4RLSAKFiajeuqXiaiaib0vMibRiaSKCQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个基于图像和文本的编辑的框架D-Edit，它是第一个可以通过掩码编辑实现图像编辑的项目，近期已经在HuggingFace开放使用，并一度冲到了热门项目Top5。使用 D-Edit 的编</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488936&amp;idx=3&amp;sn=57812370766175d17e0f3d5335180163&amp;chksm=fd3a3f70d9a5ee03e3efb86d9ce3457f7557f2786c708dc513869df89b5c3541978645b04585&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 19 Nov 2024 13:30:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[百度发布文心iRAG技术,大模型终于知道如何去掉“AI味儿”了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek3AzrrMoNWTaibIOp0yQxuUg66Wl5pVrueNkiaPJXXZuPC7YY4zEJoVC86CSNyG385XSML8wHlKjMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月12日，李彦宏在百度世界2024大会上，发表了主题为《应用来了》的演讲，发布两大赋能应用的AI技术：检索增强的文生图技术（iRAG）和无代码工具“秒哒”。文心iRAG用于解决大模型在图片生成上的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488933&amp;idx=1&amp;sn=78ed40b60a384acfb77ca45af4241a5a&amp;chksm=fdecf2066f0832fb3acb00c5e164b94a23a66f4523a55481863c6378d65d399c74e3cafc1b50&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 17 Nov 2024 16:37:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -314,54 +336,6 @@
       
 
       <pubdate>Tue, 12 Nov 2024 16:12:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[腾讯发布HunYuan-3D，支持文本到3D和图像到3D，10秒即可生成高分辨率细3D模型。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elMhPFZCKibTiaBKrjL4Yql4lFH5tVlYMlAnW2RYL3JiaF4vHrEFr3z5TWpyzCAENlicH9DuH5PnpYic3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>HunYuan-3D支持文本到3D和图像到3D功能，包括网格和纹理提取在内，整个过程在 10 秒内完成。文本到 3D：用户可以通过简单的文本描述生成 3D 对象。例如，描述一片绿叶或一把棕色吉他，模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488848&amp;idx=1&amp;sn=e68202c2a057ca9f3c986de03049d2fc&amp;chksm=fd58d5fdd17b2dce1c37a44c76999ce03e69679ef7b3a657ca861ea06b118b9c54b8974024b1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Nov 2024 16:31:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[统一图像生成模型OmniGen：可由多模态提示直接生成各种图像。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enjwj4Ry2OH6auaAn9DU954RGLVLiaJQhnSsUOPiaYkiaE5VPAB4AUAtmLI24PhQm9bK4JduBhT9ZjTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个北京市人工智能研究院 提出的统一的图像生成模型OmniGen，可以使用它来执行各种任务，包括但不限于文本到图像生成、主题驱动生成、身份保留生成、图像编辑和图像条件生成。OmniGen</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488848&amp;idx=2&amp;sn=b485d9ca45a43ecc8a6e180d6b0abade&amp;chksm=fdf4b9f87d236d84f6423e17c10b8c2e374ad8feaa7e1db6d58aed12e58eea9b0df5ffc5768d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Nov 2024 16:31:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图像编辑大一统？多功能图像编辑框架Dedit:可基于图像、文本和掩码进行图像编辑。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekDYMeOJw6PMrPrgUmBfVvIibC8Suae7poAtMSSVAkicNMibK5CyJB4RLSAKFiajeuqXiaiaib0vMibRiaSKCQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个基于图像和文本的编辑的框架D-Edit，它是第一个可以通过掩码编辑实现图像编辑的项目，近期已经在HuggingFace开放使用，并一度冲到了热门项目Top5。使用 D-Edit 的编</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247488848&amp;idx=3&amp;sn=52d341f054e40fc3d760239bebe3fa3f&amp;chksm=fd1d9bb2f86496eb25af3c5cecbdeb6e949cb6b759e310323eff309eb29a06ea7d7c61e6aa9d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Nov 2024 16:31:00 +0000</pubdate>
       
 
     </item>
