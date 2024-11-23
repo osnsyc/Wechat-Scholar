@@ -49,17 +49,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[提点超30%的WebAgent新方法，比树搜索更灵活！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiatl9FqiaaENGHpdpayibwAJXbKYwjkJGKPMGQCZTO3icFfs3O5qEOTzr5jhiasZ5UeuD0usjGRVibuiafw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文探讨了如何利用大型语言模型（LLM）作为世界模型来增强网络代理的基于模型的规划能力。作者提出的WebDreamer方法通过使用LLM模拟每个候选动作的自然语言描述结果，并评估这些想象中的结果来</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533978&amp;idx=1&amp;sn=fcf87146f2824961a68e4dbbdf1c8d30&amp;chksm=ea5807f102f1a4060367bc513fe0fb6154ce0afad0005522b3802666bf454c492ab3a6fb572f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 21 Nov 2024 14:48:14 +0000</pubdate>
+      <title><![CDATA[探索 OpenAI O1 模型复现：从 Kimi K0-Math 到 DeepSeek R1 Lite]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagYMeVbsIFQQ9miatD9Gic6xTm9QhyGESWYBJemg1F8kiaEqPP8oul8sJjicxMuD5BZBc6PCZuic607wpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：初七123334（已授权）地址：https://zhuanlan.zhihu.com/p/8102196012最近，随着Kimi K0-Math和DeepSeek R1 Lite模型的发布，Op</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534014&amp;idx=1&amp;sn=a75f512fc44d040dee04d7e69ec8b43a&amp;chksm=ea915e85319eeb6666ac1b7448d9db9dcf01fe71b121d59a8f27c74157633c2e68aca67da430&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 22 Nov 2024 11:51:07 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[MEMO-Bench揭示现有多模态在负面情绪图片识别与生成上存在巨大缺陷]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiatl9FqiaaENGHpdpayibwAJXsNKWwkBFGSldcgAib5LxenQUXDicaFwAu0KsNJk3ncvk9UTnRchvVs0Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍了MEMO-Bench，这是一个针对文本到图像生成模型和多模态大型语言模型在情感分析方面能力的综合基准测试。MEMO-Bench包含7145张描绘六种不同情感的肖像画，并使用12个文本到图像模</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533978&amp;idx=2&amp;sn=74536c73f54efa85f11e2072a9591f04&amp;chksm=eaf8ad0dafa8682d3f57f8584028d07d47806273341fcf813a55d84680644a5cd64bf53121c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[阿里提出Marco-o1：探索开放推理模型在复杂问题解决中的应用与突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagYMeVbsIFQQ9miatD9Gic6xTH39czZpJRrsXAtVqV7xNWIDJE0wNE0JGUNuPYP2lMvuT1ql0wgibq2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文介绍了Marco-o1模型，旨在通过结合Chain-of-Thought（CoT）微调、蒙特卡罗树搜索（MCTS）、反思机制和创新推理策略，增强大型语言模型（LLM）在复杂现实世界问题解决任务</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534014&amp;idx=2&amp;sn=3a21d855f626e93e2dee47ef0a94294f&amp;chksm=ea9337bd04ad644b2992a11eea817bc678eda8715913f19564026106067a9d2588cc9ad52d30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 22 Nov 2024 11:51:07 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[提点超30%的WebAgent新方法，比树搜索更灵活！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiatl9FqiaaENGHpdpayibwAJXbKYwjkJGKPMGQCZTO3icFfs3O5qEOTzr5jhiasZ5UeuD0usjGRVibuiafw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文探讨了如何利用大型语言模型（LLM）作为世界模型来增强网络代理的基于模型的规划能力。作者提出的WebDreamer方法通过使用LLM模拟每个候选动作的自然语言描述结果，并评估这些想象中的结果来</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533978&amp;idx=1&amp;sn=fcf87146f2824961a68e4dbbdf1c8d30&amp;chksm=ea5807f102f1a4060367bc513fe0fb6154ce0afad0005522b3802666bf454c492ab3a6fb572f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 21 Nov 2024 14:48:14 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[MEMO-Bench揭示现有多模态在负面情绪图片识别与生成上存在巨大缺陷]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiatl9FqiaaENGHpdpayibwAJXsNKWwkBFGSldcgAib5LxenQUXDicaFwAu0KsNJk3ncvk9UTnRchvVs0Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍了MEMO-Bench，这是一个针对文本到图像生成模型和多模态大型语言模型在情感分析方面能力的综合基准测试。MEMO-Bench包含7145张描绘六种不同情感的肖像画，并使用12个文本到图像模</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533978&amp;idx=2&amp;sn=74536c73f54efa85f11e2072a9591f04&amp;chksm=eaf8ad0dafa8682d3f57f8584028d07d47806273341fcf813a55d84680644a5cd64bf53121c8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 21 Nov 2024 14:48:14 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -362,22 +396,6 @@
       
 
       <pubdate>Sat, 16 Nov 2024 06:16:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[EMNLP2025！苏州！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahzQ8mnIolbLxAVFKyAVZpXjIr0sPsZtCXbcqv9uibZfESlwMiadbgPSu81IF7GXtrmDUap56sWJElw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一大早被群里消息震醒了！没错，再三确定，EMNLP2025举办地花落苏州！天呐！投稿啊，伙伴们，一场属于我们的世界级social来了~</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247533759&amp;idx=1&amp;sn=69fbb510c2dab98fcdbcdc8ce6510961&amp;chksm=ea0727544ada2727f12fa5c90985d8d982c36805eb839fe6497c82623351ceb20b2849cecca9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Nov 2024 00:59:01 +0000</pubdate>
       
 
     </item>

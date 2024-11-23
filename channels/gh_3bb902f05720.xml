@@ -49,29 +49,97 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[从啥也不会到DeepSpeed——一篇大模型分布式训练的学习过程总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqKymsIpvNH8zj5aUv6CkGDYukKaeCMbEs6YoYDXFXqOHEz2Z0icBFIqv6PEPktH7icGEoNuHdmF24g/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨elihe@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/688873027编辑丨极市平台极市导读 本文总结了作者学习大模型分布式训练的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700312&amp;idx=1&amp;sn=dab45a3c1aaad9b5a7899fcdcda22aee&amp;chksm=ede9d8651f799144f6b498ea35a50779b228ef2fab382d3129902dc42ba6dfdde11a0f16e157&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 22 Nov 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS'24｜VL-SAM：北大出品，完全无训练的开放式检测分割模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqFdYNwRxw7qaGdWn7wg9mmaiaHduTibfw5r74DkgVGzAotrkfwm8pX9ibH3vgPgiarKaO3ibpwF8Zx0Ug/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨VincentLee来源丨晓飞的算法工程笔记编辑丨极市平台极市导读 本文介绍了北大研究团队提出的VL-SAM模型，这是一个完全无训练的开放式检测分割模型，通过结合视觉-</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700312&amp;idx=2&amp;sn=9316b4373a0d70db9d17524968cf2c55&amp;chksm=ed5d42782c7e65b58c7f445d1cec3d61eed15a2d3c53d8bb128c1f47d3826417c344ae4b27a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 22 Nov 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[MMRel：多模态大模型时代的评测物体间关系理解新基准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqFdYNwRxw7qaGdWn7wg9mmnDbG8eUrrIpgQttM5afvzssjUsFpVCuF2KNH7niaCqFHicnKcib3LU0xw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 MMRel是一个大规模、多领域、高质量的数据集，旨在评估和提升多模态大模型在物体间关系理解方面的能力，通过半自动数据收集流程生成，并包含挑战性子集以测</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700312&amp;idx=3&amp;sn=b8a7c47048546087748c079f3ea1d7c4&amp;chksm=edd60efe59a8105f6fe8f22cb4df8ed4535d04fa193e0019c336f3a903212361bd9d974d4ee8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 22 Nov 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[续命Scaling Law？世界模型GPT-4o让智能体超级规划，OSU华人一作]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqFdYNwRxw7qaGdWn7wg9mmt91k2ovdcLqUxF4qrvMFTlUa8rfs0PyX53CzXUTfte84GUY17LUkjw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 Scaling Law撞墙，扩展语言智能体的推理时计算实在太难了！破局之道，竟是使用LLM作为世界模型？OSU华人团队发现，使用GPT-4o作为世界模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700312&amp;idx=4&amp;sn=fa56d6320fe2742c7b1557050e87c1f5&amp;chksm=eda5bed4fc5a83c6ab68c2d8e4f2614866e2a3cf76c4ca252880034e519e3fba5f92dd0a9694&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 22 Nov 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[NeurIPS 2024｜收敛速度最高8倍，准确率提升超30%！华科发布MoE Jetpack框架]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqKymsIpvNH8zj5aUv6CkGDONIu6E6AV4pZd6v7BB8TEzxxF2ibWFtd2Zibr93t5DZ7LAcPaRR6X0iaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元编辑丨极市平台极市导读 华中科技大学的研究人员提出了MoE Jetpack框架，通Checkpoint Recycling方法和SpheroMoE结构</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700201&amp;idx=1&amp;sn=1d292fed4cbc22bdd9500602a9b7d6be&amp;chksm=edae4212e3ca604a97c3c618ffae2d34b6eb629b1ad51f076948b18b2aa3047e96b14a825bc5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 21 Nov 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[支持20+视觉任务，多项SOTA！可扩展多任务视觉基础模型LaVin-DiT：融合时空VAE与DiT]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqKymsIpvNH8zj5aUv6CkGDYs9iakeeWicibQcS11tkjCvVc5piaAiasOHEER59GQXooMLo7MV9wYq2w7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI生成未来来源丨AI生成未来编辑丨极市平台极市导读 模型通过上下文学习机制实现跨任务泛化，无需微调，展现出卓越的多任务泛化性能和高效的推理速度。 >>加入极市CV技术</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700201&amp;idx=2&amp;sn=dc7ade78537c3882ed40cf038c224850&amp;chksm=ed1187abefdb45a2c0fb68734b33b1f8ff35b56ec955d806800be2f4319aa51431bcc0e25d81&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 21 Nov 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[回顾PyTorch Eager Mode 量化 TensorRT 加速]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqKymsIpvNH8zj5aUv6CkGDIGNTTPuXI9RrVIGC0XnZ0QbLiajxFTE8lq1a1dytqujsZiamEEhvkg7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨小潘潘来源丨oldpan博客编辑丨极市平台极市导读 本文介绍了如何使用TensorRT加速通过PyTorch Eager Mode量化接口生成的量化模型，包括在PyTo</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700201&amp;idx=3&amp;sn=7cf319772106187360f7b2e81a4f95ff&amp;chksm=edd37cac19b8512e4e0ef51c92f6b48c35a334d0db80e8d008bfe754c859d74fc11f14ea65c6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 21 Nov 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[宝可梦GO「偷家」李飞飞空间智能？全球最强3D地图诞生，150万亿参数解锁现实边界]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqKymsIpvNH8zj5aUv6CkGD2LQKqeMbQFhb6michK2MuuV1GOIuWjLsf8ZdpR4jTlYqLX3Aiar53mSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元编辑丨极市平台极市导读 5年，5000万个神经网络，这个世界从未被扫描过的角落，我们都能看到了。宝可梦GO团队，竟然抢先实现了李飞飞的「空间智能」？而</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700201&amp;idx=4&amp;sn=970e17c0035c6e6378609c5e2d508b5c&amp;chksm=edb15e554ba1a02863c8d73af75ae4b98e3c1c11a2567fcab159fdb24fa004bd8f95367cd7c5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 21 Nov 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -326,70 +394,6 @@
       
 
       <pubdate>Sun, 17 Nov 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Make U-Nets Great Again！北大&amp;华为提出扩散架构U-DiT，六分之一算力即可超越DiT]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfr0iaRMITibeL7grM6KSruVjbF2qBFd8UBu2FoibV37V5nojfMHaMfiaC2n1xAibIFeuhwGicWibqNzCsBkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨机器之心来源丨机器之心编辑丨极市平台极市导读 本文提出了一种新的基于U-Net的扩散模型U-DiT，该模型通过下采样自注意力机制，在降低算力需求的同时，实现了比传统Di</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247699806&amp;idx=1&amp;sn=56429370ded3303e64da055797196749&amp;chksm=ed7f612672e182d9be7f32f22341274d9ec1c5a65fe2247c666d581108609b2d344556afef27&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Nov 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北大新作：让大模型来做peer-review结果会怎样？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfr0iaRMITibeL7grM6KSruVjbtibWMKDicqhZsDYuJUTTIxJy6iaZ1G4cP0Hiasr8htSDUlPqME4TYbbHMg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨CVer粉丝投稿来源丨CVer编辑丨极市平台极市导读 让大模型来做peer-review结果会怎样？ >>加入极市CV技术交流群，走在计算机视觉的最前沿PiCO: Pe</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247699806&amp;idx=2&amp;sn=9b7eff888c3e4102a447aa1db02fe175&amp;chksm=ed25922c0fad78894ce57065a2c5e79f00107dcc959c8fdfde55e3d6323ae9cd8f4acb4335a0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Nov 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[个人从零预训练1B LLM心路历程]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfr0iaRMITibeL7grM6KSruVjbiaKPoM8aUIrJJaSVxriclvgBPUISLqRVneQL1qxhRhcTFMlBiaKlb4mkw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨战士金来源丨炼钢AI编辑丨极市平台极市导读 从零开始预训练一个1B参数的中文LLM（大型语言模型）"Steel-LLM"的全过程，包括数据收集处理、模型设计、训练优化以</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247699806&amp;idx=3&amp;sn=b2e7fa876f337bf89ef890f21a700198&amp;chksm=edfc5bffe2f3a80f6a53afb4a04e24cc570b9683bffe824b03abab3523c6655b2a827a516d80&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Nov 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多个中国团队斩获EMNLP'24最佳论文！UCLA华人学者中三篇杰出论文，明年顶会落户苏州]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfr0iaRMITibeL7grM6KSruVjbzhibJ69yUe3TO0Aiaa8Kh8zryfZNCibERTC7jfIocIUH8eKPZ6fKyiclNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨量子位极市导读 刚刚，EMNLP 2024最佳论文奖新鲜出炉！ >>加入极市CV技术交流群，走在计算机视觉的最前沿5篇中榜论文中，华人学者参与三篇，分别来自CMU、上海</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247699806&amp;idx=4&amp;sn=a1480137936e4e96763db4bd9baf0fab&amp;chksm=ed8c1234a0fb60259a050af266cbba651468b56fa52440732aaef4435d6b5ca404311f90a330&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Nov 2024 14:00:00 +0000</pubdate>
       
 
     </item>

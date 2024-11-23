@@ -48,11 +48,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[今日开源（2024-11-22）：阿里巴巴开源推理模型Marco-o1，思维链微调&amp;蒙特卡罗树搜索，创新推理策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxMNzELXuHuQyBAHiaibwqCSEtY0HBG0ynVpWnFjkkIHD6Cktia7L0vlfE97eOC469MvaSxpicjU8J2fQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Marco-o1★Marco-o1 是一个大型语言模型，旨在解决开放性问题。它不仅关注数学、物理和编程等有标准答案的学科，还强调开放性解决方案。通过使用连续性思维(CoT)微调、蒙特</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496950&amp;idx=1&amp;sn=8599a7c3e17d272aefaf86ec9c6ea4e7&amp;chksm=c0732e4b134f787729dd1cd785e86324c5cc9570ee59c181d38ae6582e777e5a63765e2ba39b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 22 Nov 2024 10:12:23 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[今日开源（2024-11-21）：智子引擎开源Awaker2.5-VL，基于LoRA-MoE的参数高效多专家架构设计与优化]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzTKEjxKhBaMRepelx9p3VB7xzZyRXJVXrqbq7B6OK0bbiavy719WlC0bJwDX2BdS2aw2Rt3Ove0iaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Awaker★Awaker是由Metabrain AGI开发的一系列多模态大模型，包括多模态大语言模型Awaker-VL、多模态检索模型Awaker-Sou和视频生成模型Awaker</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496939&amp;idx=1&amp;sn=81ac4aa54c24f7fd5b303077cced76c4&amp;chksm=c021f92f3641a2818924f26001df4d80d71dba7682591624add692fd035973b30018300be4df&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 21 Nov 2024 10:19:46 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -115,246 +132,6 @@
       
 
       <pubdate>Fri, 15 Nov 2024 10:59:33 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-14）：DeepSeek开源统一多模态框架JanusFlow，同时处理图像理解和生成，可直接训练]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyQ3xVSbFjdLQzkc5GFG0VM576ibrhZD1fBibsjT419qPMVib1jmUQFVcwIoFw5Dqw2ZqC3giaUuaBLRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：JanusFlow★JanusFlow是一个强大的框架，将图像理解和生成统一在一个模型中。它引入了一种极简的架构，将自回归语言模型与生成建模中的先进方法——修正流相结合。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496885&amp;idx=1&amp;sn=0c865a2da61977b43f22c49fe5a759f2&amp;chksm=c0bf07b80bf5e77c4968d93cdb0f666c64bbfcab7c721ec3218997a5de4393506bf28f9a4156&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 14 Nov 2024 10:30:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-13）：LLaVA-KD知识蒸馏框架，减少计算需求，高效将大规模模型的能力迁移到小规模模型中]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwskZaLVQxGTJASgQ2qg5JIkBj3IJoicGqfcmBB9ZwVT383LSZwjC6VNtCeYTSibic0iasfeiaBfVLgReQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>3🛠️框架平台、必备工具①项目：LLaVA-KD★LLaVA-KD 是一个多模态大语言模型（MLLM）的知识蒸馏框架，旨在将大规模模型的能力转移到小规模模型中，以减少计算需求。该项目通过多模态蒸馏和关</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496873&amp;idx=1&amp;sn=b01c19706f636b62a7e4873b79bc88c4&amp;chksm=c03747abd708abaa49e910587249ab62208ee26978954068ea2680b2a333a79d9eff44a8cf6f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 13 Nov 2024 10:12:54 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-12）：通义千问Qwen2.5-Coder，全系列含0.5B至32B共6个尺寸，支持92种编程语言]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxcSePwQCgG1RnsiaOKjSXIQLCSfsxHXgicNYUC4319ONBoZz0sTbqRDa3cVPaRibW1AV9KWHyicqE9rQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Qwen2.5-Coder★Qwen2.5-Coder是由阿里云Qwen团队开发的大型语言模型系列的代码版本。该项目旨在推动开放代码语言模型的发展，提供强大、多样且实用的代码生成能力</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496863&amp;idx=1&amp;sn=1f66cb5c905668506a2739411ea002a8&amp;chksm=c064f7e657d3a3c68188929f7735a91828a73e30087861b096b4c36343db8dab5e175be05053&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 12 Nov 2024 10:10:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-11）：OpenCoder代码大模型家族，1.5/8B基础和聊天模型，支持中英文，2.5万亿token]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwI2HLl463Au07eSaA6lUQvg41Zmw7wM5hjbuTJxia4ojF3bxiaIa8uerbIcfnWeJbFXo8jgX3HkUEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：OpenCoder★OpenCoder是一个开放且可复现的代码大语言模型家族，包括1.5B和8B的基础和聊天模型，支持英语和中文。OpenCoder从头开始预训练，使用2.5万亿个t</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496853&amp;idx=1&amp;sn=58481f6ea20983b2ccef25da351e5166&amp;chksm=c05800b1aae6a2ce5da40739c4916f9f102e3a516679ee00757c21610c92504888f1c27af186&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Nov 2024 10:12:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-08）：HelloMeme图像生成模型插件，超真实多图片之间的表情迁移，兼容多种模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkypCq1Nyib1NhMpbV3XQ5VFwQibq9JfFUFLKykLe7MgBaCT8gEeEx0qibYGv1Etpax3oqcbZ4cpbS3yQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：HelloMeme★HelloMeme项目通过集成空间编织注意力机制，将高层次和高保真条件嵌入扩散模型中。该项目提供了图像和视频生成的功能，支持用户通过参考图像和驱动图像</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496842&amp;idx=1&amp;sn=8d03164dc5343e68bee494e777d94598&amp;chksm=c0973551ea6cec923a2631c65f761758ca65a9f8b609609c97620300c1f036338853d4bdd6e0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 08 Nov 2024 10:28:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-07）：浙大开源TableGPT2，7B和72B双参数版本，针对解决表格数据任务，结构化数据成独立模态]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwo7o5YHSVibyFZ3ds1oyPNFgWc4gYAZQqRneJPFJ8W6bAiblFZJuaA4pklRdIibYPOUdDluvtuKnqpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：TableGPT2★TableGPT2 是一个专为数据密集型任务设计的大规模解码器，旨在解释和分析表格数据。该模型旨在弥合传统大型语言模型能力与实际表格/结构化数据任务需求之间的差距</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496830&amp;idx=1&amp;sn=7afb469c442ee737e21e462d60afe18f&amp;chksm=c07262527f655687d08984877b4218edb25daea3f71abc63742cbca55e6367f378fb163c522b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 07 Nov 2024 10:03:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-06）：腾讯Hunyuan3D-1.0，文本与图像到3D生成框架，最快10s获得3D资产]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwictrPd3h1aXBew8x4tg9ib5l4ibWeiaiakQW4uRtibUsf6H8DsUnzXaLaRNWh6nMC420aApfXHXu109Sg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：Hunyuan3D-1.0★Hunyuan3D-1.0 是一个统一的框架，支持文本到3D和图像到3D的生成。该项目通过两阶段的方法解决了现有3D生成扩散模型生成速度慢和泛</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496820&amp;idx=1&amp;sn=a497c86b573faaed672e69d7dfe6cf8d&amp;chksm=c0984b6512976c23c3e230b68da5b44d70e9c0d0f351f92da79bfd4e1d43ff785051b9147f50&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Nov 2024 10:11:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-05）：腾讯发布Hunyuan-Large，业界最大开源MoE模型，389B参数，支持256K上下文]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwdGCX5TSWezpcyjjkyF6cWZVoYm27iamPiaopDnNCxMZp9zmj3xjyDDu6ySiaFrt6cyxTX85Vuia6FcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Hunyuan-Large★Hunyuan-Large是由腾讯开源的基于Mixture of Experts (MoE)的Transformer模型，拥有389B参数，其中5.2B为</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496807&amp;idx=1&amp;sn=07828982d460250eb829d2eb940f29b5&amp;chksm=c0bf63e2f2f4b31226112b525bf97732950195b24ae6d5b7e7618746d2fe309376891b491560&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 11:11:49 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-04）：中科院与字节联合发布DreamClear，基于深度学习技术，隐私安全优先的高性能图像修复技术]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkz67Fw3SVes2aX8bMgXjSMjkr07G1kNCs6tiaCYQDQ8ia8r4keJiandUjw1Otnl6fHJG0iahbnRb9Lmzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DreamClear★DreamClear是一个高容量的真实世界图像修复项目，专注于隐私安全的数据集管理。该项目旨在通过先进的深度学习技术，提升图像修复的质量和效率。项目提供了多种预</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496797&amp;idx=1&amp;sn=a998141b372dd9310971b01ebbfbafa8&amp;chksm=c07e05b42ff4e41ce79ad139f53846a50cfcba4301aaf6ede0934f264d9d394c5d3e06e87283&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 04 Nov 2024 10:02:20 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-01）：Meta发布MobileLLM模型代码，1B参数级高质量语言模型，零样本常识推理任务表现优异]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwHukAF66KadmGx2X1nCfatCiaiashhYY1L1JMKibdicWJ7w2NHGYMgNP1OtDKIvZVhermcrhNziaX3FOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MobileLLM★MobileLLM是Meta推出的一个针对在设备上使用场景优化的十亿参数级语言模型。该项目通过整合SwiGLU激活函数、深薄架构、嵌入共享和分组查询注意力机制等多</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496784&amp;idx=1&amp;sn=1ec1bfb9ffdb9e6eb1a8829a58d0ff34&amp;chksm=c0bca783442049e97a5a61fc112d843a1f411e74129986ed54552424081b8bc31e8429b5f718&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Nov 2024 10:39:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-10-31）：字节开源MimicTalk代码，基于NeRF技术，15分钟生成3D说话人脸视频]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkx1ToicvGzibK4icicibI9IHvNXN4NEyYyd0XLOq7F5mjukgMr5QYFcYH9F48TPvIib1iaXgEE3NRIY46Mzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：MimicTalk★MimicTalk是一个能够在几分钟内生成个性化和富有表现力的3D说话人脸的项目。该项目基于NeRF技术，能够快速训练并生成高质量的说话头像。Mimi</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496774&amp;idx=1&amp;sn=9414101cfad2503fdbed6d54113100e9&amp;chksm=c0a1a8599c55479b7e510e413991b5c5659fc7f6456bf80a035924143391d17937374619af28&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 31 Oct 2024 10:21:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-10-30）：SD 3.5 Medium开源发布，2.5B参数大小，生成从0.25到2百万像素之间的图像]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkya5xz41ia7fibq3OTibZCbeVic5gOrv4yb3atzNavygicZshTSGI8LRkBfd8AlAWEIZrubCG49jq6mbWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：SD3.5 Medium★Stable Diffusion 3.5 Medium 是一个多模态扩散Transformer模型，专注于文本生成图像。该模型在图像质量、排版、复杂提示理解</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496764&amp;idx=1&amp;sn=21fb42a618b8fd9b001108a678b2a4c5&amp;chksm=c03d2d78e0390121f31c168e2e59cb002101af880c30829935e9eabdb24a51f88636bce1784d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 10:27:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-10-29）：Meta开源LongVU大模型，过滤重复帧、跨帧token压缩，增强现实世界长视频理解]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyd36Smd0Kjqiae55WrmBPL8vOcFF9wt3pD6Y2iah0ckMKhKnRK5PP5cauFWvHkATiaxtSs6vMrljH8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LongVU★LongVU项目旨在通过时空自适应压缩技术提升长视频的语言理解能力。该项目结合了先进的视觉编码器和语言模型，能够有效处理和理解长视频中的复杂信息。项目提供了多种资源版本</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496754&amp;idx=1&amp;sn=40cf59929fcc4b099ece1a8be10f9f7e&amp;chksm=c00159cc1f83d7cf3aeec342c71677c065b8788643ce73e03fa68aa14562bcdf9ea959a1ff88&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 29 Oct 2024 10:13:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-10-28）：蚂蚁开源知识增强大模型服务框架KAG，知识图谱结合向量检索，专业知识问答表现优异]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxEmibJNKWqQkXZKLXf38ia05NXWIS35XEaVCial2DZBj8tx95h2QFUWIAGdUmHuq2DIqPIwCozTibZow/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：KAG★KAG是一个基于OpenSPG引擎的知识增强生成框架，旨在构建知识增强的严谨决策和信息检索服务。通过知识图谱和向量检索的双向增强，KAG解决了RAG技术在知识推理</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496741&amp;idx=1&amp;sn=8c11a8706f7da67cca2235c7d9257f67&amp;chksm=c0b1f70b3432c101036b0a21d9a1673c0f0a622a00ddd7eaee9dda7ebe72e0f3224e70b3d56d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 28 Oct 2024 10:15:51 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-10-25）：智谱开源GLM-4-Voice，支持中英文以及中国方言语音，模拟有情感语调的实时语音对话]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwPOkyzibnYs7yGbViatVCalbLvQgzhk0Gz1ajZy5vdAhAZXYfHxZrKJRnu0jOqXgmykdvc8BGNjY9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：GLM-4-Voice★GLM-4-Voice 是智谱 AI 推出的端到端语音模型，能够直接理解和生成中英文语音，实现实时语音对话。该模型支持根据用户指令改变语音的情感、语调、语速和</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496730&amp;idx=1&amp;sn=b208c6534a0a1990d1e570d1b1ce0fdd&amp;chksm=c00fb3627fb92fecf10fa93f3bbfd1bf068ec3c307c36e06aa7ddce1f91a8e39120e0cc15414&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 25 Oct 2024 10:23:22 +0000</pubdate>
       
 
     </item>
