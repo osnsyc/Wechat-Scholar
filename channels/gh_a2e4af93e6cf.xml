@@ -86,52 +86,181 @@
 
 
     <item>
-      <title><![CDATA[图神经网络在金融欺诈检测中的应用综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf1hL3SFEmXXibc5tw6EaJ8Qo0HEfrhSjemI3KS9LA9lw3r7Osh29BYSOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要随着全球经济一体化的扩展和信息技术的进步，金融交易的复杂性日益增加，这给金融欺诈的检测和管理带来了更大的挑战。本综述探讨了图神经网络（Graph Neural Networks, GNNs）在应对</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=1&amp;sn=2016885cb8bd3f02425483bb76c00aa5&amp;chksm=fd1e4d7d419a03b6feabf68ff83f5a370b8741d6fbf4a1f6b9bdfd93bcdc8df505f40dfe0fa4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[TNNLS 2024 | 西电焦李成团队新作：多尺度深度学习检测与识别全面综述，探寻⌈尺度⌋的过去和未来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3mSkstABCtzJ2HiaxkhHHXOnYAlDMPZibLUS3av8EJY7SicxS6wibmfsytEny9NSb6qTBIw8DLg4hA0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>文章于2024年4月发表在 IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 上：https://ieeexplore</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661053&amp;idx=1&amp;sn=6f7880e8439693f1067928bb5f58cd39&amp;chksm=fd39f1a8f07fa3e55f0436263dd5f26af9653fcd45fc37ff5a243436f6da0a08a669f11b88c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 24 Nov 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[大语言模型训练数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf19V8NmcIvoPUwCcKTTaWlXlsLDR6lX62DQHFB7cmyMj2libibSKSKLk7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>2022年，随着ChatGPT的发布，大规模语言模型受到了广泛关注。ChatGPT不仅在参数量和预训练语料库规模上远超前代模型，还通过大量高质量的人工标注数据进行微调，实现了革命性的性能突破。此类进展</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=2&amp;sn=2d6c238be07eba5790df19761f03ef3e&amp;chksm=fd78e2e64fd0ab83b3121987c9faa4bdb675c74eac8ceecfc63ff38e703cb44237bf04674eb8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【ETHZ博士论文】《结构化数据的概率模型与近似推断方法》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3mSkstABCtzJ2HiaxkhHHXOdXGcZK07r9ILL1a3s8UYBYcX1MPRoOjtxFicmJicUrOrwXhhL6icqr5kQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>概率语言在几乎所有真实或抽象系统建模的领域中都具有广泛的应用。尽管概率模型具有许多理想特性，例如能够处理不确定性、对全局系统中的边缘变量进行推理以及进行预测，但由于推断的复杂性，这些模型在实践中常常难</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661053&amp;idx=2&amp;sn=b5b34ff812b2fe88e453e1bfeef72e8c&amp;chksm=fd68c1b7673173a8bd57a430c383e85c46a2cdc004ce8e93618267fe20e3299334e8f4f3fb38&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 24 Nov 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[适应性异常检测在识别网络物理系统攻击中的应用：系统性文献综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf14ZkljbiaY3PnM5Duicw8ImeICveUmGDMflXsyOVt4Xzh4B7BiabnTialgw/300?wxtype=jpeg&amp;wxfrom=0"/><p>现代网络物理系统（CPS）中的网络攻击发展迅速，大多数现有方法主要集中于描述过去的威胁，无法有效应对这些攻击的演化。适应性异常检测（AAD）是一种极具前景的技术，专注于快速数据处理和模型适应，能够检测</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=3&amp;sn=9b22f7601a98f7228a9f68f26faf6815&amp;chksm=fd877c2e7f08a60f6c03240987d674e2919b42b1e2481c7e8c3c2d8c303bc052af52ab0ccb49&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[驾驭人机协同作战团队]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSPTWDnJzYbMdR2aeUFpqc5ECC1yq5azAliaB2OadiaFKvsGB9IsRxzbpJJwpDIz9M4SlQRVhmY3FJA/300?wxtype=jpeg&amp;wxfrom=0"/><p>许多美国最高军事指挥官预测，掌握人类与能力日益增强的人工智能算法和自主机器之间的协同作战，将为未来的作战人员提供至关重要的优势。空军参谋长表示，“掌握人机协同的军队将在未来战争中占据关键优势”。同样，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661053&amp;idx=3&amp;sn=71d11e08045975db120cbbce8601930d&amp;chksm=fda8f1530497446a663668f6b5b3a99107490c1b3da925d0492107bff4d956ea72d71868980b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 24 Nov 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[数据：联合作战的新弹药]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSF8DO7EPLcTJWTUZAdlR0GAVLQoBdYobiadZWjfgv15Rhic7ibga5icOEjTicLt6p6UK48vZMKibRdpqAQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>有时候，现有的技术会融合、变异，或者创造性地应用于战场，创造出一种独特的制胜组合。融合大量数字数据并通过作战网络进行可靠传输，是现代战场的关键要素。谁能更好地管理数据，谁就能获胜。许多新兴军事技术都与</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=4&amp;sn=ce96b4375bda6b8c90571295289c8217&amp;chksm=fd26423a37a3ff5d1311b8a0d73c2c598c52e93e34751027e8cecdff49d9758acabfb28e5591&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】《实用规范分析：使用Python优化决策制定》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3mSkstABCtzJ2HiaxkhHHXOD3wMUoAmZxQvDv9AficicbPTwh3f14tTsrVN4D7H4PPqTKMw5HL1xicnQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>《实用规范分析：使用Python优化决策制定》在任何情境下——无论是运营、战术还是战略层面——商业决策都可能带来深远的影响。批准某项行动时，其结果是积极且有利可图，还是消极并对企业、员工以及利益相关者</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661053&amp;idx=4&amp;sn=2f71b5438f6a8df45a90d75edb7f30b5&amp;chksm=fdf53d043cef32abe7931d83bf122d37c32a338529b0a1570348e96113b2fd29e47bc774c321&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 24 Nov 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【博士论文】ࣞ动态三维人体的隐式神经表示方法研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1icicvEHbt5puHY77zEvicn5Xibq2ofVFicoiaBOJt6PU89whYSiaTiagib5iaVvic1Ve4B6VK5Ly2HhxS0JgNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自浙江大学的彭思达博士论文，入选2024年度“CCF博士学位论文激励计划”初评结果！https://www.ccf.org.cn/Awards/Awards/2024-11-15/834347.sh</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=5&amp;sn=5a5c62ea68fd227829c1b64b717c750f&amp;chksm=fd376779c99e5fe7e4b3f5cd58485c157c0d49ca88598cf7b2355a891bfeb6a6e4c9c68daa83&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【NeurIPS2024】《应对在线持续学习中的合成数据污染》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3mSkstABCtzJ2HiaxkhHHXObqMgZ43XeDpiamzKaE1v7aFJicpfQrQvxHibj9OtcgeSLggKEQHJibzfbA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，生成高保真真实感图像的能力取得了显著进展，特别是随着基于扩散模型（Diffusion-based Models）的技术发展。然而，人工智能生成图像（AI-generated images）的普</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661053&amp;idx=5&amp;sn=da517e9dbd74f61563afa2aa171a52b0&amp;chksm=fd37a03e35764c9a58f2176116441e608d6f0d98986851c51b51ba772719f10dec38d0c56dc2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 24 Nov 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】动力系统的收缩理论，258页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf1G4TF2Y1Nc7dOlQH3Ho4icO5xCTmYwwiat47eaz69S5rHSPxAUK8Tft3w/300?wxtype=jpeg&amp;wxfrom=0"/><p>这些讲义为动力系统的收缩理论提供了数学上的入门介绍，特别强调了在网络多智能体系统、单调动力学和半收缩系统研究中出现的连续时间微分方程。本文档为2024年8月1日发布的1.2版本。讲义涵盖的内容包括：(</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=6&amp;sn=baebd2814bafa3e99e3feedfc7ac5254&amp;chksm=fdb18c395e4de85f573d8c1dddd1bb521567a90e00b51afce38d6cc48d478e6bd5182f54543a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[基于多智能体强化学习的博弈综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3mSkstABCtzJ2HiaxkhHHXOnztvMh1T7H5JxRnBsthrricJfzAyPqmXyZoic9suPNEb95nibVib6ZCjag/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要: 多智能体强化学习作为博弈论、控制论和多智能体学习的交叉研究领域, 是多智能体系统研究中的前沿方向, 赋予了智能体在动态多维的复杂环境中通过交互和决策完成多样化任务的能力. 多智能体强化学习正在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661053&amp;idx=6&amp;sn=970c9df43fdf462fab7698bb85c4e6ab&amp;chksm=fda2f74038bb7ad9181bde29cc33b47c43e6d102b767c0c2884d6bced81b40e2b5a0a709be18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 24 Nov 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[边缘人工智能的联邦持续学习：综合综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf1XP8osaKLRm4Y4UcovVZ3c4I8WFmKwsfMia45jyhVUEk4fREZjEbDEyw/300?wxtype=jpeg&amp;wxfrom=0"/><p>边缘人工智能（Edge-AI）是边缘计算与人工智能（AI）相融合的一种前沿范式，它能够在靠近用户的网络边缘部署先进的AI模型。联邦持续学习（Federated Continual Learning, </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=7&amp;sn=05d0fc177dee44ca460997b412258304&amp;chksm=fd3c0145bc00fff77c4ea40fb464e4319b0dcd905398c1fcd1c4623c264f70388e1598a0a92f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[多智能体强化学习控制与决策研究综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3mSkstABCtzJ2HiaxkhHHXOviafBm5mh4dFF9suFKhiaSHiavfsf6Dg30ZX2L3aN99FPOEjgOVbZ9Lqg/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习作为一类重要的人工智能方法, 广泛应用于解决复杂的控制与决策问题, 其在众多领域的应用已展示出
+巨大潜力. 近年来, 强化学习从单智能体决策逐渐扩展到多智能体协作与博弈, 形成多智能体强化学习</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661053&amp;idx=7&amp;sn=a1fcaacf05fd59c53296491ce699d470&amp;chksm=fdda191b992f045a3c93da0ef39b662b7963111dbfca1c6c377c0375bc98b267ca31f28d2174&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 24 Nov 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=8&amp;sn=6e856a114ccdedfe18df17aeffd8ce21&amp;chksm=fd7e6b151b3630d3534c427cafff3f47c195d4e21d628716cf94d5888afbe4d35b86bd36cdc5&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661053&amp;idx=8&amp;sn=8a20d4881d7c808984a50cf30bdd06b5&amp;chksm=fdbd221afb5a50c66f3a9aa2bf6f091bdf96db531da0ab6a4fbed3a9a8843b2439b485ff4774&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 24 Nov 2024 03:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[图神经网络在金融欺诈检测中的应用综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf1hL3SFEmXXibc5tw6EaJ8Qo0HEfrhSjemI3KS9LA9lw3r7Osh29BYSOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要随着全球经济一体化的扩展和信息技术的进步，金融交易的复杂性日益增加，这给金融欺诈的检测和管理带来了更大的挑战。本综述探讨了图神经网络（Graph Neural Networks, GNNs）在应对</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=1&amp;sn=2016885cb8bd3f02425483bb76c00aa5&amp;chksm=fd1e4d7d419a03b6feabf68ff83f5a370b8741d6fbf4a1f6b9bdfd93bcdc8df505f40dfe0fa4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大语言模型训练数据]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf19V8NmcIvoPUwCcKTTaWlXlsLDR6lX62DQHFB7cmyMj2libibSKSKLk7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>2022年，随着ChatGPT的发布，大规模语言模型受到了广泛关注。ChatGPT不仅在参数量和预训练语料库规模上远超前代模型，还通过大量高质量的人工标注数据进行微调，实现了革命性的性能突破。此类进展</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=2&amp;sn=2d6c238be07eba5790df19761f03ef3e&amp;chksm=fd78e2e64fd0ab83b3121987c9faa4bdb675c74eac8ceecfc63ff38e703cb44237bf04674eb8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[适应性异常检测在识别网络物理系统攻击中的应用：系统性文献综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf14ZkljbiaY3PnM5Duicw8ImeICveUmGDMflXsyOVt4Xzh4B7BiabnTialgw/300?wxtype=jpeg&amp;wxfrom=0"/><p>现代网络物理系统（CPS）中的网络攻击发展迅速，大多数现有方法主要集中于描述过去的威胁，无法有效应对这些攻击的演化。适应性异常检测（AAD）是一种极具前景的技术，专注于快速数据处理和模型适应，能够检测</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=3&amp;sn=9b22f7601a98f7228a9f68f26faf6815&amp;chksm=fd877c2e7f08a60f6c03240987d674e2919b42b1e2481c7e8c3c2d8c303bc052af52ab0ccb49&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[数据：联合作战的新弹药]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicSF8DO7EPLcTJWTUZAdlR0GAVLQoBdYobiadZWjfgv15Rhic7ibga5icOEjTicLt6p6UK48vZMKibRdpqAQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>有时候，现有的技术会融合、变异，或者创造性地应用于战场，创造出一种独特的制胜组合。融合大量数字数据并通过作战网络进行可靠传输，是现代战场的关键要素。谁能更好地管理数据，谁就能获胜。许多新兴军事技术都与</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=4&amp;sn=ce96b4375bda6b8c90571295289c8217&amp;chksm=fd26423a37a3ff5d1311b8a0d73c2c598c52e93e34751027e8cecdff49d9758acabfb28e5591&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【博士论文】ࣞ动态三维人体的隐式神经表示方法研究]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1icicvEHbt5puHY77zEvicn5Xibq2ofVFicoiaBOJt6PU89whYSiaTiagib5iaVvic1Ve4B6VK5Ly2HhxS0JgNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自浙江大学的彭思达博士论文，入选2024年度“CCF博士学位论文激励计划”初评结果！https://www.ccf.org.cn/Awards/Awards/2024-11-15/834347.sh</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=5&amp;sn=5a5c62ea68fd227829c1b64b717c750f&amp;chksm=fd376779c99e5fe7e4b3f5cd58485c157c0d49ca88598cf7b2355a891bfeb6a6e4c9c68daa83&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】动力系统的收缩理论，258页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf1G4TF2Y1Nc7dOlQH3Ho4icO5xCTmYwwiat47eaz69S5rHSPxAUK8Tft3w/300?wxtype=jpeg&amp;wxfrom=0"/><p>这些讲义为动力系统的收缩理论提供了数学上的入门介绍，特别强调了在网络多智能体系统、单调动力学和半收缩系统研究中出现的连续时间微分方程。本文档为2024年8月1日发布的1.2版本。讲义涵盖的内容包括：(</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=6&amp;sn=baebd2814bafa3e99e3feedfc7ac5254&amp;chksm=fdb18c395e4de85f573d8c1dddd1bb521567a90e00b51afce38d6cc48d478e6bd5182f54543a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[边缘人工智能的联邦持续学习：综合综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0x9x4TqsnNTvUb3jj6mxf1XP8osaKLRm4Y4UcovVZ3c4I8WFmKwsfMia45jyhVUEk4fREZjEbDEyw/300?wxtype=jpeg&amp;wxfrom=0"/><p>边缘人工智能（Edge-AI）是边缘计算与人工智能（AI）相融合的一种前沿范式，它能够在靠近用户的网络边缘部署先进的AI模型。联邦持续学习（Federated Continual Learning, </p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=7&amp;sn=05d0fc177dee44ca460997b412258304&amp;chksm=fd3c0145bc00fff77c4ea40fb464e4319b0dcd905398c1fcd1c4623c264f70388e1598a0a92f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660987&amp;idx=8&amp;sn=6e856a114ccdedfe18df17aeffd8ce21&amp;chksm=fd7e6b151b3630d3534c427cafff3f47c195d4e21d628716cf94d5888afbe4d35b86bd36cdc5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 23 Nov 2024 03:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -770,135 +899,6 @@
       
 
       <pubdate>Mon, 18 Nov 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【新书】SLAM手册从定位与建图到空间智能，194页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RyVmLqlB1VEz1CTMOzib1ebPG8FFhJXhx47LcsUyabAyNCksrZTKMU8lmK4LUELOf4eRnMtPibldQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本章介绍了同步定位与建图（SLAM）问题，展示了构成典型SLAM系统的模块，并解释了SLAM在自主系统架构中的作用。本章还对该主题提供了简短的历史回顾，并讨论了传统SLAM概念如何随着新技术趋势和机遇</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660738&amp;idx=1&amp;sn=b6e93b7e7bab19c404cb0ea41a7f1284&amp;chksm=fd662724da73cfcf4b88f84a6360e8e967e75ddd4b56a465b39b6a3a4bda8fb65d59a72ea06b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【阿姆斯特丹博士论文】优化、博弈与泛化界，208页pdf]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RyVmLqlB1VEz1CTMOzib1ezfuJPzMMHwLticVqibWD8NvM63LIMg4OUiag3gniaHOeIu4ibPytAGWic8uw/300?wxtype=jpeg&amp;wxfrom=0"/><p>本论文探讨了理论机器学习的多个方面，特别是关于优化、博弈论和泛化界的研究。因此，论文分为三个部分：第一部分 关注机器学习中的优化问题。具体而言，我们为介于随机学习和对抗学习问题之间的在线凸优化问题提供</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660738&amp;idx=2&amp;sn=2d854acc9d9de94d15ec851a9b8e10aa&amp;chksm=fd36d3b5fa4f757c6ea8849cf7bb895fdacacb90d546579ebb9263e128f17c515c09088d8f3a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《你所需要知道的理论：人工智能、人类认知与决策》牛津大学最新53页报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RyVmLqlB1VEz1CTMOzib1eMGfW19WatzaUbESI8hE2b3Q3q3qKUyVCYb4AWcLzz74Cib82C8icaubQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>现在，人工智能（AI）在一系列涉及高层次推理和思考的游戏、测试和认知任务中，都能与人类智能相媲美，甚至更胜一筹。许多人认为，在涉及高层次认知、判断和决策的情况下，人类应该--或者很快就会被人工智能所取</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660738&amp;idx=3&amp;sn=67d4078d965c9294037df4e7f93213e5&amp;chksm=fddfde1586a35c2b407ed8f0eb1dd157bdb0c0826b27ec38e8729cadb9c21c26184665030fe4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[人工智能如何改变无人机？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTP9LwPZ1RzoJZVA9LXQoOiciaehSRa02q1EDfAZ0W0hqPKfEU5ZecaibfwaOOCNia8L2JtibGaUvLsBRQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>无人机在田野、城市甚至战场上空飞行已经有一段时间了。但是，人工智能（AI）与无人机的结合将一切提升到了一个全新的水平。人工智能赋予了无人机自主决策、更智能地飞行以及完成以往不可能完成的任务的能力。图：</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660738&amp;idx=4&amp;sn=2eaf6ab33f76295a4a57c4f92864c6cb&amp;chksm=fd440a5a10c0bbee39d75fbd4f66d4ae96d4f9ae14c92c8eb2bc979af67a161b5cd0e2ffdf12&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《面向无人机控制：将5G 通信集成到多链路网络中》最新93页]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RyVmLqlB1VEz1CTMOzib1e0ZCIdlPG1V414Chu6epdgWcv02AzaKD7W1AicCyXibuFZl0KddSgSxwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>数据分发服务（DDS）是一种中间件协议，也是无人系统中内聚通信的主要候选协议。早先工作提出了一种包含 SATCOM 和 WiFi 链接的网络架构。本文通过将 5G 通信与 DDS 集成，扩展了先前研究</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660738&amp;idx=5&amp;sn=ff29e1735249647eaf55a02a21d13a04&amp;chksm=fd6df6ca08269b19aef8f2703566b6934e049c0c4611ee9ea9778ed796b28de0e273efb57e30&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[面向 AIoT 的协同智能综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RyVmLqlB1VEz1CTMOzib1eibbmiaelonDFgNygGBzicC2z2MiaQf3N39FrmTwics5f0YvNhpkcGwVdIEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习和物联网的融合发展有力地促进了 AIoT 生态的繁荣. 一方面 AIoT 设备为深度学习提供
-了海量数据资源，另一方面深度学习使得 AIoT 设备更加智能化. 为保护用户数据隐私和克服单个 A</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660738&amp;idx=6&amp;sn=c1f30aac8424a25c8c3c69ef2f19bfee&amp;chksm=fda1508947352f831776afcd99d13495b3df2090ce3600be07581c6159f1bb88a6766ca828c3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【NeurIPS2024】注意力迁移对视觉Transformer的惊人有效性研究]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3RyVmLqlB1VEz1CTMOzib1e0hkORtPLUSib0r8iaF1Ufj9ibpJ51BZBp0zb38bBicPL8muAoGzUgZYiaEg/300?wxtype=jpeg&amp;wxfrom=0"/><p>传统观点认为，通过预训练视觉Transformer（ViT）可以学习有用的表示，从而提升下游任务的性能。但这是真的吗？我们对这一问题进行了研究，发现预训练过程中学到的特征和表示并不是必不可少的。令人惊</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660738&amp;idx=7&amp;sn=b618258a1f199d9f8adf2a6e58544e64&amp;chksm=fd842f06bb6bac5c35ba7dda64cb7b134a12adf426fa1049cf966e4b4ca2f24706abe7272591&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247660738&amp;idx=8&amp;sn=9f4e7982e9469a9ac64a1aa5bd62b347&amp;chksm=fdc01cba396a40a02443ca3810cd259076703e3d3e65cedc7ce89c885f6f5315f0ab922280f4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 03:00:00 +0000</pubdate>
       
 
     </item>
