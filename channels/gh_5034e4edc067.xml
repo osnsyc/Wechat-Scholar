@@ -52,34 +52,114 @@
 
 
     <item>
+      <title><![CDATA[开源！Transformers 快速入门书]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJS7qhNsT6qCjBDA3SLCPvo3Y01NCoaRibxfrolxY7iaE3IF3KN348iar6s22rIslRN1xyOAC6ZSyymQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，随着 BERT、GPT 等大规模语言模型的兴起，越来越多的公司和研究者采用 Transformers 库来构建 NLP 应用。从 BERT 和 GPT 模型取得重大成功之后， Transfor</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446091&amp;idx=1&amp;sn=2dd56ff9aa7905caafcd302f5c1c3cff&amp;chksm=bfae135963be150fbed0ef4ede6475c7c62322d73df8b846e642e964a225980e8e8681bd24b0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[万字长文，大模型分布式训练的学习过程总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJqdSN91vD15iaLpicVy6KqUjavGeoPr6mVNaIhmwEicEZgdRAAF6249bIwKgz5Sce4dPM2QlrK9ZZCg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨elihe@知乎 注解：仅用于学术分享来源丨https://zhuanlan.zhihu.com/p/688873027编辑丨极市平台导航Stack for AI专栏：https://www.z</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446091&amp;idx=2&amp;sn=9abad58c54d3d905a6f0b942221587a3&amp;chksm=bfc7ccb8a39cccad7de75cefab4847b87f01fc7cceb4f7936fb445cd18030e72b2d1aadcdc44&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[阿里Marco-o1推理大模型技术报告解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuxpB9taq8yyz4SDBc3F3H6ND3ibdspKxQf5NfgUia6KZRB9jHib2EliayVcE1cl7VKMdCzDsdGoia4ib2RA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：青云遮夜雨链接：https://zhuanlan.zhihu.com/p/8752961062前言OpenAI 最近推出了开创性的 o1 模型，以其卓越的推理能力而闻名。该模型在 AIME 和 </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446091&amp;idx=3&amp;sn=d37a88b32adf7f3ff61f13869a46eed9&amp;chksm=bf8310fb30f780069a39dd47fca1778877b23076c5c5db3d8424f61633f3dc615d578db4a746&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[投机解码中高质量draft tokens不该被拒绝]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaJ1z6xvIXpgHC2eibAwFeRVpVDdcvia74Yiagupia6H70B2KPtocCTnMqDh5HibM7UY6VL2FYhqickOVIQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>💡ICLR25的8/8/10/5的高分工作，确实值得读一下！论文：Judge Decoding: Faster Speculative Sampling Requires Going Beyond M</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446091&amp;idx=4&amp;sn=ffa565cf5525e593d5bb7488823daeef&amp;chksm=bfc1789b92f1cf96918f12aabc230446631283df60bc9010c7e906e7712f93c63dbe164a1805&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[凑个热闹，测试一波DeepSeek新上的o1推理模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kDibADpzOCECibyFLcIUOeqX0yV7utugBSxJ3fbBKXbgp1ZeLPE2A2wuQagM6RHvyM93Zek16WFUibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>自从openai的o1出来之后，各大厂都在默默发力，几个月了，国内也开始有o1模型了。前两天，有kimi的 k0-math模型视频露出，昨天deepseek就来个大的，直接发布线上可测试的r1模型（每</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446091&amp;idx=5&amp;sn=6a1990cef88be025934213cc607b820c&amp;chksm=bf9624669c2bd44334674f8ae51698686079641984d8540de861381652625b01c76b85b37e31&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Nov 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[特朗普上台，第一刀再次扎在了留学生身上。。。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJS7qhNsT6qCjBDA3SLCPvov1d2nQGiaBrDkxYrbSJp3NibD1StCg2HGKNWKNw8bicewQyz3xlaEVWVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>还没正式上任，经验丰富的特朗普已经开始布局了。业内人士分析：结合大选后的一系列动作，“准总统”特朗普的系列动作可能已经箭在弦上。关于“大幅调整美国移民政策”的前路，也已经基本清晰，大概率要有大改革。美</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446077&amp;idx=1&amp;sn=d50b13aa52ebef2ee01f8741161ee603&amp;chksm=bf652920e726d60cf4be7ec27673df1eae2e6984982ae44037777833a609e2f53b1d3a3178b6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Nov 2024 13:40:54 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[探索 OpenAI O1 模型复现：从 Kimi K0-Math 到 DeepSeek R1 Lite]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagYMeVbsIFQQ9miatD9Gic6xTm9QhyGESWYBJemg1F8kiaEqPP8oul8sJjicxMuD5BZBc6PCZuic607wpA/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：初七123334（已授权）地址：https://zhuanlan.zhihu.com/p/8102196012最近，随着Kimi K0-Math和DeepSeek R1 Lite模型的发布，Op</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446077&amp;idx=2&amp;sn=d0832754ad2f5c6fb01617f19a6f1657&amp;chksm=bf74e77e39f9c5ef21b0e3c0da2692916bd297a9e46af352abbb0b3cfcdf592d0b13492ddca2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Nov 2024 13:40:54 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[阿里云大语言模型算法研究实习生(base杭州，可直通秋招转正)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJS7qhNsT6qCjBDA3SLCPvoRE9icK7SGIegtGkc5sILMkwwhwkRY590j3PbvfdzvHUrCveMic2iaKaWw/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云大语言模型算法研究实习生(base杭州，可直通秋招转正)我们是阿里云人工智能平台（PAI）深度学习团队，专注于人工智能算法及框架开发，我们团队在深度学习各大方向都有很多的研究和算法创新工作，在顶</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446077&amp;idx=3&amp;sn=1089a3cd2f14f4eff9e8988fc28b0190&amp;chksm=bfb7c735b58685a7289d23b3dc874bc55e54a99798b3b1eeed34872ffb79e00f4b933a23210b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Nov 2024 13:40:54 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM实践系列-详聊OpenRLHF中的各种Loss]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mZ5ljdNGNXWYMRuYDvGFibggAmG8libojRt9O4FSVdknRAqhuA4uiaiauKvUCFlDFAtpZcyvtclzibMrw/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家来带好友知乎@ybq关于OpenRLHF的学习笔记，主要介绍其中的各种loss内容。作者：ybq 知乎：https://zhuanlan.zhihu.com/p/6290579087从这篇文</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446077&amp;idx=4&amp;sn=2329567c9fbb4ae055b2a4e6358dd2b9&amp;chksm=bfc792d2efbeaeeca0706db90f410aeb88a9d9dc689bbabb6a1656affb34c64447da0b75b59a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Nov 2024 13:40:54 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ICLR 2025 多语言大模型相关论文速览]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0OoHeZC4KTMkZrxzd9xYA6ibQfdqhL8CEYYlOBuFpKIuMcdPPLI4eW1rxWfXs67phKaApQ1bDExbXLQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜罗文扬机构｜中国人民大学研究方向｜大语言模型Dataset and benchmarkMMTEB: Massive Multilingual Text Embedding Benchmark</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446077&amp;idx=5&amp;sn=73ce5b06de4eb267a67322b53db798ff&amp;chksm=bf7d49c0366468451b0b51335914f28e9318a70f8cb9fc24f47ae16ec57b5430ba449cb853f7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 23 Nov 2024 13:40:54 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -270,86 +350,6 @@
       
 
       <pubdate>Mon, 18 Nov 2024 07:06:30 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[校长书记双院士！教育部副部长，任C9党委书记！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLXBLtNe9OP5LQ69DJUkgV7Pvcicy0VtoDNZMibhND5ia5ujC2NextmLEic5DczC2fslwHmT0VYx7qz9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>日前，中央批准：陈杰同志任哈尔滨工业大学党委书记。11月13日，哈尔滨工业大学召开教师干部会议。中央组织部副部长张光军同志到会宣布中央决定并讲话，工业和信息化部副部长、党组成员张云明同志，黑龙江省委常</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445994&amp;idx=1&amp;sn=ec7a85ecf4289d287e1440e9d21c5fe2&amp;chksm=bfb91da1db24b6579397c021d3d7b8e1559a912adcfc747458f2356b0603e43a45d0e666fc41&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 12:42:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【文末赠书】专补大模型短板的RAG入门与实战书来了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLXBLtNe9OP5LQ69DJUkgV7QJC3MyYyNodArhJBzmoXGxGXkhV58nfW3K86U59QwsAOoLuYKoFLxA/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末赠书RAG自2020年由Facebook AI Research推出后，一下子就窜红了。毕竟，它是真的帮了大忙，在解决大语言模型的“幻觉”问题上起到了关键作用。如今，Google、AWS、IBM、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445994&amp;idx=2&amp;sn=a70950fb59839c173634ee604d699ea7&amp;chksm=bf4d3fd02f6163083e7b63ceb92d7a008c8f9139b085769661021270f838b8e11dec21664410&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 12:42:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[人人都能看懂的RL-PPO理论知识]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMyjq7MvIma1htP55lDYuSo2Z61FZWE0KJTnub7ev5jBJxibibnX7NhEqsVVdIY5HLic0Ldrc5QWqqCg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在去年的这个时候，我以deepspeed-chat的代码为例，解读了rlhf运作的流程。当时写这篇文章的目的，主要是想让读者在没有强化学习知识的情况下，能从直觉上快速理解这份代码，以便上手训练和修改。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445994&amp;idx=3&amp;sn=debe81f782e23315b6307de960e24a30&amp;chksm=bfef2cb400cc748d7f57093d2d62e90b47b55f0fa877d0e937a8e8d6c1d626823ae70b907543&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 12:42:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[语言模型之text embedding（实战篇）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKpsxU3lqwnFAOjEHVCVRgJSfswPgElzVzFmuCiblpRiciaiaj8uhLtzAAwK8xSQTrYChzfD6ic8q8yictyuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介2 背景‍‍3 基底模型选择4 使用方式5 训练方式‍6 讨论‍‍1 简介‍‍‍‍‍‍    在前面2年时间里介绍过数十种text embedding模型，虽然不同模型在MTEB这类ben</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445994&amp;idx=4&amp;sn=14b57f977649ab6271ce870533762cb9&amp;chksm=bf0271a820c763fc38ce1250804b868fc8ec4a9d219237053e6432df6462c5b7a797da3902e0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 12:42:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024时序预测都有哪些经典工作——总结篇]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dcUv9UF2OUWjxVWRjq6pChCocendQeDVAS9B679pPliayjTxgjoOtpXGtHqC3ibjDLoNRlEG0J4ySfNr4mSxmRGQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这个系列里，圆圆会带大家梳理2024年时间序列预测领域的经典工作，涉及多个优化方向。在这一节里，会为大家整体介绍2024年的时间序列一些具有突破性进展的领域。后续章节将持续在知识星球中更新，深入解读</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650445994&amp;idx=5&amp;sn=9d1c8bb5f0d1cfaa7af2538a5737e24b&amp;chksm=bfee7acf703fe830ac2e643cebe51be8b2522d692f8113ace5592f6233e4eda0d5717fc8429e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 12:42:25 +0000</pubdate>
       
 
     </item>
