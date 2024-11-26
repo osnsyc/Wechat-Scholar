@@ -48,11 +48,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[测测Kimi新开的k0-math，你是数学模型，但我就测文本]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nP6B4I4kUVz9sPiaUhDFUK9qpnIUnV1xvvia2ibnd7whxNZgQKJzYa70Nja0rdmf8B2MPspWXmjHp2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>晚上发现kimi也更新了，之前网上流传的kimi在数学上对标o1的模型，可以测试了。感觉有点迫于deepseek的压力了，本来应该是国内第一个的，长推理、类o1的模型，现在变成了第二个。模型版本叫k0</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490994&amp;idx=1&amp;sn=149786dfe60a72b72264f857a36cb871&amp;chksm=ced3d2f0321febeefb369663d9df25860d0f5e205314c4df9d1b31fef29a6317d2be8a71dac0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 25 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[写了一个月提示词（Prompt）后的感悟！！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nP6B4I4kUVz9sPiaUhDFUK9qpnIUnV1xvvia2ibnd7whxNZgQKJzYa70Nja0rdmf8B2MPspWXmjHp2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Prompt工程的本质是将人类非线性思维转化为机器可理解的线性逻辑。这是一种从复杂到简单、从发散到收敛的思维重构过程。我们是需要将我们熟知的思维模式，翻译成机器能够“稳定”识别的模式。与人之间沟通不同</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490972&amp;idx=1&amp;sn=23c65515cf04fd383b398cb541c9f366&amp;chksm=ce89864967cd309d6f617dde9de69cc14f7505dd49c9e6d424a17a3be882474d04639c4df774&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 25 Nov 2024 03:40:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -99,262 +116,6 @@
       
 
       <pubdate>Mon, 18 Nov 2024 16:11:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践系列-聊聊大模型STF的数据清洗过程有多繁琐？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mucI6dUbuNCRh4mrCeIe6IruM2jzZGT69ZZ2T32Ord7Aoxib7f5611gSsda9oq3lPYpic8l5ZhdBBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来好友知乎@ybq得一篇关于SFT数据构造的吐槽和分享。知乎：https://zhuanlan.zhihu.com/p/6497090767前段时间在清洗 sft 的数据，不得不说这工作是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490874&amp;idx=1&amp;sn=95044278b220fd625a0bd4c38704ad0e&amp;chksm=cef93c4d24421dd4c6c72059b13e5baf7d9e45135fd4f455e45d090d9317e7084a6e0902ec5a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 18 Nov 2024 02:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践系列-从零开始预训练1B级别大模型的心路历程]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lxxubjtUsDpczSzjEPZiaM470CZ849ibOExzx2sKX0HtWEdAKSdZoSIuicYyKKvoA95WjbU0GSK5RRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目开始于2024年3月初，当时朋友搞到了一台不知道能用多久的A100。这么棒的机器放着也是浪费，就琢磨着尝试从零训练一个小型号的LLM。其实在当时就有不少些这种“从零预训练LLM”的开源项目了，但是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490839&amp;idx=1&amp;sn=27e78d21b36b84a0756c79d1261281a3&amp;chksm=ce89735892b861807fe1fca3e4efd3336d1fd989248cff08107ed1c5c829dd120deacc49e2aa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 04:12:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[也许是2024年最值得一去的大模型国内年会！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lxxubjtUsDpczSzjEPZiaM4fIK0ib1gFMibsibicyvBMQD8znicMdsH4wyzT9cqbe4KqBficC2T0ZRCjI0w/300?wxtype=jpeg&amp;wxfrom=0"/><p>会议简介中国中文信息学会（CIPS）是中国中文信息处理及其相关领域的学术团体，大模型与生成专业委员会（LMG）是中国中文信息学会旗下的专业委员会，全国大模型智能生成大会（LMG）是该专委会的旗舰学术会</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490839&amp;idx=2&amp;sn=dd0e839590a1078a678da666502f8a31&amp;chksm=ce869fade3f40966ce80db5fd1b5030cfd0dd797b8c4a0a3e75ef428a861c6ac475271c5e086&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 17 Nov 2024 04:12:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践系列—大模型的拒绝采样2]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lgIOGr6FcFHxSlfbLae4MKAqkFwRkrLIOZDtkjeda2sUylblxHf9ibJkOjs47P527mvyIg8goyRwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来知乎@真中合欢的大模型实践系列文章-LLM的拒绝采样。作者：真中合欢 知乎：https://zhuanlan.zhihu.com/p/4547529049拒绝采样是一种蒙特卡洛方法，和重</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490820&amp;idx=1&amp;sn=09b6ea0f63a28d6d143c33c631f5d329&amp;chksm=ce31756070b04213c0173dc22a725e2858a95c3484b8840546f2d47d1859aa4b920ea0207044&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 08 Nov 2024 00:50:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[实测腾讯开源的Hunyuan-Large大模型，感觉。。。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nCZ2nKoiaUPic1iapfzyCdOOwzH92sb0l4A9lCYdwg88LpPITIrY2YftROrw6vTfz8tZvV3ZBxWu1xQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>下面实测内容没有任何个人观点，仅为测试结果。另外，测试用例可能不多，但都是之前常测得一些问题，今天突然发现腾讯开源混元大模型，十分震惊，腾讯也来挤开源赛道了，只能说大模型开源越来越繁华了。这次开源的主</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490786&amp;idx=1&amp;sn=120cdebbdc7514dc67be6288bee1599f&amp;chksm=cef52a00d120adac6db93b1ce3bb79d7053391ec2d7f65daf4bc79970cab26dc590584e15bf4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 09:47:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践系列-昇腾910B上进行Qwen2.5推理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m08DEx2mQE9I35xYKfsfKJTpTSz93lYAB88ZdVmia1jqIs3RuLl1yHCSkturXHnFaFkKAJdyT9UBQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在做toB项目，被问的最多的就是支不支持国产化。现在一般用的最多的也是华为昇腾系列显卡。今天给大家带来一篇利用GPUStack框架在昇腾910B上进行Qwen2.5推理部署的实战。配置昇腾环境确认昇</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490722&amp;idx=1&amp;sn=6641a11c855f80b7c987fd815c652601&amp;chksm=ce09e3b991b7f0874d5481494c8d8fdfc9930ddb8bf4b9978f365a88ff26d7f5df8dda1576a4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Nov 2024 01:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践系列-细聊LLM的拒绝采样]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m08DEx2mQE9I35xYKfsfKJTpTSz93lYAB88ZdVmia1jqIs3RuLl1yHCSkturXHnFaFkKAJdyT9UBQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇知乎好友@ybq的文章，《拒绝采样》。知乎：https://zhuanlan.zhihu.com/p/3907736367最近学强化的过程中，总是遇到“拒绝采样”这个概念，我尝试科普</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490684&amp;idx=1&amp;sn=f21c05bfbe8e00b42b5a9ce2b1f86b58&amp;chksm=ce3cb621a2b3dd26e12045b6d90752ecb86350de73028aae8a217d3e0ff0937073d7bc2f385d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[面向中文有害表情包（meme）的综合性检测]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kjjKDtKRaq6HWvhZpbRE7kMyKFLRcXgXy9Ym9CR5d4AvPF1pesNOqJqoPofpp3OibnH5SSPY96ldA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着互联网的迅速发展，有害表情包在网络上日益泛滥。通常，有害表情包被定义为一种包含图像和嵌入文本的多模态单元，通过针对特定社会实体对个人、组织、社区或社会群体造成伤害。此类表情包可能加剧社会分裂、引发</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490675&amp;idx=1&amp;sn=1e184565a00fb7e11af3ffb993c5bd1c&amp;chksm=cecd9c8343439add8432ca9b5af2c55a12a4d65e70a9b30181409210fca5ca00d1ed98f66408&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 01:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[手撕LLM+RLHF+VLM+o1推理，全都要!!!]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kjjKDtKRaq6HWvhZpbRE7kG72UDQeicmMP8scdBDAnb1iaibobhZPCdjkgyE8T4KWlEcH1KKs1fjziaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我是小冬瓜AIGC，原创超长文知识分享原创课程已帮助多名同学上岸LLM赛道知乎/小红书 ：小冬瓜AIGCo1模型展现了惊艳的推理能力RL+搜索起到了关键的的作用【手撕LLM】课程更新第14章节手撕o1</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490653&amp;idx=1&amp;sn=3004e3c6c09ee610021fe6ae07f76512&amp;chksm=cec8624422bc84f43856b6058fae0f6d97524ddab977ae9697a2dfdfe65902a1abd3d9ba6fcb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 29 Oct 2024 01:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI-O1之下，我们技术该何去何从]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nsBeAfZSI8qXiaamLlIHExCdBGIsqp5kb2qTgicDT9QNkTa9c294BrpdkxdZuZYyxJzcT4RpEsHO3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇知乎好友@ybq的文章，《o1之下，技术何从》。作者：ybq 知乎：https://zhuanlan.zhihu.com/p/3341034510 这篇文章不聊 o1 的技术路线（目</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490645&amp;idx=1&amp;sn=81c39511303c09612c97fe2595aeb09e&amp;chksm=cea253be1a4c36171a330dcffee1cb3fefd0d566b32c7f18568a1e703ea54999ed6520414f95&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 28 Oct 2024 03:40:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CartesianMoE：通过笛卡尔积路由提升专家间的知识共享]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5krbzZibp3kf0iccx5IWucbAGWY1aD2UEianyEtZ2SibCXl1RNzFCeuSOMFl5jk5hVrmkegehnicOySCog/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）因其在下游任务中的优异表现备受关注。尽管扩展LLM可以提高其能力，但计算复杂性也随之增加。专家混合（MoE）模型通过扩大规模而不显著增加成本来缓解这一问题，但MoE模型的专家之间</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490638&amp;idx=1&amp;sn=836742651a7d921aafafb6cb93f4c4e4&amp;chksm=ce7d06a013d0a3d98ce65b07f199934a8410060f1c7bc50ac30a9320ae6ee52b5b429bdf0724&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 25 Oct 2024 02:55:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践系列-拯救Continue Pretrain的数据]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5l29iaSsz4ibXE7KCILFDIdWvicghtOUYcMxjEPxUaxNhMq8nujL9a8tKYL41icW0mRWDNVxTEpln5P7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来知乎@真中合欢的一篇文章，《LLM实践系列-拯救Continue Pretrain的数据》。知乎：https://zhuanlan.zhihu.com/p/721492096打分清洗的文</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490612&amp;idx=1&amp;sn=0a9025eed834cb600f18c1e17044519e&amp;chksm=ce9c68c8eeffb86b6607198f89fa4e77b61ab661fc9f5723199ba936ef25dcbb38b19b6d184a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 18 Oct 2024 01:09:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[超全！一文详解大型语言模型的11种微调方法]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kFsc1MXu7YZnJIZSVUNaL2XzHibpkSDoFlsCZne0XuOtbH9ZgbrBtTvibFEuuIM2ic8t9Ouvh1Syhzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读：大型预训练模型是一种在大规模语料库上预先训练的深度学习模型，它们可以通过在大量无标注数据上进行训练来学习通用语言表示，并在各种下游任务中进行微调和迁移。随着模型参数规模的扩大，微调和推理阶段的资</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490603&amp;idx=1&amp;sn=cc5327a08875e60916aefa510ea7cfa3&amp;chksm=ce0f58032845f59fff22a03baa7541c5cb14f342b5952155148c2f400ea4d7d09266c9a7323e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 16 Oct 2024 15:23:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践系列-详谈Tokenizer训练细节]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kTwdfR5hls6hgb6EAhd4ENPhmQPltSdlSFW054SlDbic5XaVWF1hNCuI2LJibib0ic1XzUrQm3OM0pBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来知乎@真中合欢的一篇文章，《LLM实践--Tokenizer训练》。知乎：https://zhuanlan.zhihu.com/p/739078635经过了数据收集、筛选、去重，马上就可</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490596&amp;idx=1&amp;sn=4b6eaa9b3717033b269282cdc8d59e4c&amp;chksm=ce2d1e69cf2cd65b6d72e7da2f78c00ef630db20078e9467fbd49b8c97dae5334a8d25772381&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 15 Oct 2024 01:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM实践系列-数据去重之Simhash&amp;Minhash分析与实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kTwdfR5hls6hgb6EAhd4ENPhmQPltSdlSFW054SlDbic5XaVWF1hNCuI2LJibib0ic1XzUrQm3OM0pBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来知乎@真中合欢的一篇文章，《LLM实践--数据去重：Simhash&amp;Minhash 原理分析&amp;代码实现》知乎：https://zhuanlan.zhihu.com/p/739101179</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490588&amp;idx=1&amp;sn=f7178ca8b89462971f4a9bd6d9c29072&amp;chksm=ce6516e30fbdc10949a6e0742a015a5d368ee7588f3a27337f7e6576eb74982badae81a04e79&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 14 Oct 2024 05:13:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CodePMP：提升LLM推理能力的可扩展偏好模型预训练]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nbQgT8S1l4BLjrkFXxvP4ia1QDwiaa5yJdhphnkRLTF0JPOwicfGiaAZblynlrhX564ibDsTnpYU1GK0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：鱼汇沐  机构：中国科学院信息工程研究所 paper: https://arxiv.org/abs/2410.02229在LLM（大语言模型）的对齐训练中，尽管RLHF（基于人类反馈的强化学习）</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247490553&amp;idx=1&amp;sn=41c4afa1c7734f17d958c3cfbb06884f&amp;chksm=ce3b2b2d54b4f5bc3b4de9d6f9fa0147e1dd706f605c061bbe11ba484aa79ed82c045af6ac8f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 12 Oct 2024 02:10:00 +0000</pubdate>
       
 
     </item>
