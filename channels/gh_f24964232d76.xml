@@ -48,11 +48,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[NCCL 与 NVIDIA TOPO]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3v5PnHjOVFS29FBYMHhK6A5PBTDoe6kxpuaAibU0A0PvIF2ejdf9EFM90NXyvEbfda30icPaZ7HNPfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/6160835906编辑丨GiantPandaCVWhat is NCCLNCCL (NVIDIA Co</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525739&amp;idx=1&amp;sn=dd5c4dba379384a8fead40b65fe0daf0&amp;chksm=9eccec200fc3408debeb666e49ca8c8aa9ad427da2f882ff4361fa361bdc0c734d142a2c80b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 26 Nov 2024 14:12:30 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[基于 chunked prefill 理解 prefill 和 decode 的计算特性]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vEcROdcga2tociaw3nV3qDAzmoJ6Ku4BaS50dBmhhndPbpeibZ3kMze0yRK1piaJdYsibiaUXBZENccDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/718715866编辑丨GiantPandaCV这几天尝试读懂 SGLang sever argumen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525738&amp;idx=1&amp;sn=fd336c4091fb5fbfdc2878409ff04569&amp;chksm=9e6ed787a302ead84dd5f2fd42c9510430b305160ebd1feb5f0c71acf95b86b702f783cf0ac2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 24 Nov 2024 09:22:36 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -99,263 +116,6 @@
       
 
       <pubdate>Wed, 20 Nov 2024 09:35:19 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[小白视角：利用 vllm serve 新的 Embedding Model]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3unLsmgic303PIUiaPicxqibksdDolgg7YCSNwicoB4Cgn7kf0qLAvfBfCPonibr5KSiaOib7FJcvUGibHYIVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/715857723编辑丨GiantPandaCV书接上文，今天起来后感谢合作者的点醒，大概发现了如何用 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525452&amp;idx=1&amp;sn=39f8e57467a1d7230c030a3f29eef5e6&amp;chksm=9e505624960927c0065d8365a87e72a72971dc58207b38fe911ec3b30d100fac931e194a6744&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 18 Nov 2024 14:56:35 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[小白视角：利用 SGL 来 Serve Embedding Model]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3unLsmgic303PIUiaPicxqibksdia3UsYXicWgTMiaJ6NTE1mQoYU6g0t8NiaNibWrcGBxA1rzJI0zwHglDh4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/715805386编辑丨GiantPandaCV书接上文，继续入坑 SGLang 项目：需求描述这段时间</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525406&amp;idx=1&amp;sn=a4ff7e400fb148fd3d531527ad914fb2&amp;chksm=9e1337117b739d89ac65879245602d60b2976a72e1ee3644949606a3393f7e87c870fdbad686&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 16 Nov 2024 12:21:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[小白视角：vllm 迁移到 SGLang 的体验与收获]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3unLsmgic303PIUiaPicxqibksdiaGtYlyWTknTYzTk3klfQZ9zibz9vQWJ7FfJ0IQHNxo0VNQM4icR6pVsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/714833359编辑丨GiantPandaCV这一周完成了 vllm 迁移到 SGLang 的工作，其</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525405&amp;idx=1&amp;sn=3721eb76d4580a146d1e93246353c137&amp;chksm=9ec1e263fdce545067d6f5117e18af6e8e56d2d948dadc968001e3a866f1372b87af82e273da&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Nov 2024 10:41:47 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ml-engineering 翻译系列】计算加速器之cpu]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tIKGv5UzEwmA3vzlvzOgeJkyY16FzibKHoqSyAKYOBBGUZqXpgO9JvPkice3PicWuoictEsA5qib4xSlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode本篇文档的来源：http</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525381&amp;idx=1&amp;sn=7e2045cf285a1c7bf53066059ae1ba71&amp;chksm=9e7bea6014c3ce1fa5b10f41f6ec78240313b8b98651e455b1ff29da3d4e63221685a933b7c6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 13 Nov 2024 15:09:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[梳理下Flash Attention的dispatch逻辑（文末免费送书）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uTowcOdGauxzND6FZVjqnv9lmnWOeyMjK5R884WiaS4LKxE9lfaXscc5T9UMXdQyYqWyhIsDm5pOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x1. 前言这篇文章来源是当运行下面的对HuggingFace Qwen2.5-7B-Instruct模型使用Flash Attention的代码时，使用Nsight System工具抓取的kern</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525377&amp;idx=1&amp;sn=f6bbc1d507eb1e46924c23efcc8b3aae&amp;chksm=9e746c783f3e39fc047310aab177278a8b6f880eb566842881bbee10e6844b8e5d6ca292bd05&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 12 Nov 2024 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型训练系列：序列并行3，Ring Attention]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOS1A7Y59KCysq2pG4H4SfEm5rdgSy6jyfuP4vPCWvCVX4rOiaFkMmrtW3P67icdXiazVgZSoZZ8dVpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在序列并行系列中，我们将详细介绍下面四种常用的框架/方法：Megatron Sequence Parallelism：本质是想通过降低单卡激活值大小的方式，尽可能多保存激活值，少做重计算，以此提升整体</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525353&amp;idx=1&amp;sn=c2ed84380fb812198885f2f1668bc023&amp;chksm=9eaf71ed27449a1cbcd5337e8c442cd1b090d3677aa954f4942ac2ece8da9195bc7cada12e26&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 08 Nov 2024 11:20:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ml-engineering 翻译系列】训练之模型并行]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uiabNjbahnWYygcxEnuNSvtA8aqU175GicFKb6OicZk6LibGRcFMlzU4uD0ibw70icSjDDOvbItPDgUGgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode
-本篇文档的来源：htt</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525351&amp;idx=1&amp;sn=b9f476743d8d2828bdc7a3966768fc84&amp;chksm=9e50a11580927735c5939a48974df080e68ac85209e4f01be33f60a3f1f8fb365a0e2eb1d1ad&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Nov 2024 10:14:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型训练系列：序列并行2，DeepSpeed Ulysses]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNZyFCNKgX0mTpFKBzpNhW8bToraCteV2xnMTNFoTGszmUc8p4QM5WTvozicAMdDHK8EfD9H42UzxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，在序列并行系列中，我们已经介绍过了Megatron SP，今天这篇文章我们来看DeepSpeed Ulysses。在正文开始前，请允许我吐槽一下，DeepSpeed Ulysses继承了DS家</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525331&amp;idx=1&amp;sn=a7247f3e9da80a1cdea57911e24a4be5&amp;chksm=9eb4ef5af48befc914ff4382cf6c4a6faa596a5981920dcceb88e63c9e0af17b453170a29ffd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 08:42:06 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【翻译】在FSDP2中开启Float8 All-Gather]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sHBICLErntpNR7ZV68eFxYkGOp5ib8pXdKnfSFF7y9GicjQQQm5z7AicJg8EwYYX2EP2HxSZRsXhPqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：https://discuss.pytorch.org/t/distributed-w-torchtitan-enabling-float8-all-gather-in-fsdp2/209323</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525329&amp;idx=1&amp;sn=395032c2cc3678e2633a6781ace367e0&amp;chksm=9e55404a8bf187fa33537846689eb8fd7f6f97aaa400231d841b5ab8845d0a7acbe9298e8412&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 02 Nov 2024 14:08:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型训练系列：序列并行1，Megatron SP]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNwhvqaGTVyruPcNZvesOv1xRLQMrk1bnian31NiabR2yIDANqRsjOPJGT6lQGfU6Vrq0XmNlKI3njg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，最近在抽空整理之前“序列并行”相关的学习笔记，想着之前dp，pp，tp，ep都已经写过了，漏了一个sp总是有点遗憾，所以趁着最近有热情，赶紧补上来，也算是我对这一块的一些总结。其实，序列并行是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525278&amp;idx=1&amp;sn=1c9dd156f6e50a4e23a466edb80dbf73&amp;chksm=9ee0f994759966b37ef1c8d8993ec5a2fb80f35bed7ca79123110692e2a37dbaaec41091f1a1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 01 Nov 2024 09:02:06 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ml-engineering 翻译系列】AI系统中的网络 benchmark]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tP8HPIReTXfPYxo3a9YZ4H2eGcSCicfcqtSiaFDA6vwrQm7F5h3Uq37vAPAnLPdXCryCfPdaHcJI9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode本篇文档的来源：http</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525276&amp;idx=1&amp;sn=190710510c9dd8d0799cff2b9740c6de&amp;chksm=9e742cd4873cc2b2ce313edd30cc99f9d4c85ab40c0eb2b086c981e7b1c980cddff9d31366e9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 31 Oct 2024 10:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI o1技术初探3：如何让模型拥有自我纠错的能力]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOpqVjLraGbzg9n0LCX1PlGhB4mNkjqHLC9mpEgW9PSh5PRWTGerVXAkHO4ibE51v6c9yvGpHlrJCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在这个系列之前的文章中：我们探索了o1（可能基于test-time scaling law）做的基本框架。以及框架中的一块积木（靠纯inference优化来增强逻辑推理能力，我们分别列举了“PRM+s</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525266&amp;idx=1&amp;sn=70875b59c1dbc91fff662736aa0a9126&amp;chksm=9e0b0187928aecb4260bffd02874463e56ab18dcf8d629891794a9f90a52ebbfa573c4bb7639&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 30 Oct 2024 01:55:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ml-engineering 翻译系列】AI系统中的网络 debug]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tebGK0CD7ib74ECsv5Liab1J59bIhFwwAWvuou1LZibM4qTFCV3abtCGFLPE4Wicxvekm7E6WbNyYpAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode本篇文档的来源：http</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525264&amp;idx=1&amp;sn=9630f13be2b3cf1f2cc7ba5720141105&amp;chksm=9ec52d96a24dbe8962ae74da8247163fe9918eff6befd232ffd5011539a62076dc555a3a10db&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 29 Oct 2024 13:13:13 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI o1 技术初探2：使用MCTS增强推理能力（基于代码实践的解读）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNOOc1O2OnNnXpEv2R0OHfQv4IF4YU0RbzQ7436wjX43s2uKAib2SEtMSnbHO46N5fgw3M4IlLW7uw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在o1的整体框架篇中（https://zhuanlan.zhihu.com/p/773907223），我们从现有开源的论文和代码中（https://github.com/hijkzzz/Awesome</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525233&amp;idx=1&amp;sn=6fd57f7369ae21bf272970dbbfb15a77&amp;chksm=9e25521f50a8e1572f1348d043b7a813a6bba2c1a3dd42ee5fc7600937b78c0964c585e9ad74&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 27 Oct 2024 14:39:56 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ml-engineering 翻译系列】AI系统中的网络概述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uBkADE0YRY8PqvibNtvA5vOlsFeCxIlbWUfqPDqqfMqiccibdfbicWaZTg0d6S8TK8PnfrtnupD1NXww/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode本篇文档的来源：http</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525231&amp;idx=1&amp;sn=81b4aeb0d5e4ec5cf698a5f92131796f&amp;chksm=9ee6b9cd8509a8eaf8c2079ccafa41ae5e1d3088726120e9136a43b10b7577d231c512a2f6c2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 25 Oct 2024 13:49:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ml-engineering 翻译系列】大模型推理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3urHIt7EJHiaBszmaptanfNZCiaOlxZvPhMK9iaJljzJnoVGfpaqYT0YHd0UUIkcknkYCu1tffHKjUgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode来源：https://g</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525206&amp;idx=1&amp;sn=45ef74ee0d1837b067047f3ee529b5ee&amp;chksm=9e2396dc805162ec97bd7c87703b3bae1485c3cb8599fe274a783572eeb617d17b25b4c87f96&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 24 Oct 2024 15:55:18 +0000</pubdate>
       
 
     </item>
