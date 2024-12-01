@@ -55,35 +55,110 @@
 
 
 
+
     <item>
+      <title><![CDATA[OminiControl：一个新的FLUX通用控制模型，单个模型实现图像主题控制和深度控制。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYEn3PFyv0qTxQYEgq8VntmUj91vEEYPJjMADiamfkH94icSBs7fF1Tn1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中和大家介绍过Flux团队开源了一系列工具套件，感兴趣的小伙伴可以点击下面链接阅读~AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。OminiContro</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489108&amp;idx=1&amp;sn=cc4f339f67a3c795b77edbe523739612&amp;chksm=fd687cba3fb94a70c0306a186d7fa7f10df1fe3398657c7430ec21cedd6aee3d32208d73f711&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[阿里发布新ID保持项目EcomID, 可从单个ID参考图像生成定制的保ID图像，ComfyUI可使用。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwazEmicf1F7ZjrxQSj4JNP3x3icluxM84Et2UYGdsdxfDOXnd9OlZYFCwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妈妈发布了一个新的ID保持项目EcomID，旨在从单个ID参考图像生成定制的保ID图像，优势在于很强的语义一致性，同时受人脸关键点控制。EcomID 方法结合了 PuLID 和 InstantID</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489108&amp;idx=2&amp;sn=5c625299d99849acf5900db65f01dd98&amp;chksm=fdfce06ffb6148d836ba7493e06b0afc7dfc494d1c155c521a691543df0bb488f8e111865acd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[文生图像编辑来了！英伟达提出Add-it，无需训练，可根据文本提示向图像添加对象。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emmkDiagtskaHJodPFibMTUYJZY50N6JpzSdpSqpDMMdhm1JHxUv7E3vPPDa6XmXuygFoa0eiaBct3Bg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Nvidia提出了Add-it，这是一种无需训练的方法，可根据文本提示向图像添加对象。Add-it 适用于真实图像和生成的图像。该方法利用现有的文本转图像模型 (FLUX.1-dev)，无需额外训练。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489108&amp;idx=3&amp;sn=c5672c101db5e61765b9b06a1e31541e&amp;chksm=fdfbc83ae39b24f15dc76023edcd05d500b6b7206ca83ec2cb61f5c81fa01929e4eaf3b0b62d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ComfyUI | Flux实拍与卡通风格lora推荐, 一键生成创意图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUw7TQJFGYa2znHnNaWuO6u1JkCEEpxpul3G7pL6Igu3mLQyxXGM5cvPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家分享一个非常可爱的flux lora，FLUX.1-dev-LoRA-One-Click-Creative-Template:能够一键生成4张同一角色的真实版图片+一个中间的卡通版Promp</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489108&amp;idx=4&amp;sn=1dabec88edf36d4cdc495678a07ccc05&amp;chksm=fd325d99f01cd3ae39732207e47dc7727be6270f3e9c0aeb527b27f01cc572756101f074b7a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[CatVton升级版？CatVton-Flux：AI虚拟试衣方案新选择。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYW6IaEp7gbVv0yHQMOcuZ65LzSPaIPcK5ZBqJ9AhEjNULUK7MKY05CQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面：本公众号已经给大家介绍总结了一些列关于虚拟试衣的文章和方法，小伙伴们可以在公众号菜单栏点击AI虚拟试衣查看，也可以直接在公众号内搜索"虚拟试衣"之前的文章中已经和大家介绍过虚拟试衣方案Cat</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489107&amp;idx=1&amp;sn=fe9a2e6b77e9071702197d6b9dd88bbf&amp;chksm=fd5e7b6abfa698bedb4717e7f86498d1b66cc9518e41b43bf0d2a232f92b0f664edca90d87b2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[CatVTON：轻量化架构与高效训练，助力虚拟试衣技术落地应用！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enM9EmGpEygEm1sRYerx5zs4mgMPgDicoDS6emdT0nVUdvTwqYibENyLL2gg3X7xs5yMuia7FRkm9zRg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本篇文章来自粉丝投稿，文章内容是关于虚拟试衣技术。本公众号在之前已经介绍了许多关于虚拟试衣技术的文章，感兴趣的小伙伴在公众号中搜索“虚拟试衣”阅读相关文章~近日，中山大学和 Pixocial 联合发布</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489107&amp;idx=2&amp;sn=f2d843f6f723cebd74439dd26def1a72&amp;chksm=fd97d072f136d559abdfd4cd0e5125b37fe48806bb739686d2328285e5ec84d07662a78dce66&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[超级智能“试衣镜”！GarDiff：高保真保持目标人物特征和服装细节，虚拟试穿技术新SOTA！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUN5oqyRgSButjKACUwRIef94PhQmUMcfJSkj4W9NicELKlw377icJuhpfjx2VUNPWKHMM0Gqib5Eg/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍了很多关于虚拟试穿的文章，本公众号也总结了虚拟试衣专题在公众号菜单栏，感兴趣的小伙伴可以在公众号内搜索“虚拟试衣”阅读～今天给大家介绍一个最新的虚拟试穿技术GarDiff，它可以分析</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489107&amp;idx=3&amp;sn=707cff8697d037e7bdfc8bccf8323f49&amp;chksm=fd3615ac692996b0e2dc254f79d16e15bbd3d13bee69d22caa25ed8f965db15307e1835f7d64&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Boow-VTON，无需训练即可进行试穿，解决野外试穿任务难题！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elkkuWrNlw62n8iayUtU0k8ylNWLA8s3GygmDIvkMMozsRJV3j6OdhM9D45R5ibKHqZgjgenJNePSicA/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍了很多关于虚拟试穿的文章，本公众号也总结了虚拟试衣专题在公众号菜单栏，感兴趣的小伙伴可以在公众号内搜索“虚拟试衣”阅读～今天给大家介绍阿里最新提出的虚拟试衣方法BooW-VTON，结</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489107&amp;idx=4&amp;sn=25175857de75032cb26f6ed695b0462c&amp;chksm=fd3190343933b6595255200bb8d3f1919439c1878f43f8c80faa251783196b2b582c9c4dfeae&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ClotheDreamer：3D数字人也能实现穿，脱衣自由！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emPnvPXL7KLqPvkIAqtoJ3wAARpkHstN4O33m9M1haEAL9bqcv7I3brE6IfBs4EUXTjOuq6l2WvZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天,给大家介绍上大、腾讯等提出的3D服装合成新方法ClotheDreamer,它以其革命性的能力,从简单的文本提示直接生成高保真、可穿戴的3D服装资产,正在重塑电商与空间计算领域的未来。数字人也能实</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489107&amp;idx=5&amp;sn=04ca5ea642a8db7ad8b6e742e300bb72&amp;chksm=fdf9b718f78fdf084da817ce7863d7a3cae2c9b6585963c827f574a2e04cdaad9634f0d32234&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -386,54 +461,6 @@
       
 
       <pubdate>Sun, 24 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eltYhV1JmK1ib9FbmIt2gIyPDOrcibpBhOX3OVdibquclM6ib7Tsxn7qhfDiclnY9wlicfpKLJib4fLuY7Og/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 图像编辑昨晚迎来了一次重大升级！ BlackForestLabs 发布了 FLUX.1 Tools套件，为创作者提供了更强大的控制能力。FLUX.1 Tools套件介绍这次发布包括四项新功能：F</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489017&amp;idx=1&amp;sn=9f7fd8f7e7a89798a0d66ffb68390c9f&amp;chksm=fdd0315faebb3ed5ca1afeb42508925be1aba0eb09206a7b41983537507a71ba8100d9aac15a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 23 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ComfyUI | OmniGen-ComfyUI：简化多任务图像生成和编辑操作,一键生成任意你想要的效果！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek3AzrrMoNWTaibIOp0yQxuUdhncrj6uxibR6BDtnnc5GUloGNfcX0jbZfEnkb7yqhSkm5IicnKTPlfA/300?wxtype=jpeg&amp;wxfrom=0"/><p>还记得之前的文章中给大家介绍过的OmniGen么？感兴趣的小伙伴可以点击下面链接阅读~统一图像生成模型OmniGen：可由多模态提示直接生成各种图像。今天给大家介绍OmniGen的Comfyui实现，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489017&amp;idx=2&amp;sn=16957a3998b77c0fb541baa6bf8548cb&amp;chksm=fdd967ab39a184ab2748bd5913b39e0b33592119b061903d5cd05305b195bc0e55925668b09e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 23 Nov 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多功能图像编辑框架Dedit:可基于图像、文本和掩码进行图像编辑。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekDYMeOJw6PMrPrgUmBfVvIibC8Suae7poAtMSSVAkicNMibK5CyJB4RLSAKFiajeuqXiaiaib0vMibRiaSKCQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个基于图像和文本的编辑的框架D-Edit，它是第一个可以通过掩码编辑实现图像编辑的项目，近期已经在HuggingFace开放使用，并一度冲到了热门项目Top5。使用 D-Edit 的编</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489017&amp;idx=3&amp;sn=f416a453049ff7154c46794241c4c9e1&amp;chksm=fd4a0ac205abaac88958d50c23fb8bb9ad37f3aeb98d367d36d1027b0df56585527c83ded5c8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 23 Nov 2024 16:00:00 +0000</pubdate>
       
 
     </item>

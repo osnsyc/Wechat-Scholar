@@ -71,53 +71,178 @@
 
 
 
+
+
+
     <item>
-      <title><![CDATA[243-A1.1｜加速视觉DiT推理，文生图提示一致与属性绑定问题系列，通过奖励增量蒸馏减轻遗忘现象]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Image Gen</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=1&amp;sn=3a27052f7431fd24ddbb610d919f1c1b&amp;chksm=c3e01c509609dc7b4e4b9010f933e112db3a89f529920678c16c6cc99c9e45e1267f13f10601&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      <title><![CDATA[243-A3.1｜图生角色与绑定；物理一致PBR材质估计，3D生成几何增强，自回归3D生成理解，稀疏视图GRM；物理驱动图生4D]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: 3D/4D/Mot</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518322&amp;idx=1&amp;sn=7eceb1278b184f6d3930515966d37984&amp;chksm=c3f851379fd39466806c9ddc44321ae4fbb8fd91b258ad9b83aab14565b0a75c883f6efcea4d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 12:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[243-A1.2｜指令引导图像编辑，基于文本的图像编辑，属性编辑与对象修补/内绘，视觉文本渲染]]></title>
+      <title><![CDATA[243-A3.2｜通过涂鸦注释实现单图室内照明；基于SSM的文生精细运动，统一运动合成与理解，统一多模态人体姿态理解、生成与编辑]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Image Gen</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518322&amp;idx=2&amp;sn=288e7e3faf9122d02eb4e7c72df75ce5&amp;chksm=c332e7aba2aea33e81b703fffd86ad4459f6af81102cbd87c5649ecf9340c12cd0eaabc34037&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 12:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[243-B1｜多模态系列：GUI视觉代理，视觉语言认知对齐，图像合成数据用于一般视觉语言任务，基于VLLM的通用图像视频分割模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Multi-mod</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518322&amp;idx=3&amp;sn=fdb73f1d3d2e0b4ef17d21da074f4f46&amp;chksm=c34f35379e42befe36da5f446df7c8dad5d24c3557b25dceb5992e462bb274029991c45edca9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 12:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[243-B1.2｜文生图模型安全性评估，个人生物识别防御恶意生成编辑；语言先验改善单目深度估计，使用合成标题增强CLIP图文检索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Image Gen</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518322&amp;idx=4&amp;sn=3137dbca1e6b4f33f90af86acaf244a9&amp;chksm=c3cd34df548572985407320ad609d0c791128d90036450ea6678748111315907ad8aade623b9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 12:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[243-B2.1｜无姿态系列（可泛化3D重建，前馈3DGS生成）；不透明精确表面重建，含干扰物体下的重建；内存高效动态场景重建]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: 3D Recons</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518322&amp;idx=5&amp;sn=4c75e1932add13f321f95b1a37f172a8&amp;chksm=c3e2377674f0b5a3132aa089131cc6851010ac5043881457484106a9732113d040380f0dc0d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 12:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[243-B2.2｜程序生成3D模型用于自监督点云表示学习；混合显隐表示的表面重建系列，多光源NeRF内在分解编辑，服装高斯人重建]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三程序生成3D模型用于自监督点云表</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518322&amp;idx=6&amp;sn=b424b1eb3d9ce5e8fc76cf9fa9399ef5&amp;chksm=c3ebd8c694b1ff5249e3e43ee4e2f0f24ebec76abcddd1f766f1e262a4056faf65ffbca59440&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 12:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[245｜None]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月29日｜周五今日arxiv无更新</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518322&amp;idx=7&amp;sn=66cdfb59e78594b18a5454bbf99a9d29&amp;chksm=c366cbf8b686e0ac49a72f1a5ab8c0682dd05cd24ecfe6e01cf96a4b04711c0d05834e2998f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 30 Nov 2024 12:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[243-A1.1｜加速视觉DiT推理，文生图提示一致与属性绑定问题系列，通过奖励增量蒸馏减轻遗忘现象]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Image Gen</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=1&amp;sn=3a27052f7431fd24ddbb610d919f1c1b&amp;chksm=c3e01c509609dc7b4e4b9010f933e112db3a89f529920678c16c6cc99c9e45e1267f13f10601&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[243-A1.2｜指令引导图像编辑，基于文本的图像编辑，属性编辑与对象修补/内绘，视觉文本渲染]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Image Gen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=2&amp;sn=6591eba69804ec392000357fa8b98a49&amp;chksm=c33c3f2567971fa142c1d7cf86b5713b55c6d6634e2a88da203db54ad3f0e98762261fd5b63d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[243-A1.3｜交互式序列化草图生成；自动化文生图简化用户操作，AIGC图像不合理性评估，交错文本与图像生成评估；虚拟试衣系列]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三自然语言驱动交互式序列化草图生成</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=3&amp;sn=17209b71e640cef1c3b4371fb208360d&amp;chksm=c37cd7aac2c48d999b0d98cd5a84c8beebd081a1094be66501af1369af7b85acbe6aae2edbb3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[243-A1.4｜改进CFG负引导，条件DiT与CFG，基于重要性的标记合并，VAR冗余问题；利用k-SAE理解黑箱扩散模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三1. 通过正负概念对比改进CFG</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=4&amp;sn=e4d216c2bbbf221da2b5bf91cbdfc5cf&amp;chksm=c35f19c4da828cfdadbb12cbece5776c4b3b01976128b670ff1a303047b99db0df3b8ec09c2e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[243-A2.1｜基于物理动态模拟的图生视频，基于轨迹控制的对象交互视频生成；直接用文生视频实现基于文本的视频编辑，文本提示对齐]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Video Gen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=5&amp;sn=e4b26a214992e13f999b480676cdbb8a&amp;chksm=c3d656f2b92e2a2ecc52f448597a37b7fa6b03c66db4878f51fe28c3058ab8f9f2b097d6ce2b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[243-A2.2｜HOI产品推广视频生成，ID保持/身份一致视频生成（人类图像动画化，文生视频，定制化）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Video Gen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=6&amp;sn=6909f2bde6cee5f78be0bcaf71e80108&amp;chksm=c3b1caeef5c7be1e5a1be8661b0cf82a470256692e1c3da2e7c0ef1a27a684ce5dcb38aa180d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[243-A2.3｜视频深度与法线估计；视频生成感知质量评估、时间与文本一致评估；视频DiT精确缩放定律，小波流VAE高效视频生成]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Video Gen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=7&amp;sn=d337d08f1762620566e03946f260c617&amp;chksm=c3ad4410b213f28c405fe3cc86cf87effab33ef48ba4056c384500816223dd9b62e3f35cac9c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[243-A2.4｜音频驱动说话头系列；多模态条件视频引导Foley音效生成，人类说话视频文本到语音生成]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月27日｜周三Topic: Video Gen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247518268&amp;idx=8&amp;sn=3a6ebeb2213d45489a621ca48c1f99d2&amp;chksm=c3ef0dc5c5107f32e55939b386ec73c59ae3f630d7f9f088a71a25fe43b4d481834d0aed31c0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 13:30:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -612,102 +737,6 @@
       
 
       <pubdate>Sat, 23 Nov 2024 15:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[237-A1.1｜RGBA分层图像生成，测试时间条件文生图，零样本布局到图像生成，少步扩散与密集奖励反馈，基于信任采样的约束扩散]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月19日｜周二Topic: Image Gen</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247516367&amp;idx=1&amp;sn=d0e42ebbddca2fac295a0549e2997e35&amp;chksm=c38feaf6a522064a76f74bff75b38e9155fa8ede89288449d01eb3af46c848d00dcfeb3f19ab&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 15:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[237-A1.2｜基于MLLM的文本字形布局设计，虚拟试衣，编码面部妆容；大型视觉DiT，基于生成模型视觉知识的单目度量深度估计]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月19日｜周二Topic: Image Gen</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247516367&amp;idx=2&amp;sn=6e59b92301b9fa26a5f771293e514eed&amp;chksm=c325f8c3e066cf359a34710590aaa4be9981201b59e5a20e6b68175afd4e84e89e3c3bb48f57&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 15:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[237-A2｜多条件可控图生视频，光流运动条件T2V，文本引导编辑；草图动画化；物理现象视频扩散；评估视频构图分析、文生视频幻觉]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月19日｜周二多条件可控图生视频，基于光流的运</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247516367&amp;idx=3&amp;sn=2354634f1e05fa2437d810a5efb51125&amp;chksm=c3a75dc70b63093972af3b70469b14813a1d0057f712c13307b12d90d6932d9f672396723110&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 15:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[237-A3｜外观重建模型图生3D，光条件多视角扩散文生3D，深度潜在单图生3D；生成式具身世界想象性探索，网络视频4D家具组装]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月19日｜周二外观重建模型用于可重打光网格生成</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247516367&amp;idx=4&amp;sn=9b40e95b012c1cd44f69d812e1f7a730&amp;chksm=c3282cebfe343bc60398c9b3c97e95804c5283c47aec2462c1f21f10479f4805b1c5eae288de&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 15:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[237-B1｜跨文化图像描述生成，多概念个性化VLM；基于曼巴的统一sRGB到RAW；将多模态学习统一为下一帧预测问题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月19日｜周二Topic: Multi-mod</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247516367&amp;idx=5&amp;sn=a488bd0a7915d1bb78293d300cc11abc&amp;chksm=c3fd28cf62e220a40dc48be2e5509b46372390e291f3f93ac2149946c6f93d082fc4b913e1d3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 15:30:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[237-B2｜图像退化条件下NeRF重建鲁棒性，用于大规模城市场景的占用网络学习；实时高斯人类场景，视频高斯溅射]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gnw0Ivy7lZNlrjBhQ6Ll5wB2EwYorN106qrD5ehia8FM2Se3xz9G0CwPKlC9O12dLs709141oNOUcKTZqPxLGCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC Research 主编｜庄才林（Cailin Zhuang）技术支持｜胡耀淇（Yaoqi Hu）发布日期｜2024年11月19日｜周二Topic: 3D/4D Rec</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMzI5MDE0Nw==&amp;mid=2247516367&amp;idx=6&amp;sn=412e9c60bb5aad1b3faa20947453a782&amp;chksm=c359e2aab8e255592fbb8bca6a68a8639cd88ffd162b4d233cf85ab034ec280202a3490c2e88&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 15:30:00 +0000</pubdate>
       
 
     </item>
