@@ -45,11 +45,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[做实验的开始手搓NS方程求解了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknaLic62P50Hwibuh1mwich1EUK3nARVyr5a1DCianxlZbUyNYtDIH4yW05xZg6wT9oOKibVLPndRWBicEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这文章挺有意思。岳子一说你们就明白了。传统NS方程的求解，先算速度，然后算压力，然后迭代。这就构成了稳态SIMPLE算法。在这个文章，把SIMPLER方法，离散PDE求速度那一块，通过PIV的方法实验</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429048&amp;idx=1&amp;sn=770e89f2a43850deed0cac9271a95dba&amp;chksm=8952c81ce246d68114c245595a9b7ba107d8fc469aabbc95ea023439fc239fbe6cb7c9754148&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 05:19:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[没创新点！照样干顶刊 JFM！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkneyysFSPKY9J7MrS3M1gckodr9G3p5I3G3t4bEBGaobxQIm85dkwibn0SQmibgnzG3bpSspRekaBAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前岳子说了很多，算法小改，就干CFD顶刊。今天这个更流弊，根本不需要做算法创新，就能干流体顶刊JFM！2024年2月，JFM见刊一篇文章，就是圆柱扰流的大涡模拟。只不过是数据驱动。用深度拟合器的方法</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429047&amp;idx=1&amp;sn=23f5aab3b5fb089fc0119da0c50d2b9c&amp;chksm=89076b25f0ab8c84334279f1e6895dc1a4ddf3ad46711c3a895c95cdd0cc4cd72eb167daea58&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 29 Nov 2024 05:14:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
