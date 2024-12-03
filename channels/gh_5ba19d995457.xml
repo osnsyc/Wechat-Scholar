@@ -57,29 +57,94 @@
 
 
 
+
     <item>
+      <title><![CDATA[多模态图像生成模型Qwen2vl-Flux，利用Qwen2VL视觉语言能力增强FLUX，可集成ControlNet]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYHx9RLCm1u1zJr61WGBPZZicviaGPyXN8y5ZTaZE9jpPcdNSX1nmUlib5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen2vl-Flux 是一种先进的多模态图像生成模型，它利用 Qwen2VL 的视觉语言理解能力增强了 FLUX。该模型擅长根据文本提示和视觉参考生成高质量图像，提供卓越的多模态理解和控制。让 F</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489121&amp;idx=1&amp;sn=71a225e551715d1923a94b02a5af200a&amp;chksm=fd0e01b604036926a41dcb452366ce853c85df78352c0ed154ed5c820a93d45e34d1ec0638ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[文本转视频模型Allegro，可以生成长达 6 秒、15 FPS 和 720p 分辨率的高质量视频。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elXSHQPic5rJ8IBKiaNosJKl47LGniaXW6NGticOnwCibeK5T8qlic4oPfsd5XwpM5KFOOqbuSEJIUictd6A/300?wxtype=jpeg&amp;wxfrom=0"/><p>Allegro 是一个强大的文本转视频模型，可以通过简单的文本输入生成长达 6 秒、15 FPS 和 720p 分辨率的高质量视频。主要特点• 开源：完整的模型权重和代码可供社区使用，Apache 2</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489121&amp;idx=2&amp;sn=404c513739c737124a0c5d8166ae3a3c&amp;chksm=fdf93dd2da1e1d3f3028d5cfc910e48d6e862a30eadb1406fcaff567a0c825bfe4eda3af6d4f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[开源文本转语音工具 F5-TTS，一段音频+文字就可以模仿任何声色。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elXSHQPic5rJ8IBKiaNosJKl4QQWgqW0Vjia1wZ7KjB0bJZhC8sUt9Nknjh8xHMh9TGk0ibRKE6OQykwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>F5-TTS是一种完全非自回归的基于流匹配和扩散变换器 (DiT) 的文本转语音系统。无需时长模型、文本编码器和音素对齐等复杂设计，只需用填充标记填充文本输入，使其长度与输入语音相同，然后进行去噪以生</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489121&amp;idx=3&amp;sn=19cf10ba209c794d1976929efc5250ac&amp;chksm=fd7e2d9e9b693edee3d4c9f45ed05656b65c719f82f97785f516dbb30422685cf28ab94f8ec0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Adobe发布TurboEdit：可以通过文本来编辑图像，编辑时间<0.5秒！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elKcprhHqENugIHSUTwb3EOiaaqictMa8fmmNEDqsoISMhGDZH4oZmh7vtMn5sov6khPdhIypPkhDZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍Adobe研究院新的研究TurboEdit，可以通过文本来编辑图像，通过一句话就能改变图像中的头发颜色、衣服、帽子、围巾等等。而且编辑飞快，<0.5秒。简直是图像编辑的利器。相关链接项目</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489121&amp;idx=4&amp;sn=0e723ec829c05e44c99910c8d6740b42&amp;chksm=fd9c03a9a5803bfa3bebe1b9ac3b6bc41e5798ae77279b15f53ebd48620c4328424a4da8432e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[ICLR 2025满分论文，ControlNet作者新作IC-light，控制生成图像照明，代码模型已开源。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enrJ6ibDPoiaQXzhMdZU8spAicfF8vgRl2qenVGz9ZkJkJgBYXd26ys3WTPnNDJtK81bRSE1Xia412nbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>罕见！ICLR 2025 惊现了一篇满分论文，4个审稿人同时打出了[10,10,10, 10]，这是什么炸裂的存在？！这就是ControlNet的作者张吕敏，继ControlNet 后提出的IC-li</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489120&amp;idx=1&amp;sn=5ce1c60e99556e3daf23414de26875be&amp;chksm=fd2f0acef6d77154441020c5a469edd01a30f8515dbdb694a70e87ecfe365df0207e54396fee&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[InstantX 重磅开源 FLUX.1-dev-IP-Adapter 模型，文中附模型和comfyui工作流下载。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eltYhV1JmK1ib9FbmIt2gIyP6xwE5MPwewm6kG9gwsXpPEaHHTOicBN3XsV2LsRvJ5qWf00gn2UwKaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>InstantX 团队的研究人员开源了 FLUX.1-dev-IP-Adapter，这是一个常规 IP-Adapter，新层被添加到 38 个单块和 19 个双块中。使用siglip-so400m-p</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489120&amp;idx=2&amp;sn=75b57ca6dbc89a3ce56b0fb87ab02203&amp;chksm=fd800517dec6f0da7b38ed93291ff450f8e1de6d9ecf8b926f8eeea0ca36da10328512cfbb4d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[腾讯发布HunYuan-3D，支持文本到3D和图像到3D，10秒即可生成高分辨率细3D模型。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elMhPFZCKibTiaBKrjL4Yql4lFH5tVlYMlAnW2RYL3JiaF4vHrEFr3z5TWpyzCAENlicH9DuH5PnpYic3g/300?wxtype=jpeg&amp;wxfrom=0"/><p>HunYuan-3D支持文本到3D和图像到3D功能，包括网格和纹理提取在内，整个过程在 10 秒内完成。文本到 3D：用户可以通过简单的文本描述生成 3D 对象。例如，描述一片绿叶或一把棕色吉他，模型</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489120&amp;idx=3&amp;sn=7d5b3eb3119099b80d1b2d07aba5c552&amp;chksm=fd39675c0e00aa8f01351d6b29aa67a35ab0bbf49587e483ee5f0186e0b4a930d2f7c701f6b9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OminiControl：一个新的FLUX通用控制模型，单个模型实现图像主题控制和深度控制。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYEn3PFyv0qTxQYEgq8VntmUj91vEEYPJjMADiamfkH94icSBs7fF1Tn1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中和大家介绍过Flux团队开源了一系列工具套件，感兴趣的小伙伴可以点击下面链接阅读~AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。OminiContro</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489120&amp;idx=4&amp;sn=b47a1a1dc9d3a6e530c33ac10c393344&amp;chksm=fd44fae10beda64060d7586094407a7ea15d29c0e7989d45e055224184623801cb08a659cac2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       

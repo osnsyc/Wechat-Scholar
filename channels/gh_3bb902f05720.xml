@@ -54,28 +54,92 @@
 
 
     <item>
+      <title><![CDATA[YOPO (You Only Prune Once)：给LLaVA做剪枝，大幅缩减多模态大模型计算量至12%！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqTlhV2bWYEar7Zh57GIEqLWZIoFia3cZaFiaPXib2O1m1xhrljwX42q7rnaLSTaXlePEPXicnjT4dfrQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨PaperWeekly来源丨PaperWeekly编辑丨极市平台极市导读 本文以LLaVA模型为实验对象，通过一系列剪枝策略，将计算量压缩至12%，同时保持了与原始模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247701049&amp;idx=1&amp;sn=715a76523af7f5e731e8456370a5483d&amp;chksm=edfdc032ed10e2b58adaff09b010f8dfb7cf115bef537b8d252475b05286e118b586aca188a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[人人都是艺术家！斯坦福提出扩散自蒸馏：定制图像生成，任意上下文下扩展到任意实例！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfovG0IjaprD1Hqicue9xhGk7sbKuKIs8XhQgSdFic2KfQtQMSSeibjnYLETVRqEkfCnP2uWpoTDSAgVA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI生成未来来源丨AI生成未来编辑丨极市平台极市导读 这是一种零样本定制图像生成模型，能够在任何上下文中扩展到任意实例，并且性能与推理阶段调优方法相当。该技术通过自蒸馏</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247701049&amp;idx=2&amp;sn=22711b67dd9cc0958908b826162eb342&amp;chksm=ed2567932c7ad136d0be45ee550704808e67ed6dbd6b61784440537b282afdfb67c31a182d35&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[关于计算机视觉中的自回归模型，这篇综述一网打尽了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqTlhV2bWYEar7Zh57GIEqLnsgePBpmcib9gNyJFcqRPog0GogxF2LZ0zhSdJWBJgPewCiaqWrYYOUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨机器之心来源丨机器之心编辑丨极市平台极市导读 文章全面回顾了自回归模型在图像生成、视频生成、3D生成和多模态生成等任务中的应用，涵盖了约250篇相关文献，提供了一个系统</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247701049&amp;idx=3&amp;sn=a1e4648b7bb2fb312c0fefbecf7328ba&amp;chksm=ed0029aa4ccd6397f11015b3cb15ee43e74761725792040664224e9275e7edaf6f5c1abc3e4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[全球五大巨头GPU总量曝光！2025年等效H100或超1240万块]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqTlhV2bWYEar7Zh57GIEqLLOkKgxiajUfGBnFUuoqJewkN1J19LfQlVwOdadibP1fhMt6mWczHiakqg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 AI巨头的芯片之争，谷歌微软目前分列一二。而xAI作为新入局者，正迅速崛起。这场竞争中，谁会成为最后赢家？>>加入极市CV技术交流群，走在计算机视觉的最</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247701049&amp;idx=4&amp;sn=e77f78179fb73449cd944e0fd83df8f9&amp;chksm=edefcf21ea63ca085a9295cebed12bf9feaed751e139ff0f6fccaaf58b6975f0e94f1da5f01c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 02 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[ICLR 惊现[10,10,10,10]满分论文，ControlNet 作者新作，Github 5.8k 颗星]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoCsLPsv675KwGPSVr2QPmnicZdt3ibicicGQa7J2fHCdLZy6iapHmbCMhgZFSVrITuPTcFaKUk1ib8rrtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨机器之心来源丨机器之心编辑丨极市平台极市导读 四个 10 分！罕见的一幕出现了。 >>加入极市CV技术交流群，走在计算机视觉的最前沿您正在收看的，不是中国梦之队的跳水比</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700994&amp;idx=1&amp;sn=2e8c8f1de9e0ab9c0d3c1b8ab4fe8b0c&amp;chksm=ed6a6dff90ffdb17089c23816ab20fbe79d4d08fea6abc0feb43f41664dc314e6c128ac2a178&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[鲁棒目标检测数据集资源汇总]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfovG0IjaprD1Hqicue9xhGk7G8vULVS24STicib9NU4bm1IKkchQzAmyu25yEBOCwVKLJOo9icDRyZciag/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台多样天气数据集DWD (Diverse Weather Dataset)数据集下载链接：http://ek217.ensl.cn/19城市场景检测数据集，由五种不同的天气条件</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700994&amp;idx=2&amp;sn=719cf709c29c19616d113f639a392205&amp;chksm=ed1901ab0b910c93a7964fbd81cf5104fc0b18aa556a5832e41f48badab4533f0cae1885b450&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[80G显存塞50个7B大模型！清华&amp;OpenBMB开源增量压缩新算法，显存节省8倍]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfovG0IjaprD1Hqicue9xhGk75bStH17MvPiaDtsxRUZUIvUZSgjFm5iaMajsiaic0PKJWhe4ALhb2VHUEw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨Delta-CoMe团队来源丨量子位编辑丨极市平台极市导读 最新模型增量压缩技术，一个80G的A100 GPU能够轻松加载多达50个7B模型，节省显存约8倍，同时模型性</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700994&amp;idx=3&amp;sn=f9184ed634b0e491fed32bd06847b7be&amp;chksm=ed0e02c9f3dde2a0491b1166a415a32f5737a21ace1a7c193b3003da6cb9fa8888e0d266657f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ChatGPT两岁，OpenAI 10亿用户计划曝光！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoCsLPsv675KwGPSVr2QPmnRZFQI9ffePfdxnWpsrqibMmIicQDxSsInn00RoUlaRLuTiapeHfPHR47Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 ChatGPT已经2岁了！OpenAI下一个目标瞄准十亿用户，预计明年放出AI智能体产品。就在生日这天，马斯克还送上了大礼：阻止OpenAI全面盈利的一</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700994&amp;idx=4&amp;sn=6153638906d639800968b34b89ed262b&amp;chksm=edc184c67a08c82cb89c96744f273ad934e7b71c647983874d0ce524fb9f5c045ab89b57c363&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 01 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -330,70 +394,6 @@
       
 
       <pubdate>Tue, 26 Nov 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新的Mamba架构又双叒来了！上交大 &amp; 华为提出QuadMamba ：多个视觉任务SOTA!]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo91ibEdIosuImdPaoMlK5z3FNqyHPHibEbNh78p3HkpZnmkSkoRWj59zibtAjjCSehicMqMHKlGw75mg/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI视界引擎来源丨AI视界引擎编辑丨极市平台极市导读 该研究通过分析Transformer模型中的反向传播矩阵，提出了一种新的方法来理解语言模型（LM）如何学习和记忆信</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700495&amp;idx=1&amp;sn=d2c0b5f77e9e23c6d691b75efb38d240&amp;chksm=ed5b97101ab4ceebabcdc0c17de4f4c7801887338b5a6fb96409edc8bacc548f6c64cf1d5659&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Nov 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[100P普惠算力、全周期贴身服务，青岛人工智能计算中心邀您共启智算新纪元！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo91ibEdIosuImdPaoMlK5z3SjUAX5A8tIlB7pOH0Wk5r1t9DUIalLjtNppX9IqTvKLr5u7FhicOEwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台算力，是生产力，也是创新力。当下，AI产业蓬勃发展，大模型自研热潮井喷式爆发，与之相关的高层级算力需求不断涌现。这座黄海之滨的算力灯塔—青岛人工智能计算中心，能为AI企业带来</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700495&amp;idx=2&amp;sn=08e5df923837819c732675f6ed1c0f29&amp;chksm=edc2ff14d01679858120c213a276ff509e74a8c0eb50f3f12af86973d44a6c9eb80699c7c3f9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Nov 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ECCV 2024｜CityGaussian：VR/AR时代的城市重建新标杆]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo91ibEdIosuImdPaoMlK5z3B3lMJcgrGkSmnqF21hrPjE9ZzyictN9uCWv0JmDiaJ4ahiaZugCYdXAsw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨CVer粉丝投稿来源丨CVer编辑丨极市平台极市导读 中科院自动化所张兆翔团队提出了一种全新的大规模3D场景重建算法CityGaussian，能够基于无人机航拍数据对小</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700495&amp;idx=3&amp;sn=9d407ca6c45e58e595c1b5e9dd91f4b5&amp;chksm=ed7adfacedbcc46a16f83df9bab5988372f3fca068ab757de32d7a9a582cf1532bfd3498163d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Nov 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[和梁朝伟同获港科荣誉博士，黄仁勋与沈向洋对谈Scaling Law、后训练、机器人和爱情]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo91ibEdIosuImdPaoMlK5z3AiaSay1lMbO0QV6u59zf9mMrt89EyHmXBE1Mf1bzGl5m0SsDJqfBklA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 11 月 23 日，香港科技大学举行了今年度的学位颁授典礼。 >>加入极市CV技术交流群，走在计算机视觉的最前沿英伟达创始人和 CEO 黄仁勋又新增一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247700495&amp;idx=4&amp;sn=f482fa698c67f8dce524de375f74d641&amp;chksm=edaca719227d020c617de1abf0c446dfbc40d360210af0e6dfeb136e2b6d7315fbcadb31370c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Nov 2024 14:00:00 +0000</pubdate>
       
 
     </item>
