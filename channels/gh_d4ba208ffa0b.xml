@@ -46,11 +46,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[最高级的CFD程序员，只需要最朴素的复制与粘贴]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknf9vSp11NmgE50a7s5m37b8YibTydeFPF88ycfQZeNniatgiaQzltILZCicEujdTf8BeNVoMcY4llxJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>岳子写OpenFOAM代码20多年了（算上我导师的10多年）。发现一个问题，就是CFD公式需要经常查，代码也经常需要复制粘贴。高级的程序员，往往需要最简朴素的复制粘贴。那么从哪里复制？岳子的CFD代码</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429062&amp;idx=1&amp;sn=4636106c14f3b718f7c83845655a739a&amp;chksm=89f788dec7f8694455601a36f1ba2446b683345ef787919f72614edd7b2769ddba3ab67433d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 03 Dec 2024 05:17:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[做实验的开始手搓NS方程求解了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknaLic62P50Hwibuh1mwich1EUK3nARVyr5a1DCianxlZbUyNYtDIH4yW05xZg6wT9oOKibVLPndRWBicEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这文章挺有意思。岳子一说你们就明白了。传统NS方程的求解，先算速度，然后算压力，然后迭代。这就构成了稳态SIMPLE算法。在这个文章，把SIMPLER方法，离散PDE求速度那一块，通过PIV的方法实验</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429048&amp;idx=1&amp;sn=770e89f2a43850deed0cac9271a95dba&amp;chksm=8952c81ce246d68114c245595a9b7ba107d8fc469aabbc95ea023439fc239fbe6cb7c9754148&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 02 Dec 2024 05:19:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
