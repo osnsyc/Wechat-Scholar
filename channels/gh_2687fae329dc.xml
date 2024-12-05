@@ -36,24 +36,27 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[LS-DYNA：质量缩放与时间步长]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/WVxd4XuicXVXrroeQUHXZ42niaktYwX826Ed3R8JbTqbHQSXvD1INpVdhl8rDCNHYIWx6JFXjOPpfyVPIueBKWzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>问题来源    之前有学员提时间步的问题。质量缩放    打开质量缩放才可以看到时间步长属性。    在显式动力学分析中，要求在一个时间步长内，应力波传播距离不能大于一个网格特征尺寸。当网格特征尺寸偏</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247508016&amp;idx=1&amp;sn=caf92963d9dd49d3116dc4aaa0a891e8&amp;chksm=c196b6820d887d6ddb1abad1a1386cd5c5c88decfd7197aee3d532559d5443db7fe3f096cee5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 05 Dec 2024 03:58:29 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[ANSYS通用结构：单元畸变与网格自适应]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/WVxd4XuicXVXRicKj4EiaB6ZibCxNDoTXOdNibrvnibQMtcOLw2YoCCMltk03XWaV1XXqhibseqesgX37IA18tufS2Qcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>问题来源    最近护航班(一对一仿真专家护航班)的学员再次提到变形大导致求解报错的事情。让我想起本号早年写过网格自适应的文章。《精通网格自适应功能，告别网格畸变报错，彻底征服大变形问题！》《橡胶超弹</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247508001&amp;idx=1&amp;sn=1ae66d604a46d9e34d39d5c47b75608f&amp;chksm=c11bbba36db960e9ae0f3a82909f5df68df83ba80b7043a05a0bbb63d994a7fe59a187a3c92e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 30 Nov 2024 05:16:36 +0000</pubdate>
+      
+
     </item>
     <item>
       
