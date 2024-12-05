@@ -37,11 +37,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[RMSNorm的精度陷阱：记一次LLM推理精度调查]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vNLHicWSUpcTuLz6sFaV1nS6V3ib30eWusvl44NDBYXvT095nDT3bScwSLfCEVNsW3GEJYBRWMB70Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景我们最近在用 SGLang 部署模型，当我们使用 TP2 的并行方式和 BF16 的dtype部署一个微调后的 LLama3 8B模型时发现了一个诡异的现象，最终确认为是掉入了一个RMS</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525820&amp;idx=1&amp;sn=52be4969fd152078b14e719788462eca&amp;chksm=9e54436411f3c48822a6269fe53e2f0924de84d092394d5918622d2ca08064c0753af17823be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 04 Dec 2024 10:24:50 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[图解大模型训练系列：序列并行4，Megatron Context Parallel]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNzBibbTprRN5ftPSHJh43eV1g1V1C3zDTZpQIpba3Uo4hUaqOY6sawgT7FBnNBhwO5Sr1rU3VHTQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在序列并行系列中，我们将详细介绍下面四种常用的框架/方法：Megatron Sequence Parallelism：本质是想通过降低单卡激活值大小的方式，尽可能多保存激活值，少做重计算，以此提升整体</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525807&amp;idx=1&amp;sn=3ef396929532ce651eaa22af08752a13&amp;chksm=9e0ebec4eef1bf4dff6d494b055d4302d464e92e920bfe3605b8dec25041c7fa1d03773044a5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 03 Dec 2024 13:08:07 +0000</pubdate>
+      
+
     </item>
     <item>
       
