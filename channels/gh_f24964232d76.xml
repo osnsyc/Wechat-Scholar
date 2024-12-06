@@ -38,11 +38,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[如何正确理解NVIDIA GPU利用率的概念]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vmDD0JD2rtfe1gej2ufdSvrYiakxppgic61WZu1ug8XdzU1nBq33Bk3YNx5OzIL5DjtOjHzA79rLkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客原地址：https://arthurchiao.art/blog/understanding-gpu-performance/ 这里做了翻译。通过 nvidia-smi 等工具报告的 GPU 性能</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525834&amp;idx=1&amp;sn=1d7661262210b4d56c843caea92fb289&amp;chksm=9e4732c59605be76de11b25e638c5ece2e62083a7a0f87ef32071a02a47349e0b19163dc38c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 05 Dec 2024 11:56:09 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[RMSNorm的精度陷阱：记一次LLM推理精度调查]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vNLHicWSUpcTuLz6sFaV1nS6V3ib30eWusvl44NDBYXvT095nDT3bScwSLfCEVNsW3GEJYBRWMB70Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景我们最近在用 SGLang 部署模型，当我们使用 TP2 的并行方式和 BF16 的dtype部署一个微调后的 LLama3 8B模型时发现了一个诡异的现象，最终确认为是掉入了一个RMS</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525820&amp;idx=1&amp;sn=52be4969fd152078b14e719788462eca&amp;chksm=9e54436411f3c48822a6269fe53e2f0924de84d092394d5918622d2ca08064c0753af17823be&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 04 Dec 2024 10:24:50 +0000</pubdate>
+      
+
     </item>
     <item>
       
