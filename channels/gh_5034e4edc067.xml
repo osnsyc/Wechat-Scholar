@@ -40,23 +40,86 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[NLP入门必读—复旦大学《自然语言处理导论》PDF]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJLLR9P18DWdLzwWfgCSHeslkdZZRR8phubMicXmAIneO4v6o8DnaPpnX2J5KvQicjcdib1LFEICxQLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍大模型大火，这个风靡全网的 AI 应用的各项能力是从何而来，它是如何演化至今的，未来又将走向何方？ChatGPT是通往通用人工智能的未来吗？还是像Yann LeCun说的那样，大模型解决不了自然语</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446267&amp;idx=1&amp;sn=f6c4ef1023b3baeec635e43cedcdccc0&amp;chksm=bf4beb8a74119df96e78e1463c48539e2f315bde2c5324a629461ba138640ea9d77c39e13de5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Dec 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[傻傻分不清？一文彻底说清Agentic RAG的前世今生！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/wT3y8Vg9pFF8oejUibdmbWHRqn4FmhJicedzz67ia6YSdkhkws3XtiawOSJwiboZP6QW2qsJZGa8fdmylKLicYtJRCjQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>生成式AI的发展日新月异，一不小心你就会淹没在新的概念中。RAG（检索增强生成）、Agent（智能体）作为主流的大语言模型（LLM）应用形式已经广为人知。这不还经常听到一个词：Agentic RAG，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446267&amp;idx=2&amp;sn=07a3572f28d34630b9399c9a68d5353f&amp;chksm=bf3a2da6b95499e93ac9d008bfd687f526e6a17a9645f92bf5d615b0ac42c615107f432473b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Dec 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Huggingface 大模型的下载与上传]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/uuUZMmZ5aQCeuJXRh6jibiblOHFwRwKalLQg9eAbC14yMRWibE9szxOwlYEDthGibBt4HoIoyhwPxiaibTtdibocqOUSA/300?wxtype=jpeg&amp;wxfrom=0"/><p>下载假设我们需要从 Huggingface 下载 Qwen2.5-0.5B-Instruct 模型1. 使用 git lfsGit LFS 是 Github 开发的一个 Git 的扩展，用于实现 Gi</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446267&amp;idx=3&amp;sn=81ea1745ffa78563b6385eec3df00e06&amp;chksm=bf6e29f752931ccf9ab8c5ee6a94d75bbbd42c860e6cdb30f1bcfbd8e7282ac9fbd606d3844a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Dec 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[google search: 用emb模型做个性化语言prompt]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jT5Sp7MICPwtJliaZGsjsyewxHUzkPT8VxPZahIsaGIJicngj2gIgicx2y4nctqgC9bWcEDbpovLa0T1ibOibn4hZeA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型具备很强的信息推理能力，但在很多实验经验看来，直接把特征通过文本prompt的方式扔进大模型内，大模型的理解并不是很好，一方面是对特征并不能有很好的理解，另一方面现有特征到具体任务目标的映射关系</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446267&amp;idx=4&amp;sn=ab8771d68663a7d84abed549affef96d&amp;chksm=bf331631e2e662906c0d9db2932ec31a76e3912ae13f3a41fa9ddc39dffc7bc514817d539939&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Dec 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[华为IDLE-Adapter:LLM融合稀疏ID完成推荐任务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hg6UPGp0Hib56T8yEmxdVLmOavHo60uzhkTIkSeOWJKrrickvQhGSdOMemQovmSJIA2gbgXCLCUUk0SN0ttO1nmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题: Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation链接: https://</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446267&amp;idx=5&amp;sn=47a6c5a147bfbfa4d1352a3e54bf28d8&amp;chksm=bf3dca2fc39b24325eb3434026f073fee361648529a035d6d2a623ae655615160228618276b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Dec 2024 02:10:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[OpenAI发布强化微调技术，SFT退出历史舞台？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKAbKiaeBAE63zNh5flibftS53O2icNnHiaUcLwQd78zHFN2LsYovSVTp8kW6BZVK4Vhoppgicgr0CPPlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：包包算法笔记大家都听说过监督微调SFT，强化微调是个什么东西？这次为期12天的OpenAI发布系列的Day2，就搞出了一个让开发者震惊的玩意儿。强化微调（Reinforcement Fine-T</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446258&amp;idx=1&amp;sn=5fa0bbde9c4ed43effc3c8ce705bfd69&amp;chksm=bffb72ed30d7e4ed97c9556662dc98ae8636a8f852c0482a4af04ad68e10df8e6fbaac20e251&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 08 Dec 2024 12:47:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[PyTorch显存优化小技巧——Gradient Checkpointing | 文末赠书]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLoj1IoZicnjWw6picltiaxyGiaQg41RVBRwblWE72Q5Hubj6sWJJLibViaibOyibgmyMejrIZocepndqPrlA/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末赠书          各位被显存溢出困扰的朋友们，是不是有时候会有这样的疑惑，明明两个模型参数量接近、大小相似，但训练的时候，一个模型动辄显存溢出，另一个跑起来却毫无压力？           </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446258&amp;idx=2&amp;sn=b42e2a814b80f66771391fbb95433cc9&amp;chksm=bfd3eb4b831d306f18c2bde3756a9e8b6e43c1b8bb496c6feb7ad6c5426673e3c5e6d0d212e7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 08 Dec 2024 12:47:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM不会CoT隐性推理，只会显性推理！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah8ia2Tb5tVvK9Vq6sua8bMZfa43eE7HAwtmGymzZ9T36HzeEfriaSrlibAfkic7Yh9vibzJXle48ic8ohw/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章探讨了大型语言模型（LLMs）在隐式推理中的表现，发现尽管隐式推理理论上更为高效，但实际上并不等同于显式推理链（CoT）。研究表明，LLMs在进行隐式推理时并未真正进行逐步计算，而是依赖于经验</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446258&amp;idx=3&amp;sn=f90c83d7efd33d49352fa7f0bf7f9b58&amp;chksm=bfbce25c70eeb2f3d9bae986ebaa1841fce6030d97f67918357e8586cbabfe64adf62d6840c3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 08 Dec 2024 12:47:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
