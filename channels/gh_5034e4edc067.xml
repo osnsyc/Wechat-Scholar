@@ -40,40 +40,87 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[OpenAI发布强化微调技术，SFT退出历史舞台？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKAbKiaeBAE63zNh5flibftS53O2icNnHiaUcLwQd78zHFN2LsYovSVTp8kW6BZVK4Vhoppgicgr0CPPlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：包包算法笔记大家都听说过监督微调SFT，强化微调是个什么东西？这次为期12天的OpenAI发布系列的Day2，就搞出了一个让开发者震惊的玩意儿。强化微调（Reinforcement Fine-T</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446258&amp;idx=1&amp;sn=5fa0bbde9c4ed43effc3c8ce705bfd69&amp;chksm=bffb72ed30d7e4ed97c9556662dc98ae8636a8f852c0482a4af04ad68e10df8e6fbaac20e251&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 08 Dec 2024 12:47:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[PyTorch显存优化小技巧——Gradient Checkpointing | 文末赠书]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLoj1IoZicnjWw6picltiaxyGiaQg41RVBRwblWE72Q5Hubj6sWJJLibViaibOyibgmyMejrIZocepndqPrlA/300?wxtype=jpeg&amp;wxfrom=0"/><p>文末赠书          各位被显存溢出困扰的朋友们，是不是有时候会有这样的疑惑，明明两个模型参数量接近、大小相似，但训练的时候，一个模型动辄显存溢出，另一个跑起来却毫无压力？           </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446258&amp;idx=2&amp;sn=b42e2a814b80f66771391fbb95433cc9&amp;chksm=bfd3eb4b831d306f18c2bde3756a9e8b6e43c1b8bb496c6feb7ad6c5426673e3c5e6d0d212e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 08 Dec 2024 12:47:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LLM不会CoT隐性推理，只会显性推理！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah8ia2Tb5tVvK9Vq6sua8bMZfa43eE7HAwtmGymzZ9T36HzeEfriaSrlibAfkic7Yh9vibzJXle48ic8ohw/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章探讨了大型语言模型（LLMs）在隐式推理中的表现，发现尽管隐式推理理论上更为高效，但实际上并不等同于显式推理链（CoT）。研究表明，LLMs在进行隐式推理时并未真正进行逐步计算，而是依赖于经验</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446258&amp;idx=3&amp;sn=f90c83d7efd33d49352fa7f0bf7f9b58&amp;chksm=bfbce25c70eeb2f3d9bae986ebaa1841fce6030d97f67918357e8586cbabfe64adf62d6840c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 08 Dec 2024 12:47:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[【重磅】2025年IEEE Fellow出炉！ 300多位新晋升会士！国内多名学者当选！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKAbKiaeBAE63zNh5flibftS5A2jIvuY6HdZkuQ5lVbpIAeBu2ogzFMdY7OvsHoM8z5sXKpFJm0IQaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：专知最近，美国电子电气工程师学会（Institute of Electrical and Electronic Engineers，IEEE）发布了新一届 Fellow 名单。当选的IEEE F</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446234&amp;idx=1&amp;sn=9f4a1754d030ff6847e81fa01b1586f0&amp;chksm=bfe47c0f202d8d630125e8b7ad753609bb370307d02bc254eabe0b6f51305f8a14b633326b03&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 07 Dec 2024 12:54:19 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[本科生大作业给8分，iclr评审机制的失灵？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj9UNxfkzBKLNYMPCJOArsQnHQ7VHTrAIbYBkIE9d8qp1ndN80Wnqca5XdysNT62XiaXtia693Nzo5w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：难赋——以前看见个评论说ai的十分制会议中的10分指的是“如何这篇文章没有中，我将断绝与该会议的一切联系”，要是今天讲的这篇论文中了iclr的话，没准这句话对于iclr来说可以改成对8分的评价了</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446234&amp;idx=2&amp;sn=9f6778bd101d751ea7996e0dc9a917b8&amp;chksm=bf82655e28f69bf656c1070db45eda100aa1a3992bd0e21a32dab7fdb3c043dc06ec105837f7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 07 Dec 2024 12:54:19 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[千问LLM：三大AI助手的“奇葩说”：ChatGPT、KiMi和Claude的对决]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iabUOs2OBUhTJchV1800lWEhIq8F6xhCBBmI7mrYULAlSl0oCbTL3shIUt5ic9JRFtYZSMek7jTNicib53iakDz9dSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>千问LLM之二十七：“奇葩说”：从一个大模型输出错误中，看出它需要改进的路有多长？亲爱的网友们，今天我们不聊明星八卦，不聊政治经济，我们来聊聊那些比肥皂剧还精彩的AI助手们——ChatGPT、KiMi</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446234&amp;idx=3&amp;sn=091a3d0effbf319e9452cd7516ab2368&amp;chksm=bfd3777dae13a0ae977c06736b27f8784c60218c3a136a14a94a1fba5ce9b6468b21fd0f001d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 07 Dec 2024 12:54:19 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[vllm 中量化模型的推理速度对比]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/uuUZMmZ5aQABYSzYvcOja4cqsQkpO340JSichlBvia3qQSxsmZGcY7JgNicsBl7emjEiaB1aHDocs7uD8JfNtRCKDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>从 moss-003-sft-data 数据集中采样 2052 条中英文用户输入数据，基于 vllm 0.6.1 推理框架，分别测试了 Qwen2.5-7B-Instruct，Qwen2.5-7B-I</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446234&amp;idx=4&amp;sn=1bdb151b40ad4c23135bbbdb8eae825e&amp;chksm=bfdec9d583a14434583f0d15ad4482b03a03bb13ab8dfd8a1d60a283c7248839123bf819a328&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 07 Dec 2024 12:54:19 +0000</pubdate>
+      
+
     </item>
     <item>
       
