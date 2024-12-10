@@ -36,17 +36,57 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[微软提出ICAE：从上下文压缩的角度看待推理加速]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDfmm8v5c78M5cgVsb2XpGe3IkaSTscwGVk8AYtdKwGFMzuh62nnsUYso2mRXeqeSbBlsy31zClQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：难赋由于目前主流的注意力机制依然是二次复杂度，对长上下文的语言建模仍是目前Transformer模型的一大挑战。之前的工作主要放在对模型架构的改进，如注意力模块稀疏化在注意力中引入记忆信息对外部</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534206&amp;idx=1&amp;sn=fce02234571138f1c9777380e568f437&amp;chksm=ea71d5d9db2b8bc31152107edcd00e793a99677975ff66812e7e7482406a947feda572c9b527&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 06 Dec 2024 11:41:06 +0000</pubdate>
+      <title><![CDATA[开源 Agent 小屋]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpXQmR5NJQX5Uf5zhicg77bHk9eMkF5zThKoeXWVhGTicKbBvYu8ibIw2r4QT23WAosVr2Zl1NtJWGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：何枝地址：https://zhuanlan.zhihu.com/p/9096314010「深度学习自然语言处理 公众号」做了重新排版，转载授权请联系原作者Live Demo（网站在进入前可能会加</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534261&amp;idx=1&amp;sn=baf9e20683ca84533832c241b02c675a&amp;chksm=ea509505a07671c2291f969d3032e362177bdc786525bd730389942fb4d2871bcccb9e9e3904&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Dec 2024 12:35:10 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[从答案到问题：一种新的学习目标让LLM更擅长推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDfmm8v5c78M5cgVsb2XpGsDClO025hEy1wwDkZpfKRlJ9Hfu9CCwQXxnCTYAGUtibAxic80WWmKmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>整理：深度学习自然语言处理 公众号这篇文章介绍了REVTHINK框架，通过数据增强和学习目标来增强大型语言模型（LLMs）的反向推理能力。研究表明，REVTHINK在常识推理、数学推理和逻辑推理等12</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534206&amp;idx=2&amp;sn=0fa464f55cc83a71eda8197847617ae4&amp;chksm=ea47adf190ac68cd8257c7bbaadff2bc6e36e81352bb549213bd7874be22fd5bac5b29911ff4&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[让英雄查英雄，让好汉查好汉：LLM-as-a-judge综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpXQmR5NJQX5Uf5zhicg77bZokfWMWOvmUloMkxt8dibBibvO3gM4FmXiczTZUhPIxwdt8AG7q89okXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题让英雄查英雄，让好汉查好汉：LLM-as-a-judge综述时间12.11  20:30-21:30 周三引言最近，LLM出色的表现推动了“LLM-as-a-judge”概念的诞生，即利用LLM </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534261&amp;idx=2&amp;sn=230d5c02da8d4132ddde6cc711c325f8&amp;chksm=ea0936cf54a04697dbd05ba54229e9ed0e20f99b5e92b5d7cd9578122f7cdc358f88cd7d4f6d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Dec 2024 12:35:10 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[基于LLM的社交代理在博弈论场景中的综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajpXQmR5NJQX5Uf5zhicg77bUpdwokULz01y2Klicatc27zsWl4jvGACSeTHLlTukfNXvB2cgXfZiaFw/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章题为《基于大型语言模型的社交代理在博弈论场景中的调查》，系统回顾了现有研究，总结了大型语言模型（LLM）在博弈论场景中作为社交代理的应用和进展。文章分为三个核心部分：博弈框架、社交代理和评估协</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534261&amp;idx=3&amp;sn=b5d7612a6a5878d2c4d1edb4f9075ece&amp;chksm=ea9c14b989c319d2f390904a5f27e0eabd70ea44ca01bfe556232d17e1308d06ab4f84742c83&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 09 Dec 2024 12:35:10 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[微软提出ICAE：从上下文压缩的角度看待推理加速]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDfmm8v5c78M5cgVsb2XpGe3IkaSTscwGVk8AYtdKwGFMzuh62nnsUYso2mRXeqeSbBlsy31zClQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：难赋由于目前主流的注意力机制依然是二次复杂度，对长上下文的语言建模仍是目前Transformer模型的一大挑战。之前的工作主要放在对模型架构的改进，如注意力模块稀疏化在注意力中引入记忆信息对外部</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534206&amp;idx=1&amp;sn=fce02234571138f1c9777380e568f437&amp;chksm=ea71d5d9db2b8bc31152107edcd00e793a99677975ff66812e7e7482406a947feda572c9b527&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 06 Dec 2024 11:41:06 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[从答案到问题：一种新的学习目标让LLM更擅长推理]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDfmm8v5c78M5cgVsb2XpGsDClO025hEy1wwDkZpfKRlJ9Hfu9CCwQXxnCTYAGUtibAxic80WWmKmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>整理：深度学习自然语言处理 公众号这篇文章介绍了REVTHINK框架，通过数据增强和学习目标来增强大型语言模型（LLMs）的反向推理能力。研究表明，REVTHINK在常识推理、数学推理和逻辑推理等12</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534206&amp;idx=2&amp;sn=0fa464f55cc83a71eda8197847617ae4&amp;chksm=ea47adf190ac68cd8257c7bbaadff2bc6e36e81352bb549213bd7874be22fd5bac5b29911ff4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 06 Dec 2024 11:41:06 +0000</pubdate>
+      
+
     </item>
     <item>
       
