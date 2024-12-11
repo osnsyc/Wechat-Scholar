@@ -61,28 +61,92 @@
 
 
     <item>
+      <title><![CDATA[LiFT：利用人工反馈实现文本到视频模型对齐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekB7CXUYR45xqh1P2Q9zWuxkuFceIwRBDcNLXKdaAmCkqmFBQ9yBx50KHAhV7I3F6zibhiaKfKZoG8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p> LiFT：利用人工反馈实现文本到视频模型对齐今天给大家介绍的文章来自公众号粉丝投稿，这项研究提出了一种新颖的微调方法 LiFT，利用人类反馈通过三个关键阶段进行 T2V 模型对齐：(1) 人类反馈收</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489358&amp;idx=1&amp;sn=177f1bb43481f51757f4415353850345&amp;chksm=fdab21f8834c3e7cabe292e6138a247b551555460f47c88b31e60d3028e045bab4fd9f319d0a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 10 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Still-Moving文生视频模型定制框架，引领AI创作新潮流！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekGichZJXKzLt6ibAHt5XWRKcyeHmiaGH56bVYpGzicX3nlRa02RTJCWdXkENGbP3adodafagNCgKyZYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，定制化文生图（T2I）模型取得了巨大的进展，特别是在个性化、风格化和条件生成等领域。然而，将这一进展扩展到视频生成仍处于起步阶段，主要是由于缺乏定制化视频数据。Google DeepMind </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489358&amp;idx=2&amp;sn=5c12c8d6cd69b1b67fa6a343e7d8e862&amp;chksm=fd7fc3345e12b0a86f483d824d990a59157691d509c0acbbc43431fc19a83e24df8a67f77485&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 10 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[个性化图像生成新SOTA！阿里开源MIP-Adapter，可将IP-Adapter推广到多个参考图像！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en553ETYWe4BYUv7R7Iibote1AADVDfRBnkq3JPLgRiclNJjwcPXztGYwW8ChWH8NjEcr9ibKS4asmjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍阿里最近开源的个性化图像生成的新方法MIP-Adapter，将无需微调的预训练模型（IP-Adapter）推广到同时合并多个参考图像。MIP-Adapter会根据每个参考图像与目标对象的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489358&amp;idx=3&amp;sn=cb0ee069216fe3e7efc8fddb2237517e&amp;chksm=fd7b5e890e0b8b87ba9ea38cda5aa8148b5b0e3d3109ea7974da86385c266354935c3163651b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 10 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[MoMA：即插即用、无需调优的快速个性化生成方法！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekcDtU5TRWR4b0ttfgqrxKDOQAmDscucEyJqSeHYUm1lVuU1IS2LukibibiaoOxpibhtu00EDvRCvPshQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>字节提出一种即插即用的快速个性化生成方法-MoMA。不需调优，只需一张主体的图像(下图蓝色圈出)，就可以生成文本对齐的、保留身份的同一主体的新图像，只需要一次向前传递。我们的模型既支持重新语境化，即相</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489358&amp;idx=4&amp;sn=9475c30f628487a85414141019e153f3&amp;chksm=fd3320b3cbc4912959aa5313986b0923dd608c85e76011b3cf0b6b6e9a62132875f600fa9d36&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 10 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[海螺AI发布最新图生视频I2V-01-Live：一键将静态图像转化为动态视频，表现力无敌！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emYIXZcOoWmiamNNy78gGxDxibqKbSefT8384qic8CJSaHHKUJRRexld0rOacyFHmNWCJHJUk83sicicuQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>海螺AI视频的最新模型——I2V-01-Live，正是这样的一次技术迭代，它以其独特的功能，为静态图像注入了生命力，让它们在屏幕上“活”了起来。这不仅是对现有视频制作流程的一种补充，更是对创意实现方式</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489357&amp;idx=1&amp;sn=897bf56e53fe2ea9284a919e5695b44f&amp;chksm=fd04132efcc76c8e519d536d030d72252ff952e0096990c2954682590f09d1dfc4bf7a71553c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 09 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[登顶Hugging Face文生图模型榜首！Recraft V3可精确处理复杂长文本和手指等解剖学细节！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emo5W5SskRqTMcQ39iaLjtibdfWiaulu8SLia1CmOhUK8o1DFXv1ZuIO9wgBw4mH09eF6uw4vAzibRT3rQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>Recraft推出了其最新的图像生成模型—Recraft V3。通过引入设计语言思维，Recraft V3为图像生成树立了新的卓越标准。在Hugging Face 人工智能文本转图像模型排行榜。它以 </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489357&amp;idx=2&amp;sn=bdffa34e151e40b1bfa46e50455e70d4&amp;chksm=fda9fc6a7e20d309629de56a9768c56431b1418f9b719195f79393fc56cba21c1918ffbbcdc7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 09 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[UniCon：可以在一个模型中针对目标图像条件对实现多样化的生成行为]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek42oQiaPZEylT2W0D4Wu6cvYsicLg7LOGv9Z2qo7Fm3eh6ibafUbUnWckhokIBrRiciaay05Sl0OF58eQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>UniCon 支持在一个模型中针对目标类型的图像和条件实现多样化的生成行为。UniCon 还提供灵活的条件生成能力，自然支持自由格式输入和多种模型的无缝集成。SJTU, Google亮点• UniCo</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489357&amp;idx=3&amp;sn=c8711042ffbe888d24756b3577eb4827&amp;chksm=fd64bb7c9c5653845f7e7fa1f1ee8b78dba57ad4b19d3af77ba01e881027d21d391c1dcb5eea&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 09 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ScribbleDiff：使用涂鸦精细引导扩散，实现无需训练的文本到图像生成。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en4dVnOT75Vve5gBZeAMAcqnHFQnQNTu2jZ3gdtvtEhgfeuBiawdPpo4eRXb4xIj7t0TCyfMVB3Rhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>ScribbleDiff可以通过简单的涂鸦帮助计算机生成图像。比如你在纸上随意画了一些线条，表示你想要的图像的轮廓。ScribbleDiff会利用这些线条来指导图像生成的过程。首先，它会分析这些涂鸦，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489357&amp;idx=4&amp;sn=96086521e768b5900ef1826c1df6e4a5&amp;chksm=fd2f883c916559b660c74a9394f1fdba870e0e2f49cf99dc667e3fedafed573359e55ab5218b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 09 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -449,70 +513,6 @@
       
 
       <pubdate>Wed, 04 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[腾讯 | 中科大提出Make-It-Animatable：一秒内可将任何3D人形模型变成动画角色]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elS0nh744Xc7tB6W08RA4SgeG73PxwM4k72wVClKXaAf0yPYtOtKUjLgb02frh2Xh9vAawfNd5XlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯联合中科大提出了一种用于动画 3D 角色制作的新型框架Make-It-Animatable，可以在不到一秒的时间内使任何 3D 人形模型准备好进行角色动画制作，支持各种 3D 表示且生成质量和速度</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489142&amp;idx=1&amp;sn=afdbc6e7883d833117fd4f0bea80f32f&amp;chksm=fd30e78f1d02dc667509fe1e3a3e01e312ab9fe79828e6c0eada98783cf0bb37c9c7227d7299&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OminiControl：一个新的FLUX通用控制模型，单个模型实现图像主题控制和深度控制。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYEn3PFyv0qTxQYEgq8VntmUj91vEEYPJjMADiamfkH94icSBs7fF1Tn1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中和大家介绍过Flux团队开源了一系列工具套件，感兴趣的小伙伴可以点击下面链接阅读~AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。OminiContro</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489142&amp;idx=2&amp;sn=48538eb4bd255f2cf3e0439968b22280&amp;chksm=fd876fa92b78582703b41cd2ddfa984cd4f887d7d73d42399db3e65978bac25e31be918c0ddb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[终于！ComfyUI官方桌面版正式发布，适用Windows/macOS/Linux，免费向所有人开放。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emFSyib6eJvfckn9qtbFXKmI6ybr39dw3U5vwoMsaPPndtuKxZufMlnEMa3f8OuXnwLibJKMxEj2cyw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Comfyui 官方桌面版本正式向所有人发布，支持Windows（NVIDIA显卡）和macOS（M系列芯片），旨在为用户提供更便捷的设置导入、日志集成和模型下载功能，尽管仍处于Beta阶段，但未来将</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489142&amp;idx=3&amp;sn=fc125bba1008a9d9f1c2ed0f8fa58d13&amp;chksm=fdb4f78d547307d67b54c82286dbcb254ca75b07b24f2cee8f69526fcc4f296350aa82c71377&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eltYhV1JmK1ib9FbmIt2gIyPDOrcibpBhOX3OVdibquclM6ib7Tsxn7qhfDiclnY9wlicfpKLJib4fLuY7Og/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI 图像编辑昨晚迎来了一次重大升级！ BlackForestLabs 发布了 FLUX.1 Tools套件，为创作者提供了更强大的控制能力。FLUX.1 Tools套件介绍这次发布包括四项新功能：F</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489142&amp;idx=4&amp;sn=fb2c8e00f9ea98515a9eb3d3b15e4cea&amp;chksm=fde06bcfb24b5871230c45b4feb250bff508f2d3e375404f02b0d1a8aa8b85a5560ab0125062&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Dec 2024 16:00:00 +0000</pubdate>
       
 
     </item>
