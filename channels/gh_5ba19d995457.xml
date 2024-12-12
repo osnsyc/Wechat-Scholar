@@ -61,28 +61,92 @@
 
 
     <item>
+      <title><![CDATA[腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekB7CXUYR45xqh1P2Q9zWuxgmicJiaO6JPkkhoaibkSARt6qftWXI9ofZjt9NK9vuibg0UrfhA2kTPRaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p> 腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT今天介绍的文章来自公众号粉丝投稿，腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT，给定一个人像图像和一个衣物图像，就可以生成一个</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489405&amp;idx=1&amp;sn=cf723a5a8e5ff9e52225aefe68ba3482&amp;chksm=fd8ed9244b3d5c22d540e66c0db83042073308426a43c183694a6b9fe656bab0b326bb49a368&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 11 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，阿里重磅开源基于FLUX的In-Context LoRA，可一次生成多张风格和ID一致的图片集。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwaZq27QklGnm2euIIenh9a4vvHuaekrpqk2PuGae3ghYQjGRse85BXsA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍In-Context LoRA 这个项目太强了，前几天发布的时候就引起了许多小伙伴的关注，但是当时还没有开源，就在刚刚，作者开源了In-Context LoRA项目。它基于FLUX训练，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489405&amp;idx=2&amp;sn=60426388ec666cd6ac8a102639c24e38&amp;chksm=fda32e3f5abf7016ab6204579fe1475c0b0dfaed22b4186ac7ecea3a3f36329186a0403fded8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 11 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[统一的图像生成模型OmniGen：可以根据多模态提示直接生成各种图像，无需额外插件。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enjwj4Ry2OH6auaAn9DU954RGLVLiaJQhnSsUOPiaYkiaE5VPAB4AUAtmLI24PhQm9bK4JduBhT9ZjTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个北京市人工智能研究院 提出的统一的图像生成模型OmniGen，可以使用它来执行各种任务，包括但不限于文本到图像生成、主题驱动生成、身份保留生成、图像编辑和图像条件生成。OmniGen</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489405&amp;idx=3&amp;sn=e0b562f61d2733643a8c2c4509e646ca&amp;chksm=fd4236c3070650208c6545afff33cb82ec6d1d9ee608f62b00101484e7798640b1967a203efe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 11 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[GroundingBooth：一个用于文本到图像的定制框架，支持多主题和文本联合接地定制！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUN5oqyRgSButjKACUwRIxoR4VWqymzeNXHxsW4rxM6qoeicJM6XkODXXx3zP4H0duuNP0vk91Sg/300?wxtype=jpeg&amp;wxfrom=0"/><p>GroundingBooth是一个用于文本到图像的接地定制框架。首先提取文本描述和图像的特征，然后通过一种特殊的注意力机制来控制这些特征的结合。这个机制就像是一个精密的筛子，确保每个对象和背景之间的信</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489405&amp;idx=4&amp;sn=8afd63c4861afba6c02c46f948fd2f0b&amp;chksm=fd50ebfffbce63e534f5b0aadb1cfd945b9e0306d795cf63ba1790bccfe9c11588c7c50d995d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 11 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[LiFT：利用人工反馈实现文本到视频模型对齐]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekB7CXUYR45xqh1P2Q9zWuxkuFceIwRBDcNLXKdaAmCkqmFBQ9yBx50KHAhV7I3F6zibhiaKfKZoG8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p> LiFT：利用人工反馈实现文本到视频模型对齐今天给大家介绍的文章来自公众号粉丝投稿，这项研究提出了一种新颖的微调方法 LiFT，利用人类反馈通过三个关键阶段进行 T2V 模型对齐：(1) 人类反馈收</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489358&amp;idx=1&amp;sn=177f1bb43481f51757f4415353850345&amp;chksm=fdab21f8834c3e7cabe292e6138a247b551555460f47c88b31e60d3028e045bab4fd9f319d0a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 10 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Still-Moving文生视频模型定制框架，引领AI创作新潮流！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekGichZJXKzLt6ibAHt5XWRKcyeHmiaGH56bVYpGzicX3nlRa02RTJCWdXkENGbP3adodafagNCgKyZYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，定制化文生图（T2I）模型取得了巨大的进展，特别是在个性化、风格化和条件生成等领域。然而，将这一进展扩展到视频生成仍处于起步阶段，主要是由于缺乏定制化视频数据。Google DeepMind </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489358&amp;idx=2&amp;sn=5c12c8d6cd69b1b67fa6a343e7d8e862&amp;chksm=fd7fc3345e12b0a86f483d824d990a59157691d509c0acbbc43431fc19a83e24df8a67f77485&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 10 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[个性化图像生成新SOTA！阿里开源MIP-Adapter，可将IP-Adapter推广到多个参考图像！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en553ETYWe4BYUv7R7Iibote1AADVDfRBnkq3JPLgRiclNJjwcPXztGYwW8ChWH8NjEcr9ibKS4asmjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍阿里最近开源的个性化图像生成的新方法MIP-Adapter，将无需微调的预训练模型（IP-Adapter）推广到同时合并多个参考图像。MIP-Adapter会根据每个参考图像与目标对象的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489358&amp;idx=3&amp;sn=cb0ee069216fe3e7efc8fddb2237517e&amp;chksm=fd7b5e890e0b8b87ba9ea38cda5aa8148b5b0e3d3109ea7974da86385c266354935c3163651b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 10 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[MoMA：即插即用、无需调优的快速个性化生成方法！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekcDtU5TRWR4b0ttfgqrxKDOQAmDscucEyJqSeHYUm1lVuU1IS2LukibibiaoOxpibhtu00EDvRCvPshQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>字节提出一种即插即用的快速个性化生成方法-MoMA。不需调优，只需一张主体的图像(下图蓝色圈出)，就可以生成文本对齐的、保留身份的同一主体的新图像，只需要一次向前传递。我们的模型既支持重新语境化，即相</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489358&amp;idx=4&amp;sn=9475c30f628487a85414141019e153f3&amp;chksm=fd3320b3cbc4912959aa5313986b0923dd608c85e76011b3cf0b6b6e9a62132875f600fa9d36&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 10 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -417,102 +481,6 @@
       
 
       <pubdate>Thu, 05 Dec 2024 16:02:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[超越Hallo和AniPortrait？音频驱动肖像动画新方法LetsTalk,可生成与音频一致的逼真视频。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elS0nh744Xc7tB6W08RA4SgfkcDFOIyH4xJ5xG8Ar9Y0Uvicw6xicJzbmEtb2yOzCDNqYMjzkS4eYpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中已经给大家介绍过许多关于音频驱动的肖像图像生成动画方法，感兴趣的小伙伴可以点击下面链接阅读~复旦开源Hallo：只需输入一段音频和一张照片就可以让人物说话。开源EMO再升级！复旦|百度|南</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489162&amp;idx=1&amp;sn=f57624bb544e0990e16bdb2db92c84e6&amp;chksm=fd2c76ffb0f770f7d97f6253c968476aec6515f61c34dd1efcea1f759d9f72200a7d0ff17a5e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[告别大头娃娃，东京大学开源数字人TANGO：能根据目标语音音频生成同步全身手势的视频。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en6pFnDNvWHLiaftE66MEoWpW84gLODaQtSQ9LfJlyThsRQM3P6M7VVqstMXBRlYemO0FShZxQIGrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>目前已经有很多面部和唇形同步的数字人项目了，但大多只支持头像和上半身，前几天介绍的Hallo2音频驱动图像生成视频小伙伴们都非常关心，后台也有留言问有没有支持全身视频生成的方法。开源EMO再升级！复旦</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489162&amp;idx=2&amp;sn=211d99016a9a22076ed219c9820f7a10&amp;chksm=fdfac4f4a1c01b50bdcda54b86f7814601d174babea59f189210c61617df12943236c84e5d01&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[开源EMO再升级！复旦|百度|南大推出Hallo2：可以生成4K，一小时的音频驱动的视频。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eltJu44TqnY7VwyFHlz5hNmzgFx5WXQibibH6vJRBJhBmhnZYZKxgXcibPxaACh1nF70mRz6kzVMSZuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在之前的文章中已经和大家介绍过复旦大学开源的Hallo项目，感兴趣的小伙伴可以点击以下链接阅读~复旦发布开源版本的EMO，只需输入一段音频和一张照片就可以让人物开始说话。复旦开源版本EMO:真实人物效</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489162&amp;idx=3&amp;sn=d80bba8108adbcfd32d0365d1db816a9&amp;chksm=fd8a30127f8916fd4888e18dbc5e677ec183dc905535fc7868ade7e2a98e9d2df01cdc8b0a77&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[复旦开源Hallo：只需输入一段音频和一张照片就可以让人物说话。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emmX3AJiczS9uocCYrX3Enlaia0e7A5oBvt6Ejqza4BfEXLNSyWs0q80XhcU9QMoTln8FqIUtNe5ibHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前和大家介绍过阿里的EMO和腾讯的AniPortrait，用户只需要提供一张照片和一段任意音频文件，EMO即可生成会说话唱歌的AI视频。最长时间可达1分30秒左右。感兴趣的小伙伴可以点击下面链接阅读</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489162&amp;idx=4&amp;sn=12a48f598dd36644d88285b31f010710&amp;chksm=fd86c99c4cbe0d0c30703b09065c3c411fe55cc335dd5a643a6150b0b30c24a6f78b3f9bc5f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[腾讯提出AniPortrait：音频和参考肖像图像驱动生成高质量动画。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekGB20aoopfDW9Ia72SmdXIicTEOSQdNotOKRQycycAchbz7X13BECiaz9Sb46TEia25wWuBVJMXSaOQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯提出了一种新颖的框架-AniPortrait，用于生成由音频和参考肖像图像驱动的高质量动画。通俗讲，就是给张照片生成说话的视频。类似阿里的EMO，大家先可以简单看下效果。相关链接论文：arxiv.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489162&amp;idx=5&amp;sn=f9fa2a12e41b791de2d5adc1d6cefa1c&amp;chksm=fdbed370f0e40bc1e3b12cb44facdf0bba0c0db12a88e7cf8f7d6ae769924ed335043832d1d9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[阿里EMO：强哥也能上刑法课了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>只需要输入图片和音频就可以生成富有表现力的视频，并且嘴型是可以跟声音匹配的。支持多语言、谈话、唱歌以及快语速的适配，可以根据输入视频的长度生成任意持续时间的视频。强哥也能上刑法课了！</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489162&amp;idx=6&amp;sn=3009c52d8e867c3aecf8118fb1e0ab8f&amp;chksm=fdaf7effb7e462b47c4c4adc78b5717ef4d42950e1de714873bf622c3823b6935e19663118b0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Dec 2024 16:00:00 +0000</pubdate>
       
 
     </item>
