@@ -48,11 +48,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[今日开源（2024-12-12）：多模态大模型Maya，基于LLaVA框架，8B参数，指令微调扩展至支持8种语言]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwPHbjAob3qevqF6lvzO7SHKzlu0xsRLL1OvovO3cF0f7pf1TWAYtcdlEdN88IkISU8HPib3q5FmEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Maya★Maya是一个经过指令微调的多语言多模态模型，旨在扩展多模态能力至八种语言，强调数据质量和文化敏感性。基于LLaVA框架，Maya包含一个新创建的预训练数据集，支持多语言和</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497183&amp;idx=1&amp;sn=17c018355adb9b2865057acd210c6081&amp;chksm=c042a5d6db4c4eb26ac65e166a2bcab4922ac6620162f426ace4c17fac7101ddc189e23c9c82&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 12 Dec 2024 10:20:32 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[今日开源（2024-12-11）：书生·万象InternVL 2.5开源，1B到78B参数，链式推理技术提升性能媲美GPT-4o]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzFW1tZH0AD4pxRjBVK0Ue7YUicyshBhPaJBTGe9MibQLy5N9icmFia4nIYybN2Zsib4nWh8EFoRAstj5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：InternVL 2.5★InternVL 2.5 是一个先进的多模态大语言模型系列，基于 InternVL 2.0 构建，保持其核心模型架构，同时在训练和测试策略以及数据质量方面进</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497173&amp;idx=1&amp;sn=93486372221473fa7f485abe091a6a63&amp;chksm=c076145cc7df25d46782dbd8dc7ba96f10dfc39e94cb506f0f08213fd266eb161e29640f3bfb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 11 Dec 2024 10:04:52 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -99,262 +116,6 @@
       
 
       <pubdate>Fri, 06 Dec 2024 10:02:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-05）：Fish Speech 1.5文本到语音，语音克隆延迟不超150ms，新增5种语言，交互式聊天]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxOSbjuMEdXmlyUQ4IAUaLTJVHI5WnwZMib9A8OxWx6lucVibpB9eNmaRuSdBTmHW09FTqW05GOHJUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Fish Speech 1.5★Fish Speech 是一个全新的文本到语音（TTS）解决方案，采用了当下流行的深度学习技术，如 Transformer、VITS、VQVAE 和 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497121&amp;idx=1&amp;sn=07a89735db712c9411354e883f29fc6c&amp;chksm=c0a852e72bc464b71a146aef42d76d4053b2f075994c20638a2d61c89ea91133e2f9355c191d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 05 Dec 2024 10:08:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-04）：Cognify，提升生成式AI工作流的多功能优化工具，生成质量提高48%，执行成本降低9倍]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyDBrjWJc7ruchBw6tkic8tVESia84PMayoJ3tdO27nQShqSEMO9KVy0KbLTWD8n3Q0EEqDyAx2xJjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：Cognify★Cognify 是一个专为生成式AI工作流设计的多功能优化工具。它通过自动化的方式提升生成质量并降低执行成本，支持LangChain、DSPy及注释Pyt</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497111&amp;idx=1&amp;sn=5894220fa31b200a74c8cf3d2b73d0b6&amp;chksm=c0e176e65336b5782b4e6deab2521a8f22c71c77eb26ca272d606535aebf23604443785f652b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Dec 2024 10:04:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2-VL 能平替 GPT-4o 搞个咱知根知底的J.A.R.V.I.S吗？实测：有点er戏！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzv0M7xXdWSbjsyjIIWgoyzrrcspAa4muxLmLf9ic2IQdGTZYbHqXB0mukhlB5QqTyVI0JLFBB3GOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝基于开源生态，打造一个只属于自己自己知根知底的 Jarvis 应该是所有技术宅共有的梦想了吧？但 Llama 等 LLM 都只有嘴，整个瞎的可不行。咱都知道，GPT-4o 是名副其实的业内标杆，但开</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497102&amp;idx=1&amp;sn=ab801eecf043c572e7c40d7652ac4d0d&amp;chksm=c0ace64d56191afc13123a838fbfdaa6bda3a4d27b7c4c8d89b5585dff2e65eddf8d0e4c0037&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Dec 2024 09:16:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-03）：腾讯HunyuanVideo视频生成大模型，13B参数，单次生成5秒视频，支持中英文双语输入]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzv0M7xXdWSbjsyjIIWgoyzx6picByZ9kEPv4LgXuibA2hiaia6gz32dxaLibuFQKDdZqvNw6CHuLhAHNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：HunyuanVideo★HunyuanVideo是一个新颖的开源视频基础模型，其视频生成性能可与领先的闭源模型媲美甚至更优。该项目提供了一个综合框架，集成了数据策划、图像-视频联合</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497102&amp;idx=2&amp;sn=3208a7b24e178fc104f8175721fd1a3a&amp;chksm=c0168be1d656a57bbb705e577fd3e87c99b08c633a2d781bb8987e8a0c69b91378273ad29a25&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Dec 2024 09:16:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-02）：INTELLECT-1，首个以去中心化形式训练得到的10B大模型， 1万亿token数据训练]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkz1bXC6rBRRVgKskHJY7LJPKmWVVEvWnJiatWSLd11CRRst52GZMOAw0Dx0Ew64RAJgicueq7mIiccDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：INTELLECT-1★INTELLECT-1 是一个以去中心化、由社区协作训练的10B参数语言模型，专注于从头开始训练，使用1万亿个英语文本和代码token。该模型在全球分布的14</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497051&amp;idx=1&amp;sn=9578e793a4755fb74c06a2f92d1d2423&amp;chksm=c05af4e872ba15229a582856abff88ebc524402a6dd2d42deec5314e74c6d53575c6714909fc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 02 Dec 2024 10:00:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-29）：月之暗面开源Mooncake传输引擎核心组件，长文本、高并发，将逐步开源多级缓存的实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwSJebXPfhTjVAClibJicutCtI0P5UppwuKC0FjNaF3Pp9vZbKcnLU094oTk28qvPQTwo95TP9t4Ekg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：Mooncake★Mooncake 是由 Moonshot AI 提出的长文高效推理架构，它采用了 KVCache 为中心的分离架构，将预填充和解码集群分开，并利用 GP</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497033&amp;idx=1&amp;sn=d51bd2dd53fc1104b78906f906478be2&amp;chksm=c02d2b9f1f12f678d8fbd46f4cb4f678606ddd4ab94341fd311b2369c6e7c4b04faea7d7229b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 29 Nov 2024 10:06:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-28）：阿里开源QwQ-32B-Preview推理大模型，自我思考、数学能力媲美OpenAI o1]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwaal4bQeEOSiaBYgK3q7LP8GiaENPcOvgzouQdrRCOvSib4YfdJlnN1OTl7Yd7ZfIrcx9a0gHG4xicjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：QwQ-Preview★QwQ-32B-Preview 是由 Qwen 团队开发的实验性研究模型，旨在提升 AI 的推理能力。作为预览版本，该模型展示了出色的分析能力，但也存在一些重</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497023&amp;idx=1&amp;sn=2974852a160af83e36d7f2dca7d52073&amp;chksm=c07dc333b978f6a37f3425af0336903ca41be330078d032e5cddf8bd50f6461c121fbf3e0992&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 28 Nov 2024 10:19:29 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-27）：昆仑万维发布Skywork o1，8B参数，国内首款中文逻辑推理能力o1模型，天工大模型4.0]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwbo06jhom6y7K26ZRgPibuatNSYzqEOph1qqvMuI3cibyJgfiaOE03YHa2FvUeORdmDglE0qUlFxWrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Skywork o1 Open★Skywork-o1是由昆仑公司 Skywork 团队开发的一系列强大的聊天模型。该模型基于 Llama-3.1 和 Qwen 2.5进行训练，并通过</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496981&amp;idx=1&amp;sn=d53b49a4611d7f0db1476fe5305a6dba&amp;chksm=c06719891eb37a6cc704af5d7227d8810c9d1b662c5dbcb489f90b9212b179cf1ae83de749e9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 27 Nov 2024 10:17:31 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-26）：OpenScholar科研搜索模型，基于检索增强，含4500万篇开源论文及2.37亿段落嵌入]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzEkjry0pTjyOeNHadBuwmeo2LZQ98dbicbYJ8WZupjdOZuLRG5jTgAv3YbGvIYcfhLuEmQ7wvs6Kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：OpenScholar★OpenScholar是一个检索增强的语言模型，旨在帮助科学家有效地导航和合成科学文献。随着每年数百万篇论文的发表，科学家们越来越难以找到所需的信息或跟上单个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496970&amp;idx=1&amp;sn=d9d8aa10bca891158fde5a3dd0c5eb46&amp;chksm=c049f8a49668bf8ab219cd8f53fe4cf699280edd5c2389223475464046498e598c38aeb2d523&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 26 Nov 2024 10:01:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-25）：Tülu3，首个发布后训练配方的开源模型，涵盖8/70B两个版本，性能超越Llama3.1]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxzBkkXrl6ZgaOYB924XrckpSSLn2MWT9Wq97vOA71cg82fgjlAr4BRmoaGcfcKzwicsZPFaxrDicXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Tülu3★Tülu3 是一个领先的指令跟随模型家族，提供完全开源的数据、代码和配方，旨在作为现代后训练技术的综合指南。Tülu3 设计用于在多样化任务上实现最先进的性能，除了聊天之</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496960&amp;idx=1&amp;sn=0cf15127093df61cad80869719c47d46&amp;chksm=c0848abbe13cc0ba6800ca560601ef451c58938ecf6bb14580eddb6a7093b93a69bbc00dca60&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Nov 2024 10:11:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-22）：阿里巴巴开源推理模型Marco-o1，思维链微调&amp;蒙特卡罗树搜索，创新推理策略]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxMNzELXuHuQyBAHiaibwqCSEtY0HBG0ynVpWnFjkkIHD6Cktia7L0vlfE97eOC469MvaSxpicjU8J2fQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Marco-o1★Marco-o1 是一个大型语言模型，旨在解决开放性问题。它不仅关注数学、物理和编程等有标准答案的学科，还强调开放性解决方案。通过使用连续性思维(CoT)微调、蒙特</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496950&amp;idx=1&amp;sn=8599a7c3e17d272aefaf86ec9c6ea4e7&amp;chksm=c0732e4b134f787729dd1cd785e86324c5cc9570ee59c181d38ae6582e777e5a63765e2ba39b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 10:12:23 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-21）：智子引擎开源Awaker2.5-VL，基于LoRA-MoE的参数高效多专家架构设计与优化]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzTKEjxKhBaMRepelx9p3VB7xzZyRXJVXrqbq7B6OK0bbiavy719WlC0bJwDX2BdS2aw2Rt3Ove0iaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Awaker★Awaker是由Metabrain AGI开发的一系列多模态大模型，包括多模态大语言模型Awaker-VL、多模态检索模型Awaker-Sou和视频生成模型Awaker</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496939&amp;idx=1&amp;sn=81ac4aa54c24f7fd5b303077cced76c4&amp;chksm=c021f92f3641a2818924f26001df4d80d71dba7682591624add692fd035973b30018300be4df&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 21 Nov 2024 10:19:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-20）：LLaVA-o1，专为系统化推理设计的视觉语言模型，11B参数表现优异，碾压众多闭源模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxgjibCMiaJXs1zDegNv4GIRbvfuZgqRkia0khN9Y2OD6VMSt7IAkVyyu4bVEHicGsVtQcTFzBbGyGSoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LLaVA-o1★LLaVA-o1是首个具备自发性和系统性推理能力的视觉语言模型，类似于GPT-o1。该项目的11B模型在六个具有挑战性的多模态基准测试中表现优于Gemini-1.5</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496929&amp;idx=1&amp;sn=f613bcb00a1367b7233058e8165bbd84&amp;chksm=c0f96eea5fa63eb879839acbb4c251cf4c3103f3139040681baa949e4c85bcbad4fd4c9b34a6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Nov 2024 10:45:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-19）：Pixtral Large开源来袭，123B多模态大模型，128k上下文窗口容纳至少30张图片]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxr1mE4vmT0xocQca4AcvQcwOaSh2MrfF225jgUuLLIBuBKEZ77ibqBJFlUuJlWRt6Vdc9YX8Hicssg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Pixtral Large★Pixtral Large 是一个由 Mistral AI 开发的多语言自然语言处理模型。该模型旨在通过大规模数据训练，提供高效的语言理解和生成能力。它支</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496918&amp;idx=1&amp;sn=89d6aa4e2bcafd1c41d894fb2a6cccea&amp;chksm=c095724201eb0ddd72b7856c4279020212925014c4b6b63de262a69a94bff465faad85f9aae8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 19 Nov 2024 10:01:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-18）：DIAMOND：新型强化学习智能体，虚拟环境中实现自动回归决策，超越人类玩家]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwzkK8zNCXFql0weBCoFEGnAk8sTXAWZPXqUT61NFibSic3jXjPoUfXNibXbYCsN1mEg5VTNxnckib05w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🤖 Agent开发①项目：DIAMOND★DIAMOND是一个在扩散世界模型中训练的强化学习agent。该项目在NeurIPS 2024上获得了关注，展示了在Atari和CSGO等环境中应用的潜力。通</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496905&amp;idx=1&amp;sn=309af9b1c0b39c98b43ed6f5c71ee37b&amp;chksm=c07fc0743106e397b9b2f6aef6b9f739bf51753addd34bc701ea4567826ebbecd39a3bb9794b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 18 Nov 2024 10:43:31 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-11-15）：Omnivision：边缘设备优化的多模态模型，968M参数，高效处理视觉问答和图像描述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwQhmSoYcuOEBXcPeJbaVmwhWT0PH6sj5kLMVGhpsuFUPq1kjt4nDLcHbZrz3SYDCIq3GXicHaDVvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Omnivision★Omnivision 是一个紧凑的多模态模型，拥有 968M 参数，能够处理视觉和文本输入，专为边缘设备优化。该模型在 LLaVA 架构上进行了改进，显著减少了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247496895&amp;idx=1&amp;sn=71aa5bdb551d3170ac5e9c0d88bae969&amp;chksm=c0d392592d2c3bf8c7dc13c7f584c253125b1938bef133884126e85644a2c9a05fc0271a7737&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Nov 2024 10:59:33 +0000</pubdate>
       
 
     </item>

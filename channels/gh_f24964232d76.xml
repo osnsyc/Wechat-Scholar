@@ -42,11 +42,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[GTX 4090 的 cuda graph 诡异]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3slJ3moVSq8Bua41pmBkDxUjJunlq7N4dMQUe1DtBJJB6dH83hklaHEnzAHfxric5svfOzP2PiaIrRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言今天聊一个最近有趣的发现，那就是模型推理时是否应该在 GTX 4090 上开启 cuda graph ？在 GTX 4090 上用推理框架如VLLM/SGLang等，什么情况下才应该开启</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525888&amp;idx=1&amp;sn=e3eb7c63b2aed9a9938e9b409d63bd3c&amp;chksm=9ed1afd66e080e8e7eaf183152e0b3739d832466b696bfa4f18c8dfa473b225af2025bf15383&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 12 Dec 2024 09:53:31 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[PyTorch 通讯实践]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3v5PnHjOVFS29FBYMHhK6A5Veqr1v8FuQFESaiaVgVz53FoHyJbZzric2FpGZg7Wcn79IrS7bvt1oXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/5853094319编辑丨GiantPandaCV连载于 https://https://github.</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525874&amp;idx=1&amp;sn=edb3315899f6e51f9831828b0d28d467&amp;chksm=9eca1174070b2e68f8f7dfe9ea14b4f12f0ee68a0816c17da25c93bc51c6dd5ae08f46c35209&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 11 Dec 2024 13:49:58 +0000</pubdate>
+      
+
     </item>
     <item>
       
