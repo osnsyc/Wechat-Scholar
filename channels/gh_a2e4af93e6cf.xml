@@ -85,61 +85,183 @@
 
 
 
-
-
-
-
-
-
-
-
     <item>
-      <title><![CDATA[如何增强大模型推理？Meta最新提出《大型概念模型》在句子表示空间中的语言建模]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7L0I3ZExDA9u3r6jalxNcYXTtDOZ2u8PriapdWicQqFgBysia0BLFZVPsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大规模语言模型（LLM）已彻底改变了人工智能领域，并成为许多任务的事实标准工具。目前，LLM的主流技术是基于标记级别处理输入并生成输出。这与人类的处理方式截然不同，人类在多个抽象层次上操作，远远超出了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=1&amp;sn=d1afe60965575f4ab11681dff11ae064&amp;chksm=fd86df0dc1033caf5df5d622fbb92b7230f45dd7a96e2ac7bcd0bfd8cd81e653fa04a7e51ce4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[联邦学习中的成员推断攻击与防御：综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2og1sjPkquY270ZUG5mic0YLPtnYoU4uiaGWQGpPibQbYZXGtjjyoogc3rZuR9dUCwPPenVQdyX3Vhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>联邦学习是一种去中心化的机器学习方法，其中客户端在本地训练模型，并共享模型更新以开发全局模型。这使得低资源设备能够协作构建高质量的模型，而无需直接访问原始训练数据。然而，尽管仅共享模型更新，联邦学习仍</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662227&amp;idx=1&amp;sn=5b686b2e2c68631d72ec088a3e44bdf1&amp;chksm=fd4138bcb4142afd9491da5ea7fafb946ce96401a3e6c092d2336e78aff36670154776c4f5b0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Ilya NeurIPS 2024报告：预训练即将结束，接下来是超级智能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7uAomlTXgDDdeJh6QQtaNYdaCibf5HvAmdXq42OrCtHicNoF25Sibcp2icg/300?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，Ilya现身NeurIPS 2024，宣布：预训练从此将彻底终结。短短16分钟的发言，足以震撼全场。是的，他的原话是——正如我们所知的那样，预训练毫无疑问将会终结，与此同时我们也不会再有更多数据</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=2&amp;sn=c7d328c84db89bb41319d4cebc2cc05e&amp;chksm=fd08551cee7edb2eed7fe8d581128029751ed7e1b3d8f5073c9934848d661d7ef59d8ad29255&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【CMU博士论文】通过课程学习实现鲁棒的强化学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2og1sjPkquY270ZUG5mic0YPQ3KrukqahOpWvulx4TaRJ3Cmd4M0xhZca2vhr3icXx13vj8cibm2tibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习（RL）在自主智能体领域展现了巨大的潜力。然而，当将机器人应用于安全关键领域时，系统必须足够稳健，才能在现实生活中部署。例如，机器人应能够在不同的场景中执行任务，并避免进入不希望发生且不可逆的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662227&amp;idx=2&amp;sn=d008fb25f9e1a8414a11161bc46db8a4&amp;chksm=fdd7dfafee8d7c497c44f0a52d93c968aa52843be0216353f7d236f1dbf8a076b8c77cfbb5bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Phi-4：微软最新的小型语言模型，专注于复杂推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7TOWad8KKyMuV70KN6jhic9zs56ic0Nm1srUwzuzESICXzSaYAXcneKQg/300?wxtype=jpeg&amp;wxfrom=0"/><p>了解Phi-4：Phi家族最新的小型语言模型，提供高质量结果且模型尺寸小（14B参数）Phi-4——一款14B参数的最新小型语言模型（SLM），它在复杂推理领域表现出色，尤其在数学推理方面，除了传统的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=3&amp;sn=eb5681dfb48393ef789afe15c27e9b8b&amp;chksm=fd45814eff00cf8f365103e7337c70656c23142f5e7067b47e4d25a951e614bea26d9c383bcd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【AAAI2025】StableVC：基于条件流匹配的风格可控零样本语音转换]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2og1sjPkquY270ZUG5mic0YPF88M0O1JUpIxoHyGhX1C138loPVWRria3wrBd96tPa9OM1pVI29liaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>零-shot语音转换（VC）旨在将源说话人的音色转换为任意未见说话人的音色，同时保持原始的语言内容。尽管基于语言模型或扩散方法的零-shot VC在最近取得了一些进展，但仍然面临一些挑战：1）当前的方</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662227&amp;idx=3&amp;sn=fae1ef651eff50209db0e9dda70d88e3&amp;chksm=fd905f0d4d8fae4c9b3bb856f2851b8db7f5dfa60fbb0f1d24e54e418601510e2c67e1df9158&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[AI智能体如何帮助海军指挥官赢得战斗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRfOgJEq3oDbib6CfFrCZpvfvmg664ZmvFGXDlFjBnxdJNW1LmdCYkR2rZHULXQthHGbn2icNIkNNWw/300?wxtype=jpeg&amp;wxfrom=0"/><p>海军航母打击群即将与对手交战。航母打击群的指挥官需要快速获得大量准确信息。威胁在哪里--水面、水下、空中--哪些威胁最危险、最紧迫？哪些威胁在射程内，但友军不在他们的射程内？用什么武器对付它们最好？需</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=4&amp;sn=e1956ccfb78ca29ffa54d971e91d1ee6&amp;chksm=fddd2e3f8acb04a046fee1275e9165130eed3268fbd13031954552465522175e582e0311c131&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[“美军精确制导弹药”最新情况]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTtkxCKJWZNCpqHfUzKN9dwKtsyRQYxeRwXyUMEJ432GibcZLn786Uc4y6LfFic69lWob5yPOm3PgibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>根据美国国防部（DOD）的定义，精确制导弹药（PGM）是一种 “旨在摧毁点目标并最大限度减少附带损害的制导武器”。与某些炮弹和火箭弹等非制导弹药相比，制导弹药可以改变其飞行轨迹，以纠正瞄准错误、天气或</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662227&amp;idx=4&amp;sn=01d2c61b34af852ddd5199c1faf702c4&amp;chksm=fdb4a6f0f77326528a32e57e68bf43e5cc2e806dfe4afab850371cc99bfd2b0bd58138b5712b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[李飞飞：World Labs这样实现「空间智能」]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq70p1DZJVX7x1v1Dlpgqv7KvIcWDK1icZjgYV4FfS84GYulghmLAwjegA/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心编辑：泽南、陈陈遵循世界的 3D 特性，很多事就会变得自然而然。说到斯坦福大学教授李飞飞（Fei-Fei Li），她提倡的「空间智能」最近正在引领 AI 发展方向。李飞飞已经在人工智能历史</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=5&amp;sn=b58cd4b06f88c5e47eefc0ba0db6136c&amp;chksm=fdf36b708c740a137780d90b013d24a6821ad5a6583d993e19adae712bf7dc1392a19d56416b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】基于RAG的生成式AI：使用LlamaIndex、Deep Lake和Pinecone构建自定义的检索增强生成管道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2og1sjPkquY270ZUG5mic0YeQeEtrkyjGVibN2Pc0M5OAicq2O7OXUpOr78ZFIQoHdVVdfbMMSNauMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>书籍简介最小化AI幻觉，构建准确的自定义生成式AI管道，利用嵌入式向量数据库和集成的人类反馈来实现检索增强生成（RAG）购买本书的纸质版或Kindle版即包含免费的PDF格式电子书主要特点实现RAG的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662227&amp;idx=5&amp;sn=1c48994e452cd165d77957cc658fc207&amp;chksm=fda1866798853276fe43cde052b1b6bde89ce4191b6c03fd6293886d51a81694a7ede92e2e62&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[98页 | 量子位智库《2024年度AI十大趋势报告》附下载]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7iayKYG06EqZmBOFahLYt8QHfPkcQcavl2f7wsJx0E1mEssVl3eJwnng/300?wxtype=jpeg&amp;wxfrom=0"/><p>报告：2024年度AI十大趋势报告-量子位-98页过去，AI是前沿科技主轴上的一支核心技术。现如今，AI正在吞噬整个世界、整个产业、全部赛道。没错，AI已经完全成为了科技发展主旋律。尽管有诸多类比，如</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=6&amp;sn=6cc9826f6d3a345e35edfc9fb8a79f9a&amp;chksm=fdf90c5cca7ebab8ba7572435ffde5e52c07eb4e718c5eb643f027b5c95e4d9cd1a5e6032d4e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[面向多源自主导航的智能学习方法研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2og1sjPkquY270ZUG5mic0YJsPgEw5nHYWTqO0TB8yb7S0K3DJo4xweiaXrJ61FMxY2eDzcYDAYPXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要 智能多源自主导航系统以北斗导航为基石、以惯性导航为支撑, 旨在提供高度智能化的定位导
+航与授时服务, 通过实现即插即入、无缝衔接、无感切换、可信完备等功能, 以满足复杂多变的场景需
+求. 采用以</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662227&amp;idx=6&amp;sn=5b9be72b7ca59fa93ecc69c96fd27e8d&amp;chksm=fd1324b1608fd94955195156e0b8a16824aae6b19fd51251e676d0bdcb1f4753058a9965e5e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[模仿、探索与自我提升：慢思考推理系统的复现之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7tHZ8wKItcnN8KFZugj72cRv0icNG8FpaomWomWJtbtoIDsgEWtzo3xg/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜蒋锦昊，陈志朋，闵映乾机构｜中国人民大学研究方向｜大语言模型与推荐系统近年来，类似于 OpenAI 的 o1 等慢思考（slow-thinking）推理系统在解决复杂推理任务方面展现了卓越的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=7&amp;sn=c0518cb6dcbdaa78c67b5ab54893d6f3&amp;chksm=fd374f335f33fbe48d63957c9466d908716e09864bf3673b0a2c9d57d6a05c92fd75777f945f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      <title><![CDATA[Agent视域下的人工智能赋能作战系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2og1sjPkquY270ZUG5mic0Y0smNiaGiaeDJGAJCz1AsCmu8BqiapvyBFdXNrWHXVUAgcKgKs2uQVqfCg/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘 要：针对作战系统的智能化设计问题，提出了基于Agent的人工智能技术概念框架和应用方法。 首先，阐述了Agent 概念，讨论了在作战系统中研究Agent的重要意义。 然后，介绍了基于Agent的人</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662227&amp;idx=7&amp;sn=402c3a8c5b9e3fa52686623c26d14840&amp;chksm=fd35bcf83dc527cd7651f59a09ec1b31810174a03c7c7bed544f4d93e9f7cbf4269589fcd591&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 03:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=8&amp;sn=df556b322523dd19540cfe997be5eede&amp;chksm=fd68926958e8a5d2b2f81b17156bd1c0d771df3d8b57a884b0db0fae24fafd187357789b43bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662227&amp;idx=8&amp;sn=05bbd3e9e95c5b6dcb0e100f001ecdaf&amp;chksm=fdff65d3654df1b0730711dbb3847ee947cb16bf250d3ca90cfe3c20f114b140464dbde0ae1e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 03:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[如何增强大模型推理？Meta最新提出《大型概念模型》在句子表示空间中的语言建模]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7L0I3ZExDA9u3r6jalxNcYXTtDOZ2u8PriapdWicQqFgBysia0BLFZVPsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大规模语言模型（LLM）已彻底改变了人工智能领域，并成为许多任务的事实标准工具。目前，LLM的主流技术是基于标记级别处理输入并生成输出。这与人类的处理方式截然不同，人类在多个抽象层次上操作，远远超出了</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=1&amp;sn=d1afe60965575f4ab11681dff11ae064&amp;chksm=fd86df0dc1033caf5df5d622fbb92b7230f45dd7a96e2ac7bcd0bfd8cd81e653fa04a7e51ce4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Ilya NeurIPS 2024报告：预训练即将结束，接下来是超级智能]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7uAomlTXgDDdeJh6QQtaNYdaCibf5HvAmdXq42OrCtHicNoF25Sibcp2icg/300?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，Ilya现身NeurIPS 2024，宣布：预训练从此将彻底终结。短短16分钟的发言，足以震撼全场。是的，他的原话是——正如我们所知的那样，预训练毫无疑问将会终结，与此同时我们也不会再有更多数据</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=2&amp;sn=c7d328c84db89bb41319d4cebc2cc05e&amp;chksm=fd08551cee7edb2eed7fe8d581128029751ed7e1b3d8f5073c9934848d661d7ef59d8ad29255&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Phi-4：微软最新的小型语言模型，专注于复杂推理]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7TOWad8KKyMuV70KN6jhic9zs56ic0Nm1srUwzuzESICXzSaYAXcneKQg/300?wxtype=jpeg&amp;wxfrom=0"/><p>了解Phi-4：Phi家族最新的小型语言模型，提供高质量结果且模型尺寸小（14B参数）Phi-4——一款14B参数的最新小型语言模型（SLM），它在复杂推理领域表现出色，尤其在数学推理方面，除了传统的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=3&amp;sn=eb5681dfb48393ef789afe15c27e9b8b&amp;chksm=fd45814eff00cf8f365103e7337c70656c23142f5e7067b47e4d25a951e614bea26d9c383bcd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[AI智能体如何帮助海军指挥官赢得战斗]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRfOgJEq3oDbib6CfFrCZpvfvmg664ZmvFGXDlFjBnxdJNW1LmdCYkR2rZHULXQthHGbn2icNIkNNWw/300?wxtype=jpeg&amp;wxfrom=0"/><p>海军航母打击群即将与对手交战。航母打击群的指挥官需要快速获得大量准确信息。威胁在哪里--水面、水下、空中--哪些威胁最危险、最紧迫？哪些威胁在射程内，但友军不在他们的射程内？用什么武器对付它们最好？需</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=4&amp;sn=e1956ccfb78ca29ffa54d971e91d1ee6&amp;chksm=fddd2e3f8acb04a046fee1275e9165130eed3268fbd13031954552465522175e582e0311c131&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[李飞飞：World Labs这样实现「空间智能」]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq70p1DZJVX7x1v1Dlpgqv7KvIcWDK1icZjgYV4FfS84GYulghmLAwjegA/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心编辑：泽南、陈陈遵循世界的 3D 特性，很多事就会变得自然而然。说到斯坦福大学教授李飞飞（Fei-Fei Li），她提倡的「空间智能」最近正在引领 AI 发展方向。李飞飞已经在人工智能历史</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=5&amp;sn=b58cd4b06f88c5e47eefc0ba0db6136c&amp;chksm=fdf36b708c740a137780d90b013d24a6821ad5a6583d993e19adae712bf7dc1392a19d56416b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[98页 | 量子位智库《2024年度AI十大趋势报告》附下载]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7iayKYG06EqZmBOFahLYt8QHfPkcQcavl2f7wsJx0E1mEssVl3eJwnng/300?wxtype=jpeg&amp;wxfrom=0"/><p>报告：2024年度AI十大趋势报告-量子位-98页过去，AI是前沿科技主轴上的一支核心技术。现如今，AI正在吞噬整个世界、整个产业、全部赛道。没错，AI已经完全成为了科技发展主旋律。尽管有诸多类比，如</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=6&amp;sn=6cc9826f6d3a345e35edfc9fb8a79f9a&amp;chksm=fdf90c5cca7ebab8ba7572435ffde5e52c07eb4e718c5eb643f027b5c95e4d9cd1a5e6032d4e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[模仿、探索与自我提升：慢思考推理系统的复现之路]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2X33lWEJGpKSLtTulBxwq7tHZ8wKItcnN8KFZugj72cRv0icNG8FpaomWomWJtbtoIDsgEWtzo3xg/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜蒋锦昊，陈志朋，闵映乾机构｜中国人民大学研究方向｜大语言模型与推荐系统近年来，类似于 OpenAI 的 o1 等慢思考（slow-thinking）推理系统在解决复杂推理任务方面展现了卓越的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=7&amp;sn=c0518cb6dcbdaa78c67b5ab54893d6f3&amp;chksm=fd374f335f33fbe48d63957c9466d908716e09864bf3673b0a2c9d57d6a05c92fd75777f945f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247662192&amp;idx=8&amp;sn=df556b322523dd19540cfe997be5eede&amp;chksm=fd68926958e8a5d2b2f81b17156bd1c0d771df3d8b57a884b0db0fae24fafd187357789b43bb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 15 Dec 2024 03:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -782,134 +904,6 @@
       
 
       <pubdate>Tue, 10 Dec 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[生成式人工智能的扩散模型概述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3HtWfatNvicS6KKRzNm2zbhziaic04kicUic6wUaAz1cpibvwFphIbRDeI2SJALMxs7qOn3bf8IEkZ4YWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文提供了对去噪扩散概率模型（DDPMs）的数学严谨介绍，DDPMs 有时也被称为扩散概率模型或扩散模型，主要用于生成式人工智能。我们提供了 DDPMs 的基本数学框架，并解释了训练和生成过程背后的主</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661895&amp;idx=1&amp;sn=0901f77697dc467e74eb347bf97beed6&amp;chksm=fd3f3c5314685f84acb148ca5fdbe182859a1ea360bcc975158517430b53a39b2737a5909ad7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[生成式人工智能应用发展报告（2024）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3HtWfatNvicS6KKRzNm2zbh0PePY6P0jXZCGdbUOMm03T4icZEmLBENGhhBDAJic5MhRV2jxVNAicUxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>第一章生成式人工智能发展综述　　生成式人工智能在创新探索中快速发展　　生成式人工智能（Genaratie ArtifcialIntaligence，简称GAI）是基于算法、模型、规则生成文本、图片、声</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661895&amp;idx=2&amp;sn=b1c348918cfb61d9f832157c54d663e2&amp;chksm=fd5d44367c29bbf5ebfb07ae899cb0575b4ba3d48f20bf64166a5bee877abec76a1e1607aec5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[医学应用中的可解释人工智能：综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3HtWfatNvicS6KKRzNm2zbhxavwo0DUhibTIBsh9RiaUpffmMFncetAb8TXXiaC2Lsapgq4fic44KCoGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）理论的持续发展推动了这一领域的前所未有的高度，这归功于学者和研究人员的不懈努力。在医学领域，人工智能发挥着关键作用，依托强大的机器学习（ML）算法。医学影像中的人工智能技术帮助医生进行</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661895&amp;idx=3&amp;sn=5515f00fd6aa5608678114af9ec23976&amp;chksm=fdb242cea56125a1c69892ce9f0e207e139b6229705ae0de07a59afb600574e15565ff354521&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【斯坦福博士论文】可控生成与编辑的三维神经表示，]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3HtWfatNvicS6KKRzNm2zbhclqp0xJszFia0SfdZfE58RgLicGaeKfCmJJgCuauFibhvOIu6CRUocnbQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着对更高质量视频制作和3D资产的需求持续增长，帮助减轻相关成本的智能艺术家工具的需求也在不断增加。更具体来说，3D AI艺术家工具有可能极大地自动化或促进内容创作过程。这类工具的关键组件是其底层的3</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661895&amp;idx=4&amp;sn=c8b5ce416696f8c5106d31c877beb84b&amp;chksm=fd04dfa1c667df7938418b6ed7b3831c9bf1dfe44088db7fa2f076fed4b7af2be04a0b336919&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[指挥所： 提高安全性、机动性和效率，加强军事行动]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTTVLJfeGm1xVZ2wu2jA6YTcSFWDeSyiaicwdrqJWvW8PNPMJ65VIjlFDmjlSzaAsnGxFvnvucaCRiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在不断变化的现代战争中，指挥所是军事行动的神经中枢。指挥所是指挥官在战场上做出明智决策、协调行动和指挥部队的重要枢纽。然而，随着冲突性质和威胁形势的不断变化，指挥所正面临着越来越多的挑战，需要创新的解</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661895&amp;idx=5&amp;sn=066a64f094843ad2638be463b3b4d5be&amp;chksm=fd668bc790bfc486a90cd6a2885d7e0b0ac20b1daa5f23a9ec5d476461825a3f3647c71e6b8f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[复旦最新《智能体模拟社会》综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3HtWfatNvicS6KKRzNm2zbhsyCVfYRofgSPLibCiae6KDUoibJfTTOF92pykOHs5ryKwgoiaLaS49iaYsA/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言传统社会学研究依赖问卷调查和心理实验等方法收集数据，尽管真实可靠，但成本高、难以规模化且存在道德风险。近年来，大语言模型（LLMs）凭借强大的推理和规划能力，为模拟人类行为提供了新的机遇。通过角色</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661895&amp;idx=6&amp;sn=eaf8a4a6d6f0e46d9cb9c8933333d9d7&amp;chksm=fd08e17cfa922808522bc8824c171891ee5e1edcee49131cb28514072d91c8cd54cd044234b9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NeurIPS 2024 | GarmentLab衣物与柔体操作的物理仿真环境与基准测试]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3ca6UMoKPP33yrLXiaHXlibASk63rlRbDsPnLDkPySv4vdvia2Rsj4DV9G2RAM0mCNw2ibl3eFM0ibne2NlwhMuI2hg/300?wxtype=jpeg&amp;wxfrom=0"/><p>关键词：柔性物体操作 仿真模拟和评估基准导  读本文是对发表于计算机人工智能领域顶级会议 NeurIPS 2024 的论文 GarmentLab: A Unified Simulation and B</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661895&amp;idx=7&amp;sn=acdce28299f6ebb12824546d5171950f&amp;chksm=fd30ebeffc23ad3631d4f7c1a182b3ef11e1788f74edcaf887184827ca05d9fd5d5dbc055120&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！2023->2024</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247661895&amp;idx=8&amp;sn=85c57bb256a9c638615e9178eec45eae&amp;chksm=fdc919d73c812ef90f327481c640da60a735a7b77a2e70d401716797056f860e64599d27fe43&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 03:00:00 +0000</pubdate>
       
 
     </item>
