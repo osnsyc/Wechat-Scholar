@@ -57,29 +57,95 @@
 
 
 
+
+
     <item>
+      <title><![CDATA[一图看尽AI文生图未来，北大发布文生图十年综述：超440项工作回顾。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enDXLyhv5gUBA9w7NggpzadRrialXnXJ0hpkUPylInNS5ibB5unS9uBgxThVxDiaMNn2QsZM4tTQg5Fw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍的文章来自北大发布的文生图十年综述，文章回顾了超过440项相关工作，重点探讨了生成对抗网络（GAN）、自回归模型（AR）和扩散模型（DM）在T2I任务中的应用和演变。还涉及了T2I技术的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489410&amp;idx=1&amp;sn=49d2a180ed2e8e04f11583ed6067eaa3&amp;chksm=fdbaf41cdb4c68adaa06592a5ee06319eecd652131e280d9a969a3c546a787257d735c6584ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 15 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[多模态图像生成模型Qwen2vl-Flux，利用Qwen2VL视觉语言能力增强FLUX，可集成ControlNet]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYHx9RLCm1u1zJr61WGBPZZicviaGPyXN8y5ZTaZE9jpPcdNSX1nmUlib5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen2vl-Flux 是一种先进的多模态图像生成模型，它利用 Qwen2VL 的视觉语言理解能力增强了 FLUX。该模型擅长根据文本提示和视觉参考生成高质量图像，提供卓越的多模态理解和控制。让 F</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489410&amp;idx=2&amp;sn=58aca5f9ec80f84ee30d84b44fcd0989&amp;chksm=fddd2cc339cf3b1c8c44bfa5120911b0d71e2c20a8f5761fb489d8e4fe82c617d4b8d9e289d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 15 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OminiControl：一个新的FLUX通用控制模型，单个模型实现图像主题控制和深度控制。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYEn3PFyv0qTxQYEgq8VntmUj91vEEYPJjMADiamfkH94icSBs7fF1Tn1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中和大家介绍过Flux团队开源了一系列工具套件，感兴趣的小伙伴可以点击下面链接阅读~AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。OminiContro</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489410&amp;idx=3&amp;sn=5f228f6148037bec3ebb954d2733d3d6&amp;chksm=fdfacc6108ea2fc643053635f2ae5d122c29074522939beb98c36b3797e8ca5579f480aa17cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 15 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[文生图像编辑来了！英伟达提出Add-it，无需训练，可根据文本提示向图像添加对象。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emmkDiagtskaHJodPFibMTUYJZY50N6JpzSdpSqpDMMdhm1JHxUv7E3vPPDa6XmXuygFoa0eiaBct3Bg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Nvidia提出了Add-it，这是一种无需训练的方法，可根据文本提示向图像添加对象。Add-it 适用于真实图像和生成的图像。该方法利用现有的文本转图像模型 (FLUX.1-dev)，无需额外训练。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489410&amp;idx=4&amp;sn=fb84276718fa115a4b4300a3d8fac1f1&amp;chksm=fd7060319ec2da894c68bee5ad914cb4231fdf8a6ee8c6bccc0e21c024c595a2ee19686d35f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 15 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[万众期待，谷歌正式发布 Gem)ini 1.0 ，包含三个版本：Ultra、Pro 和 Nano。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el4eIaML40rNcaURA3WTSibqvHsHMchQTkJGsGjibUAC9vHubXy9en1avzJH5dic3qgdVAMXIKKmrLXg/640?wxtype=jpeg&amp;wxfrom=0"/><p> Gemini 发布一周年, 万众期待，谷歌正式发布 Gemini 1.0 ，包含三个版本：Ultra、Pro 和 Nano。Gemini Ultra——最大、最有能力的模型，适用于高度复杂的任务。 </p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489408&amp;idx=1&amp;sn=988453237b24c69bc8d95d2e25ecc0db&amp;chksm=fd5017904ecb1be9f4e5f37b8ede8f2ab79be327a60326a331bd087465b588d10355c55c5678&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 14 Dec 2024 16:08:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Mistral AI 开源 Pixtral 12B 多模态 LLM，多场景能力理解，支持中文指令遵循！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekz6brgZd8MLzCQaTHcS8fyr4AQVZYW5XicicYO0FJtMDtMHtrnYOrMFWqicrbq1hkwWuJJFah4YbZlw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Mistral AI 开源了 Pixtral 12B 多模态 LLM。具有自然场景理解，代码生成，图像转代码，图像理解，多图指令跟随，图表理解与分析以及复杂图形推理等多项能力。从效果演示来看模型的能力</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489408&amp;idx=2&amp;sn=8123fe719f1843b45a966c19a8610599&amp;chksm=fd39c88ce92e5e73f758196920e3414724edc83128cd5491c31b955cfe87bf1cc67befe93774&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 14 Dec 2024 16:08:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[EAFormer：场景文本分割新SOTA，图像文本擦除无痕迹！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enWwUtW60pCT5iccd79FiakHIjXQOCEnv6AoiaoS0khCUKncrp8Xpp3mPYm7VNByYYo7TBDhcFnZ8vRQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>文章链接：https://arxiv.org/pdf/2407.17020 git链接：https://hyangyu.github.io/EAFormer/亮点直击为了在文本边缘区域实现更好的分割性</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489408&amp;idx=3&amp;sn=7b15a1fd9f8af950a957fc7753226380&amp;chksm=fdab42d6e2e5e96f64f111cb36e066b7b03b1600ff9525ef0b18554ba3d0d34c6740135d2233&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 14 Dec 2024 16:08:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[ViewCrafter：一张图像就可以制作影视特效和游戏画面！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elPOajsP01qNvmwKPWKzicOsEEbzBxMRtYWNicS7fSTCWsMB1YH3tWIYmKrNLzGfsI0qOR2rIwTbN4g/300?wxtype=jpeg&amp;wxfrom=0"/><p>北大和港中文联合腾讯人工智能实验室提出了 ViewCrafter，这是一种利用视频扩散模型的先验从单个或稀疏图像合成一般场景的高保真新视图的新方法。可以简单理解为将复杂的图像转换成新角度的图像版本。首</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489408&amp;idx=4&amp;sn=da310383a01b736a7d7f02677a860482&amp;chksm=fddcc81ffaf4409430344073a387ddab594ab17e3f0c478834fd1a57af444195e88eec950e24&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 14 Dec 2024 16:08:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
