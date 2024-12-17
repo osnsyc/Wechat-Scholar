@@ -58,28 +58,92 @@
 
 
     <item>
+      <title><![CDATA[工业界主流大语言模型后训练(Post-Training)技术总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqebwmx79Ornqicyw78tTyeBKdPiaYicuf5o9hicw8qjpwU3ZrV9pW6JHTWVwullCfdca2MXsuIPiatLLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨唯亚@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/987052830编辑丨极市平台极市导读 本文整理工业界主流开源LLM的后训练方案，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702463&amp;idx=1&amp;sn=4e2449dc294369b2fd820bd294dea9f3&amp;chksm=ed0624b98e797750b1681f8b22da197d6584fc23985484149ff8f7133c384cce2aa9e07f5d7f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图像领域再次与LLM一拍即合！idea撞车OpenAI强化微调，西湖大学发布图像链CoT]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqebwmx79Ornqicyw78tTyeBG5hoGEPJEWDBodMWVnYztuZtJMuoSEXCAWw89zfo3hUibwXCtKoA9OQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元编辑丨极市平台极市导读 MAPLE实验室提出通过强化学习优化图像生成模型的去噪过程，使其能以更少的步骤生成高质量图像，在多个图像生成模型上实现了减少推</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702463&amp;idx=2&amp;sn=a725bdc918901f92236c7d2377b14210&amp;chksm=edf6eec2f4d174e810b989a5e5add48239e59b093c156a6b4f2ab4cde783b6afd1006c0ee953&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解OpenRLHF中基于Ray的分布式训练流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqebwmx79Ornqicyw78tTyeBc4al01o3uU7iaBNXd5d3f92tKmCjBP2d2pxPetrpiciaQxhYiafVZPooNg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨大猿搬砖简记来源丨大猿搬砖简记编辑丨极市平台极市导读 本文详细分析了OpenRLHF中基于Ray的分布式训练流程。 >>加入极市CV技术交流群，走在计算机视觉的最前沿本</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702463&amp;idx=3&amp;sn=25fdd5e61a28e2f9244b9c61ccf9b0da&amp;chksm=ed8926ecaab70cfd5bdc5f8cab7f0a0a1eed7d6be167604d81fbcc54e455d798725ace2eb48e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Ilya错了，预训练没结束！LeCun等反击，「小模型时代」让奥特曼预言成真]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqebwmx79Ornqicyw78tTyeBPOKhUfRF5AQZ2iabBIZLhqcsKib3BHsnwOBmZF1iaH8rgib2um3QhA4lMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 Ilya「预训练结束了」言论一出，圈内哗然。谷歌大佬Logan Klipatrick和LeCun站出来反对说：预训练还没结束！Scaling Law真的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702463&amp;idx=4&amp;sn=cfc8baf96c4e40334ec9c1e43ed82c76&amp;chksm=edbecc732f1cf9112b997a2b4f3b0c3335bfc4582281649d6bdfaa5f1db881c560698464b6c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 16 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[codebook从崩溃到高效利用！南大&amp;清华&amp;腾讯联合打造IBQ：自回归生成最强视觉分词器]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfq0VvccXPwfbndU3GMPtWz0WJ9sic6aeZW2o4QCGPgwvmVrsgj3ZlTrubJerLzzo2q8LUrbgwzfbvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI生成未来来源丨AI生成未来编辑丨极市平台极市导读 南京大学、清华大学和腾讯联合研发的IBQ技术，一种用于训练可扩展视觉分词器的向量量化方法。文章详细阐述了IBQ如何</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702384&amp;idx=1&amp;sn=21e962384fc7ffa5c35879006772260b&amp;chksm=ede5080f982b9534d00c1f9ca0bc045a25bdc72cd742900d61d0b694faa974ead5f100ddeaee&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 15 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[AWQ：适合端侧的 4-bit 大语言模型权重量化｜大模型轻量化系列解读 (二)]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfq0VvccXPwfbndU3GMPtWz0CoVbRX39FdwuqI5JAXWzFhtYnn1iaWTL8KKeLVsyzlK5OA9kvlozA4A/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 并非 LLM 中的所有权重都同等重要。仅保护 1% 的 salient 权重可以大大减少量化误差。 >>加入极市CV技术交流群，走在计算</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702384&amp;idx=2&amp;sn=ebadf3f6c1deeecbec59fd0beb194301&amp;chksm=edef82b1fdc10d3752c10e089940ed0db5371b62cc50bc81d690bd1115d5fabf2f157c259c7d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 15 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[实践教程｜PyTorch与torch-xla的桥接]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo9e7N6IE50icQBib5eCHwmQfuHava6I02VM2QjcWPsDdrOWEZHkFJiacRDHj1ibRJWqODZ9jN7qxbJbA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨liuyaohui来源丨GiantPandaCV编辑丨极市平台极市导读 文章从XLATensor开始的溯源、注册PyTorch库实现、从PyTorch调用到torch_</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702384&amp;idx=3&amp;sn=b933ec9bd69dfb0a0284a098faf2af75&amp;chksm=ed6ec41ba0fbc18d2f8cfd599cbdc8dcc0cc290c17e46c255e2b2cedd1eb34f0b7bde319c336&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 15 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[MIT教授NeurIPS歧视言论炸雷，中国女学生霸气反击！AI大佬集体痛斥，道歉信来了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfq0VvccXPwfbndU3GMPtWz0nXCaufgsthIy9ykpnMXjW4MFTleS6RzEDOp7862s9paCEVuN8jZ8lA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 MIT教授侮辱中国学生的言论，彻底掀翻了整个学术圈！在NeurIPS受邀演讲中，她大放厥词「中国学生不诚实」，并在一张PPT明确提到中国国籍。这一恶性事</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702384&amp;idx=4&amp;sn=ab06bf884a82f4240c3483c7be7b2ba9&amp;chksm=ed8feeb27c1e008df98323c97b34fda8af6a8f500378d571a423ba144a66f2c519a73f2810af&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 15 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -398,70 +462,6 @@
       
 
       <pubdate>Tue, 10 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NeurIPS 2024｜全面提升文生图SOTA方法！ToMe:基于token合并的免训练文生图语义绑定]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpdLicKssIlKaAJrOF8AoFUxzcqRzLOBaBw0FTNsjjCsdToLtko8qacrahUIaBZeXzrIdXbsgJZFSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI生成未来来源丨AI生成未来编辑丨极市平台极市导读 本文提出了一种名为ToMe的免训练方法，通过token合并技术来解决文本到图像合成中的语义绑定问题，显著提升了文生</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247701792&amp;idx=1&amp;sn=9847ea08e08520d492e0f4be09e8e2a2&amp;chksm=ed28bfec7c436fe6fbc519c631b5b603618e2749007842b70fe0efd917725b6e884cff4555cd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[智汇无锡，AI 领航  第二届无锡国际人工智能创新应用大会圆满落幕]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpdLicKssIlKaAJrOF8AoFUx2MlPrQJgqeP3Jn6VnqhtEElYlzxWrn5twZoakWz9JhzEES9hnPYAdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台数字织梦通未来，人工智能赋新篇。在科技浪潮汹涌澎湃的当下，人工智能已成为驱动未来发展的核心力量。12月6日，“模力 AI・生成未来”第二届无锡国际人工智能创新应用大会在无锡梁</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247701792&amp;idx=2&amp;sn=e7b1d13c0329ed6c05e3da247d4d0b9e&amp;chksm=ed0d9cf190280220b4ca20684ae2a7c242cd8272dc1df221a813ec71136aea3658035c900166&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型微调项目 / 数据集调研汇总]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpcwQhHhWX5uLznNuudutZuTjF5sjATvibxAbBGvBGZw1FRiaicsNesXOxzxDiaQPHQbAyppacxulcJxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨周星星@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/624079704编辑丨极市平台极市导读 总结了一些热门的大模微调项目的亮点以及数</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247701792&amp;idx=3&amp;sn=93fb26b968427ed7e39e245aa2bbb43e&amp;chksm=edcac669358caedc3dbc9d9d5aa2d174dcb8ccbbe4eb9849d6c568beb51c067bc71d0ad171e8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM最大能力密度100天翻一倍！清华刘知远团队提出Densing Law]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpdLicKssIlKaAJrOF8AoFUxR7j6IiaaywIjWg1meJDMsQ4vBoicClgPENXDj9eP0H6cgVP6goFJ0o7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 支持大模型一路狂飙的 Scaling Law 到头了？ >>加入极市CV技术交流群，走在计算机视觉的最前沿近期，AI 圈针对 Scaling Law </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247701792&amp;idx=4&amp;sn=7782426de02fe9a05d33929b8a26b9e5&amp;chksm=ed1723b86301a425d04b8040f0c082b1c4c7e3f472f51f5cd84202c1398fccf40a6fb61faa0e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 14:00:00 +0000</pubdate>
       
 
     </item>
