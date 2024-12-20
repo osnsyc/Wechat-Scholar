@@ -58,28 +58,92 @@
 
 
     <item>
+      <title><![CDATA[首次实现8K图像生成！南洋理工&amp;阿里&amp;复旦提出FreeScale：让扩散模型解锁更高分辨率]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrJtea0XL0AAqMtP7iadR6hdk8Yj1o5l1npia9MicjpDfFibmWKFEEibCdhfX8aEicd2RrbvpOlJibEqJRNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI生成未来来源丨AI生成未来编辑丨极市平台极市导读 本文介绍了一种无需微调的推理范式FreeScale，它通过融合不同尺度的信息，使预训练的扩散模型能够生成高分辨率的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702790&amp;idx=1&amp;sn=aff37dd9c6f531fed1c42dda140b7683&amp;chksm=ed3487985d20272b875bedd84d441fd1a4cb06d048dfe9072002df42779e1bcf85c54a09fdb5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 19 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[大模型轻量化系列解读 (三)：LLM-QAT：无需数据的 LLM 量化感知训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrJtea0XL0AAqMtP7iadR6hdVPbDwq9yVVxgyib4qGiacFbyb6Rq3XibsKJX3wNibxCBzPTBLVRe3Sp0TQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 本文可以看做是 QAT 对 LLM 的第一个成功实践，得到准确的 4-bit 量化 LLM。作者还同时量化了 KV cache，weig</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702790&amp;idx=2&amp;sn=01b523f2256e5896b92c77c4688e3c13&amp;chksm=eddafdccac4df9da2980ede6902b4fbbe6d5f425c1b07edb4284aab5a570244b1b98ef33bc1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 19 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[[vLLM vs TensorRT-LLM] #4 系统调度schedule比较]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrJtea0XL0AAqMtP7iadR6hdltTCbk4iamU2A8uT7HBfjFqdb8p7mibMd6x3p9zj3KWQCOIdoorQcemQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨oldpan来源丨oldpan博客编辑丨极市平台极市导读 本文比较了vLLM和TensorRT-LLM两种调度器在处理请求时的性能和资源利用情况，探讨了不同的调度策略如</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702790&amp;idx=3&amp;sn=67d1a2a51456c3f3de0cddfcbd342a94&amp;chksm=edf7070523a301caff594c11e85a708613c3f39341d0ebea74ae52a62cbdabd1484bfd9cbde6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 19 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[历时2年，华人团队力作，震撼开源生成式物理引擎Genesis，可模拟世界万物]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrJtea0XL0AAqMtP7iadR6hdo23f9Q0qc5ccTiaW7f385rJNDHfmADvibGhDpcYXqYBuRy42eA6LHbJA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 这是生成式大模型的时代 —— 它们能生成文本、图像、音频、视频、3D 对象…… 而如果将所有这些组合到一起，我们可能会得到一个世界！ >>加入极市CV</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702790&amp;idx=4&amp;sn=01cfd61d3dd636e8672b37cb8e1853a3&amp;chksm=eda27f5070639de9b643a78b4e7709dadf7b411e59a246313df46a1744d6c0297a2fae3c4840&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 19 Dec 2024 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[图像修复和编辑大一统！腾讯&amp;北大等联合提出BrushEdit：BrushNet进阶版来了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrISg0ic1c1iaaubetKIFt34H9zpiaq12gnMOvI2Ed7fD4WiaYd6xmyn7yNyL2PHpbfpHmnqAOQ4yTYgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI生成未来来源丨AI生成未来编辑丨极市平台极市导读 腾讯和北京大学等机构联合提出了BrushEdit，通过结合多模态大语言模型和双分支图像修复模型，实现了指令引导的图</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702664&amp;idx=1&amp;sn=bf6dfc4b2b73d0d77de7149ff7df6984&amp;chksm=ed543c3131420b152c1b1b6ba1deff604dc1c59c35d87d1ae23410d1dcf84829e5cdc4a37bf9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 18 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[复旦&amp;微软提出StableAnimator: 首个端到端的高质量ID一致性人类视频生成新框架！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrISg0ic1c1iaaubetKIFt34HfjD5gI4GBSf8s4At2MlsECX8hIdccBTqLx4qdkXkqIkicXehqqozscQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨我爱计算机视觉来源丨我爱计算机视觉编辑丨极市平台极市导读 复旦大学和微软等机构联合提出StableAnimator框架，首个端到端的高质量身份一致性人类视频生成新框架。</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702664&amp;idx=2&amp;sn=dbc8d9c1b99113e166661bdca629feb9&amp;chksm=ed4d02f96c576266a69bf38105e338dc911227bca2527052734ed92faa91b3ea3ac486b89448&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 18 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[实测最新端侧全模态大模型Megrez-3B-Omni]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrISg0ic1c1iaaubetKIFt34Hwa0GUMhHvbQjwPnN2icICraZ0xcV7ToWsQicnBwnAK6nyZfsmWOZUZibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨刘聪NLP来源丨刘聪NLP编辑丨极市平台极市导读 本文通过实际测试，展示了模型在文本、图像、语音三个方面的表现，并探讨了一个相关的web-search项目，该项目可以帮</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702664&amp;idx=3&amp;sn=63a0eac734fbfc0c3cfde54b4eb3746f&amp;chksm=ed882f2c180ac01bb09915218d2d077f6ce58c20b02ca3b79428deae2a57915ecffa5b47316e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 18 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[谷歌逆风翻盘暴击OpenAI，90天王者归来！44页报告押注25年三大技术前沿]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrISg0ic1c1iaaubetKIFt34HIy1oZpgjrtp3HUicmns6SuzdcVpedKfJvcPcZsYnwnBVdX3AXamH39A/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 在这场如火如荼的AI军备竞赛中，谷歌在年底彻底打响翻身仗，成功逆袭！Google Cloud于近日也发布了一份44页「2024 数据和AI趋势报告」，直</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702664&amp;idx=4&amp;sn=137acff4a05e6a11ec5bd668f6dbb7ec&amp;chksm=ed3d0f235703b8c178ea3ce22b2f73c47d3e970fab3e167baf2939a2944975537c0934f5c4f3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 18 Dec 2024 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -398,70 +462,6 @@
       
 
       <pubdate>Fri, 13 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[超图计算+目标检测，性能新SOTA！清华发布Hyper-YOLO：用超图捕捉高阶视觉关联]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo9YgGGIjD3bZdwNlYylBYPGiaEnAlbGY8wDDYRKElNiaibGaRlK8PKVicrfD1gL9PRIibS6poVTKdGjsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元来源丨新智元编辑丨极市平台极市导读 Hyper-YOLO是一种新型目标检测方法，通过超图计算增强了特征之间的高阶关联，提升了检测性能，尤其在识别复杂场景下的中小目</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702089&amp;idx=1&amp;sn=61875c828ccd37ed5a701e03725bf186&amp;chksm=ed6e628b24c911e005e174336197665210cb43b1f511d2480136d8629064bc71861892c0d60e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[极市直播｜字节跳动豆包大模型团队 NeurIPS 2024 中选论文精讲]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo9YgGGIjD3bZdwNlYylBYPuibCMIDYYYrjevbqWegESqgicaCUkR3hyrRXEId05t9B9o72pMxNh0QQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台本周，AI 学术圈的年度盛会——NeurIPS 2024 正在加拿大温哥华举行。字节跳动豆包大模型团队超 20 篇论文入选，研究范畴涵盖计算机视觉、自然语言处理、语音、机器学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702089&amp;idx=2&amp;sn=29fc63e89c98a4fa07c31c478d2e2b17&amp;chksm=ed4b776eec8a2609665d98a965741a492d74d4f0f4345de7961ab692e2f06bf3098e82518e5f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何正确理解NVIDIA GPU利用率的概念]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo9YgGGIjD3bZdwNlYylBYPu39l92CzYlOh0tyaPAicnQuITGRqwUyKUfOj4rjBOVCbNG6RyGEwOSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨GiantPandaCV来源丨GiantPandaCV编辑丨极市平台极市导读 为什么即使只有一个任务在GPU的一小部分上运行，nvidia-smi或其他基于NVML的工</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702089&amp;idx=3&amp;sn=bb7b621774b06a92263e68421014d7d6&amp;chksm=ed1de61a7218201fbed51e1d5856b201f3ed65a5e2e028ee3eec22d8fb9d279a6e67fa7a4cbb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024 ACL Fellow名单出炉！微软高剑峰等4位华人科学家入选]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo9YgGGIjD3bZdwNlYylBYP5bvcKNUicCp86g4oO3oaTL2fKg1Q4CWs1L0IPxqjxf7mX7YR81PlbFA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 又一年ACL Fellow名单公布了！今年共有9位顶尖科学家入选，华人学者比例占4成，表彰他们在自然语言处理上做出的重大贡献。 >>加入极市CV技术交流</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247702089&amp;idx=4&amp;sn=95aabdb45c0dd9b7ad88fee88bfac5c2&amp;chksm=ed64eccc4cdbe834f3b6091c6b43c8e12cd9e6563ac2cb4fed43317769d957ab9cfdf5b5041a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Dec 2024 14:00:00 +0000</pubdate>
       
 
     </item>
