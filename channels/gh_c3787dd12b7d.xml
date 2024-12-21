@@ -48,11 +48,34 @@
 
 
 
+
     <item>
+      <title><![CDATA[ROS应用 | 基于PID控制的机器人运动控制调试与优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmss58erGyXFdhiczzuCYneWIqiaZrbz74hsGCNvbWs96uOFdmnesn5e4q9HzxsqTogC3DW2AkodHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言PID（Proportional-Integral-Derivative）控制是一种经典的反馈控制算法，广泛应用于机器人领域。在非视觉控制的场景中，PID的一个典型应用是对机器人运动行为的调节，如</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602994&amp;idx=1&amp;sn=7f5f3fb600681baf0e8503ed5e78755c&amp;chksm=fa38ec9afaf0528ce11ac24f3ca0e58c357b9ba1f2b84ee239a32e82bd5ee8003e7d6198b020&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 20 Dec 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[自动驾驶下半场，谁能笑到最后？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmss58erGyXFdhiczzuCYneJeWjY7Hc7alrIEjAavXPLicprZCwcnQg5NaxUQE84EdZS2zoCib2JNpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>据悉，华为车BU即将成立新的技术开发部，研发一段式的端到端大模型。华为车BU从感知部门、规控部门抽调了一批天才少年，来组建新的技术开发部。技术开发方向上同时瞄准了端到端和大模型。这是华为车BU的背水一</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602994&amp;idx=2&amp;sn=a3c3ceb8778594de5f91846945d95406&amp;chksm=fa9a7531fd473bc18dc172ea137dfdcf679e25967bce0cbc670befbf273f46d7087d04d73bb0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 20 Dec 2024 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[ROS应用 | Webots 机器人仿真系统]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lVme6ic3yf9ssRZlscsWDLS2ic1iavEShd9KqhQBlux1FJRj7ibPvOps1Tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在机器人研究与开发的各个阶段，仿真工具已成为不可或缺的利器。Webots 是一个开源、跨平台的机器人仿真软件，拥有高性能的物理仿真引擎和强大的开发环境。它支持对多种机器人行为的建模与仿真，如导航、</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602944&amp;idx=1&amp;sn=c54216b12f99136a1cc1490ee05c1f3f&amp;chksm=fa5112b392f9718f9da4e111c176fd252155dc31b8d4a015712b9d57228294ee886ffd739df0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 19 Dec 2024 10:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -163,198 +186,6 @@
       
 
       <pubdate>Sat, 14 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于深度学习的医疗问诊助手]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lrT8BxTsPhZJPzjSGgghLQTGPj4lcJd5553kIlQF8clrVRgevl00lEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：前几天博主做了一个基于chatgpt3.5的智能医疗问答系统，但是博主想着，总依靠别人的chatgpt模型不太合适，没法突出自身的核心优势，基于此想法，博主衍生出了做一个基于深度学习的医疗问诊助</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602843&amp;idx=1&amp;sn=8930e3ea62fe508733bb012e68b86976&amp;chksm=fadf92b3ed38f817dea32dd3f307e7410e20e39a9e67383d49b5a92a6c3a5f4e35a28edd2826&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 13 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROSCon China 2024 | 探索ROS技术新边疆，展商展台亮点纷呈]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztFJ0lYLib62AqJKd2IqicnafPIiajT5XqEbrOkpI2ItfibicPgjVzvE1jH9494SJibsW3WW7CoMlnxfic3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>✦技术趋势与行业分析：ROS引领变革✦►  ROS作为开源的机器人操作系统，正不断推动机器人技术的革新与突破。►  在ROSCon China 2024上，众多展商展示了他们在ROS技术方面的最新研究</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602836&amp;idx=1&amp;sn=d169f3aefb5381e70db50468ee95e296&amp;chksm=fa32bcde24d9ddafe4ca453e7d837723e3212885174207e48c95e94cf724deeee87284c91a02&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS应用 | 核心组件ROSbag]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370l4gITpDyvsyKQcjjcnswiaibzs82cJWV0kTRxYCLr1HDncCGSDa8DDNwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言在机器人开发过程中，调试和验证是重要且复杂的环节。由于传感器数据、算法逻辑和控制指令的实时性，开发者需要工具记录这些实时数据并在离线环境下重复利用。这种需求促使 ROSbag 成为 ROS 系统中</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602836&amp;idx=2&amp;sn=f4406e9f355b745f1caa29bf55ead5d1&amp;chksm=faaaa80a974ba4c9eadf1f3f5a2246f793bc24736925e59ed8fc4a881a02b86a0943dc27f412&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[计算机视觉 | opencv-根据给定点计算夹角]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370ld06R2TQWTxo6gNxkWibTJ1dCDmAqfH8bIAwBgxP5Z8Umr6CLoNHfhXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述在计算机视觉领域，图像中的集合计算是一项基本且重要的任务。它广泛应用于图像识别、目标跟踪、场景分析等领域。本文将会通过一个有意思的小代码，介绍OpenCV库与用户进行交互，计算图像中的角度，并将其</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602698&amp;idx=1&amp;sn=34da7b82d65835104950208dae6361c1&amp;chksm=fa72c5e70eace541a8a7f38cc2de2f624a63d3b5848748f8b39d2fcbb4d92ece051c30f0e6f4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[自注意力机制概述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lRsaAFgL5RjOX8iannvGxq70wjfjUPHb6AjDTNklNrXYkRf4w7PWia1hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>自注意力机制自注意力机制（Self-Attention）https://so.csdn.net/so/search?q=Self-Attention&amp;spm=1001.2101.3001.7020作为</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602691&amp;idx=1&amp;sn=f44d9866cfa58cb1b42c53f41ba0a3e2&amp;chksm=fa6f1cf7709e20e34e17177f1820f47c188b8457da49e7f8a645a955af900767c35108246537&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROSCon China 2024 | 12月8日大会回顾]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvE71mTiasHyV5q4Fkb4XsDoibV8aZFjL1R8dYU6lK1H2jGRG2ianQphrCTiay6NAn8YkNM7zdc6GnicdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>首先，一起来回顾一下大会现场的精彩瞬间吧~（2024年12月7日）（2024年12月8日）12月8日，ROSCon China 2024大会圆满落幕，以下是对大会第二日的回顾总结。1主会场 - 金句频</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602677&amp;idx=1&amp;sn=5c25e41e39e1509cfe5ab9b4f48ec157&amp;chksm=faf0be65b04e9a5a3fea987e0a7fe11e5eb1211199b3fab5c7a235e3e80ddb3fcc583c94d47c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 13:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐: ROS人机交互软件的界面开发 • 蒋程扬]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsB5aLJapOexn57VhuVWEs1MnrsW0hqmcb7Gr7L61Sh8uFfBEaiaRpaMh7ZsQdDiazNqVe15sLtZsIA/300?wxtype=jpeg&amp;wxfrom=0"/><p>1课程目的ROS使用过程中，涉及许多命令和终端的操作，虽然有Rviz做显示，但依然没办法充分满足多种多样的需求，那不如开发一款集成各种自定义功能的可视化软件吧！古月居推出“如何开发一个ROS人机交互软</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602677&amp;idx=2&amp;sn=a0a42f5ac2e0fe1ade9a5ec30334cc5b&amp;chksm=fa2465d3a266f6b5b2a865038d85263d4944ac7d9c767ce623172cefdf32d555dd8bf284f64c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 13:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROSCon China 2024 | 大会首日回顾]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvE71mTiasHyV5q4Fkb4XsDoibV8aZFjL1R8dYU6lK1H2jGRG2ianQphrCTiay6NAn8YkNM7zdc6GnicdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>12月7日，备受瞩目的ROSCon China 2024大会在上海宝山伊敦康得思酒店顺利拉开帷幕。作为全球机器人操作系统（ROS）领域的顶级盛会，ROSCon首次在中国内地举办，吸引了来自全球的机器人</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602643&amp;idx=1&amp;sn=d625c3c2c6889f9e9b3bafcac6138403&amp;chksm=fa67b4fb79a424650281260323e3ecadf54f30697c931280a4ff045e248bd533b96dad1a5088&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 07 Dec 2024 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROSCon China 2024 | 明日开启，敬请期待！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvE71mTiasHyV5q4Fkb4XsDoibV8aZFjL1R8dYU6lK1H2jGRG2ianQphrCTiay6NAn8YkNM7zdc6GnicdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602377&amp;idx=1&amp;sn=2150c2365da8a66e8aa25003874baeb0&amp;chksm=fac9ba8ed17db03a93197adb9d1c0169398b6206ff8b2292599727030b74c50f2f428ac1c9d3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 06 Dec 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[活动报名 | ROSCon China 2024 报名倒计时1天！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs2kiaGQ64sZjibYUresX2NjZBtkBJODmQzRtOVMZicrw0lWNnwwXWQibibQWIcbMaKicL6R6wKZ0dagrmw/300?wxtype=jpeg&amp;wxfrom=0"/><p>ROSCon China 2024，一场汇聚全球机器人技术精英的盛会，即将在2024年12月7-8日于上海宝山伊敦康得思酒店震撼开启，带你领略一场前所未有的科技冒险！我们精心策划了一系列精彩纷呈的活动</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602377&amp;idx=2&amp;sn=06c9d86a9c42f89be03abcd2b84ececd&amp;chksm=fade0869b09cfc474b2427e18bf0cbd35365e7b389551273a2f81813939d8d135435f4d288bf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 06 Dec 2024 06:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从自动驾驶到具身智能漫谈]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lA1wRRe5SNhq2jEYPHicvPsEv10KrxRuAtqoUyiaWvhicqicteQodaxswtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介从作者的眼光来看自动驾驶和具身智能已经是越来越接近了。无论是技术栈以及实现的最终目的。其实都是希望人在环内。这个是古月直播的文字相关的大致梳理。主要会展开聊一聊自动驾驶的变迁以及作为自动驾驶</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602378&amp;idx=1&amp;sn=6e6cea7ff60ea5ab9a3ab2f5da7a14bf&amp;chksm=fa013611244aae276565e58581d98db830f7137b887aca8a8b4fee9b99816d3d08d22cf2c6a4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 05 Dec 2024 09:30:49 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[现场福利 | ROSCon China 2024 支持现场报名快闪啦，名额有限哦！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs2kiaGQ64sZjibYUresX2NjZBtkBJODmQzRtOVMZicrw0lWNnwwXWQibibQWIcbMaKicL6R6wKZ0dagrmw/300?wxtype=jpeg&amp;wxfrom=0"/><p>ROSCon China 2024，一场汇聚全球机器人技术精英的盛会，即将在2024年12月7-8日于上海宝山伊敦康得思酒店震撼开启。本次大会为期两天，期间专门预留有10+个快闪演说名额给现场想要分享</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602378&amp;idx=2&amp;sn=3421e064082eb71debbc4406345fe821&amp;chksm=fa8835ef63f68b195ec1fdb5ae91de30cd6f09fc7a7d33ffc8fe11bc30a3bac23824c6fc66ed&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 05 Dec 2024 09:30:49 +0000</pubdate>
       
 
     </item>
