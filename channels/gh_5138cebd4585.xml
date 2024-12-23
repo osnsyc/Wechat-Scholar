@@ -49,33 +49,93 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[大语言模型的知识蒸馏（KD）应该用Reverse KL？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvFsUNwmSibeoZ294oXp7DGxnXv1251rHta31qhn4FjhI0kSn9MQneAxUjBI52ibeG960gy1BuFekA/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | Taki5单位 | 香港大学研究方向 | LLM efficiency, trustworthy导言：近来有很多文章尝试做 LLM 的蒸馏，有几篇文章都提</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697228&amp;idx=1&amp;sn=9cd74a0d4f8d5625a954040a90d9ea6b&amp;chksm=9765777265519c9ae609fe15a0cecd598cff6dfd08cdba20be3d211068478054b304f52414e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 22 Dec 2024 15:03:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[AAAI 2025 | 基于自适应图结构和动态原型对比学习的空间多组学解析框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvFsUNwmSibeoZ294oXp7DGksp3KtfMRSvrccfOotIzBEAoTu1PXvvzEGGb6USj7yR3wLS5pPLsjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 黄新磊单位 | 大湾区大学信息科学与技术学院研究方向 | 空间多组学，图学习本文提出了一个新的空间多组学解析框架，PRAGA，通过构建动态图结构和基于贝叶</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697228&amp;idx=2&amp;sn=c072b4b52f73801b00ab9492e17b3504&amp;chksm=973e846008f101e6a9e765481f5b44f0440f866a08e4fb4c505ec2b0e25942daf48bfc806d67&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 22 Dec 2024 15:03:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[超越ControlNet++！腾讯优图提出动态条件选择新架构DynamicControl]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvFsUNwmSibeoZ294oXp7DGsrUthsPOCokKvsK6A0qf8aTKUX5RNx9uoepWsFRpNERicNm4mOROUtg/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了增强文本到图像生成模型的可控性，当前的 ControlNet 类模型已经探索了各种控制信号来指示图像属性。然而，现有的方法要么处理条件效率低下，要么使用固定数量的条件，这不能完全解决多种条件的复杂</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697228&amp;idx=3&amp;sn=4058b2f3fb503ea9b621fac0a1c56819&amp;chksm=97ff24e8707b34028b7a8c134c6b07adc11dafa893f8c9509abb30893ef216d82aaa0e8913a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 22 Dec 2024 15:03:08 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[北京内推 | 高通中国招聘端到端AI模型量化研发实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvFsUNwmSibeoZ294oXp7DGYmznrAQsMtuAdOUGzskDJt6zlT3Useuc9cdmW1vACZatpJHN7zicZJQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！高通公司Qualcomm（高通公司）是全球领先的无线科技创新者，也是5G研发、</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697228&amp;idx=4&amp;sn=ebb3dd3f6b7cd25b7d423b63b52e8b88&amp;chksm=974d939350c5724219f29a6398a02d1d76cac7a753776d59ff67abd08c948246e424c29e21af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 22 Dec 2024 15:03:08 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[低秩近似之路（四）：插值分解（Interpolative Decomposition）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglNwydxfmAfKMib6QhAhiasqENRia0pjjqibeAXRefOic9ofn8l7j8SxTo0ibl2huWmOCmH2lyAibMypPJvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 苏剑林单位 | 科学空间研究方向 | NLP、神经网络这篇文章的主角是 ID（Interpolative Decomposition），中文可以称之为“插</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697189&amp;idx=1&amp;sn=d53b1177dc9458edb82e9cc04615dba0&amp;chksm=979f3b13af46671cc480d6d384519611f7428c260dfb6360d41ff6a51efe9f7b77f00a242271&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 20 Dec 2024 15:00:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NeurIPS 2024 | 基于信息论，决策模型有了全新预训练范式统一框架]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglNwydxfmAfKMib6QhAhiasqEkJ7bvf19x3lgD15lYibMVWe5bsTzf3CVKI2ibmIIyW0EcQqx1P5cWnvg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 李蓝青单位 | 之江实验室、香港中文大学现如今，以 GPT 为代表的大语言模型正深刻影响人们的生产与生活，但在处理很多专业性和复杂程度较高的问题时仍然面临挑战。在诸如药物发现、自动驾驶等复</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697189&amp;idx=2&amp;sn=05b5cffa8b4ec84a88cd82342e438248&amp;chksm=979da3ede91da8fdfe088896d911621f2e83cae548819432f3be8894877d715d5905d74680a4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 20 Dec 2024 15:00:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[直播预告 | 香港中文大学王文轩博士：可信大模型的测试与评估]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglNwydxfmAfKMib6QhAhiasqEVWj7UTemEUso7O6AQxVxNAgbH4VJOpMMOFp3InVLRlCiaYeQia3Eibibibg/300?wxtype=jpeg&amp;wxfrom=0"/><p> AI安全说 第11期 嘉宾在线解读✔️在线实时Q&amp;A✔️ 直播主题 可信大模型的测试与评估：正确性，无毒性和公平性 直播嘉宾 王文轩香港中文大学计算机系博士 直播时间 2024年12月21日（周六）</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697189&amp;idx=3&amp;sn=48d0b08425859f98967c64f8f4f4a8bd&amp;chksm=976f02b4c4ca5195c91bb14fdec351eca4cd644a928e31f2541b7b55170d57c35c90acfba4c5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 20 Dec 2024 15:00:27 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[北京内推 | 微软亚洲研究院通用人工智能组招聘大模型算法实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglNwydxfmAfKMib6QhAhiasqEaibyTqNVHOlUV7LfcKKkWla5SLrvjhu3LZuU37hEXXiaKgQpcVyDVw3w/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！微软亚洲研究院微软亚洲研究院通用人工智能组（General Artificia</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697189&amp;idx=4&amp;sn=b511b1dfe3f1371c363fe28fd20b2107&amp;chksm=9743ba247c10008a8adfc5c2794c1536672f39ad0ef4103cc549d7e6c50eddd9e40a5b70313e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 20 Dec 2024 15:00:27 +0000</pubdate>
+      
+
     </item>
     <item>
       
