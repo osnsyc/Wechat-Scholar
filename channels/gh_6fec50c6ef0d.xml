@@ -39,11 +39,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[Frozen-DETR: 使用冻结的基础大模型来增强DETR的能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvqk3zpr4BUqibicYiaKayViagia1lI40ms7LfJZcxqEDPVrahdG0nw16gzzEcM5oHfwb75CyZSw2SmXvLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读通过这种新颖的范式，我们在COCO验证集上，使用R50作为检测器的主干网络并训练12个epoch后，分别整合一个或两个基础模型，将最先进的基于查询的检测器DINO的AP（平均精度）从49.0%提升</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498422&amp;idx=1&amp;sn=482f670922af4a4d5275d81cccb6bf58&amp;chksm=c1cf65e7745e9cb9a67522ed9fa51304f281cda94ea1447a6f954c2c95a9857978e0bbc38076&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Dec 2024 01:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[基于拓扑集合约束的动态蛇形卷积用于准确分割管状结构，如血管和道路]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvrOVibGibWh0xoOKrUW8Kg1ULFBrib0SmWCPQfSIfXiarRJO42sfeu1xOeEKwOBX2hicQFT93UQH5YfZQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读在本研究中，我们注意到管状结构的特殊性，并利用这一知识指导我们的DSCNet同时在三个阶段增强感知能力：特征提取、特征融合和损失约束。摘要准确分割拓扑管状结构，如血管和道路，在各个领域中至关重要，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498398&amp;idx=1&amp;sn=d0ce30dd732e0b335d040830e1adc877&amp;chksm=c17e0ad3fd0492ed520ccb582afd1646d4b8982d9ac72b45cd3fed1a525514b137a3ed4ef93f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 11 Nov 2024 04:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
