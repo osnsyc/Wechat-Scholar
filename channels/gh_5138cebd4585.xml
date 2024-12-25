@@ -49,29 +49,97 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[WizardLM新作！AgentGen：通过环境和任务生成增强基于大模型的Agent规划能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglAA8tYLxTYibeGbLt2F9oVhwxeEcBmnJXBJu3nyJNSlPn02MjNXL4NUrvRWm2ibKAVvL7RQkgKgK0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于大语言模型的智能体（LLM-based Agent）受到了广泛关注，并越来越受欢迎。此外，规划能力是 LLM-based Agent 的重要组成部分，它涉及与环境的交互和执行行动以完成规划任务，这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697325&amp;idx=1&amp;sn=5af581c7d3f321d4aa87c279a13f5fdd&amp;chksm=970d0b3b1677d5d2a0faa1f8ad423cbb45817775523d6230f160fffc326e34e8cb6b6ba94bc6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Dec 2024 10:17:23 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[复旦&amp;微软提出StableAnimator：首个端到端的高质量ID一致性人类视频生成新框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglAA8tYLxTYibeGbLt2F9oVhSc6zRSSVISDhrkYRbxxrrMibHNkuDXq0CGIbhESsQtk0JJ3966pIeow/300?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型近年来在图像和视频生成方面取得了显著成功，极大地激发了图像动画领域的研究。尤其是人像图像动画利用生成模型根据一系列姿态序列动画化参考图像，从而合成可控的人体动画视频，这在娱乐内容创作和虚拟现实</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697325&amp;idx=2&amp;sn=40599c7388639264915d984b5b9c43ca&amp;chksm=970bfb92e55c69519b22102b2ad044d502049f7c05c3d14271582ac12141dd1393c9cb6f3292&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Dec 2024 10:17:23 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[AAAI 2025 | 时间序列演进也是种扩散过程？基于移动自回归的时序扩散预测模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglAA8tYLxTYibeGbLt2F9oVhEj897r250Ybe108jucPibWbfy9xNDdS7RdcIRbmicJknDOyuWbYdH58g/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，目前有很多工作采用自回归方法来模拟或是替代扩散模型，其中视觉自回归建模（Visual AutoRegressive modeling，简称 VAR）就是其中的典型代表，该工作利用自回归</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697325&amp;idx=3&amp;sn=4f94e341f572a4642a8fbad3cf6ba82e&amp;chksm=97c9ee43699150acf7b36477bdb7e9d90fb16da7f2d095b6b93b248e525ac74847a607d186c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Dec 2024 10:17:23 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[北京内推 | 字节跳动Data电商团队招聘大模型算法实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglAA8tYLxTYibeGbLt2F9oVhrAb0haufvUHVeBVibmutKHriaFGia7RtKy9ZkWSAJK06hJXuL6eiaHuzBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！字节跳动Data-电商团队，负责电商创新项目的算法和大数据工作。依托于字节跳动</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697325&amp;idx=4&amp;sn=2be53932ad72e2ade4dcf16e8627dfca&amp;chksm=97c49bae43ca740ec64cafae457474547120a7d384c5aa2f2d8992310a99c30f1c913d66943b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 24 Dec 2024 10:17:23 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[大语言模型的知识蒸馏（KD）应该用Reverse KL？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvFsUNwmSibeoZ294oXp7DGxnXv1251rHta31qhn4FjhI0kSn9MQneAxUjBI52ibeG960gy1BuFekA/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | Taki5单位 | 香港大学研究方向 | LLM efficiency, trustworthy导言：近来有很多文章尝试做 LLM 的蒸馏，有几篇文章都提</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697228&amp;idx=1&amp;sn=9cd74a0d4f8d5625a954040a90d9ea6b&amp;chksm=9765777265519c9ae609fe15a0cecd598cff6dfd08cdba20be3d211068478054b304f52414e5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 22 Dec 2024 15:03:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[AAAI 2025 | 基于自适应图结构和动态原型对比学习的空间多组学解析框架]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvFsUNwmSibeoZ294oXp7DGksp3KtfMRSvrccfOotIzBEAoTu1PXvvzEGGb6USj7yR3wLS5pPLsjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 黄新磊单位 | 大湾区大学信息科学与技术学院研究方向 | 空间多组学，图学习本文提出了一个新的空间多组学解析框架，PRAGA，通过构建动态图结构和基于贝叶</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697228&amp;idx=2&amp;sn=c072b4b52f73801b00ab9492e17b3504&amp;chksm=973e846008f101e6a9e765481f5b44f0440f866a08e4fb4c505ec2b0e25942daf48bfc806d67&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 22 Dec 2024 15:03:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[超越ControlNet++！腾讯优图提出动态条件选择新架构DynamicControl]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvFsUNwmSibeoZ294oXp7DGsrUthsPOCokKvsK6A0qf8aTKUX5RNx9uoepWsFRpNERicNm4mOROUtg/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了增强文本到图像生成模型的可控性，当前的 ControlNet 类模型已经探索了各种控制信号来指示图像属性。然而，现有的方法要么处理条件效率低下，要么使用固定数量的条件，这不能完全解决多种条件的复杂</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697228&amp;idx=3&amp;sn=4058b2f3fb503ea9b621fac0a1c56819&amp;chksm=97ff24e8707b34028b7a8c134c6b07adc11dafa893f8c9509abb30893ef216d82aaa0e8913a2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 22 Dec 2024 15:03:08 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[北京内推 | 高通中国招聘端到端AI模型量化研发实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvFsUNwmSibeoZ294oXp7DGYmznrAQsMtuAdOUGzskDJt6zlT3Useuc9cdmW1vACZatpJHN7zicZJQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！高通公司Qualcomm（高通公司）是全球领先的无线科技创新者，也是5G研发、</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697228&amp;idx=4&amp;sn=ebb3dd3f6b7cd25b7d423b63b52e8b88&amp;chksm=974d939350c5724219f29a6398a02d1d76cac7a753776d59ff67abd08c948246e424c29e21af&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 22 Dec 2024 15:03:08 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -262,134 +330,6 @@
       
 
       <pubdate>Wed, 18 Dec 2024 05:31:49 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[直播预约 | 字节跳动豆包大模型团队NeurIPS 2024中选论文今晚精讲！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8icpG1ULj64dRVS76AQesEVp6icC7GYgBiaQr7nWzHtmaaz0n03uVsDnn4yS2Qa3TH3ZTvDDwQzWXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 学术圈的年度盛会——NeurIPS 2024 渐近尾声，精彩仍在延续，线上直播活动来袭！字节跳动豆包大模型团队超 20 篇论文入选，研究范畴涵盖计算机视觉、自然语言处理、语音、机器学习等多个大模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697023&amp;idx=1&amp;sn=7909d19eac87b4a68f790f112f9af363&amp;chksm=97bb2fd99d0ef9e34d6ef66826a1c7ce239c44d8987507e2015b10c88feb0ca6620891db4b7a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Dec 2024 00:03:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北大团队提出ConsisID：基于频域分解的身份保真文本到视频生成模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8icpG1ULj64dRVS76AQesE18vxvKCXje6pnr1pgKxQ2Qo1wTkDGcFsKzXXPWjBSfMW1CAMmzaNOg/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近，来自北京大学的研究团队发布了一个视频生成的可控生成工作：ConsisID，其针对人脸的特征特性以及 DIT 的架构特性，设计了合理的控制信号及训练策略，成功实现了无需训练、高质量、可编辑、一致性</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697023&amp;idx=2&amp;sn=85e8fbb5021fc511fea61464f09be655&amp;chksm=979ee24b9973abb7af1d680cd5eb15a578a08f31dc5c17b2ceb4552a7914b906640ca887108a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Dec 2024 00:03:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GPT-4其实根本听不懂声音？港中文、斯坦福等联合打造视觉听觉评估新基准]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8icpG1ULj64dRVS76AQesEne8pelAtz8U67iacG0QOh6S5HG5OMOk3dNf3etFib4SqhhvDqELOXjGw/300?wxtype=jpeg&amp;wxfrom=0"/><p>多模态大模型在听觉上，居然也出现了 ‘9.11>9.8’ 的现象？！在人工智能领域，我们一直以为顶尖的多模态大模型已经无所不能。其中 GPT-4o 在 ASR（音频转文字）任务上取得了 97% 的正确</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697023&amp;idx=3&amp;sn=4fd81e40781061b96cc808440d0d1a3f&amp;chksm=9799e751c897465c67fc5d5b373a2d3373e0b5b9f370e52bfb6d60711dc3f564275ec609fdec&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Dec 2024 00:03:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北京内推 | 阿里妈妈搜索广告算法团队招聘广告算法实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8icpG1ULj64dRVS76AQesEW46PEVXbQ1UoiawyxXEMZibFjbibCA9OiaicmSrZ5l3nOmRAOkaibDZpnnXA/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！阿里巴巴我们是阿里巴巴-阿里妈妈事业群-搜索广告算法团队，负责阿里最核心的营收</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697023&amp;idx=4&amp;sn=6118ff04de5c32bc2f64d1277fcfb5d3&amp;chksm=97caf44abd0989207c9f98a117e3c294c4de548a0ef16c00436456c7069f20ce77cd5913f413&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Dec 2024 00:03:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[为什么说在中国做科研最忌讳踏实？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8icpG1ULj64dRVS76AQesEeXMSR5qB3VBGTg9LJRqWZNBjVjOKRhOFhV7Y58C7chiaElqC5Z54SPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>搞科研，很多人觉得找创新点非常困难，绞尽脑汁就是找不到。殊不知经验丰富的老手，2天就能找到一个A会idea，仅仅1天就能找到2-3个B会/C会的idea。俗话说：“难者不会，会者不难。”找创新点其实也</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247696921&amp;idx=1&amp;sn=e743ad647bb7f0e81a183748162cb065&amp;chksm=978abcc076cdec9e22832152c1bdb1f9935871c747271e6c8a9a2c591975a5dbe37c6627dfb3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Dec 2024 04:30:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[​纯文本对齐就能解决多模态安全问题？上海AI Lab发布VLSBench给出否定答案]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8icpG1ULj64dRVS76AQesEtiaZSNY1xYCR6Mg8wm3jPpahHsicI0pSofc4qeA8hZX0funeo7H00Log/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言如何为多模态大模型（MLLMs）的安全测试构建正确且富有挑战性的测试数据一直是一个很大的挑战。一些工作 [1, 2, 3] 表明使用简单的文本数据做对齐就能解决现有的多模态安全问题。我们进一步地发</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247696921&amp;idx=2&amp;sn=c4bc127b1fa4da09e51ef364c2fa0c0c&amp;chksm=9729baacaef293eebcc486866277770d779b6c8bbe2b55b10baa62709649df51da406dfe3824&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Dec 2024 04:30:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[模仿、探索与自我提升：慢思考推理系统的复现之路]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8icpG1ULj64dRVS76AQesENWibyxK9n532dSCs53qFRD5hiczDC0c0D4Lv7R6YNWVaBz5uggfxP5Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 蒋锦昊，陈志朋，闵映乾单位 | 中国人民大学研究方向 | 大语言模型与推荐系统近年来，类似于 OpenAI 的 o1 等慢思考（slow-thinking）推理系统在解决复杂推理任务方面展</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247696921&amp;idx=3&amp;sn=9ea7f6906b58d54e8b9f953da556e194&amp;chksm=97f8fc413b7c905ea380a54f2fc87cb0d50f555151d007b2757a973a3ec0ff0817a8905d36a6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Dec 2024 04:30:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[博士申请 | 密歇根大学计算机视觉实验室高俊老师招收3D生成方向博士生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8icpG1ULj64dRVS76AQesEyPp27Xu1sIEDzU28alTMFvtuU4BzahjJE4xDHgI7uEQ4hk2lzE2ohA/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！密歇根大学密歇根大学在计算机方向有深厚的底蕴和积累，并在多个学科排行榜中都名列</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247696921&amp;idx=4&amp;sn=8ed3f268dfaf9a53dabca347999c439f&amp;chksm=97fb7fa8fe758c110bc8afe59396e1b063ca4222f936d1e7fceedd28f8c9cb6ab47790c07d19&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Dec 2024 04:30:39 +0000</pubdate>
       
 
     </item>
