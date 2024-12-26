@@ -46,29 +46,97 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[让Agent"少说废话"！打造高效的LLM多智能体系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah1aGlib8oybp7QdEiaHpnVytEDsHv5dA5HrWFprcbXybOhQhdvK625YQ68cXkiaF4mmVO5ZGrLoOX6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，大语言模型（LLM）驱动的智能体（MA）取得了显著进展，集体智能表现出超越单个智能体能力的优势，主要归功于精心设计的智能体间通信拓扑。然而，现有的多智能体系统在性能上的提升是以大量的token开</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534935&amp;idx=1&amp;sn=6ccf7e68fd8834eb39a503643324ee1e&amp;chksm=ea4cd50f66c1c91492dc2987dc2811fa6bf185686682eadc1357fc3c920d8a356e5f0f5c53e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 26 Dec 2024 07:25:31 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[游凯超：我与vLLM的2024，很Passion！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah1aGlib8oybp7QdEiaHpnVytrGGiaIF1TU3tVLtE6dYSajPbwpK5TicwF6ib5jVV7P6x9t38C5qgX65uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>我与vLLM的2024,作者游凯超,已授权https://zhuanlan.zhihu.com/p/14430956145编辑：ChallengeHub楔子我与 vLLM 的缘分，还得从五年前的那个暑</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534935&amp;idx=2&amp;sn=4b3ab1e7fea789133758cba8c78ff1fa&amp;chksm=eaf08c2285a419422f27ec1f422adf8cb8e2b8aa08376a1eb7d8e37e609aff626b3f458a3111&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 26 Dec 2024 07:25:31 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[最新RAG综述：15种经典RAG框架综述（上）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah1aGlib8oybp7QdEiaHpnVytjGTCRmTPy7GTHLbXibJgN7w09R8ocV6qGatotrVPiaib1d3L2glZq0ALw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：深度图学习与大模型LLM本文约3500字，建议阅读9分钟本文深入探讨了 Retrieval-Augmented Generation (RAG) 的发展历程，从基础概念到最新技术。LLM所有细分</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534935&amp;idx=3&amp;sn=18f6836d41f8d8bc73dbe657226a7798&amp;chksm=ea89869de7df81a1396b3774f633fb72265df8ec4b2f08d523480fbfc7aff5ef1773c889fffa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 26 Dec 2024 07:25:31 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[最新RAG综述：15种经典RAG框架综述（下）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah1aGlib8oybp7QdEiaHpnVytjGTCRmTPy7GTHLbXibJgN7w09R8ocV6qGatotrVPiaib1d3L2glZq0ALw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：深度图学习与大模型LLM本文约3500字，建议阅读9分钟本文深入探讨了 Retrieval-Augmented Generation (RAG) 的发展历程，从基础概念到最新技术。LLM所有细分</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534935&amp;idx=4&amp;sn=9e545a7b937babc7708fd68d72babd3c&amp;chksm=ea4330f6a733d34b405eb577062551744edf19a063e381b8bb22047fad030c6e11a8fd727217&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 26 Dec 2024 07:25:31 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[LLM实践--支线：分布式训练框架的编程基础]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajs0cDUqz6nhT9lNIoKOPEcoVvnSuuOib3BHiayc82opxEaiaF9hiboqavbE6fQW8M1ib4ibsJCsUYD6urw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：真中合欢地址：https://zhuanlan.zhihu.com/p/10091011992编辑：「深度学习自然语言处理 公众号」，转载授权请联系原作者为什么会有这篇文章：虽然工作内容不是in</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534897&amp;idx=1&amp;sn=9f5ed673a46427aa7fb83deded8aee40&amp;chksm=ea61531cb83ffdde2626a7e4c956e9b8d34e48f402c019f869701a95c1f222ae16d5bf39a575&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 24 Dec 2024 11:00:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NICE40期 | 自动生成模型卡与数据卡：迈向负责任的人工智能]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajs0cDUqz6nhT9lNIoKOPEcE7nvjEgfzYHNfiau2ZebLmkqdzZMJ5m6sV8vXhOE3V5UXAY3V91IFSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题自动生成模型卡与数据卡：迈向负责任的人工智能时间12.25 20:00-21:00 周三引言在开放源代码AI模型和数据集迅猛发展的时代，标准化文档的需求变得尤为重要，以确保AI系统的透明性、问责制</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534897&amp;idx=2&amp;sn=58f8dd02a8ea39fc1d6a68f4b866cf79&amp;chksm=ea0b57669507b10a0537193fba358c1a37f9574fb94655ac28c7cc1e84631e558e17dbe1990b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 24 Dec 2024 11:00:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[刘鹏飞老师组研发PC Agent，让 AI 替你熬夜做 PPT]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajs0cDUqz6nhT9lNIoKOPEceEiadkoLUMbSGDo7ic0XfG9Dvrvu18QaiaqYmztMmnOo5zAia2hEHWJfibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心LLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分领域群、投稿群从这里进入！本文共同第一作者为上海交通大学 ACM 班的三年级本科生何彦衡，金嘉禾，两</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534897&amp;idx=3&amp;sn=720ee02de11183e9f6cd1375da68ef43&amp;chksm=ea3637a6e30448e910eebf2d0266e1e014822ae8a8c7836370ca14d7109d05da987ec4093bc9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 24 Dec 2024 11:00:39 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM，一艘方向不对但积重难返的华丽游轮...]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajs0cDUqz6nhT9lNIoKOPEcc1rpPas4jIDmES76GdbOeuvz9ve8mfVT2LDuXqy9s1TO87kibNJlKSw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：SimpleAI and ...LLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分领域群、投稿群从这里进入！下班回到家，给娃完成了一条龙服务之后，在这个周五的</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534897&amp;idx=4&amp;sn=780f6d767e34c66ed4e3bfc2f2069fee&amp;chksm=ea129f719c96298c908bec2ee5a45111ef8994f6aa4be18ee779a777542ca00324faf71019f5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 24 Dec 2024 11:00:39 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -275,70 +343,6 @@
       
 
       <pubdate>Thu, 19 Dec 2024 14:00:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[只要捞"偏门"，篇篇都是顶会顶刊！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagjIG0EHPWyqW0jvCia3pqzr4IqL0IyBafBlG5CSL3T26yWXTfuBj2QNkYUZfSlpObW15RvAMfuhCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>新手搞科研，最忌讳的就是自己埋头苦干。搞科研，只靠自己是不可能发出高区位论文的！一定要多学习那些顶会大牛“成熟的方法论”和“先进的科研思想”。站在别人的经验之上，才更容易挖掘出极具创新性的那种idea</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534658&amp;idx=1&amp;sn=afdcec36255eb5a6e3662c42ce435847&amp;chksm=ea4f96f4078a79538d76dc448b6fbb329ef5f8be8e35455dc094811d16da886841ad700d68f2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Dec 2024 03:45:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[圆桌会 | 荣幸邀请到Meta、OSU、哈佛&amp;MIT学者来分享Agent前沿~]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagjIG0EHPWyqW0jvCia3pqzrEbACtGWZtdicme8iafCYUSN7SAVLmHOCQWP14L8gIqNZTNPCyUl9LIzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题Future of Agent：基础模型与智能体的前沿探索时间北京时间 2024.12.21 10:30-12:00纽约时间 2024.12.20 21:30-23:00分享为数字智能体构建未来的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534658&amp;idx=2&amp;sn=92f8072de78341e393a65acdbd7b6d27&amp;chksm=eae1183610679c4d6c4383bb1949e4f58460ffc4dc6216834ac6a17cf6f9a2fc2c9da4dfae32&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Dec 2024 03:45:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NeurIPS Spotlight | 基于信息论，决策模型有了全新预训练范式统一框架]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagjIG0EHPWyqW0jvCia3pqzrAh7vrZj7nqWFibtzkJ6GARRkxoVEybkW5L6CN9lQAYLQAIpxFOJ4MzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心LLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分领域群、投稿群从这里进入！论文一作为之江实验室研究专家、香港中文大学在职博士李蓝青，指导老师为香港中</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534658&amp;idx=3&amp;sn=3dc5f3a62e4687cc3c00b7a9269fbf4f&amp;chksm=eae4bab8aa5a50619b2da8b3f64b3ffc51fc60b38a98e39b22935e7a6a945a5a59047f069dbb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Dec 2024 03:45:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[模仿、探索与自我提升：慢思考推理系统的复现之路]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagjIG0EHPWyqW0jvCia3pqzrVeiclwxkXedrtYEcKC2OwjRE6VcnNHkHFXviazEpzQTFPm0SggPPGJZA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 蒋锦昊，陈志朋，闵映乾单位 | 中国人民大学研究方向 | 大语言模型与推荐系统来自 | PaperWeeklyLLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534658&amp;idx=4&amp;sn=b0764e17bc92224f6107c20f4c661c4a&amp;chksm=ea372bfa4e050c72c1459a7e1bda345a8e8676c51ce86809b5b87977f7146481bf0b0e0e1117&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Dec 2024 03:45:00 +0000</pubdate>
       
 
     </item>
