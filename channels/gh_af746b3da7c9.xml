@@ -51,28 +51,80 @@
 
 
     <item>
+      <title><![CDATA[OpenAI-o3 与 Monte-Carlo 思想]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaHSqEcyv5tq4RHlRZdkgVtnqicpuxqmWNx6DkteI93chaOS4UC7dK7pwPicVvtdiaLZChYYOda61aAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>o3 来了，分享一些个人的浅见。关于 Test-time Scaling Law 的进展，比我们想象中的要快得多。但我想说的是，这条路其实有些曲折——它是 OpenAI 在追求 AGI 的道路上，采取</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534955&amp;idx=1&amp;sn=b5ea2bea3b3bd9d35791dec037bbaf23&amp;chksm=ea9fe154ec431edc91770ef6a0507dd76a85dc0ed88367105ea698eb32b02ea4d95416d16fc2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 27 Dec 2024 11:17:02 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[NICE41期 | 大模型评估的新视角：理论指标创新与下游任务应用分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaHSqEcyv5tq4RHlRZdkgVtSxictFZ1N1HFxKYUW3iaIf3ZMgB6Ufq8ueBNuZ63xv3yg97yO7YPSsibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题大模型评估的新视角：理论指标创新与下游任务应用时间2024.12.28 10:30-12:00 周六大纲新型评估指标：Diff-eRank - 魏来LLM医学评估：MultifacetEval -</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534955&amp;idx=2&amp;sn=ce9049bc2bfeaadf5e01fe10fb59611f&amp;chksm=eaeeed082f14729a32a22ae147f61dbb288ed3daa6a9b5db79a798d6f05ef775ddc6bfb59d7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 27 Dec 2024 11:17:02 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[让Agent"少说废话"！打造高效的LLM多智能体系统]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah1aGlib8oybp7QdEiaHpnVytEDsHv5dA5HrWFprcbXybOhQhdvK625YQ68cXkiaF4mmVO5ZGrLoOX6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，大语言模型（LLM）驱动的智能体（MA）取得了显著进展，集体智能表现出超越单个智能体能力的优势，主要归功于精心设计的智能体间通信拓扑。然而，现有的多智能体系统在性能上的提升是以大量的token开</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534935&amp;idx=1&amp;sn=6ccf7e68fd8834eb39a503643324ee1e&amp;chksm=ea4cd50f66c1c91492dc2987dc2811fa6bf185686682eadc1357fc3c920d8a356e5f0f5c53e6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Dec 2024 07:25:31 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[游凯超：我与vLLM的2024，很Passion！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah1aGlib8oybp7QdEiaHpnVytrGGiaIF1TU3tVLtE6dYSajPbwpK5TicwF6ib5jVV7P6x9t38C5qgX65uA/300?wxtype=jpeg&amp;wxfrom=0"/><p>我与vLLM的2024,作者游凯超,已授权https://zhuanlan.zhihu.com/p/14430956145编辑：ChallengeHub楔子我与 vLLM 的缘分，还得从五年前的那个暑</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534935&amp;idx=2&amp;sn=4b3ab1e7fea789133758cba8c78ff1fa&amp;chksm=eaf08c2285a419422f27ec1f422adf8cb8e2b8aa08376a1eb7d8e37e609aff626b3f458a3111&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Dec 2024 07:25:31 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[最新RAG综述：15种经典RAG框架综述（上）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah1aGlib8oybp7QdEiaHpnVytjGTCRmTPy7GTHLbXibJgN7w09R8ocV6qGatotrVPiaib1d3L2glZq0ALw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：深度图学习与大模型LLM本文约3500字，建议阅读9分钟本文深入探讨了 Retrieval-Augmented Generation (RAG) 的发展历程，从基础概念到最新技术。LLM所有细分</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534935&amp;idx=3&amp;sn=18f6836d41f8d8bc73dbe657226a7798&amp;chksm=ea89869de7df81a1396b3774f633fb72265df8ec4b2f08d523480fbfc7aff5ef1773c889fffa&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Dec 2024 07:25:31 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[最新RAG综述：15种经典RAG框架综述（下）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah1aGlib8oybp7QdEiaHpnVytjGTCRmTPy7GTHLbXibJgN7w09R8ocV6qGatotrVPiaib1d3L2glZq0ALw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：深度图学习与大模型LLM本文约3500字，建议阅读9分钟本文深入探讨了 Retrieval-Augmented Generation (RAG) 的发展历程，从基础概念到最新技术。LLM所有细分</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534935&amp;idx=4&amp;sn=9e545a7b937babc7708fd68d72babd3c&amp;chksm=ea4330f6a733d34b405eb577062551744edf19a063e381b8bb22047fad030c6e11a8fd727217&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Dec 2024 07:25:31 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -231,118 +283,6 @@
       
 
       <pubdate>Sun, 22 Dec 2024 09:16:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今天Qwen2.5技术报告发布啦！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagz4iap24iacMB51ZcNol4IPa8aHic1ib3TUiaHhJxSX4vuUaKKlOOurVOcNy2Cz2FnCU4Z3umbWEJ2icAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天Qwen团队发布"Qwen2.5 Technical Report" 的技术报告，下面对该报告做了简单的概括，希望让大家有个快速了解。LLM所有细分方向群+ACL25/ICML25/NAACL25</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534727&amp;idx=1&amp;sn=19469910bdef29b02f2e1a4457e4be89&amp;chksm=ea0cd3371c58922871f37a81af347627561f1cfaf8763123698db33b98838650b7a399512ad4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 10:04:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Anthropic: 预训练阶段引入人类反馈更安全]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagz4iap24iacMB51ZcNol4IPaIwg4ZmLHw9vpg7VotNy3Y4Hj4nVE7bcdJTvWCZIyAf1VNHEsjAE7DA/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：yearn原文：https://zhuanlan.zhihu.com/p/701067046排版：青稞AI该研究探讨了在语言模型（LM）预训练阶段引入人类偏好反馈，以减少模型生成不符合人类偏好</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534727&amp;idx=2&amp;sn=84ebcd850a87306174d421d810d294ad&amp;chksm=ea5e8a4d7db2598a411f66e215e1a018dd2253362fb6557cfd6c08304956a221735f9de3fe00&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 10:04:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解OpenRLHF中基于Ray的分布式训练流程]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagz4iap24iacMB51ZcNol4IPaoVGGw56d6z7ZywC2wgftnSfDQahpTUZ9ACFWK2GMjg5lwfibMKmXAlg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记LLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分领域群、投稿群从这里进入！本文着重分析OpenRLHF中的PPO-Ray训练架构设计，没有使用过</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534727&amp;idx=3&amp;sn=40a4a2c6eebd8214e2372a10443228ec&amp;chksm=ea642b5514ddf3958e9de5d93367c25d09972b483266365cd4849bd501ffc2c2e61e9fd02796&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 10:04:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Tokenization不存在了？Meta最新研究，无需Tokenizer的架构来了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagz4iap24iacMB51ZcNol4IPawHWQxQN9XVTahCp2ibKf5LC0jOrFYk45oHJ9mCauDiaqztrTPu13jbgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：机器之心LLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分领域群、投稿群从这里进入！最近几天，来自 Meta 、芝加哥大学等机构的合著论文《 Byte Lat</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534727&amp;idx=4&amp;sn=57b811e579fbdb552a6e53fcae11b798&amp;chksm=ea7ffc1adda1b38aa5dfb115df0bb9c0bb0f886a5b9e71af9e4e654686cecd4a8fde83f586c8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 10:04:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[实践指南: hzwer大佬的模型优化与迭代策略]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag3RxjyY6Cvic0rwwAcUiboSnSHu0OJ3tSDtYrJGVkInzHXicL2UxhialEicLmCxTmUJBGPQIxXDmRxulw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：黄哲威 hzwer (已授权)链接：https://www.zhihu.com/question/31785984/answer/53910308820编辑：深度学习自然语言处理LLM所有细分领</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534680&amp;idx=1&amp;sn=5b7ab416224a82d3932cd68c6a40919f&amp;chksm=eaec382d19353010accf9857aa107d493948f62593c25ec88cd30fbe5a890c493de8b02a21f9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Dec 2024 14:00:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何用一个统一的视角，分析RLHF下的各种算法？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag3RxjyY6Cvic0rwwAcUiboSnScIvr6tzHT2EwFibLWPIV4iawUJpRjzCBm5ryccuHlgekv9LdmSt870A/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记LLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分领域群、投稿群从这里进入！写这篇文章的起因是，上周读了https://zhuanlan.zhih</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534680&amp;idx=2&amp;sn=4369f6527896abd89b14599b52207e89&amp;chksm=ea28bec55b2b8e33693da4371ae6fb7cfac2e471b5d2c439fe4aace3ebb2eae790ad75b3efa1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Dec 2024 14:00:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[3B模型长思考后击败70B！HuggingFace逆向出o1背后技术细节并开源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag3RxjyY6Cvic0rwwAcUiboSnKib4NUItpy4dOPb01XsLiboDx4hVo6RkEtiaOAunWMqa0ZxZWiabRG6o7Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：机器之心LLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分领域群、投稿群从这里进入！如果给小模型更长的思考时间，它们性能可以超越更大规模的模型。最近一段时间，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534680&amp;idx=3&amp;sn=95a9a5ced1722b5fa806ddd90fe8418d&amp;chksm=ea107e3034b3990aabf9168ee4cb2f2ad012626418542fb0e536eb9b6d4e279b23996e0b7971&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Dec 2024 14:00:18 +0000</pubdate>
       
 
     </item>

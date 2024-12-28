@@ -56,29 +56,91 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[单幅图像合成 360° 3D场景的新方法：PanoDreamer，可同时生成全景图像和相应的深度信息。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el8quKicUEibqsQFrF8ttU8UZJIaZuVsUww2Z2IDLp7MYqLaIsWuo5dAG2Y1iaHf8AibCjXj4KFPbTv3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文介绍了一种从单幅图像合成 360° 3D 场景的新方法。该方法以连贯的方式生成全景图及其相应的深度，解决了现有最先进方法（如 LucidDreamer 和 WonderJourney 的局限性。这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489622&amp;idx=1&amp;sn=597d6e7ed97d103ec2143d22e33cdd2e&amp;chksm=fd20afec93b756bb1cb7b5e891da7c2129a289d868bf8624afe0ed08ed812becdaa2493f5953&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 27 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[超越DragDiffusion!哈工程联合南大提出FastDrag：可以几秒内完成基于拖动的图像编辑。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el1M9OhKbp7aVFqDIicZqBo4KKdolgwrn8m3yECIn5VrcqNnCuNxG4ud1KNvKlkWI1InpekwGDSGUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中给大家介绍过许多关于通过拖拽实现图像和视频编辑的方法，感兴趣的小伙伴可以点击👇链接阅读和收藏，整理不易，欢迎大家给文章点点赞和在看！StableDrag：一种基于Diffusion模型的图</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489622&amp;idx=2&amp;sn=7ac8d89777915b50aa83d078b3b850f1&amp;chksm=fd20013a5fa5a1ad363e4af3b8eff7ee73f42e920c75169872ccd305a1cac44943da0363f540&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 27 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[提出街景定位大模型AddressCLIP：一张图实现街道级精度定位！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eldKGCwibmhq5RSxC5rV78dDcVpQDWZ2qUibtJW2qRF8ehlmicnuSw3n5MdOVQ0NTovfOnPib1RNDwBibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中科院自动化所和阿里云一起推出了街景定位大模型AddressCLIP，只要一张照片就能实现街道级精度的定位。比如给模型看一张北京南锣鼓巷的街景之后，它直接给出了具体的拍摄位置，并列举了附近的多个候选地</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489622&amp;idx=3&amp;sn=a0f6aa7fc9640f3eaa60ad0d5e203e69&amp;chksm=fd043413ce14fd55963fb599d5b9aba61a3d415acb61c6b5cf57eff4add43ef149244676222f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 27 Dec 2024 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[马斯克X-AI发布文生图模型Aurora，已集成到聊天机器人Grok中, 将面向所有用户开放。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enEtibxlukPrYKiah0Ke78WycRneTHUqfva8MTdTmSgCvDdsSgDibeDCo0O9j7sQLFlf1NJg4xTOdYlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>千呼万唤，马斯克X-AI发布了文生图模型Aurora，并将其整合进了聊天机器人Grok中。Aurora不仅支持文本输入，还可从用户提供的图像中获取灵感，或直接编辑用户上传的图像。Aurora 是一个自</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489621&amp;idx=1&amp;sn=e8f57b95b7a63b69b24c705aa62b1d25&amp;chksm=fdbeaac08638906cdc9f8ecc535f8540f69aca8e161f96b09fda5dd895921793fd068012a3bd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[马斯克开源自家大模型Grok-1：具有314B参数，由 xAI从头开始训练！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enWzcG7CYZD52ibvUMepv0Iwdt3jHibqYyWbHkPFIjN2NntK7V7gHu8xamHsvQHCYWziazNFwTMtpZJA/300?wxtype=jpeg&amp;wxfrom=0"/><p>就在刚刚，马斯克在最后一刻如约开源了Grok，模型有314B大小，这是第一个如此规模的开源模型。如此体量直接斩获目前最大开源模型的头衔。据了解，Grok-1于2023年10月完成预训练阶段，该版本针对</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489621&amp;idx=2&amp;sn=ab2cbe1da3ae5496c60fe3b196ff4d34&amp;chksm=fdedf8b7fcc9725eeacdb74c3d47f5fd0f797441ea8e780811140b00c0f480ebd760cfcd648f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Poetry2Image：专为中文古诗词图像生成，忠于原诗意境和语义。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emh13jOMSY9oYmD0NHOx8BcYfwYJj74Cog1EPA8EQnekKhKwrxDasX2PxLvN7VqWDL8nRUrassVIw/300?wxtype=jpeg&amp;wxfrom=0"/><p>直接基于诗句中的文本进行图像生成通常会导致丢失图像中的关键元素。为了解决此问题，哈工大提出Poetry2Image，通过实施有针对性的图像校正解决这个问题，有效地捕捉这首诗所传达的语义和艺术精髓。Po</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489621&amp;idx=3&amp;sn=754ba5fc2cff8ff8631be61e8bf36d0b&amp;chksm=fd531951e5441790b6291d6199603cd4f375badd322774cd643397a695b5a6efe4dd5f6ebb70&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[「视觉AI任意门」AnyDoor，只需点两下鼠标就可以实现任意场景物体交换]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ektxTkDn4pgjVvOnwLzwyficpf10rGdcVX0iate9R5qWNUJpdHGSBNRYqI6ZaAPPyjIAwiaUiapjzicWqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>        香港大学、阿里集团、蚂蚁集团联合开源了基于扩散模型的，图像生成、控制模型——AnyDoor。AnyDoor实现了零样本的图像嵌入，主要功能是“图像传送”，点两下鼠标，就能把物体无缝「传</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489621&amp;idx=4&amp;sn=f351a616ed482da184cfbd6806d6e2db&amp;chksm=fda893596db4cb16c6fdb658db3d45a34ccb04b4c4ff05a5fa9e533c095335ff47314c9aa056&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 26 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -397,118 +459,6 @@
       
 
       <pubdate>Sat, 21 Dec 2024 16:52:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[你要跳舞么？复旦&amp;微软提出StableAnimator：可实现高质量和高保真的ID一致性人类视频生成]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elcSnOoT1icicSWQibicicqfkyEg0pWxDqMplvkr6CkMHxsZoRegYlaQmYz6ah0rQewI1UFbTMjpYhWh4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>由复旦、微软、虎牙、CMU的研究团队提出的StableAnimator框架，实现了高质量和高保真的ID一致性人类视频生成。StableAnimator 生成的姿势驱动的人体图像动画展示了其合成高保真和</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489536&amp;idx=1&amp;sn=7b608cfbaa080786a0104a65070ca564&amp;chksm=fd4659a89b841753c630ad6fd4a96680cb25aa9c2f2e1cc6d2ada812a97e6fd5faa908ecf6f8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[FLUX.1 Tools，为创作者提供了更强大的控制能力。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eltYhV1JmK1ib9FbmIt2gIyPDOrcibpBhOX3OVdibquclM6ib7Tsxn7qhfDiclnY9wlicfpKLJib4fLuY7Og/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI 图像编辑昨晚迎来了一次重大升级！ BlackForestLabs 发布了 FLUX.1 Tools套件，为创作者提供了更强大的控制能力。FLUX.1 Tools套件介绍这次发布包括四项新功能：F</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489536&amp;idx=2&amp;sn=674c72c869791006aa9e7a62a2df76fd&amp;chksm=fdd0f1cf8c9cfec103b5826488276acb6df4e154de922a8365e529834d740819e4fe8f37f09e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[英伟达发布Edify 3D生成模型，可在两分钟内生成可用于生产的 3D 资源、UV 贴图、4K 纹理和 PBR 材质。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elxgthgBxxwQlaTIxWuApiamicib5ZgIVOibFe3QVhqnvlTZsicUc8Qic16ZXdmpShcAV4jbk9vZib9Yh0MA/300?wxtype=jpeg&amp;wxfrom=0"/><p>英伟达发布 Edify 3D 生成模型，可以利用 Agents 自动判断提示词场景中需要的模型，生成后将他们组合为一个场景。Edify 3D 可以在两分钟内生成详细的、可用于生产的 3D 资源、生成有</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489536&amp;idx=3&amp;sn=4158fc78e9df141cfb1d9628997b42eb&amp;chksm=fd1ad5510025a87a55316dfd6bae0c3a39e5f1a53b77081bf1cbd5f1eb316ee5fa9fe6d78227&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Adobe提出RGB↔X：可由图片直接输出AO、法线、roughness等，再也不用PS分层了！已开源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el2gcPqyiclMWPWUZdmfKRIs9kMSga9RK7vVJdYR3SezDnSGSKr5S8MYpXvQLTvOxa2LothopykbpQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐一篇今年 ACM SIGGRAPH 的论文《RGB↔X: Image Decomposition and Synthesis Using Material- and Lighting-a</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489536&amp;idx=4&amp;sn=0db2a90c9c3207e168ac8be466fb54fe&amp;chksm=fd8642ec94cdbc8c319f9b21ae05497af5fdd87651c5a83e0a358d3d723e9259772f1851a242&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北航 | 第一个多功能即插即用适配器MV-Adapter：轻松实现多视图一致图像生成。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en3n1j1LLVnKmKxjJUkVMkfSL2lH1ru1uCJuUuA21YKHU5ia5SLlWu0BztQtHU3YSeZIYv3K9nGSHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>北航提出了第一个多功能的即插即用适配器MV-Adapter。可以在不改变原有网络结构或特征空间的情况下增强T2I模型及其衍生模型。MV-Adapter 在 SDXL 上实现了高达768分辨率的多视图图</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489490&amp;idx=1&amp;sn=2f5ceaf10f43bd2074c45735daa26d91&amp;chksm=fd5675a3ba0a0a41c410f790cbad2610d58f0372db6fcbc13c8863f4869607153260ad0bfcaa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Dec 2024 16:05:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Google发布Gemini2.0，“Agent时代”最强大的AI模型！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/l2VB7h1M5NbyjcY6R4PICML3ylBblKicx7wRU9ODC5RRyTZ42g2sxvzcC94gF7pTZHDYqh28rqf1tJxsLUiaK5TA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Gemini2.0是“Agent时代”最强大的AI模型，这是Gemini2.0自己给自己做的定义。起初我是有点质疑，但是！！当我看了一上午，慢慢的去了解它、与它接触，我又想起来Gemini2.0给自己</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489490&amp;idx=2&amp;sn=0646ed3e771ddad08c72762447b90d43&amp;chksm=fd02f288c2f925166b3ef9c5450b2caff803431397f9d5dec5f9ce74d1c9dd90ed943336a8c2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Dec 2024 16:05:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[音频驱动肖像动画新方法LetsTalk,可生成与音频一致的逼真视频。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elS0nh744Xc7tB6W08RA4SgfkcDFOIyH4xJ5xG8Ar9Y0Uvicw6xicJzbmEtb2yOzCDNqYMjzkS4eYpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中已经给大家介绍过许多关于音频驱动的肖像图像生成动画方法，感兴趣的小伙伴可以点击下面链接阅读~复旦开源Hallo：只需输入一段音频和一张照片就可以让人物说话。开源EMO再升级！复旦|百度|南</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489490&amp;idx=3&amp;sn=8ba78d17cda32016c840b193621de181&amp;chksm=fde4cad7a3cecf8002b41350cdcc9bd9adf436b34c19ffb84bd6c4656c21c0c9d30e9fc81ba2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Dec 2024 16:05:00 +0000</pubdate>
       
 
     </item>
