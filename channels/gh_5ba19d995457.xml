@@ -56,27 +56,77 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[北大提出定制化漫画生成新框架DiffSensei，可生成具有动态多角色控制的漫画图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elcSnOoT1icicSWQibicicqfkyEgKtXcy3S4XBxj4sIBiacegBSAicARmN6YDuAjO6tUqgQ6TNNE8CbF3pFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>由北京大学、上海人工智能实验室、南洋理工大学提出了一种新框架DiffSensei可以实现定制化漫画生成，解决现有方法在多角色场景中对角色外观和互动控制不足的问题。DiffSensei结合了基于扩散的图</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489624&amp;idx=1&amp;sn=b242cd79e0d6fdde2bb684f494ff8b0a&amp;chksm=fdaa8a0bd628c63d1224ba504439f4063b0e235f7a8fcc8a38d5e52ac249747ea98e0a6d5904&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 28 Dec 2024 16:19:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Story-Adapter：能够生成更高质量、更具细腻交互的故事图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZSKKULxCTzezvw8wSOvf1jqib40MePuLWQamEVrmH3RC3HsKvOkJ9S3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍过关于故事文本生成图像的相关内容，感兴趣的小伙伴可以点击以下链接阅读~字节&amp;南开提出StoryDiffusion：生成一致的图像和视频来讲述复杂故事，图灵奖得主Yann LeCun亲</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489624&amp;idx=2&amp;sn=0e5c05fa7cc769debfa2acf65dd3bcf3&amp;chksm=fd2b650114031db3e983bfa81f5e412080910de8e51cd3643b6a993cfa78ab2ee4201be135b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 28 Dec 2024 16:19:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[阿里推出升级版AI翻译工具：Marco MT 性能超越Google、DeepL和ChatGPT]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekDYMeOJw6PMrPrgUmBfVvICGVGwvK1ZowHkm5otQN1GWBq1oKgOpXCvFcU6T8e0WgLCSBUqvcfmg/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里巴巴的国际业务部门于推出了一款升级版的AI翻译工具，名为Marco MT。这款工具在翻译性能上超越了Google、DeepL和ChatGPT的同类产品。该工具的目标是帮助商户更好地在全球市场销售，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489624&amp;idx=3&amp;sn=2d4b568d6b3d35777de19d5d9a4768e3&amp;chksm=fd049aa9fbcf7990ab62709c0d42b033866822b910f678b1376468cf52e23ebcef61e0a3463e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 28 Dec 2024 16:19:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[ScribbleDiff：使用涂鸦精细引导扩散，实现无需训练的文本到图像生成。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en4dVnOT75Vve5gBZeAMAcqnHFQnQNTu2jZ3gdtvtEhgfeuBiawdPpo4eRXb4xIj7t0TCyfMVB3Rhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>ScribbleDiff可以通过简单的涂鸦帮助计算机生成图像。比如你在纸上随意画了一些线条，表示你想要的图像的轮廓。ScribbleDiff会利用这些线条来指导图像生成的过程。首先，它会分析这些涂鸦，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489624&amp;idx=4&amp;sn=4a76a1ca979610f344374ca94cb2b306&amp;chksm=fdc57379b4c76dcf849242f881eb3d3365a1d7fc30643f9a61254a1cacd48365f527801f17f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 28 Dec 2024 16:19:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[单幅图像合成 360° 3D场景的新方法：PanoDreamer，可同时生成全景图像和相应的深度信息。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el8quKicUEibqsQFrF8ttU8UZJIaZuVsUww2Z2IDLp7MYqLaIsWuo5dAG2Y1iaHf8AibCjXj4KFPbTv3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文介绍了一种从单幅图像合成 360° 3D 场景的新方法。该方法以连贯的方式生成全景图及其相应的深度，解决了现有最先进方法（如 LucidDreamer 和 WonderJourney 的局限性。这</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489622&amp;idx=1&amp;sn=597d6e7ed97d103ec2143d22e33cdd2e&amp;chksm=fd20afec93b756bb1cb7b5e891da7c2129a289d868bf8624afe0ed08ed812becdaa2493f5953&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 27 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[超越DragDiffusion!哈工程联合南大提出FastDrag：可以几秒内完成基于拖动的图像编辑。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el1M9OhKbp7aVFqDIicZqBo4KKdolgwrn8m3yECIn5VrcqNnCuNxG4ud1KNvKlkWI1InpekwGDSGUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中给大家介绍过许多关于通过拖拽实现图像和视频编辑的方法，感兴趣的小伙伴可以点击👇链接阅读和收藏，整理不易，欢迎大家给文章点点赞和在看！StableDrag：一种基于Diffusion模型的图</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489622&amp;idx=2&amp;sn=7ac8d89777915b50aa83d078b3b850f1&amp;chksm=fd20013a5fa5a1ad363e4af3b8eff7ee73f42e920c75169872ccd305a1cac44943da0363f540&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 27 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[提出街景定位大模型AddressCLIP：一张图实现街道级精度定位！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eldKGCwibmhq5RSxC5rV78dDcVpQDWZ2qUibtJW2qRF8ehlmicnuSw3n5MdOVQ0NTovfOnPib1RNDwBibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中科院自动化所和阿里云一起推出了街景定位大模型AddressCLIP，只要一张照片就能实现街道级精度的定位。比如给模型看一张北京南锣鼓巷的街景之后，它直接给出了具体的拍摄位置，并列举了附近的多个候选地</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489622&amp;idx=3&amp;sn=a0f6aa7fc9640f3eaa60ad0d5e203e69&amp;chksm=fd043413ce14fd55963fb599d5b9aba61a3d415acb61c6b5cf57eff4add43ef149244676222f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 27 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
