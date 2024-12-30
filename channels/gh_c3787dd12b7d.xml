@@ -48,11 +48,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[一文读懂「LoRA」：大型语言模型的低秩适应]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuGgoQSjo16Se3PGpTiaDkYuEt7rxEosvrT2x6bcJibx8uibjBDT7MqPSDrrGLLyF315MAAshbRhciaGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言LoRA（Low-Rank Adaptation of Large Language Models）作为大模型的微调框架十分实用，在LoRA出现以前本人都是通过手动修改参数、优化器或者层数来“炼丹</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247603167&amp;idx=1&amp;sn=41f26cbb99b88ee741546ca787a5384b&amp;chksm=faf4f59de7b0bdf0a9cf9c646aecf9d844ab9823fc28666a6599a34ee0aaefdc5507fcfcdac8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 29 Dec 2024 12:30:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[ROS应用 | MoveIt 在多机器人路径规划中的应用]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvarAvEnOW9rvetiaPEcT4SfvA1VujpaJv9ichIFpO4dhAmDTkL9MTrcmfaBQ7xsOnQTrP0z9RJWF2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言随着机器人技术的飞速发展，多机器人系统在仓储物流、自动驾驶、智能制造等领域得到了广泛应用。多机器人路径规划是其中的核心问题之一，它要求在共享环境中高效、无碰撞地为多个机器人生成路径。在 ROS 环</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247603150&amp;idx=1&amp;sn=10b080f7b25e0e7990039eff86f4702e&amp;chksm=fa3f99765922becbfab7faa4f14dae33bace4eabb418c109dce7a7d57b3e398f595026ecaa38&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 28 Dec 2024 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -163,198 +180,6 @@
       
 
       <pubdate>Mon, 23 Dec 2024 09:22:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[计算机视觉 | opencv-停车位检测原理及代码演示]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmss58erGyXFdhiczzuCYnepoppHB98xKS24nicoRM2sdbzJM9UtZXEm038vLtYczm9yj5alKBsvpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述本文介绍了一种基于OpenCV库的停车场空位检测方法。通过本项目演示，可以对opencv库有更深刻的理解。文章详细阐述了检测原理、算法流程以及代码实现。一、原理介绍基于OpenCV的停车位检测原理</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247603016&amp;idx=1&amp;sn=23114fdb853082ce2ab0248f047ba78d&amp;chksm=fa0b81b7a20230699bec68c2b57f53b5f230b235c8bd01336d757816e6bba6f25fbd0758cb57&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 22 Dec 2024 09:20:05 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[计算机视觉 | 单目深度估计模型-Depth Anything-V2]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lop9mTXvXGo898f038AIVUic8yCPBT7EYwb59nv9EJPmneUmBTtznHXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述本篇将简单介绍Depth Anything V2单目深度估计模型，该模型旨在解决现有的深度估计模型在处理复杂场景、透明或反射物体时的性能限制。与前一代模型相比，V2版本通过采用合成图像训练、增加教</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602961&amp;idx=1&amp;sn=ff5d691e30539515530e289018889b30&amp;chksm=fa93358092c220206fccf97e5d0ae52567dbc45ca35fbe6c0895c7f383326870c961b421d386&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 21 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS应用 | 基于PID控制的机器人运动控制调试与优化]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmss58erGyXFdhiczzuCYneWIqiaZrbz74hsGCNvbWs96uOFdmnesn5e4q9HzxsqTogC3DW2AkodHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言PID（Proportional-Integral-Derivative）控制是一种经典的反馈控制算法，广泛应用于机器人领域。在非视觉控制的场景中，PID的一个典型应用是对机器人运动行为的调节，如</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602994&amp;idx=1&amp;sn=7f5f3fb600681baf0e8503ed5e78755c&amp;chksm=fa38ec9afaf0528ce11ac24f3ca0e58c357b9ba1f2b84ee239a32e82bd5ee8003e7d6198b020&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[自动驾驶下半场，谁能笑到最后？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmss58erGyXFdhiczzuCYneJeWjY7Hc7alrIEjAavXPLicprZCwcnQg5NaxUQE84EdZS2zoCib2JNpw/300?wxtype=jpeg&amp;wxfrom=0"/><p>据悉，华为车BU即将成立新的技术开发部，研发一段式的端到端大模型。华为车BU从感知部门、规控部门抽调了一批天才少年，来组建新的技术开发部。技术开发方向上同时瞄准了端到端和大模型。这是华为车BU的背水一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602994&amp;idx=2&amp;sn=a3c3ceb8778594de5f91846945d95406&amp;chksm=fa9a7531fd473bc18dc172ea137dfdcf679e25967bce0cbc670befbf273f46d7087d04d73bb0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS应用 | Webots 机器人仿真系统]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lVme6ic3yf9ssRZlscsWDLS2ic1iavEShd9KqhQBlux1FJRj7ibPvOps1Tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在机器人研究与开发的各个阶段，仿真工具已成为不可或缺的利器。Webots 是一个开源、跨平台的机器人仿真软件，拥有高性能的物理仿真引擎和强大的开发环境。它支持对多种机器人行为的建模与仿真，如导航、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602944&amp;idx=1&amp;sn=c54216b12f99136a1cc1490ee05c1f3f&amp;chksm=fa5112b392f9718f9da4e111c176fd252155dc31b8d4a015712b9d57228294ee886ffd739df0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Dec 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[经典文献阅读之--Senna(桥接大型视觉语言模型和端到端自动驾驶)]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lv5Q0PYzGI9OdRZ3GlNZPFJhqIhpWXOK6T2wGPbtTqkASWz5UpkHaDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介桥接大型视觉语言模型和端到端自动驾驶。端到端自动驾驶通过大规模数据展现出强大的规划能力，但是由于常识有限，在复杂、罕见的场景中仍然面临困境。相比之下，大型视觉语言模型（LVLMs）在场景理解</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602937&amp;idx=1&amp;sn=e3e0b8f106fa9d315832e81d5c16a416&amp;chksm=fa8629a5b39b54d5742294ebf97cdc2386dcc2fb28ff886cd5c2e0d68a53b6de625c094c1e39&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROSCon China 2024 | 演讲嘉宾精彩发言回顾]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztDof1jUuX1bnZJWwp8HZF7sDN8agVoUHkoZI0iaWRHqX4Ek622SeRMRV0kg74tuOaheD1ibspXm2AQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>主会场演讲是ROSCon China 2024的焦点，来自全球的专家和行业领袖齐聚一堂，分享了他们对ROS技术的深刻见解和最新进展，为参会者带来了一场思想盛宴。主题演讲围绕四大主题：“拥抱智能时代：A</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602937&amp;idx=2&amp;sn=99c75cc9ba4a2d5a113bd696288328d2&amp;chksm=faecfb7f5378d4136077be7af34e021883cb8a35e4b7c9a790e2f747c753c4591c62337d776d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[新书速递 | 《ROS 2智能机器人开发实践》上线啦！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsNASDZq9IVO4ic6msibibNgcU0xxr38nqALqsPYo0sx2BuI3iaB4sCJQb81iblPk4oGqk4gaMcomtJf4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>从 PC 到智能手机，下一个更大的计算平台是什么？最佳答案可能是机器人！如果设想成真，则需要有人为机器人“造脑”，即打造适配的计算平台及操作系统。就像以计算机为平台的计算机时代，和以手机为平台的移动互</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602928&amp;idx=1&amp;sn=11f62e7d6398fd9acf7973742810fcbf&amp;chksm=faf35c2d4519ef8ea5d5ab99a327eda01b8367ffb2f79dcc071054a0e5ed0f77ef73b7f76c71&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenLoong开源社区诚邀您参加2024开放原子开发者大会·人形机器人分论坛！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsNASDZq9IVO4ic6msibibNgcUe1CPibOsyKdYx0chSCnGt2f0qyUzhhn0vtdQAQHMdIgIyFdLicLibNZvQ/300?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602928&amp;idx=2&amp;sn=bf62f1498521877ee636fa088f26db92&amp;chksm=fa43aba001a84fef3dd5c6105339bf72cb2eeec44c6d27d305e0998fb72a00ad180cd15abbe4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[好课推荐：基于栅格地图的机器人路径规划算法指南 • Ally（黎万洪）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztbtv9yrfMRibQBQI4fwFlaj7toSudWjCZ2zaa2icDSiaqmjexnc4SmsP3dY6kecazt9DBn8AR8kFNibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1课程目的机器人是一个集感知、规划与控制技术于一体的智能体，其中路径规划起着承上启下的关键作用，效率高、实时性强的路径规划算法对于提高机器人的机动性能具有重要意义。2课程内容本课程共8节内容、7个路径</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602903&amp;idx=1&amp;sn=2c050fc90c58ab1fd8a4125a087d3d90&amp;chksm=fac48ddcc9b25ac3be6b72ca3f93c59895e6f14d15142769dc942c03b69861cd847175b4b494&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Dec 2024 09:20:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[机器人SLAM建图与自主导航：从基础到实践]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lmun7vicIanEMGHYS6HLPfTt8XEZjs9oRY31hqBtJEfzLldicq59icXpog/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言这篇文章我开始和大家一起探讨机器人SLAM建图与自主导航 ，在前面的内容中，我们介绍了差速轮式机器人的概念及应用，谈到了使用Gazebo平台搭建仿真环境的教程，主要是利用gmapping slam</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602857&amp;idx=1&amp;sn=1c1aa96507604bd1d0402487300b8e4e&amp;chksm=faebbd671a06ce71fee767f36a46ced2294aaa2641ace4f6aed27a2d19c1e15673974783b7d1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 15 Dec 2024 09:20:01 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ROS应用 | 通过Cartographer实现SLAM]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuvPElu60xGLib6WiaJ2ia370lkqm0oJnc1y63ceqiaQpFiaicsGH6Pe0eW6P0UDh2pGnN6NtBdzFvRrvBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言同步定位与建图（SLAM, Simultaneous Localization and Mapping）是机器人技术中的关键问题之一，其目标是使机器人在未知环境中构建地图的同时，估计自身位置。作为</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247602850&amp;idx=1&amp;sn=5b27b2e7094ddb137748d39241ce2837&amp;chksm=faa1d56b61bc512fe0db646da23c0b91c490789160cbf52de28a5b935985e4a96b0d129c4317&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 14 Dec 2024 09:20:00 +0000</pubdate>
       
 
     </item>
