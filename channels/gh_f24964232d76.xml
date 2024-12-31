@@ -48,11 +48,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[CUDA-MODE课程笔记 第17课 GPU集合通信(NCCL)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3v72TynCMiahOoyviawMZRRFnwZ9zajxH06Vg6FTicuoBMpIEEd2PKunpib0AU4ibFeOR6KRLCzuibrL3Ag/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode 。这节课介绍了NVID</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525989&amp;idx=1&amp;sn=1184d6e38b0f139b156ee19599dc10e7&amp;chksm=9e90f133c4e7feb3c2622db907e4dae1493bf93ba431a9bcd692a7f033938338ea3e715d33e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 30 Dec 2024 14:24:50 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[AWQ：模型量化应当关注激活值]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vEcROdcga2tociaw3nV3qDAfmckHiaswiaHkXxfGbcIRUYUiatIHjWreHGkjw5p3CMXRsW60z7miaUjHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/942485319编辑丨GiantPandaCV这篇文章是 AWQ（activation-aware w</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525943&amp;idx=1&amp;sn=8ea8a7804c495fec327cbc9e7ef6437f&amp;chksm=9ec7376d881e64391ba6c122ef663b540c34f76b73d9563e09ace617ec889fa0568220d4482b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 25 Dec 2024 11:16:07 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -67,295 +84,6 @@
       
 
       <pubdate>Tue, 24 Dec 2024 09:44:59 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[使用 PyTorch 加速生成式 AI 之 GPT Fast]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u3bTWDzngWbbNhZTyjOsO0SAjGSfPIp3pTLteDdZYqxFedibDtGIrp3M5RkOHWdKajZYAOUml7ooA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：https://pytorch.org/blog/accelerating-generative-ai-2/ 。这篇博客展示了如何仅使用纯PyTorch来优化LLM推理性能。从基础实现的25.5</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525940&amp;idx=1&amp;sn=f44aba6a0e7e9e2721989840d003344d&amp;chksm=9e49604de3c1daa4166dcb411a9e25510a593f7566cd220bf4355bfb4d1af6d6deab79bafede&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 08:48:01 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ml-engineering 翻译系列】计算加速器之gpu]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tgy08ek0zZPPrZibWJ87IKMHSkZPC5WntevXibqt8HibKViaoRfVEKxt8EwSlyia8khEOvBibd2icMr0GibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode
-本篇文档的来源：htt</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525897&amp;idx=1&amp;sn=194497ed9d9589576bbbd83132f85efa&amp;chksm=9e456ee19370dd236741d80a2d553b032101e3a1237f8cff6c484fb690519c5b5ad272122adf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Dec 2024 12:24:34 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解OpenRLHF中基于Ray的分布式训练流程]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNm8wIw4A1k1R4xmpIBGt8odIEZiafnOxHXedNnWcv0aleCNL8aSzx1dAGGfbmIIrD1CSyiaqbqiantQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文着重分析OpenRLHF中的PPO-Ray训练架构设计，没有使用过Ray的朋友也可以通过本文快速上手，本文共分成四块：1. 为什么用Ray2. 使用图例抽象出整体训练流程3. Ray核心知识速过4</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525890&amp;idx=1&amp;sn=37ca28c9fb60d20d2288744d3f0b899d&amp;chksm=9e4d4722975e43d10a892a5ad1faf7771b4b3d7110f8e41a48fbbc9bef79f1593cf972e62b26&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Dec 2024 14:27:23 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GTX 4090 的 cuda graph 诡异]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3slJ3moVSq8Bua41pmBkDxUjJunlq7N4dMQUe1DtBJJB6dH83hklaHEnzAHfxric5svfOzP2PiaIrRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言今天聊一个最近有趣的发现，那就是模型推理时是否应该在 GTX 4090 上开启 cuda graph ？在 GTX 4090 上用推理框架如VLLM/SGLang等，什么情况下才应该开启</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525888&amp;idx=1&amp;sn=e3eb7c63b2aed9a9938e9b409d63bd3c&amp;chksm=9ed1afd66e080e8e7eaf183152e0b3739d832466b696bfa4f18c8dfa473b225af2025bf15383&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Dec 2024 09:53:31 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[PyTorch 通讯实践]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3v5PnHjOVFS29FBYMHhK6A5Veqr1v8FuQFESaiaVgVz53FoHyJbZzric2FpGZg7Wcn79IrS7bvt1oXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/5853094319编辑丨GiantPandaCV连载于 https://https://github.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525874&amp;idx=1&amp;sn=edb3315899f6e51f9831828b0d28d467&amp;chksm=9eca1174070b2e68f8f7dfe9ea14b4f12f0ee68a0816c17da25c93bc51c6dd5ae08f46c35209&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Dec 2024 13:49:58 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CUDA-MODE 课程笔记 第29课 Triton内部机制]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sT6y2ueTj0BtHFCWXYYZFunHn5iacolNOuBp0jmpJ2BFKicv0ibCuicGLpBiaxpXYzicR4nvBN7bjxzgRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode 。这节课详细介绍了 T</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525873&amp;idx=1&amp;sn=b45b6712dd3938a6c4dd3300059169be&amp;chksm=9e50f20f77496829c76fc928112ee9971b1ced8061d88ae150a47cd64d45513959845e9b8742&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Dec 2024 14:33:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ModelServer：基于 SGLang 的前端分发系统]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vEcROdcga2tociaw3nV3qDAGCdh4HHJ37NKCTxlELiaoEVUiaxWCTuuvw6RTMV7FUBsXqEMlStib5KpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/718015016编辑丨GiantPandaCV前段时间被 Alfword 折磨的够呛。当我在服务器上同</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525835&amp;idx=1&amp;sn=1273cf5e08978cecfba099678430ac1c&amp;chksm=9ee73ac9df5a50071695a5de7714aed5c5e411a49e9f3ff8253fe080d84797ba5c827120a52a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 06 Dec 2024 12:10:21 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何正确理解NVIDIA GPU利用率的概念]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vmDD0JD2rtfe1gej2ufdSvrYiakxppgic61WZu1ug8XdzU1nBq33Bk3YNx5OzIL5DjtOjHzA79rLkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客原地址：https://arthurchiao.art/blog/understanding-gpu-performance/ 这里做了翻译。通过 nvidia-smi 等工具报告的 GPU 性能</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525834&amp;idx=1&amp;sn=1d7661262210b4d56c843caea92fb289&amp;chksm=9e4732c59605be76de11b25e638c5ece2e62083a7a0f87ef32071a02a47349e0b19163dc38c5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 05 Dec 2024 11:56:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RMSNorm的精度陷阱：记一次LLM推理精度调查]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vNLHicWSUpcTuLz6sFaV1nS6V3ib30eWusvl44NDBYXvT095nDT3bScwSLfCEVNsW3GEJYBRWMB70Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景我们最近在用 SGLang 部署模型，当我们使用 TP2 的并行方式和 BF16 的dtype部署一个微调后的 LLama3 8B模型时发现了一个诡异的现象，最终确认为是掉入了一个RMS</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525820&amp;idx=1&amp;sn=52be4969fd152078b14e719788462eca&amp;chksm=9e54436411f3c48822a6269fe53e2f0924de84d092394d5918622d2ca08064c0753af17823be&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 04 Dec 2024 10:24:50 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解大模型训练系列：序列并行4，Megatron Context Parallel]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNzBibbTprRN5ftPSHJh43eV1g1V1C3zDTZpQIpba3Uo4hUaqOY6sawgT7FBnNBhwO5Sr1rU3VHTQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在序列并行系列中，我们将详细介绍下面四种常用的框架/方法：Megatron Sequence Parallelism：本质是想通过降低单卡激活值大小的方式，尽可能多保存激活值，少做重计算，以此提升整体</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525807&amp;idx=1&amp;sn=3ef396929532ce651eaa22af08752a13&amp;chksm=9e0ebec4eef1bf4dff6d494b055d4302d464e92e920bfe3605b8dec25041c7fa1d03773044a5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Dec 2024 13:08:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CUDA-MODE 课程笔记 第28课 用在生产环境中的LinkedIn Liger kernel]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sDe6WAuLwicjzCbgqjYdTOclo7ekibnBzkCyiatxbverTZPo6WGEwzjYcjmPBrP85YthibJS5NbGfAsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode 。这节课介绍了两个Li</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525805&amp;idx=1&amp;sn=303421717c2343f7386ed930539354a0&amp;chksm=9e30564a88e73019cb384aa78c69469a8336935cf619594b9bb1e52a661b03ba119f3ea97b3d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 29 Nov 2024 08:03:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[GPU 矩阵乘实际可达最大FLOPS测量工具]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uQF3Hc87pgkAZpGEUXwU8ib5CBciaJP09mmYicuib6VRAaIJia0yW9e1CUlGbeAg5KJyyr6IRwmss0yCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在 https://github.com/stas00/ml-engineering/blob/master/compute/accelerator/benchmarks/mamf-finder.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525755&amp;idx=1&amp;sn=67453ca6b86497debb1794b9ebaa936e&amp;chksm=9e6d4952cfa6c96db1117c36ff6afc2b3a6ae99fbc61ee1d99648d87b20090666af885796127&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 28 Nov 2024 04:05:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[强推理模型书生InternThinker开放体验：自主生成高智力密度数据、具备元动作思考能力｜通专融合探索新进展]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oDpticHyXWJGWTfVvJSTaK8um5OiatSwnbE9DM5UtlePt3XIaiclf1Ja3GGBrR3wInNWevsR9cC9FBrI5SsP5M8Pg/640?wxtype=jpeg&amp;wxfrom=0"/><p>上海人工智能实验室（上海AI实验室）致力于通过“通专融合”路径探索开放、可控、可信的通用人工智能（AGI），其关键技术之一在于同步提升深度推理与专业泛化能力。2024年11月25日，上海AI实验室展示</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525741&amp;idx=1&amp;sn=dcabfbb3cde4fef1b96f699880d90431&amp;chksm=9e523dcfd5a01dc3b323aa5da60f27ad61966cf61a7d2adddcb5d5f2992a60eb0a49492bc5fc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 27 Nov 2024 08:24:24 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NCCL 与 NVIDIA TOPO]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3v5PnHjOVFS29FBYMHhK6A5PBTDoe6kxpuaAibU0A0PvIF2ejdf9EFM90NXyvEbfda30icPaZ7HNPfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/6160835906编辑丨GiantPandaCVWhat is NCCLNCCL (NVIDIA Co</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525739&amp;idx=1&amp;sn=dd5c4dba379384a8fead40b65fe0daf0&amp;chksm=9eccec200fc3408debeb666e49ca8c8aa9ad427da2f882ff4361fa361bdc0c734d142a2c80b8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 26 Nov 2024 14:12:30 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[基于 chunked prefill 理解 prefill 和 decode 的计算特性]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vEcROdcga2tociaw3nV3qDAzmoJ6Ku4BaS50dBmhhndPbpeibZ3kMze0yRK1piaJdYsibiaUXBZENccDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/718715866编辑丨GiantPandaCV这几天尝试读懂 SGLang sever argumen</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525738&amp;idx=1&amp;sn=fd336c4091fb5fbfdc2878409ff04569&amp;chksm=9e6ed787a302ead84dd5f2fd42c9510430b305160ebd1feb5f0c71acf95b86b702f783cf0ac2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 24 Nov 2024 09:22:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CUDA-MODE课程笔记 Lecture 16 通过CUDA C++核心库把llm.c移植为llm.cpp]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3v5PnHjOVFS29FBYMHhK6A5icLLPB3wdxgtaibvNtHGEfVALeqALwS0wSAUhqVkcocIVLTGOnXrtIBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode 。这节课介绍了如何使用</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525737&amp;idx=1&amp;sn=8cace965abf9527728433654ee439284&amp;chksm=9e07b734e150c9f025981dc46ac70a1c7b076d18d374e15f8c79e0e5f10109c3a6a32ac3476e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 10:37:27 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[SGLang 后端原文解析]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vEcROdcga2tociaw3nV3qDASlDGAObn3CrArzAxXvmgiaVkSYowzOI5o9SzibMzLg38Bic3mvzuBBS7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/716543182编辑丨GiantPandaCV众所周知，麻辣系统博大精深。今天浅浅捋一捋 SGLang</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525678&amp;idx=1&amp;sn=8de1c3d6a90453263c79feff53fb4027&amp;chksm=9e9d92aa8e8bc3868eca9e2034e130c9d65bf915d239b6752122f85ad7d409b635804556a5f6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 21 Nov 2024 12:32:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AwesomeCLIP---100+篇CLIP相关工作整理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vH4wo3AL9ZicsSwUoheLYlxffeyianwFIWggW3EDkmAXBsZ6gX9FGGk1Uw6gQ0H0mVQLdbusibL0Xcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读本文汇总了近年来基于CLIP的相关研究，涉及CLIP的改进、分析、应用等多个领域。对于每项工作，附带了论文和代码链接。项目地址: https://github.com/TalkUHulk/Awes</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247525659&amp;idx=1&amp;sn=449fa048d8714f60b32bd28094c32c24&amp;chksm=9e565a6a12491abecd9fd6e84b51a7ef71b3e8ed74d29fab86082cfbad6c7e794a94175f95d8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 20 Nov 2024 09:35:19 +0000</pubdate>
       
 
     </item>
