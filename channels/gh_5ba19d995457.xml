@@ -56,33 +56,87 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[Qwen团队重磅上线视觉推理大模型QVQ-72B-preview，一键解答作业难题。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekN68oxVrNWcCyHfGTVIhcl50IXxo2v08icDp0bq5YEWrnzFKc8v7VMQojd7H1RZvADQEVaD0qswLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen团队推出了新成员QVQ-72B-preview，这是一个专注于提升视觉推理能力的实验性研究模型。提升了视觉表示的效率和准确性。它在多模态评测集如MMMU、MathVista和MathVisio</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489639&amp;idx=1&amp;sn=e05ef8f4853643ef7c9d4461b3727555&amp;chksm=fd40efe620a312739eaeaa1b79a8c1d11170c92df19337ba1ea78a9a7c6111b00e34934f745d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 16:15:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图像超分辨新SOTA！南洋理工提出InvSR,利用大模型图像先验提高SR性能, 登上Huggingface热门项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emvRmmSX73ApBN83mPSIUnndGUoqrp8dTsfo3BKVIVGVNf5sWoXGauJCgAEaaCQm9Qb7QfuM34qZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>南洋理工大学的研究者们提出了一种基于扩散反演的新型图像超分辨率 (SR) 技术，可以利用大型预训练扩散模型中蕴含的丰富图像先验来提高 SR 性能。该方法的核心是一个深度噪声预测器，用于估计前向扩散过程</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489639&amp;idx=2&amp;sn=858a37051645868622e8b834e57c40f0&amp;chksm=fde65936fc2bed24136e43a9aadd8584f241d2dde89b1856e8b20344f60b6b194b07496dee69&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 16:15:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[可控人物图像生成统一框架Leffa，可精确控制虚拟试穿和姿势转换！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emvRmmSX73ApBN83mPSIUnnw4qVp8X9ONMxpUQDBiaYSIRDzOCoVkXLaTPVaE68iceCFZ392Kf5RIrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍一个Huggingface上虚拟试穿的热门项目Leffa，Leffa是一个可控人物图像生成的统一框架，可以精确操纵外观（即虚拟试穿）和姿势（即姿势转换）。从效果看生成效果很不错！unse</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489639&amp;idx=3&amp;sn=e3ef98419cabe86df58c3484de00526b&amp;chksm=fdbe827ff3829fe60fc41c07a1440fde34f343ff102cf5454d15b83f645398318c6faa7e48b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 16:15:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[MinT: 第一个能够生成顺序事件并控制其时间戳的文本转视频模型。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el8quKicUEibqsQFrF8ttU8UZh4icQduMVEEU78HQlZOU3Jzp7NeFwOc2OPJY7cjEn7Ed2h55fjhbhkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>MinT 是第一个能够生成顺序事件并控制其时间戳的文本转视频模型。使用 MinT 生成时间控制的多事件视频。给定一系列事件文本提示及其所需的开始和结束时间戳，MinT 可以合成具有一致主题和背景的平滑</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489625&amp;idx=1&amp;sn=4cc1e9782198d97e023be49c570c5249&amp;chksm=fdc4d674c1b6c4b53c80a92b2542cf2cf7fbb46df95468b8923fd11088223614db2b56ca7c3e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[文生图像编辑来了！英伟达提出Add-it，无需训练，可根据文本提示向图像添加对象。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emmkDiagtskaHJodPFibMTUYJZY50N6JpzSdpSqpDMMdhm1JHxUv7E3vPPDa6XmXuygFoa0eiaBct3Bg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Nvidia提出了Add-it，这是一种无需训练的方法，可根据文本提示向图像添加对象。Add-it 适用于真实图像和生成的图像。该方法利用现有的文本转图像模型 (FLUX.1-dev)，无需额外训练。</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489625&amp;idx=2&amp;sn=566fe4350cf67ef6d2d7a9a09060120d&amp;chksm=fda21a8a7cf22fed31266e524093c2ebc981786a431baef3e210a879af0a6a1e427ecb3df9da&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[组件可控个性化生成方法MagicTailor：生成过程可自由地定制ID。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en5zm71fQSgV6aaqPJln47UM68LBoxEpKSBewPN29AuBHv1SMicLD8losQPDWSsMKunkqyr9HuAUvA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天的文章来自公众号粉丝投稿，文章提出了一种组件可控的个性化生成方法MagicTailor，旨在个性化生成过程中可以自由地定制ID的特定组件。相关链接论文阅读：https://arxiv.org/pd</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489625&amp;idx=3&amp;sn=d8b0190b565e5a322023c87139a1d533&amp;chksm=fdd78adc07e69558a57beb4b78af0dfb5e21a7de235a8328e15c7b7c96d361f7ccfe23100038&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[InstructG2I：从多模态属性图合成图像​，结合文本和图信息生成。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZqBubdMgx3yBMfDK8JGL4YYX3hw4kJVRCHjFaqvVYYc7nEPXjibpCEug/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍的这项工作是伊利诺伊大学厄巴纳-香槟分校的研究者们提出的一个新任务 Graph2Image，其特点是通过调节图信息来合成图像，并引入了一种名为InstructG2I的新型图调节扩散模型来</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489625&amp;idx=4&amp;sn=363221eefdc92b37e01cd8a4f6db2128&amp;chksm=fde05d77fd7f26f7275acac5b61adef6a882e141fb6d2de0f5b88968818d9ae465e44d9c5fc3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       

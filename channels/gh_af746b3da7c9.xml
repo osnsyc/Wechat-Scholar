@@ -45,22 +45,55 @@
 
 
 
-
-
-
-
-
     <item>
-      <title><![CDATA[OpenAI-o3 与 Monte-Carlo 思想]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaHSqEcyv5tq4RHlRZdkgVtnqicpuxqmWNx6DkteI93chaOS4UC7dK7pwPicVvtdiaLZChYYOda61aAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>o3 来了，分享一些个人的浅见。关于 Test-time Scaling Law 的进展，比我们想象中的要快得多。但我想说的是，这条路其实有些曲折——它是 OpenAI 在追求 AGI 的道路上，采取</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534955&amp;idx=1&amp;sn=b5ea2bea3b3bd9d35791dec037bbaf23&amp;chksm=ea9fe154ec431edc91770ef6a0507dd76a85dc0ed88367105ea698eb32b02ea4d95416d16fc2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 27 Dec 2024 11:17:02 +0000</pubdate>
+      <title><![CDATA[评价deepseek v3：又一个相信自己比英伟达懂GPU计算并做到了的团队]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajS3PSZKTcGqMiccsSCQ9Vib5kH0NPg9tomLNyTPcotsP0g5T3hPTq6icI5KpwLnGoKopepcO2eGDQxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我觉得 deepseek v3 主要做成了 2 件事：继 flash attention 之后，又一个相信自己比英伟达懂 GPU 计算，并且做到了的团队；找到了 pretrain 的一个 10x 变化</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534974&amp;idx=1&amp;sn=ed1714b3d6ebacccd8c1ad189a23e43b&amp;chksm=ea3640c47ce84c0400abec15079b50016ad34cd8593c2158d4704adfb98fa262ffa345578ebf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 10:40:52 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[NICE41期 | 大模型评估的新视角：理论指标创新与下游任务应用分享]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaHSqEcyv5tq4RHlRZdkgVtSxictFZ1N1HFxKYUW3iaIf3ZMgB6Ufq8ueBNuZ63xv3yg97yO7YPSsibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题大模型评估的新视角：理论指标创新与下游任务应用时间2024.12.28 10:30-12:00 周六大纲新型评估指标：Diff-eRank - 魏来LLM医学评估：MultifacetEval -</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534955&amp;idx=2&amp;sn=ce9049bc2bfeaadf5e01fe10fb59611f&amp;chksm=eaeeed082f14729a32a22ae147f61dbb288ed3daa6a9b5db79a798d6f05ef775ddc6bfb59d7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[DeepSeek-V3技术报告解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajS3PSZKTcGqMiccsSCQ9Vib5MZIXPD05M3HmvvJbZWmO1lSiabA6tibX80ohuKueibbicMAyuXWsa6al9w/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：吕阿华原文：https://zhuanlan.zhihu.com/p/14890557782排版：青稞AILLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534974&amp;idx=2&amp;sn=541b923d9da17ea6807a30d568400d47&amp;chksm=eabc6059db7a2f50b455288aded93359eedff75d3136e1564c74e94bc94b4a3012b26e59836c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 10:40:52 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[《大语言模型》：人工智能时代的知识盛宴，大模型中文书籍震撼发售！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajS3PSZKTcGqMiccsSCQ9Vib5gEKjac0RnesfAXFMjInf5ug06veIJ79Mcia7B8h5ia46SVTsZjG9K0QQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中文书籍大语言模型LARGE LANGUAGE MODEL高等教育出版社你是否读过大语言模型综述文章A Survey of Large Language Models？这是学术界首篇系统介绍大语言模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534974&amp;idx=3&amp;sn=c89ce72eed6fc7c5404185fae5320ff4&amp;chksm=ea47df13796e5511790a8e30f57fa9510ab5f337818492a2d9cb286c8b807168ef6d8511d75e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 10:40:52 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[OpenAI-o3 与 Monte-Carlo 思想]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaHSqEcyv5tq4RHlRZdkgVtnqicpuxqmWNx6DkteI93chaOS4UC7dK7pwPicVvtdiaLZChYYOda61aAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>o3 来了，分享一些个人的浅见。关于 Test-time Scaling Law 的进展，比我们想象中的要快得多。但我想说的是，这条路其实有些曲折——它是 OpenAI 在追求 AGI 的道路上，采取</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534955&amp;idx=1&amp;sn=b5ea2bea3b3bd9d35791dec037bbaf23&amp;chksm=ea9fe154ec431edc91770ef6a0507dd76a85dc0ed88367105ea698eb32b02ea4d95416d16fc2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 27 Dec 2024 11:17:02 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[NICE41期 | 大模型评估的新视角：理论指标创新与下游任务应用分享]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaHSqEcyv5tq4RHlRZdkgVtSxictFZ1N1HFxKYUW3iaIf3ZMgB6Ufq8ueBNuZ63xv3yg97yO7YPSsibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题大模型评估的新视角：理论指标创新与下游任务应用时间2024.12.28 10:30-12:00 周六大纲新型评估指标：Diff-eRank - 魏来LLM医学评估：MultifacetEval -</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247534955&amp;idx=2&amp;sn=ce9049bc2bfeaadf5e01fe10fb59611f&amp;chksm=eaeeed082f14729a32a22ae147f61dbb288ed3daa6a9b5db79a798d6f05ef775ddc6bfb59d7c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 27 Dec 2024 11:17:02 +0000</pubdate>
+      
+
     </item>
     <item>
       

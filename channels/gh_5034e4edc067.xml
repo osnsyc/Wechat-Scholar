@@ -58,38 +58,115 @@
 
 
 
-
-
-
     <item>
+      <title><![CDATA[DeepSeekV3带火大模型infra，入门看这篇就够了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLROkF38B0FVOMyI1kL03FOU7UPR8PkcicVPy8xUhpTWScyHt6xbibeIzykWXpt4tkkRnaTJsog4UPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：真中合欢地址：https://zhuanlan.zhihu.com/p/10091011992整理：包包算法笔记为什么会有这篇文章：虽然工作内容不是infra，但是我比较喜欢研究训练方法，魔改训</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446856&amp;idx=1&amp;sn=85fd17af9ca8ebb9c4d7fd1a880b255b&amp;chksm=bf9a6b504fa03159ea1a34fcf7b00366176d8ce6a0c5cab021084a8b1988d29eba8db16fd336&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 11:03:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[《大语言模型》：人工智能时代的知识盛宴，大模型中文书籍震撼发售！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLROkF38B0FVOMyI1kL03FORDTOtpGv8DRqKWxvqBzZKaj32eHdUgib4ibCMSO5uWj0y4QibZkyShGWw/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了推动大模型技术的普及与传播，经过数月的大量修订，由中国人民大学师生联手撰写的《大语言模型》中文书籍正式出版。作为该领域全面解析大模型技术的中文著作，该书将提供大模型技术的权威介绍，注重为大模型技术</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446856&amp;idx=2&amp;sn=99959fe43ac0508fcb2ba71e7d6cadab&amp;chksm=bf391d2031aa800c0d4ffa510097a9cad683223443f17909c81117a2a205539a616a016a0338&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 11:03:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[5个开源RAG框架对比]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdb8ibypmfibEag2TgJcQNA1vcgSkfGMIRPbVJVZ0nMzJ00fX58a3j9AFqGwQ1MplQVgCr1GxwfjibKQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>还在为RAG应用开发头疼吗？别急，今天给大家推荐五款完全开源免费的RAG框架，覆盖自动优化、多模态处理、本地部署、生产环境支持等多种场景，助你轻松搞定RAG开发！👇1. AutoRAG：自动优化，省心</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446856&amp;idx=3&amp;sn=eb957a44db82b53d98b06cebf1a9469b&amp;chksm=bf07be84220dbf39a6e58c4c4b5d6390325573257a747bb2b29bd99266466c9866e09e9abae9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 11:03:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[【多模态&amp;文档智能】OCR-free感知多模态大模型技术链路及训练数据细节]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGAtwHQ0Csm6ibvCBXW3M9nDbxzWuVPznMceOiaDPZiblC7M5jJ7rPurKOCtG69RsN4RBDSd6Sevnf4Bg/300?wxtype=jpeg&amp;wxfrom=0"/><p>目前的一些多模态大模型的工作倾向于使用MLLM进行推理任务，然而，纯OCR任务偏向于模型的感知能力，对于文档场景，由于文字密度较高，现有方法往往通过增加图像token的数量来提升性能。这种策略在增加新</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446856&amp;idx=4&amp;sn=80c2b79008a032b943561d8679753321&amp;chksm=bfd159beb89bedc03eeb29b6c52fa295a98e206f51fa72b504defeff1b15c92a1121cc7a64db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 11:03:19 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[千问LLM：什么是 Sharding? 之数据并行（Data Parallelism）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iabUOs2OBUhTJchV1800lWEhIq8F6xhCBBmI7mrYULAlSl0oCbTL3shIUt5ic9JRFtYZSMek7jTNicib53iakDz9dSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>这次我们详细介绍一下 LLM 中的 Sharding 技术，中文叫分片技术。为什么需要分片？因为想要加速训练或者因为LLM参数过多导致不得不分片。那么参数过多的数量级是多大，我来给大家简单算一算。假如</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446856&amp;idx=5&amp;sn=13b9888bcf2f8afb209c4250f4f9dc44&amp;chksm=bf6c43278dd0377169d15ad131bb1067aa2c3b9e047535649f072e2c9372e277a1ca2bb7342d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 31 Dec 2024 11:03:19 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[硬核！实现千亿模型训推全流程的LLM开发利器！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLR0wpDWC4mwRhDr9hFWrqSoj1uLSNEJsVJfZNb35S9vK22f3pM1zR4MJMUFziby5nq22Fciacaiaecg/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景与简介大语言模型的快速发展对训练和推理技术带来了更⾼的要求，基于飞桨框架3.0版本打造的PaddleNLP大语言模型套件，通过极致的全流程优化，为开发者提供从组网开发、预训练、精调对⻬、模型压缩以</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=1&amp;sn=bdc05dc7f2ed832eb2c95fa24727fdd9&amp;chksm=bf0a7fd66ced4e9a9768ff8059559fe9059f83f8c5bd314f06accea21fa468932b3bf1106f36&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[我与vLLM的2024：清华大佬的vLLM开发之路]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLR0wpDWC4mwRhDr9hFWrqSmRCW8kqICx8StlkO9DbMlpCkqofan4lEhgxFKk4orCsxBicpzQrnceg/300?wxtype=jpeg&amp;wxfrom=0"/><p>我与vLLM的2024,作者游凯超https://zhuanlan.zhihu.com/p/14430956145编辑：ChallengeHub楔子我与 vLLM 的缘分，还得从五年前的那个暑假说起。</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=2&amp;sn=9df093155533ed2a468bef7825648ada&amp;chksm=bffd5da451fdcbef5b411cb83b0ea2d09e2382628713a4770a93934b05f7f19d2997b583d2bf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Qwen2.5技术报告解读：18万亿token训练]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic0bEWUiaNibqDMxj3ibC8q4WDrAgVHXgbcYZVCM9EqVyH0ia49qBibdjGhIMu8j5BFxwflj5EctawlqH5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言大语言模型（LLMs）的发展日新月异，每一次重大更新都可能带来性能的显著提升和应用场景的拓展。在这个背景下，阿里巴巴院最新发布的Qwen2.5系列模型引起了广泛关注。这篇技术报告详细介绍了Qwen</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=3&amp;sn=0ad5fbc44e90611f4f45affc9eea8e9c&amp;chksm=bf255a85e7681af55fd1d492a354fd4e04bc45045c6b6de659cfc30bf4318f7836930f4ff680&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[精读DeepSeek v3技术文档的Tech&amp;Soul Seek]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yToxjhYT5ibazsnejGIKQYMS0klsX5yVt6LpL9BRFrZFMXAx78xibIialjpFpOQRyZ0BtTB40iaic0OcMhTPDbF9HUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>2024年12月26日，DeepSeek AI正式发布了其最新的大型语言模型——DeepSeek-V3，直接在外网刷屏…每秒处理 60 个token，比V2快3倍！MoE架构，6710亿参数，激活37</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=4&amp;sn=52430883c6c7c0f84d1de14179854347&amp;chksm=bf4453da567ea231eaa3926ff7c324214e0ec584b42d2d70dc78281470c3cffa206616a1b438&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Building effective agents笔记]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QLDSy3Cx3YKyUY7toUQSEYMbASsgib1lmmnwI1bvPjud8QnvRJrwZD2fmkU9OdXlkmLYlxIu8ZTHFwWKm8PE14Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近阅读了 Anthropic 发表于12月20号的一篇文章《Building effective agents》（https://www.anthropic.com/research/buildin</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=5&amp;sn=b89ea361a159254fa7f5d73d5e783327&amp;chksm=bff2e1c1b6c424adffac265343e71191ba2d557c57860f4893edc6ce09978bb60290ab8d8b0d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -425,54 +502,6 @@
       
 
       <pubdate>Wed, 25 Dec 2024 02:20:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[o1复现的一点点心得]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIZdlVnsVqPVqcScxQRkwBnEd4nf6chEKk55VKyU6UTA4waMKaXaOKciccemtHjPmxhsU5oAaZFyEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：皓天地址：https://zhuanlan.zhihu.com/p/13872128423编辑：「深度学习自然语言处理」，转载请联系原作者恰逢o3、gemini-flash-thinking版本</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446566&amp;idx=1&amp;sn=f606d67b6dc3c90e77eea2affa703448&amp;chksm=bff5b5b45f9e8133f73eb1cb6a45201f5042748a69c0f3bf043e72f0a7d4d4d84c5baafe0b69&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 24 Dec 2024 08:57:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[类O1复现项目数据和模型开源啦]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0OrrgI2W9HjkxVBpprwP3fQVRicac6rWVHUeZ2CTnXYjUVvHgDYVZpCCkOQArumhNkqcOg9kOwYv0Zg/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜闵映乾机构｜中国人民大学研究方向｜大语言模型为了帮助开源社区共同研究类o1慢思考系统的实现方法，我们开源了在技术报告Imitate, Explore, and Self-Improve: A</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446566&amp;idx=2&amp;sn=52ffbc4dd6772fe90059f737941b2e28&amp;chksm=bfc1e04ec4921b78c430dad45c361cd3342c326ae8112b16226715e606bd0a39172066b20aab&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 24 Dec 2024 08:57:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[推理模型专题 | 开源类O1：Marco-o1技术全面解读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/w3hibrVDUAib4ASE8bbRJtwicObIgABpzDd7oBAQABzEfUnUdxGzHKh47J5hL7qnp7Q2JkEKQZDHRfaic7f3gv2vBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言简介Marco推理数据集通过MCTS扩展解空间前置知识：蒙特卡罗树搜索（MCTS）MCTS扩展解空间推理行动策略行动选择思考后的反思实验设置主要结果翻译任务案例研究总结0. 引言引发了学术界和工业</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446566&amp;idx=3&amp;sn=aec74522eecf81beee7cedd0027e224a&amp;chksm=bf88cca3741b4d54e71cc0fd7f708396e5d0e599054e400f409c56f2ff8a2dd065e121231023&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 24 Dec 2024 08:57:11 +0000</pubdate>
       
 
     </item>
