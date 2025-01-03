@@ -32,11 +32,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[让预训练 Transformer 生成更长的文本/图像：位置编码长度外推技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/PPYfhrH0Fa2o24mv3KkY6rplSaAb9DEarVg50HYGPx7NHbTIiaF2IrQ9GDCVfs9uEDfs8TJUpL3SGVMFqHlOJ1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着视觉主干模型不断向 Transformer 靠拢，和 Transformer 配套的一些技术也从 NLP 社区涌入了 CV 社区。比如 Stable Diffusion 3 还在用标准 Trans</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526012&amp;idx=1&amp;sn=6d35716aa0b291561d2f3fd045b89215&amp;chksm=9ef3733916bc7e646d8482318e055323a65a8e6c42d40b30d81ee3c8812ac2ee968f0421f24b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 02 Jan 2025 09:18:23 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Triton Kernel 编译阶段]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3ureqDDGkdSUOMHUtKJBSTMZByFQ6qafICibAHBuZDn9Ek7DlAGMlRwu7GdYU3nY3eButGxkEBm8Pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://pytorch.org/blog/triton-kernel-compilation-stages/ 。这里做个翻译，是CUDA-MODE 课程笔记 第29课 Triton内</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526004&amp;idx=1&amp;sn=ca6686fe23250d5833827e995900a755&amp;chksm=9e01386100ec25d7cd93cac8f9a6af447ec8b24df35a1092775883dd16cf4db9d35fb742f092&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 31 Dec 2024 15:17:55 +0000</pubdate>
+      
+
     </item>
     <item>
       

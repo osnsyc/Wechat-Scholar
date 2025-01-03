@@ -60,23 +60,80 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[DeepSeek-V3技术报告解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJqjy6Efm9SLJ4EmicVDwK41kNTmUianXLgDviciaSNBcpqIlfTJicjY6EQw5tH1BmHg6YYFyMbtAricxCg/640?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：吕阿华原文：https://zhuanlan.zhihu.com/p/1489055778212月中旬，我浙之光Deepseek宣布完成了v2.5的最后一次升级之后，约过了十来天，v3.0就正</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446881&amp;idx=1&amp;sn=405dc7dd2c4cb614160bebd9f3516dca&amp;chksm=bfb3d5c774b538a2297b824908856cceffbb35791c16842821194445724f108be4639ef56257&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 02 Jan 2025 14:16:18 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Deepseek V3 预训练策略解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJqjy6Efm9SLJ4EmicVDwK417CNqibdJkPjJggrqBn2SFc5hzFKwVFhtXWuPYNpBa8hR14Gicx2z6yiaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：大润发杀鱼工原文：https://zhuanlan.zhihu.com/p/15073492309训练策略集群：2048*H800，256 nodes，配备NVLink，NVSwitch，以及I</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446881&amp;idx=2&amp;sn=bd997e8c106edd04f028a9b7dc7f880f&amp;chksm=bfbfa621d9727aa17cf70ca621ee8687f1b8f89a3396875cc2248efdbb426879ba257ce80c2d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 02 Jan 2025 14:16:18 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[长文 | 大模型Post-Training总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nBpNRwzHn1uuNDxp2602vSNniaKS9yedT4pcp33Y4aJz5mX1IgLkt0kSo01icibYchce2ygrXACL2qw/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来一篇知乎好友@hadiii的一篇文章，汇总Llama3.1、DeepSeek-V3、TÜLU 3和Qwen2.5的后训练Post-Training技术。知乎：https://zhuanl</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446881&amp;idx=3&amp;sn=93354ebd48be256663068e3fc8808e64&amp;chksm=bf48dca16fa67414e59e5f440cf5749e988d99a1149c0a4be39b796e2bde3b1f4c8e006175da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 02 Jan 2025 14:16:18 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[2024年大模型总结与展望（技术下篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9MSPBmHaWGy058d86CodWtNHyhMPrDablpLpqe0dQGrEoqqgkgNSsDf7LYDSWOTmtfQDkkI1XxAA07famWQVMg/300?wxtype=jpeg&amp;wxfrom=0"/><p>接续上文《2024年大模型总结与展望（技术上篇）》1.3算力        大模型热潮进一步推动计算底座迭代升级。主要表现三大趋势特点：   芯片架构定制化以迎合Transformer计算特性，如英伟</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446881&amp;idx=4&amp;sn=01978891e26f7d74b3b0bb382015286b&amp;chksm=bf1b0c3ec8573e0af86eb17733f8512790d6aa7a7c6ebce4aaed19c24d18d0ca850bec712123&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 02 Jan 2025 14:16:18 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[一本醍醐灌顶的「大语言模型提示工程」教科书，熬夜读完]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLROkF38B0FVOMyI1kL03FOiaylriaxnf6jeBNIqhpoY1LPcHQI6hb4zAiaX8z2NZrvZV38SNrT4iaM2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍大型语言模型 （LLM） 正在彻底改变世界，有望自动执行任务并解决复杂问题。新一代软件应用程序正在使用这些模型作为构建块，以释放几乎每个领域的新潜力，但可靠地访问这些功能需要新技能。这本书将教你快</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446863&amp;idx=1&amp;sn=3618eddfaacca62219de0b1517fd6776&amp;chksm=bfeacdaf3415ec46b857dccce5bf5d627d9505b9ed04544e84fbe1391b7581c8392c1eb7e73f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 01 Jan 2025 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OpenAI-o3 与 Monte-Carlo 思想]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLR0wpDWC4mwRhDr9hFWrqS0MpxxfSrnqz6zDgJibSSmPzZnjcZHyibPdTRQoovFcejWwy6lYV4JgiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>o3 来了，分享一些个人的浅见。关于 Test-time Scaling Law 的进展，比我们想象中的要快得多。但我想说的是，这条路其实有些曲折——它是 OpenAI 在追求 AGI 的道路上，采取</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446863&amp;idx=2&amp;sn=df82c31ede343a211d0e980badcbec6d&amp;chksm=bf56553f48fa519a4715cb72127f23a8acbb3ffd1ad668e33e7a72247dce8f7172f7e014674d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 01 Jan 2025 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[o1-Coder：代码领域的OpenAI o1模型复现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIBz0g3En3bx5zQg8MQojp6VF82C4EI3ITPstou4HDpRwq6naaJxQvcHaTbOFDQGsuV41oPKbk4yQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：莫笑傅立叶原文：https://zhuanlan.zhihu.com/p/11002542959https://www.hotaipapers.com/ai-papers/2412-00154</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446863&amp;idx=3&amp;sn=2ac9777e830dbe81cc79cf72501f1dca&amp;chksm=bf2bf70083b02bb7ce11a135d7a49b04091fd06190e69fd1e575de3e937c6c76e9ef6011647c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 01 Jan 2025 02:10:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -523,55 +580,6 @@
       
 
       <pubdate>Thu, 26 Dec 2024 14:28:04 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多模态RAG杀疯了！！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIZdlVnsVqPVqcScxQRkwBnm3WFSWKp7ZGrvUDFtfOxzGFaCEj1Wib2K5sN98ohbh8DVBdHGYOdzHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024上半年是大模型的时代，但随着训练推理的深入，大模型也逐渐暴露出幻觉问题，
-一些回复与事实知识不符，研究落地面临极大挑战。于是，多模态检索增强生成（mRAG）技术应运而生。近年顶会更是激增了一批</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446582&amp;idx=1&amp;sn=88d5342db4c5da3ceb1f30f60222a20b&amp;chksm=bfd7dbf1a5b95fbe634cc65071f0dbfb634d15c46d7430a80151112e6f7765ef04c2550837f3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 25 Dec 2024 02:20:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM 又一年！！！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lDrFs3QsIxrEGeoC2uqZbJXIrsmOD6TXVFLbkHjsBiaTDoVOIVgefdBZJ1NEDqo8ImicaPDvpMaL3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM 的第二年就要结束了，如果 2023 年的主题叫“从零到一”，那么 2024 年的主题无疑是“颠覆认知”。知乎：https://zhuanlan.zhihu.com/p/13803218651过</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446582&amp;idx=2&amp;sn=aad0525599c3b5b340adc8cb728d2e53&amp;chksm=bf99cd22204f7ddf73c9003cbbad7e82b2c62de9aed8c62fe25cdd05f445d3bfdb48b3cbc626&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 25 Dec 2024 02:20:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLAMA3 论文精读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HAFUHkn3vxutIeo0mRMymBic1ke0rHeJfj1fnCGvRiayscrjx3ktP0a014LyNERLeXc509OARs7xkJp9HzEzZn4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言最近对之前精读的论文进行梳理，发现一些笔记还是非常有价值的，稍微改改发布出来给大家看看。LLama3是几个月前的论文了，但是每次精读还是有所收获，本文将一些重点的内容加一些自己的思考和实践进去，对</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446582&amp;idx=3&amp;sn=430f50e147371cfa181b31d50555352f&amp;chksm=bf8a21994e40080788d1eb028ada26f4d0eef5c60ede4b370111d3e0142e9ff4d38f43bcaad6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 25 Dec 2024 02:20:40 +0000</pubdate>
       
 
     </item>
