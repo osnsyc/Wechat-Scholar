@@ -40,11 +40,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[DEIM: 在DETR中使用多对一匹配的策略加快收敛]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvrwkFiar72NrvAhNKXpcxwG9QxVicN0xnphYOWP3TmjCksH1X8CcqHgb8tLD3R2uhUVKYWvIwbZFG9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读与RT-DETRv2配合使用时，DEIM仅需在NVIDIA 4090 GPU上训练一天就能达到53.2%的平均精度（AP）。摘要我们介绍了一种名为DEIM的创新且高效的训练框架，旨在加速基于Tra</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498443&amp;idx=1&amp;sn=cabe520445f6798c1b832320a585c08f&amp;chksm=c1aa27898ed909094f8f6ea6f79e05c08490528673ab9d44088a3eea44e5f16f7caf0cd6fff8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 03 Jan 2025 01:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Frozen-DETR: 使用冻结的基础大模型来增强DETR的能力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvqk3zpr4BUqibicYiaKayViagia1lI40ms7LfJZcxqEDPVrahdG0nw16gzzEcM5oHfwb75CyZSw2SmXvLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读通过这种新颖的范式，我们在COCO验证集上，使用R50作为检测器的主干网络并训练12个epoch后，分别整合一个或两个基础模型，将最先进的基于查询的检测器DINO的AP（平均精度）从49.0%提升</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498422&amp;idx=1&amp;sn=482f670922af4a4d5275d81cccb6bf58&amp;chksm=c1cf65e7745e9cb9a67522ed9fa51304f281cda94ea1447a6f954c2c95a9857978e0bbc38076&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 24 Dec 2024 01:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
