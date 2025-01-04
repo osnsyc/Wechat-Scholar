@@ -40,23 +40,68 @@
 
 
 
+
+
+
     <item>
+      <title><![CDATA[从infra的视角聊聊DeepSeek-V3]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajMYUgLDn8eZiciayp5Qb2A2kzoZGPuQMhejEQUQPRNhEIlXtINapouqBkG4A6Ann5uWHtH2bib5ZT4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>看完技术报告，从infra的视角分享一些个人看法，供大家讨论。首先，训练超大号的MoE模型，仅使用两千张H800加两个月的时间，就能达到如此好的效果，这点实在是太强了。只能说实践出先知，从DeepSe</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535043&amp;idx=1&amp;sn=db95d511c57704ea2f7fbe88f8bdd87e&amp;chksm=ea7d94992d91b06324936368538042b27c314f3bad83572c0bdf286645dc12d749ea7834a000&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 03 Jan 2025 11:40:49 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[手写self-attention的四重境界 self-attention]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajMYUgLDn8eZiciayp5Qb2A2kQiaXrm1coY3Dj1YeYGjCgFIPzw3od0Syic8YsQOsvKgXDLZ0AibBQiaiaKg/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景在 AI 相关的面试中，经常会有面试官让写 self-attention，但是因为 transformer 这篇文章其实包含很多的细节，因此可能面试官对于 self-attention 实现到什么</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535043&amp;idx=2&amp;sn=e8bf018fc516e01e1e218b8c6cb6dff8&amp;chksm=eab3166358018d606b2257c489c97aacd01e99b870ee0afbd6e3d46d86603d4bb87a62d61c5e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 03 Jan 2025 11:40:49 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[o1类大模型的过度思考: 2+3=？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagcf3kfqIMv2aF3dJOvKWIb6SBznv5kN3Y4Yt9ZvD4hLMS4bgMNxQdow7guaK58nvCl9EI26cbJYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯AI Lab和上交发现在面对一个基本的算术问题“2+3=？”时，o1类LLMs为何会表现出过度思考的现象。这个问题虽然简单，但它揭示了当在处理复杂任务时，这些模型是否真正高效和智能。下面一起深入剖</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535026&amp;idx=1&amp;sn=56d9cb19f0dae70aab538a86cf1328ad&amp;chksm=eab87cb5e24337a670ae5b9b57d8d9c627dd4c5acacd3e5ca302ed3f8f596d51d7fb97d4e865&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 02 Jan 2025 07:57:20 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[2024年RAG：回顾与展望]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagcf3kfqIMv2aF3dJOvKWIbslPGo2Dv7C1f2MV27UMYoWnUdGLZdbMOvKUks3C7LBXrNvtoILTVQA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：ChallengeHubLLM所有细分方向群+ACL25/ICML25/NAACL25投稿群->LLM所有细分领域群、投稿群从这里进入！2024年，RAG（Retrieval-Augmented</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535026&amp;idx=2&amp;sn=d7669c5a323022f305eac3d62550f016&amp;chksm=eaf242f2e2bf5bf0073a13ff312c3524c0c79d908f0c8a359b7120912928869148b894a544bb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 02 Jan 2025 07:57:20 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Building effective agents笔记]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagcf3kfqIMv2aF3dJOvKWIbtpVk0JPKriaIcicp649fGhR6AJIPmphLjz2neCYPOyfNnCrwibIwF9Rgw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：SimpleAI and ...最近阅读了 Anthropic 发表于12月20号的一篇文章《Building effective agents》（https://www.anthropic.c</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535026&amp;idx=3&amp;sn=4139fae2b502d58d5099404dc6e7aaf2&amp;chksm=eac1985a037f65ff0cc1d0989da20a2d294209213ec2f497848740c1d86e5f1478cd9b59b881&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 02 Jan 2025 07:57:20 +0000</pubdate>
+      
+
     </item>
     <item>
       
