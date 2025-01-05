@@ -60,39 +60,115 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[从infra的视角聊聊DeepSeek-V3]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKFPuSXXOqRGlq1EfNkNMBDBYJtXnibOFH13QDg4Yb7Nar0t8m32Jic5EaDhlAv6WQvvSnEdfqMDicnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>看完技术报告，从infra的视角分享一些个人看法，供大家讨论。首先，训练超大号的MoE模型，仅使用两千张H800加两个月的时间，就能达到如此好的效果，这点实在是太强了。只能说实践出先知，从DeepSe</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=1&amp;sn=bd9d7b796f7fc6b60e92d9b0b38c6e2f&amp;chksm=bf34b1f360fa2a9d480c398fee7e01000d06e709885fe631a20869dd7b08104b0e2b2b330bc6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[文末赠书 | 技术人的年末书单，这10本最受欢迎！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKFPuSXXOqRGlq1EfNkNMBDEZAfJicBOdh5fXG4TbSiaWiaw6KClDGtFm2YyNQuYG3axNhLCvtlia3Ohg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一年过去，我们如何勾勒自己的2024？这里借用一位相熟多年书友的回答，“认真阅读，好好践行。”这种对阅读最朴素的认知，不失为抵抗现实焦虑的一剂良药。我们结合销量、口碑，阅读趋势，精选出最受欢迎的10本</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=2&amp;sn=f879024a5dc3adaa09e9304da8311b92&amp;chksm=bfc4a980017d614334f1b2a1fe13197f97b56a4fd4a21845817084f031fc8605fc4b012bc06a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解Megatron TP中的计算通信overlap]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMbLJgBKf7TGLiazdyylqtZemA2Wdgkq4UL3L5GnDtspUWacNbT6EiaAkWrTARBTc2EyIqu2k5WDkyA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章想来探索Megatron中实现计算通信overlap的方法。具体来说，Megatron的dp、tp和pp部分，都有可以做overlap的地方，本文探索的是tp部分（更准确地说是megatron</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=3&amp;sn=65f3f848aa069cacd01e79539d498a16&amp;chksm=bf793bf53bd90f68bca95259fad07a6da881e9d997e19b2ad77b39ea3797f0982798824c1c46&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[曾经火热的Graph Embedding和GNN在推荐系统上还有前途吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/7YJVBU9FXkV9af0b3e7IG34IZkiaINIwkBr1CIHw9AlZfgtclYugpiaWSLUKIwSiatorG0YqxdHSEuvElNUg5wKyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>曾经火热的Graph Embedding和GNN在推荐系统上还有前途吗？前段时间回答了一个问题 为什么最近几年，没人在推荐系统里去玩 GNN 模型，GNN 是凉透了吗？ 感觉大家还挺感兴趣，这次专门开</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=4&amp;sn=fa134c2331fb054b217310dadaa66d00&amp;chksm=bf2047190bab9716998bc38ecc3451d85135c90be4dbfae48fd7e76837a172783458593178f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[千问LLM：什么是 Sharding? 之ZeRO 优化（Zero Redundancy Optimizer）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iabUOs2OBUhTJchV1800lWEhIq8F6xhCBBmI7mrYULAlSl0oCbTL3shIUt5ic9JRFtYZSMek7jTNicib53iakDz9dSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>还记得小时候第一次看到《西游记》中孙悟空遇到一堆妖怪的时候，都是拔出一根毫毛变成成千上万个小猴子，把小妖怪都分给每个小猴子，这样大大缓解了美猴王的压力，但是也可能会增加孙悟空赢得胜利的时间，需要等这些</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=5&amp;sn=a6b326f587bf900a7b6e771ef2ea83c5&amp;chksm=bfe889c5c50a1f5e839fc052e93b89380fa9efc0322254fd722ad44d9e58c1f31876aafb6d1c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[谷歌41岁天才科学家SuperGLUE之父英年早逝！两月前留下绝笔：从事大模型研究让我深陷抑郁！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLI18DCL4TiaFN3GMDuVzv8xQgl0LmAK4KphdzFRLrsWWWasm6ocnrEI85K5wLlVAPKXNqkBIncxibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p> 来源新智元 | 编辑部 HYZ【导读】就在刚刚，噩耗传来：年仅41岁的谷歌DeepMind天才科学家Felix Hill英年早逝。他的一篇博客揭露了AI研究者面临的巨大压力：几大公司的竞争，研究方向</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446913&amp;idx=1&amp;sn=29b832d396ba8da2e74dd832e115a528&amp;chksm=bf364127c03f23942ea98970eed1b951fec5da6237615c2ff807b0ada5971f3cc55288be6b98&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 10:21:53 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[评价deepseek v3：又一个相信自己比英伟达懂GPU计算并做到了的团队]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLI18DCL4TiaFN3GMDuVzv8xg2FjjsFiauqqURSgk2ibXKEgI3Igyoj58kiblXCM7jBdibptp5lPV8gdFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>我觉得 deepseek v3 主要做成了 2 件事：继 flash attention 之后，又一个相信自己比英伟达懂 GPU 计算，并且做到了的团队；找到了 pretrain 的一个 10x 变化</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446913&amp;idx=2&amp;sn=b37b82107baed5fdba27e083230af265&amp;chksm=bf8a1d6c364c943c4e64801c014459a70fd5f9ccd54fcf51e6bf85dc1a428c0226050de4b9cf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 10:21:53 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[手写self-attention的四重境界 self-attention]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BrtBjG6XSzJoo7gHm1BSPsDGh8UWtbJrAM7gp2k6kevmYk7LZcqE3FhsQyaI41Okw96wGAdys9n3k58TLM1rNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景在 AI 相关的面试中，经常会有面试官让写 self-attention，但是因为 transformer 这篇文章其实包含很多的细节，因此可能面试官对于 self-attention 实现到什么</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446913&amp;idx=3&amp;sn=1497a5a9202dea0523ab034c7ef301bb&amp;chksm=bfefaea00a2078783edba3e8d8be5c6047444c1a55076d21aa4ad9b6e500c5ecba462b7108d5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 10:21:53 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[微软公布OpenAI闭源模型参数！4o-mini 8B！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagJXDvsF3HlcGS7dbMEnUw0JKPzEt6aK2DUIMkwdubspoInY4oe8Xy1acHiaicsia1W5rxSfwibwgncicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家新年好！祝大家新的一年薪资歘欻的涨，论文嗖嗖的发！没错，就在前几天，Microsoft发布的arxiv里竟然写了OpenAI闭源的大模型的具体参数！（消息来自：xhs博主 Scarlett_WH）</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446913&amp;idx=4&amp;sn=d44ad93d6732c2a226a9443f5bf7db20&amp;chksm=bf0e3183bfffc3df28c3a1009b7a530031090cf5780c478d9d26c21bd897bcda8f4d157b124b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 10:21:53 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[LLM 预训练到头了吗？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mgNw8j9VaKicnQ1LDoAiajibQxVzZ9IeSUXeaLb5wybPXk8RkGwDiaSEAoRozd7xMbw2ZNibHCfsdPdxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家带来的是好友@Binyuan的一篇想法，主要是对Ilya的“pre-training as we know it will end” 观点的看法。正文如下：最近，Ilya 在 NeurIPS</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446913&amp;idx=5&amp;sn=3a2ce18486fd3a83d9cbe9ba9f1b3b8a&amp;chksm=bf2a85da18fafae66fc686c4709b7551bc03ac43b2f4ae2ad59da9c2f9bbe468a3095a0f7db5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 10:21:53 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -443,70 +519,6 @@
       
 
       <pubdate>Sun, 29 Dec 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型存储效率太低，占用空间太大？推荐一个开源神器！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK3PjYicVI3JQYOBSjAtTKntOEYPawUQd3EZTvlGKfH5xibDGfJ0O5mHEANOENkaEsoN9uTCU9E3iauw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型工程技术的迅猛进步，提升大模型训练效率已成为推动其发展的关键要素。训练效率 = 训练吞吐 × 训练有效率 × 收敛效率，其中，训练有效率的保障离不开灵活且强大的模型恢复机制。据悉，Meta的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446801&amp;idx=1&amp;sn=41423b6c42f29553ab4f34fc30b01eb9&amp;chksm=bfb65510c5415600c44be762334e08051de5bd404515280e7a7e45ae73ec76a6ef10194fa9d8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Dec 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型的基本功]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIURkEnvhgvAZACdIicTK4TtOUC093l7xjQrpru5GeT0uQ9298wUghH1jmZtPBgXCs5ffl4lyO0DoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Author: [ybq]Link: [https://zhuanlan.zhihu.com/p/716344766]这篇文章给大家推荐几个大模型的练手程序，也就是所谓的“基本功”。先问个问题，除了 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446801&amp;idx=2&amp;sn=79c44d2a883d48beee7b29857d1becad&amp;chksm=bfdf0110465b4713b7fe29128e978b72b1907fcb4cb98daa3b247ed3ce8c9f95fd112405c847&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Dec 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[深度学习工作：从追求 SoTA 到揭示新现象]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLR0wpDWC4mwRhDr9hFWrqSJFjgIpKXKrhIAhLMaLGqAseREMibsZT8SduEJLLwLNRL8GN6azbuYfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨黄哲威 hzwer@知乎来源丨https://zhuanlan.zhihu.com/p/14170281797编辑丨极市平台导读 本文主要讨论了从追求模型 SoTA 到揭示新现象的转变。通过几个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446801&amp;idx=3&amp;sn=0415d20d347eb29cae9bc7de5621dc16&amp;chksm=bf63476997deb6df0c1a993fcc4c88d397345295d78533a4a24b77ee72acfa5fccf79a679bad&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Dec 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【LLM模型微调】LLMs-PEFT[微调]-QLoRA总结笔记v6.0]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/svfB1Sp4FdAGjG6CTCktBa8hUfec1MISxXE7Yvktanp4iaCxgnnEBA0OBfxjop6WPvprmxm29mDJy9nbNAAbxzg/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】：本文是LLM模型微调第六篇，分享论文QLoRA: Efficient Finetuning of Quantized LLMs的解读。主要内容有论文解读(提出背景、技术原理，细节补充...)</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446801&amp;idx=4&amp;sn=20b3b45033ca29d0fc6cf31d330119d9&amp;chksm=bf439bb3bf853c9393bc3d578c0e01d179d74abbe07f8e27c25d0451da67849e956894624325&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 28 Dec 2024 04:10:00 +0000</pubdate>
       
 
     </item>

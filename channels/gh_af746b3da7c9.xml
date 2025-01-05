@@ -43,17 +43,57 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[从infra的视角聊聊DeepSeek-V3]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajMYUgLDn8eZiciayp5Qb2A2kzoZGPuQMhejEQUQPRNhEIlXtINapouqBkG4A6Ann5uWHtH2bib5ZT4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>看完技术报告，从infra的视角分享一些个人看法，供大家讨论。首先，训练超大号的MoE模型，仅使用两千张H800加两个月的时间，就能达到如此好的效果，这点实在是太强了。只能说实践出先知，从DeepSe</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535043&amp;idx=1&amp;sn=db95d511c57704ea2f7fbe88f8bdd87e&amp;chksm=ea7d94992d91b06324936368538042b27c314f3bad83572c0bdf286645dc12d749ea7834a000&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 03 Jan 2025 11:40:49 +0000</pubdate>
+      <title><![CDATA[博士生罢工、工资上涨、学术头秃：PI生存指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahNWJY6QnAp0deHR0Z9H0L4q26v5qQQjZ2uRPcfQ9wE4SGsCMQuTsCSUXRu9dXkdBkyVLcqn6b71Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>好久不写知乎了，新年除个草。其实这个碎碎念上个月就写好了，没发。现在想想反正写都写了，就图一乐呗，大家随便看看。知乎：周博磊链接：https://zhuanlan.zhihu.com/p/161192</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535068&amp;idx=1&amp;sn=6884d4efc2ea8ea6d2a7d87c461f033a&amp;chksm=ea3fd95fb6efeaaa22819ca5ad693e307935e8166978cba9fb4219c36f5c0d757d5ec975ee96&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 13:36:15 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[手写self-attention的四重境界 self-attention]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajMYUgLDn8eZiciayp5Qb2A2kQiaXrm1coY3Dj1YeYGjCgFIPzw3od0Syic8YsQOsvKgXDLZ0AibBQiaiaKg/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景在 AI 相关的面试中，经常会有面试官让写 self-attention，但是因为 transformer 这篇文章其实包含很多的细节，因此可能面试官对于 self-attention 实现到什么</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535043&amp;idx=2&amp;sn=e8bf018fc516e01e1e218b8c6cb6dff8&amp;chksm=eab3166358018d606b2257c489c97aacd01e99b870ee0afbd6e3d46d86603d4bb87a62d61c5e&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[[vLLM vs TensorRT-LLM]：动态序列长度场景对比]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahNWJY6QnAp0deHR0Z9H0L4rBCWZ27AGibFeTMQDKoZ7GhJL3Daic9Ku0WDPlGmwF9dqK7RHZfeYI1g/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：oldpan原文：https://medium.com/squeezebits-team-blog/vllm-vs-tensorrt-llm-5-dynamic-sequence-lengths</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535068&amp;idx=2&amp;sn=1163accc985bb456836003abc68859c1&amp;chksm=eaeeadc72f76968026552181f0c2e9ac08d364358b8317361e0d8bc1c4ac5e25574e83e07c68&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 13:36:15 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图解Megatron TP中的计算通信overlap]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahNWJY6QnAp0deHR0Z9H0L4VaNwNXeibSNlODnE8TmEvLlB9yH9PaJs9IvFOSYTtD2fx5Q4OVpJz6A/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记这篇文章想来探索Megatron中实现计算通信overlap的方法。具体来说，Megatron的dp、tp和pp部分，都有可以做overlap的地方，本文探索的是tp部分（更准确地说</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535068&amp;idx=3&amp;sn=9d9ad81e192d9971197767f8f527c03d&amp;chksm=ea080a8c6bea4824a4ee5dba97e6c0ac15fc2975ff0e092413eba6724f219afa28bcc375eb46&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 13:36:15 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[从infra的视角聊聊DeepSeek-V3]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajMYUgLDn8eZiciayp5Qb2A2kzoZGPuQMhejEQUQPRNhEIlXtINapouqBkG4A6Ann5uWHtH2bib5ZT4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>看完技术报告，从infra的视角分享一些个人看法，供大家讨论。首先，训练超大号的MoE模型，仅使用两千张H800加两个月的时间，就能达到如此好的效果，这点实在是太强了。只能说实践出先知，从DeepSe</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535043&amp;idx=1&amp;sn=db95d511c57704ea2f7fbe88f8bdd87e&amp;chksm=ea7d94992d91b06324936368538042b27c314f3bad83572c0bdf286645dc12d749ea7834a000&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 11:40:49 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[手写self-attention的四重境界 self-attention]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajMYUgLDn8eZiciayp5Qb2A2kQiaXrm1coY3Dj1YeYGjCgFIPzw3od0Syic8YsQOsvKgXDLZ0AibBQiaiaKg/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景在 AI 相关的面试中，经常会有面试官让写 self-attention，但是因为 transformer 这篇文章其实包含很多的细节，因此可能面试官对于 self-attention 实现到什么</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535043&amp;idx=2&amp;sn=e8bf018fc516e01e1e218b8c6cb6dff8&amp;chksm=eab3166358018d606b2257c489c97aacd01e99b870ee0afbd6e3d46d86603d4bb87a62d61c5e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 03 Jan 2025 11:40:49 +0000</pubdate>
+      
+
     </item>
     <item>
       

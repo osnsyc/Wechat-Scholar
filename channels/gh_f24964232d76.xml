@@ -34,11 +34,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[图解Megatron TP中的计算通信overlap]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMbLJgBKf7TGLiazdyylqtZemA2Wdgkq4UL3L5GnDtspUWacNbT6EiaAkWrTARBTc2EyIqu2k5WDkyA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章想来探索Megatron中实现计算通信overlap的方法。具体来说，Megatron的dp、tp和pp部分，都有可以做overlap的地方，本文探索的是tp部分（更准确地说是megatron</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526014&amp;idx=1&amp;sn=1a5259d6795d15f36e8478c383d03706&amp;chksm=9e787f1c6a8d76261828ba1253b57a0e3940b65e3104781b143a14021d70cd7b6bb80952306c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 14:00:06 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[将Diffusion模型的推理速度提升了8倍，顺利拿到6家企业offer]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vAZzAvWexy7k7NbhnLO24xeWAYAoXPM5ZYnQKq09LwPviacx4GeTjILaEWjx9tK70xWx6eZPqHBOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是图书李，硕士毕业于苏州大学，今年6月毕业加入了大厂做模型推理的工作，毕业时拿到了华为南研所、腾讯北京等6家企业offer。研一研二期间，我是做计算机视觉算法的，每天为提升模型在各大数据集上</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526010&amp;idx=1&amp;sn=da89e3d0691afcb6a0ed41bbcae507fd&amp;chksm=9e1d5a071af0d45cbceba428b23931007a283efd2888b606f5c8cb423db9815cb1b20438f385&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 01:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       

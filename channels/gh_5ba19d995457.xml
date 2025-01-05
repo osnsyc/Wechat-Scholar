@@ -54,29 +54,88 @@
 
 
 
+
     <item>
+      <title><![CDATA[实时高保真人脸编辑方法PersonaMagic，可根据肖像无缝生成新角色、风格或场景图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsExUD85bPCqAicxMSnpMibzPacGZ2JJmvUibAHrezkU5Now3FS5ib9Ibg1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍的是一个高保真实时人脸编辑方法PersonaMagic，通过分阶段的文本条件调节和动态嵌入学习来优化人脸定制。该技术利用时序动态的交叉注意力机制，能够在不同阶段有效捕捉人脸特征，从而在生</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489722&amp;idx=1&amp;sn=b2f92abfd72f30a2c97c71956ed34636&amp;chksm=fd6800c47f0c2991ded408839135c22c38b0877dfe88876c4720a8184860e8bc69b411bc71c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[厦门大学联合网易提出StoryWeaver，可根据统一模型内给定的角色实现高质量的故事可视化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elcSnOoT1icicSWQibicicqfkyEgocfw6Age4Y0U1AOuZS8cHib80ewP5RdXmZjaprD8L6TqR9iasUM3VUVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>厦门大学联合网易提出StoryWeaver，可以根据统一模型内给定的角色实现高质量的故事可视化。可根据故事文本生成与之匹配的图像，并且确保每个角色在不同的场景中保持一致。本文的方法主要包括以下几个步骤</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489722&amp;idx=2&amp;sn=969054662185f2223e25b429951ded30&amp;chksm=fd452d58f81ba824a385b3572cbed3099c51fad658e2cadeb3ff378178e1d6072d2d09d2e009&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[北航 | 第一个多功能即插即用适配器MV-Adapter：轻松实现多视图一致图像生成。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2en3n1j1LLVnKmKxjJUkVMkfSL2lH1ru1uCJuUuA21YKHU5ia5SLlWu0BztQtHU3YSeZIYv3K9nGSHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>北航提出了第一个多功能的即插即用适配器MV-Adapter。可以在不改变原有网络结构或特征空间的情况下增强T2I模型及其衍生模型。MV-Adapter 在 SDXL 上实现了高达768分辨率的多视图图</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489722&amp;idx=3&amp;sn=94f038194ddc92abe4f1a2f30679938e&amp;chksm=fd98c87a4016f45531a7ad0e9dbba449558ccfcfe1870393fb6e3324dfeb487548746a9b39af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 04 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[NeurIPS 2024 | SHMT：通过潜在扩散模型进行自监督分层化妆转移（阿里&amp;武汉理工）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsjQl0sGle0TkYDcmMMuGmbtLXibkDVicOAa1tpYmub1EJgQJfZ41lm6WQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前的妆容转移技术面临两个主要挑战：缺乏成对数据，导致模型训练依赖于低质量的伪配对数据，从而影响妆容的真实感；不同妆容风格对面部的影响各异，现有方法难以有效处理这种多样性。今天给大家介绍的方法是由阿里</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489721&amp;idx=1&amp;sn=2be8e8a5d80508b4133580ed51703f1a&amp;chksm=fd2089f9c33f235bd1530ac701fa2edf457dfa7f5996741fa6bde7a5c5e0a1be2da98d1d2f90&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[字节 &amp; 清华大学提出 AnyDressing ：通过潜在扩散模型实现可定制的多服装虚拟试穿。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el4eIaML40rNcaURA3WTSibqnpQ2g1NFlaI6Rqk2xKeeM63oDt2Siblvd3Z2JVicAdFicCgWdSPicLJVzw/300?wxtype=jpeg&amp;wxfrom=0"/><p> 字节&amp;清华大学提出AnyDressing:可利用参考服饰和文本定制化人物，解决多服饰组合搭配、文本响应以及服饰细节的问题。今天的文章来自公众号粉丝投稿，清华大学联合字节提出了一项虚拟试穿新方法Any</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489721&amp;idx=2&amp;sn=186a0cd6ac36bc766945ce6f3cedc137&amp;chksm=fde20e8ea21d5673292365bfcd769af84b430c7f96743357b0b2f673d8440ecc9d2b0b3e2c7c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[NeurIPS2024 | OCR-Omni来了！字节&amp;华师提出统一的多模态生成模型TextHarmony。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUw9icM2HlibUyI4RtyIsiaB9FOY9taoKCFlibTeImBZT585GC3ias7FialR6UA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，赋予机器类人的图像文字感知、理解、编辑和生成能力一直是研究热点。目前，视觉文字领域的大模型研究主要聚焦于单模态生成任务。尽管这些模型在某些任务上实现了统一，但在 OCR 领域的多数任务</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489721&amp;idx=3&amp;sn=575774cf8c38a69a9736873d7de5bf2b&amp;chksm=fd29798bdf09671a5235a5555128d3e87cb629cbc56f9c9300427ea4b76098de93f2c2145dee&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Adobe发布TurboEdit：可以通过文本来编辑图像，编辑时间<0.5秒！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elKcprhHqENugIHSUTwb3EOiaaqictMa8fmmNEDqsoISMhGDZH4oZmh7vtMn5sov6khPdhIypPkhDZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍Adobe研究院新的研究TurboEdit，可以通过文本来编辑图像，通过一句话就能改变图像中的头发颜色、衣服、帽子、围巾等等。而且编辑飞快，<0.5秒。简直是图像编辑的利器。相关链接项目</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489721&amp;idx=4&amp;sn=af85645b39b8f853a5e7a6a05dcc35b2&amp;chksm=fdd53542f4f69d819ccbddbc87fbe2abb3fe32410924817c4f74767bc6faa4258af0b17be5ed&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
