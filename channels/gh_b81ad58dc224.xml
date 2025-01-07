@@ -48,11 +48,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[今日开源（2025-01-06）：Dolphin 3.0最新一代指令调优模型，0.5B至8B多量级参数，终极通用AI模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxp2icdPR1g9zKcgFm6B2fmooCHGZvNbGJ5g4E32Aibqp3ZvaA1hxy3QbdwcJnQmWkPh5fWibxcHEDdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Dolphin 3.0★Dolphin 3.0 是 Dolphin 系列的下一代指令调优模型，旨在成为终极通用本地模型，支持编码、数学、代理、函数调用和一般用途。与 ChatGPT、</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497356&amp;idx=1&amp;sn=9a740c2a4d6ec6513a297869f3c1e09a&amp;chksm=c0e87054b20e79fba9571d65f70b29df2e2ffa86ef7e25e2f86e57d34564f8e538b38db01e88&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 06 Jan 2025 10:05:28 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[今日开源（2025-01-03）：字节开源文生图版本框架Infinity，全新位元视觉自回归建模，2.6倍提速高分辨率图像生成]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzDYFILJexhmtup46010lOHRLfu6PXZSSSXliaL0t7uvnyHVJ9JYfxsX7tP2iaC1tTLcgY5ibvzVNQRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Infinity★Infinity 是一种位元视觉自回归建模技术，能够生成高分辨率和逼真的图像。该项目在位元标记预测框架下重新定义了视觉自回归模型，采用无限词汇量的标记器和分类器以及</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497346&amp;idx=1&amp;sn=d9dae1e2326ddef29b3848c3a6df8d27&amp;chksm=c078393c0368b5c0a49cc0d8882833009e03defcdd3926b297a84b155a34d0063203d69ebce0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 10:09:03 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -83,278 +100,6 @@
       
 
       <pubdate>Tue, 31 Dec 2024 10:00:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-30）：SEMIKONG，全球首个半导体行业大模型，8B/70B参数版本，3T双语言语料库训练]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkz1KDllSxxP6k9pcoAL7iaiaMlb9c2xnM4Yp6yoS5Zw9dvgM3qxC77RiaoQwrKBJd6e1LLDCk3nBUe7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：SEMIKONG★SEMIKONG是一个开源的、专为半导体领域设计的大型语言模型（LLM）。该项目旨在通过将领域特定的知识融入模型中，解决半导体行业面临的独特挑战，如半导体器件和工艺</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497311&amp;idx=1&amp;sn=3a522a680fac22ff616d7d1a899f6139&amp;chksm=c08ecce3252b6303515a001969d6422f7a9221628e4c2353b7f396913444ed3ed1dab1aa1219&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Dec 2024 10:01:24 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-27）：DeepSeek-V3，671B参数的MoE模型，数学代码任务突出，中文性能碾压GPT-4o]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyC6bLk72p79LAh1ibKC0Xgoz1NVoRtiaLySfEY52U3pER0iaVsBIl1tgsLqsgiaO9JuaLiboK8I3bE9Yg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DeepSeek-V3★DeepSeek-V3 是一个强大的 Mixture-of-Experts (MoE) 语言模型，拥有671B总参数，其中每个token激活37B参数。该模型</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497298&amp;idx=1&amp;sn=dd3a89ed6aa378f8a780408b4d372c9f&amp;chksm=c0d0cf829cb2a0eb909653677d244b8f397d0fb1f37d0d09e8540709c84d6b0e4fd44f32a9df&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 27 Dec 2024 10:05:49 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-26）：字节跳动发布Valley多模态大模型，7B参数，文本、图像和视频多任务，引领电商短视频新突破]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkx68F53ytEV909Ez6cLibE9ribDibRnmIREI5ZRpZATgWyAGpWxDicZI1Rn2GMTNTMA0Rxm6h2dyhFcUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Valley★Valley是由字节跳动开发的前沿多模态大模型，旨在处理涉及文本、图像和视频数据的多种任务。该模型在内部电商和短视频基准测试中取得了最佳结果，并在OpenCompass</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497288&amp;idx=1&amp;sn=298010cebb41ec113995301cc88f0fc9&amp;chksm=c07a21e6ad60a87fad2400ed920f5511d31737e58da265d87e280fe42e45c26cd7ba9985028a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 26 Dec 2024 10:03:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-25）：阿里云通义千问发布开源QVQ-Preview，72B参数，基于视觉进行深度思考推理，表现出色]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyibtVoicBY8xtLhxtmjE4IzVVIuqTXSPfhw1KZ9ZZicjOkvqaKUUQ6EM9pz188HXUfFVDyoK5WREtBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：QVQ-72B-Preview★QVQ-72B-Preview 是由 Qwen 团队开发的实验性研究模型，旨在增强视觉推理能力。该模型在多模态大规模多任务理解（MMMU）基准测试中表</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497278&amp;idx=1&amp;sn=9d972348f66f94a2149230024a0f33f8&amp;chksm=c011e4a96c419b3bbee040af56aa3e13f49fa02ad9b203bbea1f531416df0968108b7d08fdfe&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 25 Dec 2024 10:23:11 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-24）：ModernBERT来袭，参数为139M、395M两个模型，适用检索、分类、实体抽取等任务]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzYbUfAOlbjSOs8MUPUdMT9WNL9tic99BMPdB2zSaDC9T3XGVHibk3hsKaghicYic7t5U8ic1w4CHl9Jcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：ModernBERT★ModernBERT项目旨在通过架构变更和扩展性提升，将BERT模型带入现代化。该项目引入了FlexBERT，一种模块化的编码器构建方法，并依赖于.</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497268&amp;idx=1&amp;sn=724c6a54af3cda3605fe1d427f2ab86b&amp;chksm=c0a05fa61ee1f07761e470ad037cf92d142b209ac58902058e3cdd0c60ca28ff30bb96c7f91d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 24 Dec 2024 10:03:36 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-23）：Bamba语言大模型，9B参数，基于Mamba-2架构，2万亿Token训练引领性能跃升]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzpXZW0BuK3O63DGDDq87lYMsM9O6dOicmFiapZSN6YjO2E81yyRCu93EGicicZbpVDasSBqgXPKXcTJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Bamba★Bamba-9B 是基于 Mamba-2 架构的仅解码语言模型，旨在处理各种文本生成任务。该模型通过两阶段训练方法从头开始训练。第一阶段使用 Dolma v1.7 数据集</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497258&amp;idx=1&amp;sn=b45e146350d3fb98fe741144429b290e&amp;chksm=c04c88a20d7fa86c5a195580b15a4f618f3cc91b2c0b050f97f7c24c1f85a6434c096f5dbf59&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 23 Dec 2024 11:09:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-20）：Lyra多模态大模型：3B、9B、74B参数需求全覆盖，语音、视觉、语言交互新突破，全模态认知]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzibsQE6B2qQezx3RIiccETRQR5rUxiaCpOEnrKx7NFW4AvKA3gruyI7yWBC3WWXCzNRyibjUpofyJoTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Lyra★Lyra是由香港多所高校联合推出的高效多模态大型语言模型（MLLM），专注于提升语音、视觉和语言模态的交互能力。包含3B、9B、74B三个版本。Lyra基于开源大型模型、多</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497248&amp;idx=1&amp;sn=e6da52f474322e88078389e7c9f7f37c&amp;chksm=c0d42bacf0ea1f4a5fe3e164a2e00056f47886030d97f00b863fcdb22cef3035490025d8cdf2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 20 Dec 2024 10:19:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-19）：Granite 3.1来袭，1B至8B共4种尺寸2种架构，128k上下文，十万亿token训练]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzJOSWxRvSS78of5eF3icgmdh86hEhxVOIE90gGLicwmAiaibicGXlQCM8uHPUGBxhR7LeiciaZFDhzdEIMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Granite 3.1★Granite 3.1语言模型是一组轻量级、先进的开源基础模型，支持多语言、代码生成、推理和工具使用，能够在有限的计算资源上运行。Granite 3.1 型号</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497238&amp;idx=1&amp;sn=3d3be68182705ea485b5f1987264f0b7&amp;chksm=c0a432340e1beab1218c491722fe2db55fb20233bb897febaa9132feba3eb8a2e609f5fe6090&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 19 Dec 2024 10:48:31 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-18）：Falcon 3开源大语言系列模型，5个基础模型，1B到10B参数规模，支持四种语言]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzib2JDzqIduJgwF6NNibY1iaY7c59oxhttxER89qHETuzNtWFO2wPfibCr2DDC5eu7qxtKtghH7VkictQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Falcon 3★Falcon 3是由阿布扎比技术创新研究所（TII）开发的一系列解码器型大语言模型，参数规模在10亿以下。该项目旨在通过提升性能和训练效率，推动开放和可访问的大型基</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497225&amp;idx=1&amp;sn=e42a2e007a68b41f2c8fbb3b925d2192&amp;chksm=c00ccd96fda5fd064f46e5a7a641551f15f2ce47b7251addc8ca044b9fbac886e176341e6e6d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 18 Dec 2024 10:15:19 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-17）：Ivy-VL，轻量级3B参数多模态模型，接受图像和文本输入，边缘设备上的高性能之选]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxJ8216fAMUdCHFdB5PgcfP5118BSzW7YNHw9XiarWej0BD152ic9PhgXUbZUEk4vpD8Mib55UytCqCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Ivy-VL★Ivy-VL 是一个轻量级的多模态模型，拥有仅3B的参数。它可以接受图像和文本输入，并生成文本输出。由于其轻量化设计，该模型可以部署在如AI眼镜和智能手机等边缘设备上，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497215&amp;idx=1&amp;sn=851c5043d0460be187d308d24a9dd804&amp;chksm=c020cd64f9d0f6537012e1b271c3f6ee57bbc0ca0a4cce201fc790a8019b8aa53f029c658392&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 17 Dec 2024 10:12:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-16）：DeepSeek-VL2性能跃升，仅1至4.5B激活参数，覆盖视觉问答、OCR、图表理解等任务]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzXYYu0kVISQgeiceW0zqh71Wdap1IrHLaYLEaUib3zlsF011FzFJNdVYc7uHVSxOLytuAvTguFh4gQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DeepSeek-VL2★DeepSeek-VL2 是一系列先进的专家混合（MoE）视觉语言模型，显著提升了其前身 DeepSeek-VL 的性能。该模型在视觉问答、光学字符识别、文</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497205&amp;idx=1&amp;sn=1525c054409fb905c76033666e0f58fb&amp;chksm=c0a4b66c0626364b8d8c32a451e4f40915a303db40dd099df8082d3eacf53fa550873d281b13&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 16 Dec 2024 10:01:01 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-13）：文档解析评估基准OmniDocBench，含文本段落、标题、表格等元素的定位信息，提供模块代码]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwBRwvMWo2wljI0ZYQUlibbbhbGC2hlM1fbayuSXxkrGlpynDZibxia7AgXyNKCJJS2eIIkZbQLGlcpg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：OmniDocBench★OmniDocBench是一个用于评估多样化文档解析的基准，适用于真实世界场景。该项目涵盖了多种文档类型、版面类型和语言类型，提供丰富的标注信息</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497195&amp;idx=1&amp;sn=05abd76af8ab2cbc5d7d29d300517d8e&amp;chksm=c0efddc0415024c08bf217621f57deae52692455f9a8ac8c1d36c548cd036f0fe2626b5a9152&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 13 Dec 2024 10:08:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-12）：多模态大模型Maya，基于LLaVA框架，8B参数，指令微调扩展至支持8种语言]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwPHbjAob3qevqF6lvzO7SHKzlu0xsRLL1OvovO3cF0f7pf1TWAYtcdlEdN88IkISU8HPib3q5FmEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Maya★Maya是一个经过指令微调的多语言多模态模型，旨在扩展多模态能力至八种语言，强调数据质量和文化敏感性。基于LLaVA框架，Maya包含一个新创建的预训练数据集，支持多语言和</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497183&amp;idx=1&amp;sn=17c018355adb9b2865057acd210c6081&amp;chksm=c042a5d6db4c4eb26ac65e166a2bcab4922ac6620162f426ace4c17fac7101ddc189e23c9c82&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 12 Dec 2024 10:20:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-11）：书生·万象InternVL 2.5开源，1B到78B参数，链式推理技术提升性能媲美GPT-4o]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzFW1tZH0AD4pxRjBVK0Ue7YUicyshBhPaJBTGe9MibQLy5N9icmFia4nIYybN2Zsib4nWh8EFoRAstj5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：InternVL 2.5★InternVL 2.5 是一个先进的多模态大语言模型系列，基于 InternVL 2.0 构建，保持其核心模型架构，同时在训练和测试策略以及数据质量方面进</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497173&amp;idx=1&amp;sn=93486372221473fa7f485abe091a6a63&amp;chksm=c076145cc7df25d46782dbd8dc7ba96f10dfc39e94cb506f0f08213fd266eb161e29640f3bfb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 11 Dec 2024 10:04:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-10）：智源发布3D生成模型See3D，1600万互联网视频训练学习，无须几何注释的视觉内容驱动]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxFaukY2FR0QFAum1yubiadMknYZibI7icEVrJyk6vgviaZnqcRjFrVguqMkBOCBvfyomlDcicht7uyfcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：See3D★See3D是一个视觉条件多视角扩散模型，旨在通过大规模互联网视频进行开放世界3D创建。该模型通过观察视频数据中的视觉内容来获取3D知识，利用自动化数据筛选管道过滤多视角不</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497163&amp;idx=1&amp;sn=ee4ff4247ebe4383369859b1d4831424&amp;chksm=c03b55f76ce27a82d9c6e556a42642b38034e374b6a84693bd2d0425c17a0ca1c7d734bc2b90&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 10 Dec 2024 10:03:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-09）：Meta开源Llama3.3专注文本生成，70B媲美405B性能，支持8种语言、128k上下文]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDky46ibiaDkwPpOl085OGW8JMM3vibhNsXgv86VS0uGR9XE7tq7A9FzGUBWhzicZ6htmWQuhQwBgUphtzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Llama 3.3★Llama-3.3-70B-Instruct是由Meta开发的大型语言模型，专注于文本生成任务，对8种语言的全面支持。Llama 3.3采用优化的transfor</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497153&amp;idx=1&amp;sn=0a7bc26cb4d676f4da7473d0deb2acfd&amp;chksm=c025734a7eed4e33245cdc98e78114d0034dcae30a61538392c432c7c3b4e43945bb918f6b1d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 09 Dec 2024 10:12:03 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[今日开源（2024-12-06）：谷歌新一代视觉语言模型PaliGemma 2，从3B到28B，结合Gemma 2 文本解码器]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzNzwrM9qaicwzXx4pUywZopzH5d8LaLaEZ7HBicKHPxZJvapuSuZFqJ2y2zCHNPfLISODOpjFPbHbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：PaliGemma 2★PaliGemma 2 是 Google 推出的新一代视觉语言模型，结合了强大的 SigLIP 图像编码器和 Gemma 2 文本解码器。该模型提供了 3B、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247497131&amp;idx=1&amp;sn=0dc1d5d382fe53ba58c2106ba022bb2f&amp;chksm=c055c685fb6ebdfc56938cd3230b53c81ca67f0c0cda6ed803601d897aae44a2c5a22b4af879&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 06 Dec 2024 10:02:58 +0000</pubdate>
       
 
     </item>

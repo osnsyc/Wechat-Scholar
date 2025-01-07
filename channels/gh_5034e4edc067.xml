@@ -60,35 +60,116 @@
 
 
 
+
     <item>
+      <title><![CDATA[2024年RAG：回顾与展望]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVcGjx2ic29DVDUJxlFBHPA9aajp6j2tFIYfWg5xSuiaQV6X2EDvWwe3wCXHSezBaF0OpogLTq4WqiaLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年，RAG（Retrieval-Augmented Generation）技术经历了从狂热到理性的蜕变，成为大模型应用领域不可忽视的关键力量。年初，AI的“无所不能”让市场充满乐观情绪，RAG</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446983&amp;idx=1&amp;sn=0040aeeaf34a5cd592e93c8593f3f452&amp;chksm=bfb612ac1a9f56e624ba632ab2fc1e2e46e0b3b3de33b14fff57836eccf8e4e2a76deff4f016&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 06 Jan 2025 14:42:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Baichuan Alignment Technical Report 论文精读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HAFUHkn3vxtDLTHYN5ws5MjBgVsDwsz13OU98oYy4CAQ2ot4yqm8q21P15U2hXQR5icxSCsOnWo6PzhIMicZWicVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前言最近在研究如果更好的制备通用 SFT 数据，baichuan 这篇文章对通用 SFT和 RLHF 两大技术进行了全面，个人认为非常具有参考意义。Baichuan 将对齐划分为三个阶段： Promp</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446983&amp;idx=2&amp;sn=c450004b05635a0feceb8d30c3ec2386&amp;chksm=bf052f44777904ef508a4512faa19f9642a258a5733f0ec4dfb4b33238484e259b897b82ad31&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 06 Jan 2025 14:42:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[工作近五年，谈谈各类公司和部门的区别]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/s7YKINJYHDAykAXrsvPIPrLDsOtkpxv2Lb1Xyr1La7ibiarAwALhguhbaKhqH6eORzNRSsKMPvSMpiagboICR0eNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>从实习到工作这些年，我曾在两家外企、两家国内互联网、一家初创公司和一家券商工作过。其中包括Top外企和Top国内互联网。整体下来感触还是很多的，以后可以多分享给大家。国内互联网 VS 外企 VS 金融</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446983&amp;idx=3&amp;sn=8b121dc43d2536bec13b530ab79de9da&amp;chksm=bfc1ba6143963c3b1a5ebe49d481ebe5e8e817a9795671b0769136e785f1a1b399784700d08e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 06 Jan 2025 14:42:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[[vLLM vs TensorRT-LLM] ：系统调度schedule比较]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLL41WHgwWVzraBAS0f5nGfQYLbUbF6ZTZk2hbkUHricxWTx9EnWPPIiaiaEgKgibdB8cuH8fzhZcarOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：oldpan原文：https://medium.com/squeezebits-team-blog/vllm-vs-tensorrt-llm-4-which-scheduler-wins-2dc</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446983&amp;idx=4&amp;sn=f424c12ac6984dc8573a03553f3bacfa&amp;chksm=bfd0a720b85c8745f5105b96cf606432d2fb1db48eb5c21c5993f269a0854fa6c26bff42e30f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 06 Jan 2025 14:42:45 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[千问LLM之LLM的特工行动：工具召唤功能实战案例？Agent 到底是什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iabUOs2OBUhTJchV1800lWEhIq8F6xhCBBmI7mrYULAlSl0oCbTL3shIUt5ic9JRFtYZSMek7jTNicib53iakDz9dSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>智能体Agent新鲜吗？并不新鲜，因为我们之前处理LLM的输出的时候，代码中也会有一些判断是否可以采用LLM的输出，还是需要调用别的信息。不过Agent把之前hardcode部分的调用变为自动决定调用</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446983&amp;idx=5&amp;sn=1efe337727fabff388538f202ca643c3&amp;chksm=bf75488760c6dd81cf85431826b6c4b1de30495a9c8f5bf88c0e0ad6e62453485fc954e5a4c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 06 Jan 2025 14:42:45 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[从infra的视角聊聊DeepSeek-V3]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKFPuSXXOqRGlq1EfNkNMBDBYJtXnibOFH13QDg4Yb7Nar0t8m32Jic5EaDhlAv6WQvvSnEdfqMDicnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>看完技术报告，从infra的视角分享一些个人看法，供大家讨论。首先，训练超大号的MoE模型，仅使用两千张H800加两个月的时间，就能达到如此好的效果，这点实在是太强了。只能说实践出先知，从DeepSe</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=1&amp;sn=bd9d7b796f7fc6b60e92d9b0b38c6e2f&amp;chksm=bf34b1f360fa2a9d480c398fee7e01000d06e709885fe631a20869dd7b08104b0e2b2b330bc6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[文末赠书 | 技术人的年末书单，这10本最受欢迎！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKFPuSXXOqRGlq1EfNkNMBDEZAfJicBOdh5fXG4TbSiaWiaw6KClDGtFm2YyNQuYG3axNhLCvtlia3Ohg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一年过去，我们如何勾勒自己的2024？这里借用一位相熟多年书友的回答，“认真阅读，好好践行。”这种对阅读最朴素的认知，不失为抵抗现实焦虑的一剂良药。我们结合销量、口碑，阅读趋势，精选出最受欢迎的10本</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=2&amp;sn=f879024a5dc3adaa09e9304da8311b92&amp;chksm=bfc4a980017d614334f1b2a1fe13197f97b56a4fd4a21845817084f031fc8605fc4b012bc06a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[图解Megatron TP中的计算通信overlap]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMbLJgBKf7TGLiazdyylqtZemA2Wdgkq4UL3L5GnDtspUWacNbT6EiaAkWrTARBTc2EyIqu2k5WDkyA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章想来探索Megatron中实现计算通信overlap的方法。具体来说，Megatron的dp、tp和pp部分，都有可以做overlap的地方，本文探索的是tp部分（更准确地说是megatron</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=3&amp;sn=65f3f848aa069cacd01e79539d498a16&amp;chksm=bf793bf53bd90f68bca95259fad07a6da881e9d997e19b2ad77b39ea3797f0982798824c1c46&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[曾经火热的Graph Embedding和GNN在推荐系统上还有前途吗？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/7YJVBU9FXkV9af0b3e7IG34IZkiaINIwkBr1CIHw9AlZfgtclYugpiaWSLUKIwSiatorG0YqxdHSEuvElNUg5wKyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>曾经火热的Graph Embedding和GNN在推荐系统上还有前途吗？前段时间回答了一个问题 为什么最近几年，没人在推荐系统里去玩 GNN 模型，GNN 是凉透了吗？ 感觉大家还挺感兴趣，这次专门开</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=4&amp;sn=fa134c2331fb054b217310dadaa66d00&amp;chksm=bf2047190bab9716998bc38ecc3451d85135c90be4dbfae48fd7e76837a172783458593178f2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[千问LLM：什么是 Sharding? 之ZeRO 优化（Zero Redundancy Optimizer）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iabUOs2OBUhTJchV1800lWEhIq8F6xhCBBmI7mrYULAlSl0oCbTL3shIUt5ic9JRFtYZSMek7jTNicib53iakDz9dSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>还记得小时候第一次看到《西游记》中孙悟空遇到一堆妖怪的时候，都是拔出一根毫毛变成成千上万个小猴子，把小妖怪都分给每个小猴子，这样大大缓解了美猴王的压力，但是也可能会增加孙悟空赢得胜利的时间，需要等这些</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=5&amp;sn=a6b326f587bf900a7b6e771ef2ea83c5&amp;chksm=bfe889c5c50a1f5e839fc052e93b89380fa9efc0322254fd722ad44d9e58c1f31876aafb6d1c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -359,166 +440,6 @@
       
 
       <pubdate>Tue, 31 Dec 2024 11:03:19 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[硬核！实现千亿模型训推全流程的LLM开发利器！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLR0wpDWC4mwRhDr9hFWrqSoj1uLSNEJsVJfZNb35S9vK22f3pM1zR4MJMUFziby5nq22Fciacaiaecg/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景与简介大语言模型的快速发展对训练和推理技术带来了更⾼的要求，基于飞桨框架3.0版本打造的PaddleNLP大语言模型套件，通过极致的全流程优化，为开发者提供从组网开发、预训练、精调对⻬、模型压缩以</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=1&amp;sn=bdc05dc7f2ed832eb2c95fa24727fdd9&amp;chksm=bf0a7fd66ced4e9a9768ff8059559fe9059f83f8c5bd314f06accea21fa468932b3bf1106f36&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[我与vLLM的2024：清华大佬的vLLM开发之路]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLR0wpDWC4mwRhDr9hFWrqSmRCW8kqICx8StlkO9DbMlpCkqofan4lEhgxFKk4orCsxBicpzQrnceg/300?wxtype=jpeg&amp;wxfrom=0"/><p>我与vLLM的2024,作者游凯超https://zhuanlan.zhihu.com/p/14430956145编辑：ChallengeHub楔子我与 vLLM 的缘分，还得从五年前的那个暑假说起。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=2&amp;sn=9df093155533ed2a468bef7825648ada&amp;chksm=bffd5da451fdcbef5b411cb83b0ea2d09e2382628713a4770a93934b05f7f19d2997b583d2bf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Qwen2.5技术报告解读：18万亿token训练]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hq9ANWCLRic0bEWUiaNibqDMxj3ibC8q4WDrAgVHXgbcYZVCM9EqVyH0ia49qBibdjGhIMu8j5BFxwflj5EctawlqH5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言大语言模型（LLMs）的发展日新月异，每一次重大更新都可能带来性能的显著提升和应用场景的拓展。在这个背景下，阿里巴巴院最新发布的Qwen2.5系列模型引起了广泛关注。这篇技术报告详细介绍了Qwen</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=3&amp;sn=0ad5fbc44e90611f4f45affc9eea8e9c&amp;chksm=bf255a85e7681af55fd1d492a354fd4e04bc45045c6b6de659cfc30bf4318f7836930f4ff680&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[精读DeepSeek v3技术文档的Tech&amp;Soul Seek]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yToxjhYT5ibazsnejGIKQYMS0klsX5yVt6LpL9BRFrZFMXAx78xibIialjpFpOQRyZ0BtTB40iaic0OcMhTPDbF9HUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>2024年12月26日，DeepSeek AI正式发布了其最新的大型语言模型——DeepSeek-V3，直接在外网刷屏…每秒处理 60 个token，比V2快3倍！MoE架构，6710亿参数，激活37</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=4&amp;sn=52430883c6c7c0f84d1de14179854347&amp;chksm=bf4453da567ea231eaa3926ff7c324214e0ec584b42d2d70dc78281470c3cffa206616a1b438&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Building effective agents笔记]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QLDSy3Cx3YKyUY7toUQSEYMbASsgib1lmmnwI1bvPjud8QnvRJrwZD2fmkU9OdXlkmLYlxIu8ZTHFwWKm8PE14Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近阅读了 Anthropic 发表于12月20号的一篇文章《Building effective agents》（https://www.anthropic.com/research/buildin</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446832&amp;idx=5&amp;sn=b89ea361a159254fa7f5d73d5e783327&amp;chksm=bff2e1c1b6c424adffac265343e71191ba2d557c57860f4893edc6ce09978bb60290ab8d8b0d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 30 Dec 2024 10:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RAG最新进展FlashRag! 复杂场景下高效开发与评测RAG框架FlashRAG-Paddle]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLR0wpDWC4mwRhDr9hFWrqSUO1b9ia5Yw6gsS31a0W0C9CEzgrSPRWZUcywksRiaKC5icOyu6z6XxnTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research作者机构：中国人⺠大学高瓴人</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446820&amp;idx=1&amp;sn=f72b64a679321fa5017630eb50b708e9&amp;chksm=bfe3f02610f871f3858c895fad29ad016db38956016cb06ccca0728e4acbbb69e178a14f362b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Dec 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[雷军挖了个95后AI天才少女做大模型，开出千万年薪！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIBz0g3En3bx5zQg8MQojp6Isn7Iw8vEZobPibZs3aoKgdt2yeL7G4UVHxsfLbMCKeaQghygqgbgmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源：51CTO官微、科技每日推送、第一财经雷军，亲自挖人了。知情人士称，雷军认为小米在大模型领域发力太晚，于是亲自挖人，重金招募能够领军小米大模型的人才。而且雷总已经初战告捷——帮小米赢得了 Dee</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446820&amp;idx=2&amp;sn=da17d7ae78273ecd5c9e747126bc0267&amp;chksm=bf86170c298e5f0dd2009653efcd81fadc6dae782e1947cbbd3f6f179cf6aa178633ac97a0b4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Dec 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[万字长文梳理 2024 年的 RAG]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/tfic1yF9PPI87NpcpWGkSJZWxpDicQeaicFue24dvpfsGO547VmaXW0aBpsnVDcctrK1LibDYpQJhJicOyTesCmo96g/300?wxtype=jpeg&amp;wxfrom=0"/><p>在已经过去的 2024 年，RAG 的发展可以称得上是风起云涌，我们回顾全年，从多个角度对全年的发展进行总结。首先用下图镇楼：对于 2024 年的 RAG 来说，有一系列标志性事件：关于 RAG 的争</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446820&amp;idx=3&amp;sn=7352659c16db623d7d8c99bcd139fd37&amp;chksm=bf5c61a04c618ef33bf79dfa92470e0716bff9c41665724b7ca0e430c37e7f850d3bb9c7d809&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Dec 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文带你全面了解 RAG 核心组件]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVc6RsobsfWDlTAK4GYysQtWqy6OSkaHJibiclt056fNj8ZKpY8RrFibwEuwslP6PA0M2ib1GibjtsU4dgw/300?wxtype=jpeg&amp;wxfrom=0"/><p>检索增强生成 (RAG) 流程正在彻底改变我们与大型语言模型 (LLM) 的交互方式。RAG 不再仅仅依赖这些模型中预先训练的知识，而是让 LLM 能够实时访问和利用外部知识源，从而产生更准确、更相关</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446820&amp;idx=4&amp;sn=8d1b0a4322552a6500618c6d262fc85d&amp;chksm=bf2052c146e4482785e5a2fed092ec991528cd5e9af2263acaac8ab721370326529525ea05e4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Dec 2024 04:10:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[千问LLM：AI界的“节食”计划]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iabUOs2OBUhTJchV1800lWEhIq8F6xhCBBmI7mrYULAlSl0oCbTL3shIUt5ic9JRFtYZSMek7jTNicib53iakDz9dSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>01—什么是Dropout?先从概念上理解Dropout, 想象一下，你正在参加一个宴会，面前从左到右摆满了各种美食，目标是吃到尽量多的全部美食。你会怎么做？你肯定不会一直吃一种美食，停留在那里不走，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446820&amp;idx=5&amp;sn=1c33faaa8d54560e0cdc7310b8a41072&amp;chksm=bfb5caa370d6e8984647c99d94126a05f9b45586b08fbabb56b1a358c4ccd6ab572704f28456&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 29 Dec 2024 04:10:00 +0000</pubdate>
       
 
     </item>
