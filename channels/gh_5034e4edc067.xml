@@ -51,34 +51,114 @@
 
 
     <item>
+      <title><![CDATA[Corex: 通过多模型协作增强推理能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJvjcAz7IqwFQ1CNPLMrEaTUwf4oUAiaf7YToOpMnVoUicOPGTZOFPy0TskbA0vj223VMPuaXdqnM3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration论文地址：https:</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447095&amp;idx=1&amp;sn=6298b4d438fac0769886ed1dd5456276&amp;chksm=bf8e674d47ec72a2d1357caa1925e7af0af75c2a34ed9bbbfdaf14590c7a06c4f1105f254a14&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 11 Jan 2025 13:39:18 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[分块的艺术：提升 RAG 效果的关键]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdZj9wBAKsp4a6emxwyuQC9icyOgmYAc0GUTs4iaZnfdaouPibZuicpHEcbId4UM7jG0sRaKlRbao0Ntw/300?wxtype=jpeg&amp;wxfrom=0"/><p>聪明人往往很“懒”，但这种“懒”其实是高效的体现。他们总能找到解决复杂问题的最佳路径，用最少的力气获得最大的成果。在RAG系统中，这种高效的实现往往是通过“分块”来实现的。你可以把它想象成把一本厚书分</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447095&amp;idx=2&amp;sn=f8340e650db6475b9a3131208c4b80db&amp;chksm=bf2926bd0008f7f47f8ff8532beea227820b6633f559914ce07e9fc1042651cd759b0f5361e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 11 Jan 2025 13:39:18 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[o1类大模型的过度思考: 2+3=？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagcf3kfqIMv2aF3dJOvKWIb6SBznv5kN3Y4Yt9ZvD4hLMS4bgMNxQdow7guaK58nvCl9EI26cbJYw/300?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯AI Lab和上交发现在面对一个基本的算术问题“2+3=？”时，o1类LLMs为何会表现出过度思考的现象。这个问题虽然简单，但它揭示了当在处理复杂任务时，这些模型是否真正高效和智能。下面一起深入剖</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447095&amp;idx=3&amp;sn=fd570d9ca37bdbdf0f3f7f21d2512754&amp;chksm=bffaa10ff660f0c92643c5ad723a9dec0840388ac428d15d9ff8cdbc4a2c87affaa215c1d0ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 11 Jan 2025 13:39:18 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[生成式推荐最新进展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0Or4ugWRYXw819LYsAyk9C3xTyUFNaU4wkmQtIRmPcYDn8uPLFYDPQonOzssSIPldaAGpibYk6RqEWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜刘恩泽机构｜中国人民大学研究方向｜推荐系统随着大语言模型的迅速发展，生成式推荐作为一种有前景的新范式备受关注，因此本文聚焦生成式推荐领域挑选了十篇最新的相关工作。文章也同步发布在 AI Bo</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447095&amp;idx=4&amp;sn=1d4bf35561f128fcd419126cfa00e975&amp;chksm=bf4057004a9095319db2801bd13df052942cafcdf6d5a2da7dee7ab0ee4aea3365b8477b2628&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 11 Jan 2025 13:39:18 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[PyTorch 实现 Multi-Head Self-Attention]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BrtBjG6XSzJoo7gHm1BSPsDGh8UWtbJrTbvDJF0EagJs3eUhpQ569rZYPVqCoGhr94zyiaQvxDPVcSoibTdHUQ8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景在 AI 相关的面试中，经常会有面试官让写 self-attention，但是因为 transformer 这篇文章其实包含很多的细节，因此可能面试官对于 self-attention 实现到什么</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447095&amp;idx=5&amp;sn=e491094c34c0abef4a7a2343f173a53b&amp;chksm=bf51add8d5da3b6a2b7dbb94f6ade5413986fe38e08c8e56b11e5452ad0fb9afa6eb0a7d731b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 11 Jan 2025 13:39:18 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[突发！美国AI芯片限制最后一刀！英伟达AMD全球禁运，只配5万块]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIpua4V2lSLMSBgqfibRptP7w0bv7zOPkyaNkOAkQISzzRTz5HHaoaL4CBxjWSGPOsJtcZt2vc1jzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自 | 新智元编辑 |Aeneas 好困就在离任前几天，拜登政府再次决定，对英伟达AMD等AI芯片的出口，进一步实施限制。而这也是他为了防止美国技术落入中国手中的最后一搏。知情人士透露，美国希望在</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447058&amp;idx=1&amp;sn=515f4805e8938874b16f561e15506c75&amp;chksm=bf7ba2a7d10386507459905caf0c384008a451217923d18ad19cb1a84db7df80e4add07516e6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 15:34:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[老婆饼里没有老婆，RLHF里也没有真正的RL]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIpua4V2lSLMSBgqfibRptP7oiasnfnO1hCdiajV7lRNaOrkmBw2cOK1LclVNDiboxyjMdgjrJXcsQ0pQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：Atlas Wang，编辑：机器之心分析这个问题是为了弄清楚LLM能做什么、不能做什么，以及为什么。老婆饼里没有老婆，夫妻肺片里没有夫妻，RLHF 里也没有真正的 RL。在最近的一篇博客中，德</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447058&amp;idx=2&amp;sn=732e7998615b88470a89325b7288e4dc&amp;chksm=bf3bbcf823191d45eb9c507b92da6578a921596e1d999254f5579bb061fdd8c3cd7e6ddd2f49&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 15:34:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[关于RAG你不得不了解的17个技巧]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVcof43sE3D2aNwmW0qpNY9HUQlENO6AHG8Eiak0qxYTxKAWOLysgicrRq8CDu3hjhXV18y8ibbaibSRyg/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近在写文章，想补上去年RAG（Retrieval-Augmented Generation）遗留的一些坑，希望能分享一些RAG的技巧帮到大家。还是那句老话：构建一个大模型的原型很容易，但把它变成一个</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447058&amp;idx=3&amp;sn=b93bc92c23f44cd0f784711bd53c8d75&amp;chksm=bf31ad64a6ff21449068ab191944b09c5ac7c5b406b5dd2c7205c940913d70ab243ab849b0a2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 15:34:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Search-o1：赋予推理模型主动搜索的能力]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lBNd8z3tqaZ7b5iagMRyWtTJIfOcfWqMXO84yJL10ANx61aY4REXCfPKCjseGOv2nhMfwn5SzeHRQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/17527068532 Paper: https://arxiv.org/abs/2501.05366Github: https://g</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447058&amp;idx=4&amp;sn=306de5ab7dd936d5599eca8d66d1839f&amp;chksm=bfe19ff86611193dbe6454a2857a79e2aa29fc3476146b214d3cd1764c52ab88088e1e2a4a73&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 15:34:03 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[增强大模型的推理能力：从思维链到连续思维链（中）]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9MSPBmHaWGwyKFY6DOxInK5rqfAsOggeOLW1hheGREicbcLv5jImYfdrCI4gzib1zZwzEzKTvmkiboa0QAgYnKibyA/300?wxtype=jpeg&amp;wxfrom=0"/><p>接续上文《增强大模型的推理能力：从思维链到连续思维链（上）》    5语言模型进行推理的底层逻辑    前面我们提到，大模型回答问题有两种场景：一种是提示词上下文中没有“解题思路”的提示，也没有“让我</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447058&amp;idx=5&amp;sn=773790c9e306eb41ef8a6e921a6f0c40&amp;chksm=bf1b29fc9de18bd4dd2ed90c63eba65866c22b8e1f99e969b8a8f7c6d945b4898f2662ba1ab2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 15:34:03 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -253,86 +333,6 @@
       
 
       <pubdate>Mon, 06 Jan 2025 14:42:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从infra的视角聊聊DeepSeek-V3]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKFPuSXXOqRGlq1EfNkNMBDBYJtXnibOFH13QDg4Yb7Nar0t8m32Jic5EaDhlAv6WQvvSnEdfqMDicnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>看完技术报告，从infra的视角分享一些个人看法，供大家讨论。首先，训练超大号的MoE模型，仅使用两千张H800加两个月的时间，就能达到如此好的效果，这点实在是太强了。只能说实践出先知，从DeepSe</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=1&amp;sn=bd9d7b796f7fc6b60e92d9b0b38c6e2f&amp;chksm=bf34b1f360fa2a9d480c398fee7e01000d06e709885fe631a20869dd7b08104b0e2b2b330bc6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[文末赠书 | 技术人的年末书单，这10本最受欢迎！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKFPuSXXOqRGlq1EfNkNMBDEZAfJicBOdh5fXG4TbSiaWiaw6KClDGtFm2YyNQuYG3axNhLCvtlia3Ohg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一年过去，我们如何勾勒自己的2024？这里借用一位相熟多年书友的回答，“认真阅读，好好践行。”这种对阅读最朴素的认知，不失为抵抗现实焦虑的一剂良药。我们结合销量、口碑，阅读趋势，精选出最受欢迎的10本</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=2&amp;sn=f879024a5dc3adaa09e9304da8311b92&amp;chksm=bfc4a980017d614334f1b2a1fe13197f97b56a4fd4a21845817084f031fc8605fc4b012bc06a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解Megatron TP中的计算通信overlap]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMbLJgBKf7TGLiazdyylqtZemA2Wdgkq4UL3L5GnDtspUWacNbT6EiaAkWrTARBTc2EyIqu2k5WDkyA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章想来探索Megatron中实现计算通信overlap的方法。具体来说，Megatron的dp、tp和pp部分，都有可以做overlap的地方，本文探索的是tp部分（更准确地说是megatron</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=3&amp;sn=65f3f848aa069cacd01e79539d498a16&amp;chksm=bf793bf53bd90f68bca95259fad07a6da881e9d997e19b2ad77b39ea3797f0982798824c1c46&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[曾经火热的Graph Embedding和GNN在推荐系统上还有前途吗？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/7YJVBU9FXkV9af0b3e7IG34IZkiaINIwkBr1CIHw9AlZfgtclYugpiaWSLUKIwSiatorG0YqxdHSEuvElNUg5wKyQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>曾经火热的Graph Embedding和GNN在推荐系统上还有前途吗？前段时间回答了一个问题 为什么最近几年，没人在推荐系统里去玩 GNN 模型，GNN 是凉透了吗？ 感觉大家还挺感兴趣，这次专门开</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=4&amp;sn=fa134c2331fb054b217310dadaa66d00&amp;chksm=bf2047190bab9716998bc38ecc3451d85135c90be4dbfae48fd7e76837a172783458593178f2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[千问LLM：什么是 Sharding? 之ZeRO 优化（Zero Redundancy Optimizer）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iabUOs2OBUhTJchV1800lWEhIq8F6xhCBBmI7mrYULAlSl0oCbTL3shIUt5ic9JRFtYZSMek7jTNicib53iakDz9dSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>还记得小时候第一次看到《西游记》中孙悟空遇到一堆妖怪的时候，都是拔出一根毫毛变成成千上万个小猴子，把小妖怪都分给每个小猴子，这样大大缓解了美猴王的压力，但是也可能会增加孙悟空赢得胜利的时间，需要等这些</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650446932&amp;idx=5&amp;sn=a6b326f587bf900a7b6e771ef2ea83c5&amp;chksm=bfe889c5c50a1f5e839fc052e93b89380fa9efc0322254fd722ad44d9e58c1f31876aafb6d1c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 12:08:32 +0000</pubdate>
       
 
     </item>
