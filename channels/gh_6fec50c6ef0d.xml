@@ -41,11 +41,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[InfoBatch:通过无偏数据裁剪来加速并实现无损训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvoI2Fz8FIOXjzAOt7B9M26uibpYPJp2oCLZCS5kU9MRp6R36lF5NbDHias1I1DFcXlgibDUImoSGlevg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读作为一个即插即用且架构无关的框架，InfoBatch在分类、语义分割、视觉预训练以及指令微调任务上始终能够获得无损训练结果。摘要数据裁剪旨在以较低的整体成本获得无损性能。一种常见的方法是过滤掉对训</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498472&amp;idx=1&amp;sn=804589202fbe15dc92bba63dfcea6e57&amp;chksm=c1e7998771d8c52f92947bbc601eb273ad44baae1d78cf02790ab2d2db45a779fbd9c1989cde&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 02:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[DEIM: 在DETR中使用多对一匹配的策略加快收敛]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvrwkFiar72NrvAhNKXpcxwG9QxVicN0xnphYOWP3TmjCksH1X8CcqHgb8tLD3R2uhUVKYWvIwbZFG9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读与RT-DETRv2配合使用时，DEIM仅需在NVIDIA 4090 GPU上训练一天就能达到53.2%的平均精度（AP）。摘要我们介绍了一种名为DEIM的创新且高效的训练框架，旨在加速基于Tra</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498443&amp;idx=1&amp;sn=cabe520445f6798c1b832320a585c08f&amp;chksm=c1aa27898ed909094f8f6ea6f79e05c08490528673ab9d44088a3eea44e5f16f7caf0cd6fff8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 03 Jan 2025 01:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
