@@ -49,33 +49,93 @@
 
 
 
-
-
-
-
     <item>
+      <title><![CDATA[从谱范数梯度到新式权重衰减的思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8hUZy9ORGn0zqpSL9f4KD37BaXuicJu1X0buyBkJp1u7qewKHoZkxGCMgMFnOVhUjaCrRCDFOesw/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 苏剑林单位 | 科学空间研究方向 | NLP、神经网络在文章《Muon优化器赏析：从向量到矩阵的本质跨越》中，我们介绍了一个名为 “Muon” 的新优化器</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247698124&amp;idx=1&amp;sn=74a39d10d06802a44f91e04854c78eeb&amp;chksm=97aad1ab669acfcbaed9655d47f83ef223f59ecec8488b89036e9dc8588fdd05d695cceee5fb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 15:39:29 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[过程级奖励模型遭遇“信任危机”？PRMBench精细化基准揭示LLM强大推理幕后功臣的潜在缺陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8hUZy9ORGn0zqpSL9f4KDYudjSJVdbzUrYPe8yLb7OEhuicOPjU9iaX4SHIKiaV67LNj2fEmnmGRzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 宋明阳单位 | 复旦大学博士生研究方向 | VLM/LLM Reasoning最近，模型在长序列下的推理能力得到了大幅加强，出现了诸如 o1，Gemini</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247698124&amp;idx=2&amp;sn=b98c741e652323249c22001848c147b3&amp;chksm=9782c972b0843955ddf37b6c87bff288099219f1212c0c35ed975d126c9cafd66b579b86fd1e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 15:39:29 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[直播预告 | OpenKG年度论坛：大模型时代的知识图谱新发展（2024）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8hUZy9ORGn0zqpSL9f4KD8tibleKGrR4lWAyVxfUpWVax3ibhO1vLzKTGgokVqmUgAzC3xaMHYhNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>直播时间：1月17日 13：30-15：20论坛信息OpenKG将于2025年1月17日举办主题为“大模型时代的知识图谱新发展”2024年度论坛。论坛由三部分组成：特邀报告部分特别邀请了来自苏州大学的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247698124&amp;idx=3&amp;sn=fe968712999e26aa5b951a9b29421cf5&amp;chksm=97bfcdb17b74025e31a94e08932ddc865e695dadc80fd5f58417913a4ef70ff83541d1001645&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 15:39:29 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[广州内推 | Cider招聘搜索推荐算法实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm8hUZy9ORGn0zqpSL9f4KDI9lLWm0D9ce6mU0r4Ny1TevCSRj1mzYqCd6WHFicl2Wv0l7GTVvfcRA/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！CiderCider是⼀家来⾃美国洛杉矶的全球化时尚科技公司，专注时尚电商领域</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247698124&amp;idx=4&amp;sn=a1f6ec013e9637669db182b62f03e18b&amp;chksm=979b4de3fcb08dc51c01e5f04da8dcf7ff286f956a59ba18902e5f4fa90b14dc715cc1903140&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 15:39:29 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[KV cache压缩时如何权衡Token和Precison？北大、华为工作发现保留更多的Token远比更多的精度重要！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmWe5kaCQ6l2vw3IweTq7Sq8ia4LBpicRNpiaNqrXycicmvEVEXrs74BCQrq5vSMBrrGWiblIdhaxW4cKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 张介宾单位 | 北京大学计算语言所研究方向 | 推理加速论文标题：More Tokens, Lower Precision: Towards the Op</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247698086&amp;idx=1&amp;sn=30933535b0cebd532b8d2cef7a1d341a&amp;chksm=97176166910b5d9cf7fabf4581d9d82098f27d2928ed772cd857059f89eed81d37bad1ab10ad&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 10:18:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[AAAI 2025 | 川大提出首个基于介观表征的图像篡改检测新范式，定义IML任务SOTA新高度]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmWe5kaCQ6l2vw3IweTq7Sq0uv9PcRGtmDeKPj37H5mv14OSjNRKkEu8M0nVBlDem4hu4ibV40UjPg/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：Mesoscopic Insights: Orchestrating Multi-scale &amp; Hybrid Architecture for Image Manipulation Loc</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247698086&amp;idx=2&amp;sn=55a0b2eacbbe5a0d89a9c7c53bc9884f&amp;chksm=973979f7b38842403adee772ffc68ed78a6fcc4ea42b3bfb8a95f977924ad9f07093dcaa6487&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 10:18:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[科研实习 | 华中科技大学计算机学院张晓今老师招收可信机器学习方向科研实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmWe5kaCQ6l2vw3IweTq7SqicGFRs4rmXgKw6weibQFdAjDPO3w07TxVWf1AanjvQ7v0EUcGbp4EbaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！华中科技大学华中科技大学，简称华中大、华科大，坐落于中国湖北省武汉市喻家山麓，</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247698086&amp;idx=3&amp;sn=39ffe11ae4270e218e51f21c97ef44aa&amp;chksm=975e0e8be39a9ae479a4ca4daeb86206302b187f2254099428196d603c19ce277b461d2bdaa0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 10:18:17 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[北京内推 | 微软DKI大模型团队招聘大模型方向研究型实习生]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmWe5kaCQ6l2vw3IweTq7Sq7YntsDef19QAFiaq2xytibzibtxWsCp2icgXzroz5g6eWATkGAol9DjdXA/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！微软微软Data Knowledge Intelligence团队，前身为微软</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247698086&amp;idx=4&amp;sn=f7cf651f1c9b670c290b8639a3b34c25&amp;chksm=974f19474d83098907bfcdbecf89c2c84104eeef490864142d06331ccca724494fdba9ffc54f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 10:18:17 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -138,198 +198,6 @@
       
 
       <pubdate>Tue, 07 Jan 2025 05:33:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CVPR今年这情况，很严重，大家做好准备吧]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglFvg7YZkSvpFk1hn7dJB8EvpJVLq7sIgqEqRsFMg0huwrxibcgAfPALym7hDcTYrYDkVZ23hsMXvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年，计算机视觉相关的会议和期刊竞争都异常惨烈！不止CVPR这种顶会，普通的CCF-A类和BC类会议的发表难度，也增加的不是一星半点！很多同学经常抱怨 科研真是太难了，竞争压力大，导师不给指导、不开组</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697865&amp;idx=1&amp;sn=52745a36f95702d85b03d0cba3316f07&amp;chksm=9715d4feebc8c9600893b26645545b4db0ec41a3bb0b174e81a940ebc138f1cf187842647637&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 Jan 2025 05:34:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NeurIPS 2024 | 通过条件似然差异对文生图扩散模型进行成员推理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglFvg7YZkSvpFk1hn7dJB8EcYlyWuxlYpWGLSRicIcx5lRYLYf7vSs2x4iba1kLHib3yVwicXLp5okXGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文是 NeurIPS 2024 入选论文《Membership Inference on Text-to-Image Diffusion Models via Conditional Likelih</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697865&amp;idx=2&amp;sn=be7b119e6bc87685e520a2dc35e389a8&amp;chksm=97f133b329092178ea215cf5b19aa11a8e2f9a6e9baa9d8a06ad6f2b3a798fc385f4410592f3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 Jan 2025 05:34:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[顶刊TPAMI 2024！北大提出实用、紧致的图像压缩感知网络PCNet，代码已开源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglFvg7YZkSvpFk1hn7dJB8EicD8dwYUSeQUJf6rS0IafZv6B7ias55DTYbgBJYjZuUWj1pyeVCpOibcA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 陈斌单位 | 北京大学博士生论文标题：Practical Compact Deep Compressed Sensing论文作者：Bin Chen（陈斌） and Jian Zhang†（</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697865&amp;idx=3&amp;sn=ca1b1da41ea2a9655b33d1aac2d6b989&amp;chksm=97d4dd048906a22974c0c0bd7a0e02d5c8fa4a5ff9a0da6809dd6361227969243eb445a87f2e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 Jan 2025 05:34:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[上海内推 | 小红书推荐算法组招聘推荐算法实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglFvg7YZkSvpFk1hn7dJB8EYeyOGjlZAAncqLIX1W3WWh0bLpnVC4tGrljhGeWAaTLlB7lsjzKoeQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！小红书小红书是年轻人的生活方式平台，由毛文超和瞿芳于2013年在上海创立。小红</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697865&amp;idx=4&amp;sn=6d21044bfc94a4d93b7c4deb69dfc09d&amp;chksm=97cad649bc02d1170696939972ad0ed16ac6f7b5c396aa5048063abd663f9e72be889a193703&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 Jan 2025 05:34:41 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AAAI 2025 | UC Berkeley、阿里提出NMT，四行代码解决搜推任务中的目标冲突问题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnjPG4IBvxibuGu1RKE0PqRW1LcNDY4vhPibT4OvqwGrHWw8CYeVZFEMKMMLCpoSpdxtI8R3n4mqgWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 咕咕背景：工业界中的目标冲突问题在工业界实际的搜广推系统中，一个模型通常需要兼顾多个目标。例如，在通用搜索场景中，需要兼顾 CTR、相关性、商业化效率等目</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697821&amp;idx=1&amp;sn=4c9baa2f86586d077716b913fa36538e&amp;chksm=97f689e76f2b730992c911dd6549d730bed094261d169fb42ab930d984ba43e2f20d8a147b58&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 05 Jan 2025 15:48:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从文字到视觉：EvalMuse-40K如何评价T2I模型的进化]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnjPG4IBvxibuGu1RKE0PqRW3ibaSc37QRyYZoK8SHULjaLJYpRkUjQXBkmX4Itic359UmhRiaUtPk4hA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 李重仪单位 | 南开大学教授研究方向 | 计算机视觉前言近年来，文生图（T2I）模型技术迅速发展，催生了 Dreamina、DALL·E3 和 Midjo</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697821&amp;idx=2&amp;sn=f6caf550e4a57e4a09d6e1220cf19d43&amp;chksm=97527f64a70649ea48833db4dcba331b7c36bc97ef485baaa10214278ce055c593a8796dbe3e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 05 Jan 2025 15:48:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[浙大、南栖仙策推出SMAC-HARD，多智能体强化学习算法评估Hard模式来了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnjPG4IBvxibuGu1RKE0PqRWtSib7KJspick3f0JAYOwgQBUcrKDkfxATYl2ZBvsGrU2p3mHAWbDcWQQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 邓悦单位 | 浙江大学博士生来源 | 机器之心本文作者来自浙江大学、中国科学技术大学、中科院自动化所和南栖仙策。作者列表：邓悦、喻言、马玮彧、王子瑞、朱文辉、赵鉴和张寅。第一作者邓悦是浙江</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697821&amp;idx=3&amp;sn=a908d97e67965e180cb1582eae0f0ff7&amp;chksm=97af1e8d07d6a75ca48bbcc0843d1d8ce3fe30edbf7ba97f38248be3010ae8d6b1184aed89fd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 05 Jan 2025 15:48:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[博士申请 | 香港中文大学（深圳）黄建伟教授招收人工智能方向硕士/博士/博后]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnjPG4IBvxibuGu1RKE0PqRWZ0R5ZDbRATa9cvJtBx2N2FTXzibANsC7zCFOer4V7X5FOiaQJpSjMOUw/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！香港中文大学（深圳）香港中文大学（深圳）是一所经国家教育部批准，按中外合作办学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697821&amp;idx=4&amp;sn=90e7d32ff2103412e56570c14f283f74&amp;chksm=9703ac517287048cbe9ff32e2e7180ac15a0875644f4e935e8acca95d1778e8a6d1b72850a04&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 05 Jan 2025 15:48:09 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从理论到实践，中科大、讯飞发布SocraticLM：首个实现苏格拉底教学法的智能辅学大模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkk8Jia7bKic6EnuUwxrIBia2mIkzoUmT4x7Ma6D2TpGs6w1Oh6TXBrib5lpmjNaEeod7LMuom0RHibPQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型的快速发展，其在智能教育领域的潜力被广泛关注。近日，认知智能全国重点实验室（中国科学技术大学和科大讯飞共建）发布 SocraticLM——苏格拉底教学大模型。通过引入“启发式提问”教学范</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697771&amp;idx=1&amp;sn=3b3ab6028654f9d5d93e08d2449049df&amp;chksm=97e7f04e24dbe7773a05860b4ef1004859360ba574a11940bd4ba755f592071b0c26941fd73c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 Jan 2025 15:54:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AAAI 2025 | SparseViT：以非语义为中心、参数高效的稀疏化视觉Transformer]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkk8Jia7bKic6EnuUwxrIBia2msR2iaRpsBWp7JvEibCtqOyyQIia2o41xWkL56cpVmuqj3uaJFBlhq5ibicg/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景简介随着图像编辑工具和图像生成技术的快速发展，图像处理变得非常方便。然而图像在经过处理后不可避免的会留下伪影（操作痕迹），这些伪影可分为语义和非语义特征。因此目前几乎所有的图像篡改检测模型（IML</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697771&amp;idx=2&amp;sn=2343013e0b0ac7b3fd521f1cdb9e8e86&amp;chksm=9704da8b6fbc749032f37b8ba7c532c990a96f6f5e33587f72c9142840ac3e405fe89671977b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 Jan 2025 15:54:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[科研实习 | 南方科技大学视觉智能感知实验室-腾讯优图招聘访问学生/科研助理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkk8Jia7bKic6EnuUwxrIBia2mlZ4IX77TQQHKKV6VYrqCKsbkOOpbBAHA2KNG7DRibrRFwyKTbVxRUiag/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！南方科技大学南方科技大学（简称：南科大）是深圳在中国高等教育改革发展的时代背景</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697771&amp;idx=3&amp;sn=edb62f069c632f69fc7bec1f4b3b3fc2&amp;chksm=97c07e5a5ba55f80fa8a940508835d03dbf0efbb5d4da8933510c529115528277e23ad3b8fa7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 Jan 2025 15:54:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北京内推 | 腾讯混元大模型团队招聘大模型方向算法实习生]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkk8Jia7bKic6EnuUwxrIBia2m83LVibpf70PdPVeMnbHAGYT5qxichDibGHYIziaBJ0PzsbkiclgTtAQE7qQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！腾讯腾讯长期致力于社交平台与数字内容两大核心业务，积极拥抱产业互联网，努力成为</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247697771&amp;idx=4&amp;sn=c7a20e5979a42c1bd41c6f86790660b6&amp;chksm=97a8d5ba27cd73d753a7eeadbb6dbead0ef351606cba7a2f14128043d6ac06cf8d84bdffb822&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 Jan 2025 15:54:08 +0000</pubdate>
       
 
     </item>

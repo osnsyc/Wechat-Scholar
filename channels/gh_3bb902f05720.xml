@@ -45,29 +45,97 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[纯卷积实现用于图像生成扩散模型？DiC：重新思考扩散模型中的 3×3 卷积]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqQownrnbaEwbMmiaasu4LkjhzXAlsFcIkVFz6G2bymqyn2nGCwLpTC24f5NMuBbDmDbCX2QgVWprQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 重新思考了 3×3 卷积这种最简单但是最快的模块，来实现基于纯卷积的扩散模型。 >>加入极市CV技术交流群，走在计算机视觉的最前沿本文目</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704223&amp;idx=1&amp;sn=1ebe3e25f069ca8deafd354f63f5aadb&amp;chksm=edfe7db46cac8290e3e182ebb9f64f29c21a372955813a4498dd6060f9a6b6653f325e74c661&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[突破瓶颈！北航&amp;ETH等首次将扩散模型完全量化至1bit！52.7倍效率提升]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqQownrnbaEwbMmiaasu4LkjwvNgr96l9ppyLHwmKicAcdHkicawKb52RqUqCdyWKCxwJ7oQCXU5ibE1Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨BiDM团队来源丨量子位编辑丨极市平台极市导读 将扩散模型量化到1比特极限，又有新SOTA了！ >>加入极市CV技术交流群，走在计算机视觉的最前沿来自北航、ETH等机构</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704223&amp;idx=2&amp;sn=46b89f586c13ada2468bd5ce544f3d58&amp;chksm=ed0165244e9c2de9f93800bb654a56d0c1f2b5ebae0e16332106ce4b72761b17f60712c3fa60&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[RLHF 常见的思维误区]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqQownrnbaEwbMmiaasu4Lkjg5ENc2qvtMvuJyNayPB9yP6tVX3ySzrB5KICpPsCEqRRjMYZA1QpvQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨ybq来源丨NLP工作站编辑丨极市平台极市导读 本文探讨了在学习和实践强化学习人类反馈（RLHF）时常见的思维误区，强调了RLHF与PPO等强化学习算法的区别，并讨论了</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704223&amp;idx=3&amp;sn=6ad5ebc7d755b138db6f47847ddc7273&amp;chksm=edd0c677295f2aad479d370e5b8cb5c354736456928f18f762b56fdbd429775f7e35e2195695&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[GAN归来：模型大幅简化，训练更稳定，逆袭扩散模型，AI社区疯传]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqQownrnbaEwbMmiaasu4LkjFrKZMRuPAsZZjfB9nGXKqg9dVLuYcYH2aZhanAf9kOMdP5sGGuaw8w/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 GANs are so back!? >>加入极市CV技术交流群，走在计算机视觉的最前沿2025 年了，GAN 能否击败扩散模型？答案是 Yes！本周</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704223&amp;idx=4&amp;sn=ea7f5df461bceb4be06a1c3439378f0a&amp;chksm=edadf2ee01d26addd738c7efa06617ccc8ad3fbc34791cd177d4c0cecaf4dc0461ba236e79b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 13 Jan 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[一次搞定自驾场景的可控生成和长时序生成？科大和地平线提出DrivingWorld：基于视频GPT构建自动驾驶世界模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrsvwG4UANwkneqmfof4qHjricRaJ8kRV1wPibUrXlIrwdjvu215ugfjM4eSNyA0jAJZ4qca1tpltSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 本文介绍了港科大和地平线联合提出的DrivingWorld模型，该模型基于视频GPT构建，能够实现自动驾驶场景的可控生成和长时序生成，通过创新的空间-</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704125&amp;idx=1&amp;sn=403654532e746e2b816047339a2bc5d4&amp;chksm=ed2b9e7849614fd50fb490a9be3396f90a2d46ab6a63f04bf188ffc99ce983c24d4c2521cb19&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Github揽获1.6K星！南大、腾讯发布VITA-1.5: 迈向GPT-4o级实时视频-语音交互]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrsvwG4UANwkneqmfof4qHjhpcrFj2VGdcgBIka3bD2MMk6XZSRjrheTnRDVzB2Hic3TpzuTxgK0RQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨PaperWeekly编辑丨极市平台极市导读 南大和腾讯发布VITA-1.5模型，能够在视觉、文本和语音任务上实现高性能表现。VITA-1.5通过三阶段训练策略，逐步整</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704125&amp;idx=2&amp;sn=175ca283254dfa944fad5d0ffbbfad19&amp;chksm=edd4d025aa230173efa653f80f358350a7eda0f05aefd66dfef5976949543a9671a9a92b7c4f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型Post-Training总结]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrsvwG4UANwkneqmfof4qHjTCyIjIAF3s3hpxrlCvvLV9QDLfY8L8PdFia3CSs4BP5seRg4lBKmt5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨hadiii来源丨https://zhuanlan.zhihu.com/p/12862210431编辑丨极市平台极市导读 本文汇总Llama3.1，DeepSeek-V</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704125&amp;idx=3&amp;sn=d1f319d89bb65cf7ce14ae277e8085ad&amp;chksm=ed224438146e3bce55f14e28474dc6c39cdb3e786d5fa4e0a982e3e39dbe97f0be3aa5d4c224&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[突发！美国拟（全面禁止）向中国出口 AI 芯片]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrsvwG4UANwkneqmfof4qHjN3O1RLeOOnAw8JW2jE6ueY3kFL0NBcUD8qohzjFeAGKDsDibjnyOWRw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨云头条转载于丨夕小瑶科技说极市导读 2025 年 1 月 9 日，拜登政府计划在离任前夕对英伟达等公司的 AI 芯片出口实施新一轮限制。 >>加入极市CV技术交流群，走</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704125&amp;idx=4&amp;sn=ae2145b1a2e4aa16a4e84a2b46fcadcb&amp;chksm=ed3519646f9638b869bd612d4421afeebc9a3e4840b4b7a021a216b2794def340fdff70174b1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 10 Jan 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -130,198 +198,6 @@
       
 
       <pubdate>Thu, 09 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[注意力计算减少99.5%，端侧文生图扩散模型成功范式！CLEAR：类卷积线性扩散Transformer]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqEKiclfwibEYzUCdLHWicHkhMOLxzH7IO6ZJavtNY2E0ZZzJUSHAVCkR166XI38upoE19QBM5beoYTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 本文介绍了一种名为CLEAR的卷积式线性化方法，用于将预训练的扩散变换器的注意力机制线性化，从而显著提高高分辨率图像生成的效率。通过限制</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703862&amp;idx=1&amp;sn=7b15ae7a7238dd86eeb7f42ce34ff0f0&amp;chksm=edf5cf0876fe222e24398e938433a62e587ff0c2486e6c6c6ec5016fa20084774d6cfb029c21&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AAAI 2025 | 基于真实世界雾霾驾驶视频的视频去雾和深度估计]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqEKiclfwibEYzUCdLHWicHkhMUPU0EJO0Qicpne0Cf254mdXMRwaeXqiaHPeAnqrCRdaONlRkHN5ekiaRA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨樊俊凯来源丨CVer编辑丨极市平台极市导读 本文介绍了一种基于真实世界雾霾驾驶视频的视频去雾和深度估计方法，通过联合求解去雾和自监督深度估计任务，利用大气散射模型和光度</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703862&amp;idx=2&amp;sn=254ce26fff3e9b38d5b374d903579239&amp;chksm=ed9b4857c36c371b7e2de454fae9157394e5cfc79205d99bc9b8e7673c4da575b98ef70acabf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[图解Megatron TP中的计算通信overlap]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqEKiclfwibEYzUCdLHWicHkhMZK0n1C5cibCUy0q4DMYkvE1ZeH64X3icV2IibJGiau6BdhwuL4T3knziarw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨猛猿来源丨大猿搬砖简记编辑丨极市平台极市导读 本文探讨了Megatron TP中实现计算与通信重叠（overlap）的方法，详细分析了在TP部分（特别是megatron</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703862&amp;idx=3&amp;sn=eeb7e12b20eb029d239678574b508dc8&amp;chksm=ed6377981c9854c2031c471f92cf4905bf6cab06ae6d877afd6f3790a2dd9cac81679135371b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[刚刚，奥特曼发长文「反思」：十年艰难创业路，如今已掌握AGI秘诀]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqEKiclfwibEYzUCdLHWicHkhMHSzO8icnztqWWAeg0cNPGaTR0nWHCXIOGlNLMNdbwaYNnS14dHLqRvw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 刚刚，奥特曼发出博文，反思了创业十年自己的经历和感悟。他再次回顾了被董事会解雇的「噩梦般的」那天，庆幸自己扛了过来。如今幸运的是，他确信OpenAI已经</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703862&amp;idx=4&amp;sn=113a35defb2277bfd5f6270888f2966c&amp;chksm=edeeaef5df1d152692c76b7c455f64877e0ae665b3e4b6beab14bbe6787deae827924fb5a39d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 06 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[人工智能是不是走错了方向？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfqj88FPbjfSo7UzCnmflGCB1yvo4eUNnNnOTyBGuY0UAqPJwS3rNrZSicu04lIn8s5osmXvuZkQQbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨Clyce、霍华德（已授权）来源丨https://www.zhihu.com/question/445383290编辑丨极市平台极市导读 人工智能走到现在，我们在CV、</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703783&amp;idx=1&amp;sn=c107e20497e58c6816d04e977f37f957&amp;chksm=ed557630704a2ef1a640cf2d2444d970b2ff0eacfd9371d65b4cf79fafc9bd3ad7f8c6232cba&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NeurIPS'24｜新型成员推理方法CLiD：一举破解文生图模型隐私难题]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfr0b85qACBYxXdcQEKF2mDTCicwzck8YK3KxxNK6hZP5ssbia2ab9oVMRqVU4zOIJbez09vCThuoOCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨作者投稿编辑丨极市平台极市导读 本文探讨了文本生成图像（文生图）扩散模型的隐私风险，提出了一种基于条件似然差异（CLiD）的新型成员推理方法，以更有效地检测数据是否被用</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703783&amp;idx=2&amp;sn=5d6c25ed072bd02ee17ebbd9c8ec9342&amp;chksm=eddf60f90fb94db19f99fdf61ba71ea0d9aee970869f8f40d08771183ba5720747f6e504d087&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型微调项目 / 数据集调研汇总]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpcwQhHhWX5uLznNuudutZuTjF5sjATvibxAbBGvBGZw1FRiaicsNesXOxzxDiaQPHQbAyppacxulcJxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨周星星@知乎（已授权）来源丨https://zhuanlan.zhihu.com/p/624079704编辑丨极市平台极市导读 总结了一些热门的大模微调项目的亮点以及数</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703783&amp;idx=3&amp;sn=af872710d718cc5d9e4bec8b469f4030&amp;chksm=edd563fa5e099ab97802b3c616f5ea4d0ac45de619966a04830f821302fe32b4649501c53da0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CMU等曝光GitHub「地下产业链」！450万个Star都是刷的]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfr0b85qACBYxXdcQEKF2mDTJey9U8x3Ooc6E9L4lpgy2Q4DDQ11dLbgLr8TwVTYvWdXiafHSbu6SoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 GitHub平台上日益严重的虚假star，不仅威胁到开源项目的透明度和声誉，还可能被利用于传播恶意软件和钓鱼攻击。CMU团队通过开发工具StarScou</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703783&amp;idx=4&amp;sn=023a5afd84e331d848a7cfdd7a844e96&amp;chksm=edb656de455cd85e841706d61908e085300bff7f055bcab262cac0d0283502212e37d7bee170&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 04 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[1.4s 即可生成1024px图像！SnapGen：轻量化架构和训练策略实现端侧文生图]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo0eVZiczoVxof2UIkXZcrwpJpibAeXGlhv7CbawZ061pialSfSAmkRXmXK1MLIdGUuwhRmCJMtPQKOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 在 ImageNet-1K 上，本文的模型仅使用 372M 参数，在 256 px 生成中实现了 2.06 的 FID。在 T2I 基准</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703733&amp;idx=1&amp;sn=86e7f523423c2a7593f8d4f6b92b98da&amp;chksm=ed591689c658f642cf4bdbb86cca49b174a4b59f1c56595ca672673bb61d913e45e6ec6ab23e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ACCV 2024 | ViT涨点神器！DeBiFormer：双层路由注意力新框架]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo0eVZiczoVxof2UIkXZcrwpHelW42uGT2VYPqFJd47owfYd7voTkDnDsiax3aSkZlobg7q8lmKiapkw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨晓飞的算法工程笔记来源丨晓飞的算法工程笔记编辑丨极市平台极市导读 本文提出了一种新的注意力机制DBRA和基于此的新型视觉Transformer网络DeBiFormer，</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703733&amp;idx=2&amp;sn=2d898e809117810437364f0644461053&amp;chksm=ed92aea5e6157cbcbb8730bc449afb3c1728807ffc511091e5f3334e9aa911d9a126886689b4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[深度强化学习中SAC算法：数学原理、网络架构及其PyTorch实现]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo0eVZiczoVxof2UIkXZcrwpAHkgEHAhDVJ4IRicejdwedcM7Uo2NMPopvKvqGjSTpWNZGXzQNh54Gw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨DeepHub IMBA编辑丨极市平台极市导读 本文详细介绍了深度强化学习中的软演员-评论家算法（SAC），包括其数学原理、网络架构设计以及PyTorch实现。 >>加</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703733&amp;idx=3&amp;sn=c68b4f2778c2126d584491f24bdbecfa&amp;chksm=ed52d7f90654eb46bc15e3b12ec5bcf42a639cda3121b74e64c95c707bf1146ac31f96edc224&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 Jan 2025 14:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[聊一聊大模型六小虎和四大厂的2024！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfo0eVZiczoVxof2UIkXZcrwpictOL94YaUtlyAxDN7GmiamdpAJzHr0iabk5Mzuj0MWmHnKQLiaWdnS7ow/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨51CTO技术栈转载于丨Datawhale编辑丨极市平台极市导读 2024年国内大模型领域的主要进展。 >>加入极市CV技术交流群，走在计算机视觉的最前沿2024最后一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247703733&amp;idx=4&amp;sn=32361ae2540fe4d1ee3a5d7e8ce70070&amp;chksm=edf5999115144013a070ad64395576f97970214b5320d9d235b459d990f05a1ee55ffb0768eb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 03 Jan 2025 14:00:00 +0000</pubdate>
       
 
     </item>
