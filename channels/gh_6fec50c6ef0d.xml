@@ -42,11 +42,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[D-FINE：在DETR中将回归任务作为分布来细化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvo5DWfkRY4GAN1gZU4ia0Q73FvAl9J82HdNFXz6z5G19ZGKGGLVtweybyBOvM99DNqlaRb3GhvRjyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读我们的方法显著增强了各种DETR模型的性能，最多提高了5.3% 的AP，而额外的参数和训练成本几乎可以忽略不计。摘要我们介绍了D-FINE，这是一种强大的实时目标检测器，通过重新定义DETR模型中</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498495&amp;idx=1&amp;sn=a9aa12008f57082895bfc8b42ad32fde&amp;chksm=c17ccd7278136ac3a83423ba3e35c4eb33f6be14e7ddd8dd3cd09018d0a8794bea3cc6cab8d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 Jan 2025 02:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[InfoBatch:通过无偏数据裁剪来加速并实现无损训练]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvoI2Fz8FIOXjzAOt7B9M26uibpYPJp2oCLZCS5kU9MRp6R36lF5NbDHias1I1DFcXlgibDUImoSGlevg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读作为一个即插即用且架构无关的框架，InfoBatch在分类、语义分割、视觉预训练以及指令微调任务上始终能够获得无损训练结果。摘要数据裁剪旨在以较低的整体成本获得无损性能。一种常见的方法是过滤掉对训</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498472&amp;idx=1&amp;sn=804589202fbe15dc92bba63dfcea6e57&amp;chksm=c1e7998771d8c52f92947bbc601eb273ad44baae1d78cf02790ab2d2db45a779fbd9c1989cde&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 13 Jan 2025 02:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
