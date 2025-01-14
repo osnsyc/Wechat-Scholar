@@ -33,27 +33,27 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[科学计算为什么要 +1 再 -1 ？是为了负负得正？？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmic7FtPZqX7vcx5Rn3u8RSJY2ibh9DDAgknmpEDsUwLWjD5ytibLEB1spgkpb8He3ibkwRhccMziaFWTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>问题1在世界最大的开源CFD软件OpenFOAM中，有一种操作很奇异：  fvm::laplacian(alpha)+ fvm::ddt(alpha) - fvc::ddt(alpha)上面的代码可以</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429222&amp;idx=1&amp;sn=fa05247883e3bba899f0c120117d4b39&amp;chksm=8942b46a3cc63129c67d092bad2cdc80f321ee7be77f3df390064ee9e88b768a5d5a26c840b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 Jan 2025 05:27:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[为什么树的四周没有积雪？交通大学搞了个数学模型解释这个事]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklIiaiaVwBs7ysH8vzfuWOrK9a267UrVibJvksnby8L7gqLqkZKLv0Lic9ZEpCW8n2uLyrLc2ZbNiazLZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>上面两个图是CFD中文网毛艳军拍的，专门讨论积雪形成的特定的分布。感兴趣可以看这个链接：https://cfd-china.com/topic/1324很明显，下雪的时候在物体周围会形成特定的形状。今</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429214&amp;idx=1&amp;sn=6b14436804c818507b5184d163c70fb1&amp;chksm=89bc0990bcde2ddd79d452d25c7c86d8c54b91234cfaefee449b0e80fdf7470edf0e78125495&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 13 Jan 2025 05:40:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
