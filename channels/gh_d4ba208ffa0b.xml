@@ -33,11 +33,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[找个Fluent大佬，听说你们Fluent玩的很流弊]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknuXbVSqJAZzKw9g1QssCEouC0k9FHd1Q0VvKKFe5YOKJ9UyQibmTF0qY4WMH9hNsltLialoHlpxTvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>粘度：0湍流模型：无二维算例，所有壁面都可以为滑移，或者零梯度边界左边是一个进口，进口静压1e5、温度400K、速度1000m/s。没有其他进口；右边是出口稳态网格数量：10000个。OpenFOAM</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429227&amp;idx=1&amp;sn=7ece67e5c0bd8f40366c3925565e7767&amp;chksm=89df62f76860c298da26063a7758ebc6078f94494d98d1f6eeff3a79731af9a52ac4b98c3a6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 14 Jan 2025 14:44:52 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[科学计算为什么要 +1 再 -1 ？是为了负负得正？？]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmic7FtPZqX7vcx5Rn3u8RSJY2ibh9DDAgknmpEDsUwLWjD5ytibLEB1spgkpb8He3ibkwRhccMziaFWTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>问题1在世界最大的开源CFD软件OpenFOAM中，有一种操作很奇异：  fvm::laplacian(alpha)+ fvm::ddt(alpha) - fvc::ddt(alpha)上面的代码可以</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429222&amp;idx=1&amp;sn=fa05247883e3bba899f0c120117d4b39&amp;chksm=8942b46a3cc63129c67d092bad2cdc80f321ee7be77f3df390064ee9e88b768a5d5a26c840b3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 14 Jan 2025 05:27:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
