@@ -41,29 +41,97 @@
 
 
 
+
+
+
+
     <item>
+      <title><![CDATA[一个关于MoE的猜想]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrWglbiaw4M49mxhKJticZa6KkYBk0cBOqH2TdMFB8MrvRZt08Yp6SP7PISITSgBzVQt6wLjpSmFCbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨渣B来源丨zartbot编辑丨极市平台极市导读 本文提出了一个关于如何演进MoE（Mixture of Experts）模型的猜想，主要是在MoE Routing的基础</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704380&amp;idx=1&amp;sn=1bf6fed981255c8d8bdddc0cc6d4ed07&amp;chksm=ed8a798a94219e5d3cd4aa7eb655d41f2b2ddc410c3bbf0e6682425b8bdb8898cfba410b7465&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 15 Jan 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2024 | 超越KL！大连理工提出WKD：基于WD距离的知识蒸馏新方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrWglbiaw4M49mxhKJticZa6KdCyPQbuYLMQibgjMUT0lcdmMXmJARnfwguguqhvsNmZySqtCfabGUibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨新智元 来源丨新智元 编辑丨极市平台极市导读 大连理工大学的研究人员提出了一种基于Wasserstein距离的知识蒸馏方法，克服了传统KL散度在Logit和Featur</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704380&amp;idx=2&amp;sn=ac74873c326c9149972f4dd32dfbdf3b&amp;chksm=ed23959949cd31ed915f469172028f7bd1c59206a5e57e58e913f7a46ed73b62e2a4c9c2d5cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 15 Jan 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[PyTorch 博客 CUTLASS Ping-Pong GEMM Kernel 简介]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrWglbiaw4M49mxhKJticZa6KAN14dYcuNiac0vIypavsyDMrs2MX9nLHP0cU0sVcwyZsLWnhucfI8TA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨GiantPandaCV来源丨GiantPandaCV编辑丨极市平台极市导读 详解CUTLASS Ping-Pong GEMM Kernel的设计和性能。 >>加入极市</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704380&amp;idx=3&amp;sn=ea6b8d31a9db6a57b6cdf0e3eb9d765b&amp;chksm=ede3586d7a8e8bac7f40e9c789b0e7e8c199676e41c5ab5b241bb557eee8c0bf87038cbeaf8f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 15 Jan 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[姚期智团队开源新型注意力，节省90%内存不降性能，一个框架统一MHA/MQA/GQA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrWglbiaw4M49mxhKJticZa6KOibd8MO3TTKz6DoOKTlhN5hPqIuwUtuY2IQrkWu3ibDkSQQ68AttJCTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨量子位极市导读 新型注意力机制TPA，姚期智院士团队打造。 >>加入极市CV技术交流群，走在计算机视觉的最前沿TPA对每个token做动态的张量分解，不存储完整的静态K</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704380&amp;idx=4&amp;sn=0fbbdc7f335a2782f05dc7445adea617&amp;chksm=ed8721f06f006527c93a9ddf40ed24beef75e6d892e77f3f734ab3626911328a601817e39981&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 15 Jan 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[同济提出简化 Transformer结构：在RTX3090上实现CLIP的轻量级训练 ！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrOdWiccs8wTNkdYBZkticsMFVAlnWfLuNibVLrCaGVncx1Wfpaa7KvDNb6djGs18QNZQwOPAC1XGEEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨小书童来源丨集智书童编辑丨极市平台极市导读 同济大学提出的一种简化Transformer结构的方法，通过在仅使用一块Nvidia RTX3090 GPU和一兆字节存储空</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704295&amp;idx=1&amp;sn=a6a7827cfa60413648cc5b5b6c5a239d&amp;chksm=ed7e98d06fdd1844fb7d4e5a7ee535a3bd33d2b11c913123533a09b327c00fd77df2af452d0e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 14 Jan 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[贾佳亚团队新作MagicMirror：生成身份一致且高质量个性化视频，效果惊艳！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrOdWiccs8wTNkdYBZkticsMFJ5umVZRicB7030N6HFWZuQIP8a73icRluGUjjlgSQibiaFMSW8YXLIhkAA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI生成未来来源丨AI生成未来编辑丨极市平台极市导读 贾佳亚团队提出的新框架MagicMirror，用于生成身份一致且高质量的个性化视频。MagicMirror通过双分</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704295&amp;idx=2&amp;sn=d85c0320233c7db125873295700fa272&amp;chksm=ed7a72241b07bfafd6cc8bdbce3c723679271918bb3684312815aa96274c2ce4c0f35acc0979&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 14 Jan 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[用LLM做文本分类，微调选base还是chat]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrOdWiccs8wTNkdYBZkticsMF9YcAlCG6HEKic0h6dNLPkhwnKA6Xibcqn9MtDKHmEoG8icMVNn1ibruib7g/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨LeonYi来源丨包包算法笔记编辑丨极市平台极市导读 本文探讨了使用大型语言模型（LLM）进行文本分类时，选择基础模型（base）还是聊天模型（chat）进行微调的问题</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704295&amp;idx=3&amp;sn=ebf1c800936265c00a3ed7b3b5632fd4&amp;chksm=ed1ea98d342e1c00e67de3051c24c11d9371f0e6933222e00fa12e34bb5d4863c5f01ab4e7c5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 14 Jan 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[刚刚，美国首个全球AI禁令颁布！英伟达AMD禁运，各国分三级上限5万块]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrOdWiccs8wTNkdYBZkticsMFLnV5tPp9odVMrVPTPgiaJwVFOicWs7nQR9mJvDicmuQR1XicGAF6pUkfhA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 美国史上首个全球AI出口管制，正式出台！刚刚，拜登在下台之际，全面发布芯片禁令，全球三级管控区域AI芯片全面禁运，二级管控区域最高可得5万块GPU。 ></p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247704295&amp;idx=4&amp;sn=bd8bb22ca0e1ffa1a0715094ef3bf66b&amp;chksm=edde3112b398b9041bf6a197a394d017fb805da398782acfa98ccde8bc6c48eb3010187cf921&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 14 Jan 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
