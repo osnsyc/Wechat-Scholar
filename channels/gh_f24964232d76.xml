@@ -42,11 +42,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[PyTorch博客 《使用 Triton 加速 2D 动态块量化 Float8 GEMM 简介》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tzr6AYxLSze8mibqqbgOFibv7BCXiczbmBKgzMmywEaHsWsjVQ636O8iabKwPTCf6z849rgwlM7LoxMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://pytorch.org/blog/accelerating-gemms-triton/ 这里做了翻译。这篇博客主要讲了如何用 Triton 来优化 Float8 格式的矩阵乘</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526123&amp;idx=1&amp;sn=c94d16930ac2ce6984e0ce34907c09f3&amp;chksm=9e1bda7b8afee5bfcbb1f9d1f5bef9da2e91517e8f447f33b6af6a7a377913787af30c533083&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 19 Jan 2025 15:14:11 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[书生·浦语大模型升级，突破思维密度，4T数据训出高性能模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oDpticHyXWJH71PrnrZxUKpcicEh6lOu1QZ6El6eSYNas4PwpeK1u6674iaibL4fU6evrmjdtq83DKia36261p7Oedg/640?wxtype=jpeg&amp;wxfrom=0"/><p>“尺度定律”之下，大模型除了要突破算力瓶颈，亦面临高质量数据即将“见底”难题。如何通过“通专融合”技术路径实现通用人工智能，正日益成为业内共识。1月15日，上海人工智能实验室对书生大模型进行重要版本升</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526107&amp;idx=1&amp;sn=44693ccb021aeda105455b807b1f61e3&amp;chksm=9e7e986bde1a0845c482340fa35a10662224e3beb7705562c83fa534a3e4faa3a53dd0e744d7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 16 Jan 2025 13:16:01 +0000</pubdate>
+      
+
     </item>
     <item>
       

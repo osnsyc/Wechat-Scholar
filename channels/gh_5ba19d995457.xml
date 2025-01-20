@@ -55,23 +55,80 @@
 
 
 
+
+
+
     <item>
-      <title><![CDATA[Github热门机器学习笔记:「从零构建大型语言模型」]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emtHS7t5ic0uQWb1AOhKNDRVQe1ibV5hcbvDj7icpDN1BtRicibpaHbuszyA75wydLlzCvmBKSLia5XJSLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐一份GitHub上很火的机器学习学习笔记《从零构建大型语言模型》，目前已经收获1.4K stars，，这份笔记完美展示了从零构建LLM的技术路线图，既有理论深度，又包含实践要点。每个核心</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489955&amp;idx=1&amp;sn=53339b99584662616f0959a58cfa0826&amp;chksm=fd13928f93ecb22328315109c5122112f3f0833c72c28c0bef286629b12231eef78a5f1bb74d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 17 Jan 2025 16:00:00 +0000</pubdate>
+      <title><![CDATA[Snap | 港科大提出端侧文生图模型SnapGen，参数仅SD十分之一，1.4秒内生成1024分辨率图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elSjibdLXhMBHvRNlreoaGcicDuiaVeqQlxjbAyWQVBK9zTWxMkxd3V2yvSqRYageKwuRPwuQj7g2Iog/640?wxtype=jpeg&amp;wxfrom=0"/><p>这项工作提出了一种新颖且高效的 T2I 模型SnapGen，SnapGen 是第一个可以在1.4秒内在移动设备上合成高分辨率图像（1024x1024 ） 的图像生成模型（379M ） ，并在 GenE</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=1&amp;sn=1432436e0f71b9b7e486560668eeed7a&amp;chksm=fd9bc6a0e991e310061f042c8137126e01921ff048fc146bdb79d645fa89ad4db423f53e59fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[OminiControl：一个新的FLUX通用控制模型，单个模型实现图像主题控制和深度控制。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYEn3PFyv0qTxQYEgq8VntmUj91vEEYPJjMADiamfkH94icSBs7fF1Tn1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中和大家介绍过Flux团队开源了一系列工具套件，感兴趣的小伙伴可以点击下面链接阅读~AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。OminiContro</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=2&amp;sn=5f893661ace33b3910b950d9030b7a1c&amp;chksm=fdaad180939f5106e2305580c604ad3fa7e7f1ee76410babf76cc5e46cf65de4c08bb3da09a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[阿里发布新ID保持项目EcomID, 可从单个ID参考图像生成定制的保ID图像，ComfyUI可使用。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwazEmicf1F7ZjrxQSj4JNP3x3icluxM84Et2UYGdsdxfDOXnd9OlZYFCwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妈妈发布了一个新的ID保持项目EcomID，旨在从单个ID参考图像生成定制的保ID图像，优势在于很强的语义一致性，同时受人脸关键点控制。EcomID 方法结合了 PuLID 和 InstantID</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489955&amp;idx=2&amp;sn=a5e8d093a053334b4260f36de4dbbb5e&amp;chksm=fd179381eb1331749a1f8d687b7629f5efad372be3d703e037180fe1de802588fc987c7ee8ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 17 Jan 2025 16:00:00 +0000</pubdate>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=3&amp;sn=2a131da1305f4c755047f499f0b2fb72&amp;chksm=fd9be0eebc204661357981b7050c377b021814104b3d4c883a27a20527b26204b3694c9f62ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[ComfyUI服装设计，一个工作流搞定！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ACyQFjNqyE6jwFqazZJ5fESF3UlicH6GlH8oBF0nugTB4K9GZwyblhme7GVxoiaXUrN6Ce0c5ibFPOkwd5AttyiaCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>ComfyUI：为你的图像创作赋能的强大工具在AI技术迅猛发展的今天，Stable Diffusion成为了图像生成领域中的一颗明星，而基于此开发的ComfyUI更是为用户提供了一个强大而直观的工具，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489955&amp;idx=3&amp;sn=a98d0e628800bb695eb296da98f95ef2&amp;chksm=fd7693c1962a51b2ea5fc4b9d061dcac402bf1341fe3a0699247908b91cae002efc070b30c3f&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[港大和字节提出长视频生成模型Loong，可生成一分钟具有一致外观、动态和场景过渡的视频。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eny4Iriba5NSXkHvLxicLITJD5gFTkWLoBqMSNfUicQxXgibIh9n6vokK5ia5EOh7ZDJLVHGEsbaLz86XA/300?wxtype=jpeg&amp;wxfrom=0"/><p>HKU, ByteDance｜⭐️港大和字节联合提出长视频生成模型Loong，该模型可以生成外观一致、运动动态大、场景过渡自然的分钟级长视频。选择以统一的顺序对文本标记和视频标记进行建模，并使用渐进式</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=4&amp;sn=a3dc9baea4db7b2ce69c09edf47daebe&amp;chksm=fdce4e89e36260261732b1375680ed14de82d2c716f27c5952d048065d3058b47cb8a2e759f1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Github热门机器学习笔记:「从零构建大型语言模型」]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emtHS7t5ic0uQWb1AOhKNDRVQe1ibV5hcbvDj7icpDN1BtRicibpaHbuszyA75wydLlzCvmBKSLia5XJSLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家推荐一份GitHub上很火的机器学习学习笔记《从零构建大型语言模型》，目前已经收获1.4K stars，，这份笔记完美展示了从零构建LLM的技术路线图，既有理论深度，又包含实践要点。每个核心</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489955&amp;idx=1&amp;sn=53339b99584662616f0959a58cfa0826&amp;chksm=fd13928f93ecb22328315109c5122112f3f0833c72c28c0bef286629b12231eef78a5f1bb74d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 17 Jan 2025 16:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[阿里发布新ID保持项目EcomID, 可从单个ID参考图像生成定制的保ID图像，ComfyUI可使用。]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwazEmicf1F7ZjrxQSj4JNP3x3icluxM84Et2UYGdsdxfDOXnd9OlZYFCwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妈妈发布了一个新的ID保持项目EcomID，旨在从单个ID参考图像生成定制的保ID图像，优势在于很强的语义一致性，同时受人脸关键点控制。EcomID 方法结合了 PuLID 和 InstantID</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489955&amp;idx=2&amp;sn=a5e8d093a053334b4260f36de4dbbb5e&amp;chksm=fd179381eb1331749a1f8d687b7629f5efad372be3d703e037180fe1de802588fc987c7ee8ce&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 17 Jan 2025 16:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[ComfyUI服装设计，一个工作流搞定！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ACyQFjNqyE6jwFqazZJ5fESF3UlicH6GlH8oBF0nugTB4K9GZwyblhme7GVxoiaXUrN6Ce0c5ibFPOkwd5AttyiaCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>ComfyUI：为你的图像创作赋能的强大工具在AI技术迅猛发展的今天，Stable Diffusion成为了图像生成领域中的一颗明星，而基于此开发的ComfyUI更是为用户提供了一个强大而直观的工具，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489955&amp;idx=3&amp;sn=a98d0e628800bb695eb296da98f95ef2&amp;chksm=fd7693c1962a51b2ea5fc4b9d061dcac402bf1341fe3a0699247908b91cae002efc070b30c3f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 17 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -310,182 +367,6 @@
       
 
       <pubdate>Mon, 13 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多身份定制化视频创作新突破！Ingredients：可将多个身份照片整合进视频创作实现个性化视频生成。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elSjibdLXhMBHvRNlreoaGcicdv0XZf04MKlYliaBmemOkIOtBU0wKu89VAd3lkLkDU9GOLfc5OIqIjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在当今这个数字内容爆炸的时代，视频创作已成为连接人与人、传递信息与情感的重要桥梁。然而，如何高效、高质量地实现多身份定制化视频创作，一直是视频制作领域的一大挑战。近日，北京昆仑研究院的研究团队提出了一</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489877&amp;idx=1&amp;sn=74fa79f7d4ed29043c7d57e2366f4954&amp;chksm=fd3c10cefef16150da79d8f6dc32f48e6fa5237ed24085e2f06d7b9c4ff97759a79b469b9283&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 12 Jan 2025 16:02:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[3D服装生成新SOTA！谷歌和CMU提出FabricDiffusion：可将织物纹理从单个图像迁移到3D服装]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzia0AxvG3w5jnu5Q1nyOUwdDAlYv2ITgdKDOu7W8riapJOLuXkDL8cFpr3uMCxGiaooqI4z7Zcl4cQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>3D服装生成新工作！谷歌和CMU提出FabricDiffusion：一种将织物纹理从单个服装图像迁移到任意形状的 3D 服装的方法。FabricDiffusion性能表现SOTA！同时可以泛化到uns</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489877&amp;idx=2&amp;sn=30105d19b11d786e9991510cc45ddae1&amp;chksm=fd1e2f1186f3854e4cd34afaa50cc3019bad3f19d681ae4f9d60504bf83306487867da6fd7c2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 12 Jan 2025 16:02:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[超级智能“试衣镜”！GarDiff：高保真保持目标人物特征和服装细节，虚拟试穿技术新SOTA！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUN5oqyRgSButjKACUwRIef94PhQmUMcfJSkj4W9NicELKlw377icJuhpfjx2VUNPWKHMM0Gqib5Eg/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍了很多关于虚拟试穿的文章，本公众号也总结了虚拟试衣专题在公众号菜单栏，感兴趣的小伙伴可以在公众号内搜索“虚拟试衣”阅读～今天给大家介绍一个最新的虚拟试穿技术GarDiff，它可以分析</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489877&amp;idx=3&amp;sn=f90ad43c28663066d80cb069e824741e&amp;chksm=fd8801d336ec98e0124578e2faa6a25f1f0da5980cf022adb702e9cfeeec001195fe94394c9d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 12 Jan 2025 16:02:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一键试衣or一键脱衣？TryOffAnyone：从人像输入中生成高质量平铺服装。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUnCMiaBjZZszIFmMq4b6eoaD7GTE6xt5Kkbz15pCGnYFBHiaXPN7qYcV79yBTU689jcMRI5dJd0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>TryOffAnyone 是一种新颖的单阶段框架，旨在从穿着衣服的人的输入图像和覆盖服装区域的相应服装掩码合成高质量的平铺布料图像。在 VITON-HD 等基准数据集上实现了最先进的性能。该方法在为全</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489847&amp;idx=1&amp;sn=7db0f231ee4ad08a334358ad4ac04e99&amp;chksm=fdbef338250deefff0ec767862840950325fd06792b27e5a99789e611ffa6f00840ba70928f0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 11 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[NeurIPS 2024 | SHMT：通过潜在扩散模型进行自监督分层化妆转移（阿里&amp;武汉理工）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsjQl0sGle0TkYDcmMMuGmbtLXibkDVicOAa1tpYmub1EJgQJfZ41lm6WQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前的妆容转移技术面临两个主要挑战：缺乏成对数据，导致模型训练依赖于低质量的伪配对数据，从而影响妆容的真实感；不同妆容风格对面部的影响各异，现有方法难以有效处理这种多样性。今天给大家介绍的方法是由阿里</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489847&amp;idx=2&amp;sn=164295c163ad41f30fecbb828173872a&amp;chksm=fd7b4cf596f8808e7e921d7094310ff8bda60fe4ff600ecdb39a7874ed022deba46f6d12bbd2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 11 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[阿里达摩院提出开源AI图片上色模型DDColor:可以为黑白照片、人物、动漫风景等一键上色!]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emSxAhfwGrF5xDyQho3K1KHs5BPR4ic9nBrD4MlgCC5ibUfic09OiajZVFthOcVSdugCDCmu33gKAffhA/300?wxtype=jpeg&amp;wxfrom=0"/><p>DDColor 可以为历史黑白老照片提供生动自然的着色。它甚至可以对动漫游戏中的风景进行着色/重新着色，将您的动画风景转变为逼真的现实生活风格！相关链接项目：github.com/piddnad/DD</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489847&amp;idx=3&amp;sn=52d7b395e98127288238663caa2e670a&amp;chksm=fdb9add807338abab35e833abe48d4e167ec72251d091823166a4d926cd6ba1c72545eebdcbf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 11 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Adobe发布TurboEdit：可以通过文本来编辑图像，编辑时间<0.5秒！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elKcprhHqENugIHSUTwb3EOiaaqictMa8fmmNEDqsoISMhGDZH4oZmh7vtMn5sov6khPdhIypPkhDZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍Adobe研究院新的研究TurboEdit，可以通过文本来编辑图像，通过一句话就能改变图像中的头发颜色、衣服、帽子、围巾等等。而且编辑飞快，<0.5秒。简直是图像编辑的利器。相关链接项目</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489847&amp;idx=4&amp;sn=be6267976a155ad70190989ed35356e0&amp;chksm=fd7cc3d3e3c38548c43c7110d1c2a8ffd001e2601743e5752de8dfb6c77c5c8e995550e3b2a2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 11 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024 AI TimeLine 回顾（独家视角）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUnCMiaBjZZszIFmMq4b6euJ14V5ibkAcCZdmtRw3lykFcu3iafSO7319RSVydS3scYAgM0oASkKTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024 AI TimeLine 回顾（独家视角）2024年，生成式人工智能已远远超越了仅仅作为一个流行词的范畴，它在实际应用和技术创新方面取得了显著进展，成为推动社会进步和产业变革的重要力量。以下是</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489813&amp;idx=1&amp;sn=51ebf152c0ae606b68387d40e64f97fb&amp;chksm=fd9d9b818faf50990536c705845570876d1321e1d63846cae890e6b333ec8df682c105046aa8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 10 Jan 2025 16:44:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[东京大学 | Adobe 提出InstructMove，可通过观察视频中的动作来实现基于指令的图像编辑。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsa4uWnhrMawFt9HHkxP0mNsA8WZRJb5wtxFQzRMjAicAjmryxF8Yliamw/300?wxtype=jpeg&amp;wxfrom=0"/><p>InstructMove是一种基于指令的图像编辑模型，使用多模态 LLM 生成的指令对视频中的帧对进行训练。该模型擅长非刚性编辑，例如调整主体姿势、表情和改变视点，同时保持内容一致性。此外，该方法通过</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489813&amp;idx=2&amp;sn=81bd57715905ef2609fb944745535e3f&amp;chksm=fd097f3583d779d5924d78fb290f7d78ac6518b7e55fcdca6724101fc29da25ff3244805dc94&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 10 Jan 2025 16:44:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[提出街景定位大模型AddressCLIP：一张图实现街道级精度定位！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eldKGCwibmhq5RSxC5rV78dDcVpQDWZ2qUibtJW2qRF8ehlmicnuSw3n5MdOVQ0NTovfOnPib1RNDwBibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中科院自动化所和阿里云一起推出了街景定位大模型AddressCLIP，只要一张照片就能实现街道级精度的定位。比如给模型看一张北京南锣鼓巷的街景之后，它直接给出了具体的拍摄位置，并列举了附近的多个候选地</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489813&amp;idx=3&amp;sn=d14a4948c82f4267521c7541e0e6c672&amp;chksm=fd9e61e7c96af6e00f0affd2b24d124ab8975f8ee9fe5649ab6eb51e1cb50cbad3ccb1520cfa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 10 Jan 2025 16:44:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[谷歌DeepMind重磅推出多视角视频扩散模型CAT4D，单视角视频也能转换多视角了。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emYIXZcOoWmiamNNy78gGxDxw4uWDBzPA32XByk1moUtrt0vCzrccsjPryianfay5w8IibgLtxibuRokQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 单目视觉4D重建再突破！谷歌DeepMind推出多视角视频扩散模型CAT4D，单视角视频也能转换多视角了。单目视觉4D重建再突破！谷歌DeepMind等团队，推出了多视角视频扩散模型CAT4D，它支</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489813&amp;idx=4&amp;sn=d16d497c55111563269493ea006710e9&amp;chksm=fdeea1749619d169d76f7f703c8703cbef63fc1ead7203f12104502e34f29c588633a17da278&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 10 Jan 2025 16:44:00 +0000</pubdate>
       
 
     </item>
