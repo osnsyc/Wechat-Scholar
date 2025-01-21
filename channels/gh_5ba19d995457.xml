@@ -51,36 +51,93 @@
 
 
 
-
-
-
-
-
-
-
     <item>
+      <title><![CDATA[CVPR 2024 Spotlight | 解锁图像编辑新境界, 北大、腾讯提出DiffEditor，让精细编辑更简单！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emtHS7t5ic0uQWb1AOhKNDRVPEH3Xqks3oDpG6kIgEczYPnVPsI98I9LqibzYz8fUXeJrNILLDFicB0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>在图像生成领域，大型文本到图像（T2I）扩散模型近年来取得了革命性的突破。然而，将这些强大的生成能力转化为精细的图像编辑任务，仍面临诸多挑战。CVPR 2024, 来自北京大学深圳研究生院与腾讯PCG</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489958&amp;idx=1&amp;sn=78e02ad557acbddd73965e30230fe090&amp;chksm=fdbe7557a5166b386b9963284767c09132e19c70d858552f3ead19a6560e9aefc86fe035e88b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Adobe与MIT推出自回归实时视频生成技术CausVid。AI可以边生成视频边实时播放！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elSjibdLXhMBHvRNlreoaGcicDwNBzSGR9jz4olCuaibHPBcISVDNbZVjdKgcIl4GiaczxalR4zb0LKJQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>传统的双向扩散模型（顶部）可提供高质量的输出，但存在显著的延迟，需要 219 秒才能生成 128 帧的视频。用户必须等待整个序列完成才能查看任何结果。相比之下CausVid将双向扩散模型提炼为几步自回</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489958&amp;idx=2&amp;sn=c6502c899b6e3f852dfd2041911215b9&amp;chksm=fd54050113a0b64568ab964cb7a0254d15670d27d222e071ba613a4e6d1dea7fec1a8fb80b56&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[多模态图像生成模型Qwen2vl-Flux，利用Qwen2VL视觉语言能力增强FLUX，可集成ControlNet]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYHx9RLCm1u1zJr61WGBPZZicviaGPyXN8y5ZTaZE9jpPcdNSX1nmUlib5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen2vl-Flux 是一种先进的多模态图像生成模型，它利用 Qwen2VL 的视觉语言理解能力增强了 FLUX。该模型擅长根据文本提示和视觉参考生成高质量图像，提供卓越的多模态理解和控制。让 F</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489958&amp;idx=3&amp;sn=27a5753da03f6a835735475d04049920&amp;chksm=fd110660ccaf10ce849fe434a13dc1af783f42a485f7a20baaef50b5258309848cfe0c36dc61&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Google发布新AI工具Whisk：使用图像提示代替文本，快速完成视觉构思。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2end3mWUdomxapVIqKPBfrWChHLuwfMCvRvq1l8Kl6qfOOlq9YUxzPEdzMibDSUo0R5owCSicTJLumBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Google发布了新的AI工具Whisk，Whisk 是 Google Labs 的一项新实验，可使用图像进行快速而有趣的创作过程。Whisk不会生成带有长篇详细文本提示的图像，而是使用图像进行提示。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489958&amp;idx=4&amp;sn=a9f392d276409795dbe3f70c902346be&amp;chksm=fd8cb3e29c053652af42eda3f111fb346358a870517a14972adf84936712f347e75edb5b911c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Snap | 港科大提出端侧文生图模型SnapGen，参数仅SD十分之一，1.4秒内生成1024分辨率图像。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elSjibdLXhMBHvRNlreoaGcicDuiaVeqQlxjbAyWQVBK9zTWxMkxd3V2yvSqRYageKwuRPwuQj7g2Iog/640?wxtype=jpeg&amp;wxfrom=0"/><p>这项工作提出了一种新颖且高效的 T2I 模型SnapGen，SnapGen 是第一个可以在1.4秒内在移动设备上合成高分辨率图像（1024x1024 ） 的图像生成模型（379M ） ，并在 GenE</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=1&amp;sn=1432436e0f71b9b7e486560668eeed7a&amp;chksm=fd9bc6a0e991e310061f042c8137126e01921ff048fc146bdb79d645fa89ad4db423f53e59fc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[OminiControl：一个新的FLUX通用控制模型，单个模型实现图像主题控制和深度控制。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYEn3PFyv0qTxQYEgq8VntmUj91vEEYPJjMADiamfkH94icSBs7fF1Tn1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中和大家介绍过Flux团队开源了一系列工具套件，感兴趣的小伙伴可以点击下面链接阅读~AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。OminiContro</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=2&amp;sn=5f893661ace33b3910b950d9030b7a1c&amp;chksm=fdaad180939f5106e2305580c604ad3fa7e7f1ee76410babf76cc5e46cf65de4c08bb3da09a7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[阿里发布新ID保持项目EcomID, 可从单个ID参考图像生成定制的保ID图像，ComfyUI可使用。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwazEmicf1F7ZjrxQSj4JNP3x3icluxM84Et2UYGdsdxfDOXnd9OlZYFCwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妈妈发布了一个新的ID保持项目EcomID，旨在从单个ID参考图像生成定制的保ID图像，优势在于很强的语义一致性，同时受人脸关键点控制。EcomID 方法结合了 PuLID 和 InstantID</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=3&amp;sn=2a131da1305f4c755047f499f0b2fb72&amp;chksm=fd9be0eebc204661357981b7050c377b021814104b3d4c883a27a20527b26204b3694c9f62ed&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[港大和字节提出长视频生成模型Loong，可生成一分钟具有一致外观、动态和场景过渡的视频。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eny4Iriba5NSXkHvLxicLITJD5gFTkWLoBqMSNfUicQxXgibIh9n6vokK5ia5EOh7ZDJLVHGEsbaLz86XA/300?wxtype=jpeg&amp;wxfrom=0"/><p>HKU, ByteDance｜⭐️港大和字节联合提出长视频生成模型Loong，该模型可以生成外观一致、运动动态大、场景过渡自然的分钟级长视频。选择以统一的顺序对文本标记和视频标记进行建模，并使用渐进式</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=4&amp;sn=a3dc9baea4db7b2ce69c09edf47daebe&amp;chksm=fdce4e89e36260261732b1375680ed14de82d2c716f27c5952d048065d3058b47cb8a2e759f1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -319,54 +376,6 @@
       
 
       <pubdate>Tue, 14 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[解锁衣物动画的新境界！EUNet：从单块布料学习衣物动画，让衣物动画更智能。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elSjibdLXhMBHvRNlreoaGcicgaOxsM6vJ2YozwQGBEXq7npQUx4Kaxib5TJnicQncs1FbFAnkscTs8LQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在动画制作领域，特别是对于衣物动画的制作，传统方法往往依赖于复杂的物理模型和大规模的数据集。然而，这种方法不仅耗时耗力，而且难以保证模型的通用性和鲁棒性。南洋理工、港大和上海人工智能实验室发表了《Le</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489894&amp;idx=1&amp;sn=105176d8e88480b93384b32bcd255198&amp;chksm=fde319f0266fc9f9dfeeec38c04eba9509548378edeba67a04fd2aa3937794a505be3352eb91&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 13 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[ECCV 2024 | 3D数字人生成来了！南洋理工提出StructLDM：高质量可控3D生成并支持编辑。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emxeSyCGnibXyZVpG7ibRkqUGd5Ez9HibtJvgxyqTcpLFbVsExsejticUXD4CdK03lP6H6CNDbUhvjWLQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>三维数字人生成和编辑在数字孪生、元宇宙、游戏、全息通讯等领域有广泛应用。传统三维数字人制作往往费时耗力，近年来研究者提出基于三维生成对抗网络（3D GAN）从 2D 图像中学习三维数字人，极大提高了数</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489894&amp;idx=2&amp;sn=2b688be25102437dd598b447ab938c5e&amp;chksm=fd3391c71c34196150632c145113ebafb30b64c0a2cd5eec1aeb3df1d6fa2d71ee06b3b6d1ca&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 13 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[3D虚拟试穿来了，上大、腾讯等提出ClotheDreamer，数字人也能实现穿，脱衣自由！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emPnvPXL7KLqPvkIAqtoJ3wAARpkHstN4O33m9M1haEAL9bqcv7I3brE6IfBs4EUXTjOuq6l2WvZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天,给大家介绍上大、腾讯等提出的3D服装合成新方法ClotheDreamer,它以其革命性的能力,从简单的文本提示直接生成高保真、可穿戴的3D服装资产,正在重塑电商与空间计算领域的未来。数字人也能实</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489894&amp;idx=3&amp;sn=496bd14cab260f793634097a90dfdddd&amp;chksm=fd779877d09c18e5824400c822995e3fb9165ba77f159696e71df28ed45fdd3323e5fa4cf722&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 13 Jan 2025 16:00:00 +0000</pubdate>
       
 
     </item>
