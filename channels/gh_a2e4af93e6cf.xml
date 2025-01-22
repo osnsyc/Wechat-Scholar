@@ -69,53 +69,189 @@
 
 
 
+
+
+
+
+
+
+
+
     <item>
-      <title><![CDATA[扩散模型如何做好可控生成？基于奖励引导的控制生成用于扩散模型中的推理时对齐：教程与综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvkYu1cibTUhibFPMgDnicFwenbuiaicIfQOJvwUtr7A86ermgcRoS59ibcgZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本教程提供了关于推理时引导和对齐方法的深入指南，用于优化扩散模型中的下游奖励函数。虽然扩散模型因其生成建模能力而广受欢迎，但在生物学等领域的实际应用中，通常需要生成最大化特定度量的样本（例如稳定性、蛋</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=1&amp;sn=7a7de380d2bf9e4d5c3488db016e7b69&amp;chksm=fd5adc5f1b5f71a112b4929d981aa9d077b646fccd9154be17f637027dce2da38e9b00490afd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[智能体检索增强生成：关于智能体RAG的综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3eIw4OQOJzND0ibqE54O9btlGpzZEKNYM4oEB4Z04Wvk6WpddTdVHFhaXAT1rcdbCgbe0IdkITrUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLMs）通过实现类人文本生成和自然语言理解，彻底改变了人工智能（AI）领域。然而，它们对静态训练数据的依赖限制了它们对动态实时查询的响应能力，导致输出结果过时或不准确。检索增强生成（RA</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663944&amp;idx=1&amp;sn=68c29eb155e0277ec3a504b9cbb4edac&amp;chksm=fdd58d0ab94d9adefcc820d040a7b891938cbfd938e05ca635c503dc8ccae7d0f6a7e60e715f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 Jan 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【HKUST博士论文】可扩展的基于视觉的 3D 物体检测与单目深度估计用于自动驾驶]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvqVLc4ImxzqupAHUYaA1wF6sPvu7UV1cvBXIBYuibkqjFOpoff2bNicog/300?wxtype=jpeg&amp;wxfrom=0"/><p>3D 感知在自动驾驶领域中起着至关重要的作用。基于视觉的 3D 感知方法依赖于仅使用相机输入来重建 3D 环境，随着深度学习技术的普及，这些方法取得了显著进展。尽管取得了这些突破，现有的框架仍面临性能</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=2&amp;sn=7b52c2c72ef7198c086379abd8209ea9&amp;chksm=fd90d3744df04db0f3493133d5c49939ecff7940b6cbde2f41cdc623af7ded14236f560367dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[【HKUST博士论文】单视图图像的高质量3D生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3eIw4OQOJzND0ibqE54O9btL69E3MpIFlTjia6MaHLznpwSKuTCsKFZwfOTYRsgrtG3ibTIgqDibWiabQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>生成模型近年来在二维和视频合成领域取得了显著进展。然而，二维和视频生成中仍然存在明显的不一致性，例如光照和几何相关的问题。引入三维建模有望增强二维和视频生成的连贯性与真实感，从而推动三维生成技术的进一</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663944&amp;idx=2&amp;sn=8c9d74d38d272b25b0d37f4f6b186831&amp;chksm=fd14c99a8c966a9a0e9edc347f392c73c1cab287b8fca392cd6f8f85df07e038566b418dfcdc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 Jan 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】用 Python 从零开始构建机器人顾问：自动化您的财务和投资决策]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvSdvkEgkTgDjhmS7YicSXm6PflZATT37Y88L8Gic9yHy02MufbAGc84sA/300?wxtype=jpeg&amp;wxfrom=0"/><p>书籍简介通过构建自己的可靠、有效且自动化的财务顾问工具，掌控您的财富管理。自动化数字财务顾问——也称为机器人顾问——管理着数十亿美元的资产。在这本实用指南中，按照一步步的指引，您将学会构建一个能够管理</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=3&amp;sn=852013af39fb5ba9a3c68b10d9eda7de&amp;chksm=fdb1ec1961986267dfda73a47f65450b1b28e4e937dca87aeacfb2026a9f0c2325d1e7df9e22&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[机器人战争：未来冲突]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicQGrGjRTnrvVcuZvLjF3ONg5Q6qVGBaa1FpnLjn7yywxibynyMq4hLH3zvmODyVWJ6NHOLP9dW7cDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>战争机器的崛起世界已经跨过一道门槛，战争不再是陆军与陆军之间的对抗，而是将机器送上战场。无人机主宰着乌克兰战场上空，提供精确打击和情报，而特斯拉的擎天柱、波士顿动力的阿特拉斯等人形机器人正在成为地面上</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663944&amp;idx=3&amp;sn=02080acfdbf37d456dafbd2f84a5800c&amp;chksm=fd5756dbd150a267290ded89fd8dfb199bb1296a6703c4d61b6104b7be28b7ae73ce572fce6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 Jan 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[可解释人工智能（XAI）：从内在可解释性到大语言模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvSxdqaBZ6sEAuokjgHvlm8qCT7f4SialGG6aZnqOHlS2ic9uA5YbtTKDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）近年来取得了巨大的成功。然而，这些框架的决策逻辑通常不透明，导致利益相关者难以理解、解释或说明其行为。这一局限性阻碍了对机器学习系统的信任，特别是在医疗保健和自动驾驶等关键任务领域，导</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=4&amp;sn=b5dc5ab6a193636f054e0dc3eebda802&amp;chksm=fdede17eeee51a260c832fbd0dd000fceb48e2bc848b845a51326fe48b1767b4301223f4d487&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[DeepSeek最新开源的R1推理模型：DeepSeek-R1：通过强化学习激励大语言模型中的推理能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3eIw4OQOJzND0ibqE54O9btjLoiaLmLyz9nXqdku6NBqISSGibDbiavPtLHwibw875AFMXTBEmGibTF3wA/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心机器之心编辑部OpenAI 的最初愿景，最终被一家国内创业公司实现了？昨晚，大模型领域再次「热闹起来」，月之暗面发布在数学、代码、多模态推理能力层面全面对标 OpenAI 的满血版 o1 </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663944&amp;idx=4&amp;sn=0ca6e3e59b953a717b758123bc5186ca&amp;chksm=fdfbe1bf7e35b918479301a8c34555792f2000c13fd987365aa657fe24c4e704c1a07cab628f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 Jan 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[机密计算保障人工智能系统安全研究报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvy5xhz5XCX5kjCOo3ZJibC5FZ3gibRcMAHgU5iaVoNHj3HZDdydQzwcQoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型时代的安全需求　　新一代AI逐渐渗透到了各行各业，在显著提高生产力和效率的同时，也带来了前所未有的安全挑战，亟需建立一个涵盖各个层次的AI安全框架，有效控制AI安全风险　　AI安全现有解决思路的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=5&amp;sn=f90b6144a1a57b8893810fa5fcb0302b&amp;chksm=fd69cffe978625696f80e8b11aa35c42f3cca6545530c9c3aeede3d4039f5a17013c9d5f867a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[【新书】大语言模型在生产中的应用：从语言模型到成功产品]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3eIw4OQOJzND0ibqE54O9btcoBPvicczqLPc9RVUUP3KOlVrawQ0NosLKd8AaQkwHKMtzz3yFO835g/300?wxtype=jpeg&amp;wxfrom=0"/><p>书籍简介学习如何将基于大语言模型的应用安全高效地投入生产。本实用书籍提供了清晰且富有示例的解释，涵盖了大语言模型（LLMs）如何工作、如何与它们互动，以及如何将LLM集成到自己的应用中。了解LLM与传</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663944&amp;idx=5&amp;sn=ab3bc1b985d257aa77237e91819f4bc2&amp;chksm=fd98d5600c82621cf5a4c93e5b2dc2b84e4cf6e56b1e253ebffffdd32667112db1ac8a654591&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 Jan 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[AAAI 2025 | 基于信息瓶颈准则的联邦图数据压缩]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AYxz3cIHvyrEyVwq8zXGOT9WrBWkhduibnnkwH33k0AiaC5iaSv90jZiaT3WhUJ2LMUAnjror2DRg7QRemURLDSZYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 2025｜基于信息瓶颈准则的联邦图数据压缩题目：Federated Graph Condensation with Information Bottleneck Principles会议：T</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=6&amp;sn=30e7d999ba78480c066bc661785ce96c&amp;chksm=fd0f261d4c8dcba6f0bbcb7829b36e8ce8def42568c90529ac007d76feab51d79b217dd68ed4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[AIGC数据存储技术研究报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3eIw4OQOJzND0ibqE54O9btyMf8wia351RictvgpZQXPoc80xSpxTqVB5Cz1vsUsoZI0hYNibXZZtC6A/300?wxtype=jpeg&amp;wxfrom=0"/><p>软件定义存储成为数据基础设施领域的关键技术。数字经济时代，数据是数字经济的新型生产要素，在作为劳动工具赋能其他生产要素的同时，数据还可以作为劳动对象展现本身的经济价值。存储设备是数据的最终物理载体，是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663944&amp;idx=6&amp;sn=4a245092fa750fbdc0319bff02c33439&amp;chksm=fd60eb3661c1bfa0e8382e58f23c554b840113720abba81055284b609c1747a7438220a80da9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 Jan 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[空面同时多目标攻击自主重规划技术研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuv7tzSvia2CnzeQiaEDlowyj5RTdhKFeXavhbIqBS4NgcjDYeBENy1N1LA/300?wxtype=jpeg&amp;wxfrom=0"/><p>针对越来越复杂的作战环境问题,对空面同时多目标攻击自主重规划技术进行研究.通过分析空中攻击自主重规划的必要性,阐述以F-35 为代表的国外研究现状,重点对空面同时多目标攻击重规划系统设计开展研究,包括</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=7&amp;sn=09e9db94c2df5bc703377f3e2ae47d46&amp;chksm=fdc895e187625ea9bdc295961b6b92d2a5c0ea09f25be3fd552d8b98f299bb0e15b27e07678a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[《2050年战场：当今尖端技术如何塑造未来战争》报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3eIw4OQOJzND0ibqE54O9btIhcoP3vcwf2aR7kLRsFnicYmyTDdlwJ8kkfZhq0Koub8gEMMAmicyXIQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>发明家和未来学家雷-库兹韦尔（Ray Kurzweil）预言，从 2000 年到 2025 年，人类所经历的科技进步将超过整个 20 世纪，而 20 世纪所经历的科技进步又超过了我们人类在上一个千年所</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663944&amp;idx=7&amp;sn=db9bac85f3e23aad48913e18bd758beb&amp;chksm=fd92f216ae7148e13ebed41354b3f313e6219f0480042f6e98210771e6ba1ca75d13e73da443&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 Jan 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！LLM4SR：关于大</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=8&amp;sn=1151bfa04e57855ba1ddd96ad60585be&amp;chksm=fd505e645417b59f1336aec976a98bafc731b765e22c2493685e24968b41672f72c118ec4207&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！231页pdf大模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663944&amp;idx=8&amp;sn=09605b9621c434cec4fbaf1a1fa07291&amp;chksm=fd6b48a09d0b87ab744a93e0dd868cbb5f4d2f2dd08f18f9b759c015db7a68137507043dcb13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 22 Jan 2025 03:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[扩散模型如何做好可控生成？基于奖励引导的控制生成用于扩散模型中的推理时对齐：教程与综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvkYu1cibTUhibFPMgDnicFwenbuiaicIfQOJvwUtr7A86ermgcRoS59ibcgZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本教程提供了关于推理时引导和对齐方法的深入指南，用于优化扩散模型中的下游奖励函数。虽然扩散模型因其生成建模能力而广受欢迎，但在生物学等领域的实际应用中，通常需要生成最大化特定度量的样本（例如稳定性、蛋</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=1&amp;sn=7a7de380d2bf9e4d5c3488db016e7b69&amp;chksm=fd5adc5f1b5f71a112b4929d981aa9d077b646fccd9154be17f637027dce2da38e9b00490afd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【HKUST博士论文】可扩展的基于视觉的 3D 物体检测与单目深度估计用于自动驾驶]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvqVLc4ImxzqupAHUYaA1wF6sPvu7UV1cvBXIBYuibkqjFOpoff2bNicog/300?wxtype=jpeg&amp;wxfrom=0"/><p>3D 感知在自动驾驶领域中起着至关重要的作用。基于视觉的 3D 感知方法依赖于仅使用相机输入来重建 3D 环境，随着深度学习技术的普及，这些方法取得了显著进展。尽管取得了这些突破，现有的框架仍面临性能</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=2&amp;sn=7b52c2c72ef7198c086379abd8209ea9&amp;chksm=fd90d3744df04db0f3493133d5c49939ecff7940b6cbde2f41cdc623af7ded14236f560367dc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】用 Python 从零开始构建机器人顾问：自动化您的财务和投资决策]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvSdvkEgkTgDjhmS7YicSXm6PflZATT37Y88L8Gic9yHy02MufbAGc84sA/300?wxtype=jpeg&amp;wxfrom=0"/><p>书籍简介通过构建自己的可靠、有效且自动化的财务顾问工具，掌控您的财富管理。自动化数字财务顾问——也称为机器人顾问——管理着数十亿美元的资产。在这本实用指南中，按照一步步的指引，您将学会构建一个能够管理</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=3&amp;sn=852013af39fb5ba9a3c68b10d9eda7de&amp;chksm=fdb1ec1961986267dfda73a47f65450b1b28e4e937dca87aeacfb2026a9f0c2325d1e7df9e22&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[可解释人工智能（XAI）：从内在可解释性到大语言模型]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvSxdqaBZ6sEAuokjgHvlm8qCT7f4SialGG6aZnqOHlS2ic9uA5YbtTKDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）近年来取得了巨大的成功。然而，这些框架的决策逻辑通常不透明，导致利益相关者难以理解、解释或说明其行为。这一局限性阻碍了对机器学习系统的信任，特别是在医疗保健和自动驾驶等关键任务领域，导</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=4&amp;sn=b5dc5ab6a193636f054e0dc3eebda802&amp;chksm=fdede17eeee51a260c832fbd0dd000fceb48e2bc848b845a51326fe48b1767b4301223f4d487&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[机密计算保障人工智能系统安全研究报告]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuvy5xhz5XCX5kjCOo3ZJibC5FZ3gibRcMAHgU5iaVoNHj3HZDdydQzwcQoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型时代的安全需求　　新一代AI逐渐渗透到了各行各业，在显著提高生产力和效率的同时，也带来了前所未有的安全挑战，亟需建立一个涵盖各个层次的AI安全框架，有效控制AI安全风险　　AI安全现有解决思路的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=5&amp;sn=f90b6144a1a57b8893810fa5fcb0302b&amp;chksm=fd69cffe978625696f80e8b11aa35c42f3cca6545530c9c3aeede3d4039f5a17013c9d5f867a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[AAAI 2025 | 基于信息瓶颈准则的联邦图数据压缩]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AYxz3cIHvyrEyVwq8zXGOT9WrBWkhduibnnkwH33k0AiaC5iaSv90jZiaT3WhUJ2LMUAnjror2DRg7QRemURLDSZYQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>AAAI 2025｜基于信息瓶颈准则的联邦图数据压缩题目：Federated Graph Condensation with Information Bottleneck Principles会议：T</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=6&amp;sn=30e7d999ba78480c066bc661785ce96c&amp;chksm=fd0f261d4c8dcba6f0bbcb7829b36e8ce8def42568c90529ac007d76feab51d79b217dd68ed4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[空面同时多目标攻击自主重规划技术研究]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2YWmYZSicIZnbnuH7wtgLuv7tzSvia2CnzeQiaEDlowyj5RTdhKFeXavhbIqBS4NgcjDYeBENy1N1LA/300?wxtype=jpeg&amp;wxfrom=0"/><p>针对越来越复杂的作战环境问题,对空面同时多目标攻击自主重规划技术进行研究.通过分析空中攻击自主重规划的必要性,阐述以F-35 为代表的国外研究现状,重点对空面同时多目标攻击重规划系统设计开展研究,包括</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=7&amp;sn=09e9db94c2df5bc703377f3e2ae47d46&amp;chksm=fdc895e187625ea9bdc295961b6b92d2a5c0ea09f25be3fd552d8b98f299bb0e15b27e07678a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！LLM4SR：关于大</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663868&amp;idx=8&amp;sn=1151bfa04e57855ba1ddd96ad60585be&amp;chksm=fd505e645417b59f1336aec976a98bafc731b765e22c2493685e24968b41672f72c118ec4207&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 21 Jan 2025 03:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -500,262 +636,6 @@
       
 
       <pubdate>Thu, 16 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多智能体协作机制：大语言模型综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw24dG0ySForKicpibfibaNDeo9Z6eumZyXW9bibUl8qjERXK27WvrGicllOkThVutPv6hlAd4fEE7yEnwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型（LLMs）的最新进展，代理式人工智能（Agentic AI）在现实应用中取得了显著进展，朝着基于多个大语言模型的智能体迈进，实现感知、学习、推理和协同行动。这些基于大语言模型的多智能体</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663616&amp;idx=1&amp;sn=6c0b320027b467147c022cc1a84a679c&amp;chksm=fdad693521ff252a0c269d2e626c1231d485b59060b927d2352115e36b43cea6534c1fc475df&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【HKUST博士论文】复杂任务下的元学习]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw24dG0ySForKicpibfibaNDeo9v9n1jlgU1l734QvdLhCzqjO4QBibOLTibibUctibRQt8JQCsiaWFwSulyiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>元学习旨在从历史任务中提取共享知识（元知识），以加速新任务的学习。在各种应用中，它已经取得了令人鼓舞的表现，并且开发了许多元学习算法来学习包含元知识的元模型（例如，元初始化/元正则化），以支持特定任务</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663616&amp;idx=2&amp;sn=74968f361b01a58d95f26e89179f8c8a&amp;chksm=fd8bd735f841f3bcc39653fffa7254ddfbc73bf9c283f1a1215f5b577ec5f49a26fe158356fa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[可信人工智能治理白皮书]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw24dG0ySForKicpibfibaNDeo90aFkPBhLtvmPFhqqJWnMgZKPRibU3YG7RNWC0erXWx3f3yicWPQVSJEg/300?wxtype=jpeg&amp;wxfrom=0"/><p>21世纪人类社会迎来了前所未有的技术革命——人工智能（AI）的兴起。它以迅雷不及掩耳之势，渗透到我们生活的方方面面，重塑着我们的认知和社会格局。它不仅极大地提高了生产效率，还为解决复杂的社会问题提供了</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663616&amp;idx=3&amp;sn=cea403b0e89e793d79e13333eec912ae&amp;chksm=fd403186fd182a162217b14bca13042acaa720ca7cc45b933fcd7f2a3423741862ab76510810&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[空间计算：重新定义未来战争现实]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicTxf76JqDdtKibq096bMbMyS9RBSicufj575cfT2Rt53icB0dIEGtvTtVgHHI9xtePoJtmmdjicQvia9dg/300?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，作战规划在生动的全息图像中展开。早在 2013 年，《安德的游戏》（Ender's Game）就以其未来主义的士兵训练方式让观众目不暇接——使用令人叹为观止的全息模拟来准备与不可阻挡的敌人作</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663616&amp;idx=4&amp;sn=91fc0d9d7e45b67dcafe0166751c0f90&amp;chksm=fddfbc0adaa8c1d337d4b24a37807152a75a7e64f54ed33ab164764f4105c9c04d89aa3dc1bd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《医疗领域中的具身人工智能综述：技术、应用与机会》]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw24dG0ySForKicpibfibaNDeo96rsAST9jRkcDJreG3rVMXzEYVrLeCIQM6lb2p1LzmYRWr7OUKZ5mHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要全球医疗系统面临效率、可及性和个性化方面的持续挑战。现代人工智能（AI）在通过精确的预测建模解决这些问题方面展现了潜力，但其影响仍受到临床工作流集成有限的制约。得益于现代AI技术，如多模态大语言模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663616&amp;idx=5&amp;sn=f6abf052a5ba3424e3b6b5e9cc960931&amp;chksm=fd8341926433d2a87c9d1b85ea2293c4cb14f0fa5d2f6339811b8d91e3d30c2c4708d9e3d6ed&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LlamaV-o1: 重新思考大语言模型中的逐步视觉推理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw24dG0ySForKicpibfibaNDeo9qhN8Xmr0Mu3ria1lvr799yreZRibQuBI7OnNnBcunYhFUMxGI2Bico8Vg/300?wxtype=jpeg&amp;wxfrom=0"/><p>推理是解决复杂多步问题的基础能力，特别是在视觉情境中，逐步理解至关重要。现有方法缺乏一个全面的框架来评估视觉推理，并且未能强调逐步问题解决。为此，我们提出了一个全面的框架，旨在通过三项关键贡献推动大语</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663616&amp;idx=6&amp;sn=695f18c1d907d761009e2c75c2b4ede2&amp;chksm=fd0e3acccd4759d11acec8d4aa9ac1a891dcdfe4eacc3cda48db907d4d1cf4fb6e5e5642f88a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【阿里千问】在数学推理中开发过程奖励模型的经验教训]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw24dG0ySForKicpibfibaNDeo9BmQwNCJPAavja9KEIaWR9w3eTOD6JFeYfZcTG60dqGWGymcT02vYaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>过程奖励模型（Process Reward Models，PRMs）作为一种有前景的过程监督方法，正在被应用于大型语言模型（LLMs）的数学推理中，旨在识别和减轻推理过程中的中间错误。然而，开发有效的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663616&amp;idx=7&amp;sn=576e1fbe6586535b821b143b804baa7d&amp;chksm=fd2772ae714023c7ce900010444c2803f9ccba09c46338bb465e0e1998329c887452cbf3e374&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！LLM4SR：关于大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663616&amp;idx=8&amp;sn=db99e40ef86a87547275c1f412e8aa37&amp;chksm=fd395ab653c7ee4f42825ef65b7fa9e047300664f781715be4da48e4b54918943737c421f2f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【AMD&amp;霍普金斯】智能体实验室：将大语言模型（LLM）智能体作为研究助理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1mrdq4nVwKynhooM1sv7kfibzORLq6ak2yD4qSca8ibP30CoR32rTJNE9hPAZ3kKhFYGX5XYerDdicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>历史上，科学发现是一个漫长且昂贵的过程，从最初的构想到最终的结果需要大量的时间和资源。为了加速科学发现，降低研究成本，并提高研究质量，我们提出了智能体实验室（Agent Laboratory），一个基</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663566&amp;idx=1&amp;sn=44dcdbb63f020a20fb7eb5a96397291c&amp;chksm=fd547ecbe63e2815abbef499b97fbcf783cdc803b2b103cad0375b46c81c6f20121fee5e6bf0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 11:01:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【博士论文】深度生成表示学习]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1mrdq4nVwKynhooM1sv7kfkDpSpvujXtdqajxfR4OTdh1V1XuGuVSeBxJdjsUIsQoUcKR1RbsvOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>图像和自然语言在现实世界中非常常见。然而，生成具有高度艺术性的图像和具有世界知识的文档仍然具有挑战性，尤其是当图像和文本作为多模态数据处理时。开发一个能够同时处理多模态数据的高效生成模型非常重要。此外</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663566&amp;idx=2&amp;sn=f87a8c6e71a63847e40a1143ccaeae42&amp;chksm=fdb86d713efca05d6ca0ab9138339d1883ec7331a81b2d702a8014a09334222fada695ec99c8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 11:01:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[生成式建模：综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1mrdq4nVwKynhooM1sv7kfV89rZDdvu07DlbvdzlU6W6CLEpItl0vYsdf7PQDCKSISKqTLlhnmicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>生成方法（生成式人工智能，Gen-AI）在解决机器学习和贝叶斯推断任务中的应用进行了综述。生成模型需要模拟一个大规模的训练数据集，并使用深度神经网络来解决监督学习问题。为了实现这一目标，我们需要高维回</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663566&amp;idx=3&amp;sn=8b9efbafc20f8ad75a31801efcfff31c&amp;chksm=fd969c21e0e3f0a259a98b17b67b081e409eb5fbc86aeb52a6f270aa0615082e782b0fe47318&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 11:01:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《濒海作战多智能体强化学习》92页]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1mrdq4nVwKynhooM1sv7kfRghv5mvuq5UdjibjYDAX0pUeJTlFibyFtZvCKc1Bjzr3HJUd77hxFtKw/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）是一种跨行业的趋势性技术，它在从民用日常生活到先进军事技术的许多方面都展示出了其性能和可能性。Tangredi 等人的著作[1]研究了人工智能在美国海军中的影响和应用。早前一篇关于军事</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663566&amp;idx=4&amp;sn=6cd5e9afb81d8a536d3d9d3eb3b8e1e3&amp;chksm=fd38738841645c970f118077f08a278918edd6c68616f72bb0e1d3672d1748a7a876388710d7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 11:01:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AAAI 25 | 融合分隔：协同专家混合模型用于数据稀缺环境下的药物-靶点相互作用预测]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AYxz3cIHvypbshtbiaziaS7Rm3aTIiaKDKyRAtEwKMXfCqUp0LAM3ElXbtTJ7HHllEeCTy8MtMVSlPjLCNO0WF7LQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>Blend the Separated: Mixture of Synergistic Experts for Data-Scarcity Drug-Target Interaction Predic</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663566&amp;idx=5&amp;sn=3d7837a9967940f8c8de7809c5e43fb3&amp;chksm=fd316574bf1f5fe411cb1ed41f4639ca1913e7240e16e76b43d53a5b098a387574b1f4fb1617&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 11:01:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【NVDIA】Cosmos世界基础模型平台用于物理人工智能]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1mrdq4nVwKynhooM1sv7kfDa5v742EZMOicvHJZNd0Jl7ZicVba1E0LkH2QficKEWXJzTykgiaPRm4kQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>物理人工智能需要首先进行数字化训练。它需要一个自身的数字双胞胎——策略模型，以及一个世界的数字双胞胎——世界模型。在本文中，我们介绍了Cosmos世界基础模型平台，旨在帮助开发人员为他们的物理人工智能</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663566&amp;idx=6&amp;sn=a4c2d47d67405f470baedfc942b312dd&amp;chksm=fd4271eadde072bbaa886fea2e3ef464a28616eea16699d6788b414c0fe50707b09a526fb297&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 11:01:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【微软亚研】rStar-Math：小型大语言模型通过自我进化的深度思维掌握数学推理]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1mrdq4nVwKynhooM1sv7kfIPXFO5YZiawxDB5KZCKQadq22Pp2E14L8cEhRYPViccSfZ4qrNXhorzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们介绍了rStar-Math，旨在展示小型语言模型（SLMs）能够与OpenAI的o1模型竞争，甚至超越其数学推理能力，且无需通过优越模型进行蒸馏。rStar-Math通过运用“深度思维”结合蒙特卡</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663566&amp;idx=7&amp;sn=70551ffa6494cd14bad1c4ef5dea81b9&amp;chksm=fd32e1513e3dd2eef3fb4cd776b386d4360917383af72823cb5050a2d5b97329732966b99954&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 11:01:28 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2024年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！LLM4SR：关于大</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247663566&amp;idx=8&amp;sn=484860b8c851e9dc37e12cbada5faf84&amp;chksm=fda508b524990639b459a671682910d0100af0ddcc42d07865b177b43a39c4e34072c874c1dd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 11:01:28 +0000</pubdate>
       
 
     </item>
