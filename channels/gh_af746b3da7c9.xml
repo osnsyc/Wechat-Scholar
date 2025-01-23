@@ -41,17 +41,57 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[大模型由"社恐"变身"懂王"的迷之自信从何而来？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah4EU8ToreeIpT4artDnOW8ernb6AobhiaI37HpYaj5qQD2x3EGoNFeI7m8UGgFcV4slarTbvHKpow/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，你让LLM做一道选择题，它直接选答案时像个社恐，支支吾吾说“可能是B吧”；但如果你让它先写个解题过程，它立刻变身“懂王”，拍着胸脯说“必须是B！我算过！”——即使答案是错的！论文：Multi</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535526&amp;idx=1&amp;sn=d54e0b5b2255c760b0e5c7073be7644e&amp;chksm=ea28ee4a08a3562ece6838cfa5c0de0a4de4e10f5831605d87cae0c5696f61f7ee4b6dd59eb8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 22 Jan 2025 00:00:00 +0000</pubdate>
+      <title><![CDATA[探索如何将LLM应用到个人项目中，发现高性价比大模型新宠]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibaupOMkDnHMPSUp9Vt1amviam8tvX7iaqd3AdYqTQnv1mO8Gg8N6kYsA8v2u8tskHicaDz9E1AaNvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，我在探索如何将大模型应用到个人项目中时，在大模型交流群里面发现了一个非常值得推荐、性价比超高的模型——GLM-4-Air-0111。作为GLM-4-Air的升级版，它不仅性能全面提升，价格还降到</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535580&amp;idx=1&amp;sn=7f36bb55704e4123afcb482d23784400&amp;chksm=ead287f0d36062922b5118b925c51c31880ac09ea0d87aec14d44a1be47bd6b351be26454804&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 23 Jan 2025 07:42:18 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[从话痨到省流大师，效果堪比双十一满减：TALE让LLM学会“断舍离”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah4EU8ToreeIpT4artDnOW8GnjfRfoI88ye16NCF2onb4oErScjuibu0y6g4D45iaEnrRJARicZiax3TA/300?wxtype=jpeg&amp;wxfrom=0"/><p>你以为只有人类会为了省钱精打细算？大语言模型（LLM）也开始学会“抠门”了！传统思维链（CoT）推理虽然让模型表现更聪明，但代价是生成一长串中间步骤，活像个话痨，输出令牌数飙升，烧钱又费电。比如一个问</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535526&amp;idx=2&amp;sn=f710ebac89a5ef5a77548924d4dc514e&amp;chksm=eab2b5df40c706048fadcf003758ef79c36d7ed18132cc239f6bb290afcd40b4715de1bc0478&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[北航团队发布XRAG-Ollama：助力轻便本地化部署RAG实验框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibaupOMkDnHMPSUp9Vt1amN4RZqc68ibK4sXKEfNZKsjxOJSPkwgRxibB8JwT885EF1aO03nodULeQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>XRAG支持全面的RAG测评Benchmark与Toolkit，涵盖了50+以上的测试指标与RAG的全面评测与失败点优化，支持4类Advanced RAG模块（ 查询重构， 先进检索， 问答模型， 后</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535580&amp;idx=2&amp;sn=8d906568d65c14d1ec1963877a8737fc&amp;chksm=ea00b5f59f5e02b742b14e9097bd3efc767c55b88556e89b38cdf31f5c261aeeb7e1467e558d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 23 Jan 2025 07:42:18 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[谈谈对DeepSeek-R1的一些理解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibaupOMkDnHMPSUp9Vt1am53gSIqWk0S7RtS5owSxyb2hrRiblgJpcBWsTbIF6dMW3Ow6ibuPhTibNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记一、写在前面在OpenAI o1刚放出来时，它有限的技术报告里，有2个内容格外抓人眼球：Inference/test-time scalingRL我一直是把这2者理解为两个独立的个体</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535580&amp;idx=3&amp;sn=ac941bd5be198c867ea972ecc4cbbd5c&amp;chksm=ea28e4eecea9f476c13028a90e9c1246c1ac4fec41ce4c77edfbb685d7b30bb8bf410bf0052e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 23 Jan 2025 07:42:18 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[大模型由"社恐"变身"懂王"的迷之自信从何而来？]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah4EU8ToreeIpT4artDnOW8ernb6AobhiaI37HpYaj5qQD2x3EGoNFeI7m8UGgFcV4slarTbvHKpow/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，你让LLM做一道选择题，它直接选答案时像个社恐，支支吾吾说“可能是B吧”；但如果你让它先写个解题过程，它立刻变身“懂王”，拍着胸脯说“必须是B！我算过！”——即使答案是错的！论文：Multi</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535526&amp;idx=1&amp;sn=d54e0b5b2255c760b0e5c7073be7644e&amp;chksm=ea28ee4a08a3562ece6838cfa5c0de0a4de4e10f5831605d87cae0c5696f61f7ee4b6dd59eb8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 22 Jan 2025 00:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[从话痨到省流大师，效果堪比双十一满减：TALE让LLM学会“断舍离”]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah4EU8ToreeIpT4artDnOW8GnjfRfoI88ye16NCF2onb4oErScjuibu0y6g4D45iaEnrRJARicZiax3TA/300?wxtype=jpeg&amp;wxfrom=0"/><p>你以为只有人类会为了省钱精打细算？大语言模型（LLM）也开始学会“抠门”了！传统思维链（CoT）推理虽然让模型表现更聪明，但代价是生成一长串中间步骤，活像个话痨，输出令牌数飙升，烧钱又费电。比如一个问</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535526&amp;idx=2&amp;sn=f710ebac89a5ef5a77548924d4dc514e&amp;chksm=eab2b5df40c706048fadcf003758ef79c36d7ed18132cc239f6bb290afcd40b4715de1bc0478&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 22 Jan 2025 00:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
