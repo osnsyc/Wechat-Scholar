@@ -46,11 +46,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[Fused AllGather_MatMul Triton工程实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vw1nMOtvUEOKGzeCwNC5ULicMYgJWFVoo6B9YOaBDLmocyStsMNR8xNcp4UpfdW4jqkREqx91Ndkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言yifuwang 在 https://github.com/yifuwang/symm-mem-recipes 中实现了一个 triton_all_gather_matmul.py ，也</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526168&amp;idx=1&amp;sn=d9817acecbe047f63430d2953965ecb2&amp;chksm=9eb96c3f7972bd55f05ba78bcfec073e143376763204b445895bcf963cf4cd7a3a96412826c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 24 Jan 2025 10:51:37 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[谈谈对DeepSeek-R1的一些理解]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNDib4nCAroOEOW3ZKWWReKKvia4Kb81n8FIJzWnffVvuh3SavYJjdrdPFH0rJK6KXDmNzHQp2oicnlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、写在前面在OpenAI o1刚放出来时，它有限的技术报告里，有2个内容格外抓人眼球：Inference/test-time scalingRL我一直是把这2者理解为两个独立的个体，在这个基础上，当</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526147&amp;idx=1&amp;sn=0a279482ae4ad49c5ae2922f37d2d7d3&amp;chksm=9eac12372855c30d70c1fd299bf9eb7d428be2f558b144455f840a75620de94a644915c4f41f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 23 Jan 2025 14:44:13 +0000</pubdate>
+      
+
     </item>
     <item>
       
