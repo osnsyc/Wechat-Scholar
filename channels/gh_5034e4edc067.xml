@@ -53,31 +53,87 @@
 
 
 
-
-
     <item>
+      <title><![CDATA[谈谈对DeepSeek-R1的一些理解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkNDib4nCAroOEOW3ZKWWReKKvia4Kb81n8FIJzWnffVvuh3SavYJjdrdPFH0rJK6KXDmNzHQp2oicnlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、写在前面在OpenAI o1刚放出来时，它有限的技术报告里，有2个内容格外抓人眼球：Inference/test-time scalingRL我一直是把这2者理解为两个独立的个体，在这个基础上，当</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447321&amp;idx=1&amp;sn=bb9473d01dfe55e5859263ccee9a711d&amp;chksm=bfb64d406bda667e3fe3c3c8ca316f1229423cacf474afdbd022d174de41d405a62fea2a1ce1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 25 Jan 2025 14:59:17 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Kimi k1.5 解读及技术报告中文版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZvlMsfNDDjkO27aU46Na4Ghlt9JFyrYqU7yUmXdNPSQosJLjdFvqMTQPkENyY7YxgJevBHib2yVgqyJZ1P9coVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>前几天Kimi 发布了k1.5，报告原文：https://github.com/MoonshotAI/Kimi-k1.5/blob/main/Kimi_k1.5.pdf通过 GPT API 将其全文翻</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447321&amp;idx=2&amp;sn=4e80c9ef98f5b3b74dc990d4e226c436&amp;chksm=bf9a4e077b79a0fa9570cce00c5d749bb66b8ea30f41ac7c7b55a9e1ba092dbcefe2920dcf9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 25 Jan 2025 14:59:17 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Deepseek-R1 &amp; Kimi-1.5读后有感 | 大道至简的o1]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5keghc1iahc7CkschY2DDJ7eFyaeJVpibZmO7mlSGeYs0exIVAibGbThKmmicsE7JMq2GMbLN2jz9x6fw/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/19838650037deepseek 的这篇 R1 技术报告实在太优雅了，也是越来越有 OpenAI 那个感觉了：大道至简，沿着最简单</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447321&amp;idx=3&amp;sn=d9a0d43e73438e4190da2e6de0678ce3&amp;chksm=bfe6768789989ed72182f5e5e63c08682fcf215f827471c12aede82f91bac67bcde68b7192e4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 25 Jan 2025 14:59:17 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[DeepSeek-R1 解读及技术报告中文版]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJiaib0PdzOmlkSJYzbvn0vTeeQMVXxpX0rdjKTSkMbPuFdp3Zj9r7LFCNJYV45VlpKoAOUuFNDv2Vw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天DeepSeek发布了DeepSeek R1的技术报告：技术报告原文：https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447312&amp;idx=1&amp;sn=42d9797bc22f3a8a2a146b9ac88c7c66&amp;chksm=bfb951fbccf5dbb4230c697eb30807111d57fcb84e725dbeb1e70e77997bc8e07399eb527301&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 23 Jan 2025 09:17:24 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[张俊林：MCST树搜索会是复刻OpenAI O1/O3的有效方法吗]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJiaib0PdzOmlkSJYzbvn0vTexsjEAKosjaYbZtp4DPicAGcFAibbM2acfjWF2X4dNlHiaWzt6C2PVOVVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：张俊林链接：https://www.zhihu.com/question/10114790245/answer/85357871114Deepseek R1和Kimi K1.5同一天公布技术报告</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447312&amp;idx=2&amp;sn=f5e4af92e12e360753a15f22e80f6522&amp;chksm=bf482f27dca37003e6595d6cfce52a1438fdd993b9e2cdf41c6e998b3e493a95e97c34ab797f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 23 Jan 2025 09:17:24 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DeepSeek-R1技术报告速读]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJiaib0PdzOmlkSJYzbvn0vTe3E9UYl6DefYasbFRc5nZFmibtKVzNYdd4kWkibuECGtG5gGUzruccfBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：Meta原文：https://zhuanlan.zhihu.com/p/19530895760整理：青稞  春节将至，DeepSeek又出王炸！DeepSeek-R1系列重磅开源。本文对其技术</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447312&amp;idx=3&amp;sn=fae431ed18f0b29ddad2c5bb7c190ae1&amp;chksm=bf368d837ecdd722a5eef814a728c57de9985fcaf848f2d846f4c1738ac7908afecd1936ae35&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 23 Jan 2025 09:17:24 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[多模态入门--InternVL系列]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW467tSslibP3xMoGXcuUMfoB3pj5VrDE0X9ibPRWHpdnJHskTQCOM4DbttXmZW5hnHs44Zic4uvfDD2oOg/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近InternVL2.5和Mini-InternVL-2相继发布。看了下，发现Intern模型在MLLM领域的相关工作还挺多的。前面的文章已经讲解过InternLM-1/2/2.5，而在多模态入门(</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447312&amp;idx=4&amp;sn=b4a9b10f77e97efbbc7aef2db9b6b23c&amp;chksm=bf28b864e7c493938eccf12c4bbdd93b273d9ab05cbe281c4d6c5e074604a13de08cbf5c239f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 23 Jan 2025 09:17:24 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -316,86 +372,6 @@
       
 
       <pubdate>Sun, 19 Jan 2025 12:01:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[特供版RTX 5090D被曝不能「炼丹」！AI算力3秒锁死，不支持多GPU配置]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIGibpwicp5dlniaLuclBz3aZg9LaMSkoN0TXXA5YjYiaxRXajuaqW0PN7YHW1FmaqOZae6ZP6WI4RYmg/640?wxtype=jpeg&amp;wxfrom=0"/><p> 新智元报道，编辑：泽正 好困【导读】英伟达针对中国市场即将发售的RTX 5090D被曝出无法「炼丹」，3秒即可自动锁死算力。而且也不再支持多卡服务器配置与超频。该显卡或成「笼中金雀」，只能供游戏党细</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447216&amp;idx=1&amp;sn=84412edbe684e3dac905812d0c2e8193&amp;chksm=bf041b128e211e8ff16410ce4b1d75724b69c398c35c44592bd5c9093abb1150b63a5cdcc114&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 17 Jan 2025 10:25:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[文末赠书！“西瓜书”《机器学习》官方配套习题集重磅出版]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIGibpwicp5dlniaLuclBz3aZgD8wtIOY9wA6jI1up65ia67nibrKv2Z2lZzvtZFmZB1FSgJlBovXhewbg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作为人工智能领域（AI）中文教材扛鼎之作，南京大学周志华教授所著的《机器学习》帮助无数AI从业者理清了机器学习的基本原理。在书中，周志华解释机器学习基本术语和问题时，贯穿全书用西瓜进行比喻讲解，因此该</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447216&amp;idx=2&amp;sn=c5061414e4159bbbecd770d904d26ecb&amp;chksm=bf63790f5276f2150209ee6dbe5e06ca48812061c558c3890e6ab15b1f7b11365d6d624564a3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 17 Jan 2025 10:25:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多模态入门--CogVLM,VILA,MM1,MM1.5和Pixtral-12B]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW466ttLDYX3XVSHSHVeNIJiahEphHJKVuribEv04FLqKvqg5FY7BOl83cXoAZA4cicypc2csdKVPHH7ukg/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇主要包括CogVLM，VILA，MM1，MM1.5和Pixtral-12B。1.CogVLM论文：《CogVLM: Visual Expert for Pretrained Language Mo</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447216&amp;idx=3&amp;sn=976ccb8b77d664671a7358e0bb5ff7ec&amp;chksm=bf354041f5c317009030bf57bceee7668fd8de906a061173adef3caac3c02a48d5b6672f1c96&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 17 Jan 2025 10:25:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【多模态&amp;LLM】Reyes：一个从0到1开始训练的多模态大模型（技术报告）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGDN0QSHsP0HQ4HWrQELzDZiajvKvGRDBBQraUWl8RyibCUic3uaeChcyMM5DRvGfRibJosEibx9icWPuasQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近，笔者系统的看了下一些比较经典的多模态大模型实现思路，本着动手实践的态度，从零到一实现了一个多模态大模型，并命名为Reyes（睿视），R：睿，eyes：眼。Reyes的参数量为8B，视觉编码器使用</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447216&amp;idx=4&amp;sn=073697b5e1728b8079f5ae5868cc420d&amp;chksm=bf6dbb8a615d0a53c42e888588d29c504dc9098fff28f453c61eddcc0b2ae81f4072cadbfcf7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 17 Jan 2025 10:25:25 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从“说”到“做”：大语言模型为何会进化成智能体]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9MSPBmHaWGzMIibOvgkr2oYsH0DY4JxxokkUDdjzKJAPhVD0KWJtSPMicqiaOcOicXpvUutrkIAlLG1XNTxMXyWuRw/300?wxtype=jpeg&amp;wxfrom=0"/><p>    媒体上有关智能体的文章如同天上的繁星，这些文章大多数是从商业角度进行的概念炒作，有深度的文章却很少，尤其是从技术原理角度阐述的文章更是少之又少。我决定从技术原理角度展开对智能体的讨论，力求通俗</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447216&amp;idx=5&amp;sn=8f0bc185b489f18820de432114f3c3cd&amp;chksm=bf22f58b84da398ab1bf39f5d1a55f83908544c55cdbda94c57fc3961dcf853ea367b046e57d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 17 Jan 2025 10:25:25 +0000</pubdate>
       
 
     </item>
