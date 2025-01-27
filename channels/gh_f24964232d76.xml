@@ -47,11 +47,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[【Efficient AIGC】SiTo_ Similarity-based Token Pruning (AAAI-2025)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sPmkNIZpCzE0iaxSicsEkWZsHnG94QUuD9nq7TeFc2cy0fVUibico0z1CQ31ibTBXa6wQkBcmhLegd7Gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在这里插入图片描述在这里插入图片描述SiTo: Training-Free and Hardware-Friendly Acceleration for Diffusion Models via Si</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526186&amp;idx=1&amp;sn=6c72b1f8cc34c9934fe0ec2659cc6edf&amp;chksm=9edee638fd3166e33c51421a11cb7cf8a80ba7ea4ae2c435e9022f01d18c11f8a1e667d6ff2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 26 Jan 2025 14:39:50 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Fused AllGather_MatMul Triton工程实现]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vw1nMOtvUEOKGzeCwNC5ULicMYgJWFVoo6B9YOaBDLmocyStsMNR8xNcp4UpfdW4jqkREqx91Ndkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言yifuwang 在 https://github.com/yifuwang/symm-mem-recipes 中实现了一个 triton_all_gather_matmul.py ，也</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526168&amp;idx=1&amp;sn=d9817acecbe047f63430d2953965ecb2&amp;chksm=9eb96c3f7972bd55f05ba78bcfec073e143376763204b445895bcf963cf4cd7a3a96412826c1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 24 Jan 2025 10:51:37 +0000</pubdate>
+      
+
     </item>
     <item>
       

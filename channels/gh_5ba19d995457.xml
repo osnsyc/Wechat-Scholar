@@ -51,23 +51,74 @@
 
 
 
+
+
+
     <item>
-      <title><![CDATA[浙大 | 腾讯 | 华为提出视频生成框架VideoMaker，可由参考图实现Zero-shot定制化视频生成。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekaVfDRjALdOCj5889F1MpALuqg2wbFklkt9TIVHLSyQfTQ65do3Pe4Szhc0sWs0dMVTLfiavGbvRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>浙大联合腾讯和华为提出了一种新的定制化视频生成框架——VideoMaker，利用VDM的内在能力，实现高质量的zero-shot定制化视频生成。该方法通过直接输入参考图像到VDM中，利用其固有的特征提</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490056&amp;idx=1&amp;sn=515a850881d7ef3822914ea6560d3fe1&amp;chksm=fdca9bd4cd455e689d4221795ed3a48e51a7a8bd31df2e309570e49c5780f65d6bf29cb81bdd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 26 Jan 2025 00:08:00 +0000</pubdate>
+      <title><![CDATA[单张照片生成3D头部模型！Adobe提出FaceLift，从单一人脸图像重建360度头部模型。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elbUxtWfuPV6pAhibibicT3oe4qXFbiaEqoEPejUQNwuqLOrpIE3WmoKJBxjrMnCoHDn3huArYyaCa7Ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>FaceLift是Adobe和加州大学默塞德分校推出的单图像到3D头部模型的转换技术,能从单一的人脸图像中重建出360度的头部模型。FaceLift基于两阶段的流程实现:基于扩散的多视图生成模型从单张</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490057&amp;idx=1&amp;sn=abf129eb3d79e47e5868f82fb2c27131&amp;chksm=fd9941c812f75472c02b9919c97a24ac51e9f744f06c2d95ff899d806b3168f8ee11988e2aea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[一键脱衣？TryOffAnyone：从人像输入中生成高质量平铺服装。]]></title>
+      <title><![CDATA[一键试衣or一键脱衣？TryOffAnyone：从人像输入中生成高质量平铺服装。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUnCMiaBjZZszIFmMq4b6eoaD7GTE6xt5Kkbz15pCGnYFBHiaXPN7qYcV79yBTU689jcMRI5dJd0g/300?wxtype=jpeg&amp;wxfrom=0"/><p>TryOffAnyone 是一种新颖的单阶段框架，旨在从穿着衣服的人的输入图像和覆盖服装区域的相应服装掩码合成高质量的平铺布料图像。在 VITON-HD 等基准数据集上实现了最先进的性能。该方法在为全</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490056&amp;idx=2&amp;sn=c2ea44a0f6e1f07f65487d61e6412a7d&amp;chksm=fd112f0f1371c0eaf18562e06b386ac72123601926151ffbf5be041b5380504cf2629aaaf778&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 26 Jan 2025 00:08:00 +0000</pubdate>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490057&amp;idx=2&amp;sn=bc8fef13bc2549981e44048cb0ce7664&amp;chksm=fdc3bef4062c2ca60abc1de2e59d7633505ea3632ac5e653b4afaee22b45b08a5c37c1a8f94b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekB7CXUYR45xqh1P2Q9zWuxgmicJiaO6JPkkhoaibkSARt6qftWXI9ofZjt9NK9vuibg0UrfhA2kTPRaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT今天介绍的文章来自公众号粉丝投稿，腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT，给定一个人像图像和一个衣物图像，就可以生成一个</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490056&amp;idx=3&amp;sn=c251f6741179b8376358db838c84bd6b&amp;chksm=fd4e02ee03cd7d095d3a8e55f9b6f2b344a8493200479a2c7d298e8bf5cab6b1c928d230c38b&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[Adobe发布TurboEdit：可以通过文本来编辑图像，编辑时间<0.5秒！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elKcprhHqENugIHSUTwb3EOiaaqictMa8fmmNEDqsoISMhGDZH4oZmh7vtMn5sov6khPdhIypPkhDZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍Adobe研究院新的研究TurboEdit，可以通过文本来编辑图像，通过一句话就能改变图像中的头发颜色、衣服、帽子、围巾等等。而且编辑飞快，<0.5秒。简直是图像编辑的利器。相关链接项目</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490057&amp;idx=3&amp;sn=8c33be1915dfe03902e10b066e2fc7c6&amp;chksm=fdbf1488eda57bc8c82735506307c1fbdb6ce67b2ad1e96e7c7c2ee7ce0e7550abae3df32d22&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[浙大 | 腾讯 | 华为提出视频生成框架VideoMaker，可由参考图实现Zero-shot定制化视频生成。]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekaVfDRjALdOCj5889F1MpALuqg2wbFklkt9TIVHLSyQfTQ65do3Pe4Szhc0sWs0dMVTLfiavGbvRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>浙大联合腾讯和华为提出了一种新的定制化视频生成框架——VideoMaker，利用VDM的内在能力，实现高质量的zero-shot定制化视频生成。该方法通过直接输入参考图像到VDM中，利用其固有的特征提</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490056&amp;idx=1&amp;sn=515a850881d7ef3822914ea6560d3fe1&amp;chksm=fdca9bd4cd455e689d4221795ed3a48e51a7a8bd31df2e309570e49c5780f65d6bf29cb81bdd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 26 Jan 2025 00:08:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[一键脱衣？TryOffAnyone：从人像输入中生成高质量平铺服装。]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUnCMiaBjZZszIFmMq4b6eoaD7GTE6xt5Kkbz15pCGnYFBHiaXPN7qYcV79yBTU689jcMRI5dJd0g/300?wxtype=jpeg&amp;wxfrom=0"/><p>TryOffAnyone 是一种新颖的单阶段框架，旨在从穿着衣服的人的输入图像和覆盖服装区域的相应服装掩码合成高质量的平铺布料图像。在 VITON-HD 等基准数据集上实现了最先进的性能。该方法在为全</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490056&amp;idx=2&amp;sn=c2ea44a0f6e1f07f65487d61e6412a7d&amp;chksm=fd112f0f1371c0eaf18562e06b386ac72123601926151ffbf5be041b5380504cf2629aaaf778&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 26 Jan 2025 00:08:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekB7CXUYR45xqh1P2Q9zWuxgmicJiaO6JPkkhoaibkSARt6qftWXI9ofZjt9NK9vuibg0UrfhA2kTPRaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT今天介绍的文章来自公众号粉丝投稿，腾讯优图提出首个基于DiT的高保真虚拟试衣算法FitDiT，给定一个人像图像和一个衣物图像，就可以生成一个</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490056&amp;idx=3&amp;sn=c251f6741179b8376358db838c84bd6b&amp;chksm=fd4e02ee03cd7d095d3a8e55f9b6f2b344a8493200479a2c7d298e8bf5cab6b1c928d230c38b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 26 Jan 2025 00:08:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -354,70 +405,6 @@
       
 
       <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Snap | 港科大提出端侧文生图模型SnapGen，参数仅SD十分之一，1.4秒内生成1024分辨率图像。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elSjibdLXhMBHvRNlreoaGcicDuiaVeqQlxjbAyWQVBK9zTWxMkxd3V2yvSqRYageKwuRPwuQj7g2Iog/640?wxtype=jpeg&amp;wxfrom=0"/><p>这项工作提出了一种新颖且高效的 T2I 模型SnapGen，SnapGen 是第一个可以在1.4秒内在移动设备上合成高分辨率图像（1024x1024 ） 的图像生成模型（379M ） ，并在 GenE</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=1&amp;sn=1432436e0f71b9b7e486560668eeed7a&amp;chksm=fd9bc6a0e991e310061f042c8137126e01921ff048fc146bdb79d645fa89ad4db423f53e59fc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OminiControl：一个新的FLUX通用控制模型，单个模型实现图像主题控制和深度控制。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYEn3PFyv0qTxQYEgq8VntmUj91vEEYPJjMADiamfkH94icSBs7fF1Tn1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中和大家介绍过Flux团队开源了一系列工具套件，感兴趣的小伙伴可以点击下面链接阅读~AI图像编辑重大升级！FLUX.1 Tools发布，为创作者提供了更强大的控制能力。OminiContro</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=2&amp;sn=5f893661ace33b3910b950d9030b7a1c&amp;chksm=fdaad180939f5106e2305580c604ad3fa7e7f1ee76410babf76cc5e46cf65de4c08bb3da09a7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[阿里发布新ID保持项目EcomID, 可从单个ID参考图像生成定制的保ID图像，ComfyUI可使用。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elnGoicbmLL47YzLd4HWhjwazEmicf1F7ZjrxQSj4JNP3x3icluxM84Et2UYGdsdxfDOXnd9OlZYFCwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妈妈发布了一个新的ID保持项目EcomID，旨在从单个ID参考图像生成定制的保ID图像，优势在于很强的语义一致性，同时受人脸关键点控制。EcomID 方法结合了 PuLID 和 InstantID</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=3&amp;sn=2a131da1305f4c755047f499f0b2fb72&amp;chksm=fd9be0eebc204661357981b7050c377b021814104b3d4c883a27a20527b26204b3694c9f62ed&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[港大和字节提出长视频生成模型Loong，可生成一分钟具有一致外观、动态和场景过渡的视频。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eny4Iriba5NSXkHvLxicLITJD5gFTkWLoBqMSNfUicQxXgibIh9n6vokK5ia5EOh7ZDJLVHGEsbaLz86XA/300?wxtype=jpeg&amp;wxfrom=0"/><p>HKU, ByteDance｜⭐️港大和字节联合提出长视频生成模型Loong，该模型可以生成外观一致、运动动态大、场景过渡自然的分钟级长视频。选择以统一的顺序对文本标记和视频标记进行建模，并使用渐进式</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489957&amp;idx=4&amp;sn=a3dc9baea4db7b2ce69c09edf47daebe&amp;chksm=fdce4e89e36260261732b1375680ed14de82d2c716f27c5952d048065d3058b47cb8a2e759f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 16:00:00 +0000</pubdate>
       
 
     </item>
