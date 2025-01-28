@@ -51,11 +51,40 @@
 
 
 
+
     <item>
+      <title><![CDATA[DeepSeek创始人专访：中国的AI不可能永远跟随，需要有人站到技术的前沿]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKribbG17YFuCS0Sm8SZZibGjqA0BXmsibxcZtK6mRGaiaaicAyUkcDao9frWXN5Hhq233j9zicCjNo6eCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源：暗涌Waves，整理：Founder Park编者按：最近 DeepSeek R1 出圈，DeepSeek 又又又火了，再来看一下这篇专访，唯有 Respect！因为 V3 版本开源模型的发布，</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447374&amp;idx=1&amp;sn=ba9deaf964da984b38f9fddf3bc270c2&amp;chksm=bfe45eb23b079232d49a833d26c018651cc4360d014545784e2f8cf563d823f3fb0c9f78bc75&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 Jan 2025 12:20:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Open-R1: DeepSeek-R1 大模型开源复现计划]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdHgiaS59NzcaaibSjDts2JMft7YUia3ohD5UpibzyspDXRvdO9vibl0ic9WsSkdsTLoq1trU6RUPdBYy8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>项目链接：https://github.com/huggingface/open-r1概述Open-R1 是由 HuggingFace 发布的一个完全开放的项目，旨在通过三个主要步骤复现 DeepSe</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447374&amp;idx=2&amp;sn=4a6fbd2eb3efd1f9d824827ffcc38533&amp;chksm=bf95da2c96c1ce956b0b05b747a4ce9a68f92eba0b44d248230e7e81e890a2f8120900d4e012&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 Jan 2025 12:20:32 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[探索一个关于deepspeed zero3的认知误区]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkPKeq5cEN4kKIMNSv2nMVHeLaSmtce7JvO0Khsn90N6xS9DrkhfGxzkWUVxE2AE4FdadlRHSh4Zug/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，今天想来看一个和zero3权重切分方式相关的问题。之所以想来谈这个问题，是因为当前一个由deepspeed team官方给出的、传播度非常广的zero3运作流程视频解说，和它实际的代码实现间存</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447374&amp;idx=3&amp;sn=4535a37e36cd7323efa5d8f7395e21fa&amp;chksm=bfd94688328ad1c884748771f57b765f93d1d02957c0486f1bd9359ae7ecca364743a96b1087&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 Jan 2025 12:20:32 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Kimi k1.5上线喽，我把2025年“南外杯”数学竞赛题甩给了它。。。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJFefagz4F2rT1P0KDP2jOjxXn44uz4twh5FC1JRBdPPuzpEgTnavbue4b9h1ZiaxR6OI5SJ4YH9Ow/640?wxtype=jpeg&amp;wxfrom=0"/><p>早上听朋友说Kimi k1.5全面上线喽，赶紧去看了一下，果然网页版已经可以看到k.15长思考的接口了:这次Kimi k1.5的技术报告中 “Kimi k1.5 解读及技术报告中文版” 我最感兴趣的是</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447363&amp;idx=1&amp;sn=4baa362e468cb5e5c890c9b4c7005ce6&amp;chksm=bfe8bb7b0dca6c07563eee9218df8ea350837f87a0efbf9eb10d4b899979c6e58e40c06f4353&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 26 Jan 2025 09:03:10 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -326,86 +355,6 @@
       
 
       <pubdate>Mon, 20 Jan 2025 14:58:46 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[MiniMax-01 与 DeepSeek-V3 对比]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJ1yQONMJ5WkKnuuIa3Sib254A9GZ0OiceOhiaIWNXGsNPDf2JYibbUxdcRe7WGRldSjV17dZd1nT6x0A/640?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：雅各布，代码智能Copilot&amp;高性能分布式机器学习系统原文：https://zhuanlan.zhihu.com/p/18653363414整理：青稞       MiniMax-01 与 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447230&amp;idx=1&amp;sn=b0280415ba4e17544df109909de5f0dc&amp;chksm=bfd60a1d907120157aeea484c674fabf4e2986ae91fda0834147132612a10c692a30683446c0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 12:01:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Nvlink对大模型推理的速度有多大提升？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLibaSjLXGjC8Io1e9fz1K7M41KY7oibRESiaOno9pqv6YYW1ziaCJSzEha2kdmWyFLZ6xSbqAsqmvZ1g/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Uranus源：https://www.zhihu.com/question/654832546/answer/71647384740先放结论，NVlink 对推理速度的提升非常大，非常非常大！</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447230&amp;idx=2&amp;sn=13462aed16741412e45f0f81b653cc00&amp;chksm=bfa909c85616d833f943943d562b5203d1c19389d3a5ad27afc0b3b56341d371c2c2498cb69a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 12:01:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[RAG 切块Chunk技术总结与分块实现思路分享]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVfiauSjWETIStBc4aQNjKx2S1C2qWflZX0fc6hIQ7fk5AvPGnCCSPvpXb4DMskjPlvk05dqf7Fibfag/300?wxtype=jpeg&amp;wxfrom=0"/><p>TrustRAG项目地址🌟：**https://github.com/gomate-community/TrustRAG**可配置的模块化RAG框架切块简介在RAG（Retrieval-Augment</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447230&amp;idx=3&amp;sn=1edbda5cd8cba1379ab5cc9c6e70efe9&amp;chksm=bfa53adc2f42782e8e78bb068fde6d399b049a8e6a9f1fe37cb3e41c9b28258e6c779651479a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 12:01:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[手写大模型组件之Group Query Attention，从 MHA，MQA 到 GQA]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BrtBjG6XSzIRRlEmT6EQbvFKoBEib0eu4OyZUwmmxvic78XUCa0nt8Un6H73Rlz2pTBf3SDspWO2uyslsicDm3IsA/300?wxtype=jpeg&amp;wxfrom=0"/><p> 备注：：本文首发于 https://bruceyuan.com/hands-on-code/hands-on-lora.html 后续有修改会更新于 博客中（实在是博客没人看啊） • GQA（Gro</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447230&amp;idx=4&amp;sn=0d9874ca4981b427e08d47512f43f304&amp;chksm=bfe7abfb013eb3d95fc73113d8a1d74e44d2616fd4bad04a875b55e80036924334adb8af7254&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 12:01:45 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[这才是智能体的高级玩法：人类社会的模拟]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9MSPBmHaWGyLFiaf6nic21TlLscOyApFOBZibibNwKodDlyZxUaWJfFcW9uz4ib1SicLjqQpwPv70AwylCDiaMP8TN2dA/300?wxtype=jpeg&amp;wxfrom=0"/><p>    写在前面的个人观点：有关智能体的商业炒作目前是如火如荼，但很少有“杀手级”的落地产品。我认为主要的原因在于智能体应用的方向偏了。大语言模型是一个概率模型，将单个智能体运用到一个精确率要求很高的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447230&amp;idx=5&amp;sn=46c7be7a70277935ca72cc3c238a7568&amp;chksm=bfafdea2d6b7a5673910fba23d0f3f42ccbdbba2c3a8cd2cfe49d672d379a7bd2b4c35fe66a4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 19 Jan 2025 12:01:45 +0000</pubdate>
       
 
     </item>

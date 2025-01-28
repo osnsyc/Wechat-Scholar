@@ -53,24 +53,77 @@
 
 
 
+    <item>
+      <title><![CDATA[英伟达开源4K图像生成模型Sana，可在16G显存电脑部署，支持ComfyUI和LoRA训练。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek6Zafxy9AicSRodyIcwlSHNT9mr6NOzfTpJPhveE41Xmh1RVMhhibAgXAt3qSb6eFx0HfpEYX74THA/640?wxtype=jpeg&amp;wxfrom=0"/><p>英伟达开源了一个可以直接生成 4K 图片的模型 Sana。 Sana-0.6B 可以在 16GB 的笔记本电脑 GPU 上部署。生成 1024 × 1024 分辨率的图像只需不到 1 秒钟。官方已经支</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490058&amp;idx=1&amp;sn=f671f319d7fd3f82c07be81aa55e5d2e&amp;chksm=fd2fa9352628b4ff1d6bf2f915de5fba7754aa2146ab0844f895cf296f9e8054e23e35342a70&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[复旦&amp;字节提出layout-to-image新范式，支持基于布局的MM-DiT架构下可控图像生成！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekXX8zYF4UxzjmCibmVsNeNfHdzvia0ykHy5vQljhxHZhBKib0DHCIdedbOAMsic8KZ423vtGia19o4Wow/300?wxtype=jpeg&amp;wxfrom=0"/><p>本篇分享论文CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490058&amp;idx=2&amp;sn=781b6dc047987911723ab4d92e23378b&amp;chksm=fd8118d00f71769b5a87ce76c4599f7c3d0195c96a246327b08ec706f264bdfc71f7019ce276&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[SHMT：通过潜在扩散模型进行自监督分层化妆转移（阿里&amp;武汉理工）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsjQl0sGle0TkYDcmMMuGmbtLXibkDVicOAa1tpYmub1EJgQJfZ41lm6WQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前的妆容转移技术面临两个主要挑战：缺乏成对数据，导致模型训练依赖于低质量的伪配对数据，从而影响妆容的真实感；不同妆容风格对面部的影响各异，现有方法难以有效处理这种多样性。今天给大家介绍的方法是由阿里</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490058&amp;idx=3&amp;sn=04b9f8f32aa3b7145c1821b47d4ea26b&amp;chksm=fd8a91cc96f2a2e1f3d41311d6c21bd95ff9b7cd6d1a34f76e7e1317e3ab7127dc8ba3c8fafa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[提出街景定位大模型AddressCLIP：一张图实现街道级精度定位！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eldKGCwibmhq5RSxC5rV78dDcVpQDWZ2qUibtJW2qRF8ehlmicnuSw3n5MdOVQ0NTovfOnPib1RNDwBibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中科院自动化所和阿里云一起推出了街景定位大模型AddressCLIP，只要一张照片就能实现街道级精度的定位。比如给模型看一张北京南锣鼓巷的街景之后，它直接给出了具体的拍摄位置，并列举了附近的多个候选地</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490058&amp;idx=4&amp;sn=187ced6c7d7f40ec09a755763c6b9670&amp;chksm=fdbb265fbde436ab4fc4e9a040a1e60d68e1f8fe5cb9ed097502d404f8fbc9ee9218b3981df6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 27 Jan 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
 
-    <item>
       <title><![CDATA[单张照片生成3D头部模型！Adobe提出FaceLift，从单一人脸图像重建360度头部模型。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elbUxtWfuPV6pAhibibicT3oe4qXFbiaEqoEPejUQNwuqLOrpIE3WmoKJBxjrMnCoHDn3huArYyaCa7Ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>FaceLift是Adobe和加州大学默塞德分校推出的单图像到3D头部模型的转换技术,能从单一的人脸图像中重建出360度的头部模型。FaceLift基于两阶段的流程实现:基于扩散的多视图生成模型从单张</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490057&amp;idx=1&amp;sn=abf129eb3d79e47e5868f82fb2c27131&amp;chksm=fd9941c812f75472c02b9919c97a24ac51e9f744f06c2d95ff899d806b3168f8ee11988e2aea&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[一键试衣or一键脱衣？TryOffAnyone：从人像输入中生成高质量平铺服装。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUnCMiaBjZZszIFmMq4b6eoaD7GTE6xt5Kkbz15pCGnYFBHiaXPN7qYcV79yBTU689jcMRI5dJd0g/300?wxtype=jpeg&amp;wxfrom=0"/><p>TryOffAnyone 是一种新颖的单阶段框架，旨在从穿着衣服的人的输入图像和覆盖服装区域的相应服装掩码合成高质量的平铺布料图像。在 VITON-HD 等基准数据集上实现了最先进的性能。该方法在为全</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490057&amp;idx=2&amp;sn=bc8fef13bc2549981e44048cb0ce7664&amp;chksm=fdc3bef4062c2ca60abc1de2e59d7633505ea3632ac5e653b4afaee22b45b08a5c37c1a8f94b&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[Adobe发布TurboEdit：可以通过文本来编辑图像，编辑时间<0.5秒！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elKcprhHqENugIHSUTwb3EOiaaqictMa8fmmNEDqsoISMhGDZH4oZmh7vtMn5sov6khPdhIypPkhDZQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍Adobe研究院新的研究TurboEdit，可以通过文本来编辑图像，通过一句话就能改变图像中的头发颜色、衣服、帽子、围巾等等。而且编辑飞快，<0.5秒。简直是图像编辑的利器。相关链接项目</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490057&amp;idx=3&amp;sn=8c33be1915dfe03902e10b066e2fc7c6&amp;chksm=fdbf1488eda57bc8c82735506307c1fbdb6ce67b2ad1e96e7c7c2ee7ce0e7550abae3df32d22&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -341,70 +394,6 @@
       
 
       <pubdate>Tue, 21 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[CVPR 2024 Spotlight | 解锁图像编辑新境界, 北大、腾讯提出DiffEditor，让精细编辑更简单！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emtHS7t5ic0uQWb1AOhKNDRVPEH3Xqks3oDpG6kIgEczYPnVPsI98I9LqibzYz8fUXeJrNILLDFicB0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>在图像生成领域，大型文本到图像（T2I）扩散模型近年来取得了革命性的突破。然而，将这些强大的生成能力转化为精细的图像编辑任务，仍面临诸多挑战。CVPR 2024, 来自北京大学深圳研究生院与腾讯PCG</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489958&amp;idx=1&amp;sn=78e02ad557acbddd73965e30230fe090&amp;chksm=fdbe7557a5166b386b9963284767c09132e19c70d858552f3ead19a6560e9aefc86fe035e88b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Adobe与MIT推出自回归实时视频生成技术CausVid。AI可以边生成视频边实时播放！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elSjibdLXhMBHvRNlreoaGcicDwNBzSGR9jz4olCuaibHPBcISVDNbZVjdKgcIl4GiaczxalR4zb0LKJQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>传统的双向扩散模型（顶部）可提供高质量的输出，但存在显著的延迟，需要 219 秒才能生成 128 帧的视频。用户必须等待整个序列完成才能查看任何结果。相比之下CausVid将双向扩散模型提炼为几步自回</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489958&amp;idx=2&amp;sn=c6502c899b6e3f852dfd2041911215b9&amp;chksm=fd54050113a0b64568ab964cb7a0254d15670d27d222e071ba613a4e6d1dea7fec1a8fb80b56&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多模态图像生成模型Qwen2vl-Flux，利用Qwen2VL视觉语言能力增强FLUX，可集成ControlNet]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enuCwIlu7cc4lHd3hwJicoyYHx9RLCm1u1zJr61WGBPZZicviaGPyXN8y5ZTaZE9jpPcdNSX1nmUlib5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen2vl-Flux 是一种先进的多模态图像生成模型，它利用 Qwen2VL 的视觉语言理解能力增强了 FLUX。该模型擅长根据文本提示和视觉参考生成高质量图像，提供卓越的多模态理解和控制。让 F</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489958&amp;idx=3&amp;sn=27a5753da03f6a835735475d04049920&amp;chksm=fd110660ccaf10ce849fe434a13dc1af783f42a485f7a20baaef50b5258309848cfe0c36dc61&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Google发布新AI工具Whisk：使用图像提示代替文本，快速完成视觉构思。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2end3mWUdomxapVIqKPBfrWChHLuwfMCvRvq1l8Kl6qfOOlq9YUxzPEdzMibDSUo0R5owCSicTJLumBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Google发布了新的AI工具Whisk，Whisk 是 Google Labs 的一项新实验，可使用图像进行快速而有趣的创作过程。Whisk不会生成带有长篇详细文本提示的图像，而是使用图像进行提示。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247489958&amp;idx=4&amp;sn=a9f392d276409795dbe3f70c902346be&amp;chksm=fd8cb3e29c053652af42eda3f111fb346358a870517a14972adf84936712f347e75edb5b911c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 Jan 2025 16:00:00 +0000</pubdate>
       
 
     </item>
