@@ -71,24 +71,77 @@
 
 
 
-
     <item>
-      <title><![CDATA[滚烫Deepseek一夜刀掉英伟达4万亿，除夕开源多模态新模型：7B超越DALL-E 3和StableDiffusion]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtA2lcSdJJzyaFy7VYPzB11xevKTpMJVJKzLBUyLxP5pCFEnaJwtkYeWX44ibfHEBh0vWkiaNxG9GHlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>白交 衡宇 发自 川渝量子位 | 公众号 QbitAIDeepSeek大爆出圈，现在连夜发布新模型——多模态Janus-Pro-7B，发布即开源。在GenEval和DPG-Bench基准测试中击败了D</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775164&amp;idx=1&amp;sn=607a459bc870ac06cecf213f2b80d6ce&amp;chksm=e9e75fcc142124ec3faf205fc1b70a44ce3d7f8cb37c91f6c6b77dc42fc5004942bd1b2a4904&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 28 Jan 2025 02:33:21 +0000</pubdate>
+      <title><![CDATA[“DeepSeek甚至绕过了CUDA”，论文细节再引热议，工程师灵魂提问：英伟达护城河还在吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtDwArib25SXMe1CIuxK2FLnMUE4voXjiau0fojicaQn4fMB80sWhK7hVUvHHx0XXjuUneqeBicauPoRMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>梦晨 西风 发自 凹非寺量子位 | 公众号 QbitAI英伟达刚刚从DeepSeek-R1引发的4万亿元暴跌中缓过劲来，又面临新的压力？硬件媒体Tom‘s Hardware带来开年最新热议：DeepS</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775209&amp;idx=1&amp;sn=0d36e2f770c815086947dd1bcb77bbe1&amp;chksm=e993e3a9b6dc87684fa38bb742f1ed1b66b3b7ac8f69470162e7e94956e50df2bb74585342a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 Jan 2025 03:25:11 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[杭州领跑AI开源！阿里Qwen除夕开源视觉理解新旗舰，全系列3尺寸，7B模型超GPT-4o-mini]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtA2lcSdJJzyaFy7VYPzB11x4fIxgqm7VDsFRsxdVQx94aiaYLzLTX7CYSWUdEibDFGBWXstSoTNibHXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>衡宇 白交 发自 川渝量子位 | 公众号 QbitAI眼看着半只脚都跨进蛇年了，杭州城还是一如既往真卷啊！今天凌晨4点，阿里通义Qwen发布新春节礼第二弹：推出视觉理解模型Qwen2.5-VL，开源的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775164&amp;idx=2&amp;sn=be1bf1557d5f26773aef439811f31c37&amp;chksm=e9c383aca27458c2613cddc17fd6b54ed35c6f496e741b658e4e71a0397e97d18d0ca86d92dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 28 Jan 2025 02:33:21 +0000</pubdate>
+      <title><![CDATA[阿里除夕发布Qwen2.5-Max反超DeepSeek V3，一句话开发小游戏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtDwArib25SXMe1CIuxK2FLnM0gRnK2OEaQt8uoC6M2p0uOna4Edzq2lc5nWibwow8hbD92ib8omzqGNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>西风 梦晨 发自 凹非寺量子位 | 公众号 QbitAI昨晚，杭州大模型又双叒不睡，给大伙儿 拜 年 啦～就在春晚直播进行时，阿里通义Qwen发布新春节礼第三弹：Qwen2.5-Max来袭，多个基准测</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775209&amp;idx=2&amp;sn=40e79f105fd8bd6e0104dd9e706cb575&amp;chksm=e9a0146a7b74aad535d2ab7a54ada7191acefdc567830590453d6bcabefe4a9517feb63c913c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 Jan 2025 03:25:11 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[清华NLP开源RAG开箱即用框架，自动适配知识库无需纠结模型选型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtAB7j9iam29Ongn1nPlaMulM6kaicK9pWzLtjy882ptcfmpNYdoldz1EJEICjFUrEVKTcLNZTvJHfwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>UltraRAG团队 投稿量子位 | 公众号 QbitAIRAG系统的搭建与优化是一项庞大且复杂的系统工程，通常需要兼顾测试制定、检索调优、模型调优等关键环节，繁琐的工作流程往往让人无从下手。近日，针</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775209&amp;idx=3&amp;sn=ecc5ca4ce6b3e9e368f482e2a14799f2&amp;chksm=e9323126e8ea160b00f17974719c80fd73454405a136f917eda8f7ca2da972fdeff83483d284&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 Jan 2025 03:25:11 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[招聘 | 具身智能机器人方向全职作者]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtDlloprRslTFUx4Nn8ej4SoNH9ib1HYYASSsxaI0BjQ65BmM2HUED0Cj4j6X9A1OYOeT41xSg2JpJg/300?wxtype=jpeg&amp;wxfrom=0"/><p>编辑部 发自 凹非寺量子位 | 公众号 QbitAI未来同事你好。量子位是一个关注AI及前沿科技的新媒体平台，我们着迷于全新技术和趋势带来的改变，并且帮助更多人第一时间看懂新趋势新机遇。你知道“具身智</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775164&amp;idx=3&amp;sn=64533d07214f8c1cf26523386d629fa0&amp;chksm=e976dc3ac7dcf9798f235c462d429c989a16799c5d5ba94e8c7519108c1fd37b905c165cfc79&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775209&amp;idx=4&amp;sn=9c202362fbc48f9895988a72689b827d&amp;chksm=e9ae7d8ccbe538f8716696d1a26bfa1df8c329dea1f8876d9ea424e48ecc53069c9819167355&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 29 Jan 2025 03:25:11 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[滚烫Deepseek一夜刀掉英伟达4万亿，除夕开源多模态新模型：7B超越DALL-E 3和StableDiffusion]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtA2lcSdJJzyaFy7VYPzB11xevKTpMJVJKzLBUyLxP5pCFEnaJwtkYeWX44ibfHEBh0vWkiaNxG9GHlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>白交 衡宇 发自 川渝量子位 | 公众号 QbitAIDeepSeek大爆出圈，现在连夜发布新模型——多模态Janus-Pro-7B，发布即开源。在GenEval和DPG-Bench基准测试中击败了D</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775164&amp;idx=1&amp;sn=607a459bc870ac06cecf213f2b80d6ce&amp;chksm=e9e75fcc142124ec3faf205fc1b70a44ce3d7f8cb37c91f6c6b77dc42fc5004942bd1b2a4904&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 28 Jan 2025 02:33:21 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[杭州领跑AI开源！阿里Qwen除夕开源视觉理解新旗舰，全系列3尺寸，7B模型超GPT-4o-mini]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtA2lcSdJJzyaFy7VYPzB11x4fIxgqm7VDsFRsxdVQx94aiaYLzLTX7CYSWUdEibDFGBWXstSoTNibHXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>衡宇 白交 发自 川渝量子位 | 公众号 QbitAI眼看着半只脚都跨进蛇年了，杭州城还是一如既往真卷啊！今天凌晨4点，阿里通义Qwen发布新春节礼第二弹：推出视觉理解模型Qwen2.5-VL，开源的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775164&amp;idx=2&amp;sn=be1bf1557d5f26773aef439811f31c37&amp;chksm=e9c383aca27458c2613cddc17fd6b54ed35c6f496e741b658e4e71a0397e97d18d0ca86d92dc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 28 Jan 2025 02:33:21 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[招聘 | 具身智能机器人方向全职作者]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtDlloprRslTFUx4Nn8ej4SoNH9ib1HYYASSsxaI0BjQ65BmM2HUED0Cj4j6X9A1OYOeT41xSg2JpJg/300?wxtype=jpeg&amp;wxfrom=0"/><p>编辑部 发自 凹非寺量子位 | 公众号 QbitAI未来同事你好。量子位是一个关注AI及前沿科技的新媒体平台，我们着迷于全新技术和趋势带来的改变，并且帮助更多人第一时间看懂新趋势新机遇。你知道“具身智</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247775164&amp;idx=3&amp;sn=64533d07214f8c1cf26523386d629fa0&amp;chksm=e976dc3ac7dcf9798f235c462d429c989a16799c5d5ba94e8c7519108c1fd37b905c165cfc79&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 28 Jan 2025 02:33:21 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -631,86 +684,6 @@
       
 
       <pubdate>Wed, 22 Jan 2025 04:02:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[腾讯3D生成大模型2.0发布即开源！AI自动绑骨骼生成动画，分钟级生成游戏3D资产]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtAkvyBgeibZ7JAJia9CfU6jLkssko1xwKf8qtGsgYZcgQEBEp8DD7S74vnUNsv80mFibEAFw2OHQQzXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>梦晨 发自 凹非寺量子位 | 公众号 QbitAI春节前夕，腾讯又发AI大礼包。不仅开源了3D生成大模型2.0升级版本，还上线了业界首个一站式3D内容AI创作平台——混元3D AI创作引擎。如果你是创</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247774102&amp;idx=1&amp;sn=5c0e807eca7991dc0d68b7d6f1516068&amp;chksm=e979acfee32a7ebe5306bc509ce9c6660438779ccd352153043c7a74da86b9edb30058c24c60&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 Jan 2025 07:07:37 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型商用格局雏形初现：Tokens用量决高下，火山引擎问鼎2024]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtBLMpevYsSEnz4Tq4u0YFshjTbEHL8KroC628KLd9iakzyPDceGIzdjMAWybmia8vT9lqAO1n6cw7Pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>明敏 发自 凹非寺量子位 | 公众号 QbitAI大模型应用落地元年，谁家业务更值得关注？Tokens使用量，正在成为最关键的衡量指标。量子位结合市场数据观察，2024下半年国内大模型商用落地日均To</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247774046&amp;idx=1&amp;sn=51bdb0393383f8336c4547992be3f543&amp;chksm=e975ebad5ae5d83fe42de3c8dea29a848ef867b4942c63d4d178c907c3f7a29d8d4dbebfb2fd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 Jan 2025 04:17:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2025，见证更多GenAI应用落实！今年的中国AIGC产业峰会来啦]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtAkvyBgeibZ7JAJia9CfU6jLkbTLHePQ0eJVOnkhh8bQvexU5xjiaIGpmHwas2SWk6jjBsMHn8kbcQsw/300?wxtype=jpeg&amp;wxfrom=0"/><p>组委会 发自 凹非寺量子位｜公众号 QbitAI过去一年，我们见证了AI无数个“里程碑式”时刻。从Sora带来的超写实视频生成能力，到开源大模型在性能上逐渐追平闭源模型；从多模态理解能力质的飞跃，到A</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247774046&amp;idx=2&amp;sn=e05e55d9681d42ba5f99d4b842d34480&amp;chksm=e96528f46e169479110372c63a29911bb99f58882149c0df3d63e75e3339963c9355b1420878&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 Jan 2025 04:17:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AI大牛颜水成宣布回归学界！重返新加坡国立任特聘教授，专注e-AGI研究]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtAkvyBgeibZ7JAJia9CfU6jLkSg6W6h5sn3F10ObenDBrnbUKdPvwibWtMFToicwjK22nq0ibrDoCU6IMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>白交 发自 凹非寺量子位 | 公众号 QbitAI在产业界兜兜转转几年后，颜水成再次选择回归学界——重返新加坡国立大学NUS，担任计算机系特聘教授。没错，就是他第一个教职所在地，也是他声名鹊起的地方。</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247774046&amp;idx=3&amp;sn=27037b2e5b21e64b0a6ec8a62f0ac500&amp;chksm=e9a89fba876a12907733a51d6e11e1cceaa30cb803e987164b7ef869fdfcc62edfdf91849921&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 Jan 2025 04:17:52 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI智能体新线索曝光！网友：新ChatGPT时刻要来了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtAkvyBgeibZ7JAJia9CfU6jLkJVQzkJAvibk8vFdiclO6H6jslia7VBPWMkrYUqRoo2IOMH6ZdiaWbkz6Eg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一水 发自 凹非寺量子位 | 公众号 QbitAI没错，OpenAI的智能体时代真的要来了！据大名鼎鼎的“情报员”光头哥爆料，OpenAI在MAC版ChatGPT桌面应用中隐藏了启用/禁用智能体的选项</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247774046&amp;idx=4&amp;sn=24799005d228f8616718ff80d80f7d96&amp;chksm=e97ebcb08f18ed0c87a45830f283805e2ff1deef360889ad1d889c4955d77da1ebd9f4da7d44&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 Jan 2025 04:17:52 +0000</pubdate>
       
 
     </item>
