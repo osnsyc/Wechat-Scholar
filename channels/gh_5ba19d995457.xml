@@ -49,16 +49,45 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[耶鲁大学和Adobe提出SynthLight：智能重塑人像照明，打造完美光影！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elPyLquFq9rYTicjFkPwyh9fFVDfMwbeuJFlesWohTUXxZRSXxUpCJVwUUib0mdhjaia5sa6Ciaibic8AQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>耶鲁大学和Adobe提出一种用于人像重新照明的扩散模型SynthLight，该方法将图像重新照明视为重新渲染问题，其中像素会根据环境照明条件的变化而变化。在真实肖像照片上可以产生逼真的照明效果，包括颈</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490091&amp;idx=1&amp;sn=0af9c93268a6d0844956ab9c938e7c2f&amp;chksm=fd53a4268483f78fd1fbfa8861a5ad309c5f2f69c1d82061df23fc6eabcfc845ed6f140771f0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 31 Jan 2025 16:06:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[图像超分辨新SOTA！南洋理工提出InvSR,利用大模型图像先验提高SR性能, 登上Huggingface热门项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emvRmmSX73ApBN83mPSIUnndGUoqrp8dTsfo3BKVIVGVNf5sWoXGauJCgAEaaCQm9Qb7QfuM34qZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>南洋理工大学的研究者们提出了一种基于扩散反演的新型图像超分辨率 (SR) 技术，可以利用大型预训练扩散模型中蕴含的丰富图像先验来提高 SR 性能。该方法的核心是一个深度噪声预测器，用于估计前向扩散过程</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490091&amp;idx=2&amp;sn=4dc0b538c54b41c3b34a4c459df58440&amp;chksm=fd49edaabcfe442e6ce5d3e134d8326ee67c4b4d930dab40c0726b961add8efcf540c4c4eaac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 31 Jan 2025 16:06:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[单幅图像合成 360° 3D场景的新方法：PanoDreamer，可同时生成全景图像和相应的深度信息。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el8quKicUEibqsQFrF8ttU8UZJIaZuVsUww2Z2IDLp7MYqLaIsWuo5dAG2Y1iaHf8AibCjXj4KFPbTv3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文介绍了一种从单幅图像合成 360° 3D 场景的新方法。该方法以连贯的方式生成全景图及其相应的深度，解决了现有最先进方法（如 LucidDreamer 和 WonderJourney 的局限性。这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490091&amp;idx=3&amp;sn=ed3ac3460df34ad5bda0b1417ee34ae2&amp;chksm=fdc5168728878e9751498a26501068f269281c161becc4ac67fb5d699390bc8253024f8704ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 31 Jan 2025 16:06:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯 | 中科大提出Make-It-Animatable：一秒内可将任何3D人形模型变成动画角色]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elS0nh744Xc7tB6W08RA4SgeG73PxwM4k72wVClKXaAf0yPYtOtKUjLgb02frh2Xh9vAawfNd5XlA/300?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯联合中科大提出了一种用于动画 3D 角色制作的新型框架Make-It-Animatable，可以在不到一秒的时间内使任何 3D 人形模型准备好进行角色动画制作，支持各种 3D 表示且生成质量和速度</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490091&amp;idx=4&amp;sn=b429704b55c313585472b82fd2b535e0&amp;chksm=fdfec11be242e860fdaf91dddd0e8c2a44d56528dfc640b0634e24efecc479604345e1d3a78f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 31 Jan 2025 16:06:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[DeepSeek开源多模态模型Janus-Pro的ComfyUI使用教程，文中附模型和工作流下载。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enb5zKF6gvurVAmOLrPRAhFLvb45xtbwKzvDHEfDoJNyqQeAWoiaN8o3QOQZeARnWnmvTZdNh0ABsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍DeepSeek发布的Janus-Pro模型的ComfyUI实践教程，包含ComfyUI安装，模型下载，工作流下载等，欢迎大家一起交流学习，也欢迎添加公众号小助手加入读者交流群，一起探索</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490090&amp;idx=1&amp;sn=15975a24f6a497ab289dc082535605ff&amp;chksm=fd11c062b25aec5d580af3595184cc77a90f769852d2db7529e26abc088780680e424da7391a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 30 Jan 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -297,70 +326,6 @@
       
 
       <pubdate>Sun, 26 Jan 2025 00:08:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Stability AI 联合UIUC提出单视图3D重建方法SPAR3D，0.7秒完成重建并支持交互式用户编辑。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elbUxtWfuPV6pAhibibicT3oe4zxt8tZpVIWNwGIWEeh5iaYqC8uJSSWGn5hv37BppQMhwNVjgbEMmOgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Stability AI 联合 UIUC 提出一种简单而有效的单视图 3D 重建方法 SPAR3D，这是一款最先进的 3D 重建器，可以从单视图图像重建高质量的 3D 网格。SPAR3D 的重建速度很</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490027&amp;idx=1&amp;sn=5b72ce7f8c6cf6dfe853a76491eee0f6&amp;chksm=fd22c717e1473e7228e5c739a177c2666bce39b6a4d4da032608ccd5a6c4c8ef5d8bf1f49e72&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北大提出定制化漫画生成新框架DiffSensei，可生成具有动态多角色控制的漫画图像。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elcSnOoT1icicSWQibicicqfkyEgKtXcy3S4XBxj4sIBiacegBSAicARmN6YDuAjO6tUqgQ6TNNE8CbF3pFw/300?wxtype=jpeg&amp;wxfrom=0"/><p>由北京大学、上海人工智能实验室、南洋理工大学提出了一种新框架DiffSensei可以实现定制化漫画生成，解决现有方法在多角色场景中对角色外观和互动控制不足的问题。DiffSensei结合了基于扩散的图</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490027&amp;idx=2&amp;sn=91ab2fe971de657581119fbf62674822&amp;chksm=fdacb1e433a0cd2848fe0a808085f5ac9e709fc2854da5931ec18d031054f488c631f6353854&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DeepSeek-V3 正式发布，已在网页端和 API 全面上线，性能领先，速度飞跃。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsVQ8iaD3eY0RibaYkYGTf6mgibWMibTiaiccjeVMM6rnIOdfQ4sLtwbuJJ1iaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek-V3 在推理速度上相较历史模型有了大幅提升。在目前大模型主流榜单中，DeepSeek-V3 在开源模型中位列榜首，与世界上最先进的闭源模型不分伯仲。unsetunset简介unset</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490027&amp;idx=3&amp;sn=03adf783346dd287860d17558659a1da&amp;chksm=fdb7b81e6fc16379e42c4f653aee55baa5f32697384b4c16ce412e3f76bb95d4bc23a620c02d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Story-Adapter：能够生成更高质量、更具细腻交互的故事图像。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekx1e8oxA3YKibkhot7h9UJZSKKULxCTzezvw8wSOvf1jqib40MePuLWQamEVrmH3RC3HsKvOkJ9S3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前已经给大家介绍过关于故事文本生成图像的相关内容，感兴趣的小伙伴可以点击以下链接阅读~字节&amp;南开提出StoryDiffusion：生成一致的图像和视频来讲述复杂故事，图灵奖得主Yann LeCun亲</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490027&amp;idx=4&amp;sn=ec1a6b75781ab0ae69edcebe84350dfc&amp;chksm=fd98b3a29816bca11506813a9fd296bd34fb3c13bbc70b066f2b62632f247fe404f9ad23bf8b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 Jan 2025 16:00:00 +0000</pubdate>
       
 
     </item>
