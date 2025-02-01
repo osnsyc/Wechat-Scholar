@@ -85,61 +85,181 @@
 
 
 
-
-
-
-
-
-
-
-
     <item>
-      <title><![CDATA[《多模态适应与泛化》进展综述：从传统方法到基础模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0SUf2uibEkJMKawlJxHNt2d94kdmTnZzo6nAzPoAs5ibPsGfrIgXmCpOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要——在现实场景中，实现领域适应和泛化面临着重大挑战，因为模型必须适应或在未知目标分布之间进行泛化。将这些能力扩展到看不见的多模态分布，即多模态领域适应与泛化，因不同模态的特性差异而变得更加困难。多</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=1&amp;sn=28248892c23ec4bc0a81023097aa9086&amp;chksm=fd3e77033f9b0a08897dc4ffd4c51540db3260ea37c148a6a59325cf739ee59155bc18fdaeff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      <title><![CDATA[3D点云基础模型：综述与展望]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV07SS7YNicTLSibDFibkvepZPHqJicBtbXwQDOAx3GpQo3rJwAkibs0tHYRng/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要3D点云表示在保持物理世界的几何保真度方面发挥着至关重要的作用，使得对复杂三维环境的理解和交互更加精确。人类可以通过多感官系统自然地理解物体之间的复杂关系、空间布局及其变化，而人工智能（AI）系统</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664436&amp;idx=1&amp;sn=8f0d6c9a8623dbe2727cf997f5d3fd05&amp;chksm=fd871205166b684a9e26027ecf151ade46239e31e47361fa7e05cee1ead17c1589b533905a7b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【NTU博士论文】深度学习中的后门：新的威胁与机会]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0yiajicGYQhicFgGcKTJgB7uv2Siaz8lHTDbQEtlclFaJ5umfjcUKjiaPbwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习因其卓越的高维特征表示学习能力而变得越来越受欢迎。许多算法和模型已经被开发出来，以增强深度学习在各种现实任务中的应用，包括图像分类、自然语言处理和自动驾驶。然而，深度学习模型容易受到后门威胁的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=2&amp;sn=53f549f201d55f34d2ab4eda4d4966bd&amp;chksm=fd15d828539df002dd2aef8d578d7841a760e82ce0d7f8f278fde6f5c7d6d4df920ac4ba82bd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      <title><![CDATA[【NTU博士论文】数据高效的深度多模态学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0pVzO8h0KkX2kcQzzGTw1olHcxLvib5z9S10vScINMRyWd0hPDI3RJcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>多模态学习使神经网络能够处理和整合来自不同感知模态（如视觉、语言和声音）的信息，在情感计算、医疗健康和高级多模态聊天机器人等应用中日益重要。尽管多模态学习具有广阔的潜力，但仍面临诸多挑战，尤其是在数据</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664436&amp;idx=2&amp;sn=4c3f4424748ae8ba46cae135df07a5ec&amp;chksm=fd13f7ee69e8f57eb83c09c19ed0b3f64e815f8474aed3df84260b4f11a7082d86c29bfa5057&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【ICLR2025】视觉与语言导航的通用场景适应]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1ialEtvmkOmO2fdQsP6JmoiasVrn9ZcV0osbibQSTjlgsUmrTBib5mqD3LQkkZfj8odKWzpHFAQ8oB8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>视觉与语言导航（VLN）任务主要通过在多个环境中执行单次指令来评估智能体，旨在开发能够在任何环境中以零-shot方式运行的智能体。然而，现实世界中的导航机器人通常在具有相对一致的物理布局、视觉观察和来</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=3&amp;sn=a26778a71640cfba3c4b225b4921c5c1&amp;chksm=fd6e5392aba702a5c09927a6e9c25988678011107b1b91a7f49897ce2c3a584b282bade309e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      <title><![CDATA[战斗幽灵：被动一体化防空系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicROzxlia4mm0KxIibCzT6pp2qP7q8KNSNNkNeTGVibsib4CwwHrZovKKJicDldpJ7Ljm2uOBpM07pPEcJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>一架 MQ-9 “死神 ”在也门萨那黎明前的天空中不祥地飘过。亚光灰色的机身与清晨渐深的色调浑然一体，呼啸而过的传感器将无形的“目光”投向下方的街道。千里之外，在一间光线昏暗的控制室里，飞行员靠在椅子</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664436&amp;idx=3&amp;sn=7c19f0ee1427fa8fce54257fc45f7db7&amp;chksm=fd4590cb5f5f5fe23b2bb61154a35810777e3e7af19ac8e49996b64c4e7b3222f3321a26c2e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《武器系统采购：美国国防部需要更好的规划来实现模块化开放系统的优势》GAO最新74页报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1ialEtvmkOmO2fdQsP6JmoiaOeD6Fz0HdfAyOUs7ic6nUhWpHwRloAh1wEUeBvnia4WAbJuM5McOdNqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>模块化开放系统方法（MOSA）是一种可以支撑国防部（DOD）设计出维护和升级所需的时间和金钱更少的武器系统的战略。最近的立法要求采购项目在最大可行范围内实施 MOSA。GAO 发现，在其审查的 20 </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=4&amp;sn=d5fb92ce552d4a2ca52090939ad40651&amp;chksm=fdeda104ca62f613aae65ab15b80454fb6872309d59c72239095024fedff84cc5886a66a084e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      <title><![CDATA[【ICLR2025】用于大型语言模型对齐的差分隐私引导]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV01b75VQYRmZyquHLaPzF4y6mvaEFOD1cG2os1ozmxWwib1K5krNia7Hkw/300?wxtype=jpeg&amp;wxfrom=0"/><p>对齐大型语言模型（LLM）以符合人类价值观并避免不良行为（如幻觉）变得日益重要。近年来，通过激活编辑（activation editing）引导 LLM 朝向期望行为已成为一种有效的方法，可在推理时缓</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664436&amp;idx=4&amp;sn=4a905c9936033aab9bee45296ab29df8&amp;chksm=fd371fb585f227075c9b1692076f50831f936584ca8473e44bd8c65bb5d34fc82159f17cd53e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【剑桥博士论文】单目 3D 人体重建的概率方法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0CsRnlshJaicBHZfzRA2q1ehiapibX6MYzOpjXL3lmNQZmRUqdzsYfEKjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>令人惊讶的是，人类能够仅凭一张二维RGB图像推断复杂关节物体（如人类和动物）的近似三维表面几何形状和外观。事实上，我们能够推理出能够合理解释给定图像的所有三维姿势和体型、表面颜色和纹理。因此，我们本能</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=5&amp;sn=1eddce39b3ee46be4878bcd3b608da47&amp;chksm=fd4c2033472e7dc987f23f40a6223c0a867247f7a39a000abec349a19a16e5b0d033679572b6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      <title><![CDATA[【新书】数学的本质——通过基础问题探究，400页pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0Jroo585lIBRic4yQ5LiaEguNicP1BKGcPQLFJabic3zs1gFeOJ7RAnLu3Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>无论是在自然世界还是人造环境中，现实世界的形态在某种深层意义上都具有数学特性。因此，学生和受过教育的成年人若能理解数学的核心原理，并欣赏数学的结构、模式和公式为何能恰如其分地成为我们理解世界的语言，将</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664436&amp;idx=5&amp;sn=9a1ae6068933b92042adbba3e0ed04d4&amp;chksm=fdd71a0c3b2e40831a63aec0a48a5fe93d12955405f62618db031dc6b393ca7347ad7fffeaf8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《敏捷C2方法：针对军事环境调整设计思维》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV05n4bxIFw8ickQJackiccHQvzthL9ficic8pEMe7ia6N8GAvkhBKsOAprorw/300?wxtype=jpeg&amp;wxfrom=0"/><p>军事领导人需要更加灵活的指挥与控制（C2）方法，以妥善应对日益复杂多变的军事行动环境所带来的挑战。此外，通过合适的培训计划为这种军事环境做好充分准备的军官可以为 C2 领域做出巨大贡献。针对军事环境，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=6&amp;sn=7cfb0e5d7e2c735358861d9cf962eea2&amp;chksm=fd843dafcccd1b890ace35d011437da2dc83bccfd96434da4bd599b9b773a16f5445e76aef5d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      <title><![CDATA[为什么说DeepSeek的R1-Zero比R1更值得关注？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0UjaIF9vtsqP7cbrgnPwAKmkLmghKh94ZwxIJ6piahWpyriasgYhYNYzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>转载机器之心选自ARC Prize博客作者：Mike Knoop机器之心编译R1-Zero 等模型正在打破人类数据瓶颈，开启 AI 自我进化新范式？「比起 R1，DeepSeek 同一时间发布的 R1</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664436&amp;idx=6&amp;sn=2390a6e0c4a3095789dfeac8976606b6&amp;chksm=fdcbf45527ffb6e62cf98d55046d42d819cbfe45ce5eebcf00ccc768b497f3621d90606c3103&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《美海军宙斯盾弹道导弹防御 (BMD) 计划》最新38页]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0d96GicxMlGfqlBiavxooRicNngh6iaPHjKPtX5SN3tTYG352FeholAnM6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>由导弹防御局（MDA）和海军实施的宙斯盾弹道导弹防御（BMD）计划使海军的宙斯盾巡洋舰和驱逐舰具备了执行 BMD 行动的能力。具备 BMD 能力的宙斯盾舰艇在欧洲水域执行任务，抵御来自伊朗等国的潜在弹</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=7&amp;sn=0c5bd0d49cd0eda6bad59f834c910646&amp;chksm=fd34a9c7fba2588319750e96fd9c17172fa5129b9880ff48b823bde13cb781b4974923e0f2bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      <title><![CDATA[图表大数据解析方法综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0WAPUViaWfwAIDrqRpoZNGXrpPk2HoK31AKPWEkW4mZ7kRa4WhXdRiczw/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要: 图表以视觉逻辑的形式有效地传达信息, 为理解关系隐晦的复杂数据提供了直观的途径, 在科学文档中扮演着至关重要的角色. 然而, 图表本身的视觉结构丰富性和视觉语义复杂性为图表可视化的构建提出了挑</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664436&amp;idx=7&amp;sn=796f7e9c8e415d575422f57a7d4c9ba9&amp;chksm=fd4b22a39293c79ec6490323343d2dc2f67de01f64a4db5a96c64c0d1a5eb16ce665fba5970a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！工业应用中的异常检测</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=8&amp;sn=d27dbbae7891d1e37a4587224870a51d&amp;chksm=fd8b20a45926bf31173956e4fac605a7bf7f886bfe6cf0c2f6750d479883a745979b9d054d33&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！《多模态适应与泛化》</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664436&amp;idx=8&amp;sn=d02ebb86f7de2375508eff0121d6ae68&amp;chksm=fd89cbabef28e7705af8ae45b00225242affcb3b223db4c884a9ad8661556666bbc1434607b0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sat, 01 Feb 2025 03:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《多模态适应与泛化》进展综述：从传统方法到基础模型]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0SUf2uibEkJMKawlJxHNt2d94kdmTnZzo6nAzPoAs5ibPsGfrIgXmCpOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要——在现实场景中，实现领域适应和泛化面临着重大挑战，因为模型必须适应或在未知目标分布之间进行泛化。将这些能力扩展到看不见的多模态分布，即多模态领域适应与泛化，因不同模态的特性差异而变得更加困难。多</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=1&amp;sn=28248892c23ec4bc0a81023097aa9086&amp;chksm=fd3e77033f9b0a08897dc4ffd4c51540db3260ea37c148a6a59325cf739ee59155bc18fdaeff&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【NTU博士论文】深度学习中的后门：新的威胁与机会]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0yiajicGYQhicFgGcKTJgB7uv2Siaz8lHTDbQEtlclFaJ5umfjcUKjiaPbwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习因其卓越的高维特征表示学习能力而变得越来越受欢迎。许多算法和模型已经被开发出来，以增强深度学习在各种现实任务中的应用，包括图像分类、自然语言处理和自动驾驶。然而，深度学习模型容易受到后门威胁的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=2&amp;sn=53f549f201d55f34d2ab4eda4d4966bd&amp;chksm=fd15d828539df002dd2aef8d578d7841a760e82ce0d7f8f278fde6f5c7d6d4df920ac4ba82bd&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【ICLR2025】视觉与语言导航的通用场景适应]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1ialEtvmkOmO2fdQsP6JmoiasVrn9ZcV0osbibQSTjlgsUmrTBib5mqD3LQkkZfj8odKWzpHFAQ8oB8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>视觉与语言导航（VLN）任务主要通过在多个环境中执行单次指令来评估智能体，旨在开发能够在任何环境中以零-shot方式运行的智能体。然而，现实世界中的导航机器人通常在具有相对一致的物理布局、视觉观察和来</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=3&amp;sn=a26778a71640cfba3c4b225b4921c5c1&amp;chksm=fd6e5392aba702a5c09927a6e9c25988678011107b1b91a7f49897ce2c3a584b282bade309e1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《武器系统采购：美国国防部需要更好的规划来实现模块化开放系统的优势》GAO最新74页报告]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw1ialEtvmkOmO2fdQsP6JmoiaOeD6Fz0HdfAyOUs7ic6nUhWpHwRloAh1wEUeBvnia4WAbJuM5McOdNqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>模块化开放系统方法（MOSA）是一种可以支撑国防部（DOD）设计出维护和升级所需的时间和金钱更少的武器系统的战略。最近的立法要求采购项目在最大可行范围内实施 MOSA。GAO 发现，在其审查的 20 </p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=4&amp;sn=d5fb92ce552d4a2ca52090939ad40651&amp;chksm=fdeda104ca62f613aae65ab15b80454fb6872309d59c72239095024fedff84cc5886a66a084e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【剑桥博士论文】单目 3D 人体重建的概率方法]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0CsRnlshJaicBHZfzRA2q1ehiapibX6MYzOpjXL3lmNQZmRUqdzsYfEKjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>令人惊讶的是，人类能够仅凭一张二维RGB图像推断复杂关节物体（如人类和动物）的近似三维表面几何形状和外观。事实上，我们能够推理出能够合理解释给定图像的所有三维姿势和体型、表面颜色和纹理。因此，我们本能</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=5&amp;sn=1eddce39b3ee46be4878bcd3b608da47&amp;chksm=fd4c2033472e7dc987f23f40a6223c0a867247f7a39a000abec349a19a16e5b0d033679572b6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《敏捷C2方法：针对军事环境调整设计思维》]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV05n4bxIFw8ickQJackiccHQvzthL9ficic8pEMe7ia6N8GAvkhBKsOAprorw/300?wxtype=jpeg&amp;wxfrom=0"/><p>军事领导人需要更加灵活的指挥与控制（C2）方法，以妥善应对日益复杂多变的军事行动环境所带来的挑战。此外，通过合适的培训计划为这种军事环境做好充分准备的军官可以为 C2 领域做出巨大贡献。针对军事环境，</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=6&amp;sn=7cfb0e5d7e2c735358861d9cf962eea2&amp;chksm=fd843dafcccd1b890ace35d011437da2dc83bccfd96434da4bd599b9b773a16f5445e76aef5d&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《美海军宙斯盾弹道导弹防御 (BMD) 计划》最新38页]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0d96GicxMlGfqlBiavxooRicNngh6iaPHjKPtX5SN3tTYG352FeholAnM6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>由导弹防御局（MDA）和海军实施的宙斯盾弹道导弹防御（BMD）计划使海军的宙斯盾巡洋舰和驱逐舰具备了执行 BMD 行动的能力。具备 BMD 能力的宙斯盾舰艇在欧洲水域执行任务，抵御来自伊朗等国的潜在弹</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=7&amp;sn=0c5bd0d49cd0eda6bad59f834c910646&amp;chksm=fd34a9c7fba2588319750e96fd9c17172fa5129b9880ff48b823bde13cb781b4974923e0f2bf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！工业应用中的异常检测</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664396&amp;idx=8&amp;sn=d27dbbae7891d1e37a4587224870a51d&amp;chksm=fd8b20a45926bf31173956e4fac605a7bf7f886bfe6cf0c2f6750d479883a745979b9d054d33&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Fri, 31 Jan 2025 03:30:36 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -784,134 +904,6 @@
       
 
       <pubdate>Sun, 26 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《面向基础模型的高效参数微调》综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0UNCzibzQxO0TSFUQbWIwIG3quIdYZwy2wtOuvLW40bbuawfYTDMgBYcyj5tLicZPdAWXyq7xoC7xg/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要——本综述深入探讨了在基础模型（Foundation Models, FMs）背景下的高效参数微调（Parameter-Efficient Fine-Tuning, PEFT）。PEFT是一种具有</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664092&amp;idx=1&amp;sn=9a1598e4acbb687d894be39dd5b45927&amp;chksm=fd28b932462c54be3063e9a7a21cd78a35dc11cdb4b526580883e91da8d57f744890bb7383ea&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【CUHK博士论文】现代机器学习中的因果性学习]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0UNCzibzQxO0TSFUQbWIwIGqAkNIiaz9gicEmc9XvWZOeb7aFtDfu6jHQ7jwkYGCvGSzJbECJtAaib4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>在过去几十年里，机器学习配合经验风险最小化已经展现了在学习和利用数据统计模式方面的巨大能力，甚至超越了人类。尽管取得了成功，但经验风险最小化避免了对因果性的建模——理解和处理变化的方式，这对人类智能来</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664092&amp;idx=2&amp;sn=d7f704555c2985b506ef2e0ae6391e8c&amp;chksm=fd38bfbf3fc03fdbef41c486e936e4bab46eb0ae8ceca76df0332956c0e1df4f415feb9f2b9b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[物联网在国防中的应用：物联网如何改变国防系统和军事行动]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRib08iaOcvnicQTHF2QJY3OTxl12LEob6FMBNhewlvA1Bl7cEVUU62bDlbpTNRJNmFOzKTIM0yxpjzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>根据 Market Research Future 的一份报告，从 2022 年到 2027 年，全球物联网在国防市场的复合年增长率预计将达到 10.5%，这凸显了物联网在军事应用中的日益普及。物联网</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664092&amp;idx=3&amp;sn=d2946696f833f18911f0ac2d77c6b47b&amp;chksm=fd9901e9d1cdd56f1552d5e8e7108cf3acad704b5f4c13aa33225ce0d49e1cbca3a42a165d92&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ICLR2025】通过自适应熵感知优化实现稳健的多模态开放集测试时自适应]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0UNCzibzQxO0TSFUQbWIwIGK5UGZtic51sscLhH5WkxhAeGobq6vgnbicUFial1hHD0VjnzgB92Ovnxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>测试时自适应（TTA）在解决训练数据与测试数据之间的分布偏移方面展现出了显著的潜力。开放集测试时自适应（OSTTA）旨在将源预训练模型在线适应到包含未知类别的未标记目标领域。当涉及多模态数据时，这项任</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664092&amp;idx=4&amp;sn=08228c5e9ef5a3541ae61b236287f918&amp;chksm=fde7a90fbadf9dc9b10544921f2073beac7bc4c9c5e5be1f80ded9b5f2eb2bc653fedf534b4d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2024年中国AI大模型产业发展与应用研究报告]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0UNCzibzQxO0TSFUQbWIwIGpKyUANx7I8TEpk0UbtQKTn7lrpJtugTqgLSosW8xrGLxgEUszpnWMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>2018年，OpenAI发布第一个生成式预训练模型GPT-1，模型参数量达到1.17亿，开启了AI大模型的训练热潮；2022年底，ChatGPT的火爆，吸引了全世界对大模型的广泛关注，也激发了中国AI</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664092&amp;idx=5&amp;sn=6e46959fb3fdddd95b10c3a5c4e2375d&amp;chksm=fd3f53e2688f5a7a5d295c42f64a5254895f3994b16e792266d6233c8464f42120df93d7e7dc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[视觉基础模型的可解释性：综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0UNCzibzQxO0TSFUQbWIwIGNlibA5F7fZJJGE4UC5icWXyudBjZzMQDKcv1tkfVWgYVXPyhNrcXgxKQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着人工智能系统日益融入日常生活，可解释性领域受到了极大的关注。这一趋势尤其受到现代AI模型及其决策过程复杂性的驱动。基础模型的出现，以其广泛的泛化能力和新兴应用，进一步加剧了这一领域的复杂性。基础模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664092&amp;idx=6&amp;sn=1641f0c352e36235a1077b295d5b040e&amp;chksm=fdc36624272852dc5e293601d8bbf64503212b8c4e26f2968ea2274b20befddd1c46f6ed3e2c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[《无人机航电系统结构、分类和集成的进展：全面回顾与未来展望》]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0UNCzibzQxO0TSFUQbWIwIG9OKPuUFLW0NkGHmjGb6UV2ZdcaNthsDXia0UibTEEiabblia1FehULhiaeA/300?wxtype=jpeg&amp;wxfrom=0"/><p>无人驾驶飞行器（UAV）或无人机的航空电子系统是机载的关键电子元件，用于调节、导航和控制无人驾驶飞行器的飞行，同时确保公共安全。当代无人飞行器航空电子设备通过实现稳定的通信、安全的识别协议、新颖的能源</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664092&amp;idx=7&amp;sn=bbd0f6a62601157574f1122f227bda58&amp;chksm=fdd1d9d03fd49c370ce560be7083a62c47a574da56e563e4c110c6a616059951805abb9c0184&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！基于扩散模型的异常检</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664092&amp;idx=8&amp;sn=169926c77d0fcd96ba3d8dc7e38d133e&amp;chksm=fd9af8703840357883ce0636141f828c9d08da4e587f2b8ab8d3408b722b3c356b04f285689c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 03:00:00 +0000</pubdate>
       
 
     </item>
