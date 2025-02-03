@@ -101,18 +101,113 @@
 
 
 
-
     <item>
-      <title><![CDATA[o3-mini 碾压DeepSeek R1？一条python程序引发近400万围观]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswf3aJ0hGxwXL8Yibe5Jibeswk090VWtD6XW8UeSicyI74W75wAP1tw2QE7cPYXlk2Mj5dozQI9dtCCEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | 机器之心AI 圈的头条被 DeepSeek 承包了十几天，昨天，OpenAI 终于坐不住了，推出了全新推理模型系列 o3-mini。不仅首次向免费用户开放了推理模型，而且相比之前的 o1 系</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556724&amp;idx=1&amp;sn=0d87159de31ec97cfe7666b878da00ee&amp;chksm=96b84b37d26767c65acc3fd7a3d27f5b203cb0dff8b3f77695bcc993823c1176c687972fa6c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 02 Feb 2025 05:08:57 +0000</pubdate>
+      <title><![CDATA[R1/o1的风又吹到了RAG，微软CoRAG高达93%的复杂推理效果~]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswf3aJ0hGxwXL8Yibe5JibeswkDykLAOsgvnjj0ia9pcraArUxUOlibGRXEyNEz66pxGkgC4SibJGiciczrXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统 RAG 方法通常只在生成前执行一次检索，这在处理复杂查询时效果有限。微软&amp;人大提出了一种用于训练o1-like的RAG模型的方法CoRAG，在生成最终答案之前逐步检索并推理相关信息。CoRAG（</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556759&amp;idx=1&amp;sn=a535e9f67320500c5acf43c27e0d66cd&amp;chksm=96662bf33352b4434b98043fb0693a7d9a0019cbb18e060e3f21556ef79ceea7600297b5f05e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Feb 2025 00:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[2025年最新-李宏毅深度学习教程pdf免费分享！绝对值得反复阅读的神书！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswfrVHia81Ro6WW2hfB7LdYK24vQvcwsDzO3sQUE6SXmWjzQ7aYnudiblvla3fc7nerXj0ibcpNbpZ4ibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本书介绍    李宏毅老师是台湾大学的教授，他的《机器学习》（2021年春）视频课程是深度学习领域中文视频中的经典之一。李老师风趣幽默的授课风格深受学生喜爱，他以很多动漫相关的有趣例子来解释深度学习理</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556724&amp;idx=2&amp;sn=55c810f9a5ac0ed66b3acb4671854fe4&amp;chksm=9612dbf6deaa2fee53a8737146f8dca329b56d27f1741bd2039e7f88ef653bc9d73bc7459aa8&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[LLM4大名著，OpenAI专家强推《深度解析：大语言模型理论与实践》免费分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswccFuibbsPy9EdE27FsqbDqsic0mKo5J6mcOicf7d43IuHz4PC0n5djmlnicRTIL4dByWAc5TAgxvcvsQ/300?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556759&amp;idx=2&amp;sn=fa80b0cee9b16aee1ea042081766517b&amp;chksm=96482ffc0df5d801c7c40f2b79c172c3a126ea56e315e37cfa4c210f5a89ebd8d5d8996f6a72&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Feb 2025 00:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[惊天逆转！OpenAI O3-mini物理推理秒杀DeepSeek R1，全网最全实测大揭秘！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswf3aJ0hGxwXL8Yibe5Jibeswkx0g7ib8TrV5xK8hfWQESibv8RiaicZDcXPnK9S7j3qib5kw6ibm2E1ichiaXHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | 新智元在科技界，一天的时间足以改写历史。DeepSeek R1用「降维打击」重构了AI界，OpenAI不甘示弱放出了o3-mini，再次加冕为王。o3-mini的进步可不是一点半点，在数学代</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556738&amp;idx=1&amp;sn=97c6f5bf117856797f52d26bb322e4f7&amp;chksm=969a6de63c5fb4ca186e0324fbf21b13ed8aab37f74ca2238fa7165f8dffb8625eef9eb20d9a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 02 Feb 2025 16:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Begio强推，2025最新中文版《大模型基础》教程pdf免费分享]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswe9bgjzrUGDD7cPbUZHUh2ibtUAeo9j6qWN5BAKfrl56LmcdmVOwLJ8qG3NicgicZT0L5Oq6FMdibBvmw/300?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556738&amp;idx=2&amp;sn=1047891d0cc1ab0760874d9980f744fc&amp;chksm=9618e5c6ec252ccdd7154d10240bb3d564850189b0293767388dbd626f554761addc5da17340&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 02 Feb 2025 16:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[对近期推理模型的一些思考]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswf3aJ0hGxwXL8Yibe5JibeswkOIhaWic2hFUXHFn5rcwiaLV8eQ8hE7WHiavlibSwuSMkUVqcF8fUWHLMag/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：霸王手枪腿原文：https://zhuanlan.zhihu.com/p/2060339506      最近推理大模型的进展可以堪称是过年了，不单是发展的速度很快，技术路线的碰撞也很激烈，出</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556738&amp;idx=3&amp;sn=2f749c5adafb3489af47e4bbb5bd9d55&amp;chksm=96e6b49421cd7860960376d7208c668626754b61e4d9116cebff772d2120bce66697611248d1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 02 Feb 2025 16:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA["见不得别人好"：图灵奖得主Yann LeCun犀利点评硅谷这帮人对DeepSeek的质疑]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswf3aJ0hGxwXL8Yibe5JibeswkiamnXrCXrkr7hiae4CZc9FXvcqz1c4aW1wLMDUP1mZBlgL1YphBknjGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>全文 2,000字 | 阅读约6分钟中文翻译如下：硅谷某些圈子中的一种常见病:一种错位的优越感:晚期症状:认为自己的小团体垄断了好主意。末期症状:认为来自他处的创新是通过欺骗手段获得的。科技进步在更多</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556738&amp;idx=4&amp;sn=6b0ace0535ce194db62b33d14b559fb9&amp;chksm=967044adb714081da05c0d956e62acaf9b6776cfcf7ec633a7c532a73427631b55be3d600f6f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 02 Feb 2025 16:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[o3-mini 碾压DeepSeek R1？一条python程序引发近400万围观]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswf3aJ0hGxwXL8Yibe5Jibeswk090VWtD6XW8UeSicyI74W75wAP1tw2QE7cPYXlk2Mj5dozQI9dtCCEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | 机器之心AI 圈的头条被 DeepSeek 承包了十几天，昨天，OpenAI 终于坐不住了，推出了全新推理模型系列 o3-mini。不仅首次向免费用户开放了推理模型，而且相比之前的 o1 系</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556724&amp;idx=1&amp;sn=0d87159de31ec97cfe7666b878da00ee&amp;chksm=96b84b37d26767c65acc3fd7a3d27f5b203cb0dff8b3f77695bcc993823c1176c687972fa6c0&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Feb 2025 05:08:57 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2025年最新-李宏毅深度学习教程pdf免费分享！绝对值得反复阅读的神书！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswfrVHia81Ro6WW2hfB7LdYK24vQvcwsDzO3sQUE6SXmWjzQ7aYnudiblvla3fc7nerXj0ibcpNbpZ4ibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本书介绍    李宏毅老师是台湾大学的教授，他的《机器学习》（2021年春）视频课程是深度学习领域中文视频中的经典之一。李老师风趣幽默的授课风格深受学生喜爱，他以很多动漫相关的有趣例子来解释深度学习理</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556724&amp;idx=2&amp;sn=55c810f9a5ac0ed66b3acb4671854fe4&amp;chksm=9612dbf6deaa2fee53a8737146f8dca329b56d27f1741bd2039e7f88ef653bc9d73bc7459aa8&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 02 Feb 2025 05:08:57 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -1135,134 +1230,6 @@
       
 
       <pubdate>Mon, 27 Jan 2025 04:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[首个DeepSeek-R1全开源复现Open-R1来了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswdcP44PM1O8bxfyrgtSOMmMaLNiciaxAoc9zIhPkWAK6rIuibgaExicRLmzDhjeetVfianuZE3aZQAqPsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Open-R1：huggingface出品，DeepSeek-R1的完全开源复现，短短一天已经冲上1.9k Star，这个仓库仍在建设中。Open-R1的目标是构建DeepSeek-R1流程中缺失的部</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556194&amp;idx=1&amp;sn=17a20b590b08446adda136d0cab49e13&amp;chksm=966fd872f9786481a326e840509e62390f6044c1ba4ce099e741e9d43d946575b4be8cdbf784&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 27 Jan 2025 00:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[必看！大模型训练圣经《从头训练大模型》免费PDF分享]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswcGwPzNUl3NECmoMRTerzsXBzNXN1kmQ1RKr80N3cA7mLNgIhUyjzOicoHMmD9OHZ1lUluyezFTt1Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>本书介绍《Current Best Practices for Training LLMs from Scratch》是由Weights &amp; Biases（W&amp;B）提供的一份关于从头开始训练大型语言模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556194&amp;idx=2&amp;sn=3ac14e8070b2b3d7924b0269d2bfaee3&amp;chksm=966d88d5ae82dab82c08b21d3267c23b9c96e12eeb2a03b805ce2ab1be204651f3428bf7c5e6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 27 Jan 2025 00:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北京理工大学珠海学院（独立学院）毕业生冒充北理工（985）去应聘，被拒后反骂HR学历歧视?]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswdcP44PM1O8bxfyrgtSOMmMLGcx0eeCnAxJBEI34oCecOg3bEwIiaEajXxGYnhQPsXAIZJSjSp3iawA/640?wxtype=jpeg&amp;wxfrom=0"/><p>该三本学生说自己就是985毕业，称北京理工大学珠海学院属于北京理工大学。网友评论一 作者：妙苗苗来源：知乎我也遇到过，一小伙子北京理工大学珠海学院，事业编报名考试自己登记的是北京理工大学。笔试、面试都</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556188&amp;idx=1&amp;sn=805b5f2a7c5ef6acdd4811d740c50817&amp;chksm=96d16f5502fe38db181093233fcd0937dd3deca8711006c251242b5a328e63b05d6df2db06a4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型4大神书-《动手学大语言模型之语言理解和生成》高清pdf分享]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswd6xF8CbBqUOtNIoFrQHxkOaDcibypmTQJF8UrTvzWiaZAeEnOmqwu0Iia8FxTOES7UdxNLhYrN9jKWA/300?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556188&amp;idx=2&amp;sn=44c70bba572afce8cbe9e136bca369e6&amp;chksm=96bc829098b02ebd65463e2f9fdfe09ad6f8684d2a2a12e716f02bf01b02b0d1effb1d3e3ea2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DeepSeek R1 对比 AlphaGo，Zero 的思考过程]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswdcP44PM1O8bxfyrgtSOMmMYoRQKUmqzvwPaEqyvlZogWVjWUMsWbTaXZpjEiaJSxrKRKPwC6DRNqQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：真中合欢原文：https://zhuanlan.zhihu.com/p/19897045280      等了好久，终于等来R1的论文，我在当天晚上第一时间拜读。整篇论文的实验和理论给我一种简</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556188&amp;idx=3&amp;sn=439717f118234aa0572c32380da8da02&amp;chksm=966173f07cc4ed03a778f6872a96c59b165d971858f062845d9c3dbfb299a40efc535e97fe84&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从 GShard 到 DeepSeek-V3：回顾 MoE 大模型负载均衡策略演进]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswdcP44PM1O8bxfyrgtSOMmM0lMC7CAArBa8S8jPO8aO0jaiaU6wCM9IG6XbzEZ2AJTAdARic2Lico1SQ/300?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：小天狼星不来客原文：https://zhuanlan.zhihu.com/p/19117825360     故事要从 GShard 说起——当时，人们意识到拥有数十亿甚至数万亿参数的模型可以</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556188&amp;idx=4&amp;sn=1676a61ae4a7fe54c6bc1133894b61fb&amp;chksm=96b9ada4ccf8a62bbecb4bc503e0961c0acb989572b8d56ad02aa51897f75d36c68dc78da3eb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DeepSeek-R1技术报告速读]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswdcP44PM1O8bxfyrgtSOMmMrialUcn9EHCgTiaWPicxhRVnQkyCmvBhtaibwuzDzWJkibiaabujU5XJSzXQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>春节将至，DeepSeek又出王炸！DeepSeek-R1系列重磅开源。本文对其技术报告做简单解读。话不多说，show me the benchmark。从各个高难度benchmark结果来看，Dee</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556188&amp;idx=5&amp;sn=e3bbd1cdd873cc19d06d8457bb80b5c9&amp;chksm=96a42cd9ba3816e6c1453e525b8da0cbe5bb0198153f19673086d7b4bd64410ee7d0bce975eb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 26 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[爆推！中科院博士小册子助你啃透了机器学习！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1niaDLWmibswdqcKblB3Qj8yTO7ibBk9X4SyxoemU9ZcX8TkBML2oibwhh5YVEg3SrGOyFVNy1FExSgGKIiclAFaR9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>本书介绍    提起“西瓜书”，许多学习机器学习和深度学习的初学者都对它既熟悉又敬畏。不少人在初次接触这本书时，被其中众多缺乏详细推导的公式弄得头疼不已。    本书免费获取地址：    关注下方公众</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&amp;mid=2247556170&amp;idx=1&amp;sn=65b7c4eecf233194ca4b73f508509071&amp;chksm=96adc8180345fdb71eb532981485f87485840ce1224919d7f865b58d8690d4461769f6ca7ca0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 26 Jan 2025 09:00:00 +0000</pubdate>
       
 
     </item>
