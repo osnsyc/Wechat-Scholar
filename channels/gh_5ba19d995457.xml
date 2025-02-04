@@ -54,31 +54,99 @@
 
 
 
-
-
     <item>
+      <title><![CDATA[拖动图像编辑再省级！北大、腾讯提出DragonDiffusion，在扩散模型上启用拖动式操作。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emtHS7t5ic0uQWb1AOhKNDRVue2DuQtBzYWulYezda8dsItznwxGaPWCUmiafhNgHsVonAIj1dwlFlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中给大家介绍过许多关于通过拖拽实现图像和视频编辑的方法，感兴趣的小伙伴可以点击👇链接阅读和收藏，整理不易，欢迎大家给文章点点赞和在看！StableDrag：一种基于Diffusion模型的图</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=1&amp;sn=220d2e76698f5b337c75715cff7675fb&amp;chksm=fd052f603fd5858253f42dece65215f687ba267c5d23b8b53a54eaa5cb734db162de2eef57c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[超越DragDiffusion!哈工程联合南大提出FastDrag：可以几秒内完成基于拖动的图像编辑。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el1M9OhKbp7aVFqDIicZqBo4KKdolgwrn8m3yECIn5VrcqNnCuNxG4ud1KNvKlkWI1InpekwGDSGUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中给大家介绍过许多关于通过拖拽实现图像和视频编辑的方法，感兴趣的小伙伴可以点击👇链接阅读和收藏，整理不易，欢迎大家给文章点点赞和在看！StableDrag：一种基于Diffusion模型的图</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=2&amp;sn=2e65e8c4a4accd1a111e7994a51e9362&amp;chksm=fd7d82c5db9f36ddf7ca45aaa6ad9b78da0bde63c9564f44bb4fa9de75d782748e64c12dde11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[InstantDrag：仅需图像和拖动指令作为输入，在大约一秒内实现高质量的图像编辑。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUN5oqyRgSButjKACUwRIlhd5Nc45XUYrH3ObILevzKlkNBTefTonWaZ4DyOGSj1tZib6XntPhrg/300?wxtype=jpeg&amp;wxfrom=0"/><p>InstantDrag是一种无需优化的框架，旨在提高拖动式图像编辑的交互性和速度。InstantDrag结合了一个基于光流的生成器和一个运动条件的扩散模型，仅需图像和拖动指令作为输入，便能在大约一秒内</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=3&amp;sn=68ab9b6af22e050ce22c4bc84186e614&amp;chksm=fd95e8a2cb2e9c0ca6cfa2d5a06c3a7d5ca30069f04cda37aebb6352c7c16a9eb51f49742efe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[StableDrag：一种基于Diffusion模型的图像编辑，可一键拖拽生成，DragGAN被革新了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emot8tDk0AwUNQicGF0zUfVOjhBQnahjqXeS7PyDah1icwybuWk1XpiaObsiahH3JfCf1lviaSCfXQEQow/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家还记得DragGAN吗？只要点击拖拽，用户就可以“改变汽车的尺寸或者将人物的笑容变成皱眉”。这给图像编辑领域带来了非常大的革新，然而也存在一些缺点如生成速度慢，不能自己自定义外部图片等。基于Dif</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=4&amp;sn=c43b677c5007ff1e5308ef2ef54bc56b&amp;chksm=fd8ff709616f50d0796998db3d2ecb2fb791ac87caa7261e0d2ad10f3a34ca4ba737183e7ca3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[快手发布DragAnything，拖动锚点精准控制视频物体和镜头运动，视频运动控制技术革命性更新]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek1lQtWAgjC0vMrpw2bZUxP0dY8Togkx9JR7ljibSgulNqsJ2TxN2icRMGWibZEfOCgOOHBbbs5f6cDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>快手联合浙江大学、新加坡国立大学发布了DragAnything ，利用实体表示实现对任何物体的运动控制。该技术可以精确控制物体的运动，包括前景、背景和相机等不同元素。该项目提供了对实体级别运动控制的新</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=5&amp;sn=dd000fe5a231dec4ea2bd5564521b5d8&amp;chksm=fdb6b9c21c6e9e07130e00d2b4eabe24b5fc275e68f4e9b90f11c340448e0ed5a0d999479156&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[使用阿里云 PAI 平台云上一键部署 DeepSeek-V3 模型教程。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekrOwzVBbmRn3dchAI3UqeGiasnNd4IOvBr2Mjt51hZ0gCwAsDTib4meGmBJUsbB7BXFGGe5Bsfm6WA/640?wxtype=jpeg&amp;wxfrom=0"/><p>unsetunsetDeepSeek-V3 模型简介unsetunsetDeepSeek-V3 是 DeepSeek 发布的 MoE（Mixture-of-Experts）大语言模型，总参数量为671</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490104&amp;idx=1&amp;sn=082d58c054f40cecfbc8e157bfea5a95&amp;chksm=fd1a4c2fa48124b71bd29afbe8538403cff86c033fafb8f1ba6d0fe6d7da9fdb282d9aa5f3f4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DeepSeek开源多模态模型Janus-Pro的ComfyUI使用教程，文中附模型和工作流下载。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enb5zKF6gvurVAmOLrPRAhFLvb45xtbwKzvDHEfDoJNyqQeAWoiaN8o3QOQZeARnWnmvTZdNh0ABsQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍DeepSeek发布的Janus-Pro模型的ComfyUI实践教程，包含ComfyUI安装，模型下载，工作流下载等，欢迎大家一起交流学习，也欢迎添加公众号小助手加入读者交流群，一起探索</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490104&amp;idx=2&amp;sn=eb9312d9029141533dac64b63d979091&amp;chksm=fdb523bb58e00d70d4d9c7052885b6347170ce47b48c1b9519169a01ee53d3da8f3d37d2353c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DeepSeek开源Janus-Pro-7B：多模态AI模型性能超越DALL-E 3 和 Stable Diffusion 3!]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enb5zKF6gvurVAmOLrPRAhFcaHiaiclO2A4p8xHMlrzicfJTT2YRJ96xcpxAialNYX1udoHkp8paKetdA/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国人工智能公司 DeepSeek 的 R1“推理”人工智能已经引起了广泛关注，位居应用商店排行榜首位并改变了股市。随后DeepSeek又宣布开源新一代多模态模型Janus-Pro-7B，该模型在图像</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490104&amp;idx=3&amp;sn=39c56a0e3e680725c8bd2303c0e6f7d9&amp;chksm=fd06b8aee80985fc51fd767fbb6abc35ec75d5f9d93a6c3c34c469762cb13522359563f12650&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[DeepSeek-V3 正式发布，已在网页端和 API 全面上线，性能领先，速度飞跃。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsVQ8iaD3eY0RibaYkYGTf6mgibWMibTiaiccjeVMM6rnIOdfQ4sLtwbuJJ1iaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek-V3 在推理速度上相较历史模型有了大幅提升。在目前大模型主流榜单中，DeepSeek-V3 在开源模型中位列榜首，与世界上最先进的闭源模型不分伯仲。unsetunset简介unset</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490104&amp;idx=4&amp;sn=25b2b91a55e5c2867616ce0a48720e17&amp;chksm=fd61eff75088303dc725168cd2786867d175f1712c9c12ae1c2be432d6a9559207d9e00aba59&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 02 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -349,70 +417,6 @@
       
 
       <pubdate>Tue, 28 Jan 2025 16:11:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[英伟达开源4K图像生成模型Sana，可在16G显存电脑部署，支持ComfyUI和LoRA训练。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek6Zafxy9AicSRodyIcwlSHNT9mr6NOzfTpJPhveE41Xmh1RVMhhibAgXAt3qSb6eFx0HfpEYX74THA/640?wxtype=jpeg&amp;wxfrom=0"/><p>英伟达开源了一个可以直接生成 4K 图片的模型 Sana。 Sana-0.6B 可以在 16GB 的笔记本电脑 GPU 上部署。生成 1024 × 1024 分辨率的图像只需不到 1 秒钟。官方已经支</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490058&amp;idx=1&amp;sn=f671f319d7fd3f82c07be81aa55e5d2e&amp;chksm=fd2fa9352628b4ff1d6bf2f915de5fba7754aa2146ab0844f895cf296f9e8054e23e35342a70&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 27 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[复旦&amp;字节提出layout-to-image新范式，支持基于布局的MM-DiT架构下可控图像生成！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekXX8zYF4UxzjmCibmVsNeNfHdzvia0ykHy5vQljhxHZhBKib0DHCIdedbOAMsic8KZ423vtGia19o4Wow/300?wxtype=jpeg&amp;wxfrom=0"/><p>本篇分享论文CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490058&amp;idx=2&amp;sn=781b6dc047987911723ab4d92e23378b&amp;chksm=fd8118d00f71769b5a87ce76c4599f7c3d0195c96a246327b08ec706f264bdfc71f7019ce276&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 27 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[SHMT：通过潜在扩散模型进行自监督分层化妆转移（阿里&amp;武汉理工）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsjQl0sGle0TkYDcmMMuGmbtLXibkDVicOAa1tpYmub1EJgQJfZ41lm6WQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前的妆容转移技术面临两个主要挑战：缺乏成对数据，导致模型训练依赖于低质量的伪配对数据，从而影响妆容的真实感；不同妆容风格对面部的影响各异，现有方法难以有效处理这种多样性。今天给大家介绍的方法是由阿里</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490058&amp;idx=3&amp;sn=04b9f8f32aa3b7145c1821b47d4ea26b&amp;chksm=fd8a91cc96f2a2e1f3d41311d6c21bd95ff9b7cd6d1a34f76e7e1317e3ab7127dc8ba3c8fafa&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 27 Jan 2025 16:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[提出街景定位大模型AddressCLIP：一张图实现街道级精度定位！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2eldKGCwibmhq5RSxC5rV78dDcVpQDWZ2qUibtJW2qRF8ehlmicnuSw3n5MdOVQ0NTovfOnPib1RNDwBibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>中科院自动化所和阿里云一起推出了街景定位大模型AddressCLIP，只要一张照片就能实现街道级精度的定位。比如给模型看一张北京南锣鼓巷的街景之后，它直接给出了具体的拍摄位置，并列举了附近的多个候选地</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490058&amp;idx=4&amp;sn=187ced6c7d7f40ec09a755763c6b9670&amp;chksm=fdbb265fbde436ab4fc4e9a040a1e60d68e1f8fe5cb9ed097502d404f8fbc9ee9218b3981df6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 27 Jan 2025 16:00:00 +0000</pubdate>
       
 
     </item>
