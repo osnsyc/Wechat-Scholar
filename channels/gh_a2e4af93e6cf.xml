@@ -86,52 +86,180 @@
 
 
     <item>
-      <title><![CDATA[基于图神经网络的运输网络数据挖掘：综述与展望]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGic9sjIwz3j0BRa3rZ95CZYzMZ8BkGfq75s8F5uLCSibeU6ekMQCibYM2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要运输网络中的数据挖掘（DMTN）指的是利用多种时空数据进行各种交通任务，包括模式分析、交通预测和交通控制。图神经网络（GNNs）在许多DMTN问题中至关重要，因为它们能够有效表示实体之间的空间关联</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=1&amp;sn=f6cc8a4f97bca14386301880fa68d2af&amp;chksm=fd9b209840050b10d6a503783c5f62e7566582469866f1fb9de6416ac68d1b731bfd67fa563f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[深度学习模型反演攻击与防御：全面综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2zq1joeXjSY5ulQpic7p6VqHLxNXpAqk0xyYJh2Htcfslxl3p6z3flVVOTDFcRriaIu5vaWibfVfnqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习在敏感领域的迅速应用带来了巨大的好处。然而，这种广泛的应用也带来了严重的漏洞，尤其是模型反演（MI）攻击，这对个人数据的隐私性和完整性构成了重大威胁。这些攻击在生物识别、医疗保健和金融等应用中</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664555&amp;idx=1&amp;sn=a706a9bb4fdc08238b173456960d4d30&amp;chksm=fd445c27c281d1862f93ae3d1af621c01722680cd29ccc05b90c909e249bdcfcfb123bda8f90&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【博士论文】生成流网络：理论与结构学习的应用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGBbMicf3yAFMVMU0hOkHq2p8lker1kWccW0ibfibiaafhvbmWA4AwyBw0cw/300?wxtype=jpeg&amp;wxfrom=0"/><p>从数据中纯粹发现因果模型的结构面临可识别性问题。通常情况下，如果没有关于数据生成的假设，多个等效模型可能会同样解释观察结果，尽管它们可能会得出截然不同的因果结论。因此，选择它们中的任意一个元素可能会导</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=2&amp;sn=3b9241e9cafe183dda1257bcd119c906&amp;chksm=fdf6c8ed1c89e1fb460fba2a0c444ffa81664ac76d3247ffda6c1ffaafd848294388d52312e4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[IMAGINE-E：最先进文本到图像模型的图像生成智能评估]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2zq1joeXjSY5ulQpic7p6VqaWqb9oCYDkHX37CCN0UgWANvicBmAicM9yMeHDV4ZYTdLo2gg0IZJDtQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着扩散模型的快速发展，文本到图像（T2I）模型取得了显著进展，展示了在遵循提示和图像生成方面的卓越能力。最近发布的模型，如FLUX.1和Ideogram2.0，以及其他模型如Dall-E3和Stab</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664555&amp;idx=2&amp;sn=34534d8470925c617ba6b6ffb6ee4fbe&amp;chksm=fd7ce30270bb269ae2c7ee7b6de8549919f87ba06a5240deba54cd84c835228a42e9a68cfe22&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【ICLR2025】DynaPrompt：动态测试时提示调优]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGVOFkRnoOlF5QsomcGXcVEsafTdmQ8oGskpbep1N7qAETp1oXSibY1Gg/300?wxtype=jpeg&amp;wxfrom=0"/><p>测试时提示调优增强了视觉-语言模型的零-shot泛化能力，但在推理过程中往往忽视了测试样本之间的相关性。在线测试时提示调优提供了一种简单的方式来利用前一个测试样本中的信息，尽管由于错误积累，可能会面临</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=3&amp;sn=54c7be714c6c62fccf1d15bac5058562&amp;chksm=fd81b5f7a78a38233e36dab79c93c45d018cda0749b773ebfbcc91b64e3ee0ad00d43c85694f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[SFT 记忆，RL 泛化：基础模型后训练的比较研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2zq1joeXjSY5ulQpic7p6VqBiaicQzCrnWjx3xZWuicP1fAkskhlquCs8paDoOOWchd0alZ7kD8IoVjg/300?wxtype=jpeg&amp;wxfrom=0"/><p>监督微调（SFT）和强化学习（RL）是基础模型常用的后训练技术。然而，它们在增强模型泛化能力方面的具体作用仍不清楚。本文研究了SFT和RL在泛化和记忆方面的比较效果，重点关注基于文本和视觉的环境。我们</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664555&amp;idx=3&amp;sn=d67df455ad8c806eb8c5d46821f862d3&amp;chksm=fd1d87a6cd117423dde0c9a1ad0a900e288d281d099e41afee528402230357e88953e89c5d4f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[行业报告丨中国信通院发布《专精特新中小企业数字化转型研究报告（2024年）》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGDlDKKUFB9yhVZWufxBwjTJ0WKh6aNjxON3fFAcFTCHhnBskxwEt91A/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国信通院发布《专精特新中小企业数字化转型研究报告（2024年）》数字化转型是锻强中小企业生存力、竞争力、接续力和发展韧性的关键一招，为中小企业实现业务创新、提质升级、降本增效、绿色安全等创造了更多可</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=4&amp;sn=6e225f83a5c3235688d7628d7cc8e742&amp;chksm=fde8c05e1fc874b9453837bf0c9cda56e30149a2e981416cce0e2ff12c34389581e1cc2eb407&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[多样化偏好优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2zq1joeXjSY5ulQpic7p6VqhMGk5uaPpg1P9nUwGbIAmQVNzSLvWs2ibHtHz0rPQj1PSeuMgMvQ5ow/300?wxtype=jpeg&amp;wxfrom=0"/><p>在语言模型的后训练阶段，无论是通过强化学习、偏好优化还是监督微调，都倾向于锐化输出概率分布，并减少生成响应的多样性。这对于创意生成任务尤为成问题，因为此类任务需要多样化的响应。在本研究中，我们提出了多</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664555&amp;idx=4&amp;sn=14da42b3b087d29b3ee1c6ce96fbc9df&amp;chksm=fdad3c363f840a8c003ca79738a3545351aef3ebc5c3d953f72d7156097bebb99acc48eb05b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[电波作战向多域融合方向发展]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRYLB4DJxmsdvwrDENA6ECVeoc8W5no4hibNajia7wLWMbWcraYGibMQurbpHoypwwZKNvIQMHPCY0zQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>未来战场正在向数字化、网络物理领域演变，在这一领域中，无线电频谱作战将发挥关键作用。虽然光纤网络将成为安全通信的关键，但移动无线电系统仍然是前线作战不可或缺的。连级或营级指挥所仍将依靠移动无线电链路与</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=5&amp;sn=548389a81dd4e32e2ae8e1092b06f4d0&amp;chksm=fd7cae69dcfc045d0123ed8115206ae3d37e60442a2cf7991a2aa6ef488935b8843e80a6cc6c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[【CMU博士论文】功能组件作为神经模型可解释性的范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2zq1joeXjSY5ulQpic7p6VqeFHH9boq8VDpnlnQeNiaeUbaCUkTDCUJLh5E9t3drHaJTw5oPrT0ib9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>尽管神经模型的广泛应用，训练后的神经模型依然是一个具有挑战性的可解释性课题，神经网络研究人员采用的许多知识和技能，可能被认为是深奥且晦涩的，旨在理解模型学到了什么，以及模型的内部工作如何改变其学习结果</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664555&amp;idx=5&amp;sn=8173e0f9c7d31efca7b5a03f860fd84d&amp;chksm=fdf419c38520b4c16c0adeecc7f5b75ffba9fd9d1b35082844dc3791c1b01cdb6ea5e607bc59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[面向无人机视角的多源信息融合目标检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGJfDA9PcIRB8kic1VHO2OibsuEQpk68SIHLCLtXweiax8R9N6b15FdRXicw/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要：为提升复杂环境下面向无人机视角的目标检测效果, 提出一种基于多源信息融合的目标检测算法。该算法以可见光和红外图像为输入, 利用双支路Swin-Transformer结构分别提取两者多层级特征, </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=6&amp;sn=14f7eef05d46b287d2ae25bd164b166d&amp;chksm=fd907ade3b83c4f9915c2f16c1edfbe351ae798eeed2c6c570ea26a21eefddd89daeefb94e8a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[【ICLR2025】重新思考扩散后验采样：从条件得分估计器到最大化后验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2zq1joeXjSY5ulQpic7p6VqdctWkaQDcPDMwQzXyNHWibEOZDWgibGqVxTDzVzcLnUVEJJZpfiaFJ0eg/300?wxtype=jpeg&amp;wxfrom=0"/><p>扩散后验采样的最新进展已被用于解决反问题，且无需额外的训练，其中扩散后验采样（DPS）（Chung等，2022a）是最流行的方法之一。先前的分析表明，DPS通过近似条件得分实现后验采样。然而，在本文中</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664555&amp;idx=6&amp;sn=6457d2ee1d624c1d76251c6545b4e667&amp;chksm=fd818b98e97fd55139bbac16044247fd655a0318bdbf58294db7028da3a64b5f4b7ba71a36fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[《评估武装部队的频谱需求，优化国防频带使用》218页书籍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGKiaGHjiceBZqVAPTfMY2b8nsQOwOGHrLzH3FPayXQkzGKcp9P6ugxy6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>信息时代给我们带来了巨大的可能性和独特的挑战。技术发展日新月异，新应用层出不穷，对于通信行业来说，这是一个令人兴奋的时代。对于一个被认为是电信业发展最快的国家来说，如何清楚地了解射频（RF）频谱及其最</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=7&amp;sn=163ff7dbc48cfbfbeed4b36bfaf7c06e&amp;chksm=fd7582bacc3c21e42d109f7014b3228e06272122f4e74d47a916eb3a032fa2d6c3adadc87da1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[高分辨波达方位估计技术研究进展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2zq1joeXjSY5ulQpic7p6VqZkqBiaEhZgzMM8JcsFk2F0Ma1bn39ujODvR8uibicnF5wcTA5z6NxYsqQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要: 随着阵列信号处理的广泛应用, 波达方位(DOA)估计作为阵列信号处理的核心问题得到较大发展。文中首先对基于均匀线性阵列的窄带目标方位估计中的基于波束形成的传统算法和近10年的新兴算法进行了总结</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664555&amp;idx=7&amp;sn=a493a6ae24f663557c29502d0c08506c&amp;chksm=fdd9f1e5507387bedaaa66f97222369a5fb6ffa5c9cd199aa13e5d778143de85feabca48761d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！3D点云基础模型：综</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=8&amp;sn=fa3765e1d1157db12424ec704b5e3f3b&amp;chksm=fdc4b87f81a59d789048d54684a71f19f9d9b70890ba65753a3a8fa7e3bda377caa12a83f3da&amp;scene=0&amp;xtrack=1#rd</link>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！OpenAI 发布推</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664555&amp;idx=8&amp;sn=8b240615424ba770c8705b84defa824e&amp;chksm=fdec5cd24bfbd725d9818bb6a5bdcc8fbde77926dd06a2a3f4b32abfe1427704ad5ea21d8872&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 03:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[基于图神经网络的运输网络数据挖掘：综述与展望]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGic9sjIwz3j0BRa3rZ95CZYzMZ8BkGfq75s8F5uLCSibeU6ekMQCibYM2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要运输网络中的数据挖掘（DMTN）指的是利用多种时空数据进行各种交通任务，包括模式分析、交通预测和交通控制。图神经网络（GNNs）在许多DMTN问题中至关重要，因为它们能够有效表示实体之间的空间关联</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=1&amp;sn=f6cc8a4f97bca14386301880fa68d2af&amp;chksm=fd9b209840050b10d6a503783c5f62e7566582469866f1fb9de6416ac68d1b731bfd67fa563f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【博士论文】生成流网络：理论与结构学习的应用]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGBbMicf3yAFMVMU0hOkHq2p8lker1kWccW0ibfibiaafhvbmWA4AwyBw0cw/300?wxtype=jpeg&amp;wxfrom=0"/><p>从数据中纯粹发现因果模型的结构面临可识别性问题。通常情况下，如果没有关于数据生成的假设，多个等效模型可能会同样解释观察结果，尽管它们可能会得出截然不同的因果结论。因此，选择它们中的任意一个元素可能会导</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=2&amp;sn=3b9241e9cafe183dda1257bcd119c906&amp;chksm=fdf6c8ed1c89e1fb460fba2a0c444ffa81664ac76d3247ffda6c1ffaafd848294388d52312e4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【ICLR2025】DynaPrompt：动态测试时提示调优]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGVOFkRnoOlF5QsomcGXcVEsafTdmQ8oGskpbep1N7qAETp1oXSibY1Gg/300?wxtype=jpeg&amp;wxfrom=0"/><p>测试时提示调优增强了视觉-语言模型的零-shot泛化能力，但在推理过程中往往忽视了测试样本之间的相关性。在线测试时提示调优提供了一种简单的方式来利用前一个测试样本中的信息，尽管由于错误积累，可能会面临</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=3&amp;sn=54c7be714c6c62fccf1d15bac5058562&amp;chksm=fd81b5f7a78a38233e36dab79c93c45d018cda0749b773ebfbcc91b64e3ee0ad00d43c85694f&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[行业报告丨中国信通院发布《专精特新中小企业数字化转型研究报告（2024年）》]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGDlDKKUFB9yhVZWufxBwjTJ0WKh6aNjxON3fFAcFTCHhnBskxwEt91A/300?wxtype=jpeg&amp;wxfrom=0"/><p>中国信通院发布《专精特新中小企业数字化转型研究报告（2024年）》数字化转型是锻强中小企业生存力、竞争力、接续力和发展韧性的关键一招，为中小企业实现业务创新、提质升级、降本增效、绿色安全等创造了更多可</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=4&amp;sn=6e225f83a5c3235688d7628d7cc8e742&amp;chksm=fde8c05e1fc874b9453837bf0c9cda56e30149a2e981416cce0e2ff12c34389581e1cc2eb407&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[电波作战向多域融合方向发展]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRYLB4DJxmsdvwrDENA6ECVeoc8W5no4hibNajia7wLWMbWcraYGibMQurbpHoypwwZKNvIQMHPCY0zQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>未来战场正在向数字化、网络物理领域演变，在这一领域中，无线电频谱作战将发挥关键作用。虽然光纤网络将成为安全通信的关键，但移动无线电系统仍然是前线作战不可或缺的。连级或营级指挥所仍将依靠移动无线电链路与</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=5&amp;sn=548389a81dd4e32e2ae8e1092b06f4d0&amp;chksm=fd7cae69dcfc045d0123ed8115206ae3d37e60442a2cf7991a2aa6ef488935b8843e80a6cc6c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[面向无人机视角的多源信息融合目标检测]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGJfDA9PcIRB8kic1VHO2OibsuEQpk68SIHLCLtXweiax8R9N6b15FdRXicw/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要：为提升复杂环境下面向无人机视角的目标检测效果, 提出一种基于多源信息融合的目标检测算法。该算法以可见光和红外图像为输入, 利用双支路Swin-Transformer结构分别提取两者多层级特征, </p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=6&amp;sn=14f7eef05d46b287d2ae25bd164b166d&amp;chksm=fd907ade3b83c4f9915c2f16c1edfbe351ae798eeed2c6c570ea26a21eefddd89daeefb94e8a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[《评估武装部队的频谱需求，优化国防频带使用》218页书籍]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0e0deOKV0NWtEalaQhPsnGKiaGHjiceBZqVAPTfMY2b8nsQOwOGHrLzH3FPayXQkzGKcp9P6ugxy6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>信息时代给我们带来了巨大的可能性和独特的挑战。技术发展日新月异，新应用层出不穷，对于通信行业来说，这是一个令人兴奋的时代。对于一个被认为是电信业发展最快的国家来说，如何清楚地了解射频（RF）频谱及其最</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=7&amp;sn=163ff7dbc48cfbfbeed4b36bfaf7c06e&amp;chksm=fd7582bacc3c21e42d109f7014b3228e06272122f4e74d47a916eb3a032fa2d6c3adadc87da1&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！3D点云基础模型：综</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664511&amp;idx=8&amp;sn=fa3765e1d1157db12424ec704b5e3f3b&amp;chksm=fdc4b87f81a59d789048d54684a71f19f9d9b70890ba65753a3a8fa7e3bda377caa12a83f3da&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
