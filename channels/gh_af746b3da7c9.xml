@@ -46,287 +46,49 @@
 
 
 
+
+
     <item>
+      <title><![CDATA[Deepseek R1 Zero成功复现, 三阶段RL，Response长度涨幅超50%，涌现语言混杂，double-check]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahuZvEI97znd0G0l6VouDSVxIo0C0MqyGAOqdvcOiblKBAKFibvNVd1VpepK04tZthkWNqBNoRcPqfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：涮月亮的谪仙人（已授权）链接：https://zhuanlan.zhihu.com/p/21290410831编辑：「深度学习自然语言处理」公众号项目代码可见：Unakar/Logic-RL(h</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535692&amp;idx=1&amp;sn=b91e950bd4132e79756c6edf3f3b6963&amp;chksm=ea995e425920598681b5d3ae3287c356a7d9eb2333015ebd204ed97a2b8b8c4261e25ef15431&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 05 Feb 2025 08:22:14 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[LightTransfer：将你的LLM轻松转为Hybrid model，增强o1-like长文本生成能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahuZvEI97znd0G0l6VouDSVbtz438qbnbIxP1ZcicicSG3Ygb4iaoRrVK6UOWW4Iia8kN7jjndICKoaOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近hybrid model的有效性已被广泛验证（比如minimax-01和gemma2等）。该篇论文研究了一个非常有趣的主题：如何将预训练好的dense transformer（如qwq）转化为hy</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535692&amp;idx=2&amp;sn=eda5ead962e3e136ead35a2abe6593a7&amp;chksm=ea15139569faea05e0704cebf75eb8183fa8cc42297f7b7873f40bbb77ff05ca834359b02f8d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 05 Feb 2025 08:22:14 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[腾讯AI Lab联合苏大上交提出：少切思路多挖矿，让o1类LLM做题不再「三心二意」]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajhH7bBxWoicqmXpSvpJ1pgvgibt1ayicoldevaKYCO4GjhTI2snOzsewRz1Zwic2lmVI4IPby9ibwZXyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，你班上有个超级聪明的学霸，但他做题时总像得了「思维多动症」——一会儿用代数算，突然又切到几何法，再蹦出个微积分，最后…答案错了！这篇论文抓到的正是大语言模型（比如OpenAI的o1）的这个小</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535645&amp;idx=1&amp;sn=d8575ba255fe80a320f670b114a4ce40&amp;chksm=eafd563db4c33bb9fe3900364549708ea6309c9b567ee49602d514a456d7b4f06fcf87133462&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 04 Feb 2025 08:33:34 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[新突破！xJailbreak：用强化学习「越狱」大模型，可解释性黑盒攻击来了]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajhH7bBxWoicqmXpSvpJ1pgvpSQOuBrOKZbaJnUSiaYEicWnBLUibjkMSWnwtQQdsS4XFGuceic6DfSfjQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自原作者团队投稿编辑：深度学习自然语言处理大型语言模型（如 GPT-4）虽经过安全对齐，但仍易被“越狱”。现有黑盒攻击依赖启发式算法（如遗传算法）优化提示词模板，缺乏可解释性且效率无法保证；白盒攻击</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535645&amp;idx=2&amp;sn=75fd9427555455ca1956d87efe5a166b&amp;chksm=eaba8fc533be052178e9f1b5874290bf8eadb7895291a387d651624f06f3cc20f614adaca735&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 04 Feb 2025 08:33:34 +0000</pubdate>
-    </item>
-    <item>
-      
-
-      <title><![CDATA[探索如何将LLM应用到个人项目中，发现高性价比大模型新宠]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibaupOMkDnHMPSUp9Vt1amviam8tvX7iaqd3AdYqTQnv1mO8Gg8N6kYsA8v2u8tskHicaDz9E1AaNvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，我在探索如何将大模型应用到个人项目中时，在大模型交流群里面发现了一个非常值得推荐、性价比超高的模型——GLM-4-Air-0111。作为GLM-4-Air的升级版，它不仅性能全面提升，价格还降到</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535580&amp;idx=1&amp;sn=7f36bb55704e4123afcb482d23784400&amp;chksm=ead287f0d36062922b5118b925c51c31880ac09ea0d87aec14d44a1be47bd6b351be26454804&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 23 Jan 2025 07:42:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[北航团队发布XRAG-Ollama：助力轻便本地化部署RAG实验框架]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibaupOMkDnHMPSUp9Vt1amN4RZqc68ibK4sXKEfNZKsjxOJSPkwgRxibB8JwT885EF1aO03nodULeQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>XRAG支持全面的RAG测评Benchmark与Toolkit，涵盖了50+以上的测试指标与RAG的全面评测与失败点优化，支持4类Advanced RAG模块（ 查询重构， 先进检索， 问答模型， 后</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535580&amp;idx=2&amp;sn=8d906568d65c14d1ec1963877a8737fc&amp;chksm=ea00b5f59f5e02b742b14e9097bd3efc767c55b88556e89b38cdf31f5c261aeeb7e1467e558d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 23 Jan 2025 07:42:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[谈谈对DeepSeek-R1的一些理解]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajibaupOMkDnHMPSUp9Vt1am53gSIqWk0S7RtS5owSxyb2hrRiblgJpcBWsTbIF6dMW3Ow6ibuPhTibNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：大猿搬砖简记一、写在前面在OpenAI o1刚放出来时，它有限的技术报告里，有2个内容格外抓人眼球：Inference/test-time scalingRL我一直是把这2者理解为两个独立的个体</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535580&amp;idx=3&amp;sn=ac941bd5be198c867ea972ecc4cbbd5c&amp;chksm=ea28e4eecea9f476c13028a90e9c1246c1ac4fec41ce4c77edfbb685d7b30bb8bf410bf0052e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 23 Jan 2025 07:42:18 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[大模型由"社恐"变身"懂王"的迷之自信从何而来？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah4EU8ToreeIpT4artDnOW8ernb6AobhiaI37HpYaj5qQD2x3EGoNFeI7m8UGgFcV4slarTbvHKpow/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，你让LLM做一道选择题，它直接选答案时像个社恐，支支吾吾说“可能是B吧”；但如果你让它先写个解题过程，它立刻变身“懂王”，拍着胸脯说“必须是B！我算过！”——即使答案是错的！论文：Multi</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535526&amp;idx=1&amp;sn=d54e0b5b2255c760b0e5c7073be7644e&amp;chksm=ea28ee4a08a3562ece6838cfa5c0de0a4de4e10f5831605d87cae0c5696f61f7ee4b6dd59eb8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 Jan 2025 00:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[从话痨到省流大师，效果堪比双十一满减：TALE让LLM学会“断舍离”]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah4EU8ToreeIpT4artDnOW8GnjfRfoI88ye16NCF2onb4oErScjuibu0y6g4D45iaEnrRJARicZiax3TA/300?wxtype=jpeg&amp;wxfrom=0"/><p>你以为只有人类会为了省钱精打细算？大语言模型（LLM）也开始学会“抠门”了！传统思维链（CoT）推理虽然让模型表现更聪明，但代价是生成一长串中间步骤，活像个话痨，输出令牌数飙升，烧钱又费电。比如一个问</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535526&amp;idx=2&amp;sn=f710ebac89a5ef5a77548924d4dc514e&amp;chksm=eab2b5df40c706048fadcf003758ef79c36d7ed18132cc239f6bb290afcd40b4715de1bc0478&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 Jan 2025 00:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Kimi k1.5：多模态强化学习，推理性能与效率双丰收]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah4EU8ToreeIpT4artDnOW8lFb0RxnBklQ3n8gE9UtjsBnMV2xpTrkFiauRicd5XudFHlUv0wPjvWBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于Kimi又更新了！期待已久说是已经在灰度了：但是我的界面还是这样，再等等吧，一会试试~我们先一起读读论文看看技术细节有啥变化吧。地址：https://github.com/MoonshotAI/K</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535468&amp;idx=1&amp;sn=dbd027aa91dbd0b4fa836c78fa86bea5&amp;chksm=ea578b50b8c6e3c28e04bbbcb461175e9ce95a5d44891926f016217226305ecfeb70d759a001&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 21 Jan 2025 06:57:33 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[WebWalker: 大模型乘风破浪，探索网页深海]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahH2icCdgmpMVLuwHTl3ef9hI7lXEh4sNmicQEyj7fgPQCMvePqWOMmgyTe3YBBia9kUttZib19QYggpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>检索增强生成（RAG）在开放域问答任务中表现出色。然而，传统搜索引擎可能会检索浅层内容，限制了大型语言模型（LLM）处理复杂、多层次信息的能力。为了解决这个问题，我们引入了WebWalkerQA，一个</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535448&amp;idx=1&amp;sn=757ddc7e452884e5455d3377f323f21b&amp;chksm=ea5127d82ec318926b9b9638eeea30bf44cc6b228e280e3e51f2891958c562ddf8b7bbe2eca3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 Jan 2025 08:27:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一文讲清楚大模型涉及到的精度：FP32、TF32、FP16、BF16、FP8、FP4、NF4、INT8]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahH2icCdgmpMVLuwHTl3ef9hlbiaVhQFKicbHTwp2NDouhfb3xqr2bibeHYEPepv74PvNibic9v2xbiciaeSw/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：苍牙的AI世界大模型的训练和推理，经常涉及到精度的概念，种类很多，而且同等精度级别下，还分不同格式，网上没看到一篇能够介绍全面的，这里梳理总结一份全面的介绍。整体介绍浮点数精度：双精度（FP64</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535448&amp;idx=2&amp;sn=eb43fb57d63c8a1b3b642b63d4ef97f4&amp;chksm=eac5bbb9ba0b38692c9d490fec41c6015b489facf033dedc271acef590627d93be8980bd11a0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 Jan 2025 08:27:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[招生｜上海交通大学谢伟迪组科研实习]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahH2icCdgmpMVLuwHTl3ef9hJ3u9TMSSuT2Kcn4TBU9ECnQTBHE3Ps2X5zLkz050RaiciaE5HQyZY4sw/300?wxtype=jpeg&amp;wxfrom=0"/><p>上海交通大学人工智能学院（SAI）谢伟迪课题组招Computer Vision，AI4Science方向科研实习，表现优异同学可获直硕/直博offer。✦✦课题组简介✦MultiModal Perce</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535448&amp;idx=3&amp;sn=219fc4d6e011c569e55b07ad735fd464&amp;chksm=ea00d62f9490e533c3876e266478a98cb9ce3583b56722cb53dadfb0eb17524152752fd6484a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 20 Jan 2025 08:27:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[为啥本科生都能发顶会，而博士一篇都没有？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahTcSnqlH3aaqAwmjp7Fq8pDkMiaQgSmPibY8pkNzrzicjSJW7UTkqnZZbwVQZ2agCibGdWP8hRqCoqHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>新手搞科研，最忌讳的就是自己埋头苦干。搞科研，只靠自己是不可能发出高区位论文的！一定要多学习那些顶会大牛“成熟的方法论”和“先进的科研思想”。站在别人的经验之上，才更容易挖掘出极具创新性的那种idea</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535417&amp;idx=1&amp;sn=b934777904053def41dc3292111a59d8&amp;chksm=ea67c6ad6b01c317ddf45f8a4713339e46716d6e593a9431d668e39f22baad32ad5a3fc8ca27&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 16 Jan 2025 03:45:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[综述OS Agents: MLLM智能体实现计算设备通用控制 | 浙大&amp;OPPO&amp;零一万物等]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahTcSnqlH3aaqAwmjp7Fq8pdNBglQics6tSc64MRvt0XGjoAH9DljibbtzCxZSAJibBXog0qicQ6MMGGQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>非常高兴有机会分享我们的最新综述OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use。最近，由Anthr</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535417&amp;idx=2&amp;sn=aec94c100477397ae0c601c96915c6cc&amp;chksm=ea073c5d240ff83808d62929488a78933ca3b7238b3af70f6448c3e81442fa064de0c880b821&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 16 Jan 2025 03:45:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[迈向多语言与多任务的医疗大模型：探索医疗语境中的语言基座模型]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahTcSnqlH3aaqAwmjp7Fq8pY0zzLTOMcxOrVeT5qhIDfapLZCQkUvKNtt92fNbc0icPThw06WhM9rw/300?wxtype=jpeg&amp;wxfrom=0"/><p>1. 主题迈向多语言与多任务的医疗大模型：探索医疗语境中的语言基座模型 2. 时间2025.1.18 20:00-21:003. 引言在医疗领域，大语言模型已取得广泛研究进展。然而，这些成果主要依赖于</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535417&amp;idx=3&amp;sn=ad05c9a42b0e5e6a035bee400927c947&amp;chksm=eaa36d54e3fed77cbd28cded13e9e82e14c11da0a748aa77cbecff4d1369a72125ee563e915e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 16 Jan 2025 03:45:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[deepseek技术解读(1)-彻底理解MLA（Multi-Head Latent Attention）]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahTcSnqlH3aaqAwmjp7Fq8pfq3XE0pBTANKncg5KVa1icd5SKaVgDnj4MwJIb52rWypquiaG3EyX8UQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：姜富春（已授权）链接：https://zhuanlan.zhihu.com/p/16730036197编辑：「深度学习自然语言处理」公众号引言deepseek最近比较出圈，本人也一直关注deep</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535378&amp;idx=1&amp;sn=998d667c1fe0edd696fa321f7001806f&amp;chksm=eaee7e93f4afd808d1be4b0b3c58df3600727768b1e740b1a58e271c5138396e422b63af11a7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 09:58:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[如何创建一个理性的基于LLM的Agent？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahTcSnqlH3aaqAwmjp7Fq8psfbfSiaHooF6tUxRgwqibWc8wNzHHaYQzYrCypR7VQngCCXT9KaBxAhA/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题如何创建一个理性的基于LLM的智能体？使用博弈论工作流！ 时间北京时间 2025.1.19 10:30-11:30 周日‍‍‍引言论文：Game-theoretic LLM: Agent Work</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535378&amp;idx=2&amp;sn=4fd0ce2c9517a3439185c52a3bc084f7&amp;chksm=ea6226267fac7673c45e182a14bc9b29cee33ca47a8a1408c1abe0c5a301a68bc0197a2a935a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 09:58:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Nvlink对大模型推理的速度有多大提升？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahTcSnqlH3aaqAwmjp7Fq8pcXia6r4m9PnwXY9RicPjkDbZ4SlovllcLt6iawlVHB119iaF58cQx6elDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM所有细分领域群、投稿群从这里进入！知乎：Uranus链接：https://www.zhihu.com/question/654832546/answer/71647384740先放结论，NVli</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535378&amp;idx=3&amp;sn=8a534fbc49c04085a50a8ab73d9559fd&amp;chksm=ea60301791ee166ca38e6f7b451354893caec4fcf3aaef8b4d62280b2592ea62249c126e79c5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 09:58:38 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[25年的大模型Infra，SSP人才画像？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajvwShbgyia3zsA7pCiaFdF63FUQkL1icEz6HzDpldOib8zLsaG2WEUa6fGv5gO525BhibZjEagQFDZfnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>距离秋招(冬招)结束也有一段时间了，周围的朋友们部分都收到了满意的offer。通过我和大佬们的交流，觉得他们能收到很高的of也并非偶然，在赛道越来越卷的大模型方向，每个即将校招的同学都想参与其中。对于</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535299&amp;idx=1&amp;sn=589f2ed598c42d12729a3772c345a9ff&amp;chksm=ea6078654352a21cbbdfac1513824f1ee092fdc6bb89f5239960146d78d189d3b57ee65b9083&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 06:46:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[阿里通义等提出Chronos：慢思考RAG技术助力新闻时间线总结]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajvwShbgyia3zsA7pCiaFdF63XmaOhYyJrTpfrXpozEhKXY5XEOxPOfJOsSRKRUphuSBpWcmG6A4YSA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在数字化时代，新闻信息的指数级增长使得从海量文本中提取和整理历史事件的时间线变得至关重要。为了应对这一挑战，阿里巴巴通义实验室与上海交通大学的研究者们提出了一种基于Agent的新闻时间线摘要新框架——</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535299&amp;idx=2&amp;sn=81570e8551fe811e85b06f9852183197&amp;chksm=eab945aef18d11fd481cb29e3edf94657bfdde331d270b773f2deeea521c28811418d5fbc0ac&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 06:46:02 +0000</pubdate>
       
 
     </item>
