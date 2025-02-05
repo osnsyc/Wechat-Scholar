@@ -54,35 +54,104 @@
 
 
 
+
     <item>
+      <title><![CDATA[Chirpy3D：用于创意 3D 鸟类生成的连续部分潜在特征]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elbUxtWfuPV6pAhibibicT3oe4lMln2LbWadvjMkDrI7ibrh99jvyryugwPj1qqcWjQZFyvLicjUXMCIicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Chirpy3D框架可以将细粒度的2D图像理解提升至3D生成的全新境界。当前的3D生成方法往往只关注于重构简单的对象，缺乏细致的特征和创造性。Chirpy3D通过结合多视角扩散模型和连续的部件潜在空间</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490107&amp;idx=1&amp;sn=c9154ba5d944009b29129841ae5fd925&amp;chksm=fd7a40a23fce33e35609220a95c77fdb157dbdcb242f4e6c18e35c5cc88545a7a73a0294f598&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 13:15:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[实时高保真人脸编辑方法PersonaMagic，可根据肖像无缝生成新角色、风格或场景图像。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsExUD85bPCqAicxMSnpMibzPacGZ2JJmvUibAHrezkU5Now3FS5ib9Ibg1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天给大家介绍的是一个高保真实时人脸编辑方法PersonaMagic，通过分阶段的文本条件调节和动态嵌入学习来优化人脸定制。该技术利用时序动态的交叉注意力机制，能够在不同阶段有效捕捉人脸特征，从而在生</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490107&amp;idx=2&amp;sn=b973ff28b57ef6ca3d0ca467957bba10&amp;chksm=fd181da143bd2f4f5277e0e9363cfe67729a597450290a03cc558d4b2288c8c9ae08bf887b03&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 13:15:44 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[厦门大学联合网易提出StoryWeaver，可根据统一模型内给定的角色实现高质量的故事可视化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elcSnOoT1icicSWQibicicqfkyEgocfw6Age4Y0U1AOuZS8cHib80ewP5RdXmZjaprD8L6TqR9iasUM3VUVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>厦门大学联合网易提出StoryWeaver，可以根据统一模型内给定的角色实现高质量的故事可视化。可根据故事文本生成与之匹配的图像，并且确保每个角色在不同的场景中保持一致。本文的方法主要包括以下几个步骤</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490107&amp;idx=3&amp;sn=a781367bad01284635521d351a702f3c&amp;chksm=fd5f5623fddde5bea00c1211af265fa1e633626115dbca69e2b8ccabfd5580e51ab4331a1d90&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 04 Feb 2025 13:15:44 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[拖动图像编辑再省级！北大、腾讯提出DragonDiffusion，在扩散模型上启用拖动式操作。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emtHS7t5ic0uQWb1AOhKNDRVue2DuQtBzYWulYezda8dsItznwxGaPWCUmiafhNgHsVonAIj1dwlFlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中给大家介绍过许多关于通过拖拽实现图像和视频编辑的方法，感兴趣的小伙伴可以点击👇链接阅读和收藏，整理不易，欢迎大家给文章点点赞和在看！StableDrag：一种基于Diffusion模型的图</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=1&amp;sn=220d2e76698f5b337c75715cff7675fb&amp;chksm=fd052f603fd5858253f42dece65215f687ba267c5d23b8b53a54eaa5cb734db162de2eef57c6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[超越DragDiffusion!哈工程联合南大提出FastDrag：可以几秒内完成基于拖动的图像编辑。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el1M9OhKbp7aVFqDIicZqBo4KKdolgwrn8m3yECIn5VrcqNnCuNxG4ud1KNvKlkWI1InpekwGDSGUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>之前的文章中给大家介绍过许多关于通过拖拽实现图像和视频编辑的方法，感兴趣的小伙伴可以点击👇链接阅读和收藏，整理不易，欢迎大家给文章点点赞和在看！StableDrag：一种基于Diffusion模型的图</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=2&amp;sn=2e65e8c4a4accd1a111e7994a51e9362&amp;chksm=fd7d82c5db9f36ddf7ca45aaa6ad9b78da0bde63c9564f44bb4fa9de75d782748e64c12dde11&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[InstantDrag：仅需图像和拖动指令作为输入，在大约一秒内实现高质量的图像编辑。]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekibUN5oqyRgSButjKACUwRIlhd5Nc45XUYrH3ObILevzKlkNBTefTonWaZ4DyOGSj1tZib6XntPhrg/300?wxtype=jpeg&amp;wxfrom=0"/><p>InstantDrag是一种无需优化的框架，旨在提高拖动式图像编辑的交互性和速度。InstantDrag结合了一个基于光流的生成器和一个运动条件的扩散模型，仅需图像和拖动指令作为输入，便能在大约一秒内</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=3&amp;sn=68ab9b6af22e050ce22c4bc84186e614&amp;chksm=fd95e8a2cb2e9c0ca6cfa2d5a06c3a7d5ca30069f04cda37aebb6352c7c16a9eb51f49742efe&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[StableDrag：一种基于Diffusion模型的图像编辑，可一键拖拽生成，DragGAN被革新了！]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emot8tDk0AwUNQicGF0zUfVOjhBQnahjqXeS7PyDah1icwybuWk1XpiaObsiahH3JfCf1lviaSCfXQEQow/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家还记得DragGAN吗？只要点击拖拽，用户就可以“改变汽车的尺寸或者将人物的笑容变成皱眉”。这给图像编辑领域带来了非常大的革新，然而也存在一些缺点如生成速度慢，不能自己自定义外部图片等。基于Dif</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=4&amp;sn=c43b677c5007ff1e5308ef2ef54bc56b&amp;chksm=fd8ff709616f50d0796998db3d2ecb2fb791ac87caa7261e0d2ad10f3a34ca4ba737183e7ca3&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[快手发布DragAnything，拖动锚点精准控制视频物体和镜头运动，视频运动控制技术革命性更新]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ek1lQtWAgjC0vMrpw2bZUxP0dY8Togkx9JR7ljibSgulNqsJ2TxN2icRMGWibZEfOCgOOHBbbs5f6cDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>快手联合浙江大学、新加坡国立大学发布了DragAnything ，利用实体表示实现对任何物体的运动控制。该技术可以精确控制物体的运动，包括前景、背景和相机等不同元素。该项目提供了对实体级别运动控制的新</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490105&amp;idx=5&amp;sn=dd000fe5a231dec4ea2bd5564521b5d8&amp;chksm=fdb6b9c21c6e9e07130e00d2b4eabe24b5fc275e68f4e9b90f11c340448e0ed5a0d999479156&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Mon, 03 Feb 2025 16:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
