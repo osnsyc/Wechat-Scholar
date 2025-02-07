@@ -44,17 +44,57 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[DeepSeek实习经历及大模型择业思考]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKZIcQ2KkiahHukcty0Bg3Dg1CVJZh9vhY3WmFTFUamMelx4O0yFGqxylNaQQ0hmrnAQ5owfbBrezQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：郑思泽 链接：https://zhuanlan.zhihu.com/p/20604468985转眼距离博士毕业已经六个月了，过去的一年时光可谓心路坎坷，时常陷于纠结犹豫之中，前一阵还收到邀请分享</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447412&amp;idx=1&amp;sn=b2ed083181da30f49ce87e4c2b4334fa&amp;chksm=bf5995990309678d6b3cc5d5a6efdc841df1e900d0785b4d304810f6fe437fb859ff2b23eb5e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 06 Feb 2025 01:46:26 +0000</pubdate>
+      <title><![CDATA[清华刘知远教授解读 DeepSeek：大模型强化学习技术原理与大模型技术发展研判]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK9RhuUOCsTcaibU7tNJBpbZgpmWMZkQ9yK681UfJVLjqWrsBmMLibRIqeSicRDUhx8Ox5k1Ftia8qL6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | OpenBMB开源社区作者 | 刘知远2月2日晚，CCF-Talk 举办了主题为“夜话DeepSeek：技术原理与未来方向“的线上研讨会。清华大学长聘副教授、面壁智能首席科学家刘知远老师作为</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447427&amp;idx=1&amp;sn=10233904af8b8c0d7eea874148f7026d&amp;chksm=bfa67bcc30ded8b09bc618f59cb87095c64e966184eedb5da87e64d28777d92fef732951e603&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 07 Feb 2025 08:39:10 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[部署满血DeepSeek R1的避坑指南-vLLM 0.7.1]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mM44m37njT5N63P5vicIXrKER0p8jDbZO8wxuRgMcxERm7rU5R8q37Xexjek4L7wThhdIJ5gzyFMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/21064432691今天看到vLLM的朋友圈发布了DeepSeek R1的PP支持，立刻开始我的捣鼓之旅，假如我训练的超大MoE上线了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447412&amp;idx=2&amp;sn=bb547c1c9425db42ff7a014925b25520&amp;chksm=bf175f3f8a090fa11b874838392280b7d5216192d321ce0c5a966ec15a03fa1a2ab37fe2874e&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[DeepSeek-R1大模型本地部署的三种方式，总有一种适合你]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BrtBjG6XSzKG2ycYrblJrQIzDMUzHS6WdOJrRGDQvLZNKgRaKicdqs5x8FohylI0IIA0DI5oEM51SqtRaBLGmPg/300?wxtype=jpeg&amp;wxfrom=0"/><p> 由于 DeepSeek-R1 爆火，导致 DeepSeek 官网用起来非常卡（至 2025 年 2 月 2 日），因此催生出了很多本地部署的需求。而这里我选用了三种最常用的部署方式，从普通人测试使用</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447427&amp;idx=2&amp;sn=3aca3b5dbe122a3de925ca4c39bf933d&amp;chksm=bf0494aafb7cd16e0fb7615c880de5dc4f3bcca49099791173f2e15ee7c435709f764fb085a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 07 Feb 2025 08:39:10 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek-R1复现方案解读之「Open-R1」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/TnZw73HawgmicRSJBn7yWDEQEtiaKPR2F5JFrUhAyqjWVmibRicbLr8ohSEvJ8N04rRC2spvhgwZydJXcUFW6IRK3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，随着deepseek的爆火，越来越多的复现工作随之而来，号称30刀即可见证aha moment，比如：港科大simplerl-reason，https://github.com/hkust-n</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447427&amp;idx=3&amp;sn=0d05eebf46a7200cb2ff9ce65555b425&amp;chksm=bf0277becd31dadb42eb0d7ac081e006efe00b8c3127e4c21c359baf66ce4624a3dc0777296d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Fri, 07 Feb 2025 08:39:10 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[DeepSeek实习经历及大模型择业思考]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKZIcQ2KkiahHukcty0Bg3Dg1CVJZh9vhY3WmFTFUamMelx4O0yFGqxylNaQQ0hmrnAQ5owfbBrezQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：郑思泽 链接：https://zhuanlan.zhihu.com/p/20604468985转眼距离博士毕业已经六个月了，过去的一年时光可谓心路坎坷，时常陷于纠结犹豫之中，前一阵还收到邀请分享</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447412&amp;idx=1&amp;sn=b2ed083181da30f49ce87e4c2b4334fa&amp;chksm=bf5995990309678d6b3cc5d5a6efdc841df1e900d0785b4d304810f6fe437fb859ff2b23eb5e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 06 Feb 2025 01:46:26 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[部署满血DeepSeek R1的避坑指南-vLLM 0.7.1]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mM44m37njT5N63P5vicIXrKER0p8jDbZO8wxuRgMcxERm7rU5R8q37Xexjek4L7wThhdIJ5gzyFMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/21064432691今天看到vLLM的朋友圈发布了DeepSeek R1的PP支持，立刻开始我的捣鼓之旅，假如我训练的超大MoE上线了</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447412&amp;idx=2&amp;sn=bb547c1c9425db42ff7a014925b25520&amp;chksm=bf175f3f8a090fa11b874838392280b7d5216192d321ce0c5a966ec15a03fa1a2ab37fe2874e&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 06 Feb 2025 01:46:26 +0000</pubdate>
+      
+
     </item>
     <item>
       
