@@ -44,17 +44,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[【附复现代码】基于PINN的论文改进探索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDgoy53lXDGsXBe73WEsbdoAicrlVQOJyusjicknnpPicUBUZmOZNWibSAuy9N9EdC1Mm0ahLHpoJfxYOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近有一个大热门：物理信息神经网络（PINN），不仅是各大顶会常客，还连登《Nature》。PINN是将物理定律嵌入深度学习框架，约束神经网络训练的新型方法。特别适用于解决AI交叉学科中复杂的偏微分方</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651699597&amp;idx=1&amp;sn=b0fbd16f23ea21266360a36b8012011f&amp;chksm=f2551693646e4b2586d7fd5d03b97c39e4a719758fc47550d325aa833b490389e553f9f3dc11&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 05 Feb 2025 14:00:00 +0000</pubdate>
+      <title><![CDATA[上交&amp;哈佛提出FluxSR：首个基于12B+大模型的单步扩散真实世界超分模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mkhictoa3icohiaxyvzRbsZQPBI3oJpycPj95YDUfvH221sa1p9eCJAbnPn73xsl4zBOwT9qnicBCtOb6220o5wEicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源 | AI生成未来    作者 | Jianze Li等论文链接：https://arxiv.org/pdf/2502.01993 代码&amp;模型链接：ht</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651699599&amp;idx=1&amp;sn=52cecdcffdf4b29bccb83097f35ed6d9&amp;chksm=f2fb7e7cca512d5c185eda6f4ce13b4650096428de12887a2dc5803eb09a65e3e13cd6b1ea9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 06 Feb 2025 14:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[NVIDIA提出SANA1.5！高效线性扩散Transformer助力图像生成新SOTA！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hcib3tqia6H5Inicn3eCDibsG5QCtKpvf7BccHrpCTHBJBffEOROEhL7e1fXn5vv1gQicRz4uMAVzwWRJMLNMyLR0uQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源 | AI妙妙房    作者 | 妙妙房计算机视觉最新论文今日论文推荐论文名：SANA1.5: Efficient Scaling of Trainin</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651699597&amp;idx=2&amp;sn=a402dff910fd5c180b30ad4ddff3df2c&amp;chksm=f2d5261f2561d3649c2059ef83cac6e44ee70f6412bffa809f112aab120108702cbc5ecca5d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[YOLO系列10年更新11个版本，最新模型在目标检测多项任务中达SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QkCvnz083AhlqyZDx3ju56I5pao6yBE15a275kTBdn4icXJ6fURcWZRicPOSr8rUAebicfmjggibbFiaAtuuCruKRoQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：大头编辑：李宝珠转载请联系本公众号获得授权，并标明来源HyperAI超神经官网的「教程」板块已上线 YOLO 系列的多个版本，一键部署即可体验~YOLO (You Only Look Once)</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651699599&amp;idx=2&amp;sn=6e687911cacef9825076774d468cb182&amp;chksm=f29a63b280d464eb280ba94955af4b1947232db569a8b7399b8b472f032b8f866428996e587e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 06 Feb 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【附复现代码】基于PINN的论文改进探索]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VvkhdVVVIDgoy53lXDGsXBe73WEsbdoAicrlVQOJyusjicknnpPicUBUZmOZNWibSAuy9N9EdC1Mm0ahLHpoJfxYOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近有一个大热门：物理信息神经网络（PINN），不仅是各大顶会常客，还连登《Nature》。PINN是将物理定律嵌入深度学习框架，约束神经网络训练的新型方法。特别适用于解决AI交叉学科中复杂的偏微分方</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651699597&amp;idx=1&amp;sn=b0fbd16f23ea21266360a36b8012011f&amp;chksm=f2551693646e4b2586d7fd5d03b97c39e4a719758fc47550d325aa833b490389e553f9f3dc11&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 05 Feb 2025 14:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[NVIDIA提出SANA1.5！高效线性扩散Transformer助力图像生成新SOTA！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hcib3tqia6H5Inicn3eCDibsG5QCtKpvf7BccHrpCTHBJBffEOROEhL7e1fXn5vv1gQicRz4uMAVzwWRJMLNMyLR0uQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注「AIWalker」并星标从此AI不迷路来源 | AI妙妙房    作者 | 妙妙房计算机视觉最新论文今日论文推荐论文名：SANA1.5: Efficient Scaling of Trainin</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651699597&amp;idx=2&amp;sn=a402dff910fd5c180b30ad4ddff3df2c&amp;chksm=f2d5261f2561d3649c2059ef83cac6e44ee70f6412bffa809f112aab120108702cbc5ecca5d4&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 05 Feb 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
