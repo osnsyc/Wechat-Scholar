@@ -85,61 +85,181 @@
 
 
 
-
-
-
-
-
-
-
-
     <item>
-      <title><![CDATA[多机器人系统的大型语言模型：综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2VhmmI6Uoo8Ng6Ba2VwXGeuDhq0FRV1yibkPJzkAFjw9XYZXv4qAuEkKTDuKicQ4LFof9F9oukicAew/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）的快速发展为多机器人系统（MRS）开辟了新的可能性，提升了通信、任务规划和人机交互等方面的能力。与传统的单机器人和多智能体系统不同，多机器人系统面临着独特的挑战，包括协调性、可</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=1&amp;sn=411dc24f08109ea7575f1eb09b67ccd1&amp;chksm=fd66168739983ba8ea42ac1d379d8a117a9f3e9ebbe4491fd3d34295557467b834b62d249ee7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[大规模语言模型推理的进展综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0L9RKbmprrrjexS52AAtjNfTY2MQXrOTVshwgk0et3gkoJKpSojVKX4sKL0oE5d8NkUQZiaEbXFzg/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要—大规模语言模型（LLMs）在各种自然语言处理（NLP）任务中取得了显著成功，但它们的推理能力仍然是一个根本性挑战。尽管LLMs在流畅性和事实回忆方面表现出色，但在进行复杂推理时——涵盖逻辑推理、</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664753&amp;idx=1&amp;sn=684378af1c9097bfc5a468faa40b0afc&amp;chksm=fd0bb9ebcb2255e7a425083203c4950449870927543b889bc23b317fc6786455f9738090d33d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【博士论文】解释大型视觉模型方面的进展]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2VhmmI6Uoo8Ng6Ba2VwXGe89N476icpIqSmpIGy4tsA6FK0DgNOXcia4ehiaGtds7qCENIFIHtrvlxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本论文旨在推动计算机视觉领域中可解释性技术的前沿发展，并开发相应的工具集，专注于增强我们对目前在视觉任务中使用的深度神经网络特征的理解。可解释性是改进人类与人工智能系统之间交互的关键领域，从科学角度来</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=2&amp;sn=a833ada0feb2d2bfa198bf0c2f0893d5&amp;chksm=fda9a502c09d36434b5648f2aee618fa3c473c06dc1ad903182510f254d86a2dd9e81d326e40&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[【博士论文】学习视觉-语言表示以实现多模态理解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0L9RKbmprrrjexS52AAtjN6dGFcribPrt07aaA6K5RRJymywZcxabC9UEccZicvDducN8AgZtCiaPEw/300?wxtype=jpeg&amp;wxfrom=0"/><p>人类通过整合多种感官信息（包括视觉、语言和听觉线索）来理解和与周围环境互动。视觉-语言表示学习领域致力于使机器学习视觉和文本数据之间的多模态关联与互动。本论文解决了三个关键问题：预训练数据的可扩展性、</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664753&amp;idx=2&amp;sn=8bfe8f9970b82332f4b4321ba5eb19e0&amp;chksm=fd3ae1f0740559f6574abc6a9ae44c0140559f019c55bdb6c06f1ac5053a79df88c33d4b2ef4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[标注受限场景下的视觉表征与理解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/bPcM14Jicetaco9CobiaqBNwwsiayVsLWNjBNcjibX5jD06ebbvA58V5rzGt4qjFg9nrBkEYxuzMRSveonrw8ibXVkQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>文 / 吴建龙摘 要：图像分类、动作识别等视觉理解任务通常依赖于大量的标注数据，而在实际场景中，获取足够的标注数据往往成本很高且具有挑战性。本文主要探讨标注受限场景下的视觉表征学习与理解任务。首先聚焦</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=3&amp;sn=81a4b4942b740b927987229cacce5196&amp;chksm=fda1a53453f2ef2a7cc058d130366d7f1ab37cccf8c95a5c9249fe338475fdd16ad4a6ad2708&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[DeepSeek开启AI算法变革元年，16页ppt]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0L9RKbmprrrjexS52AAtjNIqc7WLCYvtucn9JUL8RVEVgiaQVBKWKZrsdWOUq1hGVdeALOutWHwiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能的发展已到战略拐点　　经过近七十年的发展，人工智能自出现至今其核心能力一直在提升，到如今已经成为覆盖感知、认知、决策、学习、执行、社会协作能力，未来还会向符合人类情感、伦理与道德观念的智能机器</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664753&amp;idx=3&amp;sn=84c31ccf22d414e60281f6ea91970517&amp;chksm=fdb1e5ce2fd2a004181636762d7ee012c2f37dc4e67f7583ec56913b08dbd6baf8cc080659ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[蜂群：开创自主无人机作战和电子战的未来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS9sVjiaKSQ7cI1PE5fgwqiaHoA23oskFa8GuO46Q2jBM9M9NpGSGeWElsBLNYowhLX0J83djQ03qSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>现代无人驾驶技术正在经历快速发展，包括民用和军事应用。自动驾驶汽车、无人机送货以及用于救援和消防服务的无人机已成为当代基础设施不可或缺的一部分。然而，这些技术在军事领域的意义尤为重大，它们为未来的民用</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=4&amp;sn=7fb1c06aca6d1f908fce87404fffc117&amp;chksm=fd396ae1e0d91b0b1295027a73725421f6ee5cb0f2e99975081f3009ca52f3f261d7db6da11a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[《大语言模型赋能天空地一体化网络：最新进展和未来方向》最新30页长综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRN1PHnEwuAMMbRia0c6F4p1HoaDlK1rTReEySoXArGdqsib5VMwAArplDzGqbpdMKex7It1ZbEG0yg/300?wxtype=jpeg&amp;wxfrom=0"/><p>卫星、航空和地面一体化网络（ISATN）是各种通信技术的复杂融合，可确保不同高度和平台之间的无缝连接。本文探讨了将大型语言模型（LLM）集成到 ISATNs 中的变革潜力，利用先进的人工智能（AI）和</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664753&amp;idx=4&amp;sn=f0518ca64ddff40a461e3945ac1090de&amp;chksm=fd027d0eac8ebd5878beab2794abcfbf75d765059b27c17089442d78f2caa5c3715ed75dd119&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[【新书】自然语言生成，208页pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2VhmmI6Uoo8Ng6Ba2VwXGe62vqPtSNAJvscP0JPibq5tnMKa9IydWaMqdKB360ZLzhC7n9n5YiayCg/300?wxtype=jpeg&amp;wxfrom=0"/><p>书籍简介2022年末，随着先进语言模型如ChatGPT的出现，自然语言生成（NLG）技术的突出地位得到了极大的提升。尽管这些发展在学术界和商业领域引起了广泛关注，但焦点主要集中在最新的创新上，常常忽视</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=5&amp;sn=a013d4fba9e7be38922eabe53bc77823&amp;chksm=fd86d31312620eb2cc8dab0fc5db0c518beb690b2b3357897ccc30d0178d71a3cf41fa66fe79&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[大语言模型用于军事中是否安全？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicRN1PHnEwuAMMbRia0c6F4p10yciag3gm3PMLOHHiakpWzmORiaX4rCjib1RYLSnsQvCSQfNBr5TlYpGhw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）（如 ChatGPT、Claude 和 Meta AI）的出现是迄今为止人工智能领域最重大的进步。这项新技术也带来了新风险。众所周知的例子包括偏见、幻觉、知识产权（IP）盗窃和缺</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664753&amp;idx=5&amp;sn=3e2d8d31668444a62d0e0777bc5eb72b&amp;chksm=fd95898f6338080f46542a217b84d8a2c5529882a152f7eecb913af39de53ee32170f3be9003&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[DeepSeek指导手册：从入门到精通]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2VhmmI6Uoo8Ng6Ba2VwXGedOZib2OFIT6SBozQXmm1eo6lblWT2ibF6SbV4ZJ2OOSPkkCVhDkrxIGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本手册主要介绍了DeepSeek从入门到精通的全方位指导，包括准备篇、基础指令集、效率飞跃篇、自媒体运营、数据准备黄金法则、API开发者模式、日志分析图谱以及视频脚本等内容。以下是详细要点：1.准备篇</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=6&amp;sn=95d433bcde0464eb9254dec72a6b61cb&amp;chksm=fd4d1be85b7770dc0cf8218c169a1862678a8e69cff3d3efa96824d4c29ae55510fbb9cc65b6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[【ICLR2025】FREQPRIOR: 通过频率滤波高斯噪声改进视频扩散模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0L9RKbmprrrjexS52AAtjNl3icjLAsHkthje4V6BGHnOjdwJubgP17sIvsWDdHW3bFFYtYvwt6Aibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>文本驱动的视频生成已经取得了显著进展，这得益于扩散模型的发展。在训练和采样阶段之外，近期的研究已经探讨了扩散模型的噪声先验，因为改进的噪声先验能够产生更好的生成结果。一种最近的方法利用傅里叶变换来操控</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664753&amp;idx=6&amp;sn=899f6f4162f1b85ee7dbb79cf84ff9e9&amp;chksm=fdf5b7d363b3eeb505afff6386c46c5698b6cb92471e580da49f0c121e9d8a0117d04b33a335&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[NAACL 2025 | 知识增强下的智能体规划]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcMMU2MKmFQESSfX8aQ3c4BLqtFh7K3koXuA9KBEIyFv4rt8vHcXMouQ04Y5DOT0XyHPTz4DJXUgiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents本文作者：朱雨琦（浙江大学）、乔硕斐（浙江大学）、欧翌昕（浙江大学）、</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=7&amp;sn=c27bdfcb67b0ea921076ecffb78fab91&amp;chksm=fd08169e086837cb77838304283da88269c67f98addfc074f11645af676f90ad42ca7a5f654c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      <title><![CDATA[DeepSeek从入门到精通：7大场景+50大案例+全套提示词]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0L9RKbmprrrjexS52AAtjNBQCfI0UvLACtNpiaY787N7F6VbehWywRSC5tMN5SCSqRMXQRZhqrt5w/300?wxtype=jpeg&amp;wxfrom=0"/><p>这里我们将带你从入门到精通，一步步掌握DeepSeek的核心技术。无论你是新手还是有一定基础的开发者，都能在这里找到你需要的知识。标签：#DeepSeek入门 #DeepSeek教程 #数据分析 #数</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664753&amp;idx=7&amp;sn=12caeffd76073b0d3a13217ba2104ffb&amp;chksm=fd53bf1fdb32605f242e952634ce0130c2d665f38cc6e0ca2db8b7b0f61edd7fa05c81c66a96&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 03:00:00 +0000</pubdate>
     </item>
     <item>
       <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！3D点云基础模型：综</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=8&amp;sn=def5cbeae15d115b944ca7ba4fb43e58&amp;chksm=fd2a3334ec2fdbf3e3f406e393c5ec1acf42cc66cfb2a2ccaeb9e7ee6d3cda89fc464c9db1ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664753&amp;idx=8&amp;sn=931cf71b7d11cffd67d965aba8c47550&amp;chksm=fd6d808bcfa25aa8c99425673afd9c822870f89a6a1ce775abab6fe58217e84ee248a53c0504&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 03:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[多机器人系统的大型语言模型：综述]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2VhmmI6Uoo8Ng6Ba2VwXGeuDhq0FRV1yibkPJzkAFjw9XYZXv4qAuEkKTDuKicQ4LFof9F9oukicAew/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）的快速发展为多机器人系统（MRS）开辟了新的可能性，提升了通信、任务规划和人机交互等方面的能力。与传统的单机器人和多智能体系统不同，多机器人系统面临着独特的挑战，包括协调性、可</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=1&amp;sn=411dc24f08109ea7575f1eb09b67ccd1&amp;chksm=fd66168739983ba8ea42ac1d379d8a117a9f3e9ebbe4491fd3d34295557467b834b62d249ee7&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【博士论文】解释大型视觉模型方面的进展]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2VhmmI6Uoo8Ng6Ba2VwXGe89N476icpIqSmpIGy4tsA6FK0DgNOXcia4ehiaGtds7qCENIFIHtrvlxg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本论文旨在推动计算机视觉领域中可解释性技术的前沿发展，并开发相应的工具集，专注于增强我们对目前在视觉任务中使用的深度神经网络特征的理解。可解释性是改进人类与人工智能系统之间交互的关键领域，从科学角度来</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=2&amp;sn=a833ada0feb2d2bfa198bf0c2f0893d5&amp;chksm=fda9a502c09d36434b5648f2aee618fa3c473c06dc1ad903182510f254d86a2dd9e81d326e40&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[标注受限场景下的视觉表征与理解]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/bPcM14Jicetaco9CobiaqBNwwsiayVsLWNjBNcjibX5jD06ebbvA58V5rzGt4qjFg9nrBkEYxuzMRSveonrw8ibXVkQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>文 / 吴建龙摘 要：图像分类、动作识别等视觉理解任务通常依赖于大量的标注数据，而在实际场景中，获取足够的标注数据往往成本很高且具有挑战性。本文主要探讨标注受限场景下的视觉表征学习与理解任务。首先聚焦</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=3&amp;sn=81a4b4942b740b927987229cacce5196&amp;chksm=fda1a53453f2ef2a7cc058d130366d7f1ab37cccf8c95a5c9249fe338475fdd16ad4a6ad2708&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[蜂群：开创自主无人机作战和电子战的未来]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ia2ks7GZjMicS9sVjiaKSQ7cI1PE5fgwqiaHoA23oskFa8GuO46Q2jBM9M9NpGSGeWElsBLNYowhLX0J83djQ03qSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>现代无人驾驶技术正在经历快速发展，包括民用和军事应用。自动驾驶汽车、无人机送货以及用于救援和消防服务的无人机已成为当代基础设施不可或缺的一部分。然而，这些技术在军事领域的意义尤为重大，它们为未来的民用</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=4&amp;sn=7fb1c06aca6d1f908fce87404fffc117&amp;chksm=fd396ae1e0d91b0b1295027a73725421f6ee5cb0f2e99975081f3009ca52f3f261d7db6da11a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[【新书】自然语言生成，208页pdf]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2VhmmI6Uoo8Ng6Ba2VwXGe62vqPtSNAJvscP0JPibq5tnMKa9IydWaMqdKB360ZLzhC7n9n5YiayCg/300?wxtype=jpeg&amp;wxfrom=0"/><p>书籍简介2022年末，随着先进语言模型如ChatGPT的出现，自然语言生成（NLG）技术的突出地位得到了极大的提升。尽管这些发展在学术界和商业领域引起了广泛关注，但焦点主要集中在最新的创新上，常常忽视</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=5&amp;sn=a013d4fba9e7be38922eabe53bc77823&amp;chksm=fd86d31312620eb2cc8dab0fc5db0c518beb690b2b3357897ccc30d0178d71a3cf41fa66fe79&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[DeepSeek指导手册：从入门到精通]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw2VhmmI6Uoo8Ng6Ba2VwXGedOZib2OFIT6SBozQXmm1eo6lblWT2ibF6SbV4ZJ2OOSPkkCVhDkrxIGA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本手册主要介绍了DeepSeek从入门到精通的全方位指导，包括准备篇、基础指令集、效率飞跃篇、自媒体运营、数据准备黄金法则、API开发者模式、日志分析图谱以及视频脚本等内容。以下是详细要点：1.准备篇</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=6&amp;sn=95d433bcde0464eb9254dec72a6b61cb&amp;chksm=fd4d1be85b7770dc0cf8218c169a1862678a8e69cff3d3efa96824d4c29ae55510fbb9cc65b6&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[NAACL 2025 | 知识增强下的智能体规划]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AicicrECaqhcMMU2MKmFQESSfX8aQ3c4BLqtFh7K3koXuA9KBEIyFv4rt8vHcXMouQ04Y5DOT0XyHPTz4DJXUgiaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents本文作者：朱雨琦（浙江大学）、乔硕斐（浙江大学）、欧翌昕（浙江大学）、</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=7&amp;sn=c27bdfcb67b0ea921076ecffb78fab91&amp;chksm=fd08169e086837cb77838304283da88269c67f98addfc074f11645af676f90ad42ca7a5f654c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！3D点云基础模型：综</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664720&amp;idx=8&amp;sn=def5cbeae15d115b944ca7ba4fb43e58&amp;chksm=fd2a3334ec2fdbf3e3f406e393c5ec1acf42cc66cfb2a2ccaeb9e7ee6d3cda89fc464c9db1ba&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 08 Feb 2025 03:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
@@ -780,138 +900,6 @@
       
 
       <pubdate>Mon, 03 Feb 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[OpenAI 发布推理模型o3-mini，附37页技术报告，中英文版]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0jAp1dOhiaibEYzWcCZNkzA1BicgCYAFSomialQibqLsuIPuEAnFx5ibkm8OKRv8ka7ThQE38vIOjBuFqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>被 DeepSeek 狂轰乱炸了一周后，终于在今天发布了新的模型 o3-mini。此次发布，o3-mini 包含 low、medium 和 high 三个版本。OpenAI 表示，今天发布的 o3-m</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664471&amp;idx=1&amp;sn=c5d6580a8f5677bd37806f185014c50e&amp;chksm=fd93ca649536338313e162ec4195be221762631f636b750134fe404e8e368d065f0972179bde&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Feb 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[高效扩散模型综述]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0Mxt7xTNzaCNZcpzibOfnfwj1xemT1e4JMaEjDKzcp9d16tffhADuECw/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要扩散模型（Diffusion Models, DMs）已成为强大的生成模型，在图像、视频、音频等内容生成任务中展现出卓越性能，并具有变革数字内容创作的潜力。然而，这些能力伴随着高昂的计算资源消耗和</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664471&amp;idx=2&amp;sn=0663b35ea461d648c86d1abe08c67526&amp;chksm=fda156b9b11bf43bfaeaa38eb231ea246d17c7944b2c65230cce780fadb79b20f48318923896&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Feb 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[深度强化学习及其在工业场景的应用与展望]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV01TXOp5HMaTo5Pf6AFicmPLe3mCa3onxqyQ6VrN7Sp1fzLIway7p2xdw/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘 要 工业控制系统（Industrial Control Systems, ICS）在现代工业生产中发挥关键作用，负责监控和控制工业过
-程，确保高效、安全和稳定的生产。随着工业 4.0 和智能制造的</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664471&amp;idx=3&amp;sn=fdaa2fd6ec832f5bc636e9ca425eff81&amp;chksm=fda0acf2b34559f4307b12706ad58eab718b2d8ea64c23ecc2d6d94fe7e55a6e37a4ab136f7a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Feb 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[多智能体协同研究进展综述: 博弈和控制交叉视角]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0sDHHLZSlbzZTPItwoFqpw1bZY0B2MicQokYf3kgN2lI1QvDBZ7ia71Uw/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘 要 多智能体协同应用广泛, 并被列为新一代人工智能基础理论亟待突破的重要内容之一, 对其开展研究具有鲜明的
-科学价值和工程意义.随着人工智能技术的进步, 单一控制视角下的多智能体协同已无法满足执行</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664471&amp;idx=4&amp;sn=0d55caa35559ff1c5bfbf2777b9e1ffc&amp;chksm=fd70bd150b43d86954c9365991ad5687fd1bdcd6e0d39889507299aef63ec5b7ad10a49eea71&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Feb 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[【ETZH博士论文】多精度硬件加速的架构与微架构解决方案]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0jAp1dOhiaibEYzWcCZNkzA1vjaUA4CWXa1hPfs6Zv4Jh2BmkDrUky46AZbDt7nx8ehHmX3u2Xzs8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>领域专用硬件加速器目前正在革新整个计算系统领域，从大型数据中心平台到小型物联网（IoT）设备。这些加速器显著提高了硬件系统的能效，这一点在今天尤为重要，尤其是随着技术扩展效益逐渐减小以及神经网络（NN</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664471&amp;idx=5&amp;sn=4acec44a36826f23abbd99bc7da35133&amp;chksm=fdda8c21df22f0e1c85b4ed6a34dacd874effa13c2b0fe2d60e70710caeeba6ae95c538becfb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Feb 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[数字孪生战场: 概念、架构与技术]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw0ceQyzlia4P7UyLZwaYCTV0fcT2Kl62nH8cwUrxGrDaDvfkWr7PGXe9rdM88lnKiajnH62c0koUXaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘 要：当前作战仿真模型存在态势理解滞后、物理模型无法更新等问题，这些问题将影响后续态势推演与
-决策效果。为此，提出数字孪生战场的概念，并建立数字孪生战场的４层架构模型。基于这种模型，分析其在战
-场空</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664471&amp;idx=6&amp;sn=14f71a731a88a780109967a9c2d5baf1&amp;chksm=fda9ae3c19729f607a6311f8e14a48b323016e4748e45bb3df806671e74cc6b0edc200ed5a72&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Feb 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DeepSeek R1本地部署，小白教程来了！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/vI9nYe94fsGy0Ofd8Luacuvpgh6U8F1LW0aFCzGsglpkD91EdcGeibJlqPXlz2MvCTII5gWOB68eq5HZwoYYUng/300?wxtype=jpeg&amp;wxfrom=0"/><p> Datawhale干货 作者：不要葱姜蒜，Datawhale成员前天的文章《Zotero整合DeepSeek自动帮你读文献，教程来了！》中，有学习者问到有没有本地部署模型的教程，今天小白版他来了！D</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664471&amp;idx=7&amp;sn=69e4b2873a5e7a324e94e132c5886371&amp;chksm=fdb9013184d75bc741d4aa04a3934f5d7b779a8b7179cf0d3e7a25ce1d24704c5ba0a96089c5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Feb 2025 03:00:00 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[2025必看AI干货!《大模型/AIGC/GPT-4/Transformer/DL/KG/NLP/CV AI+X》集合]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AefvpgiaIPw3vtmBzicEHsOGAnzCphlwo8ia0CRo6v94HTjNDMdbsto7icoiaBwOia7jxLkJ8Mf0G8wblbicGg3FeRqfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>【导读】专知整理2025年来在Sora/ChatGPT/GPT-4/Transformer/扩散模型/深度学习/机器学习/知识图谱/NLP/CV/因果推理的综述论文，欢迎大家查看！工业应用中的异常检测</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&amp;mid=2247664471&amp;idx=8&amp;sn=3cf84dcda7d58833b8a3cdf0f5da2e64&amp;chksm=fd617c3d2623f3c390294e951647f50c7724be5ef2c2be1865200f7f822b86847975f036b919&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 02 Feb 2025 03:00:00 +0000</pubdate>
       
 
     </item>
