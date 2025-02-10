@@ -44,11 +44,28 @@
 
 
 
+
     <item>
+      <title><![CDATA[无人机 PX4 飞控 | PX4源码添加自定义模块方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt7TN0qWXlGkyeQLReOFyCSXqUkIdGQDicWmpoOTUajJAiciaWvMRTQwEdCwtDBpnT3gdAFSGy8cVBrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0 前言PX4的模块是构成PX4飞控系统的重要组成部分，负责实现特定的功能，如飞控算法、传感器数据处理、通信协议等。每个模块负责特定的任务，例如：navigator 模块负责航线规划与任务执行。com</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604196&amp;idx=1&amp;sn=e926908f898b8edd959099de7f8d23ad&amp;chksm=fa180a9cf734608c6a497b88daaf1a336b6247c32a2c889d162687a25d39f8edcd9a6b924d68&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Sun, 09 Feb 2025 09:20:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[【四足机器人】convexMPC中的力约束条件]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt7TN0qWXlGkyeQLReOFyCSSR28geHClWI4euNWZoDHglAmMw82rHGMOFxYRPfAVhQzKO6eiaV2pPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述本文主要讨论了模型预测控制（MPC）中的约束条件，并以地面反作用力优化为例，详细阐述了约束条件的构建方法。通过对地面反作用力的约束，实现了四足机器人在复杂环境下的稳定行走和操作一、原理介绍在MPC</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604195&amp;idx=1&amp;sn=06b017a4f827bce9890defe1b1d317e8&amp;chksm=fa37051db50b8b32d6eb3150599be7e9ccc226eca0eeb59cf4aa5ea2da79676f5f40f2386384&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Feb 2025 09:20:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
