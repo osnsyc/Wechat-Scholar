@@ -34,17 +34,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[聊聊Reasoning Model的精巧实现（ReFT, Kimi K1.5, DeepSeek R1）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahKL7Pib1C9FI0yjtoy2xfj46fHY8yH0KxTK6DzpsseDGfMYciarKCRTDmQ4DKOkY7l27vSoa2acvEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：姜富春（已授权）链接：https://zhuanlan.zhihu.com/p/20356958978编辑：「深度学习自然语言处理」公众号引言最近Reasoning Model（推理模型）异常火</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535834&amp;idx=1&amp;sn=cd73a09d67369d94087094b43846c623&amp;chksm=ea4b79e930d2a875919cd8e1677d5e3cd8ecc57c948fec863ee900416d0c0a68dab40b16dfc2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sat, 08 Feb 2025 13:35:31 +0000</pubdate>
+      <title><![CDATA[三张图速通 DeepSeek-R1 论文和技术原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajGDDc7DghcxMB72qiagJMPewpYA6Bibn9aUOiamibBqz7scibQ2Cwbib9WibYKxSL7L5QTuKhLKXhVomz7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：木尧（已授权）链接：https://zhuanlan.zhihu.com/p/20538667476编辑：「深度学习自然语言处理」公众号总览最近在研究和复现 DeepSeek-R1（671B 参</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535912&amp;idx=1&amp;sn=fbe0396d92c2f6f522a25083e8a28397&amp;chksm=eaf20ef93e4368203c9e39acc9794adf7e074113225c3b9c766ac6a2c6e59b1aa83db06631dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 11 Feb 2025 12:21:40 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[Speculative Ensemble - 让大模型集合推理飞起来！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahKL7Pib1C9FI0yjtoy2xfj4cLG4ia6S4FAIqP7KMfk8P54uAicdWyFS1dUo9ldVqIsVBcI4txt3fCUA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好！今天我们要聊的是一篇关于大模型集合推理的论文。大家都知道，大模型集合（Ensemble）是个好东西，它能把多个模型的智慧结合起来，生成更高质量的文本。但是！集合推理有个大问题——慢！就像你等外</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535834&amp;idx=2&amp;sn=c331d6ff2ab3928141a86fa29887ea84&amp;chksm=ea392d8ec3ff00319fcc6d35aa5e497d36f25e671621a7bf56d5abfbc2738a50a36ccb159fe9&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[2轮推理赶超已对齐模型？TPO：无需更新参数的对齐新思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajGDDc7DghcxMB72qiagJMPeeEYZN14U6eyVWylfJdicyo1by1grSXVZQ8K1sCwGotAh3bnU4R3xLhw/300?wxtype=jpeg&amp;wxfrom=0"/><p>传统的对齐方法（如RLHF和DPO）通过更新模型参数来最小化损失函数，但需要迭代重训练，限制了大语言模型（LLM）对新数据和新需求的快速适应。本文提出推理时偏好优化（Test-time Prefere</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535912&amp;idx=2&amp;sn=9914f8faaaeb585a7bd8e983cefe6e86&amp;chksm=eac43245c51ad797fd4e05f661c90e5557375a3302ded9fa636337baefb5bff17bbd970beadc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 11 Feb 2025 12:21:40 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[聊聊Reasoning Model的精巧实现（ReFT, Kimi K1.5, DeepSeek R1）]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahKL7Pib1C9FI0yjtoy2xfj46fHY8yH0KxTK6DzpsseDGfMYciarKCRTDmQ4DKOkY7l27vSoa2acvEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：姜富春（已授权）链接：https://zhuanlan.zhihu.com/p/20356958978编辑：「深度学习自然语言处理」公众号引言最近Reasoning Model（推理模型）异常火</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535834&amp;idx=1&amp;sn=cd73a09d67369d94087094b43846c623&amp;chksm=ea4b79e930d2a875919cd8e1677d5e3cd8ecc57c948fec863ee900416d0c0a68dab40b16dfc2&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sat, 08 Feb 2025 13:35:31 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[Speculative Ensemble - 让大模型集合推理飞起来！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahKL7Pib1C9FI0yjtoy2xfj4cLG4ia6S4FAIqP7KMfk8P54uAicdWyFS1dUo9ldVqIsVBcI4txt3fCUA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好！今天我们要聊的是一篇关于大模型集合推理的论文。大家都知道，大模型集合（Ensemble）是个好东西，它能把多个模型的智慧结合起来，生成更高质量的文本。但是！集合推理有个大问题——慢！就像你等外</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535834&amp;idx=2&amp;sn=c331d6ff2ab3928141a86fa29887ea84&amp;chksm=ea392d8ec3ff00319fcc6d35aa5e497d36f25e671621a7bf56d5abfbc2738a50a36ccb159fe9&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sat, 08 Feb 2025 13:35:31 +0000</pubdate>
+      
+
     </item>
     <item>
       
