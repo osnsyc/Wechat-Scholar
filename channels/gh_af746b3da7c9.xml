@@ -36,17 +36,45 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[三张图速通 DeepSeek-R1 论文和技术原理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajGDDc7DghcxMB72qiagJMPewpYA6Bibn9aUOiamibBqz7scibQ2Cwbib9WibYKxSL7L5QTuKhLKXhVomz7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：木尧（已授权）链接：https://zhuanlan.zhihu.com/p/20538667476编辑：「深度学习自然语言处理」公众号总览最近在研究和复现 DeepSeek-R1（671B 参</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535912&amp;idx=1&amp;sn=fbe0396d92c2f6f522a25083e8a28397&amp;chksm=eaf20ef93e4368203c9e39acc9794adf7e074113225c3b9c766ac6a2c6e59b1aa83db06631dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 11 Feb 2025 12:21:40 +0000</pubdate>
+      <title><![CDATA[从理论到代码剖析DeepSeek-R1：从PPO到Reinforce++，再对比GRPO]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajaRnOSDibA8Dl9t2rSFUJ0loEMf00LY9MZ9N82CNGD3qe9rNSzwBIznUXWsUOXwf8y8zv7H4jMT3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>前置说明：我只是 RLHF 一个刚入门的小菜鸡，完全可能错误百出，欢迎大家批评指教！Reinforce++ 和 GRPO 都是 PPO 的变体。PPO 有 4 个模型，actor，critic，ref</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535925&amp;idx=1&amp;sn=beccd3b61ad9c0655aa534db5a6f1e1d&amp;chksm=ea15aa2e119d10fcb7b8830c7011c53418df68d842e49610f76dc37086bad13668b0383c5ebe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Wed, 12 Feb 2025 14:39:45 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[2轮推理赶超已对齐模型？TPO：无需更新参数的对齐新思路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajGDDc7DghcxMB72qiagJMPeeEYZN14U6eyVWylfJdicyo1by1grSXVZQ8K1sCwGotAh3bnU4R3xLhw/300?wxtype=jpeg&amp;wxfrom=0"/><p>传统的对齐方法（如RLHF和DPO）通过更新模型参数来最小化损失函数，但需要迭代重训练，限制了大语言模型（LLM）对新数据和新需求的快速适应。本文提出推理时偏好优化（Test-time Prefere</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535912&amp;idx=2&amp;sn=9914f8faaaeb585a7bd8e983cefe6e86&amp;chksm=eac43245c51ad797fd4e05f661c90e5557375a3302ded9fa636337baefb5bff17bbd970beadc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <title><![CDATA[三张图速通 DeepSeek-R1 论文和技术原理]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajGDDc7DghcxMB72qiagJMPewpYA6Bibn9aUOiamibBqz7scibQ2Cwbib9WibYKxSL7L5QTuKhLKXhVomz7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：木尧（已授权）链接：https://zhuanlan.zhihu.com/p/20538667476编辑：「深度学习自然语言处理」公众号总览最近在研究和复现 DeepSeek-R1（671B 参</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535912&amp;idx=1&amp;sn=fbe0396d92c2f6f522a25083e8a28397&amp;chksm=eaf20ef93e4368203c9e39acc9794adf7e074113225c3b9c766ac6a2c6e59b1aa83db06631dc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 11 Feb 2025 12:21:40 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[2轮推理赶超已对齐模型？TPO：无需更新参数的对齐新思路]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajGDDc7DghcxMB72qiagJMPeeEYZN14U6eyVWylfJdicyo1by1grSXVZQ8K1sCwGotAh3bnU4R3xLhw/300?wxtype=jpeg&amp;wxfrom=0"/><p>传统的对齐方法（如RLHF和DPO）通过更新模型参数来最小化损失函数，但需要迭代重训练，限制了大语言模型（LLM）对新数据和新需求的快速适应。本文提出推理时偏好优化（Test-time Prefere</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535912&amp;idx=2&amp;sn=9914f8faaaeb585a7bd8e983cefe6e86&amp;chksm=eac43245c51ad797fd4e05f661c90e5557375a3302ded9fa636337baefb5bff17bbd970beadc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Tue, 11 Feb 2025 12:21:40 +0000</pubdate>
+      
+
     </item>
     <item>
       
