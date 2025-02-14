@@ -41,34 +41,93 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[ICLR 2025｜如何在ImageNet-1K上训练视觉基础模型？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrCrch2jjsGzLH3mmreHvOjLm8dlxdZr0l6CVhJyvLdLNnJe0R11AYPOz7Vj13UIic9meIE3tX9ibrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 仅在ImageNet-1K的1.2M图像上训练就可以在多项任务上达到跟别人所提供的预训练模型相当的性能。 >>加入极市CV技术交流群，走在计算机视觉的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247705439&amp;idx=1&amp;sn=fa19b46990285eb3e1a4f051a933ba10&amp;chksm=ed38953649c16d74527f9a9f8243331eaf3fb1faa93bd01054b1867ce422699e6f816e7687ca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Feb 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[准确率最高只有48%？现有多模态大模型迎来大考！小红书&amp;上海交大发布WorldSense基准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrCrch2jjsGzLH3mmreHvOj0aNOOvsdeYsXjfyTib5nbDPksowfMd0TaW4yxDNIakt3dd4VgmNoVibQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨AI生成未来来源丨AI生成未来编辑丨极市平台极市导读 首个专门用于评估多模态大模型（MLLMs）在真实世界场景中全模态理解能力的基准测试集。研究发现现有的开源多模态模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247705439&amp;idx=2&amp;sn=c6e0d205bb34bb6a351cd4e7f054585a&amp;chksm=ed61fa088abaaf03452e78a3a658987c29a614b658224388866d3005d2e7c0a34019656726ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Feb 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[谈谈DeepSeek-R1满血版推理部署和优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrCrch2jjsGzLH3mmreHvOjGsFWHMbsgubY3RWbrQGSG7uHp3uBCow0XVgEbRbJlVoAEvLzyaawrw/300?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DR春节假期开始, 好像很多人都在开始卷DeepSeek-R1的推理了. 渣B也被兄弟团队带着一起卷了一阵, 其实推理中还有很多约束, 比较认同的是章老师的一个观点: “推理框架很有可能就此走向</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247705439&amp;idx=3&amp;sn=0858ded80fbbdc6b4ecfdd778badc9ef&amp;chksm=edc818a4541b998021e3a2ffc8627ae23fd7818d4535d5f315e1e09cb1f1b22563b0ace83f89&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Feb 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek R1不编程就能生成GPU内核，比熟练工程师好，惊到了英伟达]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfrCrch2jjsGzLH3mmreHvOjjLyHemVbNKHqiaOiaGptgicLADic9KTAyZulib6xTXcWoXaEApF40mwjY4g/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心极市导读 这项尝试只用到了 R1 模型和基本验证器，没有针对 R1 的工具，没有对专有的英伟达代码进行微调。其实根据 DeepSeek 介绍，R1 的编码能力不</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247705439&amp;idx=4&amp;sn=4a953f608e7c2e6772b858a3c142f95e&amp;chksm=edc02c94cc2c9bc29a55f2549b0191eb380ad85473de78928f51658c206a1763857150a01b80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 13 Feb 2025 14:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[一文搞懂DeepSeek的技术演进之路：大语言模型、视觉语言理解、多模态统一模型]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpwtSib3t3icnF25h5dYYm1ocDoVRyMsLcl7WZyW7niay6Mu0ibH1SNiaN3x6dQBNgswWTib57j8L5sX5Dg/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨猫先生来源丨魔方AI空间编辑丨极市平台极市导读 本文撰写路径比较清晰，意在初步梳理DeepSeek技术的演进及进化之路，主要包括三大方向：大语言模型、视觉语言理解模型、</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247705382&amp;idx=1&amp;sn=138c298b02bc099c3a0743c0adcf0dc0&amp;chksm=ed6e8afae9ca365616bc632c470cf62d1955d95891e550571bd530399b2d5b55af32c1b3aff5&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Feb 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[大模型轻量化系列解读 (七)｜厦门大学纪荣嵘团队提出AffineQuant：LLM 的仿射变换量化]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpwtSib3t3icnF25h5dYYm1ocOdq125bhB9ZsGdOxfrNKIiaHQg2icaYjEN3C4oxWZzGKPFhiajUUticRGw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 本文提出了一种名为AffineQuant的后训练量化（PTQ）方法，通过引入等价的仿射变换扩展了优化范围，显著降低了量化误差，尤其在低比</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247705382&amp;idx=2&amp;sn=98b62751e4da3d2c7a5fa7723abb7f82&amp;chksm=ed9e1119890ea8f5ce7c1eda971d098e5d69df409e79c0ff85e373a950e19503d89981951419&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Feb 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[浅析主流 Alignment 算法与 NeMo-Aligner 框架]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpwtSib3t3icnF25h5dYYm1ocv8QHYAETic5Ric348NvusSv0Pba4muzDQsHOYd539RmX5565spDO1JoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/5220718268编辑丨极市平台极市导读 文章详细分析了NeMo-Align</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247705382&amp;idx=3&amp;sn=1eeb560f09faa65662c02944a506ae2c&amp;chksm=edb158f50a35d98abddefc6f657c696e86fd5288c64ae08504d27cb91f5e7bfbe6904e2a5356&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Feb 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
+      
+
       <title><![CDATA[清华一作1B暴打405B巨无霸，7B逆袭DeepSeek R1！测试时Scaling封神]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpwtSib3t3icnF25h5dYYm1ocCgPQDVmseZibkavXL0Rnh2rTOeNNFIaliaDM1f5HRV51OInQm4hqJjnw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨新智元极市导读 仅凭测试时Scaling，1B模型竟完胜405B！多机构联手巧妙应用计算最优TTS策略，不仅0.5B模型在数学任务上碾压GPT-4o，7B模型更是力压o</p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247705382&amp;idx=4&amp;sn=b3907e23d5ccc5c14527564861986550&amp;chksm=ed76a91175c3f1a5740f1c57f5379e574b999c7770ebccc3155e8a25b806542f780fac6a5f53&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Wed, 12 Feb 2025 14:00:00 +0000</pubdate>
+      
+
     </item>
     <item>
       
