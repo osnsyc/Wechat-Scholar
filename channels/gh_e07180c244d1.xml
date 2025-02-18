@@ -35,17 +35,51 @@
 
 
 
+
+
     <item>
-      <title><![CDATA[ICLR2025 | 一个模型架构搞定T2X任务，计算量仅DiT的一半，来自中山大学 &amp; 360 AI Research，已开源]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTth6uBgTGHR1rnbvyLXxxjp1ecKSyb3GPKTcm3Rta6xyo9dw68x34hu5FMV4n4HiaI2abS7icZYNySw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美Diffusion Transformer模型由于全局self-attention，其计算复杂度与序列长度平方成正比，导致其在高分辨率图像和长时间视频生成任务中面临计算成本</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247627709&amp;idx=1&amp;sn=c9e4f0bae7a66caa62213c4ceb911106&amp;chksm=975f97ea5b74919f18f24ca309de1b05c1eef5d9fee07c7a87dda8ac4126ae050f0164411b67&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Sun, 16 Feb 2025 14:36:56 +0000</pubdate>
+      <title><![CDATA[顶刊TPAMI 2025 | 北大、KAUST、字节联合提出“可逆扩散模型”赋能图像重建，代码已开源！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtRybunVUuqOPIJnGQeeYAcGNIHiaiaMpzbXD11ys40iaDdrQEXbvlodYab3VvVmJG9aMiatxjV80RWrQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美本篇分享 TPAMI 2025 论文Invertible Diffusion Models for Compressed Sensing，北大、KAUST、字节联合提出“可</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247627754&amp;idx=1&amp;sn=56f6fc5a9b628dd31979f3dba4c72b67&amp;chksm=97441802aee5ca89cb239d192c500b8d2671c7f481c997f129e10c1715fb8e3cb415be497d1e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 17 Feb 2025 12:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[CVPR2025 NTIRE | 第二届短视频质量评价与增强竞赛已启动+新数据集KwaiSR]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTth6uBgTGHR1rnbvyLXxxjpCxIXfDMulMBZz5rKjIAqReeEO2AYx7cTYUpcx5OedzxVLRyX974BUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美CVPR NTIRE Workshop是计算机视觉领域极具影响力的国际学术研讨会之一，通常涵盖增强、修复、质量评价等底层视觉比赛内容，对于视觉信号处理领域的发展发挥着重要的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247627709&amp;idx=2&amp;sn=25aca158ddf4b11f6e8471f7183d7e0d&amp;chksm=971f88ba47d9e8a5b7aa8fc0e4376d6a15f2d1def4c41d149d482471de437d70d08af11a58bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[NTIRE 2025第一届事件辅助的图像去模糊挑战赛正式开赛]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtRybunVUuqOPIJnGQeeYAcOzlSUzDvF0Ff5uAQjvfNz6tQTiacX5pCh67PkVPx8XiawPutf0wtQMNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美本次挑战赛同时作为NTIRE研讨会和事件传感器研讨会（Event-based vision workshop）的一部分，与 CVPR 2025 一同举办。NTIRE（New</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247627754&amp;idx=2&amp;sn=ddbc8698e267fa07ee911f5494f003e5&amp;chksm=97c25b862ab1ad5ce9070061f8191ba5a8a5f512cac477b69a68d8a5f45bb7cd674e209afac2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Mon, 17 Feb 2025 12:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[ICLR2025 | 一个模型架构搞定T2X任务，计算量仅DiT的一半，来自中山大学 &amp; 360 AI Research，已开源]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTth6uBgTGHR1rnbvyLXxxjp1ecKSyb3GPKTcm3Rta6xyo9dw68x34hu5FMV4n4HiaI2abS7icZYNySw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美Diffusion Transformer模型由于全局self-attention，其计算复杂度与序列长度平方成正比，导致其在高分辨率图像和长时间视频生成任务中面临计算成本</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247627709&amp;idx=1&amp;sn=c9e4f0bae7a66caa62213c4ceb911106&amp;chksm=975f97ea5b74919f18f24ca309de1b05c1eef5d9fee07c7a87dda8ac4126ae050f0164411b67&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Sun, 16 Feb 2025 14:36:56 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[CVPR2025 NTIRE | 第二届短视频质量评价与增强竞赛已启动+新数据集KwaiSR]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTth6uBgTGHR1rnbvyLXxxjpCxIXfDMulMBZz5rKjIAqReeEO2AYx7cTYUpcx5OedzxVLRyX974BUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美CVPR NTIRE Workshop是计算机视觉领域极具影响力的国际学术研讨会之一，通常涵盖增强、修复、质量评价等底层视觉比赛内容，对于视觉信号处理领域的发展发挥着重要的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247627709&amp;idx=2&amp;sn=25aca158ddf4b11f6e8471f7183d7e0d&amp;chksm=971f88ba47d9e8a5b7aa8fc0e4376d6a15f2d1def4c41d149d482471de437d70d08af11a58bc&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Sun, 16 Feb 2025 14:36:56 +0000</pubdate>
+      
+
     </item>
     <item>
       
