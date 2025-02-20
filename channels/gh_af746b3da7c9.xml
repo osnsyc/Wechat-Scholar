@@ -39,17 +39,102 @@
 
 
 
+
+
+
+
+
     <item>
-      <title><![CDATA[通过模型生成的解释理解LLM后门攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiamLELDHtJLDCW8KdpvnqBou0pphTRC6yZgKcOPHYHHgPft8JSEh1Ykz5JAWPqT1SvxXPU6fhLgUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好！今天我们要聊的是一篇让AI“自曝黑历史”的论文！大家都知道，LLM 就像我们的“智能小秘书”，但它们也可能被植入“后门”——比如在训练数据里偷偷塞一些暗号（触发器），让模型一看到暗号就“黑化”</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535947&amp;idx=1&amp;sn=c6a6fc401c2a128b039c1aa006d71f24&amp;chksm=ea08a1930c06cd0308847b7f814ba37d91265b096e56672b9aa5a048c66865c651376cee600c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 13 Feb 2025 12:24:51 +0000</pubdate>
+      <title><![CDATA[港理工提出TokenSkip：让大模型在CoT中“跳”过冗余token，压缩40%，性能几乎不降！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahRL0QSQYP43wSAlIV5LLKofgPIxAicnaeicqzd3IBhnD7cOc0lmvNyST6ricZmDLtbOwlGz9J3M1Ojg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，今天我们要聊的是一篇关于LLM的论文，主题是如何让大模型的“思维链”（Chain-of-Thought, CoT）变得更高效。大家都知道，大模型在处理复杂问题时，会生成一系列的推理步骤，这就是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247536078&amp;idx=1&amp;sn=de04ccdc94881cbc662844bfe09a789f&amp;chksm=ea031df50694546d6f4e8f7251663996fa1c65570c803cc5fea2c7e7100be9e55fd63ff9caa2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 20 Feb 2025 00:00:00 +0000</pubdate>
     </item>
     <item>
-      <title><![CDATA[ICLR2025分享会报名啦！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiamLELDHtJLDCW8KdpvnqBoCLBY6oH9hXMdS8cDeAp1BU840njXziaxFoxe4OGqg46wNSgIsY35qBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>ICLR2025放榜半个月啦，NICE将要在本月下旬开始（2.15ARR之后）分批举办论文分享会，在此邀请大家来分享自己的工作，好的工作应该让更多的人看到！（文末了解NICE详情）报名方式扫码(或者)</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535947&amp;idx=2&amp;sn=606f6f0a2bc341d535d0592ffde8fe77&amp;chksm=ea1c30c7f724849325e4a7ecc580551f676908306823b09f71b708ed509d11e1624eff57ccdf&amp;scene=0&amp;xtrack=1#rd</link>
+      <title><![CDATA[DeepSeek 背后的数学原理：深入探究群体相对策略优化 (GRPO)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahRL0QSQYP43wSAlIV5LLKoAQvMqx3mWnCKerF4piaINKxqxaqYYia0koLEqe0kNy49u9lvEOg18r0w/300?wxtype=jpeg&amp;wxfrom=0"/><p>来自：ChallengeHub原文译自：https://medium.com/@sahin.samia/the-math-behind-deepseek-a-deep-dive-into-group-</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247536078&amp;idx=2&amp;sn=6baaa36aaa6614ceefc283a8c459f0db&amp;chksm=eace4da8b04a518eff8f6c47b6ca68a7e57128e2868b90f54bbed77cb4dda5a80c5696308f86&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Thu, 20 Feb 2025 00:00:00 +0000</pubdate>
+    </item>
+    <item>
+      
+
+      <title><![CDATA[推理步骤长度对大型语言模型的影响]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahRL0QSQYP43wSAlIV5LLKoy5GZyharrkuibMBn9AVZRsiaUI6530D9aWcqZwF3brcAFOLMrZGstIug/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好！今天我们要聊的这篇经典论文，简直是为那些喜欢“想太多”的AI模型量身定制的！你有没有想过，为什么有些AI在解决复杂问题时表现得像个“推理大师”，而有些却像个“愣头青”？这篇论文发现了一个有趣的</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247536056&amp;idx=1&amp;sn=820912d8620a3e21b907b0d407a4849f&amp;chksm=ea370d1dc2d271ee722d0f81eff3404933c555dc20ae7be23eba57e8c8c08fb2a63d295a67fa&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 19 Feb 2025 12:45:58 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[JAI | 图像+语音+文本多模态语法归纳]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahRL0QSQYP43wSAlIV5LLKoCf9tuCGCgTHITkDey5sgF4CbadbEdvpp1R3PGSe9ic1WORCFia4twQGw/300?wxtype=jpeg&amp;wxfrom=0"/><p>概括: 在大模型时代，语言模型在语言理解和生成上已实现得了卓越的性能，然而关于语言模型的语法理解能力的研究仍然不足。语法归纳（Grammar Induction）是一个NLP领域的经典任务，旨在研究无</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247536056&amp;idx=2&amp;sn=ae0ca734dba1485843cd9f7de673d106&amp;chksm=ea8111c283cf2f840c1b9a74b60dd93b95f069adc6051cc29e6c7214f2255b8cfb2e25d8eecb&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 19 Feb 2025 12:45:58 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[上海算法创新研究院大模型实习生招聘]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahRL0QSQYP43wSAlIV5LLKoe3HLKeprkvbpuia3IfnRjVo2rRbrxzNzFWm7MRFM4oFqTzESHynEyWQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们是来自上海算法创新研究院大模型中心的算法团队，团队成员来自普林斯顿、北京大学、上海交大等著名学府，主要从从事大模型预训练、增强相关的算法工作。团队拥有足够多的算力和研究分为，围绕模型架构、训练、数</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247536056&amp;idx=3&amp;sn=b27c6d8c6de3b95800b7c7eb22ac2e28&amp;chksm=eaf9412fc06a95ce3f33d228e0fda97fd81eacea16abaf42b7e79740e6205f3af1a811bd99de&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Wed, 19 Feb 2025 12:45:58 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[通过模型生成的解释理解LLM后门攻击]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiamLELDHtJLDCW8KdpvnqBou0pphTRC6yZgKcOPHYHHgPft8JSEh1Ykz5JAWPqT1SvxXPU6fhLgUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好！今天我们要聊的是一篇让AI“自曝黑历史”的论文！大家都知道，LLM 就像我们的“智能小秘书”，但它们也可能被植入“后门”——比如在训练数据里偷偷塞一些暗号（触发器），让模型一看到暗号就“黑化”</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535947&amp;idx=1&amp;sn=c6a6fc401c2a128b039c1aa006d71f24&amp;chksm=ea08a1930c06cd0308847b7f814ba37d91265b096e56672b9aa5a048c66865c651376cee600c&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Thu, 13 Feb 2025 12:24:51 +0000</pubdate>
+      
+
+    </item>
+    <item>
+      
+
+      <title><![CDATA[ICLR2025分享会报名啦！]]></title>
+      
+
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiamLELDHtJLDCW8KdpvnqBoCLBY6oH9hXMdS8cDeAp1BU840njXziaxFoxe4OGqg46wNSgIsY35qBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>ICLR2025放榜半个月啦，NICE将要在本月下旬开始（2.15ARR之后）分批举办论文分享会，在此邀请大家来分享自己的工作，好的工作应该让更多的人看到！（文末了解NICE详情）报名方式扫码(或者)</p> ]]></description>
+      
+
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247535947&amp;idx=2&amp;sn=606f6f0a2bc341d535d0592ffde8fe77&amp;chksm=ea1c30c7f724849325e4a7ecc580551f676908306823b09f71b708ed509d11e1624eff57ccdf&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
+      <pubdate>Thu, 13 Feb 2025 12:24:51 +0000</pubdate>
+      
+
     </item>
     <item>
       
