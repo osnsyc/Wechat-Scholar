@@ -44,16 +44,51 @@
 
 
 
-
-
-
-
-
     <item>
+      <title><![CDATA[从零开始绘制DeepSeek R1架构和训练流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLtBxep7MM7h1tTB7WeDS0apJkF0gk1QpmQ2GfH8Nb0KFqpDsN8O8kVDbqpvTgWKf5rYlo0mibJOiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：lucas大叔原文：https://zhuanlan.zhihu.com/p/23018675736    快速概览在讨论技术细节之前，先简单介绍一下 DeepSeek-R1 并非是从无到有从头</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=1&amp;sn=6f56e71b4973454adb44c4b53d8c5375&amp;chksm=bf4e270c9801535ceafa9e93068ed5e4f6d61b4f9196cc1d7397048a25ab346d2e5ec70c4a0e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[Deepseek NSA 技术报告中英对照版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZvlMsfNDDjlReK7YahiaCNY4KQePjxDqBibJM8iauqttFm4MYPSpg15SSm52FibeBwqE6ib67ibvHKZcIJcxvnFMF0OA/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek团队的最新论文：Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention论文链</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=2&amp;sn=1b3e5f0fb60a6e33c7aa231547825b30&amp;chksm=bf7910380e77f8f17c5eb7a63872d4c5ec11c29ab5d93f8c56d4ad696651a085ef7adbfdd28c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[通义千问发布深度推理模型QwQ-Max-Preview]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/JrHT8u594NFgE1Z6zdv2fsElKzrtrT8ib9RXVH4fzBibEwsgyPdmJ4IQgMFSryibPkYvvq6jV1cxLedEz4I5pvWFA/300?wxtype=jpeg&amp;wxfrom=0"/><p>01模型简介今天早上，通义千问团队发布了全新的深度推理模型QwQ-Max-Preview，这是继QwQ-32B-Preview发布之后，千问团队再次更新语言推理模型。体验地址：https://chat</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=3&amp;sn=0f53b636678b131ed7e718802d554440&amp;chksm=bf545dc56e13aa07e39cce68dfea1e6052b34e37255af3d7b47659306a3a26a785b29468977a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek开源周 Day01：从FlashMLA背后原理回顾KV Cache]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVfjtY6NkWLLcqxGuwc6Wlb1gUIrwUFjr6EGt9vjHUgictiaYvEQvzdL6GyodWXWpsico729u27lVR3RQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>FlashMLA今天DeepSeek开源周第一天，开放了FlashMLA仓库，1小时内星标2.7k！FlashMLA 是一个高效的 MLA 解码内核，专为 Hopper GPU 优化，适用于可变长度序</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=4&amp;sn=1e6e9d4f80aa89653cf4cb6675977236&amp;chksm=bff0d38526224615421f0194fa0437c8c6e0396f560f26ce159798b6b7f70f87131cc5f66b44&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek开源周 Day02：从DeepEP开源趋势重新审视大模型Infra]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVeROZuyat25rz7QE8WAMu73Via7yXxqiaIYOE8bQ464nM1g9nQicX0tq9vp712vvepgTxYr5pMEB42rg/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepEP今天DeepSeek开源周第二天，开放了DeepEP仓库，属实看了下源码，和昨天FlashMLA一样，C++权重（包括CUDA）还是占据了绝对部分，作为调包侠的我，看到之后望而却步，想看原</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=5&amp;sn=ad598b00ecbe52966e23235407833746&amp;chksm=bfd987c4e0cc9fbae58c02d26a30361a63fc136afe5fdb1c716e9e2fddb2f251fd5b6873477c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+    </item>
+    <item>
+      
+
       <title><![CDATA[Deepseek 第二弹：DeepEP]]></title>
+      
+
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLtBxep7MM7h1tTB7WeDS0ajvFzyibR4FEwudxPQHEPicQiaGI2uqofAoR4jDHVxjnxCZP6wy4fLZ5tg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
+      
+
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447755&amp;idx=1&amp;sn=c25ab1ca42c12f3a430f755644906cb2&amp;chksm=bfa8d9b12d074f58c1ca4caf50db0f4c22532fc2256c78c7460d74b20deee4174c8d1a3b296a&amp;scene=0&amp;xtrack=1#rd</link>
+      
+
       <pubdate>Tue, 25 Feb 2025 02:35:45 +0000</pubdate>
+      
+
     </item>
     <item>
       
