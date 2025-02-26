@@ -1,320 +1,139 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[AINLP]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[AINLP公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_5034e4edc067.jpg</url>
-      
-
       <title>gh_5034e4edc067</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[Deepseek第三弹：DeepGEMM]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLd6GzTmOvUILk47g8DyIJJvdJUx0zvA7f8bvBOc8yQzsWKHEiaKjGZJcu4AzRw62FInFuowho4ibYA/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447795&amp;idx=1&amp;sn=fc4741c4360e9fee33948aab1655b0ca&amp;chksm=bf2c4735c6dee23791bd62ad452dbb0b4d78c53f21385689073eb95690cdad40dceb71c16d1b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 01:41:26 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[从零开始绘制DeepSeek R1架构和训练流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLtBxep7MM7h1tTB7WeDS0apJkF0gk1QpmQ2GfH8Nb0KFqpDsN8O8kVDbqpvTgWKf5rYlo0mibJOiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：lucas大叔原文：https://zhuanlan.zhihu.com/p/23018675736    快速概览在讨论技术细节之前，先简单介绍一下 DeepSeek-R1 并非是从无到有从头</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=1&amp;sn=6f56e71b4973454adb44c4b53d8c5375&amp;chksm=bf4e270c9801535ceafa9e93068ed5e4f6d61b4f9196cc1d7397048a25ab346d2e5ec70c4a0e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 10:13:04 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Deepseek NSA 技术报告中英对照版]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZvlMsfNDDjlReK7YahiaCNY4KQePjxDqBibJM8iauqttFm4MYPSpg15SSm52FibeBwqE6ib67ibvHKZcIJcxvnFMF0OA/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek团队的最新论文：Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention论文链</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=2&amp;sn=1b3e5f0fb60a6e33c7aa231547825b30&amp;chksm=bf7910380e77f8f17c5eb7a63872d4c5ec11c29ab5d93f8c56d4ad696651a085ef7adbfdd28c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 10:13:04 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[通义千问发布深度推理模型QwQ-Max-Preview]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/JrHT8u594NFgE1Z6zdv2fsElKzrtrT8ib9RXVH4fzBibEwsgyPdmJ4IQgMFSryibPkYvvq6jV1cxLedEz4I5pvWFA/300?wxtype=jpeg&amp;wxfrom=0"/><p>01模型简介今天早上，通义千问团队发布了全新的深度推理模型QwQ-Max-Preview，这是继QwQ-32B-Preview发布之后，千问团队再次更新语言推理模型。体验地址：https://chat</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=3&amp;sn=0f53b636678b131ed7e718802d554440&amp;chksm=bf545dc56e13aa07e39cce68dfea1e6052b34e37255af3d7b47659306a3a26a785b29468977a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 10:13:04 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[DeepSeek开源周 Day01：从FlashMLA背后原理回顾KV Cache]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVfjtY6NkWLLcqxGuwc6Wlb1gUIrwUFjr6EGt9vjHUgictiaYvEQvzdL6GyodWXWpsico729u27lVR3RQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>FlashMLA今天DeepSeek开源周第一天，开放了FlashMLA仓库，1小时内星标2.7k！FlashMLA 是一个高效的 MLA 解码内核，专为 Hopper GPU 优化，适用于可变长度序</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=4&amp;sn=1e6e9d4f80aa89653cf4cb6675977236&amp;chksm=bff0d38526224615421f0194fa0437c8c6e0396f560f26ce159798b6b7f70f87131cc5f66b44&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 10:13:04 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[DeepSeek开源周 Day02：从DeepEP开源趋势重新审视大模型Infra]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVeROZuyat25rz7QE8WAMu73Via7yXxqiaIYOE8bQ464nM1g9nQicX0tq9vp712vvepgTxYr5pMEB42rg/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepEP今天DeepSeek开源周第二天，开放了DeepEP仓库，属实看了下源码，和昨天FlashMLA一样，C++权重（包括CUDA）还是占据了绝对部分，作为调包侠的我，看到之后望而却步，想看原</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447789&amp;idx=5&amp;sn=ad598b00ecbe52966e23235407833746&amp;chksm=bfd987c4e0cc9fbae58c02d26a30361a63fc136afe5fdb1c716e9e2fddb2f251fd5b6873477c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 10:13:04 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 10:13:04 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Deepseek 第二弹：DeepEP]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLtBxep7MM7h1tTB7WeDS0ajvFzyibR4FEwudxPQHEPicQiaGI2uqofAoR4jDHVxjnxCZP6wy4fLZ5tg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447755&amp;idx=1&amp;sn=c25ab1ca42c12f3a430f755644906cb2&amp;chksm=bfa8d9b12d074f58c1ca4caf50db0f4c22532fc2256c78c7460d74b20deee4174c8d1a3b296a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 02:35:45 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 02:35:45 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Deepseek开源盛宴第一天：FlashMLA]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJebvw7cdjAicjLhDK5jqCDnXsKQMC8LLwlVDrzKoxfWVWRuYqQLrxAwX3MPXAPvNueTx556DRPWgg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447749&amp;idx=1&amp;sn=bb94163f8643f0a74c1fa4d1aff14301&amp;chksm=bf74bf8adbc008b9c3ec9829d5ad774c3f1dd66ef5c6e9c84646408a26bd8004ab9b5ac4df6e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 02:29:25 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 02:29:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Grok3 DeepSearch深度体验：Agent就是Reasoning Model]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/d6902wUyyvKDHZT1sOCrptVgKp39rHGB6Ph2VeleDvxJZ7nMCc2ZKNcW8SsweNSM5aejH4sQwx2a4eNxcVBibfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>首先，从今年年初发布的一些agent搜索产品来看，2025年一定会是Agent爆发的一年。大家集中在搜索上，主要是因为前面AI搜索已经有一定的积累，后面一定会有更加重磅的Agent出现。我的主要观点是</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447715&amp;idx=1&amp;sn=8e0d1d83f3b796e0357f7bd77ba314ec&amp;chksm=bf17447a1808b3ed8b21ef38b9aeb384c50c9682c93333ffe075e588346cf85731822ba35eb0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 08:54:38 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 08:54:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek R1 最新全面综述，近两个月的深度思考！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/vI9nYe94fsFSR9VohIbSNkq9ucBUsEv0F6BTNt35Ydf91Z1RicEBZyGs1a7DqBs2BlGOgWq3vmJqovrHArKh9Gg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：长琴，Datawhale成员‍本文是《2025 iFLYTEK 开发者TALK 杭州站《DeepSeek深度技术解析》分享的文字版。由于时间关系，实际分享是本文的简化版。文字内容是近半个月陆陆续</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447715&amp;idx=2&amp;sn=bf3e2ff270d24f19f6d72d52064e179e&amp;chksm=bfff138b1c0099f07df1b6a923dc2bc08351ec0a96b2214628de6b103397f939a9afe7d7a15f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 08:54:38 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 08:54:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[女朋友问我Qwen2.5-1M为什么那么长，我这么解释]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW4672WTFS4E2xXch4KqVvrE2I3HXqAc2aO2ZJk9UGZc0ibnU0AFiceG4NDnMwQpZjLp6cPhWw45DEalLA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在看Qwen2.5-1M的方案之前，先把Qwen2.5-1M中用到的技术，DCA，MInference 1.0和chunked prefill学习一下。其他长文本相关文章：LLM长上下文的问题解锁大模</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447715&amp;idx=3&amp;sn=6c8d8313ec35106eaa06c34811f9c4ac&amp;chksm=bfc5a2c724be5ca42b570337dc9aeb5de540f6d751ba28b20a99a85aeeb8bc836a9692fb0a7d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 08:54:38 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 08:54:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[AI 艺术工具通讯]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5LJDib8HPR2rrZo6MvQMib3yaV5BITXF7CQorbzEicSeSiaBVwm9FpIicKhJ3TeBW7JsFmeMmjr8CqMt5ibicJRkEmjnQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>创刊号 🎉AI 领域的发展速度令人惊叹，回想一年前我们还在为生成正确手指数量的人像而苦苦挣扎的场景，恍如隔世 😂。过去两年对开源模型和艺术创作工具而言具有里程碑意义。创意表达的 AI 工具从未像现在这</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447715&amp;idx=4&amp;sn=4cc5702361d4ed89dddac9930c85087d&amp;chksm=bfdd581f48312cf5a65046748f09a856e9a0114052556d2d5285bc4269d9145d3ad8c5a9b004&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 08:54:38 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 08:54:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek R1 最新复现项目汇总]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJZfv1GR5bAGO3QrB2ugvRmFVAkgysicPD2dJSKWsiazvPpQVCRjwsxAkvZ2pqE5cueY737Y7m4kpdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：绝密伏击,奇虎360算法资深专家原文：https://zhuanlan.zhihu.com/p/24906803874  自 DeepSeek-R1 发布以来，迅速风靡全球，如今已晋升为国民级产</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447702&amp;idx=1&amp;sn=ef4fd01aea425e56bae7d63a990e18a6&amp;chksm=bfef763270bb3ae33a2e6e22a0417067b1f8a550f1649ea2683f738bd48d17bad7e4710fcf37&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 10:13:53 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 10:13:53 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Qwen2.5-VL 技术报告英中对照版]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZvlMsfNDDjn3AmPCfhgwveJBqzLTsmcy9ZlGOiaEibR6MibPG7bRSgJQz2Jgjib3GZ8TIe7FdoOJWHnbnpQxwax6rA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这两天Qwen团队发布了Qwen2.5-VL的技术报告：技术报告原文：https://arxiv.org/abs/2502.13923我们通过大模型辅助翻译了全文，提供一个英中对照版，需要pdf版本的</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447702&amp;idx=2&amp;sn=9f1938598c7a3d243ba2e8b361885728&amp;chksm=bf559ef5beac6bd09613db27b86b653601acc9d9e4b177fbd9d128f6e620ddf08d5b4c37f3e4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 10:13:53 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 10:13:53 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[清华刘知远教授解读 DeepSeek：大模型强化学习技术原理与大模型技术发展研判]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSK9RhuUOCsTcaibU7tNJBpbZgpmWMZkQ9yK681UfJVLjqWrsBmMLibRIqeSicRDUhx8Ox5k1Ftia8qL6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | OpenBMB开源社区作者 | 刘知远2月2日晚，CCF-Talk 举办了主题为“夜话DeepSeek：技术原理与未来方向“的线上研讨会。清华大学长聘副教授、面壁智能首席科学家刘知远老师作为</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447702&amp;idx=3&amp;sn=5eecb1c0288b4c5fb88afff019639f02&amp;chksm=bfde91fd0aec453ce37de1cc4e22fd7d4c91bc17be60eb9537a4e817c8e6a70f79be42716739&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 10:13:53 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 10:13:53 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[梁文锋和杨植麟，论文撞车了！！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJmcvgiaqlDRq1Lgestfw4zx4sMEWJJzxC1CUlnxRe0AzuHABPnlLibaPuSpTTwnDs5EaCBWicsPtcCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>同一天，DeepSeek和月之暗面发表了关于改进注意力机制的论文！前两天，DeepSeek 发布了一篇新论文，提出了一种改进版的注意力机制 NSA；加上还有创始人兼 CEO 梁文锋亲自参与，一时之间吸</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447692&amp;idx=1&amp;sn=41e464ab1ca5020b2156f77cb6da1349&amp;chksm=bf5ad03a7951645c18d7b0bad8c866038613964e26097166ac1e89b918394bdadcc2c10b8863&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 02:00:38 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 02:00:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[张俊林：Grok 3是否意味着大力出奇迹的大模型法则仍然成立？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJmcvgiaqlDRq1Lgestfw4zxqRc8YYwsqvafmiaecIDRQ4e9Dfp5ah7ic1Pz5We1958ibFaibfibUltXYZA/300?wxtype=jpeg&amp;wxfrom=0"/><p>媒体风向变化太快，让人目不暇接。早上还在夸Deepseek成本低，性价比高，预训练Scaling Law死了，不需要太多机器和GPU卡，性价比优先，英伟达休矣；中午Grok 3一出来，说是用了10万张</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447692&amp;idx=2&amp;sn=7cbfc1f6a5b77ef671528cf6a0406871&amp;chksm=bf546031e8ba197ff9924288b9ca15f3e7c3517f388a437949e47f3e1f6177b3f7a5a614f925&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 02:00:38 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 02:00:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[下一个爆火赛道，两个破局关键拿笔记好！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJr9IQdEyhoPaczw0kP2S5rnicrAD1LkJXD9LEib6h6Rs6vl3qVa4s9ia6DPQQf6pqibdTRUwD2xKL7Pw/300?wxtype=jpeg&amp;wxfrom=0"/><p>想逆袭发顶刊？两大破局关键拿笔记好。‍第一，要选对赛道。‍当我在两个研究方向之间犹豫时，合作导师一句话点醒我：“跟着国家重点项目走，经费决定了你的研究天花板。”果然，‍切入一个热门AI交叉领域后‍，创</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447692&amp;idx=3&amp;sn=0cdc14eb3c2bf509ea65cc84befe2753&amp;chksm=bf72ce74c7c0b317a07a862af2513152fcddfd2d8385e7c565a11243c8b7beb2866a28b6d692&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 02:00:38 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 02:00:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[在DeepSeek刷到‘学术孤儿’破防了！！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI3swiaxFA9LZib8lHaP57icKboicLab3z7DsEM5T2BPqawJgPtqWrXgUAuXEZXSYpmRWyMAtSfnF2K2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>deepseek上看到“学术孤儿”这个词，瞬间破防——这不就是我读研生活的真实写照吗？导师永远在忙，每次组会都像论文答辩一样紧张兮兮。当实验数据第N次不如预期，看着隔壁实验室每周三次的导师组会记录，终</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447673&amp;idx=1&amp;sn=4b71150f4cc8dbe99517c5bc7317085f&amp;chksm=bf74837a4b3e2398abed829b7f324b4a1c539381ed1c299c94fc8bb3517ec093c66139d6c286&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 02:30:00 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 02:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，DeepSeek放出重磅论文！梁文锋亲自参与！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJr9IQdEyhoPaczw0kP2S5r4NMAugqcUgKtdWugWChbChAsyd69gb3kK405Eh0U8C6sNcv8knvSLg/300?wxtype=jpeg&amp;wxfrom=0"/><p>源：机器之心DeepSeek 新论文来了！相关消息刚刚发布到 𝕏 就吸引了大量用户点赞、转发、评论三连。据介绍，DeepSeek 的这篇新论文提出了一种新的注意力机制 ——NSA。这是一个用于超快长上</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447673&amp;idx=2&amp;sn=f2c562eb1ae3e7e6d097765bf8134f11&amp;chksm=bfd401ab7a69a92821bd013416924b7c754e697abf6bd618d78743937a7e895166284c716e1e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 02:30:00 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 02:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[硬件对齐+原生训练！DeepSeek NSA打造高效稀疏Attention]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVdzRYyYPRT9lNgyia6E0ewx3uVicxbcLxLZuFyMictgTNbvxuo1ZBHWppTnz6AjzCk1BSicguu5QGlx8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention论文地址：https://arxiv.</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447673&amp;idx=3&amp;sn=b0a6bc25ff652e84174729f5d1c850f2&amp;chksm=bfc806d186b9a90119ce34f9952273082529213306a7033b06e21e8c5b720d0101d0f4b93209&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 02:30:00 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 02:30:00 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>

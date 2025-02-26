@@ -1,858 +1,325 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[机器之心]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[机器之心公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_dbc0a5474692.jpg</url>
-      
-
       <title>gh_dbc0a5474692</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[DeepSeek开源通用矩阵乘法库，300行代码加速V3、R1，R2被曝五月前问世]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9gpYDCOGO1bFGic4M8mMibklfWDnN0xQAaCACaEu7Tj8dL0sJ9ZUWMqLtX9FIjiaRPoX5BEZ7pibEuSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部适用于常规 AI 模型和 MoE。DeepSeek 的开源周已经进行到了第三天（前两天报道见文末「相关阅读」）。今天开源的项目名叫 DeepGEMM，是一款支持密集型和专家混</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956888&amp;idx=1&amp;sn=1d463f7036b27ea6fa2900a9dc2e7486&amp;chksm=85090cc578720857b460c4242187c0d79d5e0722fb7999475b224d1ed13f8e9d27902c28546a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 02:25:24 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[何恺明带队新作「分形生成模型」：逐像素建模高分辨率图像、效率提升4000倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9gpYDCOGO1bFGic4M8mMibkltcYqSCKg3cGE6E4511MOBxweTNVa4p4BvNQXp6h0YUr0XKI591boTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部这才过几天，大神何恺明又放出一篇新论文！这次构建了一种全新的生成模型。类似于数学中的分形，研究者推出了一种被称为分形生成模型（Fractal Generative Model</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956888&amp;idx=2&amp;sn=3fe1a65f8013a9f2df688c44ef7aceec&amp;chksm=8548fe0375c447e3ddac6e8d72111eb710ac5f2eaa22fb580d0f7c1254bd406d12437580dc00&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 02:25:24 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[重磅官宣！头部量化宽德投资入局科技型通用智能！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibHSgTwXuibNeqYJ8eicoudclib1VKJo4e2xKelBmzicDTA6uImrDl64NQvd5k6hlPd9jhgq2W5lUQevQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部又一家头部量化机构完成了 AI 领域的关键落子。日前，宽德投资旗下的“智能学习实验室（WILL）”正式亮相，标志着这家头部量化机构在人工智能领域的关键布局。据了解，WILL </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956843&amp;idx=1&amp;sn=b1a8908c29efa545aec6f0ea641109f8&amp;chksm=854305f45637d2cbc10f816043633ddf8d7b190f1eb7381eba31dff809a103fca7e0a88fa704&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 01:08:51 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[开源的风吹到视频生成：阿里开源登顶VBench的万相大模型，一手实测来了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibHSgTwXuibNeqYJ8eicoudclDwQ7F10QjLaEK4QkaOWicaribgw9O2kdibvU8RnyR70rY4GWdib6kdPzQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：张倩、杨文千问Qwen+万相Wan，阿里已实现全模态开源。当很多 AI 公司还就是否该走开源路线而感到左右为难时，阿里的技术团队又开源了一个新的模型 —— 万相（Wan）视频生成大模</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956832&amp;idx=1&amp;sn=8f79b4b4b99580bb3c8b1128f05a47c6&amp;chksm=85c57532a4adacc3c58665084fe7b0150f8918376d65810b53404f23cfccc032cad4dba8c0f7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 23:39:43 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 23:39:43 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[从零开始自主「起身站立」，上海AI Lab发布最新控制算法，机器人：起猛了]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMB4sOabblTwia2DaZdOxG8vicWr8SlJeYMBmMk1CIYT0icx8CBnYZugPqKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956825&amp;idx=1&amp;sn=ec35f25ce849586ef96f21437c500b92&amp;chksm=859abbebf1d7b1abd861a015ba7955866242a4f2230ef6d21d01efa1d40c795e645a77c2e740&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 11:36:45 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 11:36:45 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Transformer作者之一Niki Parmar加入Anthropic，参与Claude 3.7 Sonnet研究]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibHSgTwXuibNeqYJ8eicoudclianQe4Ys6ufyMnJCKreqViaotga7qIybdD3SRyHKI6vYnuibAJooIic7Xg/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部今天凌晨，Anthropic 的新旗舰模型如约而至，发布全球首个混合推理模型 Claude 3.7 Sonnet。在这铺天盖地的宣传中，我们看到了经典 Transformer</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956825&amp;idx=2&amp;sn=d0687bc017518a1b4fb666f677a26efe&amp;chksm=858f9cd371964be7de6a6a72abaa1024148407725ac003abba235473eaf4a2856ca4b4229cc3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 11:36:45 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 11:36:45 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[超越DeepSeek-ProverV1.5！豆包首个形式化数学推理模型BFS-Prover来了，直接开源]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibHSgTwXuibNeqYJ8eicoudclo23MGJEm3N7XzEiaN8cFCAeUERT5DfL8HzNMzjytm95ud47v0J7c7Lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956655&amp;idx=1&amp;sn=9e77b76528fe78fff2c18c7a9f45f61f&amp;chksm=858ae5048d8eb08ab4b2b5b61ac6ed283db9b7ea5d8d3aa0a204e4bbbe56d0cec00a69f387fc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 06:06:30 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 06:06:30 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，DeepSeek开源MoE训练、推理EP通信库DeepEP，真太Open了！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibHSgTwXuibNeqYJ8eicoudclnzQUrQWD0zQbMT3FXxXqWZ1SznibogWbKicr7TwM1DIWjPJbFsz4FFbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部上周五，DeepSeek 发推说本周将是开源周（OpenSourceWeek），并将连续开源五个软件库。昨天，他们开源了第一个代码库 ——FlashMLA。这是一款用于 Ho</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956631&amp;idx=1&amp;sn=035899749d934f427709c97be99b1ce8&amp;chksm=85daab296c17f7770201049f917bb9b24aa7dbccd3c47d4bac425e06fa9dd95e22a2875740f8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 03:23:00 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 03:23:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[2025 WAIC 云帆奖开启全球报名：集青年之智共铸 AGI 未来]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMBIe1bso3NPypMicWAicUvV2ib9iclKhxrvNjgkGrsEDnqcLC9ydsoIlAweA/300?wxtype=jpeg&amp;wxfrom=0"/><p>｜2025 WAIC 云帆奖面向华人 AI 青年人才开启全球征集｜欢迎点击文末「阅读原文」完成报名或提名！当中国本土研发的 DeepSeek 展现世界级实力，当越来越多华人青年跻身全球 AI 创新前沿</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956631&amp;idx=2&amp;sn=760cd4044b0e76ec388c4f930048bf27&amp;chksm=85aa1d1970878417a76d7f86031df968aec8c0c7cfeb8227e7b84098300508730948dd788b27&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 03:23:00 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 03:23:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[仅靠逻辑题，AI数学竞赛能力飙升！微软、九坤投资：7B小模型也能逼近o3-mini]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMBvuEDEbFANiaolFFziakICqCpQBF7HfyaNiaGYYosYdSiaCzXLs5XAG1n0A/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956631&amp;idx=3&amp;sn=e82cf31c4539958bd51644a202e43bd7&amp;chksm=855dd53012d4a1773d096d2a3664fc0a794b74e96eb43d93886c288f8a1dbb23aa570c1e7aea&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 03:23:00 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 03:23:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[全球首个混合推理模型：Claude 3.7 Sonnet来袭，真实编码力压一切对手]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMB4b2ZCQsoq3RibicmmXMgYkMJ0Ybvlj4xEda8uN28PGatKFslWubbfFZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：杜伟就在昨晚，Anthropic 要发新模型的消息开始在 AI 社区广泛发酵，不过并不是期待中的 Claude 4.0，而是 3.7 Sonnet 版本。图源：https://x.c</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956617&amp;idx=1&amp;sn=4186ba6de66daa85ad471918935072e2&amp;chksm=85f2540f76e5fee58f508eec379304a9097fdb612ecf4c7e52fbf12a6b69be196cf4b717196e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 21:21:18 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 21:21:18 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[「知识蒸馏」+SFT，可得「推理」否？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMBLvGia3VV2JCB6Rg27WYoHvEnpnykHzwP2ibhL6dlSMaGUBZdHdbVD7VA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自PRO会员通讯内容，文末关注「机器之心PRO会员」，查看更多专题解读。DeepSeek R1 的技术报告验证了知识蒸馏+SFT的方法能够让小模型获得优越的推理能力。这种看似极具性价比的方案引发</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956503&amp;idx=1&amp;sn=7501cae6c8323ed106edccf8cb729aa4&amp;chksm=852c77d1350e8762adb1889051f281aa4c062e8beaad4332c1054f0a6deb0f8e0cee538c9c15&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 10:01:01 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 10:01:01 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[稀疏注意力再添一员，华为诺亚推出高效选择注意力架构ESA]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMBoDw3J3KOfS98qIzHxZz7ibZy3uWERRDiaP0A6fLHsh4Zmj06o8jFQiaBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956408&amp;idx=1&amp;sn=61d28112406b1f7fa3937390d4f39cf3&amp;chksm=85a32d671b640e44adb0c7ecea9f275b1c3379b34831b2b32cf48e4ca5f396b80dedc43c7ad6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 08:37:54 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 08:37:54 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[模型安全武装，复旦新研究实现SOTA扩散模型风险概念擦除效果，入选AAAI 2025]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMBbGQenNPIyrOYGUMHiaUZ6RicicGsPEwHz73U7IslyJgzbq2NN0Fv7DibuA/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956408&amp;idx=2&amp;sn=d664bc67fa54dc083295859fe8538c19&amp;chksm=85cbe384394361d4c912cd538fa9f5659d6e27d5654b5597e181ab7a933f80a4d0afcdbeac07&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 08:37:54 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 08:37:54 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[联手华为诺亚，南大LAMDA组获EDA顶会DATE 2025最佳论文]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMB7icmeG3CgelUHpc7Zdiaaib4M31FpmWJd44WYJRwhjwDl0mahQDia4WghA/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：泽南、杜伟国内芯片设计研究团队，刚刚在国际学术顶会上获奖了。近日，南京大学人工智能学院 LAMDA 组钱超教授团队在 DATE 2025 上发表论文《Timing-Driven Gl</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956298&amp;idx=1&amp;sn=d5ca935fbcd36a1f9c0015c808ce5518&amp;chksm=85432df57db023c070160d7ae9ba09cd292e65f2e9c7dc60f62be1e7322e7cb071c618961b52&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:32:33 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:32:33 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[开源赛道太挤了！月之暗面开源新版Muon优化器]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMBbCpXweEYoicagsY2RDQDhNQ1lrfUHuz0r3FiaOBxRtNFB0mtozK1yj7w/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：陈陈、佳琪省一半算力跑出2倍效果，月之暗面开源优化器Muon，同预算下全面领先。月之暗面和 DeepSeek 这次又「撞车」了。上次是论文，两家几乎前后脚放出改进版的注意力机制，可参</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956298&amp;idx=2&amp;sn=872bfe7e3455ad4ee62ddc44bb007a9c&amp;chksm=8569231f9fab0c23dc33a9ecfa79e35753ddc6308ef60d527ce88143f9b0adf5294bb6ba5494&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:32:33 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:32:33 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[从o1-mini到DeepSeek-R1，万字长文带你读懂推理模型的历史与技术]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9VkTkicTIiavQPoViaKCtTxz5X2lwF2mcuwMenSFO00m9GuW58crgQ7hjBJstYJjQpaib28PvG87DaVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>选自Deep (Learning) Focus作者：Cameron R. Wolfe编译：Panda自 OpenAI 发布 o1-mini 模型以来，推理模型就一直是 AI 社区的热门话题，而春节前面</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956298&amp;idx=3&amp;sn=62ff0ae93118bff7c2df1f8153b3f146&amp;chksm=85d586d0fef88bbf4044620015a4b35eeb08bfc7348a4ff9f0902aee4b23396e3a6b54f27c50&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:32:33 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:32:33 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[扩散模型新突破！无需微调，就能高效稳定移除目标物体]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hWjtxVP71VbPlqsxE65HMAeQF1kibfBAYnxOZSVtBmic43qT5SgR1NQqxQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956298&amp;idx=4&amp;sn=dd03dca4e4f622ab97f6dae968c8012e&amp;chksm=858975f963f3dd6b5298bdf9fa846bd21abc10d4dcf7189e14c4dfec7f217d7444adeaf72dbc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:32:33 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:32:33 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，DeepSeek开源FlashMLA，推理加速核心技术，Star量飞涨中]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9XFMBXsrZE4shTW4MMEEMBTLANJxQrITYD7OAIZI6YlX94yH0xm0oFL4AX1IseCae15lBqHzZrXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部上周五，DeepSeek 发推说本周将是开源周（OpenSourceWeek），并将连续开源五个软件库。第一个项目，果然与推理加速有关。北京时间周一上午 9 点，刚一上班（同</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956260&amp;idx=1&amp;sn=c1bedb22cf93c90fc0c5c8ccd0091b5f&amp;chksm=852f5975c404bd6dcfbcd9f96200ae2b4434b3258ce7cf9892582cd7237dea097ff5e1db1817&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 02:18:17 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 02:18:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[征稿｜CVPR2025首届ViSCALE研讨会，探寻计算机视觉的推理扩展律]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW8xkXeyUeiaOLPkibwibfnTQSE1iaR2jiaRnmBKqu2WJEic8MkPR09VxP0YvnvdGkBQz4TIvv3nc4v2YEeQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>计算机视觉与模式识别会议（CVPR）作为全球计算机视觉与人工智能领域最具影响力的顶级学术会议，将于 2025 年 6 月 11 日至 15 日在美国田纳西州召开。来自清华大学、牛津大学、UCSC、UC</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956260&amp;idx=2&amp;sn=b8aee3534fed8fd2c9e09442bb425d29&amp;chksm=85d1dfc72f4f2f098fda0e37f5f0f75da3469af99bd347ed93aeb90180432ffd6428857a8687&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 02:18:17 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 02:18:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[人刚毕业，代码一点不会，他纯靠ChatGPT写APP，年入千万美金]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hWKaaRU0o9EkBZk6qR9rIabY0BxGsn6GanqlmXAsm8K1TnBHRLS9Enew/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：泽南、佳琪第一个App年入50万，第二个年入500万，第三个月入100万。我不会编程，却在两年时间内靠 ChatGPT 写代码做 APP，年入千万美金。没开玩笑，这不是拼好饭吃多了的</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956207&amp;idx=1&amp;sn=71ed1b99b19c6517b07d883edec0d281&amp;chksm=8575eeeea427da60f5ae0ab317ff2e465832b02ef239a57fdbf04fa2d23a43a57cb7753dffec&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 04:11:26 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 04:11:26 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[3倍提速！现在你跑不过机器狗了，限制波士顿动力机器狗的竟然是电池功率？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW8xkXeyUeiaOLPkibwibfnTQSEAuyZs71y1kW69gEVQyDbQmSa4L8XfCicG1pTw381TROI1ktlWwfN8gQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：佳琪当 Scaling Law 在触顶边界徘徊之时，强化学习为构建更强大的大模型开辟出了一条新范式。在机器人领域，强化学习也带来了意外之喜。这只上过好几次全网热搜的机器狗 Spot，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956207&amp;idx=2&amp;sn=af8c7a7f2d40cb58ec166f6b7ffc2c14&amp;chksm=85417f27ce6474d3a33dfecf191a053a627d3945a735170f4ff0bded7f6a963e465c21d46c3f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 04:11:26 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 04:11:26 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Bengio参与，扩散模型+蒙特卡洛树搜索实现System 2规划]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9hR34JM9VhkAF5F4BXic5lp7H51VjRpEfSarOqibPhBeSHX9wdaAuRzLVIkqqe783rOT7lsACjZVNA/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道作者：Panda、泽南把扩散模型的生成能力与 MCTS 的自适应搜索能力相结合，会是什么结果？扩散模型（Diffusion Model）通过利用大规模离线数据对轨迹分布进行建模，能够生成复</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956207&amp;idx=3&amp;sn=a92d3ffb90a8379dfbc3d33a96ba7c87&amp;chksm=8537fbe542455cef29a7cb2474cdc3e6a986580831bf4aa564a883fbc94cb5dd00fbdd2e5e43&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 04:11:26 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 04:11:26 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[ICLR 2025｜南洋理工大学AvatarGO，探索4D人与物体交互生成新方法]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9VkTkicTIiavQPoViaKCtTxz55WyWHUyCCJU3W9C0maiboASKgX72yvaEqaKu4SiasMk0h9eY1V6ek3nQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956207&amp;idx=4&amp;sn=6e36f1f7e1ed3555b70570abe399d634&amp;chksm=85a54bc30989b8f325703cc1f6ebef48939695a54c021a7ca3eb6a02270163dee41d573be69a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 04:11:26 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 04:11:26 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek估值暴涨，昔日的AI明星独角兽企业们怎么样了？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9GfMHibPEkqibWTZzOfXp7bcFrbjMA15ZickbmOQLAUk3JUa1bwqFvhwavnL9hkUpYq4icsMvic9uJtVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自PRO会员通讯内容，文末关注「机器之心PRO会员」，查看更多专题解读。近期，备受关注的 AI 创企 DeepSeek 估值飙涨，据彭博亿万富翁指数（Bloomberg Billionaires</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956194&amp;idx=1&amp;sn=a8a8a1025518f1f6873da2e570f4e457&amp;chksm=85fa3f2b4d134530950c6d94a8a8e1ec819ddfe88f98eef9ff6322321700a4f02e300dbf62ca&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 03:00:00 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 03:00:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[YOLO已经悄悄来到v12，首个以Attention为核心的YOLO框架问世]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9GfMHibPEkqibWTZzOfXp7bc6yNZ39D74v14tU9HHGVkiaxYvG8ZmV3bekvOHkZebfVGzYPRtibWNWFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956189&amp;idx=1&amp;sn=d09b3a6b8a1b6ae69dc9d2ecb886ffe6&amp;chksm=8517f75e5b2ec4753a1e955c215bd33b5b09af1a2f8ba60f2df047e5287fa5d70cf455590380&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 04:21:39 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 04:21:39 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[干完几星期家务，1X新款人形机器人亮相，和冰箱一样安静]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9GfMHibPEkqibWTZzOfXp7bcIPLmbQQ2GWOUOW5FSkIA9B9s6TawFjpeah6WkaMLXKuaGwkWiaZoEqw/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：泽南家用人形机器人的未来是这样。具身智能领域又传出新消息。来自挪威的机器人创业公司 1X 于上周五发布了最新家用机器人 Neo Gamma。这款人形机器人将接替去年 8 月首次亮相的</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956189&amp;idx=2&amp;sn=647aaeb450ce265aa6725929f72d8062&amp;chksm=8542648fcc002888098c5ccec545380dccc75bfa9fadf02d08fe4851aa7d5155988722fb1298&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 04:21:39 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 04:21:39 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[地平线高阶智驾北京市区实测：全程零接管，轻松应对复杂路况]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9GfMHibPEkqibWTZzOfXp7bcrm44CTdMYhGEqyDUrdqO7KFYV9rd6DnS1pIEiarrRRd90muGZv0PxUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：泽南端到端的高阶智能驾驶，即将大规模落地。说到国内智能驾驶，地平线是个一定绕不过去的名字。去年 4 月，地平线正式发布了新一代智能驾驶方案征程 6 系列，该公司基于征程 6P 打造了</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956189&amp;idx=3&amp;sn=44dce2528eba264fa051fa5f2dac0692&amp;chksm=85683081322796ec2e006d7186952714a61cb674807a6da4c63c4f80cd2f048bc8035ee57adb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 04:21:39 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 04:21:39 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[一次推理解决复合问题：基于MoE的大语言模型知识模块可扩展融合推理架构MeteoRA]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hWY20EdMY1HtDEepF5ibqfalibu0DhHeoo11qwLVZQH7W8dpHB451Vg4kA/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956189&amp;idx=4&amp;sn=da0aab80508a2dc8c63b59efe86729a1&amp;chksm=85e10a6f9aacda41b95a95e4c72529bda5880619078f7a38985c3d6b6e1e39156bfa6919e10a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 04:21:39 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 04:21:39 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[出人意料！DeepSeek-R1用的GRPO其实没必要？规模化强化学习训练用PPO就够了]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hWSdDYAfvibqqP60VicaGc6tRGpzr0Bpmrp3UNOGuggWfMxA3caYu6nfjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：PandaDeepSeek-R1 非常热门，而在其公布的训练配方中，GRPO（Group Relative Policy Optimization）非常关键，是 DeepSeek-R</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956078&amp;idx=1&amp;sn=dc62b737ef3c79b590e5aced36853397&amp;chksm=85b840e6b13fc8249884fd1ea98daf8c4fa17d7faee72a397e2e2f74a2e0cd2e163f09e2bee2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:10:20 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:10:20 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[机器人视觉控制新范式！ByteDance Research新算法实现通过性能SOTA]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9VkTkicTIiavQPoViaKCtTxz5ibCADRbHFE4hL2dSpEmIls0KcWkibCBLvoehpZlAWOiaeKcXVINTibBvew/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心发布机器之心编辑部世界模型（World Model）作为近年来机器学习和强化学习的研究热点，通过建立智能体对其所处环境的一种内部表征和模拟，能够加强智能体对于世界的理解，进而更好地进行规划和决</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956078&amp;idx=2&amp;sn=107774fda874c65ed08a356e00f723e3&amp;chksm=8533cf9ff687fd59b5dc09f71ae6d8bef4fa96ee696f41ea21d353f2f783f6b30c24b1961980&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:10:20 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:10:20 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[全球首个AI CUDA工程师来了！将PyTorch原生实现提速10-100倍]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9VkTkicTIiavQPoViaKCtTxz5WoX5odgv9zwO4BxKsZcjBicMPiaTJnVFwRDDOtwhaZB3qBnHIjGnORxA/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：张倩用 AI 提高 AI 的效率，它们就能变得像人类大脑一样高效？我们的大脑只用了 20 瓦的能量就能完成复杂思考，而现代 AI 系统却需要成排的高功率 GPU 和惊人的电力消耗。这</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956078&amp;idx=3&amp;sn=b4cf13960db15289ee671f5c04179e55&amp;chksm=85d0baa0163df3289d061a4964dfbeec636b429af14c02d81e883419f369d43e098569f37ec0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:10:20 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:10:20 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[大模型扩展新维度：Scaling Down、Scaling  Out]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9yClMQLyqNl6N9xdaSDduBNRrkuOUyicKKWfDARgYy52qq6bplGT6Ctu9E9WBHicLalcLdKia0ZenFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650956078&amp;idx=4&amp;sn=6e5322090d551bd29048b78a8534ed4b&amp;chksm=85057ea4614b7669fb394fe68730f874ad1971b0a89254bbe62757a376bee977cc0fb91989cc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:10:20 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:10:20 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[踹了OpenAI后，Figure光速发布具身大模型Helix，能力前所未有、创多项第一]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9VkTkicTIiavQPoViaKCtTxz5xrOvia9dUhyavWrNwo5hv8HJswBa9blNRQDbl5XtWBiaVjUUWuatMn4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：泽南、Panda本地 GPU 运行，7B 系统 2 模型 + 80M 系统 1 模型，可多机器人共用「大脑」。在 2 月份突然宣布终结与 OpenAI 合作之后，知名机器人初创公司 </p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955946&amp;idx=1&amp;sn=8b9d3133f2ab8bb8d3fdea5ff345cee3&amp;chksm=8512995b3133fa6c6fd7f0d842d60b8cebca32146d589274bebd6822ad497ff709ef35d764ca&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 01:23:05 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 01:23:05 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[两万字长文深度解密DeepSeek-R1、Kimi 1.5，强推理模型凭什么火出圈？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hWdFGK9uqm73TkI2vwJqOkzpsMNXictldWNhVFRRb8Uqiciby3bicicPXw7Cg/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955946&amp;idx=2&amp;sn=9227cc28900efcd2c1f9a72434286326&amp;chksm=85d86757e1abaaaa6e97230dd2e22cf6710e205ce6bac889c69ffe00615840dc9ff555402892&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 01:23:05 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 01:23:05 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[再次颠覆学界想象，何恺明发表新作：扩散模型不一定需要噪声条件]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hWFPe6RhFHlKDQQEezSe8De1IDT1Wf7iaIX078BicpSbaKNibSDKtcuxwzg/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：蛋酱、杜伟一直以来，研究者普遍认为，去噪扩散模型要想成功运行，噪声条件是必不可少的。而大神何恺明的一项最新研究，对这个观点提出了「质疑」。「受图像盲去噪研究的启发，我们研究了各种基于</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955908&amp;idx=1&amp;sn=7e5ec429aba42c54d9b1da36f4cb055f&amp;chksm=85854b72351e54d66c0b853fa827585b41f91f2e38496ac4034499a04543106d02219bb7680d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 09:24:38 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 09:24:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[史上最惊悚的机器人，看了让人睡不着，网友：像新鲜的尸体在抽搐]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hWI3ib2xl63Fu0JkHSrLfbwD6qX0JwhX6Cz0AgqPrhlP8bUny0XichpbKA/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：佳琪、张倩这个机器人是用来帮忙做家务的。同是机器人，命运却各有各的不同。有的机器人出生不久就站上了春晚舞台给全国人民送祝福，而有的机器人刚来到人类世界五分钟就选择了上吊。如果是半夜打</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955908&amp;idx=2&amp;sn=2186f8db7cc3d822e5c7ef3c10873e84&amp;chksm=85f2069bb6bbd4d81ef40b5e3344e86073d6293d11ed3ab32a2c29a1e09943ca656eb95d9d64&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 09:24:38 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 09:24:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[地表最强Grok3突袭免费体验，网友实测对比DeepSeek，发现中文彩蛋]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/DT8udUick9sJPJGRKURmnVLH6fDROQtKwxaEalvpuaHDRSI4lRtvicEvCKT2StceyedsANiaianibicmnSLxaMLiadZtA/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI好好用报道编辑：Sia又是一个文理兼修的优等生，能薅一点是一点。好消息！好消息！堆了 20 万张 GPU、号称「地表最强」大模型 Grok-3 已经可用啦。这两天，网友们已陆续晒出截图：作为非付费</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955908&amp;idx=3&amp;sn=db32f038e74a44267d409cc7335d3fd3&amp;chksm=85adb898e62c469020ca19f88a8bff561519193aafa4f55d1fc821527e0ece11daa665fcdb4b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 09:24:38 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 09:24:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[重磅发现！DeepSeek R1方法成功迁移到视觉领域，多模态AI迎来新突破！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hWntNH6f3xPnpkLiccfakpKHP6QLBibz8HYeZDGQUbphRv3K7UicIw0MOgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心发布机器之心编辑部嘿，各位开发小伙伴，今天要给大家安利一个全新的开源项目 ——VLM-R1！它将 DeepSeek 的 R1 方法从纯文本领域成功迁移到了视觉语言领域，这意味着打开了对于多模态</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955880&amp;idx=1&amp;sn=5b075e51fbed0409ecfa0b618be7a95f&amp;chksm=85ca2c0f8d986472dd4aef1af9b54fc02d28111395b297cd3ad090f01bff5770d1f0e7d08b13&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 07:14:22 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 07:14:22 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[技术大神授课，百亿AI项目招标，2025全球开发者先锋大会等你来]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibLWhZUQVoNkJNzH80SsBdW0259mjRUpDQ93TAZYwgQG6NzX0sc2peVqYhFQP5rhFb8FZFSibrnFiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心发布机器之心编辑部2025 年，DeepSeek 的破圈掀起了一场 AI 革新浪潮，如星火燎原般席卷各行各业。企业与机构纷纷寻求与顶尖 AI 技术人才展开深度对话，渴望把握技术发展的最新脉搏，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955787&amp;idx=1&amp;sn=469705a60b9732cbfb4532297c75873c&amp;chksm=85e1550d3649a328a2e742c2deca6a87c3418c9ac22ddd300565b519c56feed7a31d04927cd0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:22:40 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:22:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[物理直觉不再是人类专属？LeCun等新研究揭示AI可如何涌现出此能力]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibLWhZUQVoNkJNzH80SsBdWvicAFdDLA97kfhQsdRVZiclvJCBvbAqJ5MQJDKpgRumXaibcGdGViaib9CA/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：Panda、张倩在当今的 AI 领域，图灵奖得主 Yann LeCun 算是一个另类。即便眼见着自回归 LLM 的能力越来越强大，能解决的任务也越来越多，他也依然坚持自己的看法：自回</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955787&amp;idx=2&amp;sn=2b2d02628b2d15c21acd0f8b333f34e3&amp;chksm=8579a1b2c8b1839c3fcf6e3642e7b531bb42e2b79df11a6733ded00561abc8eb15b6e756fc29&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:22:40 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:22:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[视频版IC-Light来了！Light-A-Video提出渐进式光照融合，免训练一键视频重打光]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWicicogoRy8VFZVwytkyicQr6jIklib35ib80KHboYGibUGib7HFR6wQ163wiciaiaykjJ3LCIAXGRchNL9dz6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955787&amp;idx=3&amp;sn=9a9e50ac9da52b5a3a050e53d76f4a59&amp;chksm=8555be397fa25eb98a5923b08f9e8f3fcb5674e1b0f0bdfbd8d510ef4d695e3570f8d9a2cbf8&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:22:40 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:22:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[量子计算里程碑！微软单芯片可百万量子比特，Nature研究爆火]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibXjA7ajrXtaoRibiatsPr3hW6nqGjA4B8Oc6jpxKzDhhsuRIux2VUyRqCRSIbT6jnOY0tCexAJdOZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：Panda、泽南不是固体、液体，也不是气体，而是拓扑导体。重大突破！本周四，微软宣布造出了一款前所未有的量子计算芯片 Majorana 1，并称可以在单块芯片上让数百万量子比特协同工</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955781&amp;idx=1&amp;sn=7ea882b98a44c70c180e3ac9b2915cb2&amp;chksm=854f04abfc695517df959f98abc9c2584f15dfc81f88719e6032e755e06f4dcf1d75775f1457&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 03:13:56 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 03:13:56 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[复旦主导，中美等8个国家25家单位44名学者联合发布大模型安全技术综述]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWicicogoRy8VFZVwytkyicQr6jczStUGcj51caW9JgvwFm457MnTrsyNcfxRG2MtMZdpGjGH80HApGgw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955781&amp;idx=2&amp;sn=692531de52c2b1cf6b6aac3db2353b56&amp;chksm=85de8ebc4f3c762013f7ba4a2870f2c7db6e292543b13e6bb4aa3745e0ff748a601625b8af37&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 03:13:56 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 03:13:56 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[OpenAI：强化学习确实可显著提高LLM性能，DeepSeek R1、Kimi k1.5发现o1的秘密]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWicicogoRy8VFZVwytkyicQr6jI97Q8D18ILZ9rg6MdYRrgI0VFkZa4okiao9IacW8ibibdg7As9rLq2Z1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：Panda、陈陈最近，OpenAI 发了一篇论文，宣称 o3 模型在 2024 IOI 上达到了金牌水平，并且在 CodeForces 上获得了与精英级人类相当的得分。他们是怎么做到</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955736&amp;idx=1&amp;sn=c1cd748685c68e8398c1452655a12e87&amp;chksm=8533f34db260104d85ed756256adc98a74c25465347b388ab6aed2c58aa5b6cf52e27082e9de&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 10:49:29 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 10:49:29 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[大模型强化学习新发现：删减84%数据反提升效果]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibLWhZUQVoNkJNzH80SsBdWSQI8BkO8oV0SH72D6icbia8BXUzsFU9FGPyBiasGrytEeNwyaA1ayJQgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955736&amp;idx=2&amp;sn=693be46324bfebc17a726725323454de&amp;chksm=850111d70ec8f8f932c48c06ae576b5ab154add8af0eb3eb4c6512ce90911dedaa763a5a4b16&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 10:49:29 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 10:49:29 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[撞车DeepSeek NSA，Kimi杨植麟署名的新注意力架构MoBA发布，代码也公开]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibLWhZUQVoNkJNzH80SsBdWfjIgsibuD3A5LicGOwuYGmbicEf7iascffe1fEKqdubHbCwSn1VZ55xGww/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道机器之心编辑部昨天下午，DeepSeek 发布了一篇新论文，提出了一种改进版的注意力机制 NSA；加上还有创始人兼 CEO 梁文锋亲自参与，一时之间吸引眼球无数，参阅报道《刚刚！DeepS</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955611&amp;idx=1&amp;sn=82f6c12ee7d283d7c7bbd36f5de46587&amp;chksm=85ee81bc229ee2e049e7f7bdda84a0f3779040b5e6f8e82021071e32c053392d2cbe6a41b77f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 06:03:01 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 06:03:01 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[国内外多所高校招聘教职/博士后/博士生/访问学生等]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWicicogoRy8VFZVwytkyicQr6jTFWdDj47e6ObianGGVaibOUQ4ot4XJzgAic5faLKKSfpmpibs3QzspYqcw/300?wxtype=jpeg&amp;wxfrom=0"/><p>‍‍「TalentAI」将持续带来人工智能相关在招职位信息，欢迎正在找工作与看新机会的朋友关注，也欢迎企业伙伴与我们联系合作。南京邮电大学计软网安学院诚邀全球英才加盟南京邮电大学坐落在有“六朝古都”“</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955611&amp;idx=2&amp;sn=02443bf2258a81c0ea05d665ef28a5f3&amp;chksm=85fcf7e180562c903603ebd160dab82c05277b5dddc0f27b1161ab24901d9c5ae10f440e2d3e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 06:03:01 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 06:03:01 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek V3+R1满血微调工具上线！一键启动，硬件要求降10倍]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibLWhZUQVoNkJNzH80SsBdWJgucNVHUIHcrq505CSyAicrb1NicAD68StoIYeU4ZrvxY7Nib6LiajDAVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心发布机器之心编辑部DeepSeek V3/ R1 火爆全网，基于原始模型的解决方案和 API 服务已随处可见，陷入低价和免费内卷。如何站在巨人肩膀上，通过后训练（post-training）结</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955592&amp;idx=1&amp;sn=d1ed172d4cd49ec1227b95b0a1bd9b7c&amp;chksm=852a96b0ad2837ff96715c8fb6b2867562b2c9a16733af1c3867733fdade4b9d404a500dfc1b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:22:55 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:22:55 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Claude挣钱强于o1！OpenAI开源百万美元编码基准，检验大模型钞能力]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibLWhZUQVoNkJNzH80SsBdWPILUVRIzg9XXjjKBQEf1icTBgj0CB5h5hfGBAYbhvn6ZUB8nl4N0ASA/300?wxtype=jpeg&amp;wxfrom=0"/><p>机器之心报道编辑：杜伟、陈陈昨天，AI 圈可以说非常热闹。中午，马斯克 xAI 发布了地表最强旗舰大模型 Grok-3；下午，DeepSeek 梁文锋亲自挂名的论文公开了全新注意力架构 NSA。这下子</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955592&amp;idx=2&amp;sn=f77a925504f276f218dc0677d697ead2&amp;chksm=851324d433e48df77f3feb2a3d477a62e14f5d78b23b7a07c4842110940c6a886096bd0e8648&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:22:55 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:22:55 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[清华团队构建大型社会模拟器AgentSociety，推动智能社会治理与研究范式变革]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWic1eeqWj7x6ZVWqibNktwQeUHnPwkSYA9jmVKZMh3aaksYc9cGHxTI0SXsfT5nVo7zLIbU2GhVllFQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955592&amp;idx=3&amp;sn=f0e549cbf3b4e77fc76c935ff13c15b4&amp;chksm=856a259bf3ab4a0262e9430dca1ade34634ce56d3c58d8990a72f9a3f1478738bfe676dc7e3c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:22:55 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:22:55 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[ICLR 2025 Spotlight | 让城市「动」起来！DynamicCity突破4D大场景生成技术边界]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gW9yClMQLyqNl6N9xdaSDduBuJ0WwXyfIxse0z1asf45AKl6KJoZFJgPia9PeuqJRwhWW8eR5HyZOUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>AIxiv专栏是机器之心发布学术、技术内容的栏目。过去数年，机器之心AIxiv专栏接收报道了2000多篇内容，覆盖全球各大高校与企业的顶级实验室，有效促进了学术交流与传播。如果您有优秀的工作想要分享，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2650955592&amp;idx=4&amp;sn=9d9955b8ad165467803379baeeb38ad7&amp;chksm=85b10d603ef2ec16a56ad3c6ba2f7d920b792d80916628c9529e778a424ef3f24f7d049b75f2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:22:55 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:22:55 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>

@@ -1,461 +1,165 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[AI前线]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[AI前线公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_b7682654f4a3.jpg</url>
-      
-
       <title>gh_b7682654f4a3</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[DeepSeek开源周第三天：专为FP8设计的DeepGEMM来了，核心内核代码仅300行！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOnzU08Z7JnA3QlnfRrfZNdnx6cKROkmUeAXiceIAYGhj3mtu78HIBQosYbC26EaJyHNM0lzLlB5e7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247634260&amp;idx=1&amp;sn=f585256d86fd46f4f0011a79d1d32459&amp;chksm=fab87f5ec4d39ce69eeb07d96a2f3f9c23bd926d3da91a62b58a7215953343b8a4cb0e497491&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 02:20:42 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[DeepSeek开源周第二弹：第一个用于MoE模型训推的EP通信库，暂只支持英伟达卡]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOnZFtLaiae82jD2dCbRR4xmmxugHPaUxVsSXH5rqM6jfhJNnjeGRCHUiaC96iaELvcPMMlnBnjZrKUlg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247634200&amp;idx=1&amp;sn=6b3f920f77612810edbff41adbeb7416&amp;chksm=fa87c21327fbec6d6aeab1cbc052cf9783dc8914bc8a181d9b15bb0ed3223657842ee5addc79&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 04:16:45 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 04:16:45 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[中文比R1丝滑、玩宝可梦还贼溜？全球首个混合推理模型Claude 3.7 Sonnet太惊艳，网友直呼“孤独求败”！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOnZFtLaiae82jD2dCbRR4xmm0lkZCZbWrphAX98kAprFIrtohLHe601Uq2sKp3gIDGhetA3eNtHDyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜褚杏娟 冬梅	当地时间 2 月 25 日，Anthropic 正式发布了 Claude 3.7 Sonnet，“这是迄今为止我们最智能的模型，也是市场上首个混合推理模型。”Anthropic 官</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247634199&amp;idx=1&amp;sn=171701d15cc7a364fb26bc5243e1756a&amp;chksm=fac52554658267ce3be541134ed075ca2709b91004e4a05365a7256ed44758e2df4efd0879e7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 04:13:11 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 04:13:11 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek 等浙大系创业者的组织文化密码是什么？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOnZFtLaiae82jD2dCbRR4xmmico4GicPVZMiaiboheLKELfbt0ibwks5GZzmSgftOHqtrWBChiaPicY0ib4tcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 林群书、杨超、吴昊潜	
 		策划 | 高玉娴	
 		本文整理自 InfoQ 策划的 DeepSeek 系列直播第三期节目。在直播中，极客邦科技创始人 &amp;CEO 霍太稳对话了整数智能创始人 &amp;</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247634199&amp;idx=2&amp;sn=a685fe0e7c97a871349cdb74e5807711&amp;chksm=faa7c7525cdc21e6ace8fa66728924baf0a2c6d063e0264ad4d3bd6d39e010cbfb036e52c38d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 04:13:11 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 04:13:11 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[一群技术人拉横幅围堵 OpenAI，不禁 AI 就一直闹！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOkR9rL6uNss0GCMXpXxdrjPL1NOFOLK4Zycf8RPiclhia6huCLUUOEMlk74tlIECU9UQe914hxjZRvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅	近日，据外媒消息，一群活动人士于上周六在美国旧金山集会，成立了名为 “停止人工智能”（Stop AI）的非暴力公民抵抗组织，旨在阻止人工智能进一步发展，尤其是针对通用人工智能（AGI）。O</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247634103&amp;idx=1&amp;sn=8bc187bfc860c702a5d3d2d74ce3f8a6&amp;chksm=fa057b73d5e627df8d5d24735d72b83d194982573d6189fff9ff9c160352932edb0d00c6963f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 08:57:00 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 08:57:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[百万年薪招揽人才的故事还会在AI时代继续上演吗?]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOkR9rL6uNss0GCMXpXxdrjPX42MhY2MvCukNLEjGIaRQR4RibLEIWgD6f4xYEiabALZHOTy1FmQdL4w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜柴云鹏近期，一则有关 DeepSeek 百万年薪招聘人才的消息引发了热议。据消息，DeepSeek 开出最高 98 万元年薪招聘 UI 设计师。网友们进一步挖掘之后发现，这家公司正在以极具竞争力</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247634103&amp;idx=2&amp;sn=6ed87e05e40de49010f1098306888152&amp;chksm=fac1b01d3e2b34614c86818cae25cde8e5be201b6e0850bb57554b626aab35d4ef90fe8e1cbb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 08:57:00 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 08:57:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[文末赠书 | 微信、百度都接入的 DeepSeek，企业靠啥玩转其私有化与垂直训练？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOkR9rL6uNss0GCMXpXxdrjP7TkRj8oot8nJErguAb43x6VAyQ2Jpicicws920ZKehtYSTFz9ic9rO7SQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在当今数字化转型的浪潮中，大模型技术已然成为企业提升竞争力的关键驱动力。DeepSeek 作为国内极具实力的大模型代表，正引领着众多企业迈向智能化变革的新征程。从教育领域到金融行业，再到互联网巨头的核</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247634103&amp;idx=3&amp;sn=35d9fa05aee39f14556ab008e6a9e40f&amp;chksm=fab7ab2d4d4c26ad89e7d50af66aa9f9ac20a3ca667b7b3c3384ffbd335e800062965fcfde0b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 08:57:00 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 08:57:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek开源周首日：先让H800 GPU飞起来，项目瞬超1千星！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p></p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247634035&amp;idx=1&amp;sn=54acc8a8a562a7304cc52aaedc17879f&amp;chksm=fa2b061e51ec6e1a0301d51c45061131348598bea7d6a71d434fc6c64406c3674f0edfc6ff80&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 02:46:46 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 02:46:46 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[奥特曼婚后首晒娃，纳德拉祝贺；AI 硅胶娃娃爆火，不续费变“哑巴”；黄仁勋首度回应 DeepSeek 冲击｜AI周报]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOkCKR2nDwgpnaQd8lkuiac2zz016G2Kk6A3EVEdj0wJgEcKD1NXht0FzhibL0icBhmoQjeMicz5T5EsibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语：奥特曼婚后首晒娃，纳德拉祝贺；曝 Kimi 投流 9 亿，日活不足千万；黄仁勋首度回应 DeepSeek 冲击；接入 DeepSeek 后回答植入“58 到家”广告？腾讯官方回应；AI 硅胶娃娃</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633989&amp;idx=1&amp;sn=c29b101508a2f7b79124bdde99ce95e9&amp;chksm=fae24c4d53c691e4cefa6eec7cbd45f36f87577a5e992090c09e9d8d0499d8ca9bd1de949d7f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 06:01:35 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 06:01:35 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[“2025 年将成 Python 主导 AI 领域的最后一年”]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOkCKR2nDwgpnaQd8lkuiac2zibuaaQQymelWHgBs8TEVy9h14HOrtPT2LBGQks29I4DvPYJRAkibrhJQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 核子可乐、Tina	Java，这头在企业应用领域深耕 30 年的“猛兽”，如今正虎视眈眈地瞄准 AI 这块 Python 的“固有领地”。尤其是在企业级 AI 应用方面，Python 的优势</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633989&amp;idx=2&amp;sn=2316da0e55a2f1e4f2aa1b017c3e8374&amp;chksm=faac2a05b44455ca896f12acf7ae7c7b881e09947b78270554748cdbb46730576fccacc5b30d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 06:01:35 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 06:01:35 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[截胡DeepSeek开源周？Kimi深夜首发开源模型，同计算量下好过DeepSeek？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOlaghibklAXO0V9JQNqSUp0a3nQK7yj6q3Uyc02icAF0uPBM5uKrxzn33cDE0fraYmJFpvwG1DsfdoA/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633958&amp;idx=1&amp;sn=93a0775c8b5da71450f37205de3f973a&amp;chksm=faac36a22f3041c688c58aa4387ea7f9a74305b54bdbbf4839e8d2c40dc08dc246d530940686&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 05:01:54 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 05:01:54 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[第一个明星 AI 硬件将变成电子垃圾]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOlDVPnJ1YEExNkVUZJycnzDf6rtr24tLlBD7vhBrwriaA8sKhxWLQBodQTh0zy8SJYOIoXtXR8q8Vg/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 冬梅、Tina	Humane 公司要抛弃他们的 Ai Pin 用户了！他们只给了用户十天时间来准备。在发送给用户的通知中，Humane 表示 Ai Pin 将在太平洋时间 2 月 28 日中</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633904&amp;idx=1&amp;sn=dde790057d8ff99dba1197c114a61d61&amp;chksm=fac4d342e2fe582ba3b8806f6b52a1846e0f9d22f9a53b70532e185c39e0b360118d0d85acf4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 05:30:00 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 05:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[GitLab 及其高管屡遭起诉，原因是“误导性”人工智能炒作和价格上涨]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOlDVPnJ1YEExNkVUZJycnzDqSdINQqccxUZX5n3c1vYsDb2JyVKVvUruy5C9cFibn6nZqwLB8GYUqQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>   整理 | 华卫	五个月来，GitLab 或其高管第三次因涉嫌在 AI 功能和需求方面误导投资者而被起诉。最初的投诉是一项联邦证券投资者诉讼，于 2024 年 9 月 9 日提交，随后于 2025</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633904&amp;idx=2&amp;sn=4a81c75671b99832768c1566f505f726&amp;chksm=fa3e806dd18c3ad801e3ec91152f87ad3c6ead1bf937177b3f585d5184a3226ee28a4eeab11b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 05:30:00 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 05:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[微软力推新视频游戏 AI 模型，超 10 亿张画面训练、相当于 7 年老玩家？开发者们：去他的吧！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOlDVPnJ1YEExNkVUZJycnzDqquOeamXNeLkiaISWeho8qxA0gfibVNCiark0weowTpTD8I4CIQdmBWEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫、核子可乐	日前，微软在 Nature 杂志上发表了一项游戏生成式 AI 的突破性研究成果，其中介绍了其名为 “Muse”的世界和人类行为模型 （WHAM），可以生成游戏视觉效果及对应玩</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633869&amp;idx=1&amp;sn=982db524ade209a7f35862365c861827&amp;chksm=fafbe397f74d44c9d8fca4f5d9879a545b8f09337d48103424ab7c5f13e61d9ecc048ba44d88&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 05:30:00 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 05:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[大语言模型系统评估新框架：微观指标构建方法论]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOmkIkNsJGHLHzVA1fEjUJDK6RicaXO1P4yD5WxbuicwhA7x9p79beAkfIHEFoNZ2S81ANcqh9qibkz2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Denys Linkov	
 		译者 | 马可薇	
 		策划 | Tina	
 		摘要AI 领域的每个应用场景都有其独到的挑战。在系统承载了生产环境的流量后，开发者就需要开始监控边界场景和特</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633869&amp;idx=2&amp;sn=982ec1108785859d9411a00dcd674659&amp;chksm=fa50c10732c53d2a944586585edcf3a2491d2e7888ad3341b0a486f7ba0096b11f4dbfb4ef89&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 05:30:00 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 05:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[从 Twitter 到 X，掌舵近三年后，马斯克再以 440 亿美元估值寻求融资]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOlDVPnJ1YEExNkVUZJycnzDUymD2Lia1ADyDAptUIlic6dMRqicriaAAoInHV1H1dbgXqYeVR7X6kNeEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 冬梅美国当地时间本周三，多家外媒援引消息人士称，埃隆·马斯克的社交媒体公司 X 正在洽谈以 440 亿美元的估值从投资者手中融资。马斯克在 2022 年以同样的估值收购了 Twitter。这</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633869&amp;idx=3&amp;sn=eed18c591e0d6afa6434d54b26eed565&amp;chksm=fa6e817efd8323cf817d035b5fa507db020450adc322040680bfd2eee6231a618a4a2bab6c84&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 05:30:00 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 05:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[梁文锋、杨植麟同一天发论文“秀肌肉”，主题居然撞上了！下一代模型要来了？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOmkIkNsJGHLHzVA1fEjUJDKpLoeZ2icwbW9H2m0hIMJkC8vlF4sp7bAP25ias1R8z933icrMOJA692VA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅	2 月 18 日，DeepSeek 和月之暗面（Moonshot AI）几乎在同一时间发布了各自最新的研究成果，巧合的是，两篇论文的主题高度一致——都聚焦于改进 Transformer 架</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633824&amp;idx=1&amp;sn=b3f740d11bf3e29f05a6a0a722fe22d9&amp;chksm=fa787f01511f587e694ec4d0fc9ce1fe9386ae635fc4fc2ec35839e9c951195b794a29202629&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 14:54:22 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 14:54:22 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[发布3天后，Grok 3开放免费使用，马斯克：让你们用到服务器崩溃为止]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOmkIkNsJGHLHzVA1fEjUJDKAZaUt7WAXEiaciaEZBNbzfnU2GDAbia0rMwPs5WOpGFicx0sicPRXqv9YOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 冬梅  北京时间 2 月 20 日，马斯克的 AI 公司 xAI 宣布，Grok 3 模型现已开放免费使用（直至服务器崩溃）。马斯克表示，在短时间内，Grok 3 将对所有用户免费。订阅 X</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633797&amp;idx=1&amp;sn=068ceb867d6bb92c6b14d07f9d6cbf23&amp;chksm=fadeb043db5bcf5a7d292bfba43102a77a66622789bc50fb3e1ed338d0762f153964949a772a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 06:05:33 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 06:05:33 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[梁文锋、杨植麟同一天发论文“秀肌肉”，主题居然撞上了！下一代模型要来了？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOmkIkNsJGHLHzVA1fEjUJDKpLoeZ2icwbW9H2m0hIMJkC8vlF4sp7bAP25ias1R8z933icrMOJA692VA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅	2 月 18 日，DeepSeek 和月之暗面（Moonshot AI）几乎在同一时间发布了各自最新的研究成果，巧合的是，两篇论文的主题高度一致——都聚焦于改进 Transformer 架</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633779&amp;idx=1&amp;sn=c3a8ed04e067313fd63a455f1ee13d9e&amp;chksm=fa83594ce8bc28d0aef1d14f4a08b1683afbec13f2db9ae5045c5eaa60af6443557f8ca2c8b3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 05:12:00 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 05:12:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[大语言模型系统评估新框架：微观指标构建方法论]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOmkIkNsJGHLHzVA1fEjUJDK6RicaXO1P4yD5WxbuicwhA7x9p79beAkfIHEFoNZ2S81ANcqh9qibkz2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Denys Linkov	
 		译者 | 马可薇	
 		策划 | Tina	
 		摘要AI 领域的每个应用场景都有其独到的挑战。在系统承载了生产环境的流量后，开发者就需要开始监控边界场景和特</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633779&amp;idx=2&amp;sn=7650626109746329d7660bc31e1437f7&amp;chksm=fa2169eb9d7524651aa01bee3487e7b193b36b817c97fa558fe9d01d02333306e51475bba75f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 05:12:00 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 05:12:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，DeepSeek被曝首次考虑引入外部资金，新增财务负责人已就位]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOnqsaibLrbibPc8Wc3CvbnGshRibcoOI22pQVsmNwk8OkCUJIgicLZ7p5GoX7doNuqL5fApxbpyXKpMicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633711&amp;idx=1&amp;sn=32a5e0f16262682c09931beb0a92a3a4&amp;chksm=facefb150e99feab45e5df366c697158e923a841c3f849ab663797570dfec726a5cb365c2b82&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 17:47:15 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 17:47:15 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[发论文亲自上？创业十多年，DeepSeek梁文峰的“技术男”属性从没改变]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOnqsaibLrbibPc8Wc3CvbnGshicPrlMcq7FldSA4kUNL9ToQy1GC632VdC9HJuicZfH9nk0b7r2EMDq3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟  2 月 18 日，DeepSeek 发布了一篇新论文，提出了一种新的注意力机制——NSA。值得注意的是，创始人梁文锋参与编写并亲自上传了该论文。根据论文介绍，DeepSeek 团队</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633688&amp;idx=1&amp;sn=574ca90722c36afb739405435843a078&amp;chksm=fa6654dd7e5faf807bd2481f271c1f81bd2159cd5e7f67240362596d16bb2b44abcfa4090d15&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 06:47:04 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 06:47:04 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[最大参数 300 亿！阶跃星辰与吉利联合开源两款多模态大模型]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOnqsaibLrbibPc8Wc3CvbnGshwRR2p4wUSJwaZg8MadIyaE0G2PcgxMkvb36Sics4Dv6qWiclx4ibK8Hag/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 冬梅	2025 年 2 月 18 日，阶跃星辰和吉利汽车集团联合宣布，将双方合作的阶跃两款 Step 系列多模态大模型向全球开发者开源。其中，包含 目前全球范围内参数量最大、性能最好的开源视</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633688&amp;idx=2&amp;sn=cd7c815d65778c8d7ce8f80efe403472&amp;chksm=fa3cf5763d36eac12f9431115f1a2b7fbec888cce4770b1626cf4ecd61bae5f24aaa228cb9ec&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 06:47:04 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 06:47:04 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[OpenAI 前员工们大闹硅谷！离职 CTO 卷走大半骨干创业、联创公开 37 页训练 PPT，还有现员工准备出走]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOnqsaibLrbibPc8Wc3CvbnGshVyImib5ibPqBXTyjyZialK8YAsan2Zj5kNx8CR1VEsmib9k0V0PiaqeEb3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫	去年秋天， 前 OpenAI 首席技术官 Mira Murati 突然离职后从公众视野中消失，后被曝开始了新的工作。当时离开时，Murati 就透露，“我离开是因为我想创造时间和空间来</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633687&amp;idx=1&amp;sn=f4164633226691af487e50b2adf1dc92&amp;chksm=fa0d1c9ab0334c3a1952fafc2b18928f15b40871811f1b6589427bca9da3c9f722eb1b39c0f0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 06:08:32 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[20万卡吞金兽 Grok 3 炸裂登场，卡帕西大神亲测：性能超过DeepSeek R1！马斯克：短期不开源]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOmoKXwn9os8yEicFdp8EDNEfFg28Lfhvic8hibq24icw15j54Qnx7Pm7W56WYPyuGjDciaO1ND8iclDLgSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅、卫华	
-		xAI 发布 Grok 3 和 Grok 3-mini
-	在 AI 领域，埃隆·马斯克再次成为全球焦点。2 月 12 日，这位科技狂人在迪拜世界政府峰会上透露，其旗下的人工智能</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633603&amp;idx=1&amp;sn=9ca3e5edc5cd383f942d9b72a859d19c&amp;chksm=faf9d5460991c1110b8a76f65d51cd366a46183bbe8321b569cfe73e3d3930b7dc4f2647e30a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Feb 2025 06:51:24 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[春晚BOT扭秧歌的科技“秘籍” | 文末赠书]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZBjVrHIdkOmoKXwn9os8yEicFdp8EDNEfm4uvhnZ8mHkRqWEYvwKic13GkSgAFUJgrbSTXibGt4Gcow2janIxgjUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>一起来看，春晚机器人扭秧歌的科技“秘籍”！蛇年春晚，一场由张艺谋导演，由杭州宇树科技和新疆艺术学院共同表演的创意融合舞蹈《秧 BOT》令人眼前一亮。
-		这群 BOT 什么来头？
-	舞台大幕拉开，16</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247633603&amp;idx=2&amp;sn=242730c0f1dcf4831a59289500db1bdf&amp;chksm=fab247f00c6d6d4f92348a29da3b1c53735f155284c3b7fd381df185be1aa52084819332db5a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Feb 2025 06:51:24 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 06:08:32 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>

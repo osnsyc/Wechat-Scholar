@@ -1,1021 +1,367 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[新智元]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[新智元公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_108f2a2a27f4.jpg</url>
-      
-
       <title>gh_108f2a2a27f4</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[DeepSeek-R2曝5月前上线！第三弹DeepGEMM 300行代码暴击专家优化内核]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3IC67myP1Mey4ar32jGOsFDWoiaUoIUejPceETg0RnNDYUEoyzZgOD516a8YPq96ibXicoVHTwl9ALw/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HNYZ【新智元导读】DeepSeek开源第三弹，是支持稠密和MoE模型的FP8计算库——DeepGEMM，支持V3/R1训推。仅凭300行代码，就超过了专家优化的内核</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569774&amp;idx=1&amp;sn=a7c2691d5a90e08b91cbcce4513fd017&amp;chksm=f074bd748dda43540778f8f7eb46fd5b37ef4f508cb17492ec442f3ebfbb6e00f826d74005b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 02:16:54 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[Claude 3.7狂飙物理引擎碾压Grok 3，高考数学题被秒成渣！疯狂融资35亿Transformer女神加盟]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3LA9an5WFDJKyNpCsvB6v2qgvWceDM7MTvdQDC4c5bMEGIeYMf5xDffKCiccfdNMTXKphpYnMPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HNYZ【新智元导读】Claude 3.7 Sonnet一出手，就惊艳了全球开发者！作为首个混合推理模型，不论是物理模拟还是生成游戏，全能完美掌控堪称编程界AI王者。值</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569729&amp;idx=1&amp;sn=d9ef856f3dba8c9cdade771ade43fa4b&amp;chksm=f07960b9578fc6ed10b0bcf0f936ef443d020a099e59d648e711f742f4449490230bdfe22c1a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 09:03:55 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 09:03:55 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[苹果史上最大投资！4年5000亿美金重注AI+芯片，特朗普专门感谢]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3LA9an5WFDJKyNpCsvB6JqUpgzmGyicwrGbO1iclickHAuaXUryC0I1x5q8ForlhW3bgI34g6y2zA/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：KingHZ 英智【新智元导读】在创始人、已故CEO乔布斯诞辰70周年之际，苹果宣布未来4年在本土投资5000亿美元，加速AI和半导体投资进度，将新建24家工厂，创造2万个就业</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569729&amp;idx=2&amp;sn=a462b68fe5c185850d096fa6648901fc&amp;chksm=f0e1f272c3150d285b279b1ff614d41b36b3fefec3a736645d317bd20bdd2381e4b2de798a90&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 09:03:55 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 09:03:55 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[360联合北大震撼发布！5%参数量逼近Deepseek-R1满血性能]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3LA9an5WFDJKyNpCsvB6n4IY9YuWdgB3hrf0sibLcuicINpQcmciad2AOwb1yrHr8I0Hw3nSD7KRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】推理黑马出世，仅以5%参数量撼动AI圈。360、北大团队研发的中等量级推理模型Tiny-R1-32B-Preview正式亮相，32B参数，能够匹敌D</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569563&amp;idx=1&amp;sn=35c9780ff7cd4236eb8c71085c30d2e0&amp;chksm=f08a3c8b684588f1cc6ad77f12ffae86556382b62e4a5e203bb992647eba6e515696e973062e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 05:39:48 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 05:39:48 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，DeepSeek开源DeepEP通信库，千亿MoE训推颠覆级创新！FP8狂飙，带飞GPU]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3LA9an5WFDJKyNpCsvB6OrQYA2nMZLROVqibwhSsib7d2XohmiafmJGNKZGgS8uL6kubh6AmqZMSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部【新智元导读】DeepSeek开源第二弹如期而至。这一次，他们把MoE训推EP通信库DeepEP开源了，支持FP8专为Hopper GPU设计，低延迟超高速训练推理。刚刚</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569486&amp;idx=1&amp;sn=ebdc9e3b8ea117584021f25605a80b4d&amp;chksm=f0d1a019ac65eb23d1251afb2032723a38cac2b707f77fb817ca0661db69cb32a2bc8359d9ee&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 03:38:05 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 03:38:05 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[微软急刹车，被曝撤掉大波数据中心租赁！DeepSeek冲击，算力泡沫要破？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3LA9an5WFDJKyNpCsvB6gHSGDd6b8lvIKCzQG836arqa4iakvhzbmUsGrAFNqSvrfrEgvCKyvTw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】DeepSeek开源第二弹如期而至。这一次，他们把MoE模型内核库开源了，支持FP8专为Hopper GPU设计，低延迟超高速训练推理。一个月内，微</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569486&amp;idx=2&amp;sn=a12486633aca37d272776cdabd535769&amp;chksm=f06a17d0a4480f5e272f3e2433ef110b05627755f6e7b272bb623fcafe883771528db2d33d1a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 03:38:05 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 03:38:05 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，全球首个混合推理模型Claude 3.7降世！最强编程大脑暴击DeepSeek R1]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4Znr5ClMgGIGibYWcRek52e0Ys5YbHgtiagoHcn5ibJZs5pcJibxwJVfSIFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 JHNY【新智元导读】就在刚刚，Anthropic祭出首个混合推理Claude 3.7 Sonnet，堪称扩展思考模式的最强模型。在最新编码测试中，新模型暴击o3-mi</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569413&amp;idx=1&amp;sn=de9d542e414f2bfef132707ea526cccd&amp;chksm=f0dd51d8fac2a4d9dac20b39d9ad68f8d7d7301fe5858bc9dfa5a71e938254de7c6844eb01de&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 23:51:25 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 23:51:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[官方承认系统「作弊」，世界首个「AI CUDA工程师」翻车？o3-mini 11秒发现bug]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4Zk5PSgmP1jlRC3P0QOO3f1opX6Ikuy1Eszb5iauxUr9VPhjRwiaVB7oUQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：好困 英智【新智元导读】高调亮相的世界首个「AI CUDA工程师」，宣称能让模型训练速度飙升100倍，如今却上演了一场「作弊」闹剧。OpenAI研究员用o3-mini，11秒便</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569413&amp;idx=2&amp;sn=fef0154f7e91d3d46406b5fdb6eff531&amp;chksm=f03caa6a59549fbbf1d145b5f6725a92707a67cb0f77afe9112b21d6b2b27ca4de828bc0d28d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 23:51:25 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 23:51:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[LeCun力荐！进化算法淘汰77%低质数据：RIP方法让模型性能狂飙60%]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4Zv7KPczceGgGsmgoaShj7VYLamOyNZhMmibrNUFdApfWEKzGhrgHCibAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：peter东 乔杨【新智元导读】近日，Meta等机构发表的论文介绍了一种通过进化算法构造高质量数据集的方法：拒绝指令偏好（RIP），得到了Yann LeCun的转赞。相比未经过</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569413&amp;idx=3&amp;sn=1116dcece478592dab7b067d0f905a7f&amp;chksm=f0376b2b96933b72b32c106e14d286a4d25d9baa875722e1160585403cf50e0eb6ee9f27f83f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 23:51:25 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 23:51:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[LLM自学成才变身「预言家」！预测未来能力大幅提升]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1icxqFutRibx0f71obe39fMOUoZfMibKGXfjvZKeIHQcYLhoP0EWfVjy5NRqZyFXBmLmBxS6EMjoic1Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：英智【新智元导读】还在惊叹预言家的神奇？如今LLM也掌握了预测未来的「超能力」！研究人员通过自我博弈和直接偏好优化，让LLM摆脱人工数据依赖，大幅提升预测能力。最近，有个爆火的</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569413&amp;idx=4&amp;sn=aed9a04743b3350bce9c722cc64f2c61&amp;chksm=f0aadde1d76084e59bceb70f6724cdc155ae3e04b17fc060bd1222efc96638dfb3a8aa2db715&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 23:51:25 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 23:51:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[招人！新智元邀你勇闯ASI之巅]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1T5UCS4qrUTK9vJxNdrZg4jSiarl0sulMiajiczRUgurDzuGLtSIqWC53CBtAAHUUvqscKibHibK5ibwNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  【新智元导读】迎接ASI降临，新智元AI星舰整装待发。浩瀚AI宇宙，我们召唤你！2015年9月7日—2024年9月7日，新智元星舰远航9年。我们诚邀你的加入，勇闯ASI之巅。「新智元</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569413&amp;idx=5&amp;sn=d6716789402cde42a237e68b619cec75&amp;chksm=f0ffd394b950c63c12efd2f6d96d93c80be07b8f31608cff80e76f7618d4d0839e033c99ff07&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 23:51:25 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 23:51:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[不懂编程本科毕业生手搓三个APP，用ChatGPT两年狂赚千万美金！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4ZhVkMmdp8y297zDAJgRNul2LxyXjqdM6T74FhJH2cTrnS3tFGq7hk5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】这个美国小哥本科毕业后，虽然一行代码都不会，却成为世界首位用ChatGPT开发百万收入应用的企业家！AI约会助手、颜值神器、卡路里计算器，步步风口都</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569263&amp;idx=1&amp;sn=ac199e9062c71c5d08df7a426ed73d27&amp;chksm=f0734cf2371f886c5f0e2bc83c2e789885f073a215b7bae49f94ddfe0aa3e72e7b31fb756040&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 09:05:08 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 09:05:08 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[博士offer一夜变废纸！陶哲轩抗议LeCun建议欧洲抄底，川普新政搞崩学术圈]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4ZyPuTwPgqVXfHGdjwY0baicED7vSmMUngTlXr7fJPxjLUFZicXicwUkWNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 JHZ【新智元导读】特朗普和马斯克，已成全美学术界的公敌。NIH宣布削减科研经费以来，全美掀起反对潮，陶哲轩已发起抗议联名信，LeCun预言大批科学家将离职，建议欧洲抄</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569188&amp;idx=1&amp;sn=be104af9121bc9858b43674656dc54fe&amp;chksm=f042eaec0a016340c637e94ac7aaa2bdf269b6216c78965dd84e551d5c4608140f3968d7318c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 07:00:23 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 07:00:23 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[南大钱超团队攻克百亿晶体管难题，斩获EDA顶会2025最佳论文！AI学院本硕博生联手]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4ZicSc1fmsibutWKonLtBac1nbfG4W2AXbHNQn7hiaMm05IKaSammSj2lLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】南大AI学院钱超教授团队，荣获EDA顶会2025最佳论文奖！其中，论文一作、四作、五作都是南大人工智能学院的本硕博生。芯片设计领域的传统难题——如何</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569143&amp;idx=1&amp;sn=b7dfb0cd69554a41588db4fcb5432a7e&amp;chksm=f068168b34db2e87e477893131fcfe2b7bcc2c8b542eb10e0e3f369797edbb1e756de116ad07&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:28:28 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:28:28 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[8分钟，Grok 3破解美国本科生最难数赛题！马斯克要用100万GPU反超「星际之门」？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4ZgTo1lkUmXH4dKD2riauiafxY8f5pdKC28stro0ibrOvmBiaphTLgcb2HgQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：好困 犀牛【新智元导读】马斯克旗下xAI扩张步伐不停！继孟菲斯后，xAI在亚特兰大的秘密数据中心浮出水面。海量英伟达GPU集结，这背后是Grok 3用户激增的压力，还是马斯克挑</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569143&amp;idx=2&amp;sn=a7a6713c48726c56922ffb6b0331001a&amp;chksm=f0fb2595ff6378fb1303236afd3503114d09fa944fb8c9e68b98b1b48f7786ac7e4ea037e981&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:28:28 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:28:28 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[不用GAN不用扩散，无需训练解锁AI生图新境界！判别模型成神秘第三极]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4ZtU4LNfFicIK8pcLfyVzRib8Ia7F6pMfVtNXQOYWn3GsfItTUuCjmzIYA/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：桃子 英智【新智元导读】你能想象判别模型也能成为强大的图像合成高手吗？「直接上升合成」（DAS）做到了！它突破传统认知，借助多分辨率优化等创新技术，在图像生成的多个关键任务中表</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569143&amp;idx=3&amp;sn=0c15afa05ab0575d1074aebe7323f7b1&amp;chksm=f0c889dd2ba3ba9b5cfa39eb199acecd2a826b9ad9d9ca1e8035dbd9d8429515fa245427d109&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:28:28 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:28:28 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[单提示生成「主体一致」图像，且无需训练！已斩获ICLR 2025 Spotlight]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbqic8hSDtZiadK5uYIxg90yxejdKR19XbKTQC1kfLGkSaXbe6OHxNDQwIQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：LRST【新智元导读】「单提示单故事」（1Prompt1Story）是一种无训练的文本到图像生成方法，通过整合多个提示为一个长句子，并结合奇异值重加权（SVR）和身份保持交叉注</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569143&amp;idx=4&amp;sn=4da045052d41545d43d198281a0f7c97&amp;chksm=f02ca1fa17c7909ef838cee10ab84639cc67701e8e9bbb2d35998a56de59ce3142a1a6e8d1d4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:28:28 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:28:28 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[招人！新智元邀你勇闯ASI之巅]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1T5UCS4qrUTK9vJxNdrZg4jSiarl0sulMiajiczRUgurDzuGLtSIqWC53CBtAAHUUvqscKibHibK5ibwNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  【新智元导读】迎接ASI降临，新智元AI星舰整装待发。浩瀚AI宇宙，我们召唤你！2015年9月7日—2024年9月7日，新智元星舰远航9年。我们诚邀你的加入，勇闯ASI之巅。「新智元</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569143&amp;idx=5&amp;sn=5b78c4a667d9c10a1567a84c4267364f&amp;chksm=f0e41b264bea973cdf8784afcae84f0b5b76ed3e613f1b7664c38308d9e9f6ca262e3bd7e019&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:28:28 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:28:28 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek开源放大招：FlashMLA让H800算力狂飙！曝光低成本秘笈]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3WYRYCo1PU6nW9Hxr0hs4ZrOmbdcpOKxSATuwsEMIHZWg6GURJQPodawmg7qLj6iclJbRgHy6nhOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HNYZ【新智元导读】DeepSeek开源周第一天就放大招！FlashMLA强势登场，这是专为英伟达Hopper GPU打造MLA解码内核。注意，DeepSeek训练成</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652569010&amp;idx=1&amp;sn=5007d0e0385d3d3a74c58f98c71ab032&amp;chksm=f051cc0f532160bdf93de5dec3f2e42a84cffaea01695bb0809aff2b03ecb1c3c9da6903f4b1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 02:27:21 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 02:27:21 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Grok 3冲击诺奖级突破，成证明「黎曼猜想」关键！AI与数学家打出终极组合拳]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb0NfffEGBh9WX3jCQN8l0l5HUtELibwKRKDia4J7GLcIsH6f38HJddkPtvlPkLApbCdSdYteE4FSqgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：犀牛 桃子【新智元导读】猜想界的皇冠——黎曼猜想，离被证明的那一天不远了。Grok 3便是关键所在：暴力计算+验证器能让AI穷举所有解法，再加上AI辅助科学家打出的组合拳，下一</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568913&amp;idx=1&amp;sn=bf057948fc1f487ae81984e21894cb6d&amp;chksm=f07d4bc12760ac53ad6d3626a1c6b4889a097cc5430bfb1b10056a93cf70cc5c78090bc4e31a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 08:27:35 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 08:27:35 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[全球顶级AI大咖空降上海，千亿资本百万年薪引爆人才争夺战！机器人上街遛狗]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb0NfffEGBh9WX3jCQN8l0l5IZQH48E8Ntkf5rtV3tSYl4lO9XUNJrzMLuuGqy34SYkc4eF1ZMhS1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】魔都这三天，一场颠覆未来的AI超级盛宴，再次点燃了科技界热情！2025 GDC大会上，全球顶尖开发者、AI行业大咖、著名开发者社区齐聚，共襄盛举。这</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568878&amp;idx=1&amp;sn=7b03b2aa85ef1e31a089d133e8ef6937&amp;chksm=f0b6644233bc298d3a8a7b1e6d3eb8c9ac32d6fe3ff62068984d70fb5f704cc261b91a8e9117&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 05:12:38 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 05:12:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[孙正义患DeepSeek焦虑症？首谈5000亿星际之门，每年算力暴增1000倍]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb0NfffEGBh9WX3jCQN8l0l5AlymVKTczvEJibBuLAtrgC1xEpwJDKhuj471I6fwuRZjiaR9ISWTGZLg/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：KingHZ 桃子【新智元导读】斥资5000亿打造星际之门，孙正义自曝，有人说我患上DeepSeek焦虑症！实则不然，星际之门每一年算力会提升1000倍。未来10年，超级智能对</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568878&amp;idx=2&amp;sn=4be1ff67faeeb6a9b8f813fdd12d2d82&amp;chksm=f0c2158cffe6d8f46337131a026454d20b0feda01920862a5b57dcea2c4f22cf850e60bbd270&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 05:12:38 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 05:12:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[超1/3美国大学生用ChatGPT，用户数激增破4亿！AI重塑教育职场]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2iabS7iaWTu5u4kJajWOHzFL54fhjS3dyoAUSw0gib7jl8etCIgZXdiaTAOmPibDv1COFYdsWJERqRbPA/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：英智【新智元导读】还在担心被AI抢走饭碗？美国超1/3大学生已用ChatGPT写论文，70%企业雇主青睐具有AI技能的求职者。OpenAI用户数突破4亿，在职场和教育中掀起AI</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568878&amp;idx=3&amp;sn=26a38b3a06ea2cdbebedecd07489e555&amp;chksm=f083e7ac1e1ac7350d1513b917342cf33f029d42e82a6438073a2775b0681ea198ea02d5bc62&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 05:12:38 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 05:12:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[招人！新智元邀你勇闯ASI之巅]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1T5UCS4qrUTK9vJxNdrZg4jSiarl0sulMiajiczRUgurDzuGLtSIqWC53CBtAAHUUvqscKibHibK5ibwNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  【新智元导读】迎接ASI降临，新智元AI星舰整装待发。浩瀚AI宇宙，我们召唤你！2015年9月7日—2024年9月7日，新智元星舰远航9年。我们诚邀你的加入，勇闯ASI之巅。「新智元</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568878&amp;idx=4&amp;sn=ef80de8712ab54d9d9bdbfb3d3f9ffc6&amp;chksm=f020d73fa22d0adf9c27e8470ddd7af67782153c0d12a90e2dd7ae5e5b1e972f2f55ae757aed&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 05:12:38 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 05:12:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，奥特曼晒出早产娃引爆全网！两个爸爸孕育人类首个「AGI宝宝」？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb0NfffEGBh9WX3jCQN8l0l5VODKfqLiatndV7XQRlicewJYicmbMw16B9RfJ2QepjKfUKOGDAV8QgCkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 YNJ【新智元导读】结婚一年，奥特曼和丈夫共同迎来了首个宝宝，还是男孩！人类首个AGI boy诞生了？奥特曼和丈夫Oliver Mulherin结婚一年，终于迎来了他们</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568827&amp;idx=1&amp;sn=33ebbfdb74fe99101122f0c87eea0d4b&amp;chksm=f0947e0b5a37237c5b02fed467b724a0b18acba490e1e1817dca4c869865caa0e4949b7e1961&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 02:40:30 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 02:40:30 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[14岁出道编程天才：新一代码农不会写代码了，AI正培养「文盲程序员」！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1AKNmnvAbERaxy5pkpwVzOTbMj4Vjd4Qo1tbAl1epQKHgBC02EKiaCTaGOw0FvWIfGLMlRWVOKT8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：好困 犀牛【新智元导读】一篇题为「New Junior Developers Can’t Actually Code」的博文炸开了锅。资深码农Namanyay对AI工具在软件开</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568642&amp;idx=1&amp;sn=2da3ea93c3d9506552000ea348ef9b07&amp;chksm=f0807c5816c2d6060cd8d732a26f037dae1e2c30b3e1a09e48f3e13ab1499b4c1964f22049ed&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 01:00:43 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 01:00:43 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[谷歌Fellow级大佬出走！17年老将吴永辉加盟字节，亲自操刀大模型研发]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1eWPWwGNPtGVSWYibkYa3ApEfqaTExyxjYOZy6eE2ETWTibVtiaEKODaCHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：桃子【新智元导读】Google Fellow吴永辉博士离职谷歌，正式加入字节跳动，未来将专注于AI基础研究。这位在谷歌深耕17年AI老将，曾主导了神经机器翻译、RankBrai</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568641&amp;idx=1&amp;sn=929ea8abfd6854f73fbf6b445271d6ba&amp;chksm=f04082b7120efbcf494df8df9b2c3f92e483e8be794ea171693fee6891f3e0fd97888333fec2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 09:00:38 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 09:00:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[10美元成功复现DeepSeek顿悟时刻，3B模型爆发超强推理！微软论文实锤涌现]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2iabS7iaWTu5u4kJajWOHzFLhZgJw2JHE7RoxiaWILa3sDSNlzxh0r2O0KUqqaiaJAg7htVMVIu9XWibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：Aeneas 好困【新智元导读】不到10美元，3B模型就能复刻DeepSeek的顿悟时刻了？来自荷兰的开发者采用轻量级的RL算法Reinforce-Lite，把复刻成本降到了史</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568634&amp;idx=1&amp;sn=8641192550c382466db03f5c596d60d7&amp;chksm=f0c722c54ce0c3678acb3f4287d153c53c91ee066b26cbeae26d061acb000aa9e06e1ffe1225&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 05:01:01 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 05:01:01 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[谷歌AI掌门人Jeff Dean对话Transformer作者：AI提速300%，1000万倍工程师要来了]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2iabS7iaWTu5u4kJajWOHzFLlkHl3ia6SDhCgiccibLVWGibGTOSdgMxc1Rgggzlh4E3ItYGgJwWufHAbA/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：犀牛【新智元导读】谷歌首席科学家Jeff Dean与Transformer作者Noam Shazeer在一场访谈中不仅揭秘了让模型速度提升三倍的低精度计算技术，分享了「猫神经元</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568634&amp;idx=2&amp;sn=91599688af8dc3848def1bc3d4e8b096&amp;chksm=f093038f510e6b0182bfe5240e39050789692c48d0c9361bf24da00a78e7e6256a41d7aa3ecb&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 05:01:01 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 05:01:01 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[AI智能体结对编程秒杀人类，90分钟神作惊动OpenAI总裁！引全网140万围观]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2TjyW7o2JpcAbADAGyHQSwRjNpjw4SD4j198TcNeYExNcAZyWXCReQHCetf5sdEXknl6icK8iaCrlQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：桃子【新智元导读】AI组队自主开发时代来临！OpenAI Operator和Replit Agent组队编程，仅在5个提示90分钟内完成了应用程序的开发。无需人类插手，AI智能</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568634&amp;idx=3&amp;sn=531c8064ec330d76851603763763e3ed&amp;chksm=f0360621f0ba6caadbaebab0dfd6be2d83dbfd681964502f17765f0d17be2b400043c7bbb6a7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 05:01:01 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 05:01:01 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[招人！新智元邀你勇闯ASI之巅]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1T5UCS4qrUTK9vJxNdrZg4jSiarl0sulMiajiczRUgurDzuGLtSIqWC53CBtAAHUUvqscKibHibK5ibwNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  【新智元导读】迎接ASI降临，新智元AI星舰整装待发。浩瀚AI宇宙，我们召唤你！2015年9月7日—2024年9月7日，新智元星舰远航9年。我们诚邀你的加入，勇闯ASI之巅。「新智元</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568634&amp;idx=4&amp;sn=e7d770563eb87919a9d93b472e7edb14&amp;chksm=f040763388d6fe52a3552ee06d94aea1d0953877aae6002a2bef3fee388866c2e31eb2d2b0f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 05:01:01 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 05:01:01 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[不到1美元，打造全球第3超强AI助手！港大3人开源最强Deep Research]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbqhQhgJ9Ivkd5NghkoCyHHEj6MkKaCnn9C2FNKpM0kDCZibjD7xYa6R5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：好困 犀牛【新智元导读】最近，来自香港大学的3位研究员开源了一款平替版「Deep Research」，只需1美元即可拥有全自动AI研究助理！它能自主搜索、分析互联网信息，还能处</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568579&amp;idx=1&amp;sn=f59e18f810aeb39ba6b188dfb62fa307&amp;chksm=f04e33de2874d672ecb2adb2ff6728219ed281877ea49935d8dacee8b38cbfdb93da7aa82e68&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 01:19:25 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 01:19:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[全网独家！扣子Coze支持DeepSeek工具调用，零代码搭建多模态神器]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbqH8g8CdgXRdTWXLqYwtv4PM8yTcTZ8FfVlyfI1hlPcbzneo4Cicz0Byw/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HNYZ【新智元导读】字节扣子Coze放大招！全网独家支持DeepSeek-R1/V3工具调用，自由组合插件，0代码打造AI专属助手。不论是看图、联网、写代码，Deep</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568530&amp;idx=1&amp;sn=ed5f4ed9691f136ee539885657dbcf3f&amp;chksm=f069f8d4af904faefec1d3c4dc620826b43b2d1344160992b85a643758f5c697db60b4069c78&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 13:27:32 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 13:27:32 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[最恐怖没脸机器人觉醒，白天拖地半夜上吊吓哭网友！新鲜尸体绝望抽搐太惊悚]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbq1VS5Bt6Vk117fqDoI4gWGFV7orFfSTc6xsmeSaoNO7byHvlP4XrS4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】史上首个超高仿真机器人来了，恐怖谷效应拉满！长出肌肉骨骼后，它上吊的姿势更逼真了，活像新鲜的尸体在抽搐。首批279个Alpha版已开始预定，售价2万</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568426&amp;idx=1&amp;sn=0f3b43e9ca83e1932f9693da3adc6eef&amp;chksm=f04e192a26637a9feb67b0ffba3b04bf3e40946f522f79c359931d69f11d95927a925371335f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 06:56:05 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 06:56:05 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek下周顶级代码库5连发！巅峰对决OpenAI，正面硬刚GPT-4.5]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbquyzMIpTKkFvNS19ug72MoKZAVMaqNZ9AZibYeWPDibw97Q53ib9S8qj8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568426&amp;idx=2&amp;sn=f22565696d245ecf814e9e6f1d444b0f&amp;chksm=f0aec8be13a60a6eba6088a62eb8051c8d3659a1cb70df2ca91d788779e6fcbc69dbc1bbe680&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 06:56:05 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 06:56:05 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[杭州95后学霸坐C位，Grok 3登顶App Store！Hinton高徒、多伦多华人博士领衔]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbqGb6t1VnwM7dpU6tYzGkS6A43gIkY0OiboYbDEqnVu4ibfyjMDoqqriarg/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HNYZ【新智元导读】官宣免费后，Grok火速登顶美区App Store榜首，同时，xAI也放出官方博文，秀了一把模型的数学、代码、ASCII Art演示。最引人瞩目的</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568259&amp;idx=1&amp;sn=fb8fe702bab51f93ae9ccc233915be96&amp;chksm=f0d06f89dc3546bd7982e2cefd629414dfd25cb872e26eea07aadfa7bfc97ddeb4e02bd26aec&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:37:42 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:37:42 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[「卖铲子」也疯狂！美国「DeepSeek概念」AI初创，估值达33亿美元]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbqeib2HFo3mEI6YlEickQpEw62p2OzNWTrjCh6MgYibJwGaOdwNf7vRlHKw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 JHN【新智元导读】美国AI云服务商Together AI宣布完成3.05亿美元B轮融资，估值高达33亿美元！该公司押注开源模型，提供包括DeepSeek-R1在内的2</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568259&amp;idx=2&amp;sn=10735cdf312ebae3876c7f840325b267&amp;chksm=f09032cd3376ca9158be02c062518f7bad9acbfb25ed39a0490f2c88e1ccb9facec8bb1988b0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:37:42 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:37:42 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[蚕食人类权力不用AGI降临！「温水煮青蛙」足以让AI渐进式失控]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbqnFMaA61rWfS7jpBVpXW4kVkwmoxFOqRPncZTaJqBtaX34SVKLJShsQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：peter东 乔杨【新智元导读】随着人工智能的加速发展，我们常常担心AI会突然失控、超越人类控制。然而，最新研究指出，这种「突然失控」的场景或许并非最令人担忧的；AI在各个领域</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568259&amp;idx=3&amp;sn=b76a8c1feb0328f79b4e300265f67eaa&amp;chksm=f064b0c36302aa27418d26c32e627425e98057224023b4292405169c43ea96742b9d37f66a74&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:37:42 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:37:42 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[谷歌超硬核教科书来了！Jeff Dean带货揭Gemini训练秘籍：在TPU上scaling]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbqGykvOhkmkDxAZMvrJKpPUzy53e6aSJvHEnMWIyLbOLStia3rpjLKu5A/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：KingHZ【新智元导读】谷歌团队发布LLM硬核技术教科书，从「系统视图」揭秘LLM Scaling的神秘面纱。Jeff Dean强调书中藏着谷歌最强AI模型Gemini训练的</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568259&amp;idx=4&amp;sn=61e27f3270f3a26459ae3e219a55b6de&amp;chksm=f07281b3b2377f69eb74504179fd1b779a922daeea7e38663deafb6a734a32eab35ecfa922d5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:37:42 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:37:42 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[招人！新智元邀你勇闯ASI之巅]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1T5UCS4qrUTK9vJxNdrZg4jSiarl0sulMiajiczRUgurDzuGLtSIqWC53CBtAAHUUvqscKibHibK5ibwNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  【新智元导读】迎接ASI降临，新智元AI星舰整装待发。浩瀚AI宇宙，我们召唤你！2015年9月7日—2024年9月7日，新智元星舰远航9年。我们诚邀你的加入，勇闯ASI之巅。「新智元</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568259&amp;idx=5&amp;sn=ade894ce17085db5b19ef0e8f0196422&amp;chksm=f004224433e672c7d5e321159cdc61df8afa6bf786e8281339dddb0f14a1beaf0cca6add285b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 04:37:42 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 04:37:42 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[抛弃OpenAI，Figure亮王牌：史上首次两个机器人「共脑」，网友直呼太恐怖！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb3FR42q9LyZFrCcoicBhjWbq0gygRhLUicu6R18Br5Wiaddnm26OZwJYibbU1cf9icnNib16BbzbV7iaPlsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部【新智元导读】就在刚刚，Figure祭出首个人形视觉-语言-动作模型Helix。机器人学会像人一样推理，听从自然语言丝滑拿起任何物体。破纪录的是，这个AI能够首次同时操控</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652568025&amp;idx=1&amp;sn=8195705376335048ba44f181c2d1b4e1&amp;chksm=f0818fb7f839dc439448b785c82d3539f51c375726614ed50c6dff65e1390fcd0c5fa1cac5b2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 01:01:17 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 01:01:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[微软Muse秒生游戏登Nature，10亿级画面练出最强AI！千亿游戏市场重洗牌]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3icGGq8IInWtKy0ckmicpKEsDQx3vY8UPvjnLXq1zgycqk7DhCdzcNJgJU4Uia19uyFK6Su3SBMyA/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：KingHZ 桃子【新智元导读】一夜之间，游戏产业要变天了！微软公布全球首个世界与人类行动模型，名为Muse，可秒生游戏画面，精准预测玩家操作。未来，游戏开发或将从数月压缩至几</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567936&amp;idx=1&amp;sn=34d45b95603ff59dd2948d4c2c284052&amp;chksm=f0526278890ec29749689740e1fb018780d9fc249fe06ce44f901e562804709c7c411ffe988f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 08:30:45 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 08:30:45 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[世界首个「AI CUDA工程师」诞生！AI自己写代码优化CUDA内核，性能狂飙100倍]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3icGGq8IInWtKy0ckmicpKSXeJUvyib2fZiadWXgOcycS0jPVYLwrq8sCkg2Vcw9ByLia4QCNMO532w/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HNZ【新智元导读】Transformer论文八位作者之一Llion Jones创立的Sakana AI发布重磅成果——全球首个「AI CUDA工程师」！它能将PyTo</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567936&amp;idx=2&amp;sn=4feebdaf0bdc3413bd3d857ef81ea7ce&amp;chksm=f03849c1aa50e7a95ecab3eb0850b15e8991e0379943be27c0c92d8358bd99482e5b526f484a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 08:30:45 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 08:30:45 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[2025最强开发者盛宴倒计时，MIT顶级大神亲授秘籍！百亿招标等你拿]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1ervAt6asM3iaeUMdcB5I6Sc02jTibuURL5u1VHDQTOKEl4VY9Zy2UnQFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】2025全球开发者先锋大会即将重磅开幕！中国首位AGI安全大佬亲临现场，三天精华课程直击AI4S与安全攻防。还有超百亿AI项目招标，直接对项目绝佳机</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567835&amp;idx=1&amp;sn=ca4b1e516fa0e7a3f20f0a4f8cde3983&amp;chksm=f01dda9742e60386170b2bd67038e16731edee95c3c7ae40eb948575468800d730e6eb45cd5d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:54:31 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:54:31 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[突发，Grok-3免费上线！答对9.11和9.9谁大，1分攻克MIT积分难题]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3icGGq8IInWtKy0ckmicpKPfenicV3Bcick1bh1LXl6sdu1ib83iaqkmFNgAEppefqgpqTTBH2pxNwYg/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HNYZ【新智元导读】刚刚Grok-3免费开放了！DeepSearch和Think两大模式加持，刚上了热搜的「9.11和9.9哪个大」终于能做对了（但没全对），甚至1分</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567835&amp;idx=2&amp;sn=539e7ff411861e2bb8f17bb391b3efb7&amp;chksm=f0a85d2d8fcf330fba31fd97b06482feae62ee01aeba86b6d9869ab3138a7a6e9966f1fb92c7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:54:31 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:54:31 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[法国核聚变重大突破，等离子体运行1337秒刷新世界纪录！全球核电时代一步之遥]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3icGGq8IInWtKy0ckmicpKgk6kCoS6ZHcpKgLEibHO7w6LkzMWibM0SwoEW7Rw4xFJMibFLicVFe6zLg/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 JHs【新智元导读】等离子体持续时间新世界纪录诞生——1337秒！继我国在上月突破1000秒大关后，国际核聚变领域取得新成果。人类有望迎来全新核电时代。创纪录的1,33</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567835&amp;idx=3&amp;sn=5105e46d6535fd6a7c20d1dce3d5dd31&amp;chksm=f0c6a028d0536c285d2a2e0c92788631eae26240b1e12181e6ffbd24c325518113aa856df5ca&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:54:31 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:54:31 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[「开源类脑芯片」二代发布！支持反向传播突触学习规则和并行神经元计算]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1e3icHFuKOXrmchsxaaTDqXR0Ysibu8TQPdfEazrXK3I4JI9Z8ia10usKag/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：LRST【新智元导读】在今年1月《Journal of Supercomputing》上开源的「开源类脑芯片」二代（Polaris 23）完整版本源代码，基于RISC-V架构，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567835&amp;idx=4&amp;sn=876d7a8c938edd95e55c941d3880e40f&amp;chksm=f0cbada22fb3fd583a09ddb22232af4d4f6df61b900eaac426be0e8ba91a26401244b02139a1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:54:31 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:54:31 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[招人！新智元邀你勇闯ASI之巅]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1T5UCS4qrUTK9vJxNdrZg4jSiarl0sulMiajiczRUgurDzuGLtSIqWC53CBtAAHUUvqscKibHibK5ibwNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  【新智元导读】迎接ASI降临，新智元AI星舰整装待发。浩瀚AI宇宙，我们召唤你！2015年9月7日—2024年9月7日，新智元星舰远航9年。我们诚邀你的加入，勇闯ASI之巅。「新智元</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567835&amp;idx=5&amp;sn=a6f3a05305534fe67ab4bc4f3563e67f&amp;chksm=f0c25506d08e14a0dd06ce3a07f4e5dd9b252141585fd01679910278408caccf79aab860950f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:54:31 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:54:31 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[微软20年精炼，全球首个拓扑量子芯片出炉！巴掌大芯片碾压全球超算]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3icGGq8IInWtKy0ckmicpKjVMLuXJSh9pAWlBlgX8YvGgbpGH9uf9QOMq1oNk4hspvFmdT91IIlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】就在刚刚，微软全球首个拓扑架构量子芯片Majorana 1横空出世，一枚芯片将集成百万量子比特，胜过地球上全部超算，从此，物质有了第四种形态，量子计</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567587&amp;idx=1&amp;sn=dac3cbc6bf1112a90685f27daa69d046&amp;chksm=f0d593a00f4e478d8706868b431f833b41c15195269ecff477c4d78c0058a7d696301605ee40&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 02:40:49 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 02:40:49 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[iPhone 16e强势来袭，自研5G芯片首秀！搭载A18支持苹果AI，4499元起]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb2r3icGGq8IInWtKy0ckmicpKKMeC44qiclNwH5b0o4XmlNuYfPwC8LP1kvKs62Z58r1GHE8WQ2ictdww/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：犀牛 好困【新智元导读】鸽了6年，iPhone 16e终于来了。搭载A18仿生芯片，支持满血Apple Intelligence，并首次采用苹果自研5G基带C1。今天凌晨，iP</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567587&amp;idx=2&amp;sn=40164a1822a1c794e01eb6526c884be1&amp;chksm=f0561c3b8b508ab3d56aef2c94c1a513d5d0fd2ee20ae08b1f9becf80da22f25d5d6165e691e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 02:40:49 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 02:40:49 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[单机支持500人团队，无问芯穹「满血DeepSeek-R1多并发一体机」同时支持联网/本地搜索]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1e5p2acS5O5GcWrlQmwmp1S2z72ZcrGlTJ6HmpEiaGrNVCxYJcibBiakvxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】满血DeepSeek最后一公里难题被打通！企业级「DeepSeek-R1多并发一体机」出世，单机500人可跑，本地和联网搜索随意切换，成本低到离谱—</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567540&amp;idx=1&amp;sn=11b43caf0100ad916570da2dcd3e22e6&amp;chksm=f01c862531b7bf18a7b8358e2e95da1ff8fce9756453e2afead3f5b303c2d3f2439e868fa52b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 02:00:17 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 02:00:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[英伟达一夜回血！马斯克狂烧30亿GPU给老黄续命，10倍算力创Scaling Law神话]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1eNAeib29PcFeULOeBRpV1b1Jhq1lBpibXxFRC6sRpKfjIpU3jEhr3rsCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 【新智元导读】一度狂跌的英伟达股价，又被Grok-3盘活了？20万块GPU训出的模型超越DeepSeek和OpenAI，证明Scaling Law还在继续增长！Ai2研</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567321&amp;idx=1&amp;sn=780cd06e1bbcf82df813f969bca9abd2&amp;chksm=f0f0e63c469d62da8cba8e2947d50569685cba8a9aece45c33069d0d0e7621a3de4b927937be&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 07:17:55 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 07:17:55 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[「诺奖风向标」2025斯隆奖公布，清华姚班大神霸榜！8位华人计算机科学家入选]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1ew7IkvWERfMP0rsDpIIkxbbTFSww1pI2R1Nnib8qNn04SI9NwwEOIQOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】2025年「诺奖风向标」斯隆研究奖公布了！一共126位来自七大科学领域科学家获奖，计算机领域共有22位学者。其中，华人学者占8席。值得一提的是，迄今</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567183&amp;idx=1&amp;sn=0267ee26be52fe98bba56d95b2956671&amp;chksm=f0ad02f5ec9c5bf0f5e3bcf523f22f21056dd321b04195f5b8e12daa8e1efa65712206d3fb18&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 04:34:19 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 04:34:19 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[OpenAI掀「百万美金」编程大战！Claude 3.5 Sonnet狂赚40万拿下第一]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1etYgHqrYERZUaFbefkF0s8LPCy6lG4DsvUHWMYGcMibQOzR6elO1BXgg/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：犀牛 好困【新智元导读】OpenAI刚刚发布SWE-Lancer编码基准测试，直接让AI模型挑战真实外包任务！这些任务总价值高达100万美元。有趣的是，测试结果显示，Anthr</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567183&amp;idx=2&amp;sn=6b2c7af525f92de5455602a78e7a8a55&amp;chksm=f0cdad0c7ebf79d2835fc5b0955cdd40058e65d2b53aa7e032d854f50c00104674260988edbc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 04:34:19 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 04:34:19 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek满血微调秘籍来了，全网首发打破低价内卷！解锁升级版全家桶]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1efxeW0mbj3OCc0IiaUhaZa8ic4CQhyMu0K5ys4Zu3yPkrlUcjtxSm0oqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】全网首发！DeepSeek V3/R1满血版低成本监督微调秘籍来了，让高达6710亿参数AI巨兽释放最强性能。DeepSeek V3/ R1火爆全网</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567073&amp;idx=1&amp;sn=f577a0a88c91b62f52e00ca54b349422&amp;chksm=f08d4452f8cf216b672df151ba0bbde079346a256a29164004ef8902d6fc5e59cb21219692df&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:05:40 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:05:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[奥特曼押注惨败，爆火Ai Pin已死！ChatGPT版iPhone终结，惠普1.16亿美元接盘]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1eQ2z0ZCajhka9WSJetFBVNSj0dmD6VCq9MsIqGiayr8GkOsG6wMsU7ibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HYZ【新智元导读】又一个AI硬件夭折了！爆火的Ai Pin曾获奥特曼投资，号称要革iPhone的命，如今却被曝出退货量超出销量，Humane公司以1.16亿美元被惠普</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567073&amp;idx=2&amp;sn=2a4e8358981b5fb04df9131fa84c10d0&amp;chksm=f000176a6c43a0ab53821603ff42b512f2d8793f20b9c8d824c297d3a72e27b2b4b6e68e2dae&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:05:40 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:05:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[英伟达CEO老黄预言：未来，每个人都自己的AI导师！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1AKNmnvAbERaxy5pkpwVzOFibMBribFfYI0niaZq2b3icyBib72jkVM6ibTicZDIKXjvGKNVMxWIb5Y9Iibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：杰奇【新智元导读】英伟达CEO黄仁勋近日在接受采访时放出重磅预言——「每个人都应该立刻拥有一个AI导师！」这位执掌万亿级芯片帝国的科技巨擘，为何对AI教育如此推崇？AI导师如何</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567073&amp;idx=3&amp;sn=13d672496c1371e1bdd360ce63e98834&amp;chksm=f01db1766ff343f439f94675f0db82f38d2f16e8a076d577f3927c5564dc6ae89f88cb4fe05c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:05:40 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:05:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[一句话，满足两个广告商！谷歌最新「Token拍卖模型」，多LLM联合创作广告词]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1eQ6yrQY4AZzoXsWXsZ7mXVm7Y284W0a9eetJCUJUmKlRuCichVicCo1wQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：英智【新智元导读】谷歌研究人员提出了一种创新的token拍卖模型，通过「竞拍」的方式，让智能体在文本生成过程中进行出价，确保最终输出能满足各方利益，实现最佳效果。这一机制优化了</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567073&amp;idx=4&amp;sn=91b870706283a5dbffb5546fc74e97d6&amp;chksm=f0f251372280063e84e77521eb10924962a7fbfa22084ef81cadbee437cbdc21ca960e64a02a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:05:40 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:05:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[招人！新智元邀你勇闯ASI之巅]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1T5UCS4qrUTK9vJxNdrZg4jSiarl0sulMiajiczRUgurDzuGLtSIqWC53CBtAAHUUvqscKibHibK5ibwNw/300?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  【新智元导读】迎接ASI降临，新智元AI星舰整装待发。浩瀚AI宇宙，我们召唤你！2015年9月7日—2024年9月7日，新智元星舰远航9年。我们诚邀你的加入，勇闯ASI之巅。「新智元</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652567073&amp;idx=5&amp;sn=2894c45a3f78d6c244a0f110b5584a39&amp;chksm=f0271811898bf7bfb711dd75551736ff54446e400391125450e59af797682d48c7294b0cf17e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 03:05:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[前OpenAI CTO另立门户，2/3 ChatGPT骨干被挖！北大校友Lilian Weng加盟]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UicQ7HgWiaUb1TPgPmGvfaDVRNVPZq7j1eJkr4uo3oEs2KDym3PAiaE8mQthdCRxLcopAn32TQlMuibD561RP7jzTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>  新智元报道  编辑：编辑部 HNYZ【新智元导读】OpenAI前CTO Murati离职后，终于官宣新动向！她创立的「思考机器实验室」汇聚了OpenAI、谷歌DeepMind等顶尖AI人才，包括O</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652566992&amp;idx=1&amp;sn=2e4dcfda6b4c3bfdc6ace561d873745c&amp;chksm=f028007c2f31c2f047eb8aaed0f2b5546f202033839b04453eba0401acbc5d45344362b020a1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 00:16:38 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 03:05:40 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>
