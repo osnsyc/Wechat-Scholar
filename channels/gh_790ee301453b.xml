@@ -1,211 +1,91 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[学术头条]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[学术头条公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_790ee301453b.jpg</url>
-      
-
       <title>gh_790ee301453b</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[警惕 AI「罕见」危险行为！Anthropic 发文：一次评估失败也可能造成灾难性后果]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9DibDYz4ibtjWcd9WJaheFghwKhYdtV0OUxibLiaibaq92V2m0wZSN2IKJSoFpMsmfKHaSq2gyibdaOv5ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>对齐科学的主要目标之一，是在危险行为发生之前，预测人工智能（AI）模型的危险行为倾向。例如，研究人员曾通过一项实验来检查模型是否有可能出现像“欺骗”这样的复杂行为，并尝试识别不对齐的早期预警信号。研究</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247596001&amp;idx=1&amp;sn=d9eb28414755741823914f1b5bc1aa42&amp;chksm=cef03ac7fb2390bc8b0b7fb9c94b8ef8e25cf4427fdff7322bc7f6ca787ccd922783bf6ab1d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[何恺明新作“分形生成模型”：逐像素建模高分辨率图像，效率提升4000倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9DibDYz4ibtjWcd9WJaheFghw5jviawRFWGDUta3EibM5305SH47la9h1yP7vxCPJMpibytkoRibIBOsM1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>内容来自：机器之心这才过几天，大神何恺明又放出一篇新论文！这次构建了一种全新的生成模型。类似于数学中的分形，研究者推出了一种被称为分形生成模型（Fractal Generative Models）的自</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595994&amp;idx=1&amp;sn=ac7654395fd57596ad7e9ba336d8ff1b&amp;chksm=ce0ed60f49619daa367563540fd459e548ba8cd10b14e554fb5a3cc944bec779f70c66a21c9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 06:24:11 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[放弃agent，图灵奖得主Yoshua Bengio提出Scientist AI：避免人类生存威胁]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9AI4uVCxsNqMKEAswthraBkiaicN85RmibfSgWoJ0GoicJSvjo8gZaFtDuw1ITiaICeIcW6lZvV9qMGR6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）系统或将逃脱人类控制，欺骗人类，甚至给全人类带来灾难性的后果。越来越多的人开始担心，随着通用人工智能（AGI）和超级智能（ASI）的发展，以往科幻电影中才会出现的场景逐渐演变成现实的风</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595974&amp;idx=1&amp;sn=b9ce82b7e9f70c95b2435277ae6f44cf&amp;chksm=ce24fa4687800b6615a44e90e74882d71ff85feca4db0d37e832240f15f236a8d5f90779ed54&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 04:06:27 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 04:06:27 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[深夜重磅！全球首个混合推理模型Claude 3.7 Sonnet发布，编程水平达到SOTA]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9AI4uVCxsNqMKEAswthraBkM4WjJCXjTB8yuwiaQAGYxnqGo9icMVpuf8WBGO8COXPn6bv5ciaXP65Rw/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595967&amp;idx=1&amp;sn=a39b30d5e7776dc83fc10c78f8d71186&amp;chksm=ce250062a529a9f2862428b230dc5432c6a94b87463853a4d8b0779fd5eb28b185760a7ad66e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 00:28:03 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 00:28:03 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[专访微软CEO：AGI并非真正基准，AI行业也不会“赢家通吃”]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9AEQ5Tz8CT1JC5C4tibKSy1bvUnoGGImMIWbpPzQnXKQdvu2DAfOukMUhtjUQArMrO98FIKpCiaKpdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>【编者按】日前，微软首席执行官 Satya Nadella 在参加由知名科技播客主持人 Dwarkesh Patel 主持的播客节目 Dwarkesh Podcast 时，谈到了他对当前人工智能（AI</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595924&amp;idx=1&amp;sn=9dd021a5d68f801676119309b775aa10&amp;chksm=cef7214bc957491d1a8ed7a3ba395c2dea8e595d57a5f0892a161a6ee197c02b7492e17d1b78&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 08:17:27 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 08:17:27 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[何恺明：扩散模型不一定需要噪声条件]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9AEQ5Tz8CT1JC5C4tibKSy1bW3IBsQBy5Nl85Xo44xf6Sibt5gY5TvARQWKJwR5tyBICXpPrTFNkcLA/300?wxtype=jpeg&amp;wxfrom=0"/><p>内容来自：机器之心编辑：蛋酱、杜伟一直以来，研究者普遍认为，去噪扩散模型要想成功运行，噪声条件是必不可少的。而大神何恺明的一项最新研究，对这个观点提出了「质疑」。「受图像盲去噪研究的启发，我们研究了各</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595924&amp;idx=2&amp;sn=ef4e4c2723b3796442861e79e4473460&amp;chksm=cea60b28911de2b0cc7cc2da3c14628f88e53d25a2db1e141a3b9f768f3db30fcdf7d42fac47&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 08:17:27 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 08:17:27 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[宇树科技王兴兴：只要足够专注，我不信有什么问题解决不了]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9Cx84Ez0iaOXjBcoXWT7icVSx7SZ8YIwvEoG9tgibQgU4alghqEGvkOjM6thEZpoVlSe6uJAsIH7wukw/640?wxtype=jpeg&amp;wxfrom=0"/><p>文丨贺乾明编辑丨程曼祺2023 年 10 月、2024 年 5 月，我们两次访谈王兴兴，他详细介绍了宇树如何开发出低成本、高性能机器狗和人形机器人，以及他个人独特的学习、解决问题的方式。本文是《晚点》</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595885&amp;idx=1&amp;sn=ca22d447e5741bc039f3ca7b4d3d73a0&amp;chksm=ce3bf71bfce2429761644ef138ef78f0d0421d134d62d6a47ed9254c672175d63b903bfdbcd9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 04:36:02 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 04:36:02 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，Figure机器人迎来大升级，像人类一样推理，「拿捏」任意家庭用品]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9CLcFAuRpRNAUp7J5MrYUyCicDH7pvU4Wbvhlib9T4iciaCCOyzKV7TygRGZT6EsUuhtghGFuH9OGqx6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，Figure AI 发布了首个通用视觉-语言-行动（VLA）模型——Helix，其能像人类一样推理，将感知、语言理解和学习控制融为一体，可以通过自然语言直接控制人形机器人整个上半身。Helix </p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595867&amp;idx=1&amp;sn=32852983918d6c9c90808395e8fd37e4&amp;chksm=ced4f616aac3926d45c1f20c54d6843f618723631b77ba2715c957cf5f2e0c5c2142fac67d79&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 16:00:56 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 16:00:56 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[谷歌发布 AI co-scientist：独自提出可验证科学假设，已有多项科研成果]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9CLcFAuRpRNAUp7J5MrYUyCXxaEeichZa725ibMWWEQVklibjgLJBTyGylvrEPtV7YmRCOkBJMqLoEug/640?wxtype=jpeg&amp;wxfrom=0"/><p>提出一个新颖可行的研究方向，并清楚地知道如何进行后续的探索，对于加速科学发现至关重要。然而，对于人类科学家而言，这是一个既有广度又有深度的难题，不仅需要了解本领域的最新进展，还需要整合陌生领域的知识。</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595858&amp;idx=1&amp;sn=344d77fe5a83702c4940d76d15859685&amp;chksm=ce52da69366631e6d5445190d977f3ae4cf52cc1a2ad59e9a010ab5e5704e7354b0aaa7664b1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 08:28:00 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 08:28:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[今日Nature：AI游戏设计师问世，自学成才，无需任何先前知识]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9BUESDfXwOYNibIVFnyuNr0MJ2d6iaficlqkETGIS8U9zobleibgvw8EXv1ic2VZcSefpkqh7MN8oBGGfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在当今数字化时代，创意产业正经历着一场由生成式人工智能（AI）引发的变革。从文本、图像到音频、视频，AI 正以前所未有的速度和规模生成各种内容，为创意工作者提供了全新的工具和思路。然而，将这些技术无缝</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595830&amp;idx=1&amp;sn=4a0e363d11656bd55110fe50e108af6c&amp;chksm=cedebe6efbdb9f16d7afa17ed094011f34f029f478bca45ccc35f752d32dd23fd584f56c38f1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 16:11:57 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 16:11:57 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，「诺奖风向标」2025年斯隆奖出炉：28位华人学者获奖]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9BUESDfXwOYNibIVFnyuNr0M0KPgdX9SHtXhdq83fMCdO7gsWicHPkOnCnhuyxC5I1djoyFzLrvbzibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，斯隆基金会公布了 2025 年度斯隆研究奖获得者名单。斯隆研究奖被誉为诺奖风向标之一，自 1955 年以来，每年颁发一次，以向这些“早期职业科学家和学者提供支持和认可”。截止 2025 年 2 </p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595807&amp;idx=1&amp;sn=30d566ec2f41e3692b4db416ae1fcd51&amp;chksm=ce278c18f04e1000ba51a5d006d04b3ba6502334af90b1135af85979e4b9a52cedf2187584dd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 04:09:07 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 04:09:07 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[OpenAI前CTO组建最豪华大模型创业阵容，翁荔、Schulman等ChatGPT核心成员加盟]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9BUESDfXwOYNibIVFnyuNr0MFSdhwqrzLzMcl8mlicwvFJic4UXXPzbiciccC6hEhyNEFMRQq3XpKpqLVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>内容来自机器之心编辑：Panda、蛋酱今天凌晨，一个创业消息引爆了整个 AI 社区：一家名为 Thinking Machines Lab 的新创业公司建立了，而其背后有一个堪称有史以来最豪华的大模型创</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595783&amp;idx=1&amp;sn=3af5df58c33c501079735f015a54cf93&amp;chksm=ceac2a866f21e40802c971744a59c9cb55a927a750362b57d1183a1fbe0104226041bf71828b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 00:41:48 +0000</pubdate>
-      
-
+      <pubDate>Wed, 19 Feb 2025 00:41:48 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，马斯克发布 Grok3，推理能力远超 o3 mini(high) 和 DeepSeek-R1]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5qv5QsBmI9B4iaZ4XtFoicpCI13Oz4cOuKsAHQMPtLjlFicV5VuqjTrUy1NqvC41FBYo0qFiaIMvPkulpp3OYib8JVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在试图以 974 亿美元收购 OpenAI 的提议被拒绝后，世界首富马斯克又搞了一个大动作——刚刚，他发布了号称“地球最聪明的 AI”，Grok3，其由一个包含约 20 万个 GPU 的数据中心训练，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247595752&amp;idx=1&amp;sn=52b72eca3edaee8a909a155f940ff409&amp;chksm=ce41df6a27f8a384981ad9046fbc8ec87356df25c16456132a8c271fe4ffe651fae4532c8a12&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Feb 2025 05:58:50 +0000</pubdate>
-      
-
+      <pubDate>Tue, 18 Feb 2025 05:58:50 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>

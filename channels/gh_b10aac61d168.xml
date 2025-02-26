@@ -1,356 +1,145 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[arXiv每日学术速递]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[arXiv每日学术速递公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_b10aac61d168.jpg</url>
-      
-
       <title>gh_b10aac61d168</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[Transformer是真热啊！叠上小波变换热上加热，绝对还能发更多顶会论文！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbNqPT0FZKBSvw1wLIClT3lyfxkH3LFTicOqzn9Vbdc22xlgcm3eE3fJVFicvWUKt43Qd3rSibgicdEiajQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>围绕Transformer的研究一直以来都是各大顶会的热门投稿方向，比如它自身的魔改、与其他技术结合等等。最近在ECCV 2024上发现的一篇高质量paper就讲的是Transformer结合小波变换</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247657746&amp;idx=1&amp;sn=34c88ae6ac130cefe664797f52ea11d5&amp;chksm=ced1922ba2559832ad601afd431adfd48162bf8328c0b9929774e04a15ad094c28ba4008b4ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 05:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[arXiv每日学术速递2025.2.26]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbM6rPa1iaicJqZ4IZZG2X6ibLUf2TSeibPWolqsTSRECeXhPVBDkWibtFXlsJPxLNrSxuOqdhm9DqFXw1Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！ arXiv每日学术速递2025.2.26 人工智能相关计算机视觉与模式识别(cs.CV) </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247657746&amp;idx=2&amp;sn=43edbe4a8bfb8d1fd942167ff261ce0a&amp;chksm=ceace645a050fe983a808485c6383c93b6d0922ded52bfa28d60e32279dbea7bf6bd72ec2f8b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 05:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[零样本导航新范式 | 模块化四步法+LLM/VLM双引擎驱动，nDTW暴增碾压VLMaps/SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oCQzz6x3ibfU1lIA0Iicjf0RMsVoOzGqWprsLOl0LnKdC18nYVyJjtiaj0sMq3uRicl8sBnssma3ibcf2dfibzHzc5sw/300?wxtype=jpeg&amp;wxfrom=0"/><p> 导读在本工作中，作者提出了一种模块化方法来解决视觉-语言导航（VLN）任务，通过将问题分解为四个子模块，这些子模块在零样本设置下使用最先进的语言大模型（LLMs）和视觉-语言模型（VLMs）。给定自</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247657746&amp;idx=3&amp;sn=49a2f358d7a9855c6504d0510b6f7c74&amp;chksm=ce19b38b29f876a4ead1875ee6c8758e7e3c1653dfb0ff3db5770874356abd6c36a1fa1a8f42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 05:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[揭秘线性与 Softmax 注意力差距，赋予线性两特性，多任务超越且计算量低 ！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVXMdXCynTByTICXxqsKjNgDSYV1BtwTZz3LNNHyaQ2cIIGzMK0iak1Te90NlicjiczzCR01icEXCev6icg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在现代视觉Transformer设计中，Softmax注意力能够有效捕获长距离的视觉信息；然而，在处理高分辨率输入时会带来巨大的计算成本。相比之下，线性注意力自然享有线性复杂度，并且具有扩展到更高分辨</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247657746&amp;idx=4&amp;sn=73abb02b67888ed610ee24d996e82d80&amp;chksm=ce8784f69febccd73d5fb37eec021cf8d929d546c5224623edb9160ecdb23fc81655088328a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 05:02:05 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[实测Claude 3.7：3200行代码一口气输出，物理规律手拿把掐，弱智吧已失守]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbNqPT0FZKBSvw1wLIClT3lyDt7Sm0Ta1apiawxYH6Av2OTd8P8LlboA06DweBVyF7mo83L3DTwZFSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>克雷西 一水 发自 凹非寺转载 | 量子位 | 公众号 QbitAIClaude 3.7新鲜出炉全网热议，到底有多强？第一波实测来了！简单粗暴总结，它在编程、现实世界任务上，能力爆表。只需一个样本，就</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247657341&amp;idx=1&amp;sn=805d773c0fdab4823e37b4262cc52218&amp;chksm=ce6954e1ba2b13d5d72255f4ecc52bd534e665030b16350391505f0c91c2893eaec0866e7537&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 07:38:11 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 07:38:11 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[arXiv每日学术速递2025.2.25]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbNqPT0FZKBSvw1wLIClT3lyfqq9aWxF2MSG1m6aup6vKIRzRafjuicgxPswnDzTxO3sXWeqrCecIzA/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！ arXiv每日学术速递2025.2.25 人工智能相关计算机视觉与模式识别(cs.CV) </p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247657341&amp;idx=2&amp;sn=b9a1fc5fdbeea20ff88bbe16fadd6d04&amp;chksm=ce7453c2cd8455456801fb42a82dc5aa5ec8365a6b0e41e06eda86c5c58bc75f30cd4fa4db07&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 07:38:11 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 07:38:11 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[InstructRobot出世 | 零数据+26关节高自由度逆运动学，语言指令映射效率碾压传统6DOF方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oCQzz6x3ibfWmgl3SwzJEiaUxDHGlaTibRZMgkJl8QCgq0sWLh2pKdIbDQqThicH7yXmYhHhianCJcibmzA1bzuOcUZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读使用自然语言与机器人进行交流是人类-机器人交互的一大进步。然而，将口头指令准确翻译为物理动作虽然很有前景，但仍然存在挑战。当前的方法需要大量数据集来训练模型，并且仅限于具有最多6个自由度的机器人。</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247657341&amp;idx=3&amp;sn=7c9784c99df167d442f4a3e2d5329b95&amp;chksm=ceab5d5fd0de758f38b3ece2aa4d46c4875e4d560b9465cae737c9caa3c4c286befa824d1e11&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 07:38:11 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 07:38:11 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[港理工OccProphet：纯视觉Occ SOTA！速度提升至2.6倍，内存占用减少60%（ICLR'25）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VnDXQzNf28g7icBW4lsib3viaPzGfKf0a0sN9nawKLuEhE9GZQMS3Spzqjjj244GNfNqiab6ezvXYuWx8IBIn0pv6w/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享一篇由香港理工大学最近公开的发表于ICLR2025的论文『OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247657341&amp;idx=4&amp;sn=8c3333698c267cae817dfdae50447e00&amp;chksm=ce4d8f9474b00ee997eb120503a65539076a3adafd14fbc783b1b369184753b508562c0d2899&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 07:38:11 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 07:38:11 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[“源神”DeepSeek！突破H800性能上限，FlashMLA重磅开源，算力成本还能降]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbMNcWHHegJFzVRTNncVd0wJceBtPiadxQtYeiaLmVgfVocFicEOGdictQCRnyRI6icmG1kpdG5cSq9nwicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>白交 发自 凹非寺转载 | 量子位 | 公众号 QbitAIDeepSeek开源周第一天，降本大法公开——FlashMLA，直接突破H800计算上限。网友：这怎么可能？？它是为Hopper GPU开发</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656950&amp;idx=1&amp;sn=fc26b4aadd460850c9506748ebf8258d&amp;chksm=ceca79fb779a7f6f729bb24b7bca90eae983451a0eff1da65ace3df6b2d19899822b82ba8ed3&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:48:15 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:48:15 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[arXiv每日学术速递2025.2.24]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbMNcWHHegJFzVRTNncVd0wJvCL0D4d9VPK5MMDyLEXl1Nz13jsRUDfjxodwCEkeWtbM92PVFc0A7Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！  arXiv每日学术速递2025.2.24  人工智能相关计算机视觉与模式识别(cs.CV</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656950&amp;idx=2&amp;sn=b6e201a5edd86ef357e676df6439837c&amp;chksm=cec7e7c2b2337455fdf3b5ce5c494ca91a2c1bc5776339bc6ace61815a6ebb8d0be34b032986&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:48:15 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:48:15 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[人机协同新突破 | Dynamic-Robot动态递接用千人学习+阻抗控制让递送效率与舒适度碾压静态方案]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oCQzz6x3ibfWOP5vAn0zXbPTZNFdns6ibiciaHS9f5lIEAsonUYQy1Q6WuhLpx4E12gLjxZsomAygsWrO7czCfHtUw/300?wxtype=jpeg&amp;wxfrom=0"/><p> 导读本文提出了一种基于学习的新型动态机器人与人手递接方法，旨在解决将物体递交给移动接收者的挑战。作者假设，与静态手递接（假定接收者静止不动）相比，动态手递接，即机器人调整以适应接收者的运动，可以实现</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656950&amp;idx=3&amp;sn=f184640c1f644c482f38a9461d2888e6&amp;chksm=ceed84c4ac7fa70b0d1712f615295f9a179ca0f2089a64b9afc5065483538bc92231bff902d1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:48:15 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:48:15 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[自动驾驶的『上帝视角』：世界模型如何推演未来的千万种可能？华科&amp;百度最新综述~]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VnDXQzNf28iaCZy3SUd3mgd6NicLicXacibk9HTwTFsC1IhFibQHoUUgvTdDB54Ufb1kG3sCk6I1ibTOdBA44obuTvDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面 &amp; 笔者的个人理解驾驶世界模型（DWM），专注于预测驾驶过程中的场景演变，已经成为追求自动驾驶的一种有前景的范式。这些方法使自动驾驶系统能够更好地感知、理解和与动态驾驶环境互动。在这篇综述中</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656950&amp;idx=4&amp;sn=ede2f542cd0b33605c2a8132e5f64338&amp;chksm=ce1d43357b09113ab3cb1a7ed578591d59c97fdcfe5136db56345a9f93b32c864a1a5650d937&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:48:15 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:48:15 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，奥特曼晒出早产娃引爆全网！两个爸爸孕育人类首个「AGI宝宝」？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbOCxfClcibjWvkhglqfahbPXJXVupMvHvrBVbjMb4mxJhDxDiaqBoeB1R58bMUI9QgQm2VIkOIXOLjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑：编辑部 YNJ【导读】结婚一年，奥特曼和丈夫共同迎来了首个宝宝，还是男孩！人类首个AGI boy诞生了？奥特曼和丈夫Oliver Mulherin结婚一年，终于迎来了他们的第一个孩子。他激动地官</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656545&amp;idx=1&amp;sn=edf0ceb651e7a24fa36fca41f37920c2&amp;chksm=ce1761a158354bc9cf4430eb706c4608d3c368b9147bfe429810f6ed4316cbc91702421fd4d4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 03:55:24 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 03:55:24 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[清华+中国电信颠覆 RL 训练 | 视觉语言偏好VLP出世，免标注实现具身操作零样本泛化]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oCQzz6x3ibfWOP5vAn0zXbPTZNFdns6ibicA4ictbEzPPrv8Q2YjcHmt9u79O0N4sQ0cc86OujRk19NAwNqpBEZVTw/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读奖励工程是强化学习（RL）中的关键挑战之一。基于偏好的强化学习通过学习人类反馈有效地解决了这个问题。然而，收集人类偏好标签既耗时又昂贵。在本文中，作者提出了一种新颖的视觉-语言偏好学习框架，命名为</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656545&amp;idx=2&amp;sn=34c2277f221af1c21de7008613a97f22&amp;chksm=ceba6e844d66b5bb48cb7e0acd1843dea2ebb9bf27f71b8ff571ddff7fe5fb79547bd931f1d4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 03:55:24 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 03:55:24 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[最新！波士顿动力机器狗速度暴增3倍多！还有狗骑自行车跳上高桌？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LJiau2qPWAcV585jyf1X4vl2ggmLljrsiaSiaSzY534VVAn4VMZwbvP5bfzF36eHYaTibibAhtksPzyFoOqAfzrMSSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>起猛了，好像看见狗骑自行车了！还跳上了比自己还高的桌子：还有大家熟悉的波士顿动力Spot机器狗，展现出了前所未有的狂野一面——以5.2米/秒的速度狂奔，相当于时速11.6英里。要知道，Spot的出厂版</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656545&amp;idx=3&amp;sn=fcc742c00b5a418954d99c4a9e31d6f1&amp;chksm=ceee360d77965fddd512b61aea3f9e12cf569bca683739e94bcbe51e43803056bef707637333&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 03:55:24 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 03:55:24 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[断交OpenAI后，人形机器人独角兽首秀：一个神经网络控制整个上身，能听懂人话可抓万物]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbOWewzIpR5tlIBFcOlYZ2sl0xsvZd7icuQezznFNy6MLykzwar8SDZgUTeGibPvoibdKYo9duHbeIeRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>白交 发自 凹非寺 转载 | 量子位 | 公众号 QbitAI与OpenAI断交之后，Figure首个成果出炉：Helix，一个端到端通用控制模型，它能让机器人像人一样感知、理解和行动。只需自然语言提</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656539&amp;idx=1&amp;sn=4969f2783901dafd46426b97d1d12977&amp;chksm=cef25f591d02aa6dceb294fc01780c5226e754ba26ea660e21903e702786b251dae57f55edbf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 07:33:38 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 07:33:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[arXiv每日学术速递2025.2.21]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbOWewzIpR5tlIBFcOlYZ2slcoS9n7SNUe9FsibSibK8IImHI19f44EvzKyVGR5qTezfz44zLZweKM5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！ arXiv每日学术速递2025.2.21 人工智能相关计算机视觉与模式识别(cs.CV) </p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656539&amp;idx=2&amp;sn=228cbc4ada10863fb46f924e3b5846a6&amp;chksm=ceb19dd2431a2f96dcaaf4dbb247c8397b4bbd0e6083b6c949e4b60765f356033f7316ca4f0b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 07:33:38 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 07:33:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[RobotMover零样本迁移+模仿奖励双驱动，六指标全优横扫SOTA，大型物体操控性能暴增]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oCQzz6x3ibfU1lIA0Iicjf0RMsVoOzGqWpAobXmuVZPF3TtPRlHE9s9sfCOsk6dQEUUw3NwAaIkt43UJbxAGVNSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>移动大型物体，如家具，是机器人在人类环境中操作的关键能力。这项任务由于两个关键因素而面临重大挑战：需要同步全身运动以防止机器人和物体之间的碰撞，以及由于物体的大尺寸和重量而产生的欠驱动动力学。这些挑战</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656539&amp;idx=3&amp;sn=93000ce77cccbbd43113075a55ec224f&amp;chksm=ce45655cfe922a3641a1a7dff257a5bda4f78c98a189d3add7f1047465c5dd4b8c5e89ec1093&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 07:33:38 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 07:33:38 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[量子计算里程碑！微软单芯片可百万量子比特，Nature研究爆火]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbPAJYpELHJyGjI2LobnWBLMlf7NV15fjUJ17ibicGRwlc14DWqThibicQTarlV3WzTCRz8KViaQibLoeAjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑：Panda、泽南不是固体、液体，也不是气体，而是拓扑导体。重大突破！本周四，微软宣布造出了一款前所未有的量子计算芯片 Majorana 1，并称可以在单块芯片上让数百万量子比特协同工作，解决之前</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656134&amp;idx=1&amp;sn=1cd4688cc02e0e793a14a765e3ed432a&amp;chksm=ce4de39fd3b65557ecdcb0bd22b56560da0af222970c31c1f4df1bd5f8178730865ebed5d1f9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:39:30 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:39:30 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[arXiv每日学术速递2025.2.20]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbPAJYpELHJyGjI2LobnWBLMxUW32bhLSA6dbGwwAfuia3ydI49IicpKD4JrVBW3HwU2jI8BCicrhfaPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！ arXiv每日学术速递2025.2.20 人工智能相关计算机视觉与模式识别(cs.CV) </p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656134&amp;idx=2&amp;sn=475665a51f0d1368a351c2330a8420ad&amp;chksm=ce78e0c029c732572529dbc21fbfc10dd1b4b49d9618d37c48d4704c307b6fdbc475da23d16b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:39:30 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:39:30 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[中科院强化微调新突破！ConRFT双阶段训练+一致性，45分钟成功率暴增144%效率飙升1.9倍]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oCQzz6x3ibfU1lIA0Iicjf0RMsVoOzGqWpIHtd3c7bdibAibCdBYPvsxCfpr840UBGwE5hRUVGicgS7zjNAZ3RuSt7g/300?wxtype=jpeg&amp;wxfrom=0"/><p>导读视觉-语言-动作（VLA）模型在现实世界的机器人操作中展现出巨大的潜力。然而，由于演示数据有限且不一致，尤其是在接触密集的环境中，通过监督学习对这些模型进行微调难以实现鲁棒的性能。在本文中，作者提</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656134&amp;idx=3&amp;sn=8ed357fbaff7db6bb27b1803fc86be75&amp;chksm=ceffc38f446c656abb6eb80352864624205b9f224152826a0e2f36418b7d1d5b917680896458&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:39:30 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:39:30 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[生成理解统一模型解读 (一)｜Transfusion：只用一个模型搞定图像生成和理解任务！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoTWfjBcg9NK6JMMXPOOL3uX4lJKVY3U3g6BTLmI1WUutHnIicsY7icquj6bNWamOAIuv5ibMbHbKskQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽编辑丨极市平台极市导读 本文介绍了一种名为 Transfusion 的多模态模型，它通过结合语言建模（文本）和扩散模型（图像）的训练目标，实现了在单一模型中无缝生成离散文本和连续图像。研</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247656134&amp;idx=4&amp;sn=ed5bc7473f08a1560d4a464c63f7f217&amp;chksm=cefe5723936356b73e87e05710f21bed9c2d9a682e5075b751c37f28eca9de6ffaeb0ea06a08&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 04:39:30 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[被导师放养，后果可能很严重。。。]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbNgRA1aTAWGicDPgjKwBEdgNYiaibExBoy9dlnIGibVVgiayHibd92nwbulImXDDWxTKwibEc4JBxK57ib4nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>被导师放养，你以为是没有压力，自由自在。实际上很多人没有自制力，被放养后没有方向，根本设计不出实验方案。甚至临近毕业，连论文都不会写。这就是放养最严重的后果：写不出论文，没法正常毕业。后面找工作/升学</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247655729&amp;idx=1&amp;sn=ede3912e8ef1330fdc7937339f32cbe4&amp;chksm=ce42d8f1851b4973c83cece9b3c9ad9b85ee8dd1eaf3fd25b9b031e8e23b7889f6fee976b8b5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 05:03:19 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[arXiv每日学术速递2025.2.19]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HicsOQIbsWbPmWYWrzFYJymtoC8eseJw5Y0biat8ZJoSp8nQnRX7ibVXYscicfEibOIf9lBfeQwdzfBNSWHn2D7Xnaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>涵盖CS|物理|数学|经济|统计|金融|生物|电气等领域，点击阅读原文访问网站arxivdaily.com！ arXiv每日学术速递2025.2.19 人工智能相关计算机视觉与模式识别(cs.CV) </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247655729&amp;idx=2&amp;sn=46ab4e9cd322894c296410b536a5a1f2&amp;chksm=ce2f4c648a48fc5937636a2dbfc7c2296563def74afa8c18a12d7612e4acf3d50d38a013dd35&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 05:03:19 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[自主进化革命！EvoAgent三驱引擎+闭环世界模型成功率暴涨105%，无效动作锐减6倍碾压SOTA]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oCQzz6x3ibfU1lIA0Iicjf0RMsVoOzGqWpDmcbwp3PgrZCF1iajjblibFVaWBxibGZ67wr9jFMh2FicgxEVJaTtSZs5Q/300?wxtype=jpeg&amp;wxfrom=0"/><p> 导读完成开放式世界中的长期（LH）任务是具身智能体面临的一个重要且困难的问题。现有方法存在两个主要挑战：1. 它们严重依赖于从人类创建的数据或课程中获取的经验，缺乏持续更新多模态经验的能力；2. 当</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247655729&amp;idx=3&amp;sn=bd65f5a9346aa73960a26176064ca943&amp;chksm=ce1ef2b0d0517871e26f4e7cec3996a0ff2b94b9a6123bf9558937d97d9696abdf034aa57da2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 05:03:19 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 04:39:30 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>
