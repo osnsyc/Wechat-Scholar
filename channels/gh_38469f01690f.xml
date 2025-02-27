@@ -1,262 +1,103 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[OpenMMLab]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[OpenMMLab公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_38469f01690f.jpg</url>
-      
-
       <title>gh_38469f01690f</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[基于EDG4LLM，使用InternLM3 API 高效生成微调数据丨玩转书生大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SUoWjBGiaQuJdCFulKGvxvuibZOgze0RjbKAHapdLc6humic1YFjctGy0peKJzc4V0icC7uGcVTViaPIww/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自社区投稿，作者书生大模型实战营第4期助教 Alannikos。当前，大模型的微调数据制作过程繁琐复杂，涉及数据收集、清洗、标注等多个环节，尤其是人工标注不仅成本高昂，而且效率较低，难以满足大规</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529910&amp;idx=1&amp;sn=e4daac59ba5b6907ce60ac4421d1ffa5&amp;chksm=c39d29d301361f0784de93ff0dd0c887f93d79b414a14ba8c92c308eb372b83ca075e6b172ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 12:09:04 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[强化学习范式OREAL：超越蒸馏，推动轻中量级模型突破推理“三重门”困局]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SXAr0uDTC5sRiciaMoLVTBC0O1CQ2DInlArCiaUiayuBM7sfuIbXs9g96RsoUubvcCyD62oCMc4iaBnbbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，上海人工智能实验室（上海AI实验室）发布基于结果奖励的强化学习新范式OREAL，无需蒸馏超大参数规模模型，实现轻中量级（7B/32B）模型推理能力再提升。在数学推理方面，长期以来，大模型面临稀疏</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529861&amp;idx=1&amp;sn=12be8bdf7b6b1933b7d72e32caaa6354&amp;chksm=c3f4b0bc266b8b0ab1cb4b87a0f30a23abdacc1a34b6e7a1f42215254e500a9fecaec55e0b9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 18 Feb 2025 12:19:50 +0000</pubdate>
+      <pubDate>Tue, 18 Feb 2025 12:19:50 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[书生InternVideo2.5开源，万帧长视频准确“大海捞针”，精细感知真实时空关系]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oDpticHyXWJFymiaK6HZqhWku4RzAXdjZOCZuZ1NyA68DMICdxxBGSAOfqibia326nutz2N4VpVCYP13CMm6QkwSQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，上海人工智能实验室（上海AI实验室）联合南京大学、中科院深圳先进技术研究院共同开源视频多模态大模型书生InternVideo2.5。在视频理解领域，全新升级的InternVideo2.5取得时间</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529848&amp;idx=1&amp;sn=11e12e174fd6311a28141d6dbfd9f3de&amp;chksm=c3486b597a54a96983043d11dd5fea1f8ace010aa18d2c40da37b07ca3d5cc5561ad7b8d219c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Feb 2025 12:31:17 +0000</pubdate>
-      
-
+      <pubDate>Tue, 11 Feb 2025 12:31:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[新春快乐！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SUhsibHCpvL8FA17iatCuOLiaQiaMIx9pyHiaeqj2aICbWJfgUt0ibqoNuibuH7oAY2tB6yD0ficTXeKibrtyg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529844&amp;idx=1&amp;sn=0c327dac2768bd7202322b9fc01fef8a&amp;chksm=c3fdb9ce88106b165f1d880f7a96a0ee82207055bb83ca52a82c3fef20e2fa0817350d01bb3d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 28 Jan 2025 04:29:34 +0000</pubdate>
-      
-
+      <pubDate>Tue, 28 Jan 2025 04:29:34 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[春节继续搞学习！书生大模型实战营带你 “卷” 出AI硬实力（附定制红包封面免费领）]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SUNTne4ibY0yQeeSTTzFkFhapnTvicib4p2ibRHBea0YV4oRbAWicoZaEdiaNG0iaNKMknLm7OFlvBxxsprw/640?wxtype=jpeg&amp;wxfrom=0"/><p>春节假期即将来临，为响应社区同学的强烈要求，即日起至 2 月 16 日增设第四期书生大模型实战营“春节卷王专场”。在这里你将：学习大模型微调、部署、评测、全链路，玩转 RAG、多模态和智能体应用深度参</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529831&amp;idx=1&amp;sn=f30b98de89bd13b5fb58b48d8121cbc6&amp;chksm=c3f801ed0976a2b8c93bd2d288f1109755aeade829e79ba7735a011fdd0f3e409d97678e1075&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 26 Jan 2025 09:19:53 +0000</pubdate>
-      
-
+      <pubDate>Sun, 26 Jan 2025 09:19:53 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[上海AI实验室构建具身智能“虚实贯通”技术体系，数字伙伴DigitalBuddy助力降本增效]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oDpticHyXWJF6vuJ7DPjYkec2LibYOKPQcY6ibeqNAbegdapKWbrD9CA3ViaG7NoOzELwZicvHSGdYhlp6M4JGpBhibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>以通专融合的方式实现通用人工智能正日益成为业内共识，其中重要的一层工作是通过具身智能实现AI从数字空间走向物理空间，并在交互中学习、进化。上海人工智能实验室（上海AI实验室）通过构建“虚实贯通”技术体</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529819&amp;idx=1&amp;sn=5ca1aa85c98dcf65dac43320bc98160a&amp;chksm=c348eaf512661e06b14d50932620274375897f1df87a63bb71bde3ff34765699f5d1bd551748&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 25 Jan 2025 08:32:14 +0000</pubdate>
-      
-
+      <pubDate>Sat, 25 Jan 2025 08:32:14 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[新一代书生·浦语大模型(InternLM3)沐曦训推实践]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SVHFmwbVDL2tcoEJoBPeAJgUbZCFMzCrujcvicfdZPy26XQcS9ZGYx9oI9px9SjRu9PDVZyYaricdhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>1月15日，由上海人工智能实验室（上海AI实验室）推出的书生·浦语3.0（InternLM3）正式开源，通过精炼数据框架，大幅提升了数据效率，并实现思维密度的跃升。仅使用4T训练数据的InternLM</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529817&amp;idx=1&amp;sn=073ba7492fbd009a99c5f563ffead428&amp;chksm=c3fd7ddeded876c522a6140c2d68254bcb4a86d431af0e2b6c7a6ebcd7a49ed17d4583d2e188&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 24 Jan 2025 11:03:21 +0000</pubdate>
-      
-
+      <pubDate>Fri, 24 Jan 2025 11:03:21 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[基于PowerServe，在高通NPU上高效部署InternLM3丨玩转书生大模型]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SXjkqO3x9DXcibNUfGhW1AicwN7CaosW87XgsRua7YywhcEAk2hKF4xCuLJ00jHHZFyjHr20rBR9qFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自社区投稿，作者：上海交大 IPADS 实验室 PowerServe1月15日，由上海人工智能实验室推出的书生·浦语3.0（InternLM3）正式开源，通过精炼数据框架，大幅提升了数据效率，并</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529804&amp;idx=1&amp;sn=ad3ce26cf7d1e18dad331fd31cd66f7d&amp;chksm=c3dbe8aaee698446ffb4af81ac1be04ef1f47c59296319a79736eb927a869b6432c090a5053a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 23 Jan 2025 09:54:52 +0000</pubdate>
-      
-
+      <pubDate>Thu, 23 Jan 2025 09:54:52 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[新一代书生·浦语大模型(InternLM3)寒武纪训推实践]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SVMAqVcDctG3EWS4iaE0jOS5VvBRp7uwqTa5dicloic02dobdeU5Q4tgJnWrsQiarjKGMUIicrs2R84PGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>1月15日，由上海人工智能实验室（上海AI实验室）推出的书生·浦语3.0（InternLM3）正式开源，通过精炼数据框架，大幅提升了数据效率，并实现思维密度的跃升。仅使用4T训练数据的InternLM</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529800&amp;idx=1&amp;sn=8fa40594e26dfaef6d20c3e963bde506&amp;chksm=c3f1ab5e25d9e038d1e848e4976f7a7380d442a812fbb2d51c49ff305710edc41dfb2663e380&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 Jan 2025 12:56:52 +0000</pubdate>
-      
-
+      <pubDate>Wed, 22 Jan 2025 12:56:52 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[打造科学研究“革命的工具”，『AI4S攀登者行动计划』开放申请]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SVMAqVcDctG3EWS4iaE0jOS515AnQLIk70kicLooX2F344iaPicwK2IK4iaib7P4QAzW6exWCxF9cAawsrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>驱动科学研究的人工智能（AI for Science，以下简称AI4S）正逐渐改变科学研究的模式，然而学科之间的“烟囱式”发展模式，既容易造成资源分散和重复投入，也在一定程度上制约颠覆性成果涌现。同时</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529800&amp;idx=2&amp;sn=58e2cb840a6682bd1f3b789903ec02a8&amp;chksm=c34a501bf1cd58794c26cb5e2b1d4aa3d0b8bbc33f760a8f62bc501c52589b6871ed39fbe112&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 22 Jan 2025 12:56:52 +0000</pubdate>
-      
-
+      <pubDate>Wed, 22 Jan 2025 12:56:52 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[“迷你版”书生·万象大模型开源，5%参数实现九成性能，“小而美”易迁移]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SW2YHrxq06nWRsRfQWicqGicIwiam7J2KgHbiaN2P9wprNdA3KVS5GBaZu5n36ZJwxs0u7oXXHgCjgJQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>书生·万象（InternVL）多模态大模型迎来“迷你版”。近日，上海人工智能实验室（上海AI实验室）与清华大学等联合团队推出Mini-InternVL多模态大模型，包括1B、2B和4B三个参数版本，满</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529789&amp;idx=1&amp;sn=aad27f795db4083474c189cadda53122&amp;chksm=c33cf0eedae008c55031ef5515e076a44c81b854f18ad5f0219abf50a2d8491a41abed301f4d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 16 Jan 2025 14:08:28 +0000</pubdate>
-      
-
+      <pubDate>Thu, 16 Jan 2025 14:08:28 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[书生·浦语3.0开源，拯救“少数派”，4T数据训出高性能模型]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SV5MReCicOTcgQ7aX1AulRyTBqKbWPe7TUJnn9zicmIPyAlibpkkKCN4KmBa1ibtGFvcckibU1u3NW875Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>“尺度定律”之下，大模型除了要突破算力瓶颈，亦面临高质量数据即将“见底”难题。如何通过“通专融合”技术路径实现通用人工智能，正日益成为业内共识。1月15日，上海人工智能实验室对书生大模型进行重要版本升</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529785&amp;idx=1&amp;sn=8c88caada7438fc8db5b749b6d1b799f&amp;chksm=c33fb6b4d6b272f8bca4f1a9aa09b243293289e1a4f5267ec971308a246382c684d1787f6abd&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 15 Jan 2025 10:59:16 +0000</pubdate>
-      
-
+      <pubDate>Wed, 15 Jan 2025 10:59:16 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[NeurIPS 2024 评测基准论文专场直播 | AI Spot 学术分享会]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SUOrHIca36znKgfVLEoJHvITQ22P2VIOW6YYEfUhrrNoG7uVe2ibdoJdfhm91wSFZ3Ilhmv7GUlicGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>评测集社区 CompassHub 作为司南 OpenCompass 大模型评测体系的重要组成部分，旨在打造创新性的基准测试资源专区，致力于简化并加快研究人员和行业人士搜索和使用评测集的过程。评测集社区</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529781&amp;idx=1&amp;sn=855bd61f55a2d0bcd3b3e0ee9f2ae309&amp;chksm=c38ddf3d2e4f112347cbe53a9e91c293cd762518f6ee187fdfb56763ed42ca7750fa094fe16c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 14 Jan 2025 14:28:14 +0000</pubdate>
-      
-
+      <pubDate>Tue, 14 Jan 2025 14:28:14 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[人人都能看懂的RL-PPO理论知识]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SVqCJz6A925Iic7DlqSSq8njSM4gosD43AOZ6KzLQlbelSibiaKQZZCsVB9ibfh2ufENPtoUS3Beiblung/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转发自大猿搬砖简记，作者详细解读了RL-PPO理论知识。以下为全文内容。在去年的这个时候，我以deepspeed-chat的代码为例，解读了rlhf运作的流程。当时写这篇文章的目的，主要是想让读者</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529762&amp;idx=1&amp;sn=e702f9c94c8aed1b0e42942d79a192bb&amp;chksm=c31383fa5914a820837220bc82d7f1e783f5dd6a3aab918ff863978561db3a69ef809903c457&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 10 Jan 2025 12:05:06 +0000</pubdate>
-      
-
+      <pubDate>Fri, 10 Jan 2025 12:05:06 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[一文看懂：四种多Agent范式哪种最好？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Rv2aJ2mn6SUqKhwjuAkPwN3X6qK4QaqqSib4dgpgCSQYT9n8Ae4D5WUWLibr4kkpDgA9WbWNTrZtERykVtQT3LWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转发自：大语言模型论文追踪，主要是对论文《Multi-Agent Large Language Models for Conversational Task-Solving》的解读。论文简介：在单</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MDg1MjIwNg==&amp;mid=2247529755&amp;idx=1&amp;sn=4ec871d7e0ab34ba146185600e46c255&amp;chksm=c33a8be717ffb38c5824f412e24df5cc399ac1a80de188e023e54f6d193a974cdd8546499201&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 09 Jan 2025 10:37:37 +0000</pubdate>
-      
-
+      <pubDate>Thu, 09 Jan 2025 10:37:37 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>

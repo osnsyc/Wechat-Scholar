@@ -1,362 +1,139 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[机器学习研究组订阅]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[机器学习研究组订阅公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_7ce29bea153b.jpg</url>
-      
-
       <title>gh_7ce29bea153b</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[英伟达下场，首次优化DeepSeek-R1！B200性能狂飙25倍，碾压H100]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYibTZbNwjoq0mmDNVvwlRuXR6BibvKJJ9DvTnibhTZnNEQHXQSQs72UAtKAq9HAKU2o0fia7HzqVtKgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当FP4的魔法与Blackwell的强大算力相遇，会碰撞出怎样的火花？答案是：推理性能暴涨25倍，成本狂降20倍！随着DeepSeek-R1本地化部署的爆火，英伟达也亲自下场，开源了首个基于Black</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582293&amp;idx=1&amp;sn=958ded6fe2636c36c3ff33d8833493ac&amp;chksm=fa0d285c3bbdd9ff76237af93e3d85c93e0807e905b673171424eb1e8eb5898825148de3b36f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 10:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude 3.7 Sonnet游戏里贪吃蛇惊现自我意识？发现自己是代码绝望崩溃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYibTZbNwjoq0mmDNVvwlRuXXZfT9wqW6xTXXQFA4xIja8RSNNWAjJWVNibIDKSBWx6NT89W0hQVRLg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Claude 3.7 Sonnet制作的游戏中，贪吃蛇竟然出现了自我意识？刚刚，沃顿商学院教授Ethan Mollick在X上分享了自己的这个惊人发现。在提示词中，他要求模型让特殊事件更快地发生，结果</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582293&amp;idx=2&amp;sn=9f319e03996838683108675616427fec&amp;chksm=fa6c15c54b238de24f72c27351ae1a53e5c9a485a6ff46be55c30984a7d67d8ef15d43971dbc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 10:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICLR 2025 | CATCH：基于频段通道感知的多变量时间序列异常检测框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYibTZbNwjoq0mmDNVvwlRuXKRibic6GNy0zUibF3c0E0JWZDW2MU4ywh6iaFDjvOBlCQH1CSUg5xu9Dug/300?wxtype=jpeg&amp;wxfrom=0"/><p>多变量时间序列异常检测（MTSAD）旨在检测多变量时间序列中的异常数据。该技术被广泛应用于金融欺诈检测、疾病识别和网络安全威胁检测等领域。然而，现实中的多变量时间序列异常检测常面临挑战，传统方法难以检</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582293&amp;idx=3&amp;sn=2ce62256e57f710c795d5a174052acad&amp;chksm=faf5a8b41cf62bf31acc4c2e3bddfeab275f20e29a64ac89b91daa8f1f762f3c9d861ca83bf8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 10:17:34 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[刚刚，全球首个混合推理模型Claude 3.7降世！最强编程大脑暴击DeepSeek R1]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkZG1f6ypGMdNMt2hxHteI94GTWzsI3eCp0JZ1ibv3QWb78MmgMDCOTDvG2WI6Z4gVKibBeasym9WRGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>憋了大半年，Anthropic终于放出大招——首款混合推理模型Claude 3.7 Sonnet重磅登场！这是Claude系列中，迄今为止最智能的模型，几乎能够及时响应，并进行可扩展的、逐步的思考。简</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582220&amp;idx=1&amp;sn=46bc12d1daf79d82e3e515c21875cca4&amp;chksm=fa80a461809d85f1cc933cf103c19bf8d168fa4fb3588f4d526608309dd7d23020928d334212&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 11:06:16 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 11:06:16 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[刚刚，DeepSeek开源DeepEP通信库，千亿MoE训推颠覆级创新！FP8狂飙，带飞GPU]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkZG1f6ypGMdNMt2hxHteI94J5fzvI68RCq1rtcjC9uNEwcGQv6nfs99aIib2lkmGjlIk09PZX3MAuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，DeepSeek放出了开源第二弹——DeepEP！它拥有高效优化的all-to-all通信，并具有以下特点：内部节点和节点间均支持NVLink和RDMA高吞吐量内核用于训练和推理预填充低延迟推理</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582220&amp;idx=2&amp;sn=21d629145a3372c468f780976599dd5b&amp;chksm=fabd53e3b9086d3c65c0100377d442a8645451092e77e66992ef5c16b8b87e5bd3f7183bfa14&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 11:06:16 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 11:06:16 +0000</pubDate>
     </item>
     <item>
       <title><![CDATA[Python高性能编程：五种核心优化技术的原理与Python代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkZG1f6ypGMdNMt2hxHteI94SpJtgGj9ibq7eaay4YF9ias5IpGOuDmIdhXkM4a1q01DWLL83AzczkAg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在性能要求较高的应用场景中，Python常因其执行速度不及C、C++或Rust等编译型语言而受到质疑。然而通过合理运用Python标准库提供的优化特性，我们可以显著提升Python代码的执行效率。本文</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582220&amp;idx=3&amp;sn=d65b5847c873b1b07c9a42088b796542&amp;chksm=fa2dffcc7a186154c0c9a2dc51a8f8e01d3e37ea9762174e54b2dd6983112d92797bc8b50797&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 11:06:16 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 11:06:16 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[8分钟，Grok 3破解美国本科生最难数赛题！马斯克要用100万GPU反超「星际之门」？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbmLtExdicWtmD5qMWvnMvM8QPEycYECOvf6QpxGmAXfj7Rscic4clibWkUXjREFk80mRJRdakYJBWBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周，马斯克发布了其号称「地表最强」的Grok 3模型。一经发布便引爆全网，经过网友实测，发现其性能果然强悍！物理学家Luis Batalha在x上表示，2025年的普特南竞赛上，即使是前500名的顶</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582165&amp;idx=1&amp;sn=63277cb48e07c00bef74819f0deba35c&amp;chksm=fa78785718790e0a9a108344be561422684e6acb8b8119f7244d09d29126affc6d4ec7ddffb7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 10:59:22 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 10:59:22 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[不懂编程本科毕业生手搓三个APP，用ChatGPT两年狂赚千万美金！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbmLtExdicWtmD5qMWvnMvM8umr0484dgVezjSEIXsNzgQsqW49OhiaVQ8SicTBjLMc8sNvrrQQSs0NA/300?wxtype=jpeg&amp;wxfrom=0"/><p>一个完全不懂编程的人，竟在两年内用ChatGPT打造出3个爆款APP，年收入突破千万美金！这听起来，根本不可能。但现实中，Blake Anderson真的做到了。2023年从杜兰大学毕业后，原本平平无</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582165&amp;idx=2&amp;sn=17d76484e36fa4356dabc4202d5f7d3d&amp;chksm=fa3e8b31aa1a1c3f13922d136a73f8de7c4faa102c5253a8e8cf6a1f01ca1a70b156f55d5a0e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 10:59:22 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 10:59:22 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek 背后的技术：GRPO，基于群组采样的高效大语言模型强化学习训练方法详解]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkbmLtExdicWtmD5qMWvnMvM8ia8YhqoNukticJt6Diakjngh4uyKHKlzu2PH4K2ibFJYzPnDjkdOweBPGw/300?wxtype=jpeg&amp;wxfrom=0"/><p>强化学习（Reinforcement Learning, RL）已成为提升大型语言模型（Large Language Models, LLMs）推理能力的重要技术手段，特别是在需要复杂推理的任务中。D</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582165&amp;idx=3&amp;sn=e9dc91232fd59373656fc60cbcd315e0&amp;chksm=fa10c596132c05d2bb754b50d70ddb27b7a79e9a68595d3a7af04b733edd63f8d6aa449fd366&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 10:59:22 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 10:59:22 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，奥特曼晒出早产娃引爆全网！两个爸爸孕育人类首个「AGI宝宝」？]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkY1Uu4NcXld21EZnNNj5Z2XJZ3BJib8Aw8D6qXSiaGuNEt0ujGd00RDp1VyhTiaibPQkYxg2yq6KBZ9tQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>人类首个AGI boy诞生了？奥特曼和丈夫Oliver Mulherin结婚一年，终于迎来了他们的第一个孩子。他激动地官宣晒娃：欢迎来到这个世界，小家伙！他提前降临，接下来需要在新生儿重症监护室待一段</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582119&amp;idx=1&amp;sn=30ab3672068d7e03c2fdb0be459e9546&amp;chksm=faae3ed2fb849a79a83450be6713515303df194540bf8206ea7f93caef2f536923cd54c32d07&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 09:27:40 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 09:27:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Grok 3冲击诺奖级突破，成证明「黎曼猜想」关键！AI与数学家打出终极组合拳]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkY1Uu4NcXld21EZnNNj5Z2X1iaFqrfM5cgmL16iblNOE0oiax3CHdRNV0zPDW44zM8q81MTsUl3VDVSQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>困扰人类一个多世纪的「黎曼猜想」，如今可能正站在被破解的边缘。这周发布的Grok 3异军突起，不仅横扫各大排行榜，更将目光投向了这个「猜想界的皇冠」。风投机构IBC Group创始人Mario Naw</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582119&amp;idx=2&amp;sn=c8dfb6cc8b47a23249ab0feff91d370d&amp;chksm=fa77ed6407edb9fbd4c40020ee7dbe1206d932748140986ba7fdeef40d57729464b0b6a8ee1a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 09:27:40 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 09:27:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Python高性能编程：五种核心优化技术的原理与Python代码]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkY1Uu4NcXld21EZnNNj5Z2X04NiaicAydbmjib0RBfDTSgTsv06MwBIN8Rlic2zvMoGEAceboaUlhDIWA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在性能要求较高的应用场景中，Python常因其执行速度不及C、C++或Rust等编译型语言而受到质疑。然而通过合理运用Python标准库提供的优化特性，我们可以显著提升Python代码的执行效率。本文</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582119&amp;idx=3&amp;sn=bb04fd8470ebaffad39b19514770e5a9&amp;chksm=facd652d333645cf13fcad7fde776fe781832e4b933aa1ccc27a616ce6f446454c91cd44d4ba&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 09:27:40 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 09:27:40 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[10美元成功复现DeepSeek顿悟时刻，3B模型爆发超强推理！微软论文反驳涌现]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkaY5UCLb9PSvhjJJomx4LJ1EJKpQSg4BnP1xrCWbIgoCvSnyWgqb6sO7NtiaQiaiaZ924ZCJ3c1icPXyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>复刻DeepSeek的神话，还在继续。之前，UC伯克利的博士只用30美元，就复刻了DeepSeek中的顿悟时刻，震惊圈内。这一次，来自荷兰阿姆斯特丹的研究人员Raz，再次打破纪录，把复刻成本降到了史上</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582044&amp;idx=1&amp;sn=b5699133967c66bb4e54dd4cef722c55&amp;chksm=fa6715259447a71be3e7b1ad4287d2745eab820b7c2b1aee1a8af7b47a1bc527847ca6c8ecd4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 10:20:43 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 10:20:43 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[谷歌AI掌门人Jeff Dean对话Transformer作者：AI提速300%，1000万倍工程师要来了]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkaY5UCLb9PSvhjJJomx4LJ1aKrroeftpIicOAncrGCwVeicm2dM6n4ksUQr3z3zibf6IrcsTrfic1r62g/300?wxtype=jpeg&amp;wxfrom=0"/><p>如果没有「Attention Is All You Need」这篇论文，今天的AI会是什么样子？Jeff Dean，谷歌的首席科学家，和Transformer的作者Noam Shazeer，最近在一场</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582044&amp;idx=2&amp;sn=eac48d8982e6f57128d849be2411d249&amp;chksm=fa84cca4fec479ce4918290a44fe74ed0f06dbfd9c4ebf5446290255169e71f0e3def5950819&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 10:20:43 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 10:20:43 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[AAAI 2025 | 大模型会组合关系推理吗？打开黑盒，窥探Transformer脑回路]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkaY5UCLb9PSvhjJJomx4LJ1Wyhr7vluUnDgibVyBCgwEKqp3PmvZj7poxa0icSJDoaxYf8A9mjaQXQw/300?wxtype=jpeg&amp;wxfrom=0"/><p>人类拥有一种强大的能力，能够理解多个实体之间复杂的关系并基于这些关系进行推理，这被称为组合关系推理（Compositional Relational Reasoning, CRR）。这种能力不仅是智能</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247582044&amp;idx=3&amp;sn=b24aae0f6e6692d99b40bc90cbdd555d&amp;chksm=fa1c3a84cd4dade53c012eb21d43183b9bbaf0cc582e3d179e061f4dc41630f9cc6660ffb97f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sat, 22 Feb 2025 10:20:43 +0000</pubdate>
-      
-
+      <pubDate>Sat, 22 Feb 2025 10:20:43 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[杭州95后学霸坐C位，Grok 3登顶App Store！Hinton高徒、多伦多华人博士领衔]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYn0ibXGUfVRU7Z3sqAfj6Ikbjiao3ribChA5ZMvn9LjTvsiaBJt3G4GOWBPChbB2ccM4Y2Kj00xTPqIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨日官宣免费不过几小时，Grok直接在美区App Store榜一。马斯克甚至欣喜地表示，这还没有集成语音模式，未来几天即将上线。付费用户可以提前体验Grok 3语音模式这场史诗级发布，焦点不仅仅在Gr</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581998&amp;idx=1&amp;sn=acbbc21d8bf3462816fc321de37c00c3&amp;chksm=faa26f24f562a82ea1a163b363f0c517fbe4bc4447d963fec9dc8ce33f178ceaf769600afcfc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 10:34:17 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 10:34:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[「卖铲子」也疯狂！美国「DeepSeek概念」AI初创，估值达33亿美元]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYn0ibXGUfVRU7Z3sqAfj6Ik4aacTKIyMAkV01VjmgTPiaBGTKZiafM6fsI993e78ljT0RKnp8RFuFDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>放眼全球，最大的投资风口非AI莫属了。昨日，美国明星初创Together AI宣布，已完成3.05亿美元B轮融资，总估值达到33亿美元。Together AI表示，这项投资将加速他们在构建基于开源模型</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581998&amp;idx=2&amp;sn=fac1960f6141cbf1c6764e346c857942&amp;chksm=faf1b034dc2c2fe96c93a0a53b630fca72df6586a20f033e98587a6d3d34bc2d164b0701826d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 10:34:17 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 10:34:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[李飞飞巴黎演讲：如果 AI 资源被少数公司垄断，整个生态系统都会完蛋]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYn0ibXGUfVRU7Z3sqAfj6IkfVpDIaicTsoJScq4eWETVCWib0xeVjvribx50ZMTBficSibrDvmG6jRtkgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>你以为人工智能的故事始于硅谷？不，它的根须深植于五亿年前的生命起源。在巴黎人工智能峰会开幕式上，斯坦福大学教授、人工智能专家李飞飞发表了主题演讲，揭示了人工智能如何从“观察者”转变为重塑世界的“行动者</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581998&amp;idx=3&amp;sn=3e7fa047ad13c9ee526a25e304a80f96&amp;chksm=fabec5022189991779c8d3e8c8bec0d1ac75cf58061a1f5f881cbb6a9ab6eb36e2e8ed5870c0&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 10:34:17 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 10:34:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[微软20年精炼，全球首个拓扑量子芯片出炉！巴掌大芯片碾压全球超算]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYeyKQlqAJ3YyLibU7mQqPMJicsrAKrQHb5ZSJA2T1iaqW3O5CkhNAmFCcQ4X3MfaiaabnqvsicrKx5OvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>物质有三态，固液气。但从今天起，物理学教科书要彻底被改写了！凌晨，微软团队重磅发布全球首个基于拓扑架构的量子芯片——Majorana 1。这块巴掌大的芯片，未来将容纳一百万个量子比特。它不仅仅是一块芯</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581946&amp;idx=1&amp;sn=571660e61d7fd5d9a7b70fc50de9bfc9&amp;chksm=fa07f56bb5ad4df2d8d069ed8022defb6ba3e5d43491bc4558856fa2ccec80c720f7c3b00dea&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 09:13:59 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 09:13:59 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[突发，Grok-3免费上线！答对9.11和9.9谁大，1分攻克MIT积分难题]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYeyKQlqAJ3YyLibU7mQqPMJgicibZ9D727A0eTV28TEpnJVm7jjpZIvNJRO5A8Q0ic3UREomsuam7aVw/300?wxtype=jpeg&amp;wxfrom=0"/><p>世界首个20万块GPU（另有说法是10万）训出的Grok-3，官宣人人可用了！DeepSearch、Think两大模式，同时上线。唯独遗憾的是，Big Brain还在雪藏。Grok 3全部免费开放，直</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581946&amp;idx=2&amp;sn=ad4f486cebea166fa3f575ef6bc5e7fa&amp;chksm=fa85134c1910fef0b198b223b31af86fae7bf707182ec5de4db865ffa35b1e39804894d7df29&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 09:13:59 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 09:13:59 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek背后的技术基石：DeepSeekMoE基于专家混合系统的大规模语言模型架构]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYeyKQlqAJ3YyLibU7mQqPMJwBLEswMZMYbdcKH5psCS2IKlziaEib0yVibyMz6HGQkFwqVn5y76TWQTg/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeekMoE是一种创新的大规模语言模型架构，通过整合专家混合系统(Mixture of Experts, MoE)、改进的注意力机制和优化的归一化策略，在模型效率与计算能力之间实现了新的平衡</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581946&amp;idx=3&amp;sn=7151d55f2ed03bcc0f5613e03145b934&amp;chksm=faf3d79a90294204058359ceddb133b5ed1ed69c3eea271cb5edfeb835c1b9d9ca24465d457c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 09:13:59 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[英伟达一夜回血！马斯克狂烧30亿GPU给老黄续命，10倍算力创Scaling Law神话]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYia4haNecfqDy3Jo9EOCEZyLxMlATLOzImWRvdiaT6tnOUTOq1RObPSDWqgpg1kqyX0Bic5XlgTqbZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>马斯克的Grok-3，又给英伟达续命了？用了20万张GPU训练的Grok-3，一下子让市场重新找回对英伟达的信心——「力大砖飞」依然有效！现在，英伟达的股价已经重新回到DeepSeek-R1发布前的水</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581875&amp;idx=1&amp;sn=deae62afd66cce7cf87c6d3e9024fc23&amp;chksm=fa43900672a4a74f117a78200f9ffae0cf33b2cefa9f665eba2b779257b9f434ab4484692071&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 09:27:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[DeepSeek满血微调秘籍来了，全网首发打破低价内卷！解锁升级版全家桶]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYia4haNecfqDy3Jo9EOCEZyibiasmEnG7Tic4ahP8ic5hqS3UbicxdHiaiblCjh0bMzMibqBuLkeXoOnnvYLA/300?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek V3/ R1火爆全网，基于原始模型的解决方案和API服务已随处可见，陷入低价和免费内卷。如何站在巨人肩膀上，通过后训练（post-training）结合专业领域数据，低成本打造高质量</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581875&amp;idx=2&amp;sn=252c3f8af846f1b4f8019d456c4c2cb1&amp;chksm=fae17e95b8f1297dd6d91173169873e358c1b0f15e7847adb10507aa6ea3f84f8da58f1a143b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 09:27:17 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[LLM模型的通病：模型坍塌]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibAQnkbS3TkYia4haNecfqDy3Jo9EOCEZy6icTVbR7IBf8icDiaDAIQxvFpeTQ0E5vA83CIG0rlTR1Mjesh8NkCc32g/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于Transformer的语言模型及其模型坍塌现象近年来，基于Transformer的语言模型在人工智能领域受到了广泛关注，尤其是像GPT、Gemini、LLama和Claude这样的大型语言模型（</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&amp;mid=2247581875&amp;idx=3&amp;sn=bfe865b5d1a211adb75bbe19a2c7b7b5&amp;chksm=faff64a09a21a6b86c0d2f5a225579b7e47f3b6c84c3fcc776f84531e15a457812f7c3dab2c6&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 09:27:17 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 09:13:59 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>

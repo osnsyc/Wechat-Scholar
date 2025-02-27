@@ -1,194 +1,79 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[GiantPandaCV]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[GiantPandaCV公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_f24964232d76.jpg</url>
-      
-
       <title>gh_f24964232d76</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[《超大规模操作手册：在 GPU 集群上训练 》Part4(深入GPU编程)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3ugG8eFkX9KuR9XddZia0wxEZGV1oAl4lUMeBbv9IyerO1AxUicaGqqHwaOZib26M8csg8mqFYduib2GA/640?wxtype=jpeg&amp;wxfrom=0"/><p>翻译自：https://huggingface.co/spaces/nanotron/ultrascale-playbook作者：nanotron校正：pprpGPU 深度挖掘——融合、线程化、混合截</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526525&amp;idx=1&amp;sn=829cdcbf5cc4a90a12b77b4a23129039&amp;chksm=9e62811f2ef8944e704baa4a6bbff60f2d4d74bbd3e6cd919cd72d56152b8a37ffb80bbb1387&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[【ml-engineering 翻译系列】NV GPU Debug实用指南（如何监控真实GPU利用率，正确判断是否重启GPU等）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u4B3y66jNXJHDQ4v7LXDeuQoJrNHib8qT3kauUCMsPb6CyxMXvVUHKp6Bhq4kGSicnd32yCq1y7SDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 序本篇文档的来源：https://github.com/stas00/ml-engineering 。这篇文档是NVIDIA GPU故障排查的实用指南，主要包含以下干货内容：Xid错误的识别</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526524&amp;idx=1&amp;sn=fd01c9afee866ef82269fa9e3914ab0b&amp;chksm=9ed18694004663c70a32929226786dff08ce32d88f7597fbac423ce3a4cff075e1cb00ebfe7b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 26 Feb 2025 00:00:00 +0000</pubdate>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[【ml-engineering 翻译系列】NV GPU Debug实用指南（如何监控真实GPU利用率，正确判断是否重启GPU等）]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u4B3y66jNXJHDQ4v7LXDeuQoJrNHib8qT3kauUCMsPb6CyxMXvVUHKp6Bhq4kGSicnd32yCq1y7SDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 序本篇文档的来源：https://github.com/stas00/ml-engineering 。这篇文档是NVIDIA GPU故障排查的实用指南，主要包含以下干货内容：Xid错误的识别</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526522&amp;idx=1&amp;sn=3a1ef629b105db21ac10661efd532bb3&amp;chksm=9e0a0c3224bd6a97a28e5c512a432c2b505a03931bb16bbc58023dff0698d187c32143e055a9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 25 Feb 2025 15:10:03 +0000</pubdate>
-      
-
+      <pubDate>Tue, 25 Feb 2025 15:10:03 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[《超大规模操作手册：在 GPU 集群上训练 》Part3(寻找最佳的GPU优化配置)]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3ugG8eFkX9KuR9XddZia0wxECKCzWt2btmAhvgQicMp0Iz8X3hNqg72ibs58rVkrkAk4ZFhnQGicBTGgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>翻译自：https://huggingface.co/spaces/nanotron/ultrascale-playbook作者：nanotron校正：pprp寻找最佳训练配置目前已经讨论了所有实际用</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526521&amp;idx=1&amp;sn=2c2ace4521bfd32b0f8380ae87a8c041&amp;chksm=9e64fa31f2651adbfcc6b8f44fed995f4b7262196b09332c0f9e0657b6ae1d606cb20843ee40&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 16:00:00 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[《超大规模操作手册：在 GPU 集群上训练 》Part2(SP,CP,PP,EP,5D)]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u4B3y66jNXJHDQ4v7LXDeuk9jXSXiaiaAQ3PrVRYomtOk3KWiaibFXzy3pbiaRIibGhTtZSS33ficRr7VKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>翻译自：https://huggingface.co/spaces/nanotron/ultrascale-playbook作者：nanotron校正：pprpSequence Parallel 序列</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526449&amp;idx=1&amp;sn=7f84b747970838877e477c2233314faa&amp;chksm=9ed4a62c315fb7ba43b7002f21b828c38a246afbcc53448cc5a55f453099e9d64e64ff4a2be5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 23 Feb 2025 16:00:00 +0000</pubdate>
-      
-
+      <pubDate>Sun, 23 Feb 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[《超大规模操作手册：在 GPU 集群上训练 》Part1(基础概念,DP,TP)]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3t138O8kr3K5gMPfHM3LM6gvrdpKAhntMtyOoPfo9reVcjmuEMR0azmmXmgic0Wonh7dzTrMzh9Txg/640?wxtype=jpeg&amp;wxfrom=0"/><p>翻译自：https://huggingface.co/spaces/nanotron/ultrascale-playbook作者：nanotron校正：pprp我们在最多 512 个 GPU 上进行了</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526409&amp;idx=1&amp;sn=82c48cf0d2901aed9d657832f4188b97&amp;chksm=9e22de001c4d4962fa1e913c73b0f30fb3612147c9f576c99b722a9253fc9e0895c9d82c2947&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 21 Feb 2025 16:00:00 +0000</pubdate>
-      
-
+      <pubDate>Fri, 21 Feb 2025 16:00:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Windsurf（可平替 Cursor） 的使用体验和技巧]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tHpnEGTfJvL0D9w0WttsdRqpCibpfsF6Xd3iaXPuw36mReBhcQMic4tLxX4HJSdXDWlubicBXjxAUOaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言WindSurf 账户类似于github记录commit的方式记录你的auto complete等Cursor似乎最近把国内卡支付的Pro账户ban掉了很多，我也中招了。然后最近大概使用了一周Wi</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526271&amp;idx=1&amp;sn=a1cd9866cc193cdc9b1592ffb4cc8d71&amp;chksm=9e2b90d9328fa156ceb1ceb4fe31432880ef397eac30ab79e75bd52240f25f07a5a51b57b28c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Feb 2025 06:36:23 +0000</pubdate>
-      
-
+      <pubDate>Tue, 18 Feb 2025 06:36:23 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[SGLang DP MLA 特性解读]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tFczgnXcB2OPQrKlHibkWVedGI6yeZJj2hgHkG9GRoKUZl3W3vAP7FlpLp2h1CU9xyyU87YlVm1zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda 。这里简要解析了一下SGLang v0.4版本中针对DeepSee</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526234&amp;idx=1&amp;sn=4250381b51b858ade8ffa24e5160f6c7&amp;chksm=9e0a2fcc2f6ea13a736c4c5d201732bbc0aa1a98d60a8f0f1348576d87916a9799d4731aa5d9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 13 Feb 2025 14:07:01 +0000</pubdate>
-      
-
+      <pubDate>Thu, 13 Feb 2025 14:07:01 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[浅析主流 Alignment 算法与 NeMo-Aligner 框架]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vH4wo3AL9ZicsSwUoheLYlxUHviaACklNGvISj00SCBSqS0fQTvlZMpEoo9XXzazicfRoOydia4vtLfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Chayenne Zhao来源丨https://zhuanlan.zhihu.com/p/5220718268编辑丨GiantPandaCV今年 10 月在费城开 COLM 的时候，我有幸见到了</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526207&amp;idx=1&amp;sn=a45776bea0c3d47bb16b670f1ab8e7fc&amp;chksm=9ea19d6eaf70f7ed49a27466af34bfcae567d6bb07a6b6a09e675126be5f41deebe4ecd2a9ee&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 10 Feb 2025 05:06:13 +0000</pubdate>
-      
-
+      <pubDate>Mon, 10 Feb 2025 05:06:13 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek-V3 FP8量化浅析]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hGDAH51OhaGYvjNBPCCA9ohumPsMDWw3Toico3Nz40qteiajgII6uDVAa6Bwwfote6VA99BBdibzBO8uWj3rItBrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>                     水塔花桥·琉森 摄于2024.4.30DeepSeek-V3 横空出世，训练和推理成本极低，一个重要的原因就是采用了 FP8 进行训练和推理，今天结合最近的实</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526206&amp;idx=1&amp;sn=03063d9495f28ce4fb4b1bc7c3bc4fec&amp;chksm=9e3682b845bb4655f1c4ed8fab2efbaf107abbb1a8bd6b81d96590c059c9f311bdb02cd1b4d9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 06 Feb 2025 07:49:43 +0000</pubdate>
-      
-
+      <pubDate>Thu, 06 Feb 2025 07:49:43 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[MoE之年的总结和MoE 推理优化的一些认识]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3t5vgTPY0Gf1qTCqhxlIh9cvnnyacKbj38KiashIuZWO0KIoXw00pwH4YJVr0FNoTVAc8mRb0R0FcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言祝大家新年快乐! 希望大家天天开心，学业有成，工作顺利。我是在2025农历新年的大年除七，也就是春节假期之前的最后一天写下这篇个人博客。首先我会简单回顾下2024年的学习收获，然后我会聊</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526204&amp;idx=1&amp;sn=b91df9c5dc367e1d9be730e6f6818e17&amp;chksm=9e0c76f019730e34cdabb189aff79e0f54b9126bdddf160dfa04231c52a63ef2800a71ff6f34&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 04 Feb 2025 08:53:52 +0000</pubdate>
-      
-
+      <pubDate>Tue, 04 Feb 2025 08:53:52 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>

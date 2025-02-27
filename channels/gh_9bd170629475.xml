@@ -1,364 +1,67 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[夕小瑶科技说]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[夕小瑶科技说公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_9bd170629475.jpg</url>
-      
-
       <title>gh_9bd170629475</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[300行代码的矩阵乘法把H800榨到冒青烟，一文告诉你DeepGEMM到底牛在哪儿]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qHaz4BTMszXGSnibOSEaAdosR5LTPMkqRcJSYGm8sUZ8DhSOlQBibS4rHPNWibWTF0qobHDACD9WvgRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天是 DeepSeek 开源周第三天。一天天的都要忙炸了，看了一圈也没看到谁把这个事情讲清楚了，要么是一堆技术名词，要么是框框地上一堆牛逼啊起飞啊，我觉得都不好。所以还是决定写一下。DeepGEMM</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604400&amp;idx=1&amp;sn=a112f83fe406d966c2fbf85358b2e76f&amp;chksm=962fb9408191b2ed28d16d5d362f2a039a17b132016e55ef2fee763aafab3ef9b8715b14986b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 15:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[原来在千帆上玩儿DeepSeek这么野，我终于把DeepSeek捏成我想要的样子]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qHaz4BTMszXGSnibOSEaAdosoAz3XqI63BPbhwfC22oLypw9LDSWZhia67jFF0pqjf7N8kcia9tg0VWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近我在研究怎么让 AI 更"懂我"。不是说它不够好，DeepSeek 的能力确实很强。但每次问它问题，总觉得少了点默契。比如我想让它帮我写文案，要反复强调"用轻松的语气"、“别太正式”；让它帮我整理</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604387&amp;idx=1&amp;sn=0bd4bacedc1d977899b911355c42b9d8&amp;chksm=96caedafccb2a94eec0e39d4152ce441df07310f0c3cc18188c6b130bc75cf035d80e06653f1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Feb 2025 11:29:17 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[DeepSeek开源第二天：拉爆MoE训练和推理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFRxZHFYpwgoUp41PBG5479rYmkIrMfT2aEPJbm48vvQNiaVVf0sMvDPfg4kHftKeO5ItuHu4elYIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，在追求性能极致的路上，DeepSeek 又祭出新神器——专为 MoE 模型打造的 DeepEP 通信库。昨天主打干崩推理性能，今天双管齐下，训练和推理一起拿下，依旧是所到之处寸草不生的野蛮收割。</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604310&amp;idx=1&amp;sn=17a10c321d0733728c43b3a2eb045005&amp;chksm=964b262aeea147d28d8bae4eb0bbe359aacf032c74d3d49e1d27da6568da992a2015a5835b46&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 25 Feb 2025 09:08:23 +0000</pubdate>
+      <pubDate>Tue, 25 Feb 2025 09:08:23 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[刚刚，Claude 3.7 Sonnet正式发布，开启混合推理革命！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qHoquE8cBHUkBIxgdIK0ZEUoZtbs3xgW0OYmbhibSRhmGetC2m51BELcmNQT1IPOlt3mqwNWTIZ03g/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，Anthropic 推出了新一代的 AI 模型 Claude 3.7 Sonnet。不是万众期待的cluade 4，而是3.7 Sonnet 以及 Claude Code。推理模型早在意料之中，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604292&amp;idx=1&amp;sn=dacdd9677e47386d3517acb1bd46b130&amp;chksm=965cfe8f3b605d80b530a356d600e78e5b906b1cd2962f045570f821d84f077a759364d35d88&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 21:00:00 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 21:00:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[DeepSeek 开源第一天就亮剑，FlashMLA这张王牌太狠了]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qHoquE8cBHUkBIxgdIK0ZEUHUSjiaM1uJUgk8S2CrXcAaZMiciarAEU3sZEXjlSCVicFn8Q1LWg50L4Qg/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周，Deepseek 突然发帖宣称，将要进行持续五天的开源——（PS：去年 OpenAI 搞连续 12 天直播的“伤害”还没修复，你又来一样的套路？？）今天周一上午 9 点，DeepSeek 便直接</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604259&amp;idx=1&amp;sn=e01831c3bf9c4a498e4f2a5f7ae74978&amp;chksm=969e27be982581f7240b49e7d978073ac3c92a2766b2ad44840bf7e77e6f28ff16dcaad2aa29&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 08:56:54 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 08:56:54 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[避开DeepSeek 官网崩溃，最近在支付宝里发现了隐藏玩法]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qHoquE8cBHUkBIxgdIK0ZEUJ45T9HaQtjicTFhNCGHxZHMoL3kvSYjkfUFfYH23icutCic5ocneicbQXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek 懂的都懂，从爆火那天起，官方就常年“服务器繁忙“，想问个问题，比春运抢票还难。昨天，发现一个绝佳的"野路子"——自带联网搜索 + 免费用 + 不卡顿，这些都已经讲麻了。比较意外的是，</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604231&amp;idx=1&amp;sn=724aa6f85bbaa1f839473877a94f6562&amp;chksm=968ab9ae5f166adfcc6dc348adbdcff523ec143ddd2e0ae9fcf2ab06045ce6b9918b11dc439b&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:30:00 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[本科生推翻姚期智40年前猜想，证明哈希表查询效率可达常数级别]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qHoquE8cBHUkBIxgdIK0ZEUXTL8gnb74FvhQ8xYN6XJvMJEQ0RDZH50nQdibEMtrr12un5QIkYLU0g/300?wxtype=jpeg&amp;wxfrom=0"/><p>自计算机科学诞生之初，哈希表（Hash Table）便被奉为基石型数据结构，地位毋庸置疑 ～哈希表的应用之广泛，无需赘言。从诞生至今，它一直是现代计算系统的基石，数据库管理系统、网络路由设备，乃至编程</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604231&amp;idx=2&amp;sn=7487551339235186e03aefd4e9b14159&amp;chksm=96637c89c5beaf68fdc83aee2fb67424a12b5dc1d084a86e42c0f7861924d3622b2d0acae6b4&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 24 Feb 2025 04:30:00 +0000</pubdate>
-      
-
+      <pubDate>Mon, 24 Feb 2025 04:30:00 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[秘塔AI上线「新研究模式」！DeepSeek-R1加持还免费，我爱了]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFG0G0k3FpVUOQXwY8VHPticCT3VzXXooagSj1EeM0eupicZEP6vco7by8wWQez6yT6kcqXicUvcJSWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近两个月，AI圈像开了倍速一样，可以说是卷疯了......有忙着宣布开源的，也有忙着上线Deep Research的，甚至还有偷偷玩抽象的秘塔AI刚上线了新的「研究模式」，被他们自己称作“Shallo</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604099&amp;idx=1&amp;sn=206c7104424f9b4d57d14e13f91f453c&amp;chksm=96e46316ede4648eabe422352a47ac4453c2f137cf2c5f9c4c5df3222b215642532f583d086e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 06:10:55 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 06:10:55 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[微软YYDS！世界第一个拓扑架构量子处理器问世 ！]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFG0G0k3FpVUOQXwY8VHPticAwvpAOZbJicWicDVVBgvPnzWawcBUiazZo0tpC5Fd3qPtTicicYQE49aBDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>家人们！昨晚睡觉前，小鹿习惯性看了眼股票，直接被微软惊呆，怎么涨这么猛？？？我就非常好奇，大晚上，微软干了啥，让股票涨成这个亚子！好家伙，微软甩出一枚重磅“核弹”，推出全球首个由拓扑核心驱动的量子处理</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604099&amp;idx=2&amp;sn=8bc98c97f9d4dfde6f2b64b2d2d5fe30&amp;chksm=96d5c71a3f6ae55a478a67e7654aee39b6637d0a54cf41aecf03f2610d7fa2e062cca31852b7&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 20 Feb 2025 06:10:55 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[4w Star！一个低成本微调DeepSeek的开源方案，悄悄火了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qF2TXu48YWO6MrRpPeughm5xvObwJnMAdkXXX98qdGefPTvUoXSvNgwwOALume6QuhYxhRRsZHzeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek V3/ R1火爆全网，基于原始模型的解决方案和API服务已随处可见，陷入低价和免费内卷。如何站在巨人肩膀上，通过后训练（post-training）结合专业领域数据，低成本打造高质量</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247604033&amp;idx=1&amp;sn=620a7c137e13ee376da9c8da0461f7d9&amp;chksm=96dd742f549f716f8f46d7b79af5006dcbf08dde5ad4dca024ac477ef416caf9a7541517e573&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 19 Feb 2025 04:11:07 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[马斯克大力出奇迹，Grok3 把 o3 干翻了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFP8E4GeVfAVicyTf3gbhobJcABtepcbW0rgf4x9Y1fRTIw4Bn1CUpEgkvGiaxXm7AiapiaLJZI52S88w/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是含萧。就在刚刚，马斯克发布了 xAI 最新的模型：Grok-3 和 Grok-3 推理版！现在 X 官网上开会员已经可以直接体验，网页和应用的所有功能会在一周内完善、API 会在几周内推出</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603986&amp;idx=1&amp;sn=47cda5b648ab59aa46284c5be769da38&amp;chksm=96a9e989ff7b60526bae2a5cd42c28f1c50367c4db5ed47741734bd29acd3af13b877c2131e2&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Feb 2025 07:15:57 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[阶跃同时开源视频生成+实时语音模型，我愿称之「多模态界的Deepseek」]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFP8E4GeVfAVicyTf3gbhobJU2sMTJ7bLQpL6iaJIo970wlrm17nLrcv6fEUA06UgZ799Uibg2z7w14g/640?wxtype=jpeg&amp;wxfrom=0"/><p>说真的，DeepSeek 让中国的开源大模型在全世界杀疯了。就在刚刚，阶跃也宣布联合吉利汽车集团开源了两个最新的模型——一个是视频生成模型 Step-Video-T2V，一个是支持实时语音对话的语音模</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603946&amp;idx=1&amp;sn=3d9a5a4be6f0af894d5922938666b743&amp;chksm=96b06902dd1ffed3271465b5e72ca8fca5983a1878bf213576d97780c8903b428c0737d6195c&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 18 Feb 2025 05:50:22 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[瑶池急聘！25年第一波招人，量大管饱]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qErMjF5rroJelyDWItlUY0G7Zw6XE1aMKueJaECZHjsmB3YhE6ibbZJDZboJXfrHztz048eQKttrug/640?wxtype=jpeg&amp;wxfrom=0"/><p>你好呀，我是夕小瑶。很开心你能点进来！如果你也认同内容可以改变世界，那你可能就是我们在找的人！我们在做什么？我们正在通过内容来连接数十万 AI 发烧友、AI 开发者乃至 AI 创业者，为大家带来全网独</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603891&amp;idx=1&amp;sn=f13a709bd47d31e62d3afd0a4d04977b&amp;chksm=9697ae7ed9f9590a7820e6fdcb3bf14e3839ffc17ea9b2088333ced2cedbb1278f734e5e8fcf&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 17 Feb 2025 14:32:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[AI被“降智”，怎么解决？]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qEkzyvdGl5aQRfBtLibDHLqiaSgAj7zjYiaD39iagBeTM2oxvlVRFDPPm61vu0fuOicBUQz12FEzqFPqIw/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近，咱们 Family 群里总小伙伴在吐槽 AI 模型在被“降智”：嘶！我也有同感啊！有时候感觉 AI 聪明得像个“博士级专家”，让我一边惊呼惊艳一边担心失业，但有时候吧，又傻得不行，说出来的话云里</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603891&amp;idx=2&amp;sn=a3ad5ce89e7fa55fe6d247858a5cc7cb&amp;chksm=967a5360859f154f16d7a0a98a521ca004ab09103b702b7697d0899625f966e534f4ea90def5&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 17 Feb 2025 14:32:02 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[文心一言决定开源了！还打出了「深度搜索」研究神器]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFXI1ABfTao7mibGgHicQvymtKLrdwMiaY3iavicL6iamyN9iafYicOj7sm2n9oBoBO4qvpAAt8EGqdicbcPhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我这两天注意到，百度文心开始疯狂搞事情了，直接贴官网图——刚刚热乎的官宣，文心 4.5 即将发布，而且是开源。另外这是昨天的消息——得益于文心大模型的持续迭代和推理成本的持续降低，文心一言终于全面免费</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603843&amp;idx=1&amp;sn=22b7ff41275be135ef7bcf51f6b5b7d3&amp;chksm=96bccdc5c020f66aa48ddcd5de912dcd260d8128c7f1c05fdbbc94c218575b94d24797db2405&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 14 Feb 2025 09:22:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[招人，用内容改变世界]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFXI1ABfTao7mibGgHicQvymtOyFFglUVMIk6xx2mQjuHbZ7hNMI4CmL6OG1UxbM0qtWaUOx6eh81mQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>你好呀，我是夕小瑶。很开心你能点进来！如果你也认同内容可以改变世界，那你可能就是我们在找的人！我们在做什么？我们正在通过内容来连接数十万 AI 发烧友、AI 开发者乃至 AI 创业者，为大家带来全网独</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603843&amp;idx=2&amp;sn=19395aed43ec431959570f3934d43cfe&amp;chksm=962bafa9b1d3c7712efc5020358bd9323fbb57457a43d267a0beb5f362b5bfefa81a4b5e364d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 14 Feb 2025 09:22:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[我终于找到了高并发的极速DeepSeek-R1满血版API，我被火山香到了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFXI1ABfTao7mibGgHicQvymtI9AicicjTNKqRYPVZuKT3MF4iaNzGmaHia5VHbcUw8E1LcyOXxGUOQDPWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek 这一波，真的是把各家云厂商都逼急了，你叫得出名字的，叫不出的，纷纷上线了 DeepSeek R1 模型。而且优惠力度非常大——半价、免费、送 Tokens 等，简直把曾经发起 API</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603798&amp;idx=1&amp;sn=7f75303a5021520f7b2120183e849ac9&amp;chksm=96bfcb9126f0980279c6ae595a3a21a42d8a37f77666e795cead1e7650fbc2a203d656507a29&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 14 Feb 2025 06:28:08 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[免费不限量！讯飞上线 DeepSeek 全家桶，还支持满血版精调，我爱了]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFddP8uMQYnnqTPCHWwTuTUialJfQ0LeuLW7pzcjNWaVCuRqq5AIJRblGFmHYIpNEoQjnwrgglhIbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整个春节假期，我眼睁睁看着 DeepSeek 从“全民狂欢”变成“全民卡顿”——官网十问九崩，还有谁没被“服务器正忙，请稍后重试”的提示，搞崩溃过。开工后短短几天，我又眼睁睁看着 DeepSeek 从</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603749&amp;idx=1&amp;sn=8f81868819f92541c3876e47d36988b3&amp;chksm=969ea2a103ee35ac5f7be98465a45029f591c399db71d4305c8df9abf279420580db38d9102f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 12 Feb 2025 08:02:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[一分钟实现671B 满血DeepSeek R1自由，手机和电脑端都可以使用]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qGWLs1MdBxkZwpQeohtcib3urIx0rDSBKgJPYg5Z2ibiaYjcuiaeWptwjtkuicekyB9NPUDdrsowQB1Dmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek虽火，使用却不断踩坑：总遇到服务器繁忙？充了钱却被残血模型欺骗？费力拉新，遇上代金券失效背刺？不懂代码，不会使用API接口？模型不能联网查询实时信息？数据隐私要求高，不想上传外网？别担</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603683&amp;idx=1&amp;sn=dc8d9dd9c8568b2905eba3b9627d3c23&amp;chksm=962e2d6f71f90aad645ab6da25b13becd52e6a23ba13a796ea6fd90232df6e0003f72ec9953d&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 11 Feb 2025 08:28:40 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[历史性一刻！顶级域名ai.com重定向到DeepSeek官网，此前是ChatGPT]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qHKyicoaOJME4RO2eka9XegiayiaV6ibsQgnu6ibKib5MSVscQW5ceedNSuibhTYc5lASp5WV3QJpwGCxnuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，“顶级”域名 ai.com 被人发现，被重定向到 DeepSeek 官网！我输入 ai.com，就会直接出现 DeepSeek 官网 ⬇️，绝对保真！排面拉满，史诗级时刻！要知道在此之前，这个域</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603648&amp;idx=1&amp;sn=67f3125d747d3a1f35b52a917a240433&amp;chksm=9690b51d0564b5996520fdda5f45aca0e268d7b1dd465a7c8ecf8c8922c6f647c48909166f05&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Sun, 09 Feb 2025 14:35:39 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[千万不要尝试 Qwen2.5-Max，你会因此忘掉 DeepSeek V3]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qEqaUo3peMOqQ6Kg51HicuCdALZ0fFkOtNOKt71kLGwRP7zNLOlBreKqiaLHaiaTEgApdzfoIPSYU1WA/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在 DeepSeek v3 发布一个月后，老牌霸主阿里云通义千问团队放出了 Qwen2.5 系列的最强旗舰模型——Qwen2.5-Max，在难以作弊的 Arena 榜单上，超越 DeepSeek V</p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603609&amp;idx=1&amp;sn=f53a826b2b924c5ad5f457e9e5fec951&amp;chksm=96c52f333496a7c2d3cbda8f7268e63482f1ef0cd43f6d963e2442b3a0cccbcd35ae346236c1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 07 Feb 2025 07:00:42 +0000</pubdate>
-      
-
-    </item>
-    <item>
-      
-
-      <title><![CDATA[Gemini 2.0霸榜，价格卷哭DeepSeek V3，性价比新王诞生！]]></title>
-      
-
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qGfII0hqiaibU316g7r6WOtYiaz6erEFSyJjUXxrXeB0npVE3VPnghR1XicWcWZCJMR2nMIlcSAB4x0Jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌 Gemini 2.0 家族终于凑齐了！出手即霸榜。在 Deepseek、Qwen 和 o3 的围追堵截下，今天凌晨，谷歌一口气连发了三款模型：Gemini 2.0 Pro、Gemini 2.0 </p> ]]></description>
-      
-
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247603530&amp;idx=1&amp;sn=ecc542137398f1b8d1fe8b274f4e4328&amp;chksm=96fe661636b87b55a1bcb9481ccdda563dd7eccb1e797242ae89bb0877d6a84d9b978876e9fe&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 06 Feb 2025 06:52:49 +0000</pubdate>
-      
-
+      <pubDate>Thu, 20 Feb 2025 06:10:55 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>
