@@ -10,6 +10,12 @@
       <title>gh_d4ba208ffa0b</title>
     </image>
     <item>
+      <title><![CDATA[免费送，之前发在JCP上的PINN + TVD源代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklXcA2rh5dakF86W3zmzFjUUuoAl9ao3c6BKG1bSvx9JXyrSROnJqCibxQasR7XzDxddzeBfMkAb8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>最早将PINN和TVD结合应该是在2022年的一篇JCP上(JCP 449 (2022) 110754)。俺闲着没事玩了一下。上图是原生PINN，以及岳子附加了TVD限定后PINN预测的黎曼问题。编译</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429514&amp;idx=1&amp;sn=de52e4fb536c46bcacaf460b9281a47f&amp;chksm=89738943b6630e5456d921580f32119927ae733b81eb2e62e11a5e7b8a75bce4ca0edf947c35&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Mar 2025 11:29:59 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[为啥越水的CFD算法，越经常爆高引？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkiauhgTIdW9EsmM8bSXtgkSSkmggjsCHTn9YV9iaw0GHrNJs6yricR3iaia6otFf9PzMyWfPddR4udzpg/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前岳子夸别人算法简单、有效，他们说我是高级黑 岳子今天澄清一下：算法的流弊与简单不简单没有关系。但是！爆高引的算法 一般都简单！RANS模型里引用最多的是ke，引用最多的超音速格式是最简单的Roe，</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429509&amp;idx=1&amp;sn=3f5ec73ec0000470485e25c3edef7d58&amp;chksm=89eef0f17af5047478cc24a56c6c2d6b5ddfd53f2aca1c69bca0679bc6c10f310040adcc97bf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -44,90 +50,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkVmEjKzoKoDkP2MxpEOedAVMQ5h9BesoW6gsibqqFVCn87TPgP76nyiaVVOU1ibrdGZF00RGyJ3GMEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前有一个客户联系到我的导师，我导师推到我这面了。后来我给客户第一次报价不到50万人民币，后来详细沟通技术难点后，报价30万。后来客户还是觉得贵，我这面也不打算降价，就变了一种合作方式，给他们推方程就</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429446&amp;idx=1&amp;sn=6a1682f43fac54c39323e78afbab5659&amp;chksm=8932ed3714070965278831ce9f512f3cabd303312fc7f575432261ebdb2a163deb68e521d8a7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Feb 2025 05:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[搞CFD的研究生，面对疾风暴雨吧！！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknZF8nmrP6c08KhWpvmcOSCzHEXmV4YYJIM2UFTqAaejrWibJ5rRp2FIwIicRyWHl1UzibbCD5MXYicJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>岳子这面一般接到一个工业项目，首先是给公司面试一个合适的候选人，跟岳子搭配着干活。只不过之前都是收费的。最近不要钱了，如果公司里面缺少CFD骨干，岳子可以免费帮助你们筛选候选人，并从专业的CFD角度评</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429438&amp;idx=1&amp;sn=7d97e9833f6adc1f150c85843621b603&amp;chksm=898954532e2ff8852aa4c6a53b49b71bab1ec9a513cd4aee8eab59799ce9068663b9883e183c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Feb 2025 06:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[JCP：不加湍流模型也可以算准，这是不是说明湍流毛用没有？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkktPiczH7y0nF4rrfRZ5dfU5BMJd7M24JH7zH8rRNFtGQl5gIoFftMsXm9ibfgL6MjH3f6lUlIxAvPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>流体的流动，通过涡旋伸展来传递能量，且需要遵守相关的守恒定律。湍流可以理解是流动的混沌，其也是流体力学领域最困难的研究领域，没有之一。著名物理学家海森堡临终前问上帝：“什么是湍流？” 几十年以来，大量</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429433&amp;idx=1&amp;sn=005d2d77c9f52fbedcc1fcde95f9448f&amp;chksm=89bff8244be7e0095bdcf2e62f10566fd8ca6686faa212132c2cfbbed0253f0fa057e7b32567&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Feb 2025 06:29:49 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在CFD这，deepseek错误率在60%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklBqBp8rP2ibGic2zgkNEWFUZZdudtkiaok9FIulIQazwcH5ia7Dp7jyXNDoEceybkdIPic4ymwXQkfqQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在CFD计算中存在连续性误差。对于可压缩流动，连续性方程演变为那么上述连续性方程是否也可以用于判断连续性误差？咨询deepseek后，给出上面5个评价标准。除了其中2条正确外，其中3个都是错误的或有缺</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429424&amp;idx=1&amp;sn=8b373deffa7cb35543d46aa41ca7011e&amp;chksm=8919241d4d3a9daeea7340f25143961247a943dab0de8b7a07ebdf23fb5c1daa2eb0ffdda014&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Feb 2025 14:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[西工大再爆JCP：尝试攻克PINN病态问题！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklMBJsYz58hD0UqWaZicPNt9oX0kYjaFoa6ibsVfJHk42s8FoJiaKgR0YJR0OibJiaQVqana1oFng0pv0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>全文手敲非AI生成 岳子嘴嚼类算法与原作者无关经典CFD方法需要构建网格，最终离散出相应的稀疏线性系统。求解的收敛与否与这个矩阵高度相关。收敛速度也取决于矩阵的谱半径。但是一些情况下存在病态问题！为了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429418&amp;idx=1&amp;sn=4c104c7123eb2f135b1ddb47e43da198&amp;chksm=89de8ba718986621266fb2561ba6b0202c12ac572dc201aec8e8c4cecde9aad4e3b34134f617&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Feb 2025 05:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[流体相关组，有多少个已经开始与机器学习交叉了？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknUKtt2Pl8Z1BusjnWTlbCibOwYlIkzG65Dojx6hQHm7jBmyzGulFLr4A8ZerKHiaZBSOIAPSGL3kHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>上图是之前参加课程的老铁写的匿名评价。3月底的CFD算法编程课，阅读原文开启报名，请你做好准备，我国际航班已定，你也不远万里而来，一个人，一个笔记本，没有团队，没有高级装备，没有报备，纯自费，在准备好</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429405&amp;idx=1&amp;sn=ecf9f04da5eaf0802620ec721bc1c4a6&amp;chksm=891797d018b940bcf448180539a364612dae968c92965a6bfa9ddae9ae702c2588c4f447c675&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Feb 2025 05:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个无参数湍流模型，遭9名院士联合痛批！不知现在如何了？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkktPiczH7y0nF4rrfRZ5dfU5UHfG1E18UI4ymTBNXKlhBaFyBmPZR7M1Zuo9n3nr2gIDDic9MzuBSMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>北京航空航天大学大学的高歌教授，曾提出的无经验常数的湍流模型，在90年代的时候遭到学术界全国性的批判。近20年后的2008年，高歌教授接到《中国力学文摘》副主编陶彩军的电话：“我受编辑部的委托向您约稿</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429393&amp;idx=1&amp;sn=1f948481ad42374bd88a41a588a64731&amp;chksm=89c815462051740a6b88da125bf8e60815824d89b5da73563a7dbe7061571e44f87867866866&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Feb 2025 05:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[历史上所有的湍流模型都是错的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknUKtt2Pl8Z1BusjnWTlbCibEncickqnz4hMfDquQpCbKw45XE9TwCFqMTtAmpu6UM5HO2TMMEHWBCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>真实的湍流存在能量级串，即大尺度的涡的能量会传递到小尺度的涡。但是有些情况下，逆向的能量级串也是真实存在且会发生。在2D情况下，逆向能量级串更明显，在李政道生前发表的论文中也讨论了2D湍流与3D湍流能</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429374&amp;idx=1&amp;sn=7db61a2dfee4afdd6b4279687a9a4ea9&amp;chksm=89c4d0b85490dd8cc1f9ef77e0ccfcb0e9d865354241ceba17a4c0393735a115ca6aa6da1b30&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Feb 2025 05:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[明尼苏达大学新爆！不需要机器学习！同样可以数据指导！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmyxgXn6PuNlEXGHzIGTiatJ0q49YVpcT1bL4ib0esugbs1tT6YIicc5lSKpDDI9P09ibIwxukUwLXE8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年2月，明尼苏达大学，提出了一个不需要机器学习，同样通过数据进行指导的湍流模型。（非常不好意思，岳子也想高大上的写稿，但是实在不会写，上面一行是我模仿官方媒体写的，写不出来更多了）最近几年爆火</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429363&amp;idx=1&amp;sn=da48c162a59081a24c1fdb8b37ecccd5&amp;chksm=8957bd057d140c45dce654b1db5fb91e656725fb0aa15197b9adf0f404e1af098949ff95f135&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Feb 2025 06:38:13 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为啥别人能发那么多sci，你一篇都发不出去还被延期了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkwP9RJnQc4bw1R4e3zjo4Uicw86BNoRTYQmfu0ZPtWqz6ToIhWdvXp644RRUFnr6DodqJm7Lc3PTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>（全文手敲、非AI生成）你们发不出来sci，还是路子没走对。发sci主要就是：勇敢的投出去！文章只要不是瞎编乱造，正儿八经的科研出来的正经东西，直接干！直接干2区！今天给大家看一个POF的文章，202</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429354&amp;idx=1&amp;sn=46a97e1832fc7198242560e9fa5d73bc&amp;chksm=89127a9bc1f32f22f178363c51092d9e05564f5dd2aff0e87f789e238de17c2d5160f654b510&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Feb 2025 06:32:33 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么感觉 JFM 比 JCP 地位更高？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkwP9RJnQc4bw1R4e3zjo4U1gGl7pDjribrFfqIFIc7NXnBxdN6hWlZFuKy446CqRichwxiaL7PXmLmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>错觉。岳子认为JFM和JCP完全是两个范畴的期刊。JFM侧重流体力学，JCP侧重【计算】流体力学。做实验的绝对发不了JCP，但是可以发JFM。最近几年JFM上面也出了越来越多的数值计算的东西。但是JF</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429349&amp;idx=1&amp;sn=2eae1babed130a34fcf34cb6e3d87e0a&amp;chksm=891e5aedcfb1b4659a8da0f20412cb2bf146a5cbb43bebe24bd2efb8e85e3cd3fef35ae3979f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Feb 2025 12:41:43 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[西北工业大学：变种PINN，更小的误差，更高的性能！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkluLEfkkUcDldkqLibO7mBk1yhDia9CBbe82fbCD7UbJgKhAemCUjUN8XKX4IEWiaB5RnqTnhqt9UJicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在备课的时候，偶尔发现2025年的一篇文章，来自西北工业大学张老师团队。该PINN变种被命名 [体平均PINN] ，研究表明其具有更小的误差，更好的性能。把文章发给AI来翻译总结发在这里不是岳子的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429328&amp;idx=1&amp;sn=cb50a09381b2e94fb98573d8a13b476e&amp;chksm=890f98936ae3993499cb7c40fdeb317ed818a3e213f16f34d1dd99ab66663f4a94b6c60ae07a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Feb 2025 05:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[学习率选错 = 白干？18秒实验！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p>岳子最近备课隐藏流体力学，打算用发现，搞得时候顺便做了个视频，邀请各位审稿人直观的感受学习率对结果的影响</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429327&amp;idx=1&amp;sn=0c2b81fdb5dee5b8826a1608095c97c0&amp;chksm=892f54113e68e7b1eca353235d77f9471a098785c2dbb36823fe6ababc8d93e7c4360ecfe6b7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Feb 2025 13:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[参加个CFD培训班，然后找工作，可行么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkHqxny2aYGdtUK4NktFSe8rrAVFyJVaR6D315s0fhXiccushlYDpnyzcUWbicibcECq7evUibje3DKrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在互联网那面，很多其他专业的学生会自学编程，或者参加一些培训班，然后去互联网行业找工作。互联网那面可以学C++学半年，然后去互联网找个测试类工作。很多人都是这么找到的工作。这个老哥好像是按照互联网的打</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429321&amp;idx=1&amp;sn=f20b5fe7d4f3fc86cb0291d49eeacf99&amp;chksm=89d0a1e5b44e32036da30960a607800155e387d1f28a53519c6ec19929751df0ec6f7cffe8ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Feb 2025 05:58:37 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[deepseek火了之后，咱们做CFD的要不要冲大语言模型？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknOj4HdKbz3hCQkN2qL0ib9qJMlefnTmtutckMLlYzicPHDsVwglphfelBboCqPBTic3XrT66CGOHrFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DOI: 10.1063/5.0140545最近国产的deepseek出来之后，大语言模型更是火上加火。做技术的看到一个新技术出来之后，都心里痒痒，想玩一玩。机器学习有很多个分支，具体的跟CFD的结合</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429311&amp;idx=1&amp;sn=0b346e1eef43b932968f076d7a6cdd2d&amp;chksm=89440e9928c9ff237cd23514477ad04a238492c6d70c0334a0b6ab575a30fe79a1935710049a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Feb 2025 12:59:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

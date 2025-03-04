@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[谈谈DeepSeek原厂推理方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkj1iahhMHfmA34qTcg9moTiaCaibPoGHdftRRH1hibkicw75cq3rIqEq7c1SML6icicbDFrQD0CVUNfd9GQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DR大概两周前写了一篇文章《谈谈微信+DeepSeek》对推理性能的上界进行了一个估计基本上单卡在并行策略恰当时能够做到1800~3000个tokens. 昨天DeepSeek公布了《DeepS</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526529&amp;idx=1&amp;sn=1a935d6bd1f9fb9a6c5fd80a1b409172&amp;chksm=9e38e34e317f4e4c312232e9fd10179d1da74320aa2ef8a34542c710d98c2f14423199077a0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Mar 2025 15:39:35 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[分析一下EP并行和DeepSeek开源的DeepEP代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkjV2TnXEliasnhQYAveibvtnEetZYmKBs0aclqKVhvcY4xsQBhIiabHCDHwDEV3uYNoSBibbvPUf6hkicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>被好几个团队的人追着要渣B来分析一下DeepEP的工作, 公司内外的团队都有...简单的一句话说, 非常棒的工作,很多细节都值得学习.  但是还有一些硬件上的缺陷, 在DeepSeek-V3的论文中提</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526527&amp;idx=1&amp;sn=1da4a4d7d1257f27693f34105da9bc6b&amp;chksm=9e5bba6824b65169c7c6e0566afee103102a57b54e5def0f811cb7d3ccd5b6943d613454dd0d&amp;scene=0&amp;xtrack=1#rd</link>
