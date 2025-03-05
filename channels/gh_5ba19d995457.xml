@@ -10,6 +10,30 @@
       <title>gh_5ba19d995457</title>
     </image>
     <item>
+      <title><![CDATA[ICIR2025 | CubeDiff：无需考虑失真，重新利用基于扩散的图像模型来生成360°全景图]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emrL9coT0EQdTjZR7WCoOG6qavvqaKicyhfbe1wrRfKuEmZbfJ8LvrOgQJMgZYG5CztqNUPPASQbtg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在之前的文章中已经给大家介绍过许多关于3D生成的文章，感兴趣的同学可以点击公众号菜单栏查看3D生成专栏，创作不易，欢迎大家点点赞和在看~CubeDiff是一种使用基于扩散的图像模型生成 360° 全景</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490543&amp;idx=1&amp;sn=5612888e956f0106578eaa019f577656&amp;chksm=fd0f27c47f012bf005fca5132a31a6f4bdb2bdf08c9532581d8e2caecc5e65a7d0536a9e8a1e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Mar 2025 16:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[StochSync：可在任意空间中生成高质量360°全景图和3D网格纹理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enXFFuKUPQcYLlG3aibBhJtN7xgJCpXZE7HoaWiahrDNLktV0doUSl1wRalx4MZej02YkgNsTVfSbpg/300?wxtype=jpeg&amp;wxfrom=0"/><p>StochSync方法可以用于在任意空间中生成图像，尤其是360°全景图和3D网格纹理。该方法利用了预训练的图像扩散模型，以实现zero-shot生成，消除了对新数据收集和单独训练生成模型的需求。St</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490543&amp;idx=2&amp;sn=4bcb6a9ceb33d74506d10c9192481efa&amp;chksm=fd5c46beedb75bf24522af9c98149de73eddff0c393a8e2fc377b363c26fc67f9fb470f05c98&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Mar 2025 16:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[单幅图像合成 360° 3D场景的新方法：PanoDreamer，可同时生成全景图像和相应的深度信息。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2el8quKicUEibqsQFrF8ttU8UZJIaZuVsUww2Z2IDLp7MYqLaIsWuo5dAG2Y1iaHf8AibCjXj4KFPbTv3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文介绍了一种从单幅图像合成 360° 3D 场景的新方法。该方法以连贯的方式生成全景图及其相应的深度，解决了现有最先进方法（如 LucidDreamer 和 WonderJourney 的局限性。这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490543&amp;idx=3&amp;sn=c6643842afa2c65148191fa5b03e636c&amp;chksm=fd8c0d2e25438e364d8a0ca539bdd0b1ce2b1421a1834815485a82078508ddfba2251035e97f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Mar 2025 16:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TRELLIS：用于创建多功能、高质量的360°全景图生成方法，实现可扩展多功能3D生成。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2emeYg29ZW9ZRFeXmWsX2FIsrcRtOibx92ZhEt1Z0UdQ7JsQibr17Y0WaD8O08DMM3XIor43XOZVMvXg/300?wxtype=jpeg&amp;wxfrom=0"/><p>清华大学、中国科学技术大学、微软研究院联合提出T RELLIS，这是一个大型 3D 资产生成模型，可根据文本或图像提示（使用 GPT-4o 和 DALL-E3）以各种格式生成高质量的 3D 资产，可在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490543&amp;idx=4&amp;sn=2cbb023aa7f1bd83b5de17d2b9cc6526&amp;chksm=fd1e2aa8a4311c9ff6b1fd788f0da9698d8cce11c373dffdadee68df671f607c2aa9cb27b584&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Mar 2025 16:12:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[南开提出1Prompt1Story，无需训练，可通过单个连接提示实现一致的文本到图像生成。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2enzPNo4OCBUcdtmaQJs6N0wWib04FeoPN0dUqhYsAJa4gIVOeKpt04Ox35gLkECLB9LEJGNnrDPu9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>（1Prompt1Story）是一种无训练的文本到图像生成方法，通过整合多个提示为一个长句子，并结合奇异值重加权（SVR）和身份保持交叉注意力（IPCA）技术，解决了生成图像中身份不一致的问题，同时保</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490542&amp;idx=1&amp;sn=9b01d1603a7aaab7939445b11ab9f806&amp;chksm=fd066915a0549dba0c9c7d5746bbc6edef622c274fb22ef8633ee6ff8d34a71ef17349e6a028&amp;scene=0&amp;xtrack=1#rd</link>
@@ -146,30 +170,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2ekAuUNNvuhqhCqoRTbKeLmgGsbjAiciaibfrfRhuw7eaB9AtkL5GxPITtVb9wtxXb6szDDbLGD55syWg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近期DeepSeek等开源AI模型的爆火，引发了全球AI产业的变革。文心一言和ChatGPT也即将全面免费开放，这将有助于推动人工智能技术的普及和应用，进一步促进产业的发展和创新。在北京时间2月13日</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490516&amp;idx=4&amp;sn=15bf9233f452e13e64d9b653b11f3324&amp;chksm=fdc98203bc76871898678b33b2bc80f8153620795c84378bad48950cb4960269fac99fa6a1e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Feb 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[香港科技大学提出YuE：Suno级别开源音乐生成模型，支持中文！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elkfS8ZYbyjmGoHEP6npRKZsukicic1pwKicvO5kl9ea5rGcBfEiaHiaQP2qUjqPV3wDPziblkH7xOuXdRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>YuE是港科大提出的一个开源的音乐生成基础模型，专为音乐生成而设计，专门用于将歌词转换成完整的歌曲（lyrics2song）。它可以生成一首完整的歌曲，时长几分钟，包括朗朗上口的声乐曲目和伴奏曲目。Y</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490515&amp;idx=1&amp;sn=f021bcbbbb5608142e8a4cd9104b9e94&amp;chksm=fdf994841a673d36f40b4ce99ac89d3625ad2c3763a34ea3c9af2ba572c5cf8c80ff4aea1489&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Feb 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[马斯克疯了？Grok3 突然免费！还说让大家“用到服务器崩溃为止”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QFmOy9B4XPW93brzPiaQQlVAqCHrRsnnJGIBGkAOnKSFHtHzBJjfZ1vzicEpnmNNa0haIM0RlY8Mx7mNfJaoApmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>就在 2 月 18 日，马斯克旗下 xAI 公司宣布推出其最新 AI 模型 Grok 3。2 月 20 日，xAI 宣布 Grok 3 即日起向全球用户免费开放使用，直至服务器达到崩溃为止。（也可以理</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490515&amp;idx=2&amp;sn=97c2c95f08e7e6086eeebc627e4e1d1e&amp;chksm=fd399f822bbc1511c77bdfc5c799dc64f82c0259600194e2a730ec1826f7efd163f6b3b74237&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Feb 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[解决文生图质量和美学问题，字节跳动提出VMix：多维度美学控制方法，一键提升图像美学。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0YFkDxAK2elSjibdLXhMBHvRNlreoaGcic6UBBbFKhnQGPNFnt0uNP0icQj44gWuVMkaK2nsqNia2kicW5icETqKKVMA/300?wxtype=jpeg&amp;wxfrom=0"/><p>为了解决扩散模型在文生图的质量和美学问题，字节跳动&amp;中科大研究团队提出VMix美学条件注入方法，通过将抽象的图像美感拆分成不同维度的美学向量引入扩散模型，从而实现细粒度美学图像生成。论文基于提出的方法</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490515&amp;idx=3&amp;sn=9fc95478aa6836ff42fe8756bc3c7daf&amp;chksm=fd9b6503871087dbd5ac836db098d63223877f0170297e62420f85416e897f6fab3e5aa41c02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Feb 2025 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[国科大提出SayAnything！高保真语音驱动说话人视频生成神器！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Hcib3tqia6H5K5KErGYAcboNZ5g1ickzvcVkQLCcDMsCQcyM5NbvALsSFic6AIQm1WH4bTtNZ1icfTrh6g2j7b1kRhQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文名：SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion论文链接：https://arxiv</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2OTg5NTU2Ng==&amp;mid=2247490515&amp;idx=4&amp;sn=c488ccbd4604631c9afe07161e4ad7bf&amp;chksm=fd78a3f46b6634445e111c13d7be1830c26517f23e8bfb5f2c6491875ac3f1f97ac993849d5f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Feb 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
