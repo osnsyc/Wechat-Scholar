@@ -10,6 +10,24 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[美团开源首发INT8无损满血版DeepSeek R1]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLicYsnsbgGDdMaBByyBrDnt2TQay18T43rEQvmleY0JLjGvujsqjTXTw7FhuT6SmA1nVbVibfltx2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek R1模型权重原生为FP8类型，仅能被英伟达新型GPU支持。美团技术团队进行了INT8精度量化的尝试，量化后模型精度基本无损，可部署到A100等其他型号GPU，从而解锁了芯片限制；相比</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447943&amp;idx=1&amp;sn=ae4cadfbdf54a0e885e7807c698d40b7&amp;chksm=bf2e35dcf5c978f3f7304841e99662d20d3c0ce4f30ac6558bc838b6524a7d4eaf9a773f1b71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Mar 2025 12:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[细节之王 Kimi K1.5，大模型算法工程师复现推理模型必读文章之一]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BrtBjG6XSzInmhaGAo00Ij3XJPr3K3JvCGImS9KeEuYdzrGZgkqGCBK8NcYDgbzSWiartPctDLFa79gKcdmW4TA/300?wxtype=jpeg&amp;wxfrom=0"/><p> 0. 背景OpenAI O系列（reasoning）模型发布后（2024-09-12），全世界都在尝试解决 OpenAI 设置的谜题，而在同一时间（2025-01-20），Kimi-k1.5 和 d</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447943&amp;idx=2&amp;sn=92a764411f9ed90037555c5c9f88ee77&amp;chksm=bf34e2cda6d3ba7fd26d945bac29d4f9ca083f67ded27da3f1eec78f855ebdefdfe52c19ff28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Mar 2025 12:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[WWW2025面向多模态RAG的文档检索挑战赛]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/x0gMGRiboQaIRHvFTLEoiaC7rbb7bdDTmcRmIqLZkIFvFnf8sQXKMmOTibs0pvMWbNzOFR4qom7MjzaibE7zdpibmMg/300?wxtype=jpeg&amp;wxfrom=0"/><p>WWW2025面向多模态RAG的文档检索挑战赛活动介绍本任务聚焦于大模型的检索增强生成（Retrieval-Augmented Generation, RAG）应用场景，特别是在多模态文档问答任务中的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447943&amp;idx=3&amp;sn=fd41ec4c5db2dba68122f80bcf5e5855&amp;chksm=bfee073528ee9220ec8bf33c8f4a8fdc54bd02b78543592050d69824506863bd0af1af17e4ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Mar 2025 12:42:48 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[阿里QwQ-32B开源了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLicYsnsbgGDdMaBByyBrDntO0Op0luXDxObKgcklyRYDicLze2CTqX12nwJoViaXVsPOWEyarQIt7EA/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447934&amp;idx=1&amp;sn=46856d62e0038c72bb29f19eda28033f&amp;chksm=bfafbbebc031f546e42ced6a665764c9c6d109fc025bb45ab146b88b8d31854872f9956fa58d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -122,42 +140,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJBFea5sNuj74GJXQGMta2ib2yN3PXJBXBd6yUsib1CdWpvue8icGJq5o6JuAva2EVXC4hH66y1MrFBw/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447852&amp;idx=1&amp;sn=d3db8ef8b9327b054485aa0a416bf99c&amp;chksm=bf5f09c5fb8b05410e26ec52f9e9c3436dd17d8cd5ecfe15ec899765cada430626846ad116dd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Feb 2025 01:24:33 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Deepseek 第四弹：王炸]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIqhEcV3ocxVuTaicxhMPpliaPuS4zC7qZavlyVtgiaQ048yAvG0NqsfdBMo8yicvRtcicWWrmzcUNQWiag/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447846&amp;idx=1&amp;sn=e5786571f34fcb0adea745b645191382&amp;chksm=bf81c0978a371f9db6e61ffe8f64e647a752f537443ca4c2a1fa05dc65499b2012f31a4dc6c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Feb 2025 02:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR2025结果出炉！这些方向杀疯了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLd6GzTmOvUILk47g8DyIJJ0230hibgBMg4yJLKAqvB6dgMfrLf5QcAUzibKMmdet9XLAqC9dgB5MPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据2024年谷歌学术指标（Google Scholar Metrics）的最新数据，CVPR已成为全球第二大学术出版物，仅次于《Nature》，超越了《Science》，就拿投稿量来说：2019年有</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447840&amp;idx=1&amp;sn=92f9408e9b26fe5bf6176fb260a49a6c&amp;chksm=bff115b3aa831c0ab68a2662fdc82e76845573b64f8d21d7318e74e5537abbf16a571095a5a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Feb 2025 02:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[清华开源KTransformers-让24GB显卡流畅运行满血DeepSeek-R1]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLd6GzTmOvUILk47g8DyIJJessycP4icG4aMmgzbB04sp5wjsh7JW5538lFyt8pMU6mJUCTlR7kGTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在AI技术飞速发展的今天，大语言模型（LLM）的应用越来越广泛。然而，本地运行这些模型，尤其是像DeepSeek-R1这样的大模型，往往需要高性能的硬件支持，这让许多开发者和研究人员望而却步。今天，为</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447840&amp;idx=2&amp;sn=b0de8f3c1bd0f41151ac3219624a7355&amp;chksm=bf43acbc96513b81611628cbef810c96e495384a00658e48f08ac6214bfbc4e52634bee06844&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Feb 2025 02:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Llama-index 搭建合同条款审查系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GLt9ia2KUZfNicvP6Qw4jgsK60nvfPJRC7Up6DjibabOlXpu14iajqf8kPib9cWjkE9CNcT261L3OgWeJIEM7dpgialA/300?wxtype=jpeg&amp;wxfrom=0"/><p>Llama-index 搭建合同条款审查系统在深入研读llama-index仓库中的 workflow 代码后，笔者被其优雅的代码风格所深深吸引。本博客将结合deepseek大模型的智能决策能力，简要</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447840&amp;idx=3&amp;sn=d334bfbf704e144e980a222c11b5b7ae&amp;chksm=bf1ee8c16413d0a1d6594b11c6d04b4fe31a5a2f29c570d5974d9b0e0ee8caaa77f46c58301b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Feb 2025 02:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MTEB 2.0升级有感--新世界的船，载不了旧时代的残党]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/86qxNQYXKptl0vlbnnbz6jXj4gGIRaoOwV1oCrK8YO5Pyk4CLEichVDHTpldqKPibPVJVLg88n5DXmIoc58ejdAA/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 背景2 MTEB新特性 zero-shot3 深度剖析4 讨论1 背景    对text embedding任务有一定关注的人相应已经发现了，作为目前这个领域最权威的一个榜单MTEB在最近几个</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447840&amp;idx=4&amp;sn=ddac6b1e59bcb2fdc053f10062525e5f&amp;chksm=bfb190a8eadc1b65bfa484fa4a7c722a21deafa2000495ce19919484f542c4231bcb6cf13dab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Feb 2025 02:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[长链推理相关论文速览]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0OqYF3UnlcNRFDRqnnOcibnpyIehepNvvXO7jcy3C0ewNxqPibPHxySkAPWduIYKhGzyibJ5w5KTxWODw/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜邓佳‍‍机构｜中国人民大学研究方向｜大语言模型在人工智能领域，大语言模型（LLMs）正迅速发展，推理能力的提升已成为迈向更高级人工智能的关键之一。自O1发布以来，长链推理的研究逐渐成为学术界</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650447840&amp;idx=5&amp;sn=533a5d293e3dc34e164cec8095228e48&amp;chksm=bf1b86e4b9e624f1db26c614b43c26082049fc8891b2e983aee25903dce7e196252918b719b0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Feb 2025 02:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
