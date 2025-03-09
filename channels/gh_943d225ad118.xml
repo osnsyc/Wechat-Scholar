@@ -1,279 +1,109 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  
-
   <channel>
-    
-
     <title><![CDATA[AI for Research]]></title>
-    
-
     <link>https://mp.weixin.qq.com/</link>
-    
-
     <description><![CDATA[AI for Research公众号]]></description>
-    
-
     <language>zh-cn</language>
-    
-
     <image>
-      
-
       <url>https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/refs/heads/main/icon/gh_943d225ad118.jpg</url>
-      
-
       <title>gh_943d225ad118</title>
-      
-
     </image>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title><![CDATA[为什么RL比SFT/DPO效果更好？什么情况下可能会比SFT差？CMU最新研究爆了....]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcv5I3VaG7R70numBaT8Ros4Fv3uIW40z07gL7Edg39GZoQx3x5e0iaVCLOWgdbUI01rPp6pLP1CBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是一篇3天前发表的论文，名称是《All Roads Lead to Likelihood—The Value of Reinforcement Learning in Fine-Tuning》作者是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486600&amp;idx=1&amp;sn=ebc16f37b8763ddb11a60b1d74c26bf6&amp;chksm=c11a3235482504b9423b4b0d29e03a0e181be6281040101892085dba5a997ce440fc82b82cf5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Mar 2025 17:49:09 +0000</pubDate>
+    </item>
     <item>
       <title><![CDATA[智谱发布GLM-4-Voice: 端到端类人语音会话机器人 ！Let's Think Var-by-Var：即兴概率推理....]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBddHdAzpIibfMn58IlLeWia7W3EHllKuxCvVOG9xw9fMDO1YwkcXVOHDAYKtZ51jU8JkGYKgibNfgtgtA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：平淡无奇的一天又来了，今天要分享的内容主要是关于模型结构改进、大模型、预训练的，喜欢的小伙伴赶紧去阅读相关论文吧。1. GLM-4-Voice: 通向智能及类似人类的端到端语音会话机器人标题：G</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486581&amp;idx=1&amp;sn=b4e975139f80e5eb7685f472473aa0b0&amp;chksm=c1372f8cc47cb0202e2e2d6518287468b932287b14682e022b4281cb03b3b3bbb33a2f163e14&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 04 Dec 2024 13:03:11 +0000</pubdate>
+      <pubDate>Wed, 04 Dec 2024 13:03:11 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[一种简单且可证明的大模型测试时计算规模定律 | 逆向思考让语言模型变得更强的推理者....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcaym4txsR14lu38By1icCogOJjnUosiamV1Ef6ic3Y4bzsbHxF44fiaILQic0LSsiaLYQ8y8Oysbadqe2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：科研就像一场冒险，而看论文就是你的探险工具！只有通过深入阅读，才能找到宝藏，发现那些意想不到的科研奇遇哦！1. 一种简单且可证明的大模型测试时计算规模定律标题：A Simple and Prov</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486577&amp;idx=1&amp;sn=4239972a372e4b7670b9caf51748372d&amp;chksm=c19679c36dbf23b8efe25c05e5485ae8e9b4f28d8b7eae1b6fa0d095b4ec57a9d9042b701bc9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 03 Dec 2024 12:22:33 +0000</pubdate>
-      
-
+      <pubDate>Tue, 03 Dec 2024 12:22:33 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[HiFiVFS：高保真度视频换脸技术！2位层判别KV缓存实现大模型推理的极限 | 基于蒙特卡洛树搜索的高级自动化推理范式....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdc8ibaJwMDoBs74aWl23WCH22jLMa3p6sP2BdQibl31P1KOmZx0X2YTibA4FNG2FCbTI6phZuR7j13HA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：论文可以让你更快地了解最新研究进展，掌握最新的技术和理论。这对于自身的科研能力和竞争力非常重要，尤其是在快速发展的学科领域，下面小编带你来看大模型最近的研究成果。1. HiFiVFS：高保真度视</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486573&amp;idx=1&amp;sn=a48ad6701fa77233c1f92ef65a3333b6&amp;chksm=c18ac9730cbd51e427fe57642a3b1769d0268d49eddbc455806db502e20a82b550ae945e0fc1&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 28 Nov 2024 11:32:25 +0000</pubdate>
-      
-
+      <pubDate>Thu, 28 Nov 2024 11:32:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[重新思考MLLMs中的token缩减：朝向训练免费加速的统一范式 | 新概念学习、旧知识保留：概念瓶颈模型的持续学习新研究...]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdf5YbBgmL7wMecxPAbyDwgdibVIKdEzZO3EjrroLrDsB6hhcjo791jeVhoqrgibQ6Z4OaBIZiaVaXcYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：科研就像一场冒险，而看论文就是你的探险工具！只有通过深入阅读，才能找到宝藏，发现那些意想不到的科研奇遇哦！1. 重新思考MLLMs中的token缩减：朝向训练免费加速的统一范式  标题：Reth</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486569&amp;idx=1&amp;sn=1b12b0859806aa5d624623a2e2c6d7c8&amp;chksm=c187ba8ec775158c3d13cfafba0d980f6c15f9141e0dc453e423ce355735342135ae3cfa1d61&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 27 Nov 2024 11:52:43 +0000</pubdate>
-      
-
+      <pubDate>Wed, 27 Nov 2024 11:52:43 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[艾伦研究所发布最新TULU3：推动开放语言模型后训练前沿！反馈驱动的小型语言模型的数学推理能力提升研究....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcL6BrSbuXxskwFjkJPgZH8fL8qq54vH0xptPyAc3xUicZ9LLmyRl3DAg6CDASBabTbdY168FQuZlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：看论文就像是一次美食之旅，每一篇论文都是一道不同的菜肴。有些论文会让你大快朵颐，有些论文会让你欲罢不能，而有些论文则会让你咬牙切齿。但是别忘了，只有尝试了各种不同的菜肴，才能成为一个真正的“吃货</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486565&amp;idx=1&amp;sn=36f406ea7a4be9a1ef6dbc7cd6fe39a4&amp;chksm=c1a373494e5155791fa3651ae82dd1638d3c6526588b448c2a070a0d1d30a1396abcf3c7bf9a&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 25 Nov 2024 13:30:14 +0000</pubdate>
-      
-
+      <pubDate>Mon, 25 Nov 2024 13:30:14 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[Marco-O1：面向开放式解决方案的开放推理模型 | 从“愚蠢”问题中学习提高大模型性能，但效果有限....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdcEeNR5kcHcDwbtW2GsibJuwBicZibk9mAUMgfAv9mJJ7G2F8wXmEPP5MSJ4SENWU7yVN1oQpibVm5U7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：科研就像一场冒险，而看论文就是你的探险工具！只有通过深入阅读，才能找到宝藏，发现那些意想不到的科研奇遇哦！1. 面向开放式解决方案的开放推理模型  标题：Marco-o1: Towards Op</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486561&amp;idx=1&amp;sn=585235440585abe5d44d97669034b7fe&amp;chksm=c1e4f1af1a83b4665c037266fec55e466a64aceddeb8b84baeb4129c86a330f27c976bd5050e&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 22 Nov 2024 13:23:27 +0000</pubdate>
-      
-
+      <pubDate>Fri, 22 Nov 2024 13:23:27 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[模型剪枝后的训练规模定律研究 | LLaVA-o1：让视觉语言模型逐步推理 | Xmodel-1.5：一种百亿参数的多语种大模型]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdd4WYibwT3Yf6nLoicd37jNAuTyURYicXqq82b8lGY1YEP533sButN4Z2roI0SZB91m4cmONvMoicsnPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：看论文就像是一次美食之旅，每一篇论文都是一道不同的菜肴。有些论文会让你大快朵颐，有些论文会让你欲罢不能，而有些论文则会让你咬牙切齿。但是别忘了，只有尝试了各种不同的菜肴，才能成为一个真正的“吃货</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486551&amp;idx=1&amp;sn=96c96e9c1b5bf46ac6d690f62cab95ce&amp;chksm=c12b146fa76450b6214f79e0703f8a04ee9b91c5c137e06b182e6c38537a7438f4c955c353b9&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 18 Nov 2024 13:56:37 +0000</pubdate>
-      
-
+      <pubDate>Mon, 18 Nov 2024 13:56:37 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[模型预测：幻觉与模态崩溃之间的权衡 | 腾讯发布Spider：任意到多模态大模型 | 有限数据下的微调语言模型的实用指南....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBddbnjOFQUn1rgloqOg2Ko6c2THaacfDnMtEM6LackDg7TqesZniaHFSnXLGdic8AEf7EdibGTjrQRmLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：看论文就像是一次美食之旅，每一篇论文都是一道不同的菜肴。有些论文会让你大快朵颐，有些论文会让你欲罢不能，而有些论文则会让你咬牙切齿。但是别忘了，只有尝试了各种不同的菜肴，才能成为一个真正的“吃货</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486547&amp;idx=1&amp;sn=4ab6704a66aa61acc9e4c8ae2b716365&amp;chksm=c1db6a504cc1860367087ded3e48b97ecaaceabb5d6760434fe4e92293bd4ac2d1f8fcadfa5f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 15 Nov 2024 11:13:09 +0000</pubdate>
-      
-
+      <pubDate>Fri, 15 Nov 2024 11:13:09 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[MikuDance: 混合动力动画系统 | FP8与BF16训练在大模型中的权衡 | 利用强化学习微调大模型突破限制...]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBddU1boNN0ZsDjia6vjYMrsPPMSrzntXjImoibMKMuWs50yXPmribqdvx33evlyn80XwF6d3e9rRyf7RQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：科研就像一场冒险，而看论文就是你的探险工具！只有通过深入阅读，才能找到宝藏，发现那些意想不到的科研奇遇哦！1. Dynamic Subset Tuning：扩大大模型参数有效训练的操作范围  标</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486543&amp;idx=1&amp;sn=d9de363035c60f38b0713e3b0a0dcd95&amp;chksm=c1b7a8a09e64e3dc4035b912fc7ef901b69d6092baab8ffc7b1285b1c1ea56bee1c25d899032&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 14 Nov 2024 10:04:59 +0000</pubdate>
-      
-
+      <pubDate>Thu, 14 Nov 2024 10:04:59 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[通过学习动态揭示LLM推理中的泛化能力 | 大模型训练数据的调查报告 | 有效且精确的提示优化：记忆中例子的好处....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBddEhoGPyI2FxuDo7qqs77FpztL3KUGFbYlWnfxn5WYMraCic8SvtBInOcIbJO0bpibgqPEJQCv6IObg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：论文可以让你更快地了解最新研究进展，掌握最新的技术和理论。这对于自身的科研能力和竞争力非常重要，尤其是在快速发展的学科领域，下面小编带你来看大模型最近的研究成果。1. 学习动态揭示了大模型推理中</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486539&amp;idx=1&amp;sn=57a5551f177cfc02e2992435b575ce70&amp;chksm=c1a7dac90fdf05f0e53ae8cae40433c80b4592df91c5a5d9e59963e910d763fa289ddc9e29bc&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 13 Nov 2024 11:57:30 +0000</pubdate>
-      
-
+      <pubDate>Wed, 13 Nov 2024 11:57:30 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[GPT4o商业微调真的融入了新知识？Wikipedia的质量如何？Fox-1技术报告....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdeVtmTJ5ykJx04WaTxKO8Nc7ialx6LatY6kouBOGhxVCvicF7kmEQZe9PPxPTrOciaklNBT832OnGRqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：看论文就像是一次美食之旅，每一篇论文都是一道不同的菜肴。有些论文会让你大快朵颐，有些论文会让你欲罢不能，而有些论文则会让你咬牙切齿。但是别忘了，只有尝试了各种不同的菜肴，才能成为一个真正的“吃货</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486535&amp;idx=1&amp;sn=21af0d20e2356f1e82550bd399813f02&amp;chksm=c1e8887f7e53971203e6a3faca5edf432a7f78b5a642b323838551d20004f3581f99f2209219&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Mon, 11 Nov 2024 12:27:25 +0000</pubdate>
-      
-
+      <pubDate>Mon, 11 Nov 2024 12:27:25 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[OpenAI开源最新评测SimpleQA：你的模型是否“知道自己知道什么”？预训练代理和世界模型的扩展定律研究....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdfSS2Ts2D0a32yn2oDSLsx7Nh246JJ6oGyz3rrqMP5KcEcPIDPelWx5fyu0poXgQ1xymtgAMEtHrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：看论文就像是一次美食之旅，每一篇论文都是一道不同的菜肴。有些论文会让你大快朵颐，有些论文会让你欲罢不能，而有些论文则会让你咬牙切齿。但是别忘了，只有尝试了各种不同的菜肴，才能成为一个真正的“吃货</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486531&amp;idx=1&amp;sn=7411149afbbfc239ae6da1c08113831a&amp;chksm=c1f97c1289ebc0e68fa5520684ce3c13cbd6f59f0f732f1cb0e9ee376bcc35255ca1e44be781&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Fri, 08 Nov 2024 11:43:03 +0000</pubdate>
-      
-
+      <pubDate>Fri, 08 Nov 2024 11:43:03 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[实现Kaggle大师级水平的自动数据科学代理Agent来了！RuAG：规则增强生成在大模型中的应用....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdeERomgOMHdl7ZD1xHpiaJbQwNVZ4jOy9mfKbHD5aPP7xV2lFSsVPyGd7v0G4ibdJ11xicQBerqI2G6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：平淡无奇的一天又来了，今天要分享的内容主要是关于大模型、模型评估、大语言模型的，喜欢的小伙伴赶紧去阅读相关论文吧。1. 自动数据科学代理Agent K v1.0实现Kaggle大师级水平  标题</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486527&amp;idx=1&amp;sn=6a45f15d90fe650175f762f6c8293cd2&amp;chksm=c1f439905895ce921adb3ad9b17cd6307985dbe69793cc972980c2748815c4ca2b064dc5cf91&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Thu, 07 Nov 2024 12:20:45 +0000</pubdate>
-      
-
+      <pubDate>Thu, 07 Nov 2024 12:20:45 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[大模型训练的改进条件和预训练策略！自Logits进化解码法：提高大模型的事实性...]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBdctuTe8ibUGsiaTpT93MyVnB1N1khtIpazcw23aaib6voP7at0ATg5TA4UnTp5ia7tsic9Wzmkz8ACug3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：如果你想成为一只科学界的“独角兽”，那么看论文是必不可少的。只有掌握了最新的技术和理论，才能在这个竞争激烈的市场中脱颖而出，成为那只最闪亮的“独角兽”！1. 大模型训练的改进条件和预训练策略  </p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486523&amp;idx=1&amp;sn=7c5285ca8b00f227f1350e5e71835983&amp;chksm=c1973ab48988191d980c13d86b20e4c79289df0d69bcdb3319db0c0f80bd89b5f9477cd7b222&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Wed, 06 Nov 2024 13:18:17 +0000</pubdate>
-      
-
+      <pubDate>Wed, 06 Nov 2024 13:18:17 +0000</pubDate>
     </item>
     <item>
-      
-
       <title><![CDATA[腾讯混元宣布开源2个大模型！Meta发布带隐藏结构的规模定律研究....]]></title>
-      
-
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBddfD7ye4UnSaChlIOaKARDbm28jwibpdQp2B5MwffNbzHbSwoTMNCJ8f9HAPNNvo4LjcX5ECpXUZ2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：平淡无奇的一天又来了，今天要分享的内容主要是关于大模型、大语言模型、预训练的，喜欢的小伙伴赶紧去阅读相关论文吧。1. 腾讯的Hunyuan-Large:目前最大的开源Transformer混合专</p> ]]></description>
-      
-
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486519&amp;idx=1&amp;sn=b7225e8e70f98a262db010e1e688a1dc&amp;chksm=c1e2a53eacae10be2d6a1d1a352077d3de25f759b8c93798ffc33702319b7b31553e00261f5f&amp;scene=0&amp;xtrack=1#rd</link>
-      
-
-      <pubdate>Tue, 05 Nov 2024 12:38:51 +0000</pubdate>
-      
-
+      <pubDate>Tue, 05 Nov 2024 12:38:51 +0000</pubDate>
     </item>
   </channel>
-  
-
 </rss>
