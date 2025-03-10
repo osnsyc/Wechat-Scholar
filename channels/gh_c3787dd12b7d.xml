@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[【搭建框架必备基础】快速上手peft]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztxPOX3wTqZhjedFic4j2bFdOaWulstssxXaBac2ictcWDaerXBH3Rib3nAFmOibWsMaUxjzzC3PQY13Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在学习别人的开源框架的时候经常会看到peft，虽然知道这个可以加载模型，但是不是还可以通过AutoModelForCausalLM.from_pretrained() 嘛，为什么还会有PeftMo</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247605233&amp;idx=1&amp;sn=81eedcc018898c62dc10f2e84ecbe61c&amp;chksm=facec8e38ed1159ce78d7667b60469f539a39d35dcd20b86d9d56b61b6ec70833a3126f774c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Mar 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ROS应用 | 基于Python的ROS2应用开发全解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvZI6kvp0b64hrWA7JQpWKLjYbYG8va6aTHI33H3iaGwkWMquagGZHguIp4xuqKuwxDBjPDxtao2HA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言ROS2 概述ROS2 相较于 ROS，在架构设计上进行了全面升级。它增强了实时性支持，采用了更先进的通信机制，如基于 DDS（数据分发服务）的通信框架，使得节点间的通信更加可靠和灵活。同时，RO</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247605207&amp;idx=1&amp;sn=924e4d0f6520b482f14cdc8da67a8651&amp;chksm=fa2815e2a404a295d1dca7f671bb6d2a6582927a054abc2800071823d7bc49d8317a54ab491d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -50,84 +56,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvdXyIpqWCXSDawe488DDqd0XdoWfSRz6YmYGMqib1UaADET59MMeDKbD9zEsPaxib5DysnecVzo3yg/640?wxtype=jpeg&amp;wxfrom=0"/><p>新品上线｜OriginMan大家期待已久的OriginMan今日正式发布！这是一款由古月居、幻尔联手重磅推出的市面首个全开源的ROS2人形机器人开源项目！不少小伙伴已经在前段时间的GDC大会上与他相识</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247605008&amp;idx=1&amp;sn=908a4cb16fef4c3efdfd441efb609e53&amp;chksm=fa1ef077a00fb3a4f3c6ce114ec6835d340e500a7ff470f01dce42b81427b1086d37f170e5e4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Mar 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS应用 | 使用MPC控制机器人运动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmW0tia4QlMaaX5wCgusrOsYzHqxus1z33dbMnaFWlhxcEC20I34rXVpNqXC3oZR5asj6NN3ZC7NQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在机器人控制系统中，运动规划与控制是核心任务之一。传统的控制方法如PID控制在复杂环境中可能无法满足精确的实时需求。近年来，模型预测控制（Model Predictive Control，MPC）</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604695&amp;idx=1&amp;sn=e716f88ea8c4c2965e0e20749a85ab6b&amp;chksm=fa17f36c60c4cc077accab85c2eec99216f8f83102dafa105e2984cdf629e729d3a42ecce81e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Mar 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人如何在家中精准找到移动物品？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvmW0tia4QlMaaX5wCgusrOsCxmrvCDZtfK6OGkDjKhhIarXUf43IJIoDD1xiaIolzmOur2wmEouLJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当你想要一杯水时，家中的机器人能迅速准确地帮你找到水杯并递过来，这该有多方便。但在现实中，要实现这个看似简单的功能却困难重重。我们这篇文章带来一份前沿工作的介绍OpenIn。看看科学家们是如何让机器人</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604679&amp;idx=1&amp;sn=4cbf4e119af538c93ec9c956b7be0a36&amp;chksm=fad5ef45aa8c8c634b0c170158164e1fb0908b81eb31d7e67e0dd9c3b76ebf02eed124dbab78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Mar 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS应用 | 基于 Stable-Baselines3 训练 ROS2 机器人自主导航]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvQuISNicE4VDy6a2BMd1WF8LVmaSSQPEUnHZ4OEaMl5H0hsRjr875wqvDianFNPeYbdiciae85OWcrFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 前言自主导航是移动机器人领域的核心任务之一，传统路径规划方法（如 Dijkstra、A* 和 DWA）虽然在静态环境中表现良好，但在动态环境中往往难以适应变化。强化学习（Reinforcemen</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604661&amp;idx=1&amp;sn=d6f563a713e0f875c4ecf441c8f7eaff&amp;chksm=fa4f1b6277064a4a0495c41f0261b42419146ff587225edbd356ed4e5a7af67b761a31e32036&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Feb 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个低成本高灵巧的机器人双手操控系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv84TFZErxRop2gEIJ0nx1R9o2HIOJBVp78fAFUnZK4a3PEIjK79RrH6WatNa3UabAthlK1Qu1X9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为机器人领域的开发者，我们一直怀揣着一个目标：让机器人能像人类一样灵活地完成各种复杂任务。在这个探索过程中，我们面临着诸多挑战，而如何收集高质量的机器人操作数据，成为了实现目标的关键难题。那么，这篇</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604642&amp;idx=1&amp;sn=fd5a19873bc5dbe04ede4564c8c78836&amp;chksm=fa6c5c2fa8b38bef79bc2a923e3708a1cbb63430d658bf83acb1d6ff184c153a713d57b3538e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Feb 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深圳站 | 探索具身智能的未来：2025 Seeed Embodied AI 黑客松]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dwtZ9rqEPPgpQKg29GnruSfmbU9icbPX7eT9ozr98OmzLTUgLzOBsvWNA3ibZoPSok7wCrhn98lrlcrTjNO13Gsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>欢迎来到Physical AI的最前沿！Seeed具身智能黑客松现邀请所有对 在机器人领域训练模仿学习策略，并实时进行推理部署感兴趣的人，共同创造具有影响力的创新解决方案。在这里，你可以与志同道合的开</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604625&amp;idx=1&amp;sn=bab5ebec4ec582ea333c6355bdc7b646&amp;chksm=fafc74c5a42abdb6ac07da0564f37284c8cef1cfbe3cac107e30e06fd5b861903f6e02df424d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Feb 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[知识蒸馏：如何让小模型继承大模型的智慧，提升效率不牺牲效果]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv93MwUreSX27P1pT6Sic5k2BSVicUNduY8qHG2NMrGNZ8EoekPtbhGpicPBAefGvmLmFKDVqgA0icPLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们知道，现如今模型各种各样，效果方面屡创新高。但是，有的时候，效果提升会有效率的牺牲。那么知识蒸馏，就是能够让保证效果的同时，提升效率。这篇文章将给大家来介绍一篇知识蒸馏相关的知识。原工作链接：ht</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604623&amp;idx=1&amp;sn=e1998766e8cabf682f585fe5801a22c7&amp;chksm=fa315c1b57f7f87f1e49a3ff09ad215ee0995f159757b592db80260b73716e777cfc20bb86a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Feb 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GDC大会回顾｜古月居以技术深耕探索具身智能未来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztEoRBzq2Kt1GGemUn3cfKdYC57w78lRowt8VDRk8f7fQQovqKlaYMmCibq47M14iciaC5sTPXuiaPgbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年2月21-23日全球开发者盛会GDC现场，古月居作为深耕机器人领域14年的技术社区于A-H-02展台展出，以"技术传播、能力成长、生态共建"三大核心方向为脉络，邀全球开发者共探具身智能的技术</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604571&amp;idx=1&amp;sn=415214f5e60b354de279dc5068eddbf5&amp;chksm=fa6f14cbf3940a05f1ea4e1be04a02c8b29a767cd021c81fa94911f9db18b331537d550fdc4e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Feb 2025 09:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第二十一期 ROS2 Qt 21天训练营已经正式开营啦！快来组团报名吧！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztEoRBzq2Kt1GGemUn3cfKdfKMC9Cg4mmBYEUrCKLXckZMVZiar8Eia0ECOfbVIK9MeNJfCcDYjyUFA/300?wxtype=jpeg&amp;wxfrom=0"/><p>早鸟福利1（开营前）前30名扫码报名可享受早鸟价¥159！2（恢复原价）30名后恢复原价¥179！注意：开课时间：3月10日9时截止报名：3月23日24时课程介绍点击“阅读原文”可跳转购买链接</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604571&amp;idx=2&amp;sn=2626d76c4edbff0a532949af35362ef7&amp;chksm=fa82372cef446a7b206c595afb58f99ab124808e5f5a3994a624fbcee6609b2ba8d824492fb3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Feb 2025 09:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从Diffusion Policy了解具身机械臂]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt1iaHg6y2dibrCDUMNIMgVSw4f12Sm9ict9Rib88pVb5W3Rc0wbNCXjJR1PgjTbWWENzTlDeUyibVa4zQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介本文介绍了 "扩散策略"，这是一种生成机器人行为的新方法，它将机器人的视觉运动策略（visuomotor policy）表示为条件去噪扩散过程（conditional denoising d</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604543&amp;idx=1&amp;sn=c54d4cf3f020c75958176b1f3c54cf43&amp;chksm=fa5a7d8d8412fd8317ee5fbec88e1a3a307ff4d420afe312c63129d9d7844c6df813da22e029&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 23 Feb 2025 09:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek_R1训练FAQ精选]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv5WRcbAC5JvfX1edDYbzJYqqFlqHIuicGFO7rPDclMhCibbyPdpQv9AWauDbUH5vtEqH2POOxHBYnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言前面通过《快速了解DeepSeek_R1技术报告 》（https://www.guyuehome.com/detail?id=1887036590482575361） 了解到R1的大致训练内容，但</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604516&amp;idx=1&amp;sn=614d11f3c09f74381041b11e1c5e0dad&amp;chksm=fac957bec23102f21a6ade0048bb52ae82afd86d2c7833b2c149374b4415b7a4ffab63ebf37d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 22 Feb 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【搭建框架必备基础】彻底搞懂Chat template]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuj1XOUXWHWSpqeUozM3iaiaW2yxibOib7IV2yOxdic74xQPZ1picxwhTra3D1bEpPNXRGwbDJiaBYmEUQrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言我们常常会在人家的开源微调框架中看到他们说现在的框架支持什么模型，以及什么Chat Template，那么Chat Template 到底是什么呢？具体有什么作用？以及如何自定义呢？本文将一一解决</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604492&amp;idx=1&amp;sn=8a2debf5c24c17fc8f266056f8c01f4f&amp;chksm=fae1d17833375eb8973ff437cf4ddf0d420b6903848840ad2c1e5b924ef95189b73ef910d0ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Feb 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS机器人建模与仿真设计——模型控制理论]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzskoJcXTFjN39Sa8uoMXvTsaL3pcvJYCbjjaOz9q7icjia9oARRHEzCefH2la189mt6OOXc0XcHGTeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前我们学习了如何使用URDF来描述一个机器人，现在就开始学习如何让这个机器人控制跑起来。（前文可点击文末“阅读原文”进入作者主页查看）首先，把圆柱体补全成一个差速结构的小车。下面开始编辑URDF文件</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604473&amp;idx=1&amp;sn=7bd5b7bd3417e0c129b0930261f47da7&amp;chksm=fa73f815a8768cc353f2ad90403d0455ec3a1a7b567d3b9053360ed5f3df495e3a78f637851d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Feb 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周五！来上海GDC和古月居面基~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzskoJcXTFjN39Sa8uoMXvTswbPzia8enwAquYDSW3nDKsPu81OkyVYUdkuDkV7gnY8SJd29SuDiaAkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>﹀ 点击关注古月居公众号了解更多~</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247604472&amp;idx=1&amp;sn=9a4d6ab9d8e1084df018edf48ad45222&amp;chksm=fae64e12179954b03a8f95a2c3cb7ff48e736a3fa8cc32b305ec6ca15e94e8b7a0fca24eb287&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Feb 2025 08:47:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
