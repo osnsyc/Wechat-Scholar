@@ -10,6 +10,18 @@
       <title>gh_114e76fd6e5d</title>
     </image>
     <item>
+      <title><![CDATA[何恺明LeCun联手改造Transformer！9行代码替代归一化层，性能不减还加速]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCx6mKfhpMjw5dWfBnVgspsds3rBZia4ibet7V72eFcEicB7UNc60sDVao1MqI7T5b15PveUTKJic3iang/640?wxtype=jpeg&amp;wxfrom=0"/><p>梦晨 克雷西 发自 凹非寺量子位 | 公众号 QbitAI何恺明LeCun联手：Transformer不要归一化了，论文已入选CVPR2025。归一化长期以来一直被认为是必不可少的，在现代神经网络中无</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247782636&amp;idx=1&amp;sn=f69200a0c62cfc5f2b425a0ad2f3219f&amp;chksm=e93b5310509ae2393de31148a03cc10b5011811dde27fdb43914076631f79a4cc484c8c7a085&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Mar 2025 07:22:58 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI能自主出“竞赛题”了！港大&amp;蚂蚁让大模型学会生成难题，水平已接近AIME]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCTWBic9AicFkQlKPINcImMwOZueJbYXryOclz9nxNN7284AXib6V8Uu4dh9dFduvSslk7T0y6QT9JHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>赵学亮 投稿量子位 | 公众号 QbitAI大模型架构研究进展太快，数据却快要不够用了，其中问题数据又尤其缺乏。为此，港大和蚂蚁的研究人员反向利用思维链，提出了PromptCoT方法，并基于Llama</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247782636&amp;idx=2&amp;sn=a9118c7b679d52767c79818f1dbe6b86&amp;chksm=e93a58b5f29514799333f1b78697660c1259d1f85577ebcdfd2404a8f1e8d62d81774c335217&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Mar 2025 07:22:58 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ChatGPT再进化：o1支持调用Python分析数据，网友：已经成为Copilot了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCx6mKfhpMjw5dWfBnVgsps5VhiccZSnlhKLicy15hEVict57OgAq5tau3ORsA71EbQe9lF5IOApYtlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>克雷西 发自 凹非寺量子位 | 公众号 QbitAI今天一大早，ChatGPT突然更新——基于Python的数据分析功能，在o1和o3-mini当中也可以使用了。OpenAI介绍，现在可以通过两款模型</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247782596&amp;idx=1&amp;sn=bb1341ad2f611af78eed0cf3c03076b6&amp;chksm=e970c5e1affe79e9196f3adfaf857b645d140381bab5711383b8a22a385e9086f656f12f7865&amp;scene=0&amp;xtrack=1#rd</link>
@@ -266,36 +278,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtBaKYKk4UzwhFibLaZ5w7jIicOCOAlXJxMOhmNPLUYnScfQd1rTrXfz1ffKuMwjgD2oFtxB0PsLMHrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>advml团队 投稿量子位 | 公众号 QbitAIIEEE/CVF国际计算机视觉与模式识别会议（CVPR），作为人工智能领域最具学术影响力的顶级会议之一，将于2025年6月11日至6月15日在美国田</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247781573&amp;idx=4&amp;sn=e28d6c713f8b01b9a2aa99bf7e5b3645&amp;chksm=e962a17f1bded775e7661f17784ff4eba449a9b5df6882b46cd87b02432f68ca7dfeae8e1df5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 08 Mar 2025 03:35:47 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5个人三小时复刻开源版Manus，邀请码也不需要了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCIQtnPDicIXP8p0ZwvTnvsgTnKVwvZH4U8gVMeLslbVNGxkT0nIGlmtgS1s2sPib9Hic8TrUp8zSlkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>克雷西 一水 发自 凹非寺量子位 | 公众号 QbitAI这壁垒……一夜走红的Manus，现在已经有了开源复刻版！5个人3个小时，一个完全免费、无需排队等待的OpenManus就做好了。至于复现程度，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247781523&amp;idx=1&amp;sn=102d19a2fff67253cf7729f5a1380190&amp;chksm=e9d50abfd9a623ba63ec1a262d77390ca1c5777a183ecde02a5a19f05df5b5083ce184df0424&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Mar 2025 07:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2行代码与DeepSeek语音对话，1分钟不到一毛钱，所有大模型都能开口说话]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCIQtnPDicIXP8p0ZwvTnvsgWRgibwj1xDEwSPDe7wcIgU6z6Iw1pKkU2q09bzTD4P3gicU17FGE9Uzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>梦晨 发自 凹非寺量子位 | 公众号 QbitAI起猛了，DeepSeek开口说话了。而且是超低延迟实时秒回，还可以随时打断的那种，先来看一段VCR：DeepSeek以及其他任意大模型接入这样的高质量</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247781523&amp;idx=2&amp;sn=87b68021d28504a529d0984eae5183bb&amp;chksm=e94574dd36d5b22e37ce0cf9152441d28844962135f20767f211fcbe8e126bb86c38d275fc92&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Mar 2025 07:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[7B的DeepSeek蒸馏Qwen数学超o1！在测试时间强化学习，MIT积分题大赛考93分]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtCIQtnPDicIXP8p0ZwvTnvsgbIN0SBdjZricWDeOcXL8AUic3j1Op8ibSOFAjQiahQnoicvPsyukKGXzt7Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>梦晨 发自 凹非寺量子位 | 公众号 QbitAI见识过32B的QwQ追平671的DeepSeek R1后——刚刚，7B的DeepSeek蒸馏Qwen模型超越o1又是怎么一回事？新方法LADDER，通</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247781523&amp;idx=3&amp;sn=e65bb8970b8213e60013590916f03875&amp;chksm=e9986f72deaef72d353de3c15c4cc8f1d4a0bcf314d0c982a846b50be1734a0e32562195c1bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Mar 2025 07:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无需大量标注也能理解3D！新研究登上ICLR 2025 Spotlight]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtATC9aZU77PaWBBULiaY7MGu0GRKOHAr5XjXqDB5EChDFUgQrNbChUpyBu1SVCE2DT35mDhA9leoHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>小q 投稿量子位 | 公众号 QbitAI只要极少量的标注样本，就能让模型精准分割3D场景？来自哥本哈根大学、苏黎世联邦理工学院等机构的研究人员，提出了一个全新的多模态Few-shot 3D分割设定和</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247781523&amp;idx=4&amp;sn=9239265a53b851a4ff18d48f3bfdbe74&amp;chksm=e92e6992fb9961ea5b66cb656b0eafc9c6a51cc5dc152f3615b5e6f58fa0b4d9ddef7af1d382&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Mar 2025 07:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[报名启动！今年最值得关注的AIGC企业/产品正在评选中]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/YicUhk5aAGtAGV8UDT5YmvpHthmeu3kUFeNPz9dxkMztibPrNn18r3XFH3CVDACZibwXnvMAdyoR5OP6bicqeP6hicA/300?wxtype=jpeg&amp;wxfrom=0"/><p>组委会 发自 凹非寺量子位｜公众号 QbitAIDeepSeek的火热，让更多中国AI的可能性被看见。下一个AI“国产之光”将会是谁？时值第三届中国AIGC产业峰会，量子位将根据过去一年里AIGC企业</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247781523&amp;idx=5&amp;sn=c18436b41d86f925084693c38eb4dc2c&amp;chksm=e9d24c948a01f2d1495eaf72341effb53d7659b371189618a6001a9fbc91286069e363c4dc23&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Mar 2025 07:12:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
