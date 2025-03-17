@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[详解vLLM和SGLang awq dequantize kernel的魔法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uUZV4bTzV2xxnDPfaOS4n6eTghZYiaribsdHez1w5d10mic39C3SuiajIUZKkqBThEB3vNJtg7FO9Pfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言本片文章解析一下vLLM/SGLang中 awq int4的反量化kernel，这个kernel触发条件为当输入x的shape的tokens<256时，这个时候会先把int4的awq权重</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526723&amp;idx=1&amp;sn=af4e8acd66c31f91b32fb23acaf7f2a1&amp;chksm=9e5090f071329ce6467865e67dc74e0496c57e132187a04b52829187e4c72b40ef41e44277e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Mar 2025 14:48:13 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[非常简洁的图像复原新方法：退化分类预训练，已中ICLR2025]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uj1tDib8fRSrjLaicnYxIiaOUNR8CHx6ts8CpuHXb46LiaAgRYKSpVwCB0xDbKicjXyHCfGEXm3AArWicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Universal Image Restoration Pre-training via Degradation Classification论文地址：https://openreview.net/f</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526691&amp;idx=1&amp;sn=beedce5704e88002ec39a08ed9c56964&amp;chksm=9e6a75414c2f8fcc551054caaf4e757fbae741a783bbbd192668ba066f6bf17e352150546837&amp;scene=0&amp;xtrack=1#rd</link>
