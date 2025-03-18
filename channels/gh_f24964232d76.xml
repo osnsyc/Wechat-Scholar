@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[谈谈DeepSeek-R1满血版推理部署和优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkhmqUCOxqhWHg1kf0ghjyHFBfhCF9TrcD8awdv86IVBCvaCBmZgZ91AkD3GfckVq0LUFnYsnqC06Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DR春节假期开始, 好像很多人都在开始卷DeepSeek-R1的推理了. 渣B也被兄弟团队带着一起卷了一阵, 其实推理中还有很多约束, 比较认同的是章老师的一个观点: “推理框架很有可能就此走向</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526726&amp;idx=1&amp;sn=f3313fefd938eda37e4edd9ff2113f22&amp;chksm=9ee527d9a883257160cec7f21361a0782028a24c9ab12e0699c1bc3b6f5ecfc93884aeb163c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Mar 2025 11:08:41 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[详解vLLM和SGLang awq dequantize kernel的魔法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uUZV4bTzV2xxnDPfaOS4n6eTghZYiaribsdHez1w5d10mic39C3SuiajIUZKkqBThEB3vNJtg7FO9Pfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言本片文章解析一下vLLM/SGLang中 awq int4的反量化kernel，这个kernel触发条件为当输入x的shape的tokens<256时，这个时候会先把int4的awq权重</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247526723&amp;idx=1&amp;sn=af4e8acd66c31f91b32fb23acaf7f2a1&amp;chksm=9e5090f071329ce6467865e67dc74e0496c57e132187a04b52829187e4c72b40ef41e44277e5&amp;scene=0&amp;xtrack=1#rd</link>
