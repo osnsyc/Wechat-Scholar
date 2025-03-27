@@ -10,6 +10,24 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[基于人类反馈的强化学习(RLHF)深度解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKfUuYNRjD82Ds3V1YCmlI6gvR5LicoqhvhRce4icsed16RCoFUwMpHicFxLgdBY1Z26ZZzkw4OVAn0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者: 捏太阳链接: https://zhuanlan.zhihu.com/p/27441484575前言用四篇文章按照层层深入的方式，依次介绍强化学习基础，基于人类反馈的强化学习(RLHF)，近端策</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448314&amp;idx=1&amp;sn=57a875869f6a61adcc8d017c34457d9f&amp;chksm=bf80143f05ab570239a3fa587d085b7028c3f449163700615537056a9eadabbd87f3dad044cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Mar 2025 14:11:35 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从零开始的大模型强化学习框架verl解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuyjIFl683R9uT0ZstJAQV7Oj9ckEzPYrU15zLh1ccmS6S3bkQzlna25PNaql6hzWGnAibK2ia8lnBBA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Nasusu(已授权)链接：https://zhuanlan.zhihu.com/p/30876678559之前在职的时候给一些算法的同学讲解过verl的框架设计、实现细节以及超参配置，写这篇文</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448314&amp;idx=2&amp;sn=7aa846f8c113857379addea2ddcec9d4&amp;chksm=bf509f670c2ff98c6d65326c398f89a82c1f4e4f6829243996c35b06577678a7e29f6bbd138d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Mar 2025 14:11:35 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[浅谈VC-PPO 与 DAPO]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5l3ibVZIib8DgrKKvWBppiasYBW9iaI8nu8XGCEETiaeCoc3hLDC7jCHyfQEQFKNXhicqtg16XZaqjvBwFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hzwer 黄哲威 (已授权)知乎：https://zhuanlan.zhihu.com/p/30982162116 三月份 字节seed 挂出来两篇论文，分别是做 LongCoT 背景下 PP</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448314&amp;idx=3&amp;sn=4d2609a0ae228282d0ea8deaa5e5f8fd&amp;chksm=bf3ed0f9fe53411d90188fbbc886c4e4010616fc8f940ef041855f243a1756cd6880da950ec2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Mar 2025 14:11:35 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek-V3 模型更新，各项能力全面进阶]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/pkWC42uvwkm9XAlB8yvX46GqTRb2qfvtC7blsbkxcuDI4zG0uCibqGM0hCq55SDpicamia0K67gL1btBspgGIDj3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek V3 模型已完成小版本升级，目前版本号 DeepSeek-V3-0324，用户登录官方网页、APP、小程序进入对话界面后，关闭深度思考即可体验。API 接口和使用方式保持不变。如非复</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448295&amp;idx=1&amp;sn=cfbe36fa6abab8cf3f755d0e15f65df1&amp;chksm=bf71836e63519306153ab10e4bcc933d1feeaf6fc408a9ad1b25ba872ffcd3d75a8b29066e17&amp;scene=0&amp;xtrack=1#rd</link>
@@ -104,30 +122,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IictSfTIpvuyBnC3GdcibFb8Vz5WhIwxNja1lRZPc1mDxub9ST32d4N7S81eG29w9FuyngPicU237fVictcCPjYYGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：杨鹏程链接：https://zhuanlan.zhihu.com/p/30142745226前言接着Kernel系列，前文介绍了PagedAttentionV1和V2，本文开始介绍FlashAt</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448215&amp;idx=3&amp;sn=e0e760545bb2a5f5f4b7b7c14446c6f8&amp;chksm=bff03087a10b9f86b0d4af1f36f066decd5d008c13ea8ddb105fc1bf3b85ab57fc7fd0679171&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Mar 2025 15:07:25 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[何恺明联手LeCun改进Transformer！成功去掉归一化层！中稿CVPR 2025]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI1tOxvFUljd2GdK2xlAtwsM954WSc5ykf3vN1oibsfSDsBiaI3vSCIs0xTSaDNmibcqJTZia3mYeax1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：机器之心何恺明又双叒叕发新作了，这次还是与图灵奖得主 Yann LeCun 合作。这项研究的主题是没有归一化层的 Transformer（Transformers without Normal</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448202&amp;idx=1&amp;sn=07e50127b52073c49d163b6f41788ffc&amp;chksm=bf096d993c3bc8bf1d78cbb2cb235024ef80fc801696f3010e4896757b9439fa06471dbb9f9a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Mar 2025 14:13:58 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek-R1关键创新技术再总结]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kJguDvfjOGBwFjVo4hmb3pcDicdgFwmFmMwlFxmg1JJg9xKf87ljrj8CyG8QzTlS16J99wazWSRuIcgTamneqmQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文详细介绍 DeepSeek 模型中的一些创新技术，包括对 Transformer 架构的改进（如 MLA、MOE）、Multi-Token Prediction 提高训练效率、算法、框架和硬件的协</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448202&amp;idx=2&amp;sn=ca34cb3219280c49e22e10fca36a8201&amp;chksm=bf6bdd93f6b9d2d74f5c0b5db1677e8d6c4fb3c60ae80ea7b58e89f397940131fa911dd2017f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Mar 2025 14:13:58 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[文字也能打水印？LLM水印是个啥？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW465VBfPXkCialLFZr1QRicjbhaEev0xY0d3U6D2kOmRAdODIhw820j0KLwksia9HKshUjE5szc4ZO5edQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>给图片加水印大家都很熟悉了：比如给身份证照片加水印以确定用途保护个人信息，或者画师给自己的画加水印保护产权，想要无水印版本的就需要购买；这种水印一般比较明显，甚至会覆盖在图片上的关键位置；也有些图片水</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448202&amp;idx=3&amp;sn=c49598902a7befd46bb1d6abb6489811&amp;chksm=bf89cb8c9aff0b5784e4fd9fe4d96bce17f1c1ccd59c358bee06809cc755369dd1481b76f78b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Mar 2025 14:13:58 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里通义实验室RAG团队研究实习生招聘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI1tOxvFUljd2GdK2xlAtwsALNx783bc0LcVicOIxicEU0gXnjwCcyKWrJskIHcDlF4sqd8OQarJ9ZA/300?wxtype=jpeg&amp;wxfrom=0"/><p>团队介绍：我们是阿里巴巴通义实验室RAG团队，团队近几年在顶级会议ACL/EMNLP/NAACL/AAAI等发表50+篇论文，登顶多项榜单研究方向：多模态RAG，包括但不限于多模态RAG reason</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448202&amp;idx=4&amp;sn=fc0de8f6dde11d4ca4696e66fb8e3df3&amp;chksm=bfde89534934cd9f415d42bf775620e445175dd8c4a20349cc3c6358fa037cf99f4eca15f393&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Mar 2025 14:13:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
