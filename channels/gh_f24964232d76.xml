@@ -10,6 +10,54 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Tensor-001 矩阵乘法分块乘法概述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkjqkIKxaxp3w6VEc3YcBfxsvxWcibJbkerpN7XF8hnGTQWdCUTyfuibcGsl4Z1pnZlwpicTLsNhicZwsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>新开一个专题来介绍一下矩阵计算相关的内容, 从最基本的算法,到Cutlass这些线性代数模版库, 特别是Layout代数相关的内容, 后面再逐渐细化到一些硬件实现访存优化和一些算子融合相关的话题, 准</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=1&amp;sn=7ab1f4b9fe8c5247fe618da6b320d155&amp;chksm=9eca577218075a8abd71cbb862ff82ec632a20587de7c9a515407ad8fbc12c0db327da35b406&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Apr 2025 10:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tensor-002 矩阵乘法优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkjqkIKxaxp3w6VEc3YcBfxsZoN5KiayIBjlADrt4Nyy5DKeJ6lJHSDL4YDbic2oAE6yQzZJkQ3gAaLA/300?wxtype=jpeg&amp;wxfrom=0"/><p>这一篇主要谈论的是在SIMT架构下, 不使用TensorCore进行矩阵乘法计算所需要的访存相关的优化. 通过逐步迭代优化来更加深入理解GPU的性能相关的特征和访问内存优化. TensorCore相关</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=2&amp;sn=283bee7c334356b49e15dc6c9e1c0706&amp;chksm=9ed6c3b673ed59cd8b7870cf0e244a8d15d8a148898547a221a853ef7d81d1550e76d70bbed5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Apr 2025 10:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tensor-003  TensorCore架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkgnoFTPS4eOUmH4JP3TJpTMEZAAMiaP9xpGRFm0zxC28ic82LU44Mqyr52jjRHgibjmmQ8NEWajuH3YA/300?wxtype=jpeg&amp;wxfrom=0"/><p>时间回到2016年, Google发布TPU后(已经在内部使用了1年多), 同期NV发布的Pascal架构被虐成狗了. 而Volta这一代的架构规划是在2013年, 应该有可能是在2015年附近得到了</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=3&amp;sn=76637f63f4ff0b1053c27fd10887741c&amp;chksm=9ef9180cd3b95f71650de10b8ea48c6132f961fbda0d2e705d45904df2160efd182f5a9c2797&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Apr 2025 10:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tensor-004 TensorCore编程及优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkg4hiao0HICnzdrAxvoEo0fXlwe3iaSuCKvMUfgich7dtNyAZeu3xSALT6Q1Wc1bfQwMpTKXFG4drsmw/300?wxtype=jpeg&amp;wxfrom=0"/><p>TensorCore编程相关的代码可以参考, 本文在这些代码的基础上进行整理, Credit属于这些代码的作者Cuda-Samples[1]中的cudaTensorCoreGemm 代码知乎:木子知的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=4&amp;sn=f00df2b872a1bdfd08ae38b79da5cb1b&amp;chksm=9e5cb3f8ea7ab055252a40bf2ae348f48a42eaece66058b7e5770b274b01ce4b2b65f73ac51c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Apr 2025 10:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tensor-005 CUTLASS简介]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkia5fibvS1oTDN3m7mqmx7jZfUNCcoRENeI2zC8uia9WptvOovwUecNNLpeknb5KSf2Lp8A600Qribcvg/300?wxtype=jpeg&amp;wxfrom=0"/><p>1. CUTLASS计算流程抽象1.1 矩阵分块乘法在前面一章我们介绍了如何使用TensorCore进行矩阵计算, 通常我们需要按照如下流程逐步分块从GMEM加载矩阵块到SMEM再到寄存器文件,然后进</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=5&amp;sn=924866a589909c52d26f7febb1ca6973&amp;chksm=9e79614eca631c27e979b7105ccd13feb189481aa6ae44de64942a49bcc70e8137738753cfd3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Apr 2025 10:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tensor-006 AI软硬件交互界面: 可组合的Kernel]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkj5XyfUdHkfkntj2ju2Vbs9uJNjphMqKdtQzrcNUpxyNY53LCb05heM2VS0xPMI8UhXdjImS1oGUg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在谈CuTe之前我们先来看看另一个话题, 关于Cutlass 3.x的重构. 英伟达有一个Session讲的挺好的《A Generalized Micro-kernel Abstraction for</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=6&amp;sn=ed024c8a8d900e714306f578bb3c2948&amp;chksm=9edf966254e6edba7db0cf01ab51d553181ea1612bafe00473ee05bba464dcd558203ea9b7bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Apr 2025 10:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tensor-007 Cute Layout简介]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkguL1LxeYEk0y59nbjiaWksryj6QCuia8Tc3rVCwUWlVvoo7AR1DAEFzBO0tHLiatZYxxzz6ImbB7kUw/300?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DR针对不同的硬件平台架构, 在Cutlass 2.x中定义了多种Layout抽象, 在做矩阵分块计算/解决访问内存的Bank Conflict以及算子融合的过程涉及大量的内存访问地址映射转换等</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=7&amp;sn=cd7ba74ba5059318d3cfb1e0a2837b93&amp;chksm=9e592353f68d64a78bc2d4f2bd03052b3f09d4c154ddcb2f556a4a871540e7a7e266a7da7b3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Apr 2025 10:23:02 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tensor-008 CuTe Layout代数]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkjkicvvXkuwf6WVZuUB1wHzR6gpt6gvDXibjONNe0G57YlkMeaXkJ6oPLqicxj0UcWnV9XpbmVSE8TJQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>CuTe Layout代数可能是大家对Cutlass最困扰的一块内容,但又是非常巧妙的一种工具, 接下来我们详细对这块内容进行分析, 本文目录如下. 0. 为什么需要Layout代数  1. Layo</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=8&amp;sn=afad02caacd5c27f18a28a7d6ee1a2d0&amp;chksm=9ef3551d5bbea361771cb8efb46db4732e7c20e7179f9085addf5da47609832f6779c5ed2487&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Apr 2025 10:23:02 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek-V3 + SGLang: 推理优化 (v0.4.3.post2+sgl-kernel:0.0.3.post6)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vLmA4ewxfYR8icwibUEsHIMG5sEJtAwbwZsII1gBc0I7ZmW1W9NIMOVXpnSicDNuflywZHspfaFMKOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文由 datacrunch 的博客作者 @Paul Chang 授权转载和翻译并发表到本公众号。DeepSeek V3 SGLang 优化继续我们的DeepSeek V3与SGLang集成的技术系列</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527153&amp;idx=1&amp;sn=ad81d7a3249130b3b328a180f3e6caad&amp;chksm=9e8c1254a964800a141cfd598c79bede79812c7e38714cf805123ca5a0833454d17b5044776d&amp;scene=0&amp;xtrack=1#rd</link>
