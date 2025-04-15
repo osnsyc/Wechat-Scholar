@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[图解DeepSeek V3 biased_grouped_topk cuda融合算子fused_moe_gate kernel]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3t6IR1tNo2n4icTV7Bx47aF9A212teNEKDYHuxCWRACZZGic4p1BSAXpCbhrVvnPPOmWJLmOyaqqt1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言今天介绍一个在SGLang中针对DeepSeek V3模型中的 https://github.com/sgl-project/sglang/blob/main/python/sglang</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527208&amp;idx=1&amp;sn=fd51a42fd76c76fb7d283f4b1ef3b36a&amp;chksm=9e3a298dd361267187450457b9a3e4a6335779e2bece9dbea24313cf59d09324164edfacc1e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 14 Apr 2025 10:15:45 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Tensor-001 矩阵乘法分块乘法概述]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkjqkIKxaxp3w6VEc3YcBfxsvxWcibJbkerpN7XF8hnGTQWdCUTyfuibcGsl4Z1pnZlwpicTLsNhicZwsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>新开一个专题来介绍一下矩阵计算相关的内容, 从最基本的算法,到Cutlass这些线性代数模版库, 特别是Layout代数相关的内容, 后面再逐渐细化到一些硬件实现访存优化和一些算子融合相关的话题, 准</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527155&amp;idx=1&amp;sn=7ab1f4b9fe8c5247fe618da6b320d155&amp;chksm=9eca577218075a8abd71cbb862ff82ec632a20587de7c9a515407ad8fbc12c0db327da35b406&amp;scene=0&amp;xtrack=1#rd</link>
