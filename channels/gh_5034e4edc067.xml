@@ -10,6 +10,24 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[从Math RL初窥LLM推理模型：是怎么work、哪些trick是有效的！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKImo2Gjlb0rk21gIB3PDTiaicfe3jZclICLeI1beZTyFWgOXPJrTlYicC6WJXL0kg40MqoMVcPAvl6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：羽毛书https://zhuanlan.zhihu.com/p/1895568864848356926   笔者前面几个月进行了对R1/R1-Zero[1]的复现。在这个过程中走了很多弯路，但是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448668&amp;idx=1&amp;sn=5bb492b5c4529d79feb07b4c035206fb&amp;chksm=bf1ae271e7b9d2430dc33205525d10169a8ef98675146b70613418ee3f8a18048d67dc90bd45&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Apr 2025 10:47:34 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[重新思考预训练中的反思现象]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJS8x7UezFibu6yxuic1yhHHHsfMY66YjtwdERibVbWJ5OlSRuMCKRGEvqwibCFnA0ia1w9Xzc9zUadJyw/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：小茄墩https://www.xiaoqiedun.com/posts/2025-04-14-reflection-in-pre-training/  论文名称：Rethinking Refle</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448668&amp;idx=2&amp;sn=8b737d254fd675efd1107b887156fbc2&amp;chksm=bf0eda823caf254b56ad00549cee09c573e4c043afda08e4f12d8c1c77f9e169e48d2820567f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Apr 2025 10:47:34 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[端到端的训练，怎么复现 Deep ReSearch（中） ：围绕着"Deep"，解构 Jina 项目的实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kG5jQnDGqBF4OiaibiciadResCVd85JsKzWIk8gbWiazXDG8Ju4lywn4ggrtRIt3pH5j36Gf1Hpw0kZKQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/1898295379990132543 （已授权）在上一个篇章，端到端的训练，怎么复现 Deep ReSearch（上） ：先从 Dee</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448668&amp;idx=3&amp;sn=d0a57c7c72590058cb04a6f510b0899d&amp;chksm=bfdf42deea79d23dce08df5a83f654b9c2f5bef62584d773fdadb7310f24cf75550ed48a5365&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Apr 2025 10:47:34 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[知乎热议 | 前几周Deepseek都是神一般的存在，为啥热度消散得这么快？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLZL6XYoVaK9qcRfuyqliaf91fw2FQUxp2p10WvCOfEWG4K5ibjHOmicbGaKTBskPwqURWYVcTcoBkvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek热度变化揭示了大模型发展的普遍规律：新技术往往经历爆发期、冷静期和平稳期三阶段。作为国内首个突破性AI产品，其早期被过度神化为"民族软件"，引发全民尝鲜潮，但实际应用暴露明显局限性：科</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448657&amp;idx=1&amp;sn=9509aeeab303eb233311fb8de9e08106&amp;chksm=bfcd7664cccece06e7e21ac6eb2eff9c16297c47e255471e8bffbc034701367444e674a00e2c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -92,30 +110,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIGSicSGuhVJJLdvcVg9cpPoLQJnpyI3XjOXq4Vs3lG2e0c3Ep3acDtF2gJM4nHO0vuPnE50EMjvXA/300?wxtype=jpeg&amp;wxfrom=0"/><p>提纲1 简介2 Think Twice3 实验4 讨论参考文献1 简介    目前先进的LLM，如deepseek-r1或者openai-o1，已经验证了在推理过程通过增加推理过程可以显著增加推理能力</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448576&amp;idx=3&amp;sn=826b8f31f7c7200b14b339e38bba34e7&amp;chksm=bff34a6407db3cb5a9fa3ed1641ccc159721caa3585e951c2c93dddabd2f6cb74d37c05dc0d0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 20 Apr 2025 12:26:41 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Reasoning 模型 RL 对齐的实际挑战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJS8x7UezFibu6yxuic1yhHHHmCenLMK0WiaXNs8SKY5Y3ZCGYMTToEQJ4Y5Le7736qL4GuJGt7QM1yg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：曹宇https://zhuanlan.zhihu.com/p/1892270905683575985    Reasoning 模型最近不可谓不热闹，从DPSK-R1把大模型从业者从infra一</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448556&amp;idx=1&amp;sn=77596a62f06f2bab948b715a1000d3b7&amp;chksm=bf68af8257073f992b92287c35499512479a642e7ebcec071cf05afadc44ef0787fb6af63457&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Apr 2025 10:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鲁棒音频-视觉问答新进展！西安交大、港科广提出全新测评数据集FortisAVQA与多模态大模型MAVEN助力鲁棒音视频问答]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJS8x7UezFibu6yxuic1yhHHHobOBGEJDrhodEhJzvibzGtkxibA5skZpZ06wdregZzjLOpibHbK0ZypwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>音视频问答（Audio-Visual Question Answering, AVQA）是一项具有挑战性的多模态推理任务，需要智能系统理解音频-视频输入，准确回答自然语言查询。然而，现有的AVQA方法</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448556&amp;idx=2&amp;sn=4530b6b1bdac5e9a96b21aafd38963bc&amp;chksm=bff16c840ffdae738c17fdc7c9aebdb8da40f37a7341754c92e4d5b92cc3b2338a1aab710b29&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Apr 2025 10:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OlymMATH: 奥林匹克级双语数学基准，R1 正确率仅为 21.2%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/G7ia3FZ0o0OptEhszqXzq0uo0WNs9qhWqLzLW2MQKG3RHGJMoNWyibjywIRZ0x8okxWvMFpjzues14xe9LeCIL8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>© 作者｜孙浩翔‍‍机构｜中国人民大学研究方向｜自然语言处理摘要当前数学基准难以有效区分先进大模型的真实推理能力。为此，我们提出OlymMATH——一个奥林匹克级数学基准，包含200道高质量问题，并提</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448556&amp;idx=3&amp;sn=2f26d38e99a28a06af541f2d4aec0cbf&amp;chksm=bf2ecd6a71bdac37fa360c4ad1e98b54ef4eab718afdfbdbc609a5183b83cb10dab7442d12d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Apr 2025 10:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI姚顺雨：欢迎来到AI下半场！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLluAgXJC5Gt9ibxqmdA2Olaru3r9Y8KyIu5njWKiaQ7YEDA5TVUrgZnbzV81c1wbfN8xIFlKWBF4FQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Shunyu Yao (OpenAI)原文：https://ysymyth.github.io/The-Second-Half编辑：青稞  摘要：我们正处于人工智能的中场。数十年来，人工智能主要</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448537&amp;idx=1&amp;sn=b6001ef67810c99cadf63977cc33de92&amp;chksm=bfb69faabae4b4c83c152f1591cdbf6cdff89ad2fb7d38737e6a20a133af59b3b9694f459809&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 17 Apr 2025 02:40:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
