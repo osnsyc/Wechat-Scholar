@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[谷歌发现LLM是Greedy Agent，提出用RL调教出理性决策]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaB1aa7ZM4O8fSkf0YJlnQtRH2iaNWdejqh8TdiaIv99G8EXpRibD6ibqY3z164oiaoxSice2V7UG3BPCSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型的“决策短板”从何而来？大语言模型（如ChatGPT、Gemma2）在文本生成、代码编写等领域大放异彩，但当它们被用作“智能体”做决策时，却常犯低级错误：比如玩井字棋胜率只有15%（不如随机玩家</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538240&amp;idx=1&amp;sn=80ae3560e3cfde3c0d32449b93585131&amp;chksm=eacc6b5a23cf17563ff1a3355fdbc768057d1635bf569869def5b1d3613b1b895aa68a6d8f56&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Apr 2025 13:32:04 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tiny Reasoning模型：LoRA+RL=9美元训练费，性能碾压同行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaB1aa7ZM4O8fSkf0YJlnQtcNTUBj9ZqD43lBibOJgPhkKkeXMd8H5I50Z5Aia2LBDr6xScU9dWyqtg/300?wxtype=jpeg&amp;wxfrom=0"/><p>低成本也能训练“聪明”小模型？Tina的野心当前大语言模型动辄千亿参数，训练成本高达数百万美元，但Tina团队反其道而行——用1.5B参数的“迷你”模型，搭配创新方法，实现低成本高效推理。核心问题：如</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538240&amp;idx=2&amp;sn=62045adadb2756b6e62e93d8f3408aba&amp;chksm=ea52ec561c681b8ff13d7533dfe371d50859375dd9d5a40e8f9955b887a9017c04b20ad08ef3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Apr 2025 13:32:04 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NUS发布Reasoning中的安全问题综述，idea满满~]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahqxXwfEf6HqS9H9usmkMaegVc2lztdYENhsbtIzia6U2S5ibEGoma2yjuYoaKu5Vr8wzmhc6CcyD2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>当AI学会“思考”，安全问题如何破局？最近，以DeepSeek-R1、OpenAI的o1系列为代表的大型推理模型（LRMs）横空出世。它们不仅能生成答案，还能像人类一样“写草稿”“分步骤推导”，在数学</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538212&amp;idx=1&amp;sn=7d50d37f025fc1b90ed45feae0ce731c&amp;chksm=ea53fbb24e44870561ed70bf702b0d6d8b92ae68516192f8cae03812f360fa9f86c5222cb089&amp;scene=0&amp;xtrack=1#rd</link>
@@ -152,24 +164,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahjIaH5nTVpVsWKJ82qWMMic5p4SxctgLd0tF50mjrBGfkqnCnicvGNFzEO1Ilnz5wia4fGgZ6OacBVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近，LLM圈流传一个“反常识”结论：用强化学习训练的大模型，可能只是在“考试作弊”，而不是真正变聪明了！论文：Does Reinforcement Learning Really Incentivi</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247537941&amp;idx=3&amp;sn=41b41cc3bc531ef5041cbd5bf3b3057a&amp;chksm=eac3c0b815d23d38444ba231c6d3eaf0e3203c0f84a740f4a4453900ac45d99a9bdade9c39e3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 21 Apr 2025 12:46:26 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不一样的推测解码！大LLM带小LLM，出奇的好，还有意外收获]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajjYHoWmm37BLDCLnEbeWRh1WdP57bkdVMa6sPl4ynzNZiacltGVJKDTFtHwQZiaQSxia8miauRg5Q2ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>小模型，为什么需要大模型“带飞”？论文：Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247537883&amp;idx=1&amp;sn=395ffbf6d0b866772e03509f3953d2fc&amp;chksm=ea41df4862bf0acceb2bffb4b423981f4f9bbb0287eac71aa95c8e46766f1fae3cc9af56ebb4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Apr 2025 11:59:03 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[北大+复旦发布最新最全面的Reward Model综述！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajjYHoWmm37BLDCLnEbeWRh0be5XGFpMic9VxZN2zpoUB4C8hBia23TGzBibXiclLjzbS2LUStPIqIqkA/300?wxtype=jpeg&amp;wxfrom=0"/><p>奖励模型是什么？模型的「价值观老师」，用分数潜移默化纠正其行为。想象你训练一只小狗，它做对了就给零食，做错了就纠正。奖励模型（Reward Model, RM） 就是AI世界的「零食发放器」，通过打分</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247537883&amp;idx=2&amp;sn=24b51e72058882ff3a628f6d28154a1e&amp;chksm=ea6389810846e0dda5c09f88be62c7cd342b4565e9816ca5e58b35c5d112d4ca70e4327819a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Apr 2025 11:59:03 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一张图片知道你在哪？o3-like 7B模型超越一流开闭源模型！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajjYHoWmm37BLDCLnEbeWRhoicTNChsYVCTyt6ZnnWu0xP8RO6dy7Go8YnDUudtonXqQqtjqowCfMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Github：https://github.com/TheEighthDay/SeekWorldHuggingface模型 (SeekWorld-7B)：https://huggingface.co/</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247537883&amp;idx=3&amp;sn=c2709be7e3870e940af49ce5421f5667&amp;chksm=ea8777aaf5813d445f0db42bc167c4f68627ee4da72ab137c7c5c038830a46d8ceae60741ad0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Apr 2025 11:59:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
