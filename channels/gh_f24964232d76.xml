@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[图解Vllm V1系列2：Executor-Workers架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOJMiatNibY1e7vGYic1FlOnyiaqTaPztGWrWLzStWAsgHSEnH7HZdjXHxQVGVUmxIhuhiazYO88licTzWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前文：图解Vllm V1系列1，整体流程在前文中，我们讨论了 vllm v1 在 offline batching / online serving 这两种场景下的整体运作流程，以offline ba</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527271&amp;idx=1&amp;sn=c0b695300d6197d21bc4ba95b5b86627&amp;chksm=9ecea3d2f7890237f5e7ddd1ca4bccb388f80776ab3c52430586f263ba0493bae32bcfffc3c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 01 May 2025 15:57:04 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[在 SGLang 中实现 Flash Attention 后端 - 基础和 KV 缓存]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3slmfJj0hp0FQlqQwczyWXv722ia013y5vjlPHmue4IybV406re1jNmrYD29Wom79wXtJCsjicYDTzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自：https://hebiao064.github.io/fa3-attn-backend-basic ，由 GiantPandaLLM 翻译和Repost。作者是来自Linkedin的 Bi</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527269&amp;idx=1&amp;sn=0103cb76e8f06473b93d70de61c73a48&amp;chksm=9e744db93de6cbf8eeea33f8237411c640fa3fe831034fe9e2fbc2b3e8ad52d2667152b49c85&amp;scene=0&amp;xtrack=1#rd</link>
