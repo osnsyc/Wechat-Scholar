@@ -10,6 +10,24 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[DeepSeek-R1发布后的100天复现之旅方法总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajhB24sPyaVd1yFKFxEz4ZuXSjXpD8VUE047EAfwHhicRFQwOJ459148vosYibD3cK9lebGf4LnIBLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>100天前，DeepSeek团队发布了「推理大模型」DeepSeek-R1。这个模型不仅能回答问题，还能像人类一样一步步「写草稿」「验算」「纠错」，比如解数学题时先列公式再计算，写代码时边写边检查。这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538432&amp;idx=1&amp;sn=552ba0d70e976ef8aa5cffcb27436d15&amp;chksm=eabfc499c29b8842fb0e75c7ed5108b720d9a579e859a95f311f79b4cb36f1c2c673f83bc047&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 May 2025 10:22:28 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Reasoning的最终答案可能不是模型想要的答案！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajhB24sPyaVd1yFKFxEz4Zu2v2CnwQcchRK2JibicMQzopwiccQ9uYpK66FYB04Aniautibib4pzgcUmYag/300?wxtype=jpeg&amp;wxfrom=0"/><p>打破常规：为什么LLM的最终答案可能不靠谱？大型语言模型（如ChatGPT）解决复杂问题时，通常会生成一段“推理过程”，最后给出答案。传统评估方法只看最终答案的对错，但论文提出一个反直觉的观点：最终答</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538432&amp;idx=2&amp;sn=1c638d9975e82cff98fc3997dd1b8d42&amp;chksm=eaa857d33672232c982a73c1ba8d9fc6217deeca4481e2717235328da84e77a4ba297f439904&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 May 2025 10:22:28 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周六直播预约 | Test-Time Reasoning综述分享！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajhB24sPyaVd1yFKFxEz4ZuDZGoibTFBhcIhjxgwxe3icWVnPAkqXkb4vj8r80PoTNT4fkORsa8cRqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题Test time scaling 综述! 从what, how, where 和how well帮你系统解构！时间2025.5.3 10:30 北京时间内容介绍论文：What, How, Whe</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538432&amp;idx=3&amp;sn=e86ba5067bb2de103c266992160b004e&amp;chksm=ea30cb59ca18cd67412f7f6c8af059266d9ae88d21f5c96b0888e3b97e919fe10443c52fa223&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 May 2025 10:22:28 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[体积大、算得慢，如何推的快？LLM高效推理服务最新最全综述！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajGdRbqibZxzSkycIkJ0Yz8ReNIuLr6moMnKbywN3UB9XycGdzzDA6xSNp9BXtBquic5pGj5uANcgnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家都知道的一件事就是LLM真好用，就是太大了。咋部署才能更加高效呢？真的是个让脑阔疼的问题。比如最近的几十万下载量Mistral-Small-24B-Instruct-2501和 Llama-3.3</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538405&amp;idx=1&amp;sn=b4488ef8f5c55aa8b1f69fcc93da3465&amp;chksm=eab77b1d25963701c3f483dafc4ac32ffc2adbd50f9d74b3649b024ecea54dc922f6e27b6d25&amp;scene=0&amp;xtrack=1#rd</link>
@@ -110,30 +128,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahqxXwfEf6HqS9H9usmkMaeXbblbgm1ASLLeYrbicniaqAcUbZF7LBwfRGUn0lCXh8Z3muEK0VEVQeA/300?wxtype=jpeg&amp;wxfrom=0"/><p>为什么传统模型不够用？多模态模型（比如大家熟悉的CLIP）在图像-文本匹配任务中表现不错，但存在三大硬伤：文本截断：只能处理77个token，长文本直接“被砍头”；孤立编码：图片和文本分开处理，缺乏深</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538212&amp;idx=3&amp;sn=63eb17827ac018078f3f025014f677e7&amp;chksm=ea538e9fd5840d02b3498f8822da1c5a780eb9907493e90ee3f531bf3a424a9d415e6ff044b4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 26 Apr 2025 10:57:04 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[揭开o3的神秘面纱，港中文/UIUC/普林斯顿联合推出OTC-PO，让你的Agent既聪明又高效]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagGcxQJIDoPN6vjicI8ao078LpFFeWSkfCm11jfrw8rHwKYEe0OByIX6IaLF78wdWJxSiakLUk0VX5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>RL is All You Need for Agent while OTC-PO is All You Need for Agentic RLAgent 即一系列自动化帮助人类完成具体任务的智能体或</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538171&amp;idx=1&amp;sn=c6388857de39f6230ff5e1080555b2c8&amp;chksm=ea17c4293ee1ed0c1636fe9f2d04bbde1bf7960b828f995d42419030051e39509436d97b1718&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Apr 2025 05:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首届CogMAEC@MM’25研讨会求稿，探索认知驱动的多模态情感与共情智能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagGcxQJIDoPN6vjicI8ao078G4iaAkxT5drEHQKJVvSMSVbr5hLdVqYEzncOcB05IwQs4yc0u7Qblzg/300?wxtype=jpeg&amp;wxfrom=0"/><p>时间：2025年10月27日至31日地点：爱尔兰·都柏林 | ACM Multimedia 2025官网：https://CogMAEC.github.io/MM2025为什么关注CogMAEC？当人</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538171&amp;idx=2&amp;sn=5bb8081dd45be4fec11bf79f46351073&amp;chksm=eabf7a0c6a8bee65cd22b970d632fae5106278ca636f1dac9e217e468dfc387f093b42538339&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Apr 2025 05:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1.5B小模型+32B外援=28%准确提升+8倍提速？SplitReason实现推理过程“无缝接力”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagGcxQJIDoPN6vjicI8ao078V2sEjR9kXMtyGq78Xn08HafwPpEBfd6udO8ia9WA7wkAhvEaaFtS6kg/300?wxtype=jpeg&amp;wxfrom=0"/><p>为什么需要让LLM学会“呼叫外援”？大语言模型（如ChatGPT）虽然强大，但推理速度慢、算力消耗高。尤其是数学题、编程题等需要多步推理的任务，生成几千个token是家常便饭。这就像让一个博士生做小学</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538171&amp;idx=3&amp;sn=52f514ba7ee1b783089e487e63697d53&amp;chksm=eaf5e061a728c47a90fbe3020860fd63932ccb219f058e20287ef2e736108e2c08be3ef5b72b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Apr 2025 05:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[华人团队提出视觉推理测评标准，揭露SoTA模型残酷现状]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagGcxQJIDoPN6vjicI8ao078RWLr7KwnuJZ9PDuYyE9wGRPJYygKKEYhzY7MSPc0o8PBzST3ytYq2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>为什么需要新的视觉推理测评标准？当前的多模态大模型（如GPT-4o、Gemini）看似能“看图说话”，但论文揭露了一个残酷真相：它们可能只是在玩“文字游戏”！现有测评标准存在重大漏洞——允许模型先把图</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538171&amp;idx=4&amp;sn=589ff3cabec5148a9780d3ace4a57268&amp;chksm=eafc46bf17542b3709366fd85e2ed7f8d71a58a5488fd2df4a5078c8aa0798bb31421f172db8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Apr 2025 05:22:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
