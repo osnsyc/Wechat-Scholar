@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[漫谈PID，聊聊实现与调参原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs8tDEaribKEFOHrBPHibuz3Gd1icufEEDf96GT5hAYIjo0N3tzW9WkkEQsibC7ib2QWQqTdODoibXnGmiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言PID控制器是工业过程控制中广泛采用的一种控制器，其中，P、I、D分别为比例（Proportion）、积分（Integral）、微分（Differential）的简写；将偏差的比例、积分和微分通过</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606606&amp;idx=1&amp;sn=11f04db1a2494946bef5edf5805f8663&amp;chksm=fa0388a339065ec61a320ea2d39bd19797c90bda2d6b49b00ae3800bccdc8cddaf547fd08c2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 May 2025 09:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[万字长文梳理具身智能操作知识与拓展]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuFnsOAY6fWbCga9grbDweEcv7KZVP3SjicnHNFlZ8eyvxp93ibBSbjPMIkLnIzvoaydTjezGMicb2gA/640?wxtype=jpeg&amp;wxfrom=0"/><p> 0. 简介对于具身智能来说，目前算是一个集大成的工作，虽然目前仍然处于持续发展的阶段，但是有一些比较基础的知识还是需要系统整理的。目前具身智能发展的非常快，几天就能看到一个让人眼前一亮的工作。1. </p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606595&amp;idx=1&amp;sn=9ad80256e9f6685bcf952a6f99dc7f2e&amp;chksm=fa2ce74bb38ca7079dac2d2e3afbc0559ebd63aa4192ffb188509f6d3a5d5f012228ca8cefd6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -44,90 +50,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztIogVJtvHrha7DNpw4HRzCJcY0egjcIK5PA5r7ERM6J2gJ0pTcFIHHiaPacjjibeBtbhcC7Veiabt7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言随着机器人技术的快速发展，计算资源的分配和优化成为机器人系统设计的关键挑战之一。传统的机器人通常依赖本地计算资源进行任务处理，但由于硬件限制，本地计算能力往往无法满足高计算需求的任务，如 SLAM</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606514&amp;idx=1&amp;sn=306a27327c6aeb9be6d3f706efee726a&amp;chksm=faedc6fe188251aa97b2924357b7e3144ed58c72365e922d1741b67e5ce7996aecd5c9bb2ff0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 02 May 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[古月居祝大家五一快乐！（内含发货通知）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvfkWLz53xic8dBubjsFjPhlNrhcuOam7g1QKkJfSaiaiaUqLvk3gR01MmWKQfJ2Oicjq02ibGcf9gkEpg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606513&amp;idx=1&amp;sn=38d9a3eea6fcae072f016d2f1cdbf82a&amp;chksm=fa9b9087daf6f42e6c126b96752ddb5c30a8a3867b355adc2abb8c37c1f46d61af8147aaabf2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 01 May 2025 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[报名开启！上海交大×古月居2025 AI夏令营，带你玩转ROS机器人！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvfkWLz53xic8dBubjsFjPhlNlG3GTDBOZEqU5DXiao4Jj9kxg9ozrapzO1dG76SRLR3L0AmhnpYmAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为中文区最大的ROS开源社区，古月居联合上海交通大学电子信息与电气工程学院教学发展与学生科创中心，为全球中学生打造顶尖AI与机器人学习平台！在这里，你将：系统学习ROS2——从基础到实战，掌握工业级</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606506&amp;idx=1&amp;sn=e8d727e95fd2aa5b2e82af6497f08bd8&amp;chksm=fad2d5ff5b6f373ce511cc5bc63143610f62145d941074e124db73f9b32a9a18b38583f32aeb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Apr 2025 10:28:26 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从零到ROS实战 | 古月居×华东师大带你5天征服机器人开发！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvfkWLz53xic8dBubjsFjPhl5xC4dhQibLDks3U6BliayQWq6WicsGgNav8pyk3R2Z27a2Mv9RkQQKMlw/300?wxtype=jpeg&amp;wxfrom=0"/><p>为充分发现并培养未来科技创新人才，推动智能制造、人工智能等产业发展和国际合作，华东师范大学软件工程学院（滴水湖国际软件学院）将于8月11日至15日期间举办国际优秀中学生智能机器人夏令营活动。To fo</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606506&amp;idx=2&amp;sn=2614864ac77eecfe9bfe235c5bdc55da&amp;chksm=fa04c0ea87a79718e2ea639acd8e7f89285bba011361051b86ebb21bb4d36be6d9bd530b53a5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Apr 2025 10:28:26 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让机器人手学会复杂操作的神奇技术：DemoStart]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztOAh53CXJuWibe7icIM7Xx8ZgE3hvkOBWwTslFS2UibDxE2icuCTq1dq7AHeicwjyl2kPVViaWGPG6gIgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在研究机器人操控技术的时候，又发现了一个超有意思的方法 ——DemoStart，它能让装备多指机器人手的机械臂学会复杂操作，今天的每日前沿技术解读就来简单和大家唠唠这个神奇的技术。项目主页：htt</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606435&amp;idx=1&amp;sn=5cde21e0aaf2444b506e3d13a88118ac&amp;chksm=fa8b1595f99f66805282b1c5b048fbc0fd9ada81308ecd73d5aaad3550a9e1db82e2410a9535&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Apr 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[#具身智创·生态聚变# 圆满收官！古月居携手FAIR plus共启机器人核心零部件创新新篇章]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztOAh53CXJuWibe7icIM7Xx8Z3Y6uaMarH4Viah9U86Hj1YAibYialsKnic4xRk1I9TC5rdjDZWu8hMyhVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年4月24-26日，由古月居联合深圳市机器人协会、ROSCon China执委会主办的“具身智创·生态聚变——机器人核心零部件创新研讨会”在深圳福田会展中心圆满落幕！活动汇聚产学研精英，打造了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606397&amp;idx=1&amp;sn=e3cb92c48ae60f32763d9c2cb8e01931&amp;chksm=fafabd0a85733fbc35579ec7a57c4fb9eeaf453114dc50d267a36e5662f2cd23425b87d43124&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Apr 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【全新版】ROS自主无人机24天训练营今日开课啦！仅剩最后几个优惠名额~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztOAh53CXJuWibe7icIM7Xx8Z9KmEukGTicntIJxwn9OVTk0BekaWvvf7mCwtCDaaD0QB0yM2kCFUTfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>购买须知注意：报名后凭购买截图联系小助手（guyueju2024）进群学习开课时间：4月28日9时结业时间：5月15日24时课程试看*该课程已开通专门交流答疑区，点击https://www.guyue</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606397&amp;idx=2&amp;sn=18cf3c656629f99f99f3f5aa690a0a17&amp;chksm=fa6e0034dd24cb55ffec65605650224d2842f0b3894a0548602dd20db80c2603a7ca9c3cb1ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Apr 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS应用 | 使用 ROS2 Foxy/Galactic 进行多机通信]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuEHf7Wo5W5l3ZP8VQfNZvy9RCicpuibI5jTEQMOJL0xNhuoZsiaTAFvJHuImVDnADzZY4IFtcau2nHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在复杂机器人系统中，多个机器人或计算节点需要协同工作，这对通信的实时性、稳定性和扩展性提出了更高的要求。ROS2 采用基于 DDS（Data Distribution Service）的通信机制，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606278&amp;idx=1&amp;sn=1e54a2434792d889ba4a8286e45d18bf&amp;chksm=faca0c57e029f4bb0d576f2cde827c86298662545108311ce8bc1fe9b669cdda6954658654fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Apr 2025 09:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[类人机器人学习新平台：HumanoidBench]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuEHf7Wo5W5l3ZP8VQfNZvy3kEjX1NPZOlV8WvBhgicXXuVdic9ZllzB6CIJZRLVaiaG0AjwPP7y1TiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在科技飞速发展的当下，类人机器人逐渐走进我们的视野，它们有着和人类相似的外形，看起来能像人类一样在各种环境里完成复杂任务，潜力巨大。但实际上，让类人机器人真正发挥出实力，还面临着重重挑战。这篇文章，将</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606277&amp;idx=1&amp;sn=594ab73f2b808c477619894518852eb2&amp;chksm=fa3223bcfdbb9e207fbee47a7adfcc2b86b38045f73bf182a09b611010fea9990881329082cb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 26 Apr 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS应用 | 如何配置RTOS满足机器人系统中的实时要求]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuEHf7Wo5W5l3ZP8VQfNZvyn0b9KFvf55ys4JfibCoV1VXfxOibgH7ju0WmX6OUykuHax7eVHOibbRIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言实时操作系统（RTOS）在机器人系统中的应用至关重要，尤其在需要对环境变化做出快速反应的高精度控制系统中。ROS2作为开源机器人操作系统，为机器人提供了强大的框架和工具链，支持实时数据传输、任务调</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606276&amp;idx=1&amp;sn=aad75d4ebee7295133f5108d8149e122&amp;chksm=fac88c86b98659802569d37f6c86776bc616a77cc776072121d8c78f062059a87e5f6b3e9d92&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Apr 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个可以识别一切物体的模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztWu3merWzM434me35GzvOtIribRJTYqG4cQKib8ypfmwGjY1oa3IGQ9GQZzuwgX3lGLpULUsw17cWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们经常在使用sam或者sam2打掩码之后，可能会遇到需要label的问题。这个时候，可能你需要自己再去训一个resnet或者是说再去通过训练一个别的模型，用监督学习的方法来完成自己的工作。但是这样非</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606272&amp;idx=1&amp;sn=cc351a14b9983455c4120edcbd01c893&amp;chksm=fa5d919242d5b1c98857b11b17e2d63973199cbcafa9074395407403c255a234c87517b8f699&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Apr 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[品牌动态 | 星海图 x 古月居签署战略合作协议，共建机器人教育生态]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztbLHicLeTlZibDcWK7vO3YNHib48poqLvehY3MmiaWuKIWJBXCNiaiacbV780rn4hBibTsicDadZ71icq2wBQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能与机器人技术蓬勃发展的时代背景下，星海图 与 古月居 正式签署战略合作协议，携手共建创新型机器人教育生态体系。双方将整合优质资源，通过课程研发、实践平台搭建、人才培养等多维度合作，推动机器人</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606245&amp;idx=1&amp;sn=cfaec0177a42c1aa83d74b8f79382087&amp;chksm=fa7d2aaa6bed1a9ee1d18a1e6c27a2abc5ade87722fa6153b94f3ddcabd608f8255a747ab0b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Apr 2025 12:05:48 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[品牌动态 | 星海图 x 古月居签署战略合作协议，共建机器人教育生态]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztbLHicLeTlZibDcWK7vO3YNHib48poqLvehY3MmiaWuKIWJBXCNiaiacbV780rn4hBibTsicDadZ71icq2wBQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能与机器人技术蓬勃发展的时代背景下，星海图 与 古月居 正式签署战略合作协议，携手共建创新型机器人教育生态体系。双方将整合优质资源，通过课程研发、实践平台搭建、人才培养等多维度合作，推动机器人</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606241&amp;idx=1&amp;sn=c9a432d4ac3af5dbe927220232c9f203&amp;chksm=faaed2885a5b31a8080a1b13ca1dd18fe86e58c514c1a020a681812c25eba63c72755af06a18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Apr 2025 10:40:41 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[倒计时三天！古月居诚邀您莅临机器人核心零部件创新研讨会]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuEHf7Wo5W5l3ZP8VQfNZvyp67DG4ibGHichm4NKPiaZDkuhgzsEXlE7ziaB1P7XRXMp5ld2bfc1FsRNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次活动FAIR plus携手ROSCon China执委会及古月居，举办“具身智创·生态聚变--机器人核心零部件创新研讨会”，打造具身机器人技术交流与核心零部件产业链对接平台，吸引垂直领域头部企业联</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606203&amp;idx=1&amp;sn=a994dc97d7b53e98b8751551bd8278a7&amp;chksm=fa03bd169447b83b5e230da702ed4c78472a6669d535bf88165557b3c37ba9d057b57aa30028&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Apr 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【全新版】ROS自主无人机24天训练营，第5期开营啦！名额有限~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztWu3merWzM434me35GzvOtzJfFg8bhGicgQkSuVNnuj3BzMpOYTsYPvVWNTWkPgw50qLh5P1iauR8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>购买须知注意：报名后凭购买截图联系小助手（guyueju2024）进群学习开课时间：4月28日9时结业时间：5月21日24时课程试看*该课程已开通专门交流答疑区，点击https://www.guyue</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606169&amp;idx=1&amp;sn=99a5e9d89280f591e23db962e6c9280d&amp;chksm=fa299df4f4c18e443f2ff0ec1d6a1eb487a8f5cf82739c573747f2ec4c86a52692c042b30b00&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Apr 2025 10:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

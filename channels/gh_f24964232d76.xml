@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[图解Vllm V1系列3：KV Cache初始化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOLwAterXRkXI1D0HykhX03nzWlGW8ff4Gcicouzo3Vjjibey3gLbPv6HgQhZTNURFO8OqGQyVu1UTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>提前祝大家五一快乐！节前我们就来学习vllm v1中一个不怎么复杂，但又比较重要的操作：KV Cache的初始化。在Vllm V1系列2中，我们以MultiprocExecutor为例（这种类型的Ex</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527292&amp;idx=1&amp;sn=b5a62daea80697befba2a2a22510ca31&amp;chksm=9ebbecfd572b68f91c5b285e313af8ff9b3d5dafce108a736a4e1ed10f1d0d22b2dd48483760&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 May 2025 15:42:45 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SGLang Team：在 96 个 H100 GPU 上部署具有 PD 分解和大规模专家并行性的 DeepSeek]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/HrMQ8SF1ApcFBF9uwEvomrcsNtcFhVFSoWv5u3kyN56ZqeYLRVtY0onWjtPUrTsxJkaCxgRwM0ic3bT4ngCdrwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：SGLang Team | 翻译：青稞社区https://lmsys.org/blog/2025-05-05-large-scale-ep    DeepSeek 是一个广受欢迎的开源大型语言模</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527290&amp;idx=1&amp;sn=4ee491c93136d89470f25b37b6e8c46b&amp;chksm=9e0461bc0e60be7e3bcc243171644f71d42efc01ded109bddb7fa80dd90b43abbd5319c7eb65&amp;scene=0&amp;xtrack=1#rd</link>
