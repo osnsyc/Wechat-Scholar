@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[【CUDA 优化】让RMSNorm变得更快]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tUPqIicejMiba0KFVMadEtcUbncMPxfqibHuVI0sArI9iaicI47tnjl9Ub7HJKW31neNGfItvNp5QSlQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文由 @Simon V(https://github.com/simveit) 授权转载和翻译并发表到本公众号。原始地址为：https://veitner.bearblog.dev/making-r</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527321&amp;idx=1&amp;sn=ee17ea126e3d354f446274aba665ad3e&amp;chksm=9eae910a158648e812391beb7fd8c586cc278f15b8096bbd12d66bc58763d88495976e9ef7b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 May 2025 15:41:37 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[图解Vllm V1系列3：KV Cache初始化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOLwAterXRkXI1D0HykhX03nzWlGW8ff4Gcicouzo3Vjjibey3gLbPv6HgQhZTNURFO8OqGQyVu1UTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>提前祝大家五一快乐！节前我们就来学习vllm v1中一个不怎么复杂，但又比较重要的操作：KV Cache的初始化。在Vllm V1系列2中，我们以MultiprocExecutor为例（这种类型的Ex</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527292&amp;idx=1&amp;sn=b5a62daea80697befba2a2a22510ca31&amp;chksm=9ebbecfd572b68f91c5b285e313af8ff9b3d5dafce108a736a4e1ed10f1d0d22b2dd48483760&amp;scene=0&amp;xtrack=1#rd</link>

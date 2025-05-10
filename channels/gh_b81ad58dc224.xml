@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-05-09）：港中文T2I-R1，文本到图像生成新范式，BiCoT-GRPO强化学习优化语义级链式思维推理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxrZJDql0pNzWdCFxGsWyHjDQJTT15pibCObI16eqxjhG5qOejYMibofPBFTdn9Vb8vkgdttGbvyGPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：T2I-R1★T2I-R1是一个创新的文本到图像生成模型，结合了语义级和token级的链式思维（CoT）推理过程，并通过强化学习进行增强。该项目旨在通过在图像生成的不同阶段应用CoT</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498415&amp;idx=1&amp;sn=57adb5a692c0866292a3bba60245ab2a&amp;chksm=c057ae8f9b7a680e348c39a3e6dac7ff3d3534f89fb04fecca9fd52eb5431b0bcb7bf41c70f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 May 2025 10:24:03 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-05-08）：Voila语音语言大模型，分层Transformer架构实现195ms实时交互，支持个性化互动]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw3HCnN1wj8eIn2DGSU2UXsJ1V8oeKB3IGuytXchQXrNPqQ1AFBMiceXibSibcZHzCdFEiaSjBEOmickuQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Voila ★Voila是一系列大型语音语言基础模型，旨在提升人机交互体验。通过创新的端到端模型设计和新颖的分层Transformer架构，Voila突破了传统语音AI系统的限制，实</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498405&amp;idx=1&amp;sn=3d7aa50a9a020a8a46318e4b0c5583a7&amp;chksm=c0c56a303520e38ac93eb62518b9bc40a584d327e4a332f10bf914b479aeceb0193d3cb8cfb8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -26,108 +32,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxogYc5l9clAou8lxgOXjlmqMTrOlESMQEfhgrgbP3YOEJo5tzkJxbluk0zXiaLwwEMFPxY03OibbFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Granite-4.0-Tiny★Granite-4.0-Tiny 是一个拥有 7B 参数的细粒度混合专家（MoE）指令模型。使用了开源指令数据集和内部合成数据集。具有 128k 上</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498378&amp;idx=1&amp;sn=2380604bd050e932559dd43af19064e8&amp;chksm=c062907425c56c276843633019d14ff72eb554a0e5b54841a1b3d19718156b70b1054dd0b47c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 06 May 2025 11:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[突发（2025-04-30）：DeepSeek-Prover-V2-671B 发布，专精于数学定理证明]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyn0n8XglPibszbK7mF12DUTYjBaU7PMMy7NT7zlwC6gYNyJ0iaeQH0E6oYMC1ut8icZtKCuojJQyTKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek开源最新模型DeepSeek-Prover-V2-671B，专精于数学定理证明。该模型基础架构为 Deepseek-V3，拥有 2048 个 MoE 中间层、且每层都是 MoE 层，每</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498365&amp;idx=1&amp;sn=5158d3d84585b666e0e17722161b2551&amp;chksm=c0184caded82e11675e4f8a11ebd83c1d480ced0667bd37755bc001147afff7c4e7f1f5e8d7e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Apr 2025 11:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-30）：GeoGPT，地球科学专用大模型，Llama3/Qwen2.5双路线优化，70B/72B参数]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyn0n8XglPibszbK7mF12DUT0uGzPVlibJJThg9oeDiaZMKicNiaEfGZibZ8wCKmHq6K98BCE5WkFkaOvnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：GeoGPT★GeoGPT是一系列专为地球科学研究而设计的大型语言模型。基于最先进的基础模型，GeoGPT通过一系列后训练过程（包括CPT、SFT和DPO）在地球科学的特定领域提供增</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498359&amp;idx=1&amp;sn=594d2c6930a4755b1a75adbf0055b578&amp;chksm=c0d8514ef6ae18c2ec57d7afb64413ac39a9f814a4addb902ebc95ac4bdf442b45a6886b72e2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Apr 2025 10:36:03 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-29）：Qwen3，阿里云最新大模型系列，MoE和密集架构八款模型，支持100多种语言，数学能力升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkz0hlMBTPicauGN0Ef6iak3wMAnic96YibYbAWL7l1iapDhp0Bh6gc5G3WQ3hGK1gyOsz9ekVGslMIicqLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Qwen3★Qwen3是由阿里云Qwen团队开发的大型语言模型系列。该项目是Qwen家族中最新的成员，代表了目前最先进和智能的系统。Qwen3提供了多种尺寸的密集和专家混合（MoE）</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498349&amp;idx=1&amp;sn=47cef8597d2aa6d33fb49820e59deb7e&amp;chksm=c0159a326196f5d06904b7a752fdace9e8a4afdaf1ea3dde09cf4d515f327e90735d3197151b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Apr 2025 10:29:54 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-28）：Step1X-Edit，19B多模态图像编辑模型，媲美GPT-4o，结合DiT的解耦式架构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxp7qiaIO3REvmENruoXA84lUIZiaTvPbEzln80hoJ5XgFv1PO6wicAaQWDZKect3YGxnhBJYfCvXCzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Step1X-Edit★Step1X-Edit 是一个先进的图像编辑模型，旨在提供与闭源模型（如 GPT-4o 和 Gemini2 Flash）相媲美的性能。该模型采用多模态大语言模</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498326&amp;idx=1&amp;sn=fc9999ac11741a7b0f0c11724dc00499&amp;chksm=c0c1fb189bc900ea9b309310db9963fc8fecb83cbe0bf0e8230da32b475a8fa67e16ac922ef7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Apr 2025 14:57:23 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-27）：Kimi-Audio，7B开源音频基础模型，统一音频理解/生成/对话，多任务SOTA性能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkySV2DvDkvVpW8vniaI5icrYPstbwwB2BIw5b1wqsufKHLR83rBd1KLmrb8CvQ0jLaLPiaTqqtTicw1EQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Kimi-Audio★Kimi-Audio是一个开源的音频基础模型，专注于音频理解、生成和对话。该项目提供了官方实现、模型和评估工具包，旨在通过单一框架处理多种音频处理任务。Kimi</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498316&amp;idx=1&amp;sn=b041ecf392c3fa191ef8126a3c21c057&amp;chksm=c04a20c338e82bfd609ef74ef73ccb30a50bf24682b7ba20e3e230932f6c1a014d6afed48dc2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Apr 2025 14:09:31 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-25）：英伟达开源DAM多模态视觉语言模型，3B参数，交互式区域描述生成模型，支持点/框/涂鸦输入]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyNZmNHAY13Qtib9pJdYwEyktmTH7ec8mk48kDXmypGmHAeSJkzF35MiaEcxYtPKkSYJUyjzcJPSXzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Describe Anything★Describe Anything项目由NVIDIA、UC Berkeley、UCSF等机构合作开发，旨在通过输入图像或视频的特定区域（如点、框、</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498305&amp;idx=1&amp;sn=46a3d1fbe59ed3923f813da684db3ce5&amp;chksm=c0c38702e968f8422c836e760f6c5b93d1b9fda25bcaf549304973c3808d7c9f32436ca1bcbb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Apr 2025 11:09:06 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-24）：Skywork-R1V 2.0，38B参数推理模型，视觉链式思维突破，数学/图像理解SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwvhM3XQ0Q1kECl3I5j1kul1frk0ib5vChnmWtFLia67k45G14J9HRuqWKZGxGriaFEUWmRH2rETWc4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Skywork-R1V 2.0★昆仑万维Skywork-R1V 2.0版本开源，多模态推理实现了再进化，成为最强高考数理解题利器，在视觉语言基准测试中表现领先。Skywork-R1V</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498295&amp;idx=1&amp;sn=aa42ace58fb9b861617133384fa60f8c&amp;chksm=c07c23944f70e1aee113eb1c8e9c9fd5c0d9be18087f0855cb6f146df72a650c1bbead756595&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Apr 2025 10:08:19 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-23）：Dia，1.6B参数对话式TTS模型，支持情感语调控制，可生成非语言交流声效，仅支持英语]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwhUgw5Z8Cjn8DYUGJJ7hkHk7jGkAnAjDSs2rib2tqXERC2QuZRORFiaEmRVuNNibic6S16KHYmiaQ4XXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Dia★Dia是由Nari Labs开发的一个拥有16亿参数的文本到语音（TTS）模型。该模型能够直接从文本生成高度逼真的对话，并支持通过音频进行情感和语调控制。此外，Dia还可以生</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498285&amp;idx=1&amp;sn=7b3a555a22eec23a7fa7924e74770959&amp;chksm=c048b6d47e620b1ec9621865fc3478316a7a9fb3e2f583f000ca227a1a845690d9d0e6cb3469&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Apr 2025 10:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-22）：MAGI-1，24B/4.5B自回归视频世界模型，流式生成+块级提示，高一致性与文本驱动控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzZSMzQL0pvibpv3m1epHEjMxp2QozWQicFQbXjMQhQRNpJS7WvLFfQMqAqna1jdbCyVdibcliarsxFjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MAGI-1 ★MAGI-1 是一个世界模型，通过自回归预测视频块序列来生成视频。该模型通过去噪逐块增加的噪声，实现因果时间建模，并支持流式生成。MAGI-1 在基于文本指令的图像到</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498275&amp;idx=1&amp;sn=02b8a50a5eb8375e9fb7fa8f15bbfa7e&amp;chksm=c080b1034eb1a64ab3aaf0ffed045a913663f2745cca744382143f4e216e592a850f1783680b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Apr 2025 10:33:48 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-21）：SimpleAR，0.5B/1.5B自回归视觉模型，1024分辨率图像，改进图像美学和提示对齐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzibibe2mDVJWPoksCibnKZiauVylRXYxicWTCGdJsqECRzMp99mUfFUTflB56AET6oiciawDfby0PIYDONQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：SimpleAR★SimpleAR是一个自回归视觉生成模型，旨在推动文本到图像生成的前沿。该项目展示了在仅使用0.5B参数的情况下，能够生成1024分辨率的高保真图像，并在多个挑战性</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498265&amp;idx=1&amp;sn=39a9016465668a1e57d26fe1629ce89b&amp;chksm=c0ddca5688fbfeafc92594e24184d809682e3a298ea899214e697deb7f7a06825048dfca1607&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Apr 2025 10:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-18）：微软Granite-3.3，推理优化语言模型，8B/2B参数，数学/编码/指令跟随性能显著提升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzxxht69K0UqBTtHJlPE18e7RtmexTTvthxTjFmLW2R54licoMBicFm9KszdNDBjhmYaE2icfbicMJOAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Granite-3.3★Granite-3.3是一个拥有8B/2B参数的语言模型，经过微调以增强推理和指令跟随能力。在AlpacaEval-2.0和Arena-Hard等基准测试中表</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498255&amp;idx=1&amp;sn=fee6f37a95d3e1bfd54e9a770167ae95&amp;chksm=c062fe80962fcb994f62db85d289d7f4190c0540994a65d7d5dafde1dacf0474da6c47eeb24c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Apr 2025 10:14:39 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-17）：Perception R1，3B多模态大模型强化学习，GRPO后训练，突破感知任务性能阈值]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxGo5ZzylnzOdEXa2vkzxF3MyJ1sz8qBsPibZW2bFnMKkHvMrSAkFhajY6TNENLenBUdD0BYD8aAEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Perception R1★Perception R1是一个可扩展的强化学习框架，采用群体相对策略优化（GRPO）进行多模态大模型（MLLM）的后训练。该项目引入了一种新的分析框架—</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498245&amp;idx=1&amp;sn=9b7925864fb2371b3c28b42460c74779&amp;chksm=c05923528fe565a429edc74e518d4168452ac5328953108ca427d740aa52b91195b1649049d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 17 Apr 2025 10:32:35 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-16）：智谱开源GLM新模型，深度推理Z1版性能强化，长链思考+数学代码专项优化，32B/9B参数]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxKL3yfvibha7OKoZIqCHrZVKE2BzDib7fegEnSrfGJJvNOFnmooZpIVSHUxZmAtKw6icf7QfliackIFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：GLM-4-0414★GLM团队最新推出GLM-Z1系列大模型，基于15T高质量数据预训练，在指令跟随、代码生成等核心能力上实现重大突破，性能媲美GPT-4并支持本地化部署。基础版G</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498234&amp;idx=1&amp;sn=ec16fbcb9ea3078db5748146fe56552f&amp;chksm=c01edb598d8dce08e90a37bd23656d787a95094042882ff9e4a3c2cdb0cc4d771d9aeae5e4a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 16 Apr 2025 10:18:42 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-15）：InternVL3多模态大模型，1至78B七种参数，原生预训练强化推理，覆盖3D/工业视觉领域]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxbAUuwXKqp2ebEVlMy0FECx5f4tz7xcwQvWNV9pAOszKZ9g8paFFUsXS2nLv5wOZQk1ODCiaav8yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：InternVL3★InternVL3 是一个先进的多模态大语言模型系列，展示了卓越的整体性能。与 InternVL 2.5 相比，InternVL3 在多模态感知和推理能力上表现更</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498222&amp;idx=1&amp;sn=1d698e33fb949ae1fb6da6e00936db2e&amp;chksm=c0d7697a972a6d4e8f667be15eb43f28faabc36f37a775bff91928f58910b9ce7016da6ead4b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 15 Apr 2025 10:57:46 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-14）：Skywork-OR1，7B/32B三个推理模型，规则增强学习训练，数学和代码推理表现远超同类]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzrXr8qFKGXS9MdfCRzuvVLa3SceGc3wrm3EUd6uMxoIV6vg0bAv215ROObJa0yGQDENW1cVr9ibMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Skywork-OR1★Skywork-OR1 是一系列强大的数学和代码推理模型，采用大规模基于规则的增强学习进行训练。该系列包括两个通用推理模型（Skywork-OR1-7B-Pr</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498212&amp;idx=1&amp;sn=26d2415fdbf5c10bf5a3efff426e58c3&amp;chksm=c0e1ec5669e8b04631515a2b5a276949ca8ae5f94f430f93dc15f988c50ac86a6caca9774f7e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 14 Apr 2025 11:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-11）：ScholarCopilot，AI学术写作框架，智能文本补全与引用建议，助力7B小模型论文写作]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzdvewqGia84MrR52FZeByU3BXsh7NUOO2H0veUvOchZXTkhw4IaKLwkfgv5yjvVA5xjml5lDlQhlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️框架平台、必备工具①项目：ScholarCopilot★ScholarCopilot 是一个智能学术写作助手，通过 AI 驱动的文本补全和引用建议来增强研究写作过程。由 TIGER-Lab 构建，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498202&amp;idx=1&amp;sn=4919c48f7b4ae88e618271d07dc8352d&amp;chksm=c07284b8eebc25bc23179d74fa30327138cfbd873554e8a87359b4af0996ac1d0a5323c32509&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Apr 2025 10:40:21 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-04-10）：Kimi-VL，16B高效多模态模型，长上下文+CoT推理，强化学习优化，实现卓越视觉语言能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwkibR4vicdVxiaG0NTNDNoKUp96KQicCySbN4ApdspnfyrCmOMEW6ZELWVhJr4WichCErHZwdrFkOiaSGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Kimi-VL★Kimi-VL是一个高效的开源多模态视觉语言模型，具备高级的多模态推理能力、长上下文理解能力和强大的agent功能。该模型在多轮代理交互任务中表现出色，并在多种视觉语</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498192&amp;idx=1&amp;sn=58ea6f4b375e5b4e8447688549f80e47&amp;chksm=c0df3a236f1d535ffa066a2f5362dacf38a2f29830d47b89f87836e08e8696b66e48942272a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Apr 2025 10:35:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
