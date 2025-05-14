@@ -10,6 +10,24 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[超简单使用A2A和MCP开发DeepSearch和AgentRAG（含源码)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIpUswHroTX5q1ZicW81VQOOslcExwFbDGgNtJm18uhRCyMJZ70I5G55Uro75Cb8KicqNGSv6Oxpekw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Johnson Guo公司：新奥集团好气网股份有限公司链接: https://zhuanlan.zhihu.com/p/1904921460507645693引言在构建智能代理系统时，如何高效地</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448887&amp;idx=1&amp;sn=6c14b7f4a4f6ca4bcca944e35f64a170&amp;chksm=bf166bcbf8d120cda4282b37b3f70244578f0ddcd15c4847a748437b40dfed1d8200cc44bc29&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 May 2025 06:27:27 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Qwen3技术报告英中对照版.pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZvlMsfNDDjmyISicxqfjhYh2I7JZcYluNareOysTIiasMXL7Cf6UsAUDmdg1jQMk4z8LkoMzlzUezw5oFSCa3HFw/300?wxtype=jpeg&amp;wxfrom=0"/><p>千问团队昨天发布了Qwen3的技术报告： https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf我们用大模型翻译了这份</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448887&amp;idx=2&amp;sn=b786c5d5eccf12f0d315ce61be3e52b2&amp;chksm=bfbbd3d338d6c36ba36055d0f50bb4b431c7b93c1404867447b367d67ecaa371cc2143c82487&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 May 2025 06:27:27 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[图解Vllm V1系列4：加载模型权重(load_model)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkPfIicPp8CrXAChkl55IsNRDxQNREIwYvrKWJMibm1VlzCkv7k5D9cQdxgBeiaWZVZ6uf81nJFy18ziaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>按照原定计划，这篇文章应该要开始进入Scheduler的讲解了。但是我突然想起，在之前的文章中，漏掉了一个看似简单，但是十分重要的细节：vllm是如何加载模型权重的？在现在非常热门的rlhf训练中，避</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448887&amp;idx=3&amp;sn=9a7a4673ae5fbc53282b6275e41f585c&amp;chksm=bf3e562c2ffd6312498112e466d2da29c9704d2e69e637d30e1af64b3f6c2ec848f01b852c8f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 May 2025 06:27:27 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[火爆全网！《LLM书》.PDF]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIzH0SJD4sL5XQaYGBJ3QUX0WjpEOSOZdGia3vNr534fYAOW47pAbiazoZJIWiapgMpJqy8nO29tjblQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍本书是一本实用的生成式人工智能指南，重点介绍转换器和扩散模型。它涵盖了生成式人工智能项目的生命周期，包括用例定义、模型选择、微调和部署。本书以直观的方式介绍了理论概念，其中包含大量的代码示例和插图</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448857&amp;idx=1&amp;sn=8516f673ea90d65a2333e32e4877cb69&amp;chksm=bfe86f64879cf818da920a0db72aa0c71635b0c762485ecfcebc634e3366f132ad4ea8dfd956&amp;scene=0&amp;xtrack=1#rd</link>
@@ -92,36 +110,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZvlMsfNDDjnw10hHyTUwnAy2r5fCE2V9tkviaRKThhDGre6LN0rxCBGYHGkEwFQjvLfOqKFHc5rpddGs5gaBRkg/300?wxtype=jpeg&amp;wxfrom=0"/><p>NVIDIA 这两天开源了 Llama-Nemotron 相关模型同时发布了技术报告：https://arxiv.org/pdf/2505.00949我们用大模型翻译了这份技术报告并提供英中对照版，感</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448791&amp;idx=3&amp;sn=68c03ffcb1df643451ebcae2412d4226&amp;chksm=bf7026cecc6bb41a5315ea71152ad7bef8b974342ac9f7c8d2a9551c7e25608dae7b26839b4c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 07 May 2025 10:51:56 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI放弃营利性转型！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJcdOTS93mIPY47Kf7gUvUBawo2nSibzvd6Bxw5Ela59waJ9ynlicvtBSaib1yepDoJL6jDEI64LgYLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>源：机器之心，编辑：杜伟OpenAI 终于「妥协」了。最近，OpenAI 向营利性公司的倾斜遭到了很多人的诟病，尤其是马斯克。他曾于 2024 年 2 月在加州法院起诉 OpenAI 及 CEO 山姆</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448779&amp;idx=1&amp;sn=05f8e72ce91bbe51111107d6ff5f3eee&amp;chksm=bf5dd4a9032ced2a20302278cfcb792e01e03e743be21cb572f97dfddf904b18391db1db52de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 06 May 2025 06:48:08 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[李宏毅：大型语言模型的推理过程不必过长，够用即可]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJcdOTS93mIPY47Kf7gUvUBzHQQicURwq10AcCmUiba4TD2Gq7V29Va3RAlQgia6wH0hZGFDMiaXb3Ribg/300?wxtype=jpeg&amp;wxfrom=0"/><p>李宏毅老师生成式 AI 时代下的机器学习（2025）第八讲：大型语言模型的推理过程不必过长，够用即可进技术交流群请添加AINLP小助手微信（id: ainlp2)请备注具体方向+所用到的相关技术点关于</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448779&amp;idx=2&amp;sn=e513e3d7bfc5fb67615c28209de87add&amp;chksm=bf1d0631684b04d9d163205c153b87f771390c27a9f9c929209583b5c77a9776ed2f27e5a887&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 06 May 2025 06:48:08 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[快手二面拷打：训练100B模型要多少显存？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJODAicHsC8uVMTvH0FDVGGUcTCRuLGhOOcOsxVabq3nzmV9YBibOdrMy8OHd1CVBufvibicDeA4oDOOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：kaiyuan，来源：知乎Author: kaiyuanLink: https://zhuanlan.zhihu.com/p/687226668编辑: 丁师兄大模型AI 算法在服务器中运行时，一</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448767&amp;idx=1&amp;sn=f7298e8c93f84a27b4573616597d07f6&amp;chksm=bf1acd7dcd96bf302b0c1fb8bc96387bda2bfa620909895246ad0a13bcc4cb0f368d9d9cff6b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 05 May 2025 12:03:42 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Transformer原作、斯坦福、清华交大三篇论文共识：基座模型边界锁死RL能力上限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKTvpHnDXK494uicmpRf9AZOiamawdJtzLwEtpImiaAFhjUtxBJO73BdcZVh4llMcJTr8Ol7eNawlePA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：蛙哥https://zhuanlan.zhihu.com/p/1898757199200780434   RL真的让大模型变聪明了吗？我最近读的这几篇论文还挺有意思，底层的逻辑应该是有共识的，就</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448760&amp;idx=1&amp;sn=4076c73de661f35015c5085530d85b16&amp;chksm=bf6546dfcf327b77caa518817c7bec9a3b8444c794f1dfe3129a5071752fb85626a8223cdd9e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 04 May 2025 14:39:11 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[David Silver、Richard S. Sutton：欢迎进入经验时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKTvpHnDXK494uicmpRf9AZOiaqkrY1wezUAoBl00ZibbBxHGX8FBVaJAWDULno3vAs1mVmBqfrUNVsA/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：小茄墩https://www.xiaoqiedun.com/posts/2025-04-19-welcome-to-the-era-of-experience/   Paper链接：https:</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448760&amp;idx=2&amp;sn=48025361e801cf71c89973463c613ed1&amp;chksm=bfe0204f3b7244ef87f6e537dae409e5a438d8e1f9a7ca7601cce8302ec58b3e7ed46fcb09f6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 04 May 2025 14:39:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
