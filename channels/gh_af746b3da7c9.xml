@@ -10,6 +10,24 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[清华刘知远团队：高质量LLM训练数据获取新方法！成本降90%，性能大提升]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaQhsTaRQf4dIBrrqefqpGtYkKiaK0IMl2pnxPUq6oZdDPbmSxWklZVVFpgBdZVbNmDBiaMV7R2sJOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果把训练LLM比作“养孩子”，那么数据就是“营养配方”。过去大家拼命堆数据量，但现在发现，“垃圾食品”喂多了，LLM也会变“笨”。论文：Ultra-FineWeb: Efficient Data F</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538857&amp;idx=1&amp;sn=ec04bf019c8147eb4db589d5fc9b23f9&amp;chksm=eaf492d31bbd0699449a771a92ca506f1e3f4f1218fcbcca553bcbd3791b1691d8e64e23c85d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 May 2025 04:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[14小时近500 Star！快速进阶LLM/AI的必读系列]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaQhsTaRQf4dIBrrqefqpGt38pDFMIzTyoKlj2anOicBibFQ8tZiaAT5obIibX48Mgrcsd3xZhpP2JODQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>TokenizationByte-pair Encodinghttps://arxiv.org/pdf/1508.07909Byte Latent Transformer: Patches Scale</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538857&amp;idx=2&amp;sn=57bbfb82c1def2a8b2c80a772bba5b6a&amp;chksm=ea6a91d6c2df26d3bd23788d53590b6164130859afa5fc3f8aeeee766a5af01362d7fba36bc2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 May 2025 04:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[模型宣称的“百万字处理能力”是真本事，还是营销噱头？LongCodeBench揭露真相]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaQhsTaRQf4dIBrrqefqpGtge8mUxhBTT94ruGEeSXUyFR4FBBkIU9obpw50cZybR6sfp3ur7pJqA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大模型的处理能力突飞猛进，从最初只能读几千字，进化到号称能处理百万字上下文。这种能力在现实场景中至关重要——比如我们希望它直接阅读整个GitHub代码库找bug，或者律师需要AI分析上百页合同</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538857&amp;idx=3&amp;sn=91cc892e9b6c74c6ad36743ebfbb2bbf&amp;chksm=ea17d0e1358dc94a555114135a3a86a0f08e2ab7a275ff267cfd69cdd394256b3408a3e26247&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 May 2025 04:52:32 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[学会用工具看图：准确率碾压GPT-4.1，开源框架让模型拥有“视觉思维”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaG611V5uricU1jxYk44Kf1fAlxsKCYzzFkJWA4xkgS5fRh5awJQpZTrhkTqz0zibBw60mjqHFGkwCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>为什么现有大模型看不懂图表？ 当前的视觉大模型（如GPT-4.1）虽然能识别图像中的物体，但在处理复杂图表时却经常“翻车”。比如一张股票走势图，模型可能直接回答“最高点是2023年”，但实际数据需要通</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538811&amp;idx=1&amp;sn=c16a1e684f11087bb854401c782c8204&amp;chksm=ea816e7ec81020f731fbf8f78a9f68f67c6c14930abbf7976c6a3dfc944d5661438922c40738&amp;scene=0&amp;xtrack=1#rd</link>
@@ -122,30 +140,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahJgqmKEsyzDsuEIqnoD4WYiaLYIl3iafJ8Uhuu8al7Tsgty7qfO5UxMCYicxWwGR5C3PRZbLlQ1MuDA/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM 的「慢思考」模式像人类解题——通过多步骤推理（树搜索）寻找最优解。但问题在于：生成每个推理步骤（thought）都需要大模型反复计算，导致延迟飙升。就像用超跑在迷宫里找路，虽然性能强，但频繁刹</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538569&amp;idx=2&amp;sn=df782805dbe0cece029a3299befa1922&amp;chksm=ea8b582ef8660661bf16c3a31021c26fb25cbe1d1cae28d2bacee0c6be78f0a559d8736884e5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 08 May 2025 11:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新SoTA方法RM-R1：让reward model对评分说出原因！超越GPT4o]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahyYVdJSibHuBznRsliay4EC5wFwpxeqb4MKy7ClYeQPMibnwiaeeIVPAaDgkRv7Fu8bibV3eZaX1gTsUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>模型评分为什么需要“会思考”？过去，模型的“评分”就像老师只给分数不写评语——比如你问“哪个回答更好”，它只会输出一个数字或简单结论，但说不出理由。这种“黑箱打分”有两个问题：不透明：用户不知道评分依</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538520&amp;idx=1&amp;sn=677216885f218ed079c199f1051a8dcd&amp;chksm=ea3d381a68a1a908f19d834db5911a12be1ee26aaaaf546c7d00ae37ffb0c5f2366be0a4a657&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 May 2025 07:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2025 | 注意力机制中的极大值：破解大语言模型上下文理解的关键]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahyYVdJSibHuBznRsliay4EC5iaCV0hH2jNRwfGlNQV4LS7sic40k6E11yx04jvzKqfw1SxC47cItxUuQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）在上下文知识理解方面取得了令人瞩目的成功。近日，一项来自 ICML 2025 的新研究《Massive Values in Self-Attention Modules are</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538520&amp;idx=2&amp;sn=d32405cf632b452c419652b246645a07&amp;chksm=ea5dbaaf4c99169fdf684c5908bd71dde6e496cf710ed86e33c83c7d15ddb89e0b9fd401f80a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 May 2025 07:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[社交Agent: 通过RL学习自适应Thinking，根据场景在“秒回”和“深思”间灵活切换]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahyYVdJSibHuBznRsliay4EC5icvRjtI9wx57G9VHltefWWjNNMHCUfdIYicSHZMzKCaiaYG3UNq6gaExw/300?wxtype=jpeg&amp;wxfrom=0"/><p>当模型开始“察言观色”...现在的聊天机器人，虽然能写诗、写代码，但在需要“人情世故”的场景里，表现就像钢铁直男——要么无脑秒回，要么长篇大论说废话。比如商业谈判中，对手抛出一个试探性问题，Agent</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538520&amp;idx=3&amp;sn=fe6c8acf3bf04c07757f4543b18fd1f2&amp;chksm=ea7a3bf6f892d55c45e28a268eda82a13e0de66c88ec41ec81758bebac8a22146e18022643e4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 May 2025 07:18:19 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[低延迟、高吞吐，LLM优化与高效推理引擎综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahyYVdJSibHuBznRsliay4EC5sWv9KF0le2sf6AArkvsPYV8HJPS2b2uS1wx9zv0RQyWR3cAVIia8nNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>LLM每次回答都要进行复杂的计算，尤其是需要多次调用模型的场景（比如连续推理、多轮对话），成本高得离谱。关键矛盾：用户希望响应快（低延迟），企业想省钱（高吞吐）。典型场景：思维链推理（Chain-of</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538520&amp;idx=4&amp;sn=c4de3f82aac6b7d887c158c8e5d16a8d&amp;chksm=ea32a2953821a1513cd0f9f563705058569b4973289a46278085fc892c199b7a2f72c523a54b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 May 2025 07:18:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
