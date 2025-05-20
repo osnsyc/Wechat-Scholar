@@ -10,6 +10,24 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[北大DeepSeek论文或预定ACL Best Paper！梁文锋署名]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLPLcwmnHzB8htIoWTjr7RcELNuUlSluFDEzGodQ2RbzsmbsDxv8YaOia37uYvm7ibnFGOmmGgSKy7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新：ACL 2025，编辑：新智元重磅惊喜！北大与DeepSeek合作，并由梁文锋亲自提交到arXiv的论文，将有望斩获ACL 2025最佳论文（ACL Best Paper）。论文地址：https</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448989&amp;idx=1&amp;sn=797e185c0cb8c1cbba17ab8fe2deca38&amp;chksm=bf55197040ea7015c242bd23c69b9393f2d4b60ffdc41c6288397cff080a6d62af1802507261&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 May 2025 04:20:19 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LLM 之 Agent RL &amp; Async Pipeline RL 训练和加速]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLPLcwmnHzB8htIoWTjr7Rcya8IWzKr0U2CT08fAticn6FRQ9cMhhqQWzFtIxVPxnopsmKicxtia9ic3Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>Author:  初七123334Link: https://zhuanlan.zhihu.com/p/1907529873414686329前言最近，使用 RLHF（Reinforcement Le</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448989&amp;idx=2&amp;sn=301faff661ab2229c490317e99954296&amp;chksm=bf571a2f8245e02e9042ac0b4194f5262dbe79fe5528b46ac1256fe6c1d5d39df42701690230&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 May 2025 04:20:19 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[京东智能体平台和应用算法团队招聘LLM相关方向算法工程师/实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLPLcwmnHzB8htIoWTjr7RclzldftARM7zOxulRoDfEL13ChqyIEcWa3B4YVNkoY2AwTUXhskicMqw/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们是京东集团级核心项目智能体平台和应用（如智能AI面试和培训、数字员工等）算法团队。我们是技术驱动的团队，工作很有挑战，自主权也可大，一个项目可以从计划到数据分析、算法设计、工程落地都是自己独立完成</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448989&amp;idx=3&amp;sn=04042900212b4f45311848c8afc31f63&amp;chksm=bf3f3fd2dbcb2234fe02df597f4c19e17f9f475478a74e08497372e6891ea89018092d083f15&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 May 2025 04:20:19 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大模型，YYDS！！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLiaECR54hLhTW28am4fXJO9rXFZ1C2qLhylZCH9gvKdwmUZqFbmljD8VMvvh6Bpj0dZf4sgM9hquA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这两年，人工智能领域中的AI大模型技术取得了迅猛的进展。从OpenAI的GPT系列到Meta的LLama系列，再到阿里巴巴的Qwen系列。借助于庞大的数据集和强大的计算资源，这些大型模型达到了前所未有</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448972&amp;idx=1&amp;sn=515262b081d73ab999def86681656878&amp;chksm=bff7a9db8d22e22d39997f43d79cc969ff48855f04afafe8d8ed78b324a438a22e386a045e3d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -98,42 +116,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkPfIicPp8CrXAChkl55IsNRDxQNREIwYvrKWJMibm1VlzCkv7k5D9cQdxgBeiaWZVZ6uf81nJFy18ziaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>按照原定计划，这篇文章应该要开始进入Scheduler的讲解了。但是我突然想起，在之前的文章中，漏掉了一个看似简单，但是十分重要的细节：vllm是如何加载模型权重的？在现在非常热门的rlhf训练中，避</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448887&amp;idx=3&amp;sn=9a7a4673ae5fbc53282b6275e41f585c&amp;chksm=bf3e562c2ffd6312498112e466d2da29c9704d2e69e637d30e1af64b3f6c2ec848f01b852c8f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 May 2025 06:27:27 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火爆全网！《LLM书》.PDF]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIzH0SJD4sL5XQaYGBJ3QUX0WjpEOSOZdGia3vNr534fYAOW47pAbiazoZJIWiapgMpJqy8nO29tjblQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍本书是一本实用的生成式人工智能指南，重点介绍转换器和扩散模型。它涵盖了生成式人工智能项目的生命周期，包括用例定义、模型选择、微调和部署。本书以直观的方式介绍了理论概念，其中包含大量的代码示例和插图</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448857&amp;idx=1&amp;sn=8516f673ea90d65a2333e32e4877cb69&amp;chksm=bfe86f64879cf818da920a0db72aa0c71635b0c762485ecfcebc634e3366f132ad4ea8dfd956&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 02:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从字节、百川、Bespoke Labs 3个大模型项目，看RL驱动下的Agent技术趋势]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIpUswHroTX5q1ZicW81VQOOrbWWXoulRqA1nhECnyzAKLzluuWgx9CE6gob4E8ia0K3fzpIllHrO9A/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：蛙哥https://zhuanlan.zhihu.com/p/1899863443995099259  Agent的技术线路目前看业界大概两个方向：• 一类是模型厂商目标是把Agent能力内化到</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448857&amp;idx=2&amp;sn=5a434839e7cb3659cba4876e5eb9bf7e&amp;chksm=bf4440dd327a5d4c3dac7c00bf150e2151109333b1e8c94ba91fd9503f272e757a94ff01f8eb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 02:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[图解Vllm V1系列3：KV Cache初始化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOLwAterXRkXI1D0HykhX03nzWlGW8ff4Gcicouzo3Vjjibey3gLbPv6HgQhZTNURFO8OqGQyVu1UTg/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们来学习vllm v1中一个不怎么复杂，但又比较重要的操作：KV Cache的初始化。在Vllm V1系列2中，我们以MultiprocExecutor为例（这种类型的Executor适用于单机多卡</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448857&amp;idx=3&amp;sn=b5d6d90f2b939cf385bdbf25a9d2d7f3&amp;chksm=bf054e369c6d939375ba888be5022b4a326db12deb5da4802550b13b15de03263b8b0ba1ecb6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 02:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[知乎热议 | 清华姚班开设马上 20 年了，为什么没出巨擘？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIzH0SJD4sL5XQaYGBJ3QUXvIbsIGMPheAT2NKXbhAichCfEUIaKYIicFps1L6ELLyvTx2AMmGaFicLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>源：AI有道拉格朗日的忧郁的回答链接：https://www.zhihu.com/question/667767788/answer/36336192473 薛天帆的回答链接：https://www.</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448842&amp;idx=1&amp;sn=1ab50e730854c5ef869e24cfba46fa2d&amp;chksm=bfc440839a3c97c0a084f61af99b2a024fe3467e232c2f2c070e127f4a6dfa4f35f8663fc581&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 May 2025 06:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推理模型越来越强，大模型微调还有必要吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1FD1x61uYVffLSD6K67usxUKcX2Jwr1icia2gPjztOiaQvEvZeZHRlKy90GyF1WtV5pavib7dicaSzicGmV9xfpsm29Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近笔者在将大模型服务应用于实际业务系统时，首先一般习惯性用一些闭源api服务，花上几块钱快速测试下流程，然后在去分析下大模型效果。如果通过几次调整Prompt或者超参数还是出现的bad cases比</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448842&amp;idx=2&amp;sn=bcf0cf7f01c63fbe3d7a1c4a3e23a207&amp;chksm=bfaf69955a57853606710311c71eb2853bffc5d7f59407d2a123618787bd7d88155c239bbd1f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 May 2025 06:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek-GRM: Inferene-time Scaling的通用奖励模型（GRM）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BrtBjG6XSzJ1IaEjJjXjvibiaS21k0q0pZkHEXKnp1xJkxrwVGKMBHZEHd73F4wvSwqgtm6W6iaOaibpQjzD2ng5Yg/300?wxtype=jpeg&amp;wxfrom=0"/><p> 1. 结论(take away)Training Scaling 和 Inference Scaling 在 Base-Model 都取得了巨大的成功。那么在强化学习（Reinforcement L</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448842&amp;idx=3&amp;sn=2d2e8bfae87fdd160b52ed0caffb13ae&amp;chksm=bfdd3758bd0e0a2af3e8ec6213955290b8cb305ea52d8abbba276f2ae1e269726acc3a8d0354&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 May 2025 06:13:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
