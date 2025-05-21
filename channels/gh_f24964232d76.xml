@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Sglang 源码学习笔记（三）- 分布式和并行（以deepseek 为例）（WIP）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tOXOtgxpQXSPiaxKSeHEsbeSu1ibiaOmwwBj3ydibpUvrY4J3cPcPibFEGVACtWVHic9sLfFbIojibbHvbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨进击的Bruce来源丨https://zhuanlan.zhihu.com/p/1890082781461207006编辑丨GiantPandaLLM写在前面基于上述的两篇文章，我们已经了解了s</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527482&amp;idx=1&amp;sn=36bdd525395bcec2cd2af9f91414df27&amp;chksm=9e3f92643f11752387205401487305c6db39c9265c2ea84ba1cf425c661b4b491a373e96f977&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 May 2025 14:02:17 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[sglang 源码学习笔记（二）- backend &amp; forward 过程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tMK5ibsUnYHIW5wuuUiamVvyMia70TGJcXCgvrGrvuk6xouDn3icZrXiay7jgu5Zla1staLWVmDU3aibpg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨进击的Bruce来源丨https://zhuanlan.zhihu.com/p/18285771025编辑丨GiantPandaLLM前言书接上回，Bruce 仗剑走天涯：sglang 源码学习</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527481&amp;idx=1&amp;sn=dfb0de9b745b5b19a097d65fa3cadb4d&amp;chksm=9ecd61fd76a803a6580ef3a3e29b136525a7e87c3d8b3c1067830630a59e5fa37ca2f2ce3584&amp;scene=0&amp;xtrack=1#rd</link>
@@ -32,102 +38,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/HrMQ8SF1ApfFDS3KvZZhCcFQETiclDBrlChFIQsTicVOmE2jECfAIPTqictOSEJaIU801SsFw4pNicT4BEI7bg7EZw/640?wxtype=jpeg&amp;wxfrom=0"/><p> 作者：Bruce原文：https://zhuanlan.zhihu.com/p/17186885141   前言笔者一直想找个开源的推理引擎框架学习一下源代码，机缘巧合认识了 sglang 社区的朋</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527370&amp;idx=1&amp;sn=8c8ee69ab7cd391843bf1cfa5c9c421e&amp;chksm=9ea485fe6b8c5bab324c8e87b0d70357d3f5f742c781dc1cfde79dacffebebfee0406c39ab4d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 May 2025 10:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在SGLang中使用reasoning模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tMK5ibsUnYHIW5wuuUiamVvyS2SVtMialRCJZTHwtoeSatqPLic9vvMBBIcDOPJYnXMXO9fjULMMLGFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文由 @Simon V(https://github.com/simveit) 授权转载和翻译并发表到本公众号。原始地址为：https://veitner.bearblog.dev/how-to-u</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527344&amp;idx=1&amp;sn=4fda438993b81cf8a5a1885d752b2e45&amp;chksm=9e4df2a6847c9bcd948a1ce0ee06563e48baf063c7f6921cf17a1ef1f0fafb58c38937774cd4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 03:19:01 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【CUDA 优化】让RMSNorm变得更快]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tUPqIicejMiba0KFVMadEtcUbncMPxfqibHuVI0sArI9iaicI47tnjl9Ub7HJKW31neNGfItvNp5QSlQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文由 @Simon V(https://github.com/simveit) 授权转载和翻译并发表到本公众号。原始地址为：https://veitner.bearblog.dev/making-r</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527321&amp;idx=1&amp;sn=ee17ea126e3d354f446274aba665ad3e&amp;chksm=9eae910a158648e812391beb7fd8c586cc278f15b8096bbd12d66bc58763d88495976e9ef7b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 May 2025 15:41:37 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[图解Vllm V1系列3：KV Cache初始化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOLwAterXRkXI1D0HykhX03nzWlGW8ff4Gcicouzo3Vjjibey3gLbPv6HgQhZTNURFO8OqGQyVu1UTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>提前祝大家五一快乐！节前我们就来学习vllm v1中一个不怎么复杂，但又比较重要的操作：KV Cache的初始化。在Vllm V1系列2中，我们以MultiprocExecutor为例（这种类型的Ex</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527292&amp;idx=1&amp;sn=b5a62daea80697befba2a2a22510ca31&amp;chksm=9ebbecfd572b68f91c5b285e313af8ff9b3d5dafce108a736a4e1ed10f1d0d22b2dd48483760&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 May 2025 15:42:45 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang Team：在 96 个 H100 GPU 上部署具有 PD 分解和大规模专家并行性的 DeepSeek]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/HrMQ8SF1ApcFBF9uwEvomrcsNtcFhVFSoWv5u3kyN56ZqeYLRVtY0onWjtPUrTsxJkaCxgRwM0ic3bT4ngCdrwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：SGLang Team | 翻译：青稞社区https://lmsys.org/blog/2025-05-05-large-scale-ep    DeepSeek 是一个广受欢迎的开源大型语言模</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527290&amp;idx=1&amp;sn=4ee491c93136d89470f25b37b6e8c46b&amp;chksm=9e0461bc0e60be7e3bcc243171644f71d42efc01ded109bddb7fa80dd90b43abbd5319c7eb65&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 06 May 2025 10:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客翻译】让前缀和变得更快]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tTtBAICI2bMaQEuvk87p115Vy28ZTAAxecVskic3OfrLQUtdq634JlLia6Hj6BedxBGHKw8kArjy6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文由 @Simon V(https://github.com/simveit) 授权转载和翻译并发表到本公众号。原始地址为：https://veitner.bearblog.dev/making-p</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527288&amp;idx=1&amp;sn=5063b5f9bb1736f5aa59259160a72226&amp;chksm=9e1f144d6e8ae35ef555186aa961fa83f2d668d44803be5558635ac2a0c8fa0ff2260e95ebd4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 05 May 2025 15:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[图解Vllm V1系列2：Executor-Workers架构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOJMiatNibY1e7vGYic1FlOnyiaqTaPztGWrWLzStWAsgHSEnH7HZdjXHxQVGVUmxIhuhiazYO88licTzWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前文：图解Vllm V1系列1，整体流程在前文中，我们讨论了 vllm v1 在 offline batching / online serving 这两种场景下的整体运作流程，以offline ba</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527271&amp;idx=1&amp;sn=c0b695300d6197d21bc4ba95b5b86627&amp;chksm=9ecea3d2f7890237f5e7ddd1ca4bccb388f80776ab3c52430586f263ba0493bae32bcfffc3c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 01 May 2025 15:57:04 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在 SGLang 中实现 Flash Attention 后端 - 基础和 KV 缓存]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3slmfJj0hp0FQlqQwczyWXv722ia013y5vjlPHmue4IybV406re1jNmrYD29Wom79wXtJCsjicYDTzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自：https://hebiao064.github.io/fa3-attn-backend-basic ，由 GiantPandaLLM 翻译和Repost。作者是来自Linkedin的 Bi</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527269&amp;idx=1&amp;sn=0103cb76e8f06473b93d70de61c73a48&amp;chksm=9e744db93de6cbf8eeea33f8237411c640fa3fe831034fe9e2fbc2b3e8ad52d2667152b49c85&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Apr 2025 09:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Qwen3 一手实测！ 附示例，涉及推理、创作、数学和代码、表现惊艳!]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sCD1KdpgcYhrKTB6Zj7h3fCG6LOXNhvUr0R78gX6HibB0RfFr6OKlSK0j55bTUibCtJaF8TnLWd9ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。从Llama4陨落之后，国内开源模型是世界第一，谁赞成，谁反对！反对无效！应该也没人反对吧。Qwen3这波开的时机，真是恰到好处，五一都别休假了，加班跑模型吧。我在上一篇已经介</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527245&amp;idx=1&amp;sn=7c1f4a1611692a8979f5d115daa9f66b&amp;chksm=9e8a792427368488523793f1a003937266229da3633984e6c77bd495a3f66071f3ddc74b0f33&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Apr 2025 00:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[蚂蚁集团全球招募顶尖 AI人才]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/7teRkrDIhtaSTwSh4DZKGPJiatqTF0xPhBrp6bpWFN1f4wPQu4ibNAQ4kve9XgLrKH50TNia4FPtjl0Bv5FZzua7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>向左滑动查看更多➡️向左滑动查看更多➡️ ⬇️点击阅读全文，一键投递简历</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527239&amp;idx=1&amp;sn=e34737376bdfc539cc27aec055bf114f&amp;chksm=9e78de12202becaddafa05fadcf2b87d24af9f575a0cb07077592a79f65eef64ff870a80691e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Apr 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[图解Vllm V1系列1：整体流程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMAiayUibfPX4FPFWand3TicN83HPfBmGkZ5PPoX0LBdVlDsYdQEwZRuopO4ahG8LFOZdalPcavbia2hA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，好久不见，最近我在细看vllm v1 和 sglang的代码，所以接下来会写一系列的文章来介绍它们。在本文开始前，插一个题外话，简单解释下今年我很久不更新的原因：我在xhs等平台上，大量发现盗</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527232&amp;idx=1&amp;sn=18c31ca8e52ae9615be66fd509d3f377&amp;chksm=9ee16defbe9badeb9306b74c7c3380c634712282f558819a38d92c7d021d743105a0444ffd3c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Apr 2025 15:18:06 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客翻译】CUDA中的索引]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vGnotX8PrToGVe1S5EoFjdlWK7w8ZmKRZ6xe9tdZ3oCyaqAa3ibcEd0Ofquu86g9R9ic5kkYNPGPQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文由 @Simon V(https://github.com/simveit) 授权转载和翻译并发表到本公众号。原始地址为：https://veitner.bearblog.dev/indexing</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527230&amp;idx=1&amp;sn=fc9d39e607d1d8cedb291383cb019d53&amp;chksm=9ede21769e01a667cf7ba70d0cdf4b4d352bcc17c484fab60c0f0855b05e30b213b153a25995&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Apr 2025 15:31:59 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一起聊聊Nvidia Hopper新特性之计算切分]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P0Ka1WNRwjUceSszcB4qSa0P7iajhJNX8btf0uiaRcFU1UlnHVMFOBS4DumsI053NCZsiamBI1ia586vZWmaad9WAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：企鹅火烈鸟🦩来源：https://research.colfax-intl.com/cutlass-tutorial-persistent-kernels-and-stream-k/前言这篇是H</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527219&amp;idx=1&amp;sn=84d616994b6bb8ccb01d33ca261f236c&amp;chksm=9eb63c04b1fd990881e61540e1482df0934ed3a181b056e007af4dd5ea45dea840539e593347&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Apr 2025 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一起聊聊Nvidia Hopper新特性之Pipeline]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P0Ka1WNRwjVXVdc4Gvib6eZ5JRC20iaWvWoplcOlQsPywEt6laF13ZBM76lsFB73LibOZ0TYtNBCVPKXBHqLygm6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：企鹅火烈鸟🦩原文链接：https://research.colfax-intl.com/cutlass-tutorial-design-of-a-gemm-kernel/前言大家好，我是企鹅。欢</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527217&amp;idx=1&amp;sn=3ac7f0479fd97d48a832321a44052931&amp;chksm=9e0edf695fdc262325fac3c09733ce8ee4a1dc02430414dacef0517ce8fd3a3b92029fd6642e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Apr 2025 15:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一起聊聊Nvidia Hopper新特性之WGMMA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uTBfH9PKkxTdt1A2l8LNcBnBH5u3ibsHEUd8YYGcTcRtBqdJnEbdwh9pTuDKgsjQDKibBiaU5ib6D5ibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文翻译自外网资料，译者：企鹅🐧原文链接见文末，公众号排版来自机智流公众号上次为大家带来了Hopper上的新特性之TMA，这次我们来一起看看Hopper上的新矩阵乘法操作WGMMA。引子如果一个 CU</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527215&amp;idx=1&amp;sn=19663377327b4488c997bc99f5aa424f&amp;chksm=9ee09f6a6f4516a29fcb0e4a586d911747d5396568e8606296120adafe18878310af844c5dd9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Apr 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一起聊聊Nvidia Hopper 新特性之TMA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P0Ka1WNRwjXjz5Nol60UEzzkSeuefBYWrV0PTicWHmqm0NAadCSJlBRU3rLcE2Xoncd6Tar4klic88RibIhgD7ebQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：企鹅火烈鸟文章修改自：https://research.colfax-intl.com/tutorial-hopper-tma/之前解读过两期LMDeploy Turbomind里的源码，针对H</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527210&amp;idx=1&amp;sn=6888f14ba34b2e3584ca17cec46b6323&amp;chksm=9e7eea43515261a2ad87f5b810a3e540a9e0664260e667aac30f54b4c9e8fbdc7d0d842b4699&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 17 Apr 2025 13:30:41 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[图解DeepSeek V3 biased_grouped_topk cuda融合算子fused_moe_gate kernel]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3t6IR1tNo2n4icTV7Bx47aF9A212teNEKDYHuxCWRACZZGic4p1BSAXpCbhrVvnPPOmWJLmOyaqqt1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言今天介绍一个在SGLang中针对DeepSeek V3模型中的 https://github.com/sgl-project/sglang/blob/main/python/sglang</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527208&amp;idx=1&amp;sn=fd51a42fd76c76fb7d283f4b1ef3b36a&amp;chksm=9e3a298dd361267187450457b9a3e4a6335779e2bece9dbea24313cf59d09324164edfacc1e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 14 Apr 2025 10:15:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

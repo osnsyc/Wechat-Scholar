@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[ICML 2025 | 无需训练，即时对齐大模型偏好]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiag98LoUGfvTHicRVK9jRYv4uk96EfBbJiaia1MvxSBZibv20npNEA7JJHo3b5v3ldtqtqMIlgW66gZ3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>TPO：推理时即时偏好对齐的新方案 为了让大模型（LLM）的行为更符合人类预期，一系列训练时对齐方法（例如RLHF和DPO）通过微调模型参数来实现偏好优化。然而，这种“训练时对齐”模式不仅耗时耗力，而</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247539202&amp;idx=1&amp;sn=0eed57d030fb967564ac635ecd6293cb&amp;chksm=ea23a5c1758b3fa2d9e33a2b45484abcf3be298e66bbd554288e05851075326d2568751fd525&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 May 2025 14:18:31 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICLR 2025 Oral | LLM也有从众心理！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiag98LoUGfvTHicRVK9jRYv4SI1Qb1NTqNrOHYsN7xTjZhF3HvQdYrkicicZB3uOqmuYiaNib3QWiarCakQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>当你和朋友玩“谁是卧底”时，明明知道正确答案，但看到所有人都选同一个错误选项，你会不会怀疑自己？最新研究发现，大型语言模型（LLM）组成的AI团队，居然也会犯这种“从众”错误！论文：Do as We </p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247539202&amp;idx=2&amp;sn=41b0bea4575111a5626729fdc97fbe2d&amp;chksm=ea035f0438df5cea3499a833ff531c129b93d408bf1087cc63765263f900003085232214bea2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 May 2025 14:18:31 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ACL2025 | 抓出0.1%的捣乱分子压缩方法OTT：近乎无损 超越KIVI，内存减6.4倍 吞吐量提2.3倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahjSlXD4qibHCzpgnVNuhNmgaoPdbpk4tb2sicfEibLz978rdGIkqibZsLxY8X0ThVS0XV35alvIjgV6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>LLM 生成文本时，需要记住所有已生成内容的关键信息（类似“临时笔记”），这就是KV Cache。它的存在让计算复杂度从平方级降到线性级，但代价是内存占用飙升。举个栗子🌰：LLaMA-3-8B模型处理</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247539160&amp;idx=1&amp;sn=cf1acd98d304b129d66b51f3b05020b9&amp;chksm=ea5ea8445246a2824098bee257d34f5f8bab93e6c61ffbae26030a875a895edf9fac7d0f1fe2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -104,24 +116,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaG611V5uricU1jxYk44Kf1ficYHlO7Aho07faYmgChA2iaxpI4WJSQPhO2rMYJC7p78Se2QI0jyicQHQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>如果满了，请扫码加小助手进群哈备注：昵称-学校/公司-方向/会议(eg.ACL)，进入技术/投稿群id：DLNLPer，记得备注呦</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538811&amp;idx=4&amp;sn=cf6116b19164d7258b0b7a08984681c9&amp;chksm=ea0e3a112431dbe6dfdeb2c803e0f8cd9822c3180be0c9d73f19f4b04fb883dbc1ec02c96234&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 May 2025 05:54:24 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[字节Seed团队发布Seed1.5-VL，用仅20B活跃参数在60个主流测试中狂揽38项第一！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah2F55ria6XQp6mHZjcZn4Mcz3t2ibMBsTpFhP84bdShJHWp648IdnAXlCzN0rB2ojibBZiaICHwCJNIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：Seed1.5-VL Technical Report链接：https://github.com/ByteDance-Seed/Seed1.5-VL/blob/main/Seed1.5-VL-T</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538753&amp;idx=1&amp;sn=def11b29ddfa56e7afef5a0eab582a26&amp;chksm=ea9b1932cb9deb19e80c674b060a82c725251ed8dc31f058b2bfa45472defd1c04b0cf6a22fd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 05:55:50 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Learning from peers！让LRM互相「传纸条」的新协作方式大幅提高准确率和效率]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah2F55ria6XQp6mHZjcZn4Mc167RULbWDjq5tZZ9oXNEwuVHQhlr3Kws1DcqdGNNAf33iaNCliajDiaPQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>当解数学题时，如果第一步就写错，后面可能越算越错——LRM也有同样的问题！ 研究发现，当前主流大模型（如QwQ-32B）如果在推理开头犯一个小错误（比如前15%的内容错误），最终准确率会暴跌近20%。</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538753&amp;idx=2&amp;sn=01a1009af4705abafa26d130023d2a49&amp;chksm=eae21ada569224efbd602a2b7b7ae578d240948d97896641bd3998d8ae02f4c8df964984c55c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 05:55:50 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NIPS2025/EMNLP2025投稿进群啦！互通有无~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah2F55ria6XQp6mHZjcZn4McTP9hS2HFqLLqLgPuYyXMkV4ESHBKkrkeKDIfBa1MvQ2wsXd1bPhQ8w/300?wxtype=jpeg&amp;wxfrom=0"/><p>如果满了，请扫码加小助手进群哈备注：昵称-学校/公司-方向/会议(eg.ACL)，进入技术/投稿群id：DLNLPer，记得备注呦</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247538753&amp;idx=3&amp;sn=a17816c7e67599cc31239ecab0c125cc&amp;chksm=ea489ead2c121e5f1a31bc5a4bae71b203eb72d13f4eea86c04d9f1987aafa0327c87b8cf31f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 05:55:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
