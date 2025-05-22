@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[【MoE】【DeepSeekMoE-v1】【1】分布式微调代码详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzv40LbkyyYgVIU21QgyBgH3HU30T42w62DGClXdLj6DTdy9ibQVVdlFdLibyOySOib3qviarmPNVjia2hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言由于近期需要微调改后的moe模型，所以需要一套微调代码，之前有用gpt生成代码来训，但总是需要面临分布式训练的问题，而分布式训练的时候又很容易报错，导致极难debug，因此为了简单方便，直接使用D</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247607071&amp;idx=1&amp;sn=fbf1b855be593fc4aba9c80ae1e6f2d2&amp;chksm=fad74ad5758c99d0523ae849e3e6c6937974ddabdde1909f1e96905a75a27927cb7d96359984&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 May 2025 09:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【LLM架构】动手实现MoE架构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztx2PHsiacCpibNNKLdLn4Rl2JIpLwq6WxuZpscLRKY28g1vrDWXQTqDibmDRs1qDV5cJkkfWC0Vt4CQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前文前面我们对MoE架构的原理进行了解释，这里简单回顾一下：MOE主要由两个关键点组成：1、将传统Transformer中的FFN（前馈网络层）替换为多个稀疏的专家层（Sparse MoE layer</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247607070&amp;idx=1&amp;sn=5095d33754fc0df0d2ae421c040eb0a9&amp;chksm=fa8f8d26f16d9310e7208cbc41b0d120bde418f87bbee1aaab92f3d61d9eb5648825b736fd33&amp;scene=0&amp;xtrack=1#rd</link>
@@ -44,90 +50,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzt5lzdEA4YTs6zjc3DYviahkO9et3Tan41Dm6OUdDdknfibAgCaN07QzrBXy22D2q4Emzia7m3umiasrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言全国大学生智能汽车竞赛是学校认定的一类创新创业竞赛，是一项以“立足培养、重在参与、鼓励探索、追求卓越”为指导思想，面向全国大学生开展的具有探索性的工程实践活动。本次地瓜机器人智慧医疗挑战赛旨在通过</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606939&amp;idx=1&amp;sn=633cd5e59daaec8f9f5bba618f93120c&amp;chksm=fa869190ec93126f8c825a79595b5b86d4292bb0c05000b34169fa5746ac5e38d906ad8b4792&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 May 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【机器学习】使用VGG16与K-Means对大量图片进行自动分类]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvoagjgYWQKJ5bEclIyPK88vHXE2w1sEsCzTxW2KONKdYCmb2QIPUZAUwJdXYD3XmmpNEXOOolJYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在数字时代，图片已经成为我们生活中不可或缺的一部分。从社交媒体上的自拍到电商平台的商品展示，再到个人电脑中存储的旅行照片，我们每天都在生成和接触大量的图片数据。然而，随着图片数量的增加，如何高效地组织</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606915&amp;idx=1&amp;sn=23cdef5bddcd20e2f0fcc68b4d55bcb1&amp;chksm=faf355e838d601cfa99a1036c129fcc26f5b565ae646cd19b26be4930f0fc6211b61634f0d6c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[周四直播预告|行业大咖圆桌会议——从智能汽车竞赛到具身智能未来发展]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztBiaqhc7pnxSFsLDuQHbzw9kHWgN12B8AvyjNunSZNQDibSIhZ3RmYTRYxsA5Nc4xl6WqIxhCYHobA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言全国大学生智能汽车竞赛是学校认定的一类创新创业竞赛，是一项以“立足培养、重在参与、鼓励探索、追求卓越”为指导思想，面向全国大学生开展的具有探索性的工程实践活动。本次地瓜机器人智慧医疗挑战赛旨在通过</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606914&amp;idx=1&amp;sn=29118cc405e7c47e6fcfbae051884ec6&amp;chksm=fa3ddfdca948399c0c746f0290f553ff57f626bcedc80f49d557045691fb5ed596c6e54241fd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2025夏季科创营报名启动 | 在硬科技好莱坞开启科创长跑！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kZwWtwNvsjYnMvGWy5RMqJnfeOzBiaq8yMKOKXogm5zl2y8vibIvZPXibrA3NjXSkH86dBFv5KP2alpokMeflrj2w/300?wxtype=jpeg&amp;wxfrom=0"/><p>开启年轻人硬科技创业新范式。深圳这片土地，上演了无数创业者的追梦旅程，更见证了众多科技企业的腾飞时刻。过去三十多年间，深圳科创学院发起人及院长李泽湘教授深耕硬科技创业培育，引领多个科技企业破土而出，成</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606914&amp;idx=2&amp;sn=c870236a6b1fb6d9d9c02926a3bbb06a&amp;chksm=fa1e5178087d116fa809b004759c05eb4fda9144fbddd303c3132602fd9f8d330263ea1fbff1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第22期 ROS2 Qt 21天训练营已经正式开营啦！快来组团报名吧！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvoagjgYWQKJ5bEclIyPK886gHq5ibuL7umU7IhB0VqWJZAeyf2jF8ywmcYmggz4pV84pIh8z6CZmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍早鸟福利1（开营前）前20名报名可享受早鸟价¥159！2（恢复原价）20名后恢复原价¥179！注意：开课时间：5月19日9时截止报名：6月1日24时点击“阅读原文”可跳转购买链接</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606894&amp;idx=1&amp;sn=fafffd01b7003ef522ac1a77a17c542d&amp;chksm=fad2ea38600728081d3f92e8e4f47438b5c3c76df956823ce98c7e180a0af4434658d2d727d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[宇树机器狗go2——添加3d雷达（上）添加livox系列雷达]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs8tDEaribKEFOHrBPHibuz3GXu6yyO27ASjcV5fPHiaeJF8N42CounP1icyia9hTQrLk2Re0AeQORCMwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0.前言上一篇文章教大家如何在宇树机器狗go2的仿真环境中添加2d激光雷达、单目相机、深度相机（宇树机器狗go2仿真添加2d雷达和深度相机），本期文章将urdf文件中有关radar的描述迁移到xacr</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606776&amp;idx=1&amp;sn=829408e9f6eecd56e6f2a5c83b6e3165&amp;chksm=faebf419cc9d85aa3a4b307a59e78c7bb2461f58f62c618c236f9bdf4343773f508a8f3ce8b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 11 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具身智能 | 宇树机器人开源整理以及技术解析猜测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuFnsOAY6fWbCga9grbDweE8lXlicMtriaDCqsdTkXnoWUMceT7o3R42SDoU92KyHRVIiaeSZm8GW2iag/640?wxtype=jpeg&amp;wxfrom=0"/><p> 具身智能 | 宇树机器人开源整理以及技术解析猜测1. 引言近年来，具身智能正悄然成为科技领域的新风口。从最初试探性的机器人走路跌跌撞撞，到如今能在春晚舞台上翩翩起舞、在高速奔跑中展现灵敏反应，机器人</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606608&amp;idx=1&amp;sn=8e118ce9632e4d65de69a96a2663ce7b&amp;chksm=fabdb35bfa910a9c0a7e07cf53313c1a1b361faf2cf6ce3b5383bea66d970d5b8c4c1607a8fb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从傅立叶变换到 FAST--具身智能加速神器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuFnsOAY6fWbCga9grbDweEAyb25WiaVCzIBJZ48m7fjumz5V9KJloQkDLUIJERYibct7ia8AMsMWhpg/640?wxtype=jpeg&amp;wxfrom=0"/><p> 从傅立叶变换到 FAST--具身智能加速神器0. 简介对于具身智能来说，PI0应该算是非常值得研究的一个工作了。而在开源后我们还发现了FAST(https://arxiv.org/abs/2501.</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606607&amp;idx=1&amp;sn=8183729ed47e08c471109edd7ad827fe&amp;chksm=fad20b6b0989f28c2be68f612c4fe3de863799cd5cb98494bb57c2460a6300df559923c27ca0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[漫谈PID，聊聊实现与调参原理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs8tDEaribKEFOHrBPHibuz3Gd1icufEEDf96GT5hAYIjo0N3tzW9WkkEQsibC7ib2QWQqTdODoibXnGmiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言PID控制器是工业过程控制中广泛采用的一种控制器，其中，P、I、D分别为比例（Proportion）、积分（Integral）、微分（Differential）的简写；将偏差的比例、积分和微分通过</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606606&amp;idx=1&amp;sn=11f04db1a2494946bef5edf5805f8663&amp;chksm=fa0388a339065ec61a320ea2d39bd19797c90bda2d6b49b00ae3800bccdc8cddaf547fd08c2f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字长文梳理具身智能操作知识与拓展]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuFnsOAY6fWbCga9grbDweEcv7KZVP3SjicnHNFlZ8eyvxp93ibBSbjPMIkLnIzvoaydTjezGMicb2gA/640?wxtype=jpeg&amp;wxfrom=0"/><p> 0. 简介对于具身智能来说，目前算是一个集大成的工作，虽然目前仍然处于持续发展的阶段，但是有一些比较基础的知识还是需要系统整理的。目前具身智能发展的非常快，几天就能看到一个让人眼前一亮的工作。1. </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606595&amp;idx=1&amp;sn=9ad80256e9f6685bcf952a6f99dc7f2e&amp;chksm=fa2ce74bb38ca7079dac2d2e3afbc0559ebd63aa4192ffb188509f6d3a5d5f012228ca8cefd6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[好课推荐：基于栅格地图的机器人路径规划算法指南 • Ally（黎万洪）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuOz39DSkJSUJhL2cerQ4jwBzEvRcAjnM7qY3WVBq95aPHt8zVLaTIicCI1jNdh30wuPJ1icW0dpLRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程目的机器人是一个集感知、规划与控制技术于一体的智能体，其中路径规划起着承上启下的关键作用，效率高、实时性强的路径规划算法对于提高机器人的机动性能具有重要意义。课程内容本课程共8节内容、7个路径规划</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606588&amp;idx=1&amp;sn=4e596adfc9e157db6ab8167973c8e92f&amp;chksm=fa1e11fac5cb104556279169ab9b4eb20c6d6e64234a2e1db9ff01cd33efc0bac2dea4059653&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 06 May 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人灵巧操作新突破，力感知技术让机械手更精准]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuVAicaj7ibCEicY9amVZC5JQoMFF9E2G1Sw27zFYOicicSYNYoQWUVv2iam62oFbjPibNKJ6XjDWGeF7DCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人的发展历程中，让机器人实现灵活操作一直是科研人员努力攻克的难题。我们这篇文章给大家带来一份新的工作：DexForce链接：https://arxiv.org/abs/2501.10356一、研</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606523&amp;idx=1&amp;sn=e1358099728ab79f47ce7ad38a0cd19b&amp;chksm=faa2fb489ed27914c9527154e04436e8f408879e78bd7d4182b65b70aab2c96c44cc2ef0b1b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 05 May 2025 01:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS应用 | 软体机器人的控制与仿真]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuVAicaj7ibCEicY9amVZC5JQoqCGumIgkUKJ4zsxI64Bc4XVpqeD4oZsgTQr5iaDNhmBr8YHHFicZwBqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言软体机器人（Soft Robots）采用柔性材料和可变形结构，具有高度的灵活性和适应性，能够在复杂环境中执行任务。与传统刚性机器人相比，软体机器人能够通过形状变形而非传统的关节和驱动器来实现运动，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606519&amp;idx=1&amp;sn=2d8a767d4e1552a6e3baf3f4b865e2c0&amp;chksm=faf23d24527645dd7a6fae1e76886b85b330f2dba17f964fffa4a7b68fc6eb1e02cc382ee612&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 04 May 2025 01:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SplatSim 框架：用高斯溅射技术跨越机器人模拟与现实的鸿沟]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztOAh53CXJuWibe7icIM7Xx8ZPMzllEFlojmibibCoTricpnu6dJ3tIRmfOPLQ3DF7hLt80icTG5CQPVCCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人领域，让机器人在现实世界中精准执行任务是大家一直追求的目标。可模拟环境和现实世界之间存在着不小的差距，特别是基于 RGB 图像的操作策略，从模拟转移到现实时总是状况百出。今天咱们就来聊聊 Sp</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606515&amp;idx=1&amp;sn=8946c0c763346e16092673cc91a34015&amp;chksm=fafeb87432aa7721350c6e60e118c9ada7e0a87137f0ed52aa25d65acf222b08feafa2847cbb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 03 May 2025 01:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS应用 | 基于 FogROS2 的云端与本地协同计算系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztIogVJtvHrha7DNpw4HRzCJcY0egjcIK5PA5r7ERM6J2gJ0pTcFIHHiaPacjjibeBtbhcC7Veiabt7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言随着机器人技术的快速发展，计算资源的分配和优化成为机器人系统设计的关键挑战之一。传统的机器人通常依赖本地计算资源进行任务处理，但由于硬件限制，本地计算能力往往无法满足高计算需求的任务，如 SLAM</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247606514&amp;idx=1&amp;sn=306a27327c6aeb9be6d3f706efee726a&amp;chksm=faedc6fe188251aa97b2924357b7e3144ed58c72365e922d1741b67e5ce7996aecd5c9bb2ff0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 May 2025 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
