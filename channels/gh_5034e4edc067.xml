@@ -10,6 +10,24 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[解决小LLM 6类幻觉的实用指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSISPQNdSR8yYIy8IaflZ7TPBx3HBbdrRpssen7p5EicACnIia1P1R5VE42MbP7ibTeIvCLSxByiaTxJfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：lucas大叔https://zhuanlan.zhihu.com/p/1905954926288443161   LLM中的幻觉有多种不同的形式，例如以下几种：• 事实幻觉：表现为输出错误回复</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650449025&amp;idx=1&amp;sn=36062a8772a0c957f3d6a0d504500236&amp;chksm=bf367cba5caf12ec7b8b0f2d96174fc01c24ce0b6adedd23535498e4566573015b4dc317e7ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 May 2025 11:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[李宏毅：你想为大模型装备哪些任务向量？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSISPQNdSR8yYIy8IaflZ7TPE0gvEKYZbIRgMtVoXIXyEZhIpNsicKgZrnIhpnOvibUY0jO7lrIKzQIA/300?wxtype=jpeg&amp;wxfrom=0"/><p>李宏毅生成式 AI 时代下的机器学习（2025）第十一讲：今天你想为大模型（Foundation Model）装备哪些任务向量（Task Vector）？进技术交流群请添加AINLP小助手微信（id:</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650449025&amp;idx=2&amp;sn=f312ecabef7713f8c4b9fd9e90f5dc44&amp;chksm=bf040f59df14adafa701d799a9803f13942240bda210214a638fc64ef18e94245bdfa803f9a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 May 2025 11:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[小红书生成式推荐排序GenRank]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UkaMPMaoibmiaBDGonyoR442gIFz8uGkvLS7d4fIe9TrEn47ib3EtdKkp9VTnLQh9AtV5uKZldOSeGXycCE1icJPicQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文：https://arxiv.org/pdf/2505.04180为了平衡效率和效果，工业推荐系统通常采用pipeline管道，包括四个阶段，如图 1（右）所示。召回阶段从数十亿item中选择数万</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650449025&amp;idx=3&amp;sn=bd365f987fd0f19859158819762c14da&amp;chksm=bf1a5e42c85b4d71a37adec43c5542af0abb4aab21ac419edd0d0cae75dacf0693b26997815a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 May 2025 11:03:33 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[华为目标院校白名单（2025最新版）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSISTL8f66icGSSAs6Q8ibeEcXQIEPQgQI23JM7ETic52oMMNiarm59wsWpnnyRsDibOcfyvp1wvWQEWSPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>转自 | 互联网架构师2025 最新的华为目标院校白名单，给大家做个参考。不一定准确，因为数据并非来自于官方，所以也仅供参考（先把锅甩了🤣）。首先是 985 高校，包括清华、北大、浙大、南大、复旦、中</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650449008&amp;idx=1&amp;sn=7369bede967d92f3385dcb54b9ee382c&amp;chksm=bf6a2faffd4ad411f8a69d162cdfeccbb9eaea6e9354e090234fa0f55f47f2fe9df9c150c361&amp;scene=0&amp;xtrack=1#rd</link>
@@ -98,24 +116,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Aj0FZbibW4665HeiaaQkq6obzEticib3SQNKO1u7GLo9ZloTkKyqIou63EbkKEycWeA478ciaic5aUZNToMXpQotvX9Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章主要从一个搞数据和训练策略的LLM算法工程师角度总结一下之前用到的训练框架相关知识，包括优化器、精度和混合精度训练和DP、ZeRO的相关内容。1.Optimizer现在模型的优化器就是Adam</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448964&amp;idx=3&amp;sn=d89a01236e580e3ca27ddd2e1d688c02&amp;chksm=bf1e49bd6f6c198778185f109277a87c995434f34dd8a4916e578e3c611638ba4020d6d03a48&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 18 May 2025 13:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[英伟达选择阿里千问，背后竟然是。。。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLAcE4SefDDFicErITryggQ2exFSic9XlIu6bNQksiah2qDX2dVVbE9ZV3uYQrhbx9kBKrXYuvZqwKKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>英伟达技术团队前几天开源了几个代码推理模型OpenCodeReasoning（OCR），其中一个细节引发全球AI社区关注——其7B/14B/32B全系模型均基于阿里通义千问（Qwen2.5）微调：这些</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448932&amp;idx=1&amp;sn=02218dde468fa1a47392078ffb63ad66&amp;chksm=bf8e327caf14095384269c559225f8793e4ca90ce4632a3ce2f8478ea2f318ddced6f5878e18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 May 2025 01:15:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[强化学习算法梳理：从 PPO 到 GRPO 再到 DAPO]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLiaECR54hLhTW28am4fXJO9enlUibNCLmwIdt5iaTecmkbfjb6ZDPGtDZqtCO1h3zauqib1qdiciaXdbkg/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：catneverfathttps://zhuanlan.zhihu.com/p/1898817630208517687  强化学习基于奖励最大化假设，所有的算法都是建立在得到一个最大的期望奖励的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448932&amp;idx=2&amp;sn=46a60df632c2e669e9b9860cb50630a1&amp;chksm=bf517a1b1489cb9d3d54e02120ee9eeb2bec2a57f16877993f58cd68f85caede5a3d45e74adb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 May 2025 01:15:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深度解析DeepSeek-V3：硬件与模型协同设计如何突破LLM规模化瓶颈，附论文英中对照版]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZvlMsfNDDjmBPRhaWhD3wQQD3l0tay7gIvJ0plTPhBhDdHD1icssOiapLMg32ZDQxn8zyrt87GZZClIDgbv7WXRA/300?wxtype=jpeg&amp;wxfrom=0"/><p>就在今天，梁文锋署名DeepSeek新论文的刚刚放出，以下是该论文的解读和英中对照版，仅供学习参考。我们用大模型翻译了这份论文并提供英中对照版，感兴趣的朋友可以关注AGI公众号回复'indsv3'获取</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650448932&amp;idx=3&amp;sn=95951cc986da4a2fea41e3241abfa3f9&amp;chksm=bf0b47826030bf58cc8056a6cc279b06d9a01d9feeb0c7c032af7a6f74e0eca8b3951ba104d7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 May 2025 01:15:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
