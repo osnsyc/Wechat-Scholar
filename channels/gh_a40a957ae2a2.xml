@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[推理模型的必经之路-自适应推理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mIiaHf5IbL0dxL3DnTib4icibpiahmKSSKRoQgPWzHhNoPosd4ibJgSQiaIoJn9mNekjAiavxzwZIA4UibeEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。前几天分享了一篇模型自动适应是否推理的文章，推理or不推理？AdaptThink实现思维模式的自动切换，今天又刷到一篇，Arm: Adaptive Reasoning Mode</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494495&amp;idx=1&amp;sn=9c43a1d4ceda5f9de8e10bed5c54ca31&amp;chksm=cee9d0a0f3726991868e1f58f547dc4e9cd20b33537775e7f4847c1181ea31db2f78fca7560d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 May 2025 14:12:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Verl Agent化改造过程中的一万个小细节]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5ly3EhFJOZbEpciaaJFkA0dN864MFCSwcUwXSZFFTv4BpicRTZkw7LTU2ggjtzOWjFUq4mSufVDWtBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/1910330901201688247 (已授权)昨天分享了，DeepEyes-端到端RL复刻o3的Thinking With Imag</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494474&amp;idx=1&amp;sn=32b22956b838e9038a5c35a190445703&amp;chksm=cead3eb820539e83e5c9cb872395b0aca99cd231f04f912ca71b8703cf5edf721b80fd1d1aca&amp;scene=0&amp;xtrack=1#rd</link>
@@ -32,102 +38,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5loO4xqtYibqojaDHsxw7PAicibpoDGU06nRU10Vvr0KibjeaA7CzglNfkHLRtOcsP97TRibKnGzc07QeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。总所周知，推理模型在很多任务上效果显著，但因为存在思考过程，也会增加推理过程的时长。对于相对简单的问题，非推理模型即可。Claude3.7、Qwen3模型也是混合推理模型，也就</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494450&amp;idx=1&amp;sn=ae9929401a0b771bdf759451f960f4e6&amp;chksm=ceb96f64dae25930315c30e1bc15faa42c25797873a051063684209680e1d720eca856cb6aa1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 21 May 2025 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通义千问又开源啦！WorldPM-世界偏好模型来了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nMmQJr1hvnjbwGvrH5UPIiacxiafNAFOvW1pt0NOxN52N2I9ia0UVACZefuTy51BJ5qGZedC3sXspOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。是的，没错，Qwen团队又开源了，这次是偏好模型-WorldPM。偏好模型，就是也可以理解为奖励模型，在强化学习中用来打分的那个模型！HF：https://huggingfac</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494375&amp;idx=1&amp;sn=e695eef6d88ddd519a2e4ab9a98ced99&amp;chksm=ce64ac452eed3d5c3e4d74aa94625984187f467187c497e72f9131e2ff660204d7044a5cb003&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 May 2025 00:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[朋友跟我说，他们已经“全面换成Qwen3”了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mMMJcUuqk7HMvYonNtFQ1B9EG2vcM9WdBS2LY2xx6j76pbWuajUdIHhZxpm7sJS2IKm2n6iawy0hw/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494362&amp;idx=1&amp;sn=1dcf8d0fe53a7febea7ec21ee7734f04&amp;chksm=cea47967c69bd70d3f8e5aedc579968d4efd9d569372791bfd0cefd438ccc36d82004c4d86cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 May 2025 00:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI碎碎念-关于Agent的思考-2025年]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mj9FjUSWszQymicHgXGyNibiaTCphBqNibyzTibEUjbABRYCiaiafF7puoNhOOHZEZPXhls5uASCG41lmeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/1905773415048143364已授权什么是Agent？我们团队在做购物垂类的Agent，只不过对外没有宣称我们是个Agent。然</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494345&amp;idx=1&amp;sn=33d703f5730b22543e8012529f8a3856&amp;chksm=cee83d3d94b9c332564fc9a76ff3cb0859cea7645cb8d3ff07f4c6411920f7c647990055f277&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 May 2025 00:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Qwen3技术报告解读]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lWcTpXic8cIVeCMViaufuz8Kzer5Pq1Aok4djkMPeydzHjF59h4cWopeT8D6eBaTDYgrX4pJPvwMFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。上个月29号Qwen3开源了一系列模型，https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f65396</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494326&amp;idx=1&amp;sn=c6bf3f48e4f901ab0aaea45923052c68&amp;chksm=ced013a877e1c9ff69eec8f9b4508ad600fc61c1fd5fc574087954796796f05e3426cf822249&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 May 2025 00:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[成为知乎「2024 年度新知答主」是一种什么样的体验？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nFhINSSzpdbWBSB4x3ic9olpRMianxlAQhqw4G7LumUvDuauK8psB9cWDD2zQpIxFjSm3qHEMscpJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今早起来，刷知乎，发现自己被评为了“2024 年度新知答主”，太激动了！新知答主的含金量，还是有的，每年就那么多，被认可的感觉，太爽了。哈哈哈，当然现在全网ID都是刘聪NLP，欢迎同步关注！我想说核心</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494295&amp;idx=1&amp;sn=dd002a599e2042a67b3abbaef7053534&amp;chksm=cea4ceeb139b3eacd32287b4340036170a598cc0039903ae51c8e4ce36b42bd04eb84de3d36d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 03 May 2025 14:35:46 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[五一不给休息了，Qwen又开源Omni-3B模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m4jW1DxEZc6bgic9S4oZVibFVqATGORcgxGfrfIBvibU1av3DzJ5DjK9jtssibSlOVJr06GWXiamibzdXg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494285&amp;idx=1&amp;sn=891f9bd4f20d20605847a8e65d5e6308&amp;chksm=ce772036b72351baec291f385dd6be877efd7147da67351fb4791de51683ef17b4bf8aaa550d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Apr 2025 16:05:58 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[啥？小米也开源大模型啦！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5m4jW1DxEZc6bgic9S4oZVibFChq6HAwhibeiblt6Ol4uHIZxDJfYLg0Nf5l5SlXVZs818oo5equjEbFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。刚刚刷到的，小米也开源了大模型-MiMo-7B。HF: https://huggingface.co/XiaomiMiMoPaper: https://github.com/X</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494253&amp;idx=1&amp;sn=d6f4807b0adef1ed9a74baae47dc49a9&amp;chksm=ce995fba40776980c584b2e77a6f232823d2eaf4703ab457222e0cde57852bc4c124a93ca1df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Apr 2025 05:38:03 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Qwen3 一手肝帝实测！ 附示例，涉及推理、创作、数学和代码！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5npic9eib1EKH16Fdf3K48dDR0mPvNEfvPLZYYPzDGrSRhlIFePldJ114Fz4fYsJQkuXtBibIOok76Pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。从Llama4陨落之后，国内开源模型是世界第一，谁赞成，谁反对！反对无效！应该也没人反对吧。Qwen3这波开的时机，真是恰到好处，五一都别休假了，加班跑模型吧。我在上一篇已经介</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494242&amp;idx=1&amp;sn=ee46d0e074d62e0d4a2f062df4608a0c&amp;chksm=ce678cea579d5ab2e98faa5778e06ca48b70de2b96667f42284c04209c62debf61a3c09a77d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Apr 2025 23:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Qwen3开源！悉数几大核心变动！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5npic9eib1EKH16Fdf3K48dDRib5py3zv62kCCpA22m02mm5UMj74QM5d0I0icOLzyMcL6SecapmQjbjA/640?wxtype=jpeg&amp;wxfrom=0"/><p></p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494153&amp;idx=1&amp;sn=14f73cf6586c3cafe4a006c372bf9571&amp;chksm=ce9a800724eb9abf1c3eafbeb283fda696acd5cb760c3e8066f0f00d5df8f2d1b273ceafb990&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Apr 2025 21:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从论文中积累复现 R1 的 insight]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mjVoaspXf7MA39fYpibzjyxT4ofdwuBZEEdyqx4Rqv3c3srnEqVQiarLDamibMKAZtaE8wgZG8WgXzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/1899776458995532180 上篇 R1复现小记：在业务场景的两类NLP任务上有显著效果 提到在业务场景中复现 DeepSee</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494110&amp;idx=1&amp;sn=3838d37cdeb0b7ff3b45f43a1fe59018&amp;chksm=ce103240851734be846d7ddb26ab1fa1b9091cc5b9314ef5ea14c3bef29e133a57e9e9ba8786&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Apr 2025 14:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[端到端的训练，怎么复现 Deep ReSearch（下） ：前沿的产品形态]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mNXjhFT7iaDtCrdapyzRCWVol4Oa3QAaibUvBuKVPYUIX4aeHzldgAAyDrgnEJmibUiaDWmhhwia5cVew/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/1898699101354332848（已授权）系列文章第三篇，前两篇见：端到端的训练，怎么复现 Deep ReSearch（上） ：先</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494066&amp;idx=1&amp;sn=1497970ea23d4c1596799b29fa022e00&amp;chksm=cef76979e7a16e2aedfe56fe82e124170bc90b4573a521548e8ee947ff52a46ec377079810f4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Apr 2025 02:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[体验完飞猪的AI旅行规划，后劲有点大。。。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5micoNciciamKZASiceLv44vJYrRR6dre4rib6Mw25EkA9cwcHmWR6pPgUyNLTIq1p938nNNTREs2raibNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。最近MCP很火，而通过MCP最常用、最简单搭建的场景就是“旅游规划”，你会在100个博主哪里都看过这个应用。当然我是那一百分之一。因为这个好想，不费脑子，一般是需要高德MCP、</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494023&amp;idx=1&amp;sn=4089d67185119fd3647dfc06457fb556&amp;chksm=ce552b620e36337a72c23f10cd7d1910c9a15e1f6443499c009e5f2aedbe95d8d8ee6739c48c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Apr 2025 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[端到端的训练，怎么复现 Deep ReSearch（中） ：围绕着"Deep"，解构 Jina 项目的实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kG5jQnDGqBF4OiaibiciadResCVd85JsKzWIk8gbWiazXDG8Ju4lywn4ggrtRIt3pH5j36Gf1Hpw0kZKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/1898295379990132543 （已授权）在上一个篇章，端到端的训练，怎么复现 Deep ReSearch（上） ：先从 Dee</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247494009&amp;idx=1&amp;sn=f29d5894ccd52655c7fd050ac3a8019d&amp;chksm=ce0ebde27af253e9dab57fa97a9c9de4b7f7a3a8cfdb3b069b24e9d207056f228d7c80272f48&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Apr 2025 14:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[昨天在火山方舟线下Meetup都聊了哪些有意思的事情？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nibkibSEsCN0OA6PsbdWnpeBiaeb1hIf9nicEFfuyMC9Wo3dfn4LOcllhEiaTlBiba8E4hEBVxLHIZjjEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。昨天参加了火山方舟线下Meetup，面基到了好多神交多年的好友们，@卡兹克、@云中江树、@甲木、@一泽等等，聊的十分带劲。（附上一张我的大脸）面基一时爽，一直面基一直爽，哈哈哈</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247493970&amp;idx=1&amp;sn=af26c3afa458d3b732d7e48c3e3be58c&amp;chksm=ceb009e2dcca756b6a3f5c3102805b305f0bef2a96c148d22b6180e940e9f5295de21336bc7d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Apr 2025 01:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[元宝-你的AI好友，腾讯这个入口真无敌啦！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src=""/><p></p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247493946&amp;idx=1&amp;sn=f065fd5c934c88dca51186cd2e2261e6&amp;chksm=ce87cc41082b6d02832d48ce9473c1b5bfa61dfc269092c7d60a40ab76cf51843ad5c8375ba8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 16 Apr 2025 12:32:50 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智谱又开源啦！附一手详细实测！同时还精准狙击了CloseAI的4.1！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5n6Gib6FNcltG1JubaS3UickzWfLum1nnB8pGGjlibcicAs0uxLpvucad1samOFesrpgY3icrREYFomdDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。没等来Qwen3开源，先等来了智谱开源！然后今天closeai也是发布了新模型，gpt4.1，笑死了，先发4.5再发4.1，不过依旧闭源。反观，国产大模型真实太卷了，即Llam</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247493912&amp;idx=1&amp;sn=3356a5c4094993ed7845b6631e979bdb&amp;chksm=ce1284f612c9ad7635c3f0e0c5574ca8b747c310fc5c29217a52692ae8eac8e2231659ae99a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 15 Apr 2025 04:00:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
