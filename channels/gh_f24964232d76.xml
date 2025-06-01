@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[图解Vllm V1系列4：加载模型权重(load_model)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkPfIicPp8CrXAChkl55IsNRDxQNREIwYvrKWJMibm1VlzCkv7k5D9cQdxgBeiaWZVZ6uf81nJFy18ziaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>按照原定计划，这篇文章应该要开始进入Scheduler的讲解了。但是我突然想起，在之前的文章中，漏掉了一个看似简单，但是十分重要的细节：vllm是如何加载模型权重的？在现在非常热门的rlhf训练中，避</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527680&amp;idx=1&amp;sn=77cdce7cd3618cfe226dba77d5063a9c&amp;chksm=9e5e09e19623e9fe14388eb48b32d58632b56c4c5afd2d85723045fdfaeaadd9a44d05bb8c79&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 May 2025 15:40:08 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[[Triton编程][基础] Triton Fused Softmax Kernel详解: 从Python源码到PTX分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3szSSa0VYacYlHnrpO1xDIaT4WSuR7RumZtQwSLMMicd8vcs9XE80slETuxrxqhHMJmnic2AhWpCEWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨DefTruth来源丨https://zhuanlan.zhihu.com/p/1899562146477609112编辑丨GiantPandaLLM0x00 前言Triton Fused So</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527678&amp;idx=1&amp;sn=f0324e50a3b486a4b90fec343b34d2de&amp;chksm=9e0e610352d8ead03f226c8f3729e6e3c5a0bce0fa6b64bffc18a472d3c9d8f2c78426e50e91&amp;scene=0&amp;xtrack=1#rd</link>
