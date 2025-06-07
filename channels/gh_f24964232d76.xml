@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Meta Shuffling的MoE Grouped GEMM kernel benchmark]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u24YqEG3FibBt34nMbWiaMBNdYKnoP0UAJFufjRmGmrUKhaUMQ1fE2iaXLkqHFhazgaOXAH5BWbJF6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>紧接着昨天那篇PyTorch Blog的内容MetaShuffling：Meta的Fused MoE kernel工程方案，更激进的Kernel优化和尽量避免Padding，我把fbgemm开源的mo</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527739&amp;idx=1&amp;sn=2a55ffac886bd54c0463070fc05901bd&amp;chksm=9e6e95b3882befe503ee6428f0f309c45773b3aa742fa3a4c8024315bf44cd85391a4290f2e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Jun 2025 15:40:23 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MetaShuffling：Meta的Fused MoE kernel工程方案，更激进的Kernel优化和尽量避免Padding]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vVFDFr1vOVp7vqia9bDPWibicOWUg3e7hUpW8KL4bzwNPg9bQZ4sJem78VfKQg7mCIRNdq7fsyc6Pww/640?wxtype=jpeg&amp;wxfrom=0"/><p>blog链接：https://pytorch.org/blog/metashuffling-accelerating-llama-4-moe-inference/MetaShuffling: 加速LL</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527721&amp;idx=1&amp;sn=c486afa9ea2fb1f1de41945ad0234c9d&amp;chksm=9e04e2cecd126b72cfb054df3e10861d2a755fcab60509dcf66472c930e09316a5a20797f85b&amp;scene=0&amp;xtrack=1#rd</link>
