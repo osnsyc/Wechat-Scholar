@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[图解Vllm V1系列5：调度器策略（Scheduler）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOfIJVosb6ftxFReJIPoQzYiaL9kN9NSlTfxlS1vgHEYA18crz6hRDKJtE8GUQqYyiarBQfC26zcXCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在“整体流程”一文中，我们已经讨论了 vllm v1 在 offline batching / online serving 这两种场景下的整体运作流程，以offline batching为例：整体上</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527741&amp;idx=1&amp;sn=3dbbbdf92025ea91c84048d1d1e5ea5d&amp;chksm=9ee943dc89f776c936793ab75f0d5ffdec6fe5d46789f0e13f3044a57a5d7c61c05c8e810462&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Jun 2025 15:38:19 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Meta Shuffling的MoE Grouped GEMM kernel benchmark]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u24YqEG3FibBt34nMbWiaMBNdYKnoP0UAJFufjRmGmrUKhaUMQ1fE2iaXLkqHFhazgaOXAH5BWbJF6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>紧接着昨天那篇PyTorch Blog的内容MetaShuffling：Meta的Fused MoE kernel工程方案，更激进的Kernel优化和尽量避免Padding，我把fbgemm开源的mo</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527739&amp;idx=1&amp;sn=2a55ffac886bd54c0463070fc05901bd&amp;chksm=9e6e95b3882befe503ee6428f0f309c45773b3aa742fa3a4c8024315bf44cd85391a4290f2e7&amp;scene=0&amp;xtrack=1#rd</link>
