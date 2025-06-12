@@ -10,6 +10,12 @@
       <title>gh_d4ba208ffa0b</title>
     </image>
     <item>
+      <title><![CDATA[完美LES模型，觅见湍流的白月光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmXOAaACjraR1ANdfr51lykicHuibh9Tk8KROZo9wVGr02B1iacKwS8anut8pdJInGjncWU1xsMvRPhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>全文手敲非AI生成湍流的LES计算模拟，韦东奕都搞不明白。此前，计算流体力学顶级期刊JCP曾刊发文章（398(2019)108910），作者们的目的是寻找一个完美的LES模型。文中将其称之为perfe</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429974&amp;idx=1&amp;sn=1885e2828459223f7c7243abb323dc1a&amp;chksm=897f32caeea8635cbf1ea7e862362e829674fab6ec57432d9dd273414155453093da181511e4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Jun 2025 04:19:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[JCP2025新爆！算法小改，PINN百倍加速！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkksn2NYDQeug3MvGWCWzCfIa2LwBHEVqnK2RNqicB9lykeVZQX2FiaDx7ib3AicxbwbrjmGNyKYicPCHzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>全文手敲非AI生成我不知道咱们玩经典CFD的，都了解过PINN没，这玩意训练老慢了。经典CFD3秒钟算出来的东西，PINN需要30000秒。就这个原因，每次搞PINN，我都得先喝两瓶。2025年5月，</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429961&amp;idx=1&amp;sn=af735aff2d12f1417149ed9bec65f7b9&amp;chksm=8974ef2e1d6eb31555d62618a293b1433c339c237e77a30668550946c7821c40aea01beb0196&amp;scene=0&amp;xtrack=1#rd</link>
@@ -26,108 +32,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkazQgdbOc3BwPha6MWjOMO1f4eRUwwTDiaDjRLWiaibHo6FRMAtOt4NUauOg1pXdXcUCom4aca5SFvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>下面这个就是一个对流方程，非常简单是吧？我把代码都直接给你了，你看看：while (runTime.loop()){    volScalarField ux = rho/(sqr(rho) + 0.</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429942&amp;idx=1&amp;sn=befff3dffd340dbdba74f8abec6582d7&amp;chksm=89435dcc08b8809ca81207367eaa95b68bf6e8ed1280ac9e5b45d829540a246f2e571a0b7fe0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Jun 2025 04:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[真正的CFD勇士，要敢于直面间断的解！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkFgfB87N89rTKic8xPPD7nIm6egbfPpLs4kfaQjMfbeNSeFxfz8yJvicwtLXAYibNa1XdsTZNQBcpGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在临近岸边的浅水领域，可以通过浅水方程进行描述。上图是冲浪的过程中，形成的波浪表面。如果将波浪表面用h来描述，其在某一点x位置处会形成3个h值，也即tripled-value。这对于浅水方程不构成经典</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429934&amp;idx=1&amp;sn=441ef79bb9109f91e6a7d00b70960509&amp;chksm=89ba921afa2c0aff041973b21b83615d32a7d17dced36682cd37e9780b562c93444ab073fca3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Jun 2025 04:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CFD大佬 为啥拒坐经济舱！？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknFtC8RVBXbnsFJy1SVP0KH4B3HjyCHYT5Szuooq7whkQsu9e9RYQnokOtfhAscOVNngCfy9n1TlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我跟OpenFOAM基金会的大佬有一些私交，我记得10年前大佬说 “每次出差ESI公司不让他们做商务舱”，大佬对这个一直耿耿于怀。我在前几年，还跟学生说过这个事，我说这帮大佬，坐飞机经济舱都不做，当时</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429929&amp;idx=1&amp;sn=cba6ef760f976b19496185db66527e8c&amp;chksm=89933681ea88d72176cdb0f508a977cb57faf8742273f6138acf0ee0aae65b09a8f5c581f5a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Jun 2025 04:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CFD爆炒猪腰子，肉质紧密，富有弹性]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkpfZXpbzQ06fNfA8Kh2iaYBuIZgI6kjePTFQjd7SnuMS7q4OP1tdvewBY1bDSa23JOrj9wrgfx9QA/640?wxtype=jpeg&amp;wxfrom=0"/><p>岳子CFD干40多年了，今天给大家跨界来一个CFD爆炒猪腰子（如上图），啊不对，爆炒香菇！不吹流弊的说：“研发一款以香菇为主要食材的预制菜产品，并基于含湿非饱和的各向同性多孔介质传质传热理论，利用CF</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429916&amp;idx=1&amp;sn=de9d2dc768021602cb32e269158406fe&amp;chksm=8937f334892a40e58b9648de0d5fce9251b5dc29252edc0542058ffa8902e76fdcddec6f43ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 30 May 2025 04:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[算法小改，腰不酸了！腿不痛了！震荡没了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkpfZXpbzQ06fNfA8Kh2iaYBufAhqZIKL4hdf5Q7BzpzSFcgxIk1ibf4kiciaBjuB3piaHbbzkeTT0AIBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>首先该算法刊发在SIAM，SIAM在计算领域，那都偏向数学家了，比JCP更胜一筹。流弊那是绝对的流弊。这个文章里面大佬们对比了各种SSP算法，还非常简单，简单到爆炸。然后呢，关键还有效。现在简单又有效</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429915&amp;idx=1&amp;sn=eb69339c6c785592f3cb50edeb83c387&amp;chksm=89381b5bd05571ef3bfdde4e139ff29c477e4e5b212e052a4a39a6ce7a890c288b815bf1f208&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 May 2025 04:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[天那！方程改一项，爆2篇顶刊！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkT3byGZlaTeDzEAnmNgTbyX6zIcAuXSktwxzeicygzGFeWWOE5rrtD2VZiaMgOB8G0SRJ4Dn7GYzng/640?wxtype=jpeg&amp;wxfrom=0"/><p>（全文手敲非AI生成）今天继续看CFD大佬们怎么发sci的，你们可千万别学啊！CFD这个学科，但凡过了幼小衔接，都知道原始的双流体模型有个扩散项分别是这两个：2017年，作者们认为，这玩意应该这么写：</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429905&amp;idx=1&amp;sn=c1f95e7fdb6c58b4edfb92539a58008b&amp;chksm=89bfc09e13eb0934a6ff4886027357fa5e9068fb172914a951f8636e3f9da66bca3485134ffe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 May 2025 04:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这不合理啊？网格那么差也能算？？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmdQkq7GEsJN9aXn1Cic6LcAvF1ZibLQFJPFj7BIPRv9u83xaQw4M6U6wnIHFQRc9ZTAQyQBK0kOtzg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近固体干多了，OpenFOAM这面算固体很简单，跟流体没啥区别。OpenFOAM最流弊的地方，就是除了拉x放x，只要是PDE的全都能算！上面这个视频就是我自己写的代码，可以阅读原文看算法：[经典CF</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429900&amp;idx=1&amp;sn=c2732a947eff51ce6d0f736e1f3e04fd&amp;chksm=89bbe1f4794e0b5fb387e7010bc141efa9594c5973ed20a3b2dae1286376cf17c2e89e03043e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 May 2025 04:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[女生不做CFD]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmia2Egib4EybzCG76df43oK87icqdqUria6ovnPOoblkvq2Op8SqvLmf0ZGT9XqfBareicedHQ6OJmu1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在这个领域岳子是有充分的发言权的。因为岳子教了1000多个人学CFD。近7 8年来，从参加岳子的CFD课程人员来看，女生大大少于男士。我目测每年参加课程的只有20%是女生。不过也有一个原因是，女生学C</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429891&amp;idx=1&amp;sn=dea31f30211aa9e4e1148ab5d5b93a37&amp;chksm=8975f063ce4151093799758a4c9da96598fe0fa7c61ed6b8feb1b11a64d5f523f00a550d9fd3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 May 2025 04:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有一个流弊的导师，是什么体验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmVkMmPdLGx6Oa8NnFhLibMbUELo2iaW8EvPh5JzuPnwMoDFUm9KM9IOPOYehia8qH4vIdXAN3muQ4nQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这里说的流弊，是技术的流弊，非行政职务。这里说的是真流弊，岳子这种吹流弊不算。你最起码要有一个分辨【真流弊】跟【吹流弊】的能力。岳子子之前在意大利的时候，Marchisio这是真流弊，直接把岳子干服了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429885&amp;idx=1&amp;sn=a801f9658d399f016e38cfd62de64415&amp;chksm=89cab9775c0cff35e2c37ec39a69c6e6a689be2a56e64f250b2b532b1bf1cb57d5564d1201cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 May 2025 04:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何优雅的欠钱不还？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkl0Jjib6Lbibib1lz6P4PP7HlOMnnmeJJHkQ6t0avMHibn35W4N5QfqzMWXztVX7tO51sxDTecSzq4cxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近发生的两个事，让岳子对国内顶级大企业的信仰崩塌了。天呐，岳子一直学习大企业做事来着。我用177的号码注册的顺丰会员，打算做账号迁移，他们客服在后台处理的过程中，原来账号的信息给我清空了（里面充值的</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429884&amp;idx=1&amp;sn=4177a72e2f1151e3840e999cf1a55616&amp;chksm=89d41c0940a6d38cc2a0b9c5d27b454c3f5761b266a7a5a81435f035560738636e7e6d782725&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 May 2025 05:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[白嫖代码指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkm8KnoAL9vN7jRLic1bzKhtic79rcbY5ozFNTTCgqoicZnFDZicJdyp91T9E4dibeCMshkaia9UibaRdbrMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>不是我说你们啊各位研究生，就算跟别人要代码，你都不会要。你看看这上面这个老铁给我发的。好像我发朋友圈的成果就是为了钓鱼卖代码的。咱主要是炫技好不好你找人办事，你要看人喜好。咱喜欢的是算法。另外我也说了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429880&amp;idx=1&amp;sn=8c9955aa051e6315087a83551836d4ef&amp;chksm=898999afefcc5d3c7a69f1f30a8d3159729ad875354012105a5e00f0932055a9166f7ca3cb80&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 May 2025 04:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[做CFD算法的小窍门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkPDM8tibvBRLJEfMjDbJyTaNYLH8yeAEOVmWDnPRblKWcbE0viaE8aPC8q01MHmHDE62Am1Mz7FlaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>全文手敲非AI我有一个联合培养5年多的研究生。最开始接触的时候，他们参加了2019年我的CFD课程。这个研究生在2019年末的那一批里面，跟别的研究生相比，最开始的时候入门相对要慢，当时给我的感觉应该</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429869&amp;idx=1&amp;sn=98ab87ec4676440507b69d169286bcb5&amp;chksm=89abe8d9f43cd5645ffe45c46832726d0ef755449193d1f5797a964e5712a778df4f1cb9c135&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 May 2025 04:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[做算法这么流弊，去哪领CFD宝贝儿？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkPDM8tibvBRLJEfMjDbJyTaUWTR1tDyywnn4CLoAGd7UKclDxhjDH4f5lMaRibiaPHTDqyKYdz04prw/640?wxtype=jpeg&amp;wxfrom=0"/><p>岳子最近又搞了个求解器，这个求解器25年3月份的时候准备讲，课程前3天发现有bug，直接火速去掉了没个大家讲。最近调出来了。放在25年9月份的课里面，给大家当做讲课资料。这玩意流弊的地方在于，同时可以</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429854&amp;idx=1&amp;sn=8b9e5a6f8330915074dd7ab6728e8a7b&amp;chksm=89b67dc837ea0e29f1d246b7de7ea32fde88aa110b7588eb12f9ea4af8786781de080e4f0093&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 May 2025 04:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[干CFD40年，第一次听到音爆！！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkh0R6spRMxGqWX3CHZdD2So59IcWNC1ZvhWYn07v83oXiaCj9j6kwBtTytqQS0HQGXskm76BOXQEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>岳子最近听到3次爆炸声。我开始以为被扔导弹了！后来一问，应该是飞机音爆！岳子干了40多年CFD，第一次真实的听到音爆！就类似在你家房子上面放了个大号的礼炮。普通的不行。得大号的。吓得我都要钻老鼠洞了。</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429836&amp;idx=1&amp;sn=6c382c337bc8cecb1b23e67325d54e86&amp;chksm=89154d7cf2142e7bb3b404afc9954614ca9e703bacc96ebb9ca0d2e79da77a67aa3fbf6bc362&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 May 2025 04:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[军子，你家SU7要过这一劫，得找专业玩流体的..]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkh0R6spRMxGqWX3CHZdD2SibHtcEVwnluhIk2r7A6PPTH9UNUD31iaqphWcETXXoxSCVdujL7jTVEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这几天总有人问我岳子，怎么看小米的空气动力学设计。虽然用咱们CFD40多年的经验来看（其中有我导师30年），岳子能猜个八九不离十。但作为我们半个媒体人，为了不卷入风波，不好公开说。不过一些观点比较有意</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429829&amp;idx=1&amp;sn=358afe86a8dc432a30986cc88e72ff03&amp;chksm=893b4bc4116cd74fd24600cbc1f0ee07531cb28ac48166d26c106ef625523c90b8b3204cd532&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 May 2025 04:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CFD诉讼第一案，庭审举证！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFknBtuCmXRc8p4CwWXtHclgxVBKflpkEoxjJbT40WiamAMF0vVhUmOnHgpmZOMm2AYYwHshGxc2Gwicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>lawyers for 3m patients spar over computer simulation as evidence in suit over surgical warning devi</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429819&amp;idx=1&amp;sn=9fb8dbef95697239f658f1bdb90fd516&amp;chksm=89e70a4012ba28de5d27e79e675bdfa80142b0d29c720e08a3cc99d3414b140a965805afa4a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 May 2025 04:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高质量的CFD，不需要电脑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkl6sYhoaR2XwxjlEmW9xpKxShvMICE7Wbf57LwJ5TefIXo0bfcWxOAIQxUsU3AgAN0NnXnJqia2icJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>下图是我在2011年贴在人人网的老照片，当时对CFD就感觉非常玄乎。感觉那些乱七八糟的公式放在一起，竟然能算出房间内部的流场结构，简直不可思议！当时老师还说CFD算东西特别慢，有时候要算一个月。我感觉</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429808&amp;idx=1&amp;sn=d46c3c1a01fff236b2c9c3e68ec9d2df&amp;chksm=89f6307454a4bbd44d139e6dcb2580f1c319778cfb6342fa7364cb1bd2c9331f53e464507917&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 May 2025 04:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PINN + 燃烧ODE，又爆高引]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkuaGgvicKTeXliaXNpWibzZJzsruakzX89uXov8ALbtib80qSWkibGLl9Fc5iaZ3jo4lbqAqlrgBRh2puA/640?wxtype=jpeg&amp;wxfrom=0"/><p>化学方程ODE在CFD里面，尤其是燃烧CFD里面比较常见，这玩意方程比较刚性。求解起来比较慢。在2021年大佬发表的这个文章中。大佬采用的PINN对这一套耦合的ODE进行求解。原始的方程比较刚性，用了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649429804&amp;idx=1&amp;sn=6a6b23798b53171041868fea05f6691a&amp;chksm=8921c180c6c7396f3453bb40b4ffb65334272af435b589864faff43ae4a5da6a03ad6aa6ef6a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 May 2025 04:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
