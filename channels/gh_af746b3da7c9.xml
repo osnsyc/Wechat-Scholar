@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[AI 协作的未来？Anthropic 多智能体系统的实战设计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagibQbNTCbed5UKLciaBj3z7L0hSlMCm2Emdcuqq41WvR2SjwlzDMzlVHrGicgCofndUAKOeibpLiaorVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习自然语言处理 出品整理：喵小六原文链接：https://www.anthropic.com/engineering/built-multi-agent-research-system近日，An</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540143&amp;idx=1&amp;sn=5295ed18fb1163de264e767b18b51368&amp;chksm=ea6b54d8368148fc140e38b7f082c135d9599adea03d0a047ff98a935bb358799b6b096adc7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Jun 2025 08:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICLR 2025 | 中国团队颠覆AI视频分析！纯文本模型+工具包吊打GPT-4o]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagibQbNTCbed5UKLciaBj3z7LA31OwMV1iaCtsQ6b5QyfBFEicwZznMKJkia5MXQFX7cT5D91JZ6bM0cCg/300?wxtype=jpeg&amp;wxfrom=0"/><p>长视频理解的世纪难题！想象让AI分析一部《阿凡达》电影：90,000帧画面，相当于连看125小时监控录像！当前最牛的多模态大模型（如GPT-4o）最多只能处理384帧——不到2分钟内容。这就好比要求人</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540143&amp;idx=2&amp;sn=b79f86c0403ad14f3fdddca23f56618e&amp;chksm=ea14f0cc8079cc2b643a9ca56ac034a7dc9315350cca4837353b8fda02d5f94c811855a61ddf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Jun 2025 08:49:16 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[无需标注和奖励模型！仅靠自信度RL，16个样本训练20步，效果飙升21%！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahgxPlPmO57H8VPcmO0RiaIhXgib1oib15LAS6fFUKDJ8M16R11B6VjxhTFCibxTdT5URBKc3YkKgqC7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理：喵小六论文：Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models链接：https://arxiv.org/</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540108&amp;idx=1&amp;sn=501f6b41a30d67b03f8ccf4ed672c9dc&amp;chksm=eaed80c786258da7f83e6d9b52133e0c08a78d752a3da1ca9d71297b270a3035e3e8219b213b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -122,24 +134,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahVXoa5eibynqWWN4f7n8hUOVvcaq1G5ceu9ibYKognBwytgkq2lrCnAVBiagAFP8U2udj3BAJiaVvf1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题别让AI困在题海里：模型评估如何摆脱应试枷锁？时间2025.6.10 周二 10:30 北京时间内容介绍在人工智能（AI）快速发展的今天，模型的能力已超越了传统的自然语言处理范畴，迈向了更广泛、更</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247539859&amp;idx=3&amp;sn=ac4ffc2317e2ebf1ded2f5fafeae2537&amp;chksm=ea619c23b99d52db4dcb37a6a711b59ff01da5b649fd6549c9c760b8d2ca816495e97b08be65&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 08 Jun 2025 11:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自然语言+数值双反馈碾压传统RL！Critique-GRPO给模型“写批注”提效300%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagn2LfA0KZH39puCZUAj5yryXXxm7hHQWCWTpdwMY3sqN7ml5VfpNf0m7u74dUO1vYjpVnqt5g9FQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统强化学习的三大痛点！想象教AI解数学题：答对给1分，答错给0分（数值反馈）。但研究者发现这套“打分制”存在致命缺陷：成绩卡壳：题量翻8倍，分数纹丝不动自我反思失效：模型的“灵光一闪”对解题帮助微乎</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247539797&amp;idx=1&amp;sn=477caab04e6f10eb8912c3efac3f3cbb&amp;chksm=ea9a431ae4bd1374658c0db90cf75869a04811b1fd4779caa2fa1041695fa38dc83edf807998&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Jun 2025 12:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预约 | Reasoning论文分享@ICML&amp;ACL2025]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagn2LfA0KZH39puCZUAj5yrBvtcibX99ftvvyteYR3UeUDwqxlUVBXsp1xmgml2XIaI6m9KQebgZ0Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题Reasoning论文专题分享@ICML&amp;ACL2025微信视频号b站直播间地址：https://live.bilibili.com/27784098时间北京时间：2025.06.09 (周一) </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247539797&amp;idx=2&amp;sn=8640da8ce11345e6d1cebdd9fcb85b1e&amp;chksm=eac1fa301d97fb20aa6c02b0b587f509755e9a04e94df9d641674cbe1e739ec1bc85ff768205&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Jun 2025 12:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[北大联手通义实验室发布ZeroSearch：成本暴降88%，无需搜索即可激活大语言模型的检索能力！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagn2LfA0KZH39puCZUAj5yr9RsJb2ickWyiaQ4QCGJibD07ZGHgWn3iaNn2h3TDKRgkibibShECC4G7wFSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者来自通义实验室和北京大学，第一作者是北京大学智能学院博士生孙浩，主要研究方向是RAG和Agent，在 NeurIPS、ACL、EMNLP 等国际顶级会议上发表多篇论文，师从张岩教授。该工作在阿</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247539797&amp;idx=3&amp;sn=1eea18499392c54dc79e9e8e4287063b&amp;chksm=eaf38dcf9d2747948fe30f10960ed5dba012ce775627165fa9d0a93e5e61e74dc93da3a43a35&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Jun 2025 12:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
