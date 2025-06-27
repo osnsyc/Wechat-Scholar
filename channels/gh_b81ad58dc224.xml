@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-06-26）：谷歌开源Gemini CLI智能体，1M上下文支持代码查询/编辑，多模态实现PDF转应用生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzCHn4ibJxia53rAUliaK6jmfzUEzTK9Ss6JmzPPCic1f5Td9etcwzBjx2iaRmMS7899O4AV0ku89mDWIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🤖 Agent开发①项目：Gemini CLI  ★Gemini CLI 是一个开源的命令行 AI 工作流工具，旨在通过连接到用户的工具和理解代码来加速工作流。它支持在 Gemini 的 1M tok</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498800&amp;idx=1&amp;sn=51061b90dbde4c93c8e8b7f0e7f90f25&amp;chksm=c0f6730a44cf5b96e434499469495a67453f92892dfd374bab06446ff3c05aac63c7b2424ff8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Jun 2025 10:39:35 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-06-25）：VLN-R1，第一人称连续导航具身智能，突破离散地图限制，实现语言指令到连续动作的端到端转换]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyciauwQyLkS4OWicpW9e8Huw2ysO4iaN2HibR5jI5xsQPCrUhGfOaf1wCEicjXYZ797RZxRUVd0gxJJFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>⚙️ Robotics开发①项目：VLN-R1 ★GPT4Scene项目旨在通过视觉语言模型从视频中理解3D场景。该项目结合了先进的深度学习技术和大规模数据集，提供了一种创新的方法来解析和理解复杂的3</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498790&amp;idx=1&amp;sn=ef9106d75e0ca4506e7e206c5bfcf33e&amp;chksm=c0818f1a6db046f23b7266a9fb22f8f9948b02674c584be143d0314863f9439e051c639e46ea&amp;scene=0&amp;xtrack=1#rd</link>
@@ -38,96 +44,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyOlic8El2vYpq3px5PjnD9SBv2xdeQc6r14tiaicUgLzwias8yMnuUNDWv2iaYAO3kwfDz8rHjKCKvgsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Pusa★Pusa是一种创新的视频扩散模型，通过帧级噪声控制实现了视频生成的范式转变。与传统方法不同，Pusa采用了矢量化时间步长，支持多种视频生成任务，包括文本到视频、图像到视频、</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498748&amp;idx=1&amp;sn=7bf3810fea46a66919199905a5931f32&amp;chksm=c04270a1695f142801bfbb572d7e75100e988978750ef00967fa7a29a730a97ebd1cf1227ce6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 19 Jun 2025 11:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-18）：Jan-nano，4B深度研究模型，DAPO微调Qwen3基座，MCP实现工具调用与跨源分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxSibNTHgr4fzVHpglICMs4RUGwaB8A4gQnYiaHy0LJE6tKvicgpibKpPvuIuHsRXliajiavbudZAnkicsMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Jan-Nano★Jan-Nano是一个紧凑的4B参数语言模型，专为深度研究任务设计和训练。该模型经过优化，可与模型上下文协议（MCP）服务器无缝协作，支持与各种研究工具和数据源的高</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498737&amp;idx=1&amp;sn=8ef127a93ace80d0a90ca715fec8a07d&amp;chksm=c0b917ec652401f26048656582fc67b6d3a59471429df887deea50abd136eda57300abde13d1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 18 Jun 2025 10:10:30 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-17）：月之暗面开源Kimi-Dev，72B参数编码大模型，强化学习优化Docker代码修复能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxIu7uZOUkLdH52bSOjziaicqic6sib8UDoOgmbWTcd6A6ia4Fb9HpEIMbmyUZy59suh3R2C7WbNs7BIcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Kimi-Dev ★Kimi-Dev 是一个开源的编码大语言模型（LLM），专为软件工程任务设计。其最新版本 Kimi-Dev-72B 在 SWE-bench Verified 基准</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498714&amp;idx=1&amp;sn=ddf88c5cbdc6e0f97dd07992bd93ded1&amp;chksm=c0341a258d9c4ef565ad79dbc6f0bc6a9bcfef240a977c04e9d3e762d9d251113775e71ecdae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Jun 2025 11:40:37 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-16）：腾讯Hunyuan3D-2.1，开源3D生成系统，PBR纹理合成突破，模型权重/训练代码公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzBMMHFxicvzib9shmb5uMqVBBEVJojiag2dpfu2SQpv4p2ITsyYX2NNMUu4Y0y9mB9g3pwn1T6wOwhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Hunyuan3D-2.1★Hunyuan3D-2.1是一个可扩展的3D资产创建系统，通过完全开源框架和基于物理的渲染（PBR）纹理合成实现了3D生成的最新进展。该系统首次发布了完整</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498703&amp;idx=1&amp;sn=92d32d085ecaced1937a71cb2bc1ceaa&amp;chksm=c0f59e83c0c6040a9888651cbc7dde5b76174c4808330d3f22a24ff9b0288cbffa336a9d9a97&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Jun 2025 10:29:17 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-13）：Nano vLLM轻量级推理引擎，1200行代码实现，集成前缀缓存/CUDA图形优化技术]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyo9rdvn60AVI3F0kSYfH3OFV2ZFWb98ydauNJZiaIpu0lwdv5Nkgno3VXbBbXhMU6rK0P9M7MSuVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Nano vLLM★Nano vLLM 是一个从头开始构建的轻量级 vLLM 实现，旨在提供与 vLLM 相当的推理速度。该项目的代码库简洁，包含不到 1200 行的 Python </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498693&amp;idx=1&amp;sn=5ccd80a010ba83401f297f63e79a3799&amp;chksm=c0a35b745ff927424c8171ee185b1a4813149f044e3761ac78bba69ed15af9eca6f7e6929b73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Jun 2025 10:17:20 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-12）：VJEPA2-AC世界模型，VJEPA2自监督编码器助力，互联网规模数据训练机器人运动理解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyPHCMEEtPB3KuHUwzfupV3HQibTs4grSSw3ibZ8rVRtaebWOyw4L3EJs4DFoDLqmSuswDnKajYy0vg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：VJEPA2-AC★VJEPA2 是一种自监督学习方法，专注于从视频中训练视频编码器。该项目利用互联网规模的视频数据，在运动理解和人类动作预测任务上达到了最先进的性能。VJEPA2-</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498683&amp;idx=1&amp;sn=ff6ffac882979f0c0827897085568a71&amp;chksm=c04110f4fe15a5104e862606a6e8589ec2735dab79850dd04350b3758bb5addc46060a9a1545&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Jun 2025 10:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-11）：MiniCPM4.0，8B原生稀疏模型媲美Qwen3，0.5B版int4量化实现极速推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxzwSl89ia9P1Z4oK1Bu1LNMpypR92CcufJibtiaVOj1kcnDNxVic5s0vVxXCBrhrMhY8geMTgbO1cv0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MiniCPM4.0★MiniCPM4.0端侧模型，包含 8B 和 0.5B 两个版本。8B 版本是全球首个原生稀疏模型（5% 稀疏度），以仅 22% 的训练开销实现媲美 Qwen-</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498673&amp;idx=1&amp;sn=68644d5e079bdcf9c3619db163602ceb&amp;chksm=c0eda697f69b00b92f0be9fdadcb4df7ae1187f8c86721910cbefb7ad3b1c23dc54b5520e862&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Jun 2025 10:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-10）：Pixel-Reasoner，像素空间推理新范式，两阶段训练提升VLM性能，实现文本和视觉平衡]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwooWhCHsul1Yv8YT7TNZGs7D9lBmRnTgCEBXC9KYfXzANUM4AsrXibsvGS3GIr6Q0gd7f6djVVHLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Pixel-Reasoner★Pixel-Reasoner项目旨在通过引入像素空间推理的概念，提升视觉语言模型（VLMs）在视觉任务中的推理能力。该项目通过一系列视觉推理操作，如放大</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498653&amp;idx=1&amp;sn=20167d67f2ddf78723ed5d27314c4a37&amp;chksm=c0a0f4f93ae9f3f35fc2f540e6672117f5fa58b000658783cd6e461ffd814d28323a95b5741b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Jun 2025 10:12:54 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-09）：dots.llm1，MoE模型激活参数14B，11.2万亿token预训练，媲美Qwen2.5]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwTynplARNrhmZ9WDp6j62T91J2fUiaf1639bNYicY9zsz1tm3KicL28Xic9XoxtqFam2dhzdB2iaulzyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：dots.llm1★dots.llm1是一个大规模的MoE（Mixture of Experts）模型，激活了142B参数中的14B，性能与最先进的模型相当。通过精心设计的数据处理流</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498643&amp;idx=1&amp;sn=0f7fdc75998f13e6146a0efac684f20d&amp;chksm=c06d77f570bbe1d8b1313afb590ac1c622734c6cc82a5942688e947280872496247d4f4f43b6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Jun 2025 13:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-06）：Qwen3Embedding，0.6B至8B文本嵌入模型，多语言与长文本能力，检索任务显著提升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyMsTJjPnAqCCd7PA8fLl6POVHpkHVl0Z9OOtYEttJZo6HKFKic28gggdu6ib51eTryezVItslfMyiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Qwen3 Embedding★Qwen3 Embedding 是 Qwen 系列的最新专有模型，专为文本嵌入和排序任务设计。该系列基于 Qwen3 系列的密集基础模型，提供多种尺寸</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498633&amp;idx=1&amp;sn=dde340b97c8e12d7e0cb02e55172c5f6&amp;chksm=c08a885cdb54fa587b866524f8c5bcd9c0f8064d7df51addc69aff4490338e3fab4ed38ddccf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Jun 2025 10:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-05）：ShapeLLM-Omni原生多模态3D大模型，7B参数，支持文本/图像生成与编辑3D内容]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxLqkEWeBSwrr0pKYjq1PCGiamC7Fxqxd6fXb8X8UtvmLSEalNLsesJ80txT86NannPsVJMLCo3UeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：ShapeLLM-Omni★ShapeLLM-Omni是一个原生多模态大语言模型，专注于3D生成和理解。该项目由清华大学、盛数和北京大学的研究人员合作开发，旨在通过结合多模态数据来提</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498612&amp;idx=1&amp;sn=df6dac0ac241835802809111e01b5694&amp;chksm=c01f17d222e29641dac7aa3d9329c167338a8b4e9eeda7bd29cbee3fbddf63ca72e8f3e2e44b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Jun 2025 10:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-04）：Video-XL-2，长视频多模态转换模型，块预填充+双层解码优化，高效处理视频分析与生成]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwfvCyARGjbYGNJk4doUKHKoRqcWxsOzuO51d7yWqEwIkLtbHJIRm6sfRxh0GvM732M7vtCkV1TbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Video-XL-2★Video-XL-2 是由北京人工智能研究院开发的一个视频到文本的多模态转换模型。该项目旨在通过高效的推理策略来处理长时间的视频内容。它提供了两种效率优化策略：</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498602&amp;idx=1&amp;sn=d2e45f8c22344a37932f68ab8f1b1dd5&amp;chksm=c0179e79cb853025b3a3bef2efc022130d0d36a843547fb67bf309a2e36ef2e44355a7de3475&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Jun 2025 10:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-03）：MiMo-VL视觉语言模型，7B参数，原生分辨率ViT跨模态对齐，混合策略强化学习优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzeU59FXbibicxibh09oWfl56Mxe4jtl8bBHickbjmiaDHgjicwpRPBwibmYiaaKFicCp79h5yrUgfqNYJSJMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MiMo-VL★MiMo-VL 是一个紧凑而强大的视觉语言模型（VLM），其核心组件包括一个保留细粒度视觉细节的原生分辨率ViT编码器、用于高效跨模态对齐的MLP投影器，以及专门为复</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498592&amp;idx=1&amp;sn=45a9ddf868d2849d45f7a379444d0501&amp;chksm=c01296962eeb38d6df57a449a97a3daef62d57b5ba1ea242a0095fae95d6cd85641337c98ee9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Jun 2025 10:27:25 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-05-30）：Chatterbox，生产级开源TTS模型，支持情感夸张控制，超低延迟适配多场景]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxQCqiaRUJ6Fu6HR7EYtDZiaKHaicreA2HllMG1zjCSDmRrPfgAYt5x2FMU6zoj7sotr2DRU8FibicXNAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Chatterbox★Chatterbox是Resemble AI推出的首个生产级开源语音合成（TTS）模型。该模型在与ElevenLabs等领先的闭源系统的对比评估中表现优异，支持</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498582&amp;idx=1&amp;sn=c391e1fbb4fc0fef6e63d03ec00276e5&amp;chksm=c0804a188ea0bb50b1abfdadb25ae466dc7914723ee28eae413381f37df9e33c608194ec88ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 30 May 2025 14:12:29 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-05-29）：TwGI，7B多模态大模型，图像生成与推理，长视觉思维链突破被动观察，自回归统一架构优化输出]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzW6UcOzOH2vLCujI9FUk4diaZic9wF7s83ib5a6I5zbdCkuPNVpcU2cLdxMLUh68HSB5zibBdKJjmV9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Thinking with Generated Images★Thinking with Generated Images 项目旨在通过一个大型多模态模型（LMM）实现图像生成和推理</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498571&amp;idx=1&amp;sn=0fc9e74c86c7785b84331fb3441962b1&amp;chksm=c058dce3cc305da7d3cf1d4a2a24b8ce4763247b90926f23650d72acfdf7caa790df92ea6c8f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 May 2025 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-05-28）：HunyuanPortrait，扩散式人像动画生成，预训练编码解耦身份/动作，注意力增强连贯性]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyc9mXH5txVhGic8RoaIIx4BpHuibs9mX6gwgibsDJPGecFCAK3jrbibQKW0ibnicawJxQozv6ZePpTpfibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：HunyuanPortrait★HunyuanPortrait 是一个基于扩散模型的人像动画生成框架。通过使用预训练编码器解耦身份和动作，该项目能够生成逼真且时间一致的人像动画。它将</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498561&amp;idx=1&amp;sn=4b735d2cbccd981640e9e3ec8325b84b&amp;chksm=c0e627c39cd0fe2a2ea5c60faf4527d20951288cdd01ad3017fb7194bf0dfff0391a893a3af0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 May 2025 11:03:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
