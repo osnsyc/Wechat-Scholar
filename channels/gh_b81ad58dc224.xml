@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-06-30）：盘古Pro MoE，72B分组混合专家大模型，MoGE实现设备负载均衡，16B激活参数高效计算]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxWV7hg58wINlJA10uTap7f3gdYicHib1vicrsBxnp58MB5Yc0KGPfLPWNaZyO9gVZnZxeNYctpI0F2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：盘古Pro MoE★盘古Pro MoE创新性地提出了分组混合专家架构（MoGE），通过将64个路由专家划分为8组并约束每组仅激活1位专家的机制，实现了设备间天然的负载均衡，同时采用4</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498821&amp;idx=1&amp;sn=1356db71d2965983245e0fa09a4e54d1&amp;chksm=c0580c5630e6a70c218b3e254b2b3d5c7323a985b0a751f5fceb19d119c46938d0b7f81c4ea4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 30 Jun 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-06-27）：蚂蚁开源代码图模态大模型CGM，基于Qwen实现高效Bug修复，4步生成补丁比肩闭源模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyWMzCSqb2jkdRfGXk7vTxfgl9IXI5xevQQnKSB9GM3aSibZpj8Nia6u0vxJz1yvKu4HkRBvib5W1IWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：CodeFuse-CGM★CodeFuse-CGM 是一个基于图的框架，专为实际软件工程任务而设计。通过构建仓库级别的代码图，CGM 能够更好地表示代码库的上下文和结构。该框架采用了</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498811&amp;idx=1&amp;sn=a7ab81df613fe3bb14aaa0e445bf58a1&amp;chksm=c01f3d2ac912fecb47e54d49b45717d809cc676506afa7fd134962d3c951b70930e7d95e94d3&amp;scene=0&amp;xtrack=1#rd</link>
