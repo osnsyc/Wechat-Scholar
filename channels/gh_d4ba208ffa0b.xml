@@ -10,6 +10,12 @@
       <title>gh_d4ba208ffa0b</title>
     </image>
     <item>
+      <title><![CDATA[deepseek写的CFD代码，给我气蒙了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkk9IXb27dWcIdr4EoibGIq9VibcGbkG84oAbPjUOQhRngp60Xf1E1rvDKR3eP5JoxFZdcQC5sEB6kCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>目的  在求解标量传输方程的时候，经常会发生越界行为。怎么写代码能尽可能保证对流方程的有界？下面是deepseek的答案：// 帅到爆炸的温度场求解代码 - 李东岳老师专属教学版{    // 第一步</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430099&amp;idx=1&amp;sn=cd9274f856b1db292019e6d06345570c&amp;chksm=89c3fd0b66bd0cd0ddc1e3f493238de73977d693d5b39066fc22e0d6120f77a1e80fcfd145bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Jul 2025 04:40:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[被拒稿的一个CFD算例，分享给大家]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmAGTuCo2rwPldIwnW0Sia9taVx4AsmOVJSC3sCUa0TE5z4micROTe1Qel5nALFIK9bY51IGYhAT8Vg/640?wxtype=jpeg&amp;wxfrom=0"/><p>可压缩空泡 可用来研究空蚀等现象，尤其在水下螺旋桨相关应用领域的研究较多。可压缩空泡可以采用可压缩VOF方法来进行。考虑到压力波的传递，为了减少边界的影响，最好可以尽可能的大。但空泡的直径确非常小。为</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430098&amp;idx=1&amp;sn=af4d678a8067b840299da5dffb84a88c&amp;chksm=890412c51f99f6a722cfc6093d55c721ff9dfc9427a8255ff7a061da0c92c8924241fa4836c1&amp;scene=0&amp;xtrack=1#rd</link>
