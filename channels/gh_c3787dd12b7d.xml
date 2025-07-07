@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[从High-level的人类指令中获得Human-Object_Interaction]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvVqeWq8ib3e7Dibic51sls1p6hXic2NHq1n82wGU45zUwOZhwPq8G1TkUISHRPsC8QrdSIibj7rXAicXicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们今天来介绍一篇工作，它可以从人类的指令中（比如语言指令中）理解到High-level的一些概念，然后利用这些High-level的指令概念从而映射到low-level的执行层面，进而去进行huma</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608145&amp;idx=1&amp;sn=21ff22d3b92a3bcfa5c285e9c61ff025&amp;chksm=faca4a40a3bf82a1f4683fc88264792e78077de572f83fdddfcde0158b820f831e7c5489c7cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 06 Jul 2025 09:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[带你手搓ROS应用之传统PLC系统集成]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvVqeWq8ib3e7Dibic51sls1p6suEbz6jGzeTA9GTmWDBybQliclOZQbXWhOvIqDgxibqvJl1gpvlAX9cQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言随着工业4.0的推进，传统的工业自动化系统逐渐需要与现代的机器人系统和信息技术进行集成，ROS2作为一个开源、实时的机器人操作系统，在这种集成中扮演了重要角色。传统的PLC（可编程逻辑控制器）系统</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608135&amp;idx=1&amp;sn=886bbfd99c15534851960c254ea1f70d&amp;chksm=fa9885da036db32352edc13b30f5a9cee8e7aee7ac7d594ce0fa1064b321ef4d57da5a33768f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -56,78 +62,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztx2PHsiacCpibNNKLdLn4Rl2T6IAqibdWrPwtNtSllqOrxZON29adsiaokNWkvHfbCdxGjWcvZ88hMEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人技术蓬勃发展的时代浪潮中，ROS宛如一座灯塔，为全球机器人开发者照亮前行的道路。备受瞩目的ROSCon China 2025正紧锣密鼓地筹备着，一场ROS的顶级盛会即将拉开帷幕！现在，门票销售</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608060&amp;idx=2&amp;sn=1982cb6b87233694a196393b155d47fd&amp;chksm=fa3e4d85ac7b4a579bdaa0e8fa5f416871e11ea536b000c5805d387093d76a30be55bc2dd529&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 30 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从零打造STM32智能桌面机器狗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztKQeck9DflDpPsEC2Zd8sOVJCDoF4JvRhjMc5pEcSUdSezyo2lCE3nK7asFX72AWVAZXPDcrYRZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：大概是2月初3月份的时候，博主根据网上的教程复刻了一个简单的桌宠--STM32桌面机器狗，虽说是机器狗，这里终于空闲下来，博主将相关代码和设计都开源一下，有兴趣的同学可以尝试一下。正文开始：硬件</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608035&amp;idx=1&amp;sn=9aa7e8dbd842a6b3d18c3e3e073c3004&amp;chksm=fad945f0c4a9239f895cd7f31efc133f7e3900f8eb407a5244e0b14edc4a11b5d82e1e9bc4bc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 29 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[实用工具 | ROS Bridge 进行数据传输实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztKQeck9DflDpPsEC2Zd8sOv2O8EtPT9iaDT29fzjkDczWpJVbvG6XUTW8koEDlJQ8jh875xSpW84A/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介在机器人系统的开发中，数据传输是一个关键环节。ROS (Robot Operating System) 提供了一个灵活的框架来实现不同组件之间的通信。ROS Bridge 是一个强大的工具，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608034&amp;idx=1&amp;sn=88c6f01a956cf77ffee796336f897711&amp;chksm=faa7190b24d04dd8d4cf0bcff04099dfade749bc0d8f4645581797ffe0541fc685008b0e2857&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROSCon China 2025重磅回归！大会门票正式开售！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztx2PHsiacCpibNNKLdLn4Rl2T6IAqibdWrPwtNtSllqOrxZON29adsiaokNWkvHfbCdxGjWcvZ88hMEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人技术蓬勃发展的时代浪潮中，ROS宛如一座灯塔，为全球机器人开发者照亮前行的道路。备受瞩目的ROSCon China 2025正紧锣密鼓地筹备着，一场ROS的顶级盛会即将拉开帷幕！现在，门票销售</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608034&amp;idx=2&amp;sn=c0268b78126ceae57730513634c6a034&amp;chksm=fa23723de280322ab406248c13fd4984295d61bdb32e565c746e75a2a7a6228b047130ca9237&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型技术创新赛/大模型任务挑战赛学生报名参赛指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuBbrp9q3vDagFMAiaYPicdmNDdnsCnaiaN8K0klU2rHPuly6vA0091BKy9dG75wzhrD04YVzw0ajz9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>学生报名参赛指南前言导读第七届“全球校园人工智能算法精英大赛”定于2025年6月-12月期间举行，6月20日开始报名，报名截止时间9月25日。竞赛报名时请选择 AIC-算法应用赛-赛题十五、大模型技术</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608045&amp;idx=1&amp;sn=433945a4b2fd7c7d94c559abd5ee6367&amp;chksm=faec007162858b3bb4e2c4ccda03e9684ffdc7ee4909ca576f9f2b80d81a3ae8a3f3aa16581b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第七届全球校园人工智能算法精英大赛——大模型任务挑战赛报名通知]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuBbrp9q3vDagFMAiaYPicdmNCNA6B3u0oqN4ZXk05RnmbvgjQKKykQ8vbWZo3xSNcJs2xLGmPwsgbA/300?wxtype=jpeg&amp;wxfrom=0"/><p>第七届全球校园人工智能算法精英大赛——大模型任务挑战赛       2025全球校园人工智能算法精英大赛聚焦“人工智能+”知识体系下的人才能力培养及人工智能核心技术应用，鼓励学生跨专业、跨学院、跨学校</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608045&amp;idx=2&amp;sn=17efbdbc96dbd56f14dbf35bf05e890f&amp;chksm=fab3d408f16e3fa387c0d40ed0cd4e4b58595298ac19c8ffd3d0be75cdb2999b2eac2f2405ef&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第七届全球校园人工智能算法精英大赛——大模型技术创新赛报名通知]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuBbrp9q3vDagFMAiaYPicdmNkJv1fLflxYpVhBoKe7MBibZewMo8o10yzOgm2xYZ3N6lOMGD1MKYzlw/300?wxtype=jpeg&amp;wxfrom=0"/><p>第七届全球校园人工智能算法精英大赛——大模型技术创新赛       2025全球校园人工智能算法精英大赛聚焦“人工智能+”知识体系下的人才能力培养及人工智能核心技术应用，鼓励学生跨专业、跨学院、跨学校</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608045&amp;idx=3&amp;sn=894e2b8aa5d83fbe41182794940034f0&amp;chksm=facdf43b5a93674f88f8e7e1f554d479f65922f827f65786554b75964c333e6713514fac2490&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cursor Agent---如何更好地掌控AI编程助手]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuZnLrLoeqibnmxgeHtDls7iaG28mkNUlg0Cr2bZuWaSvbuXgMghLibm4emDhoY9lcNZRBZ295SeurFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 简介Cursor是一款受到开发者欢迎的AI编程助手，今天我们来分析它的系统提示词，以便更好地理解它的工作原理，提高使用效率。1. Cursor Agent系统提示词或询问可选参数。仔细分析请求中</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247607939&amp;idx=1&amp;sn=ce03aa819fa440d47416127e67085f9b&amp;chksm=fa0f6dbcbb96f78a431a8eb886efca0483ad8337c47c2d94b8d62e58be0cea97d2095ace4b8b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LoHoVLA技术：让机器人像人类一样思考与行动的统一框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsdHjaub0iaMa2pic6K1BVRU8ypF6upTZgyH55mOSmz1n6oOtDheT07h1tJJVsCaRNdtOIHc89Npoyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们今天要来给大家分享的是LoHoVLA模型。我们让机器人打扫房间时，它需要先理解 “打扫” 是一个包含多个步骤的长期任务 —— 捡起垃圾、整理物品、擦拭桌面等，而不是一个简单的单一动作。但现有的机器</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247607867&amp;idx=1&amp;sn=bd89cbd40986521c5da82a922321d2ba&amp;chksm=fa5c263b2b3d38c57a9b5120287a3d41ae51b7683d65b20a4b5df6461f0c9f34157f9ebab213&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[宇树机器狗go2—slam建图(2)gmapping]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztgM1raaFPO8oTn9GoZMfvSlgtXNB3FibKeiaLjRQLoHoS3zaqE6VevUOcicib2v4NrgYdk0uVV78fbicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0.前言本期文章会教大家如何让宇树的机器狗go2在仿真环境中使用gmapping进行2d建图，在后续的slam建图和slam算法解析的时候会经常与这些点云信息打交道。宇树机器狗go2仿真会作为一个长期</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247607836&amp;idx=1&amp;sn=1f9fc47a4187b86bee2fcfb8da812054&amp;chksm=fa8461246ce80eb7ea47658943a14ec055cfb6ec34bca4ec4985fcd2c75c48de2f16f74d874b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[好课推荐 | 从零开发RC漂移车入门教程 • 小白]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsQQjChAK0iaRxVyQvkv0iavb49QLCYcSHuHqyNZBFlURPGS4saS6vhwY33cOZgicSrBHB3RXUgyHnCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍当你看到别人设计的机器人、智能设备、或是一些酷炫的小发明，你会有想学习的冲动吗？你是否曾幻想过自己也是一名野生钢铁侠，为自己研发各种拉风的装备？如果是，那么请不要错过本次的课程~本次课程简单介</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247607857&amp;idx=1&amp;sn=96aec94c8d93b16ff4c91c8a8d156f3f&amp;chksm=faf37e4675f88ba3fe9a374946eb5e758dea4c002367dda198cea02a229892f213c41cf76618&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROSCon China 2025重磅回归！大会门票正式开售！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztx2PHsiacCpibNNKLdLn4Rl2T6IAqibdWrPwtNtSllqOrxZON29adsiaokNWkvHfbCdxGjWcvZ88hMEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人技术蓬勃发展的时代浪潮中，ROS宛如一座灯塔，为全球机器人开发者照亮前行的道路。备受瞩目的ROSCon China 2025正紧锣密鼓地筹备着，一场ROS的顶级盛会即将拉开帷幕！现在，门票销售</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247607857&amp;idx=2&amp;sn=fb5fee8fe971b3053497650e8c298c8a&amp;chksm=fa9b43823070085205f1e667ca9c141356b58f3ee2b8aaf9a2b2b0cafd84f472540c4f07b7ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Jun 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于 YOLOV8 的疲劳驾驶系统设计]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsuSAsZiasfZcfeQDKyV9zCUqcnrrpkbMcmDwTBYBJicrSS2GCW91I4EibZDxkYL0tGqIicL5jiaUCXFwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言前段时间，博主对于YOLOV8的模型进行了升级，加入了注意力机制和BIFPN网络，但是对于这个网络整改过的效果没有测试过，所以博主基于此想到了之前做过的一个项目，基于YOLOV8的疲劳驾驶系统设计</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247607771&amp;idx=1&amp;sn=dda4b8cadf20073f97480fd2aedfd9e8&amp;chksm=fa682c58b4c54522c7a87498c191485e1006cc2d4a4049eb7234b1281f383aafb185e640e2ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Jun 2025 09:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
