@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[关于Pingpong和Cooperative的一些感性理解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tTuLUic6VAvMXhucGib6mRclP803MDhBXS5UDGT2lhOZhCdBibN09pLNh3hKCdrltFicAVOqBCqpEZug/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/1922067252909434076编辑丨GiantPandaLLM背景最近，我和几位小伙伴 @ayrnb @</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527982&amp;idx=1&amp;sn=b66368db3179f1c5c3d9ab78655adaf4&amp;chksm=9e9a153563a1a22b8b17619f46ced55e33ff06c4a96f971c995ce968a901235979b5beb06457&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Jul 2025 12:34:02 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【博客转载】使用CUDA driver API在运行时加载CUDA kernel (文末送书)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3s3eiaU9294zL0TFIJbicfJXuHK7HkKgBk1zQmbQzjGZTYZcnuHU4FB9p7xmfdJ8n7AaKk2BgCMBINw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/CUDA-Driver-Runtime-Load-Run-Kernel/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527961&amp;idx=1&amp;sn=306ed91a62c5130f332bd9d52d6510e3&amp;chksm=9e19fd6160be63d64def70ad6030bcf4c8f0167c3b001e618153e9ad420469183f336e18fda0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -32,102 +38,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMF6srvDSyXhy5dR0V5OpFGOzQPucjAmzlUcd6HqS6uBQh6THnEQBsh1osMs4EYTaFRia2h5f7Gf7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，按照计划，今天这篇文章本来是想谈谈vllm执行1次fwd中的各种细节。但是由于最近异步RL的讨论热度比较高，身边的很多朋友在二次开发中都遇到了在rollout上如何异步的问题，所以今天我们来探</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527895&amp;idx=1&amp;sn=ca827ebd9545946b7b2593a0cbee70e4&amp;chksm=9e97f5d0f01fc6792047cb72ab41163715b18ee46b0fd960c48d05ae263c59e6ce6fdc2f8f9a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 03 Jul 2025 14:39:23 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】CUDA Cooperative Groups]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sfMdGF8PjdXcxorfImXiamE7pubDPaibqjDzkC7nyxsIur1VPvia7py09YaYLNmeq4OJB3kjXDkaHMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：leimao.github.io/blog/CUDA-Cooperative-Groups/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei Mao的CUDA相关Blog，也</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527893&amp;idx=1&amp;sn=16f51204bc15360777cd7e217efa325e&amp;chksm=9e94354fe3355f440b9be451c82bc4e8c197bbf7fa1f21c4e006c191488019f759c4806e06e8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Jun 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】CUDA Reduction]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sfMdGF8PjdXcxorfImXiamE7pubDPaibqjDzkC7nyxsIur1VPvia7py09YaYLNmeq4OJB3kjXDkaHMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/CUDA-Reduction/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei Mao的CUDA相关Blog，也是</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527887&amp;idx=1&amp;sn=55972806fcea6008f7dcc6ab8499209b&amp;chksm=9e6582c5cdffbe0ac36b151d40047d54f7d6ca13faa5d919fe7a8b7bf6bd9bd5269deb8470a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 29 Jun 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】CUDA Shared Memory Swizzling]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sfMdGF8PjdXcxorfImXiamE7pubDPaibqjDzkC7nyxsIur1VPvia7py09YaYLNmeq4OJB3kjXDkaHMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei Mao</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527881&amp;idx=1&amp;sn=b18f64170ff37c58980c532cbbe8b459&amp;chksm=9e9fd52aef5592b541b1072f0e449ee7c265d546ac823f476da65bdee521a506afd4270b3bbe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Jun 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】CUDA Matrix Multiplication Optimization]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sfMdGF8PjdXcxorfImXiamE7pubDPaibqjDzkC7nyxsIur1VPvia7py09YaYLNmeq4OJB3kjXDkaHMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/article/CUDA-Matrix-Multiplication-Optimization/ ，来自Lei Mao，已获得作者转载授权。</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527871&amp;idx=1&amp;sn=dd1815055bff2f8c780877c191b6150a&amp;chksm=9ec2055515826d7754fa1b22f6a6a68ce22e21cfaaa323e6997eaaf43abd7d7034ceede6c5a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Jun 2025 08:22:12 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字长文图解Qwen2.5-VL实现细节]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkPRUeZRUiawXicick0qsiajhHlB9NI6f6e90pziciaMD44thiamfZJMd1P8gHRib9vyhC10yiawIBFznm5Cb6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，这篇文章其实是今年年初就写好的，为了防止盗版猖獗，一直没有公开，只给我的同事和周边做框架开发的朋友们内部分享过。时隔半年，qwen2.5-VL应该已经渗入到mllm开发的各个场景中了，所以我选</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527847&amp;idx=1&amp;sn=1819180dba8b628a99a81fd57ca8dd5f&amp;chksm=9e2f7602ce73ee3cf2b8abd77c613d4da681ad4126ef7ee0f741d84038579a3eed2f67e0883b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Jun 2025 15:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】CUDA Vectorized Memory Access （文末送书）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tKsI7RQQR4W0agUyiaibeYZnjKy24VkbMPJA1RXliaib9Wal9nibIIzlJ6jSoxhQPT10c4sX3k9mXgrdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/CUDA-Vectorized-Memory-Access/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei Ma</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527845&amp;idx=1&amp;sn=c4d658b02242c7e03fe9dca2514b93fc&amp;chksm=9e39873fee716e0f84e39dca08806331cbebdd8331120bd7544295d07c8f7bea42baad5bc3db&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Jun 2025 13:32:58 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】NVIDIA Docker CUDA Compatibility /Nsight Compute In Docker]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sK2Ivy5pibcxepRVqFMzkPyU4vzDQMvboFuv3Kns0It0q797B3bls3f4yhiah6iaJaEbY8kDf84Yz0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/NVIDIA-Docker-CUDA-Compatibility/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527837&amp;idx=1&amp;sn=d279a1fb49421d058e26f1868c39fb8b&amp;chksm=9e78bcfd070a70a8ea20bdb36445a60276fa0dcb97f53a068c89965ba6bde5b1ae98e8e7c5a8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】CUDA Constant Memory]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sK2Ivy5pibcxepRVqFMzkPyU4vzDQMvboFuv3Kns0It0q797B3bls3f4yhiah6iaJaEbY8kDf84Yz0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/CUDA-Constant-Memory/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei Mao的CUDA相关B</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527811&amp;idx=1&amp;sn=c72c81db47e8ab10949622d9154ef14e&amp;chksm=9ebdbbda4a6e8ad9af9d0baa1dccb29cb12da466b778fde56d84634a5801be43b010f7bbbf68&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】NVIDIA Tensor Core Programming / CUDA Default Stream]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sK2Ivy5pibcxepRVqFMzkPyU4vzDQMvboFuv3Kns0It0q797B3bls3f4yhiah6iaJaEbY8kDf84Yz0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/NVIDIA-Tensor-Core-Programming/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei M</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527803&amp;idx=1&amp;sn=dcbb231fa9545b58db7a332a255c6e16&amp;chksm=9e073a95a5626985e72458621e7b2e49dc738e7fbd53bc2020302c07bcf3a57ef910aa08b8e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 21 Jun 2025 03:26:28 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[图解Vllm V1系列6：KVCacheManager与PrefixCaching]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMbU7XCV1ibaF2HNYk8kAXVH77p7ff6iazOvHr6kvCzqCNYnibL94T3qDBldnEF4FCLd4stT0jibLD8zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在上一篇关于vllm v1 scheduler的讲解中，我们讲述了调度器的工作流程，下图是vllm官方blog提供的一个简明流程示意图：配合上篇文章的讲解，我们知道：在vllm v0（版本是0.4）中</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527786&amp;idx=1&amp;sn=d9859fbcfcedda12cae88bd13bfee462&amp;chksm=9ec7707a803a110802b48a90a8e9a566b5f9591be76234a77704390e794a6a31c01f43884671&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 18 Jun 2025 15:57:37 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】Row-Major VS Column-Major]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uVeYe3jSEkPwYT8qhJ7zAF24qicUKWMicrTlHvSKsmXDcW2kicrXgiawqOzz8lFwCcojribiaClWuu6fGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/Row-Major-VS-Column-Major/ ，来自Lei Mao，已获得作者转载授权。Row-Major VS Colu</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527784&amp;idx=1&amp;sn=db50ad8a41776546405d889428ffad58&amp;chksm=9ebce346662dd8e1acd0d97d1ddd80dd0cadbd05e20c71e7467ed6047c0137acfc18c630e855&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Jun 2025 10:46:55 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】CUDA Coalesced Memory Access/CUDA Shared Memory Bank]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vEnib6z0UFy6nf6BbITKiaoMSWjwRiczRFJag9rcoPjj3kmpyHwmA2NyrUCia0RvEpKZK5WtgicLW20KA/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/CUDA-Coalesced-Memory-Access/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei Mao</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527774&amp;idx=1&amp;sn=1575140a4cbe320144c94935243319ec&amp;chksm=9e22bd066dce0bf29f2d46e64754828098be4dec453d4ceb4f0552bfb7fcf58b914097dc09ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Jun 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】C++/CUDA Data Alignment]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vEnib6z0UFy6nf6BbITKiaoMSWjwRiczRFJag9rcoPjj3kmpyHwmA2NyrUCia0RvEpKZK5WtgicLW20KA/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://leimao.github.io/blog/CPP-Data-Alignment/ ，来自Lei Mao，已获得作者转载授权。后续会转载一些Lei Mao的CUDA相关Blo</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527762&amp;idx=1&amp;sn=0884e8708ee5e1d7b1475c69446e24b3&amp;chksm=9ef751e85e5565aea5c4aeb53c083d931f343b73db3e3f9e56a57af00116ec0ab957fff2656c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Jun 2025 01:47:10 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客转载】CUDA Kernel Execution Overlap]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3utpzO9mQgRfa2wNn0Yz0qz19S8FiaMgGfdmkMN4dtibia9jmoFhuQG2LNjGzN0mUxf6dOj9Q7Uksmog/640?wxtype=jpeg&amp;wxfrom=0"/><p>原地址：https://leimao.github.io/blog/CUDA-Kernel-Execution-Overlap/ ，来自Lei Mao，已获得作者转载授权。后续会转载几十篇Lei Ma</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527753&amp;idx=1&amp;sn=e07599b7124097657e45baf8160f5145&amp;chksm=9e538ac3e8f51da71d5fdf59dda2c7aea39927fce9f2531fde3785e296477f7c3c4dc5649063&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Jun 2025 06:59:10 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Triton编程][基础]vLLM Triton Merge Attention States Kernel详解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3szSSa0VYacYlHnrpO1xDIaiaZAIlxWkBq99njoAMACMicUprrqicicnDuR6KTme6eBIZXkyfGRuoxT3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨DefTruth来源丨https://zhuanlan.zhihu.com/p/1904937907703243110编辑丨GiantPandaLLM0x00 前言本文介绍vLLM中Triton</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527742&amp;idx=1&amp;sn=78b89e3a19497bd335706e4866647706&amp;chksm=9e758b63b4d7df16c927efd99f71648b78b18597c25ff05e558e0a8ddefb812be9ce68df03b9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Jun 2025 11:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[图解Vllm V1系列5：调度器策略（Scheduler）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkOfIJVosb6ftxFReJIPoQzYiaL9kN9NSlTfxlS1vgHEYA18crz6hRDKJtE8GUQqYyiarBQfC26zcXCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在“整体流程”一文中，我们已经讨论了 vllm v1 在 offline batching / online serving 这两种场景下的整体运作流程，以offline batching为例：整体上</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247527741&amp;idx=1&amp;sn=3dbbbdf92025ea91c84048d1d1e5ea5d&amp;chksm=9ee943dc89f776c936793ab75f0d5ffdec6fe5d46789f0e13f3044a57a5d7c61c05c8e810462&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Jun 2025 15:38:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
