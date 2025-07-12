@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[抛弃预定义Tool，首次提出通过动态工具生成的Agentic多模态Reasoning，破31%涨幅]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahKo2F5CAPgSliajRrjm4ERZjiawiboBlfNufzlsqd7ARB66UOL2Ax2mjlMgBcBkz9DDwz5dESHogicQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>视觉推理任务中，传统多模态大模型（MLLM）常依赖预定义工具（如目标检测模型），导致灵活性不足与领域适应性差。例如面对艾宾浩斯错觉（Ebbinghaus illusion），GPT-4.1 因套用固有</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541132&amp;idx=1&amp;sn=9c6b505219c1908735d6760f602b2450&amp;chksm=ea5627bde12b2b867da79f157a7a89b066a288038cd1279bac9835128ec7b3aaa878fce892ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Jul 2025 08:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DeepMind揭示Reasoning内在机制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahKo2F5CAPgSliajRrjm4ERZtHSrz64IUGGKicMibqA3b2AccTYRW7MafgOkkK3nEYrO6N28p3yV86pA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型推理模型（如DeepSeek-R1、Gemini等）在数学、编程等复杂任务上表现惊艳，但其内部推理机制却像“黑箱”般难以捉摸。传统模型生成答案像“直行单车道”——步骤线性无回溯；而新型模型</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541132&amp;idx=2&amp;sn=c982cd4094ed37d4156a1c80241f9326&amp;chksm=ea5d4daeae38acf3b77972b6d19239ffff17e64be5db2d200c6de07309cb6255167475d2cbba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Jul 2025 08:08:27 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[除了prompting外，不动参数，如何改变模型行为？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagK6zOBC2gr2fgJJmjWxeGgOz3Rbvy0aWQev8PZeQhK6sNkJicYOovGveOeSXgVcpxJ8eXgBZUuMXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（如GPT-4、Llama等）的生成行为控制是确保安全性和可靠性的关键。传统方法依赖提示工程（例如设计系统指令），但其存在三大缺陷：人工依赖强：需专家反复调试提示词；脆弱性高：轻微输入变动</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541096&amp;idx=1&amp;sn=352758a8f6ed7b2d01c89676009acc00&amp;chksm=ea76850fa5a080fb38cf2a5eb70af3f72d08a361ce29bc87b41c0da61026a3fed0e919288422&amp;scene=0&amp;xtrack=1#rd</link>
@@ -104,30 +116,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaWmgCyFvlO6o9nbibLsgUz4dPmbK7AfHSmeAN29S5TvmFFVoPicScm62l7vnbIicIst2I2GCibCAmBPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（如DeepSeek-R1）通过思维链（CoT）生成复杂推理路径，但传统强化学习方法（如GRPO）存在严重缺陷：过度追求答案正确性导致模型"想太多"（过思考）——生成冗长的推理步骤，降低效</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540772&amp;idx=2&amp;sn=4ade721f54076a5615e1219c54d4bfd9&amp;chksm=eab946b2f488ef63a229830774b5a9c698544ac7cea613c7cc8902af89960efbcb779deffbe2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 05 Jul 2025 11:45:22 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[普林斯顿等高校提出AgentDistill：无需任何训练即可继承大Agent复杂能力，性能提升48%，成本降低90%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiapVNVAKLOSuA7zjG3ICLa6mFDv5Trlm95BnGvS3ibfKWLvSAIg32WIvVrRT8KbHerDADzAfXoFF8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI领域，大型语言模型（LLM）智能体已能执行复杂任务（如规划、工具调用），但其庞大的计算需求限制了实际部署。传统"蒸馏"技术通过让小模型模仿大模型的输出来压缩模型，但这种方法对智能体（涉及多步骤推</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540730&amp;idx=1&amp;sn=8d997ce8614b4147496a804d9e039547&amp;chksm=eac125a3d3c364348bc9253019f508ce8d3fc1fd3bd53557538f17a732ea5a60e5679f8c20ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Jul 2025 14:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中山大学&amp;华为联合提出 Issue Resolution 数据集构建神器SWE-Factory：每条只要$0.024]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiapVNVAKLOSuA7zjG3ICLa6iaNPdKWqAw0CRXy4J0A04S5icfw5IPbboaW80n4NO5GuFicCjbLS6C50Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>还在为构建高质量的软件 Issue 解决数据集而头疼吗？传统方法不仅耗时耗力，成本更是高得离谱。中山大学和华为联合提出全新的低成本开源解决方案—— SWE-Factory ，能够通过多智能体框架自动收</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540730&amp;idx=2&amp;sn=0697810aeea97c3020ac833760756d5c&amp;chksm=ea4539a83652891a7949c9077fbb656a420e831859ce4a025a5bd7e999670a18cb14a61731ef&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Jul 2025 14:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[邱锡鹏老师团队发现SFT与DPO破壁统一：内隐奖励作为桥梁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajzGOUduaptGichiaJTyjoFeQytSrMnbxj4gWM7SOrDFSAmnibHGKDcExoHgYd0H5XWX8yHX59OxCr8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）的后训练是将其应用于实际任务的关键阶段，主要包括监督微调（SFT） 和基于人类反馈的偏好学习（如DPO）。传统观点认为SFT仅是DPO的"热身步骤"，两者缺乏理论关联。本文突破性</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540695&amp;idx=1&amp;sn=4f459ca72c63347df4b3b2d9d28977ad&amp;chksm=ea93e4d8d0f0ec6e486e016fd4af7975059bc61646f696604156c1d416c1c789a232592f5113&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Jul 2025 15:57:56 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2025.7.4上午 | 视觉智能驱动的多模态对齐与推理的近期系列工作分享 - 复旦博士生王思尹]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajzGOUduaptGichiaJTyjoFeQz0mo2VIMGB01DJlNYJRRk0QwQaN7aTmNesNALKn4DHjAId73qLnY8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题视觉智能驱动的多模态对齐与推理时间2025.07.04 周五 10:30 北京时间b站直播间：https://live.bilibili.com/27784098（点击文末「阅读原文」即可跳转） </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540678&amp;idx=1&amp;sn=35ba0b9a0a82ce5dbf6b2bfcfe84cae0&amp;chksm=ea1e17591c363cf4d34feecdb5940cf8d4f30f768919a99a5eb9a813d76a915625991d901708&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Jul 2025 13:28:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
