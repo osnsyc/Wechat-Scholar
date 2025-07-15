@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[快慢Reasoning综述！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaCxQ2V65sTjTbvH3soGVdlQHVPVT8T6vRicI6g4lavBjmqjJicrS5uURbaugHCHfzL9w6ibB23zkbhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）虽在复杂推理任务中表现出色，却存在"无差别计算"缺陷：对简单问题过度消耗资源（如用微积分解1+1），对难题却因计算不足而失败。这种低效性严重阻碍其在自动驾驶、实时医疗等场景的应</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541213&amp;idx=1&amp;sn=9dbe6f412f8aab17197a8d2f67cc0071&amp;chksm=ea1c601ef2396f5928dfdbeffe2ecfdba26a0310898e27f7f32ce4247e7486171397ff60bb92&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 14 Jul 2025 13:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICML2025 | 揭示MLLM的图文联动推理能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaCxQ2V65sTjTbvH3soGVdl7074dNznUoGmtaaSmKPml6Ix7Mhe1H6c9gWibuH45yVCzSKXWq2nwnQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>人类在解决实际问题时，天然融合图像与文本信息：气象学家结合天气图与数据预测风暴，设计师通过文字描述构建空间布局。这种有机多模态推理（Organic Multimodal Reasoning） 是智能的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541213&amp;idx=2&amp;sn=d509f75608344a7d3dbc672560eab317&amp;chksm=ea255985eb60ae1aa0e7f9308e9de6d4e56d81f8f84779a3e3936ae523dd54a3b93f8fee9dbf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 14 Jul 2025 13:10:47 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[揭示隐藏联系：RLHF/DPO即对比学习！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagLNn9vdYASMglCmY8fVaq1fkjeRYPNOKBfsRKA3sFibS0x7eIP9uPMn6iam1CFweKtIdZpQj1mZPuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）如ChatGPT、Claude等的强大能力令人惊叹，但让它们的输出真正符合人类价值观（如安全、有用、诚实）却是个巨大挑战。当前的主流技术是基于人类反馈的强化学习。简单来说，就是让</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541173&amp;idx=1&amp;sn=3ee8a80171fd817681e4122125c67777&amp;chksm=ea6cacd1dd3c8244780e0e1c2481d03ac6ad3938b9daa87c379d560f99599dace502723f53c9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -92,42 +104,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaJSJaia9VUiaQQLoBnQLw5NsbD7Tr78aYvnotrn0JF2MQyAGALGic5L4yJ5GXHZvSd9HOlKicIJVfggg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型记忆管理和优化框架是当前各大厂商争相优化的热点方向，MemOS 相比现有 OpenAI 的全局记忆在大模型记忆评测集上呈现出显著的提升，平均准确性提升超过 38.97%，Tokens 的开销进一</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540895&amp;idx=2&amp;sn=cc14a44916fad313ef977ea4ff2b47c1&amp;chksm=ea19e540c604c4bb66e547fdcd1a5591179acc8f7be2512c5e7fa1c706e7eb84e8a481db3ce2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 08 Jul 2025 07:57:01 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Doc2X：构建可扩展高精度多格式文档解析管道的API技术实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia7FibGuKaZuSO6fbicgfPTD18wOOfNEOuiatBComk3S7dF1wnJPicIfYYO2QhErQNexEOia8uh8uY9dxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在数字化快速发展的当下，文档的智能处理与高效应用尤为重要。开发者在项目执行中普遍遭遇一个核心难题：如何将不同格式的文档高效转化为结构化数据，以支持后续的向量化处理和检索。然而，传统文档解析方案存在明显</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540874&amp;idx=1&amp;sn=4bbde63a06ff2a290a6e45769d1d2a62&amp;chksm=ea31997f611c7b010ee97190f6fa0732300781654a838d412a377033ef64ed0ad621b2af226d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Jul 2025 07:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数学推理热潮下的冷思考！如何训练真正"全能"的推理模型？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia7FibGuKaZuSO6fbicgfPTD1jopLHzpiawYdjO3OpHMvtXWYFXfCz1HdXhGuUuDQXc1b6hHuLXkACMQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）在数学推理任务上的突破令人瞩目——MATH、AIME等基准的人类记录频频被打破，模型仿佛拥有了"数学天才"的光环。但这种进步是真实的能力跃迁，还是针对数学题的过度拟合？论文：Do</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540874&amp;idx=2&amp;sn=ec6ef859471c1efd64f12a378b2d86a6&amp;chksm=eaee5dc7eb7c9cb58338a9b26a9e2d61c54b7864d0c550778bd83af5a3d3956f51e53b4d5d10&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Jul 2025 07:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[提示工程死亡？不，它刚刚重生为计算科学：一篇讲透Prompt设计的科学基础]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajgKdjds5jnxnbD2thBRjvxMlEQKZCIN4HDpAnkJ3g37yXia4zJkibvu0f8iayH5znh1F5HJ1hFurWLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）虽然在知识任务中表现出色，但在数学证明、棋类推演等多步推理任务中屡屡受挫。根本原因在于Transformer架构的计算深度限制：其注意力机制只能执行固定步数的序列计算（TC⁰复杂</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540813&amp;idx=1&amp;sn=aa3de773e5cad73a901c5f740a9377d0&amp;chksm=eabfd27ade680af86f554de8a947575e7f740ef6a2a59c538c1d63643fad4001894bee5327d5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 06 Jul 2025 15:56:40 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[关键突破：理论验证了 RL for LLM 路线的可行性]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajgKdjds5jnxnbD2thBRjvxGl60peneFicPzegenaMLW5fMdOoxJzwLicxg1g38ibZ29KW5DBwruF2Hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）的对齐（Alignment）是让模型行为符合人类价值观的关键技术。传统主流方法RLHF依赖人工标注偏好数据训练奖励模型（RM），成本高昂且难以扩展。虽然RLAIF等方案尝试用AI</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540797&amp;idx=1&amp;sn=aeefbf1d55aaacfe42d873cd89aa7d7d&amp;chksm=eadd0c9937f3c8dc3dff83ced61365c65211b7560f5de607e196516e16deb5390063e436902c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 06 Jul 2025 08:31:50 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[牛津证实CoT不可解释！大家不要再用错了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaWmgCyFvlO6o9nbibLsgUz4PpEp7wquZN8UTkpC1iaseXKj1nR0oM5Yibs0yVDdkicBQ87fH261JM3Sg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）的“思维链”（Chain-of-Thought, CoT）技术因其能生成类人推理步骤，被视为打开模型“黑箱”的钥匙。例如面对数学问题“求直角三角周长（直角边5cm、12cm）”，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540772&amp;idx=1&amp;sn=bf678ce6af328664aea1c0d17a3d4f9d&amp;chksm=ea2b666ac2a1449d07244cb52ac4724d97682dc8bd08812912a82ca83dd925b19a6c7c1d5544&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Jul 2025 11:45:22 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GRPO-λ破解LLM强化学习崩溃难题！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaWmgCyFvlO6o9nbibLsgUz4dPmbK7AfHSmeAN29S5TvmFFVoPicScm62l7vnbIicIst2I2GCibCAmBPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（如DeepSeek-R1）通过思维链（CoT）生成复杂推理路径，但传统强化学习方法（如GRPO）存在严重缺陷：过度追求答案正确性导致模型"想太多"（过思考）——生成冗长的推理步骤，降低效</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247540772&amp;idx=2&amp;sn=4ade721f54076a5615e1219c54d4bfd9&amp;chksm=eab946b2f488ef63a229830774b5a9c698544ac7cea613c7cc8902af89960efbcb779deffbe2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Jul 2025 11:45:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
