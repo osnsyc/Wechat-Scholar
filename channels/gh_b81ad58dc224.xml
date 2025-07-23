@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-07-22）：阿里Qwen3升级版发布，256K长文本支持，多语言长尾知识覆盖，多权威测评中超越顶级模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxAsicoDt6b7MYDJ5U7pdusLicLpVKNichj7XsthnfgjhBnBpy3Vgln0wuI3KDkOIGn8dicR02BupIKXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Qwen3-235B-A22B-Instruct-2507★Qwen3-235B-A22B-Instruct-2507模型，采用FP8精度及"分离训练"架构，将指令响应（Instru</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499009&amp;idx=1&amp;sn=94ef736ac2fd8f19ae344280076b83b3&amp;chksm=c0a0c5a0a1d631dd8e50780496957b9d51aaaf87930398ea544c88b0d0bdc7740225e684f482&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Jul 2025 11:43:31 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-07-21）：英伟达开源OpenReasoning，1.5B-32B推理大模型，优化数学/代码/科学推理能力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxmjiaJF752iaPIl9bZX7ibIia47xJ2olEFjSPjXmib26YuvlYVoziajtofDbKxHUt5JHm0cqwbYpzUKCQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：OpenReasoning-Nemotron★OpenReasoning-Nemotron是一系列大型语言模型（LLM），衍生自 Qwen2.5-Instruct。该模型专注于数学、</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498998&amp;idx=1&amp;sn=c0b442934119acc1883eaae75c237d2a&amp;chksm=c05aac1de59fe712d20fd2d106954b842d8f31661bf7f7d89cceb88986ca625a919c1fc36a58&amp;scene=0&amp;xtrack=1#rd</link>
@@ -20,114 +26,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkx5ibgN2pQS7iboD6w4LZJOmkNx2tWb6z9xicYiagzkU7BpAGcLWXfEr1TUWLPYqV8SwQKfSQBMs0RQJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Goedel-Prover-V2★Goedel-Prover-V2 是一款开源的语言模型系列，专注于自动化形式证明生成。该项目通过标准的专家迭代和强化学习流程，结合了三大创新：逐步生</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498978&amp;idx=1&amp;sn=1f4dfdc54b6ea77fae5bef5a90a3ecf6&amp;chksm=c0c312e7c82ffd5368cb56f57a157df1a70baeac3656f29b7e5933f1cae798aec803b984b69d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 17 Jul 2025 10:43:08 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-14）：Kimi K2，万亿参数MoE大模型，32B激活参数，Muon优化器训练强化推理与工具使用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyBccQLBNvFbRVsFaZkI7VnJqQcDvSO6O2NlEYkpx1HfaR664jyqsTSHan7dN73Rp1Y42jSRicyLSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Kimi K2★Kimi K2是由Moonshot AI团队开发的大型语言模型系列。该模型采用最先进的混合专家（MoE）架构，拥有1万亿总参数和320亿激活参数。通过Muon优化器进</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498944&amp;idx=1&amp;sn=dfa19287e69ff47eca32d4512063c4f5&amp;chksm=c0609c465680acfde65d04666a3500588a1cec17f98d4cf1d62f946faa751cb6cb7b87f13f58&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 14 Jul 2025 11:26:53 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-11）：Devstral 1.1，开源代码大模型，128k上下文窗口，SWE-bench开源模型榜首]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw2ibvviaOn9OzbCJt2cVIKEZUsXwC0gmIibAesODrVdEI7EnK8tRxtVqJb1moqJCmOqPiaWnOvCBt9AQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Devstral Small 1.1★Devstral-Small-2507 是由 Mistral AI 和 All Hands AI 合作开发的面向软件工程任务的大语言模型。该模型</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498933&amp;idx=1&amp;sn=b60978d308edb4b651cbd89a36dcc052&amp;chksm=c0c7bb793fa0a5ff5d2e2ed83ab08b8cda45d70d0a95b5185f0cb758ef4321ebb891f5fdcbe7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Jul 2025 10:40:57 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-10）：SmolLM3，3B小型语言模型突破，11.2T数据预训练，APO优化推理能力，支持六种语言]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwlQMPt5K6y36o5I23MEuIRc1qgSFhm6TNg6lwiariaE7ZF5vic5aicFClRJ7UczjmPIFMxQsictZd84hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：SmolLM3★SmolLM3是一个拥有30亿参数的语言模型，旨在推动小型模型的边界。该模型支持六种语言，具备高级推理能力和长上下文处理能力。SmolLM3 是一个完全开放的模型，在</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498923&amp;idx=1&amp;sn=b1d26e57984f4fcc182a2e872e4adb45&amp;chksm=c0c1ccb4d3c95d5c1fd5499f5347f1bacefaa6ca4ed228a142cb517cd3ea7b59551bd64d9118&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Jul 2025 10:43:12 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-09）：POLAR，创新奖励模型预训练范式，合成语料库策略区分，最小化微调实现人类偏好对齐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwRImbPgAD4hJicsz1Pv941yeauLfcLcpExmRH0w9DQEqPaAVq8cfnvllR3lDbiaICc8icC5t1Gw2xlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：POLAR★POLAR是一种通过大规模预训练实现的标量奖励模型的重大突破。它利用创新的POLicy DiscriminAtive LeaRning（POLAR）范式，通过大规模合成语</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498911&amp;idx=1&amp;sn=5900878dd1f1e084868bf1dd9868f08e&amp;chksm=c0679215d05d4900f311c5b672e9fe8aa7121d31fb2aaa893cacce78bb6d9aed5ea20665cd19&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Jul 2025 14:51:13 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-08）：KAG-Thinker交互式深度推理模型，FlashRAG+vllm部署，专攻复杂多跳问题求解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDky9ibE6r6cMSWnM8LicicryJFuiaiaJToicYlRiabI2yrJRGCTpEib3HEIicXYF0r1dTTkppIwFBLMjAuas1LA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：KAG-Thinker★KAG-Thinker是一个交互式思维和深度推理模型，旨在为复杂的多跳问题提供认知推理范式。该项目利用LLaMA-Factory进行模型训练，并通过Flash</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498895&amp;idx=1&amp;sn=256101cccb50c12965e36efbdc1b83aa&amp;chksm=c0ffd8df6105bda4788f22d2790029ded2903aa721d6b4d8375c4b9f335352ea2e215df7f4c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Jul 2025 09:48:24 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-07）：昆仑万维Skywork-Reward-V2，0.6B-8B参数奖励模型，2600万偏好对训练]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyNGUKJXcU7P9wvhwyA3K5kPkfqicibbPopR40XqOw2czCwva2vH3EJpZYA5XAfxKhn9mWibdniaUxbjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Skywork-Reward-V2★Skywork-Reward-V2 是一系列设计用于多种任务的奖励模型，基于 Bradley-Terry 模型，训练于 2600 万精心策划的偏好</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498885&amp;idx=1&amp;sn=5253f2676305c62013a70c276e7e34f9&amp;chksm=c01f99c4bd56a549615f60a8df2b71da71ca90f1bb2ebfb7ef79cd1542da296bb19fcee37243&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Jul 2025 10:06:42 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-04）：百度文心一言4.5，多模态模型家族，最大模型参数424B，最小0.3B端侧模型，跨模态参数共享]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzjN4twwxANbTEBjVkgjmtQvNdsdwLW51pr7sqZ9q7ISkic5335ebJHcicF7Aj2sfIRRHcGo676tGibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：ERNIE 4.5★ERNIE 4.5 是一组大规模多模态模型，包含 10 种不同的变体。该模型家族包括具有 47B 和 3B 活跃参数的 Mixture-of-Experts (M</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498874&amp;idx=1&amp;sn=b9246f81aba0e04014c01e84ade12a65&amp;chksm=c091529fd1dca34d146646506b05b95e67e58f7ed894d5c82edbd2926560c40f9cd2e662e9cf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Jul 2025 10:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-03）：OmniGen2，双模态解码生成模型，解耦图像分词器+独立参数路径，四大视觉任务全面升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxBicPDL4Bic8bUaIWWaKJUXic3vMKhFiaGJraYL3mKV4XAUOAcNppOaQEBm1GGbqPyCFYg6Mh4ibticvRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：OmniGen2  ★OmniGen2 是一个强大且高效的生成模型。与 OmniGen v1 不同，OmniGen2 为文本和图像模态提供了两个独特的解码路径，使用未共享的参数和解耦</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498863&amp;idx=1&amp;sn=75a9e95f163773c1e78012788d5bd3c3&amp;chksm=c0b6219e540a8358bd547d002ef5311dafea1301026e47429ed8deb9f185395d0510247ebe75&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Jul 2025 10:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-02）：TEN 开源超轻量语音活动检测模型与对话轮次管理模型，支持全双工语音交互]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyRq9FBUR2hwvibjl45DcGy0PGtsqTBJw4WOylZUWNVEwCjqUlnrG4tjmDfoWaA7YwR3cj0anpX2vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>开发一个人机对话体验超自然丝滑的 Voice Agent，到底需要多少个语音模型呢？仅仅依靠语音转文本 (STT) 或文本转语音（TTS），系统往往会出现 「抢话」Barge-in）、「发呆」（Lat</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498851&amp;idx=1&amp;sn=30bb165549fffa47df4e8b6213448350&amp;chksm=c0d51544393e4071c73cc1bc17c799f50a21b54015282226cb2eb16ff879570e3e8e042e1b9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Jul 2025 10:29:46 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-01）：字节开源ThinkSound，Any2Audio音频编辑生成统一模型，CoT驱动跨模态转换]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyRq9FBUR2hwvibjl45DcGy097S4xoytsZFx3dUD6E0V7gpibTgiaE10DibibSEswU9meiaujGibMVgicxzfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：ThinkSound★ThinkSound是一个统一的Any2Audio生成框架，利用Chain-of-Thought (CoT)推理指导，通过多模态大语言模型（MLLMs）实现音频</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498831&amp;idx=1&amp;sn=8691895cd7861aa1704dc5fd333f3221&amp;chksm=c0674e30b1b9823ff79c1a3351bf0eed347073ddd87ed2f413f18beb7a14800d116a95bb8448&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 01 Jul 2025 10:07:30 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-30）：盘古Pro MoE，72B分组混合专家大模型，MoGE实现设备负载均衡，16B激活参数高效计算]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxWV7hg58wINlJA10uTap7f3gdYicHib1vicrsBxnp58MB5Yc0KGPfLPWNaZyO9gVZnZxeNYctpI0F2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：盘古Pro MoE★盘古Pro MoE创新性地提出了分组混合专家架构（MoGE），通过将64个路由专家划分为8组并约束每组仅激活1位专家的机制，实现了设备间天然的负载均衡，同时采用4</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498821&amp;idx=1&amp;sn=1356db71d2965983245e0fa09a4e54d1&amp;chksm=c0580c5630e6a70c218b3e254b2b3d5c7323a985b0a751f5fceb19d119c46938d0b7f81c4ea4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Jun 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-27）：蚂蚁开源代码图模态大模型CGM，基于Qwen实现高效Bug修复，4步生成补丁比肩闭源模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyWMzCSqb2jkdRfGXk7vTxfgl9IXI5xevQQnKSB9GM3aSibZpj8Nia6u0vxJz1yvKu4HkRBvib5W1IWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：CodeFuse-CGM★CodeFuse-CGM 是一个基于图的框架，专为实际软件工程任务而设计。通过构建仓库级别的代码图，CGM 能够更好地表示代码库的上下文和结构。该框架采用了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498811&amp;idx=1&amp;sn=a7ab81df613fe3bb14aaa0e445bf58a1&amp;chksm=c01f3d2ac912fecb47e54d49b45717d809cc676506afa7fd134962d3c951b70930e7d95e94d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Jun 2025 10:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-26）：谷歌开源Gemini CLI智能体，1M上下文支持代码查询/编辑，多模态实现PDF转应用生成]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzCHn4ibJxia53rAUliaK6jmfzUEzTK9Ss6JmzPPCic1f5Td9etcwzBjx2iaRmMS7899O4AV0ku89mDWIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🤖 Agent开发①项目：Gemini CLI  ★Gemini CLI 是一个开源的命令行 AI 工作流工具，旨在通过连接到用户的工具和理解代码来加速工作流。它支持在 Gemini 的 1M tok</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498800&amp;idx=1&amp;sn=51061b90dbde4c93c8e8b7f0e7f90f25&amp;chksm=c0f6730a44cf5b96e434499469495a67453f92892dfd374bab06446ff3c05aac63c7b2424ff8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Jun 2025 10:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-25）：VLN-R1，第一人称连续导航具身智能，突破离散地图限制，实现语言指令到连续动作的端到端转换]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyciauwQyLkS4OWicpW9e8Huw2ysO4iaN2HibR5jI5xsQPCrUhGfOaf1wCEicjXYZ797RZxRUVd0gxJJFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>⚙️ Robotics开发①项目：VLN-R1 ★GPT4Scene项目旨在通过视觉语言模型从视频中理解3D场景。该项目结合了先进的深度学习技术和大规模数据集，提供了一种创新的方法来解析和理解复杂的3</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498790&amp;idx=1&amp;sn=ef9106d75e0ca4506e7e206c5bfcf33e&amp;chksm=c0818f1a6db046f23b7266a9fb22f8f9948b02674c584be143d0314863f9439e051c639e46ea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Jun 2025 10:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-24）：MOSS-TTSD，中英文对话语音模型，零样本克隆+长文本生成，百万小时数据训练实现自然韵律]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxp13tHdjDPgfo6WLDdicocqFLVn7lFdrcJDnnQRdJH5HVuRQV1icxhn0PrC2LbaNKGNJFDTzOOqFtA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MOSS-TTSD ★MOSS-TTSD 是一个开源的双语语音对话生成模型，支持中文和英文。它能够将对话脚本转换为自然且富有表现力的对话语音。MOSS-TTSD 支持零样本多说话人语</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498779&amp;idx=1&amp;sn=1793f852c8bd507c8af6daceb78bf249&amp;chksm=c091a00787f9749b251da824af968ae8c6fad22361b0efa6cb7834c1ad224bf614bce247bf36&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Jun 2025 10:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-23）：昆仑万维Skywork-SWE，32B代码智能体突破，OpenHands框架实现仓库级代码修复]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkx6KEbzoS285FQsxB7vZ9iahfJOgTKibNOomXs24fAL7NLuNKdYHeAxoyXbn6udHTOKNicJMRzyqk8DQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Skywork-SWE ★Skywork-SWE-32B 是由 Skywork AI 开发的代码智能体模型，专为软件工程任务设计。该模型在多个关键指标上表现出色，尤其是在 SWE-b</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498768&amp;idx=1&amp;sn=aaff86e488ff249ed05b201d7d35a66f&amp;chksm=c04d3e716a17c31e704b8c65d312c1c124dba41be386cd2129e5a683f25de0042138085177a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Jun 2025 10:46:05 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-20）：MindOmni，7B统一多模态大模型，三阶段训练+RGPO算法，实现复杂推理与生成任务双突破]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw8RXlbXSxTyw7Qg0X48svCzFyJpEUNcwBVKtBPxQV2p1vVpQLmALfgVXpw9LFpFqIGRTyVibcF0UA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MindOmni ★MindOmni 是一个统一的多模态大语言模型，旨在解决当前文本到图像系统在处理多模态输入和复杂推理任务时的局限性。通过引入推理生成和增强学习，MindOmni </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498758&amp;idx=1&amp;sn=efeb45bf3f326620ac57936cc1f8dbe4&amp;chksm=c0c1f2c711d7d0fc595b04d51356eb9db3aefba3d973323f9e7617eb60cbe6ff585c91b48990&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Jun 2025 10:23:17 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-06-19）：Pusa，创新视频扩散模型，矢量化时间步长+帧级噪声控制，支持多种视频生成任务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyOlic8El2vYpq3px5PjnD9SBv2xdeQc6r14tiaicUgLzwias8yMnuUNDWv2iaYAO3kwfDz8rHjKCKvgsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Pusa★Pusa是一种创新的视频扩散模型，通过帧级噪声控制实现了视频生成的范式转变。与传统方法不同，Pusa采用了矢量化时间步长，支持多种视频生成任务，包括文本到视频、图像到视频、</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247498748&amp;idx=1&amp;sn=7bf3810fea46a66919199905a5931f32&amp;chksm=c04270a1695f142801bfbb572d7e75100e988978750ef00967fa7a29a730a97ebd1cf1227ce6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 19 Jun 2025 11:35:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
