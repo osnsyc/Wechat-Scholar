@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[如何利用pytorch memory snapshot进行显存分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMUBRBPHYNpK3c0B1dhRficnaMibmB8VxoPRCdnUhkrck3a7zwakOibVNKoSsRZiaYnhibIhhhuUSaP3Mg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天这篇文章，我们一起来看看如何使用pytorch memory snapshot，分析模型训推中的显存消耗。在阅读本文前，推荐大家先阅读这篇blog：https://huggingface.co/b</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528168&amp;idx=1&amp;sn=7e5a1d88cfeff640b40121af7b51e381&amp;chksm=9e7257ab8a48ec27a3ffb764da16522661976822366dca91924719fe8b01b14e5047c91bbc05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Jul 2025 15:21:05 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[现代GPU体系结构Cache Operators行为研究]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tQcvKTGNopJkaLXHHX8HpSRUXsIjiaPeV9NB5beiae6ic0UKGguZDh60ncWfqcs6vCyaadlJUqkVG0w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/691104610编辑丨GiantPandaLLM总述最近阅读了 @kaitoukito 大佬的文章：kaito</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528166&amp;idx=1&amp;sn=607e21c40be7bb39c67f2200379db521&amp;chksm=9ef5b68da9e456952aa0d27a561081ace720f4bc25311a80fd652c7f5243a0371618ab38c683&amp;scene=0&amp;xtrack=1#rd</link>
