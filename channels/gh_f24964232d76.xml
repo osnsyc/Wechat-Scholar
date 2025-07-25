@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang v4.8.0 13x8 H800 DGX SuperPod 节点的PD分离性能研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tRRzzJ29sFF9vq3jZROJDv28CtHib1ic1ia2egJicvRNwAaMl719cGQcdh9m5M7Wfogy2MIKlDuZcspQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言我们在一个采用 13×8 H800 DGX SuperPod 节点的解耦(分离)式大语言模型（LLM）推理架构中，评估了在服务等级目标（SLOs）约束下（即 TTFT < 2s，ITL < 50m</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528544&amp;idx=1&amp;sn=a7d20c29e886a39b63b11364ae0a816d&amp;chksm=9e30e7eb872c2a47682d6f8be5209d8517db38d3a079ca7b641e53815493674493056ebf4058&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Jul 2025 04:44:19 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何利用pytorch memory snapshot进行显存分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/GmyBmIxnRkMUBRBPHYNpK3c0B1dhRficnaMibmB8VxoPRCdnUhkrck3a7zwakOibVNKoSsRZiaYnhibIhhhuUSaP3Mg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天这篇文章，我们一起来看看如何使用pytorch memory snapshot，分析模型训推中的显存消耗。在阅读本文前，推荐大家先阅读这篇blog：https://huggingface.co/b</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528168&amp;idx=1&amp;sn=7e5a1d88cfeff640b40121af7b51e381&amp;chksm=9e7257ab8a48ec27a3ffb764da16522661976822366dca91924719fe8b01b14e5047c91bbc05&amp;scene=0&amp;xtrack=1#rd</link>
