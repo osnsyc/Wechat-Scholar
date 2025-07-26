@@ -10,6 +10,18 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[A-LOAM 代码解析： 初始化与数据流]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvTY7UZycPhOoH0DQ2QPMN2OuS63wZlibLP1M4x0lLVbwNrR3RsFoDVrRWPgiaWaIUMtNIq90iaUsyYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>LOAM的核心特点就是将帧帧匹配和地图构建解耦，这在保证效率的同时，提升了精度，之前里程计节点介绍完了，接下来我们来介绍建图节点，建图节点一方面是用来建图的，另一方面就是用来帮助我们消除里程计节点的累</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609301&amp;idx=1&amp;sn=d75df0314bcd262b87deb987345db37b&amp;chksm=fab7ca6fe82b1348c2f6ae236b326406e67933621ebf51305fef78946630291c533e531c3393&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Jul 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[暑期学校专属福利！ROSCon China 2025 门票免费送，还有超多优惠等你来！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvTY7UZycPhOoH0DQ2QPMN2O0wq24JiahhFaY9Vynwmttp3WZeP28WibqQ9uPb5H13TgXaRhKlufcNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>暑期狂欢，ROSCon 惊喜来袭暑假的脚步悄悄临近，对于每一位深耕机器人与 ROS 技术的开发者、学习者来说，这个夏天注定充满惊喜 ——ROSCon China 2025 大会正蓄势待发，而我们特意联</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609305&amp;idx=1&amp;sn=32337c6f6efc39bcdb972c7204801448&amp;chksm=faebe06ed4877a274147fdd87c0c89e0af35962d2b89ff5dedbbbbe59d6e9b673c1db6b86985&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Jul 2025 09:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【广告算法】【基础】【0】广告算法作用和流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsAQs2syw7gKkkiaB3Mu56Nfp1DTybbrU9zS0L2QhR6gSicGgfs00rxdoohzEjs8xpDJCS6zDfXJDtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言及学习路线广告算法/推广搜 作为当前商品交易/短视频平台的最重要的运营手段，其实用性和重要之处不言而喻，本专栏将从0开始一步步进入广告算法的学习。这里引用大佬的学习路线：实际上，在前面的学习中，我</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609119&amp;idx=1&amp;sn=a4cab08ea67910b5517e2877d24d8ee6&amp;chksm=faab5b721fe6168ec5ba954186995d2c7000054c6697e68d6a78e475dd25de666bbc3d52da72&amp;scene=0&amp;xtrack=1#rd</link>
@@ -56,72 +68,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztc2yJB38ummyiaGnxZA6jZFLbJez3onZctXVdu9bqdV77BM0Tb6Gsf6HCQKRk9xRr0sWeegmfUj7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们今天要分享的是一个叫RoboRefer的技术。文章主页链接：https://zhoues.github.io/RoboRefer/ 这是北大和北航合作的一项研究工作让机器人理解并与三维物理世界进行</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608613&amp;idx=1&amp;sn=32fceca34dafc002fc2eb69e75cc2ace&amp;chksm=fadbc921675c6367934101c52db24c7c24ebc8262c8423db0cda7bb00aafaec1f437c76f471b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 19 Jul 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Xacro机器人建模指南：从基础定义到Gazebo仿真实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztc2yJB38ummyiaGnxZA6jZFvrhS0ny16XRalrMHyd7AvaUCt2jDDXz5Kp1qgjGiaZics0rbJz2HCC5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、定义通俗来说，xacro 就是 urdf 文件的一种“进阶版”，它是用来简化和优化机器人的描述文件，使得多个机器人可以共享同样的部件和结构，避免重复编写相同的代码。假设你有很多机器人，它们的结构相</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608864&amp;idx=1&amp;sn=b8355dc1c47f5c09847644a01aa6b54b&amp;chksm=fad61ed14a84c6503bb4a4efb62730dd2b525c2471d71472aeea9686d1825cf243f856db7c69&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 17 Jul 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS2 QT 21天训练营（第23期）今天开课啦！仅剩最后几个优惠名额！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs1yKcOm6koCAIt7xCKGxA9BbHwSf7XiaQUOzcQxUohM7ZnmbtnLUAu9ko9HKeNyIR3NZDq5nKBgUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍开课福利（开营前）前20名报名可享受早鸟价¥159！注意：开课时间：7月14日9时凭购买截图联系小助手（guyueju2024）进群学习截止报名：7月27日24时‍点击“阅读原文”可跳转购买链</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608554&amp;idx=1&amp;sn=60c5d55f801ab90ac42462683a121c62&amp;chksm=fa0bcd8e9b688e169c29e9951ded2a49a5bcb07f0df65d90fefef05ff2082107b929b472fee2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 14 Jul 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROSCon China 2025重磅回归！大会门票正式开售！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztx2PHsiacCpibNNKLdLn4Rl2T6IAqibdWrPwtNtSllqOrxZON29adsiaokNWkvHfbCdxGjWcvZ88hMEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人技术蓬勃发展的时代浪潮中，ROS宛如一座灯塔，为全球机器人开发者照亮前行的道路。备受瞩目的ROSCon China 2025正紧锣密鼓地筹备着，一场ROS的顶级盛会即将拉开帷幕！现在，门票销售</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608554&amp;idx=2&amp;sn=931ac33490c92a08400799b050419cc0&amp;chksm=fa3369e5a72dc2e8aa19e44acb158d82da083c3db0bd449ffda6610ae1cd91864ee5979ed357&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 14 Jul 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[C++中使用Python库的详细指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztTn5cHQNBzcz26GnTw3VVAp3ncBhp9qmkBoicFDia5d91kEiarjXYMszQFSSEIEXDhuqVtUH17ZQfPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 引言C++是一种高性能的编程语言，广泛应用于系统软件、游戏开发和高性能计算等领域。相比之下，Python因其简洁易用而受到广泛欢迎，尤其是在数据科学、机器学习和快速原型开发方面。在许多应用中，开</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608430&amp;idx=1&amp;sn=94c7c3648df0faa6348fd4197af5205a&amp;chksm=fa00b4873d4c23dadc9ccefa1f0ab2b7cc34920ff085402ce50b0e1e665eb07a191a48b2190d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 13 Jul 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[墙材码垛机器人目标检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztTn5cHQNBzcz26GnTw3VVAbhUzXthKod1YB28OxqR2kTUjsicBAytwSVAnQ2MguOk4dUiaqw8oNyJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：前段时间，博主在视觉方向上的目标检测下了不少功夫，最近在一个墙材码垛机器人研究的项目上，博主主要负责视觉部分，这里终于有时间总结一下了。正文开始：在实际应用中，我遇到了一些技术难题。首先，由于墙</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608423&amp;idx=1&amp;sn=fd29a9ecdc28d6fcf4920c3f8605272a&amp;chksm=fa90c3aecc38bbd1995eacd0179435f2bb07e542d5b96b91e868b23cefe52afe7c99db283d69&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 12 Jul 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【Pytorch FAQ】中view、reshape、permute和resize别用混了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsB318MSeR3JHuHruJ2TJX55MeTtb9l2jEWNxAwRJoN3nicN671lG0YLNxm0whdwGEfsicVQPOcn3yA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在PyTorch深度学习开发中，高效操作张量形状是核心技能。本文深入解析view、reshape、permute和resize四大操作，涵盖其底层机制、使用场景和性能差异，助你掌握张量变形的精髓。</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608291&amp;idx=1&amp;sn=dab41673430fa511513078e88f91560e&amp;chksm=fac83901e76af06a5d5d9f5e45750b936eac831a3efbaaf7081ca1841bfac917ba1cd8c07115&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Jul 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROSCon China 2025重磅回归！大会门票正式开售！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztx2PHsiacCpibNNKLdLn4Rl2T6IAqibdWrPwtNtSllqOrxZON29adsiaokNWkvHfbCdxGjWcvZ88hMEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人技术蓬勃发展的时代浪潮中，ROS宛如一座灯塔，为全球机器人开发者照亮前行的道路。备受瞩目的ROSCon China 2025正紧锣密鼓地筹备着，一场ROS的顶级盛会即将拉开帷幕！现在，门票销售</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608501&amp;idx=1&amp;sn=8f542647ec2044b50bf50a2697f33452&amp;chksm=fac3445c59f3e6a1bcd7d5fa099676e0d1c5300d46085d6ab08dd88b0a87d1c9edbc3ca2301e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Jul 2025 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AAES2025丨第三届安富利汽车生态圈峰会即将启幕，探索AI时代汽车变革的无限可能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs2Nt69aC8RhE5HbX7y9EbENdvXBKUeE9Z7icbyvNv5nWzYu0I1yoRQbDialMMmCibtUDjEFdDEXgG7g/300?wxtype=jpeg&amp;wxfrom=0"/><p>引擎轰鸣，汇入数字的洪流，中国汽车产业正经历从“制造高地”向“技术+生态”双擎驱动的历史性跃迁 —— 这场变革不仅是动力系统的迭代，更是产业底层逻辑的重构。在此背景下，以“智行未来·AI时代的汽车生态</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608501&amp;idx=2&amp;sn=f7861223f79bdb1769974c918d2ee464&amp;chksm=fa186c620374397a74eebced5e49372536b50416d5c618089cae2863994b72dd45881415a69c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Jul 2025 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[竞赛地点敲定！第二十届全国大学生智能汽车竞赛——地瓜机器人智慧医疗挑战赛]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztTn5cHQNBzcz26GnTw3VVAuPjPXk1gDJkxcgXMPmnY87jh5NHUC3a6fh67yA08qO3qRRupywYm7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>各参赛高校：  2025年第二十届全国大学生智能汽车竞赛——地瓜机器人创意组智慧医疗赛项，五大赛区预选赛及全国总决赛（以下简称 “竞赛”）将于2025年8月4-7号在浙江省嘉兴南湖学院举办 。主办单位</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608345&amp;idx=1&amp;sn=5527bde79ea413fb1bc62bddc228c0f8&amp;chksm=fa40cc2420a6c05a68249a06864cbc59c569f08baf69eea9c38d6a1c54234875a2b1eb1858a6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Jul 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今晚19：00直播| 当智能车遇上AI大模型：从竞赛技术到产业应用的破界对话]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztTn5cHQNBzcz26GnTw3VVAVADIkOF4FpU8FwXwtUJK0vzvIR70YX8BLW88TXY0Qib33fCbX9yFoKQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>🚀智能车与AI大模型的巅峰碰撞，你准备好了吗？当“智能车”撞上“大模型”——谁会接管方向盘？技术人的终极想象，一场现实版的“钢铁侠训练营”，马上开演！当智能车驶入AI大模型的语义宇宙，是竞赛中的算法对</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608345&amp;idx=2&amp;sn=b2f1c599f1d401363094706dc497dd98&amp;chksm=fa237050a56c99d699ea869b2181689927693e1218e4e2b6e3d312c00f30f4965cf6a08853c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Jul 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从零开始训练YOLOv11]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsB318MSeR3JHuHruJ2TJX5vUMJ4vZ4mu4pBMM2Jvyr7CUWwaSa1e08icTsULd9PKWYlibcxunW7jXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：博主之前搞过的都是YOLOv5和YOLOv8，前段时间，导师有个横向项目，让我用YOLOv11做一个简单的分类项目，这里博主也将自己的这个横向项目带给大家，有兴趣的小伙伴可以按照教程一步步地操作</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247608175&amp;idx=1&amp;sn=44e87f434c4b9a035cfebe78d6b4658d&amp;chksm=fada391e2798f396ff574091084c0507700c68b95ebde1a9adf1d9fc17ebe2a0718d29579945&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Jul 2025 09:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
