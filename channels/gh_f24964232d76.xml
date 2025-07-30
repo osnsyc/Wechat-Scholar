@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[一个Dispatch Dtype引起的fp8 quant kernel性能问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u0aDo0apFPsTddbVHOibPhVDR7IoDuUlmy0773v9tPveJf8oItYjm6mkEDkzP3D18r2fE8dtP0teQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>简单记录一下最近SGLang社区在sgl-kernel中解决的一个错误使用c10::Float8_e4m3fn数据类型导致的一系列fp8 quant kernel性能问题。相关的PR见：https:/</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528627&amp;idx=1&amp;sn=32d83b6d9f719d63a9fd6ec6556fbb0c&amp;chksm=9e43b2971926ebab01c93d8377c3214cdeeead25df03f6f13637c9cd23e02c957e3c91782f16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Jul 2025 06:46:10 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[全能高手&amp;科学明星，上海AI实验室开源发布『书生』科学多模态大模型Intern-S1 | WAIC 2025]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Oibf4sJrpsntBHblz2XfTqgAIpsicaemzltKxK5h5tIYiaCRp404klzIeqbzmH9dvYBeE9QTvkvG4t6giciagwTRmmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月26日，2025世界人工智能大会（WAIC 2025）正式开幕。在当天下午举行的科学前沿全体会议上，上海人工智能实验室（上海AI实验室）发布并开源『书生』科学多模态大模型Intern-S1。在科学</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528592&amp;idx=1&amp;sn=0144a8428d3fc95437ca5a22a4f86f51&amp;chksm=9ee1819661bfca2c3a623ae28e78a9d4217021edee7ff26f1c9407d102439b6cfb716f3611f2&amp;scene=0&amp;xtrack=1#rd</link>
