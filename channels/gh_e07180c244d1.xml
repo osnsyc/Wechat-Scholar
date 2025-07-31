@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[ForCenNet：ICCV 2025 | 抓住前景“C位”，文档图像校正迎来新SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTu7JwFEicXiaD5UInuOFueEyxEU4XsToxrw8bp9CxlkXWr6Rkzcd08wAm0j9OmEfGmvvY4C12ialRt6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>用手机拍摄文档时，由于角度和纸张弯曲，图像往往会产生烦人的几何畸变，严重影响后续的文字识别（OCR）效果。现有的文档图像校正方法致力于“拉平”这些图像，但常常忽略了一个核心要素：文档的前景内容（如文本</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631511&amp;idx=1&amp;sn=b57ec2670e93f5a1324ca10f0e377d42&amp;chksm=975c8581e907d5342398c709748f44abed8eb5a6de8c40d5b79a07b64353ea4c7db7745451af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Jul 2025 10:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICCV 2025 | TVT：迁移VAE训练，让Stable Diffusion超分模型看清“精细结构”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTu7JwFEicXiaD5UInuOFueEyxjW1ryoRqtdUWsic93Ya9RlkA7gg01feUMvIHtsriaLL07hTOQaGH288A/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于Stable Diffusion（SD）的图像超分辨率（Super-resolution）技术已取得惊人效果，但它们普遍存在一个痛点：由于SD模型内置的VAE（变分自编码器）采用了高达8倍的激进下</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631511&amp;idx=2&amp;sn=d4c181cc51db520633260e9e046d8ff2&amp;chksm=977b0bc7927706ddb33d4529df309c98bf7480a8e52363371daf3ff1727350e437e5de9521d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Jul 2025 10:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICCV 2025 Highlight | 清华等提出CoopTrack：“端到端协同跟踪”新范式，开启自动驾驶感知新篇章]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuzCJ1ibNFjUcvGhlJP2ucbtEBSicTq9R2C2Q90DIahmlH3fX5odtkT1ibndK7NB9qWbGgZb3m61bibLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享一篇被计算机视觉顶级会议 ICCV 2025 评为 Highlight 的重磅论文——《CoopTrack: Exploring End-to-End Learning for Efficie</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631472&amp;idx=1&amp;sn=fbbce2db04cd517ddfeac3b373b833cd&amp;chksm=97e9bdb783a82ccec309e4706125f817cac9a3372f397ca4941907dc1fef89b06397ae8280a8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -116,24 +128,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsMhR4rrnwFsRhyB6RGvHcOn8vicsww9uEqZbNUyZynuHKf3TOtqETZRLbhEicBOCicmKFGFicSgFRBuQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在视频检索领域，一个关键且普遍的挑战是局部相关视频检索（Partially Relevant Video Retrieval, PRVR）：即根据一段只描述了部分内容的文本，从一段完整的、未裁剪的视频</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631142&amp;idx=1&amp;sn=8f4391e22fa605fab92994e690a9880a&amp;chksm=975392ff27b2c43e7545aa3a1496106aceb5467e6d78271c0033e937b8a1a6212883fa628f65&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 24 Jul 2025 12:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[上海交大、上海AI Lab 等提出SeC：告别像素级匹配，用“概念”理解和分割视频目标]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsbpo2XhrY4M7omThCY9asAkIKZficBMZwtt9OapsOqva0a7XV9HN41yRb3UOuKN5g93qGjRcBoKXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍的论文是《SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction》，该研究直</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631085&amp;idx=1&amp;sn=81e4e6dd0fcc98495df5b8963f97db32&amp;chksm=97fcc303bda501860a3e05727a56d51e8197de91caec09b5f565fa587677c3e769c0d761896d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Jul 2025 09:34:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PW-FNet：告别复杂自注意力，小波与傅里叶变换打造轻快强效的图像恢复新基线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsbpo2XhrY4M7omThCY9asATvIM8xCMUURyPiaXiajicibdhoFEts6lwjA5VvV4MTpFY9CGqhS6hN9TjQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在图像处理领域，如何让饱受风霜雨雪摧残的图片“重焕新生”，一直是学界和业界关注的焦点。近年来，基于Transformer的方法在图像恢复任务上大放异彩，但其庞大复杂的模型结构和高昂的计算成本，使其在需</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631085&amp;idx=2&amp;sn=d085beb86006f5981c2febdef12e7903&amp;chksm=972ef580df2dd39e13e1016f02c82804ee15c96ca30e2f8ca242ec69e7d73e2393b1c131254b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Jul 2025 09:34:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | 虚拟试穿 | 中国海洋大学等提出OmniVTON：无需训练、跨越所有场景的通用模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsbpo2XhrY4M7omThCY9asAtp4xqMt5sfZjfV7djiaP6fQf7MBgzgv0m1M9dHTnQYqKc3PqafvT5ibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天，一篇名为 OmniVTON 的论文在技术圈引起了广泛关注。该研究提出了**首个无需训练的通用虚拟试穿（VTON）框架，巧妙地解耦了服装和姿态的约束，成功统一了“棚拍”（in-shop）和“街拍”</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631054&amp;idx=1&amp;sn=3ec60d69945c929cec952f558ad3b30d&amp;chksm=97eec0c0e2bb358a6ac2d86c93939a440c864bccb2d1a0681d98bf41e99c8bbe0394a3200e9a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Jul 2025 01:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
