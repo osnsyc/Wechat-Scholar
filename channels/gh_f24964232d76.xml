@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[NVIDIA GPU Prefetch行为分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3twPxAjPp2K5ZwX0qgJVG0PCtiba8CUGqNxK7jsFVBfgKiaQHicbkHyhZGwR4Gic51XNiar3d0U4lcmDTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/16266665042编辑丨GiantPandaLLM背景近期，工作内容上的一些变动促使我更加关注一些算子层面的</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528628&amp;idx=1&amp;sn=712bd358e99b14657c0178aa844a0a8d&amp;chksm=9e1d4145d4e7c9170ec33caeeaae1367b68659b9157638fd8a2731eda8ce4c34761a3e281c54&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 31 Jul 2025 14:29:32 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个Dispatch Dtype引起的fp8 quant kernel性能问题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u0aDo0apFPsTddbVHOibPhVDR7IoDuUlmy0773v9tPveJf8oItYjm6mkEDkzP3D18r2fE8dtP0teQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>简单记录一下最近SGLang社区在sgl-kernel中解决的一个错误使用c10::Float8_e4m3fn数据类型导致的一系列fp8 quant kernel性能问题。相关的PR见：https:/</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528627&amp;idx=1&amp;sn=32d83b6d9f719d63a9fd6ec6556fbb0c&amp;chksm=9e43b2971926ebab01c93d8377c3214cdeeead25df03f6f13637c9cd23e02c957e3c91782f16&amp;scene=0&amp;xtrack=1#rd</link>
