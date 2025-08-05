@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[超越人类标注，Meta提出CoT-Self-Instruct：如何用"推理式自进化"重塑LLM训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaUvgGdbicAflyj4anQ0CqSBjIkfmRCOWS53uZjYTbF7sib8xPJadg464YI8wnIX9tKKoIDMqAOVnCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLM）的爆发式发展暴露了核心矛盾：模型越强大，越需要海量高质量训练数据。传统人工标注数据面临三重困境：成本陷阱：专业领域标注（如数学证明）需专家参与，成本指数级增长质量瓶颈：人类标注存在</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541995&amp;idx=1&amp;sn=b8762ed640aecb715834d0dee6a1ec19&amp;chksm=ea495c72602358b93af5b89a5b6fd77df36435882ee57f7c3a99d40db3de84806d88f666dcc8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 Aug 2025 12:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LLM-based Agent的代码生成综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaUvgGdbicAflyj4anQ0CqSBiaoUzFKr1g94vHvI6nbVjnbFuo2F6JcWatuyVwcRCBOibR5HnlMRJTGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，未来编写软件不再需要逐行敲代码，而是像对一位超级智能的“数字员工”描述需求，它就能自动分析、设计、编码、测试，最终交付可运行的软件。这并非科幻，而是“基于大语言模型（LLM）的代码生成代理”</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541995&amp;idx=2&amp;sn=d07d00c84784a98074deee63b43ce420&amp;chksm=ea0faaf5f25f0fcf64f8d7751626b2109601ecc58f6fad953efe4230595d132d8a3fafabcaf2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 Aug 2025 12:05:33 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[语言反思>强化学习：伯克利新架构碾压传统RL]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagIDIKeko9hPFSojP2opr8h3jnF3ElShdcINRhaDWM57WgOawSgCibpZyoRhWxfXOoKZCB95BwtFag/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）的下游任务优化长期依赖强化学习（如GRPO算法），但存在万级计算成本高企的痛点。论文：GEPA: Reflective Prompt Evolution Can Outperfo</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541951&amp;idx=1&amp;sn=b7c889a9a52dfbe10034590b9b5af695&amp;chksm=ea5ea22282d612293039a930445cec9659175b008c16f3339c599ff56befcda8a69f59726ac8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -98,36 +110,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagiaELmhLynR9wiahxxWSq4HotuKyeEWEGibiawHGVibqbmPe9qIRVxe5aibPgerj2iaF7v2JDwicheBfYQRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关于DeepSeek我们相信大模型是科研 + 工程 + 组织的优雅艺术。我们正在寻找并长期培养优秀的 AI 人才，与我们一起进行高水平的科学研究和工程实践。如果你对人工智能有浓厚的兴趣和扎实的基础，如</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541726&amp;idx=1&amp;sn=7603ba0bd77b4c2e972b679a4fbe73b1&amp;chksm=ea9794aac139ee8f255f13e28dbacd4183ebbc14400c35d0b481770994ab5211ed9c16d2f996&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 29 Jul 2025 04:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[对噢！为什么LMs就不能直接输出答案+confidence呢？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaTIDr5ysyqwicxLmemAalcxlmey01LTDthVibbUJjKdtGa7EmuIx5KvEulXIrEmciaDyIbicGLvpmRHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前语言模型（LM）通过强化学习（RL）生成推理链（Chain-of-Thought）已在复杂问答任务中取得突破。然而，主流方法依赖二元奖励函数（答案正确得1分，错误得0分），这导致模型为追求高分而盲</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541712&amp;idx=1&amp;sn=fb5fb4f2d89b8d686c2880c3608158a0&amp;chksm=ea11f7db8355322313f96861d40bc1762c67947cfba9300272f0a5bef8ac917bcb92b1ffade7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Jul 2025 06:58:15 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek-GRPO重要性权重设计错误？详解Qwen3新强化学习算法GSPO]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaTIDr5ysyqwicxLmemAalcxp76Gy3YwE2D09PvJzDhpAAR7gH5GEYDglJmO5fkxQw6zVcrR1zqVoQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：绊缘https://zhuanlan.zhihu.com/p/1932829167801574272编辑：青稞AI   1. 引言在更大的语言模型上使用 GRPO 时，会出现训练不稳定的情况[1</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541712&amp;idx=2&amp;sn=472deea7e6b14a5bad05dd78227332ae&amp;chksm=ea18d405af9df67adea0bdd3060e6059fa5b24d011bf69c20bf90c24f8686916d3c51e5cd03d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Jul 2025 06:58:15 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Test-Time中的逆Scaling law！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaTIDr5ysyqwicxLmemAalcxMl5FtibicusD6jjEUpLD1YibaPrhnEUL1ib94Z5egXUAicZ1QuBly7DU3yw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在AI领域，扩大模型规模（参数数量）和测试时计算量（推理步数）被视为提升性能的核心路径。经典研究（如Chain of Thought）表明：让模型“多思考几步”能显著提高复杂任务的表现。然而，这篇由爱</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541712&amp;idx=3&amp;sn=d2b1a7c69749a809b9a0f9d0e6e3a404&amp;chksm=eab89eceeadfb652fd5ec2e66bca86f7e15e0a77b50f3540cf0a24a056e72f308e7ba6c3a47b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Jul 2025 06:58:15 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AAAI'26、NIPS'25交流群快进~  若干核心问题都在这里面~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaTIDr5ysyqwicxLmemAalcxTkKuWia8GaqcCFAj8FicAY5EBb99Wjw4g8GaeEhGwwNUuvfTKfrlGHag/300?wxtype=jpeg&amp;wxfrom=0"/><p>赶紧进，超过200人就不能扫码进啦~   进不去的看文末~进不去的，扫码，备注AAAI2026即可~</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541712&amp;idx=4&amp;sn=7b40f811030c7e6c954bc7790f83973e&amp;chksm=ea51a49abff96a821f186c85cec69f6c2f3af9a4de31527c039e53680b12f2290a969c2f166e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Jul 2025 06:58:15 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AAAI'26摘要提交后还能改吗？ -- 昨天的群已满，新群建立！没进的快~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajKFZflJADibwwwvORFXS86Esy3avPzcZDsxGyq8K0WmkeJWWzeJ9icpOwkNUXCjYYiakT1cK1ps0vGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>赶紧进，超过200人就不能扫码进啦~   进不去的看文末~进不去的，扫码，备注AAAI2026即可~</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541668&amp;idx=1&amp;sn=b32fcb5d19a3c3cbb0f15e8c0827e1de&amp;chksm=ea0fdb1beb3589c1e18abe060bc88c26ec96b31c980c78b5851bf115d1095901a0ca2ce546ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Jul 2025 10:02:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

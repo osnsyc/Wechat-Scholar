@@ -10,6 +10,24 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[ICCV 2025 | 高丽大学等提出“表示偏移”，统一Token压缩与FlashAttention]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvENeTlr1zWSCU042QpEsN59yDe03QibrmWBc06SefJEFibibYIOZpl2oqNJ4qj8m7icf4nfP7v15l5HQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer模型已成为AI领域的绝对主力，但其核心的自注意力（self-attention）机制存在一个“弱点”：计算和内存开销会随着输入序列（token数量）的增长而呈二次方爆炸。为了给T</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631706&amp;idx=1&amp;sn=ffec15e3ef8b68e74019c52855d94125&amp;chksm=978a763582de17b787cf791becafd408f28def97602478c13491e2f2201c0a04b2bd684f4518&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 Aug 2025 23:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[西安交大、OPPO等提出 D3，用二阶物理特征“揪出”Sora类AI视频，无需训练！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvENeTlr1zWSCU042QpEsN5Rf6YcVTO65zAic5Gb4wOGO0F2F8nWxEGBkicbgohibktzdeqbCiaL9z5Wg/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着Sora等视频生成技术的飞速发展，人类正进入一个真假难辨的时代。高保真AI视频的泛滥引发了公众对虚假信息传播的深切担忧。然而，现有的检测方法往往难以捕捉到AI视频在时间维度上的微小破绽。为了应对这</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631692&amp;idx=1&amp;sn=904a4fc2b06d41a713ec08051c0d2c09&amp;chksm=97d76a07f567c23dc35f45c450fcd8368b598c325ca212c113ff351932e9a72c3007d5b5c90b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 Aug 2025 12:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[万物皆可指代分割：多模态指代分割技术大综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvENeTlr1zWSCU042QpEsN5JjR2j1xYKMkJhArAa9s8Kozg8PCdiaONTlRRDnmibxykO0XyRE2LIwWA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文将介绍一篇来自复旦大学、上海财经大学和字节跳动的最新综述论文《Multimodal Referring Segmentation: A Survey》。该研究全面系统地梳理了多模态指代分割（Mul</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631692&amp;idx=2&amp;sn=dbfdf069078fcd992357b25580e1e61f&amp;chksm=971ecc99a6095e6606dbab92cc2376441c9d1eba0760257126497ba99d2b93fe64b23488b4d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 Aug 2025 12:06:12 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2025下半年了，来一篇"通用目标跟踪"最新综述]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTs7EdoFVULZQZK40W8X7Lic2Ij7M7ib9QUFT2tfJOz018Sc4YhKkjic6zRGq3FbIpPPOXqEL03Z97wJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文分享一篇关于通用目标跟踪（Generic Object Tracking, GOT）的最新综述性论文。该论文系统性地梳理了从经典到前沿的跟踪算法，并创新性地提出了一个统一的分类法，将主流跟踪器划分</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631642&amp;idx=1&amp;sn=c390a273e171b422dcaad168d8403bd3&amp;chksm=9724644f88dafbf1c13814a32f61f38cec6754c9122eae7b0f50f31f83e2dd8d386c02c15278&amp;scene=0&amp;xtrack=1#rd</link>
@@ -98,36 +116,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsOeicq7VYupmzibfHEYsvPPJBwMbBS0AuJ9jiamgro3Vticz1bqKKoiab6F5nWnibKZowxQJRgQMLjmgtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在自动驾驶和机器人技术中，精确感知周围环境是实现安全可靠运行的基石。其中，3D目标检测，即在三维空间中识别并定位物体（如车辆、行人），是核心挑战之一。为了提升检测精度，融合激光雷达（LiDAR）提供的</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631402&amp;idx=1&amp;sn=24188f29ad6865dfd026153f995fe603&amp;chksm=97cd37ff88b0d6eef31e7ab91e4efe781bbbf2d6cfc56b3128857519cd325b7e3816a8422bd0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 28 Jul 2025 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | 北大提出UPP：告别繁琐预处理，用“提示”让点云分析更鲁棒]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsOeicq7VYupmzibfHEYsvPPJXyp9sPLbFuYibFdqMKLkiafwlWibrc2Oa6SGXGjNfXPkEuheozJicdePSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点云作为3D世界的数字基石，其分析与理解是自动驾驶、机器人和AR/VR等领域的关键技术。尽管预训练模型在点云分析任务上取得了巨大成功，但它们有一个共同的“软肋”：在面对真实世界中常见的低质量点云（即充</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631382&amp;idx=1&amp;sn=7e7336feda03a637f328ea219a946922&amp;chksm=9722246b50fd08e72e6c4ca262d2d91be65b53206bd664ea55595a4e4766856f310e92efd270&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Jul 2025 10:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中科院等提出RealisVSR：细节为王，用扩散模型挑战真实世界4K视频超分]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsOeicq7VYupmzibfHEYsvPPJQceMhAIU2rRjMbUPfsx2iaf7vqiasHic4dNmzsSUiaXGbSpRRrnB1BFEHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着高清、超高清视频内容的普及，视频超分辨率（Video Super-Resolution, VSR）技术变得越来越重要。它旨在将低分辨率视频提升至高分辨率，同时恢复丢失的细节并保持时间上的一致性。近</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631369&amp;idx=1&amp;sn=d17deccfb32ee11726ac4fb8201623e0&amp;chksm=97e0efa13445410b0c8b8bd101407d844c9923346ea6cfe00f949d5cc0d747c3944ca43d39e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Jul 2025 08:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | 浙大等提出 SGCDet：自适应3D体素构建，重新定义多视图室内3D检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvRp1kTauGNq8qTicibt7gRbIDzVsKodMVicuC1oDWrZeEYfxJiblslicuYBhrZdr4JSgT6yhgYPicia4ia8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>多视图室内3D目标检测是实现场景理解、增强现实和机器人导航的关键技术。然而，如何高效且准确地将多张2D图像信息“提升”到3D空间，一直是该领域的瓶颈。传统方法通常采用固定的投影方式构建3D体素（Vox</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631344&amp;idx=1&amp;sn=f46a8fa3d8fae0adba94e48f84e4692a&amp;chksm=9793e48f2b29a9948b65bffd2b94da143a813d59ebaa1d155afa87f43d06dfa814307b7b3408&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Jul 2025 22:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | “看一个，认所有”：OP-SAM让SAM模型仅凭一张标注，即可实现全自动息肉分割]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvRp1kTauGNq8qTicibt7gRbIxGwI5l2Urt8WhdDEWs6sJSnKHxTlleB5gRWiaYPLJqy19Xn6CqEbtJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在结直肠癌的早期筛查中，准确、高效地分割出肠道内的息肉至关重要。然而，传统的全监督深度学习方法不仅需要大量耗时耗力的精细标注数据，而且在面对形态各异的息肉和不同设备带来的领域漂移时，性能往往大打折扣。</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631330&amp;idx=1&amp;sn=e084ee7d24f86a1c059a595df10c7ba1&amp;chksm=97aca1a36da5b984b1e662525237b4ac13dfbc2fc1a10f4fbafaf0ab5fe2fbb70a41e2795181&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Jul 2025 14:23:15 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | 告别数据依赖：专为目标检测设计的任务特定零样本量化感知训练]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsVG3khuCYwI1UrJK2TxTfgPPBxjjFJV89IH7Gq9YFTeSW8icVpKpjMy0icVBKnMgDic8YVia4Wfmt3zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文解读一篇来自佐治亚理工学院和清华大学的研究论文《Task-Specific Zero-shot Quantization-Aware Training for Object Detection》。</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631273&amp;idx=1&amp;sn=229a389c390d2317f63cdcdeca9f4acd&amp;chksm=9777c91a3e68628cb0c3387387a5d997801e4ecdd650b26f338980c034220234ab13a7c59459&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 26 Jul 2025 15:12:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
