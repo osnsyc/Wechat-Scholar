@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[KnapFormer：为DiT训练提速2-3倍，Adobe提出在线负载均衡器新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsfVdAcI7BMxbIHSNb0R7aGoEiaFBcE5ZUkvmzOFsR06GluJGxwpYJdic0Jd9u7GZshjeqIhJiaTMI7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇解读来自Adobe的研究论文《KnapFormer: An Online Load Balancer for Efficient Diffusion Transformers Training》。</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632321&amp;idx=1&amp;sn=03c415eca63c08565f25d1f344f950ab&amp;chksm=973671c0e2cb16b34f850bcadc32fedd69a07819b48bf1148218b6c571085ea3b4514eb87298&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 Aug 2025 23:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ACMMM 2025 | TaAM-CPT：南理工提出“文本即万物”，仅用文本数据实现多模态零样本分类]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsfVdAcI7BMxbIHSNb0R7aGhv3OFvxMV86jRJeldYVmKxQ4rLWCgI0Coz2daQUARicI2Ep3icJOhXTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>多模态学习的目标是让AI能够像人一样，同时理解图像、视频、音频、文本等多种信息。然而，当前的主流方法（如CLIP）都建立在一个昂贵的基础上：需要海量的、成对的“模态-文本”标注数据（例如，亿级的“图像</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632295&amp;idx=1&amp;sn=4c1f3a45f7ffcb120a1cb115a6687da0&amp;chksm=978a1e88dff8b188b7711d8a4e7d3472cb9143ec580dc0ff5d0dcd37518e1fe09366feae76c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 Aug 2025 10:01:00 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVPR 2025 | DPC：用于微调视觉-语言模型的双提示协作]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsfVdAcI7BMxbIHSNb0R7aGM95dRLAjZlic7cZ5Tr3Eo4I9TBhvfvaTE4ib85dmYZIXpOhDNuibLPBAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：DPC: Dual-Prompt Collaboration for Tuning Vision-Language Modelsarxiv 链接：https://arxiv.org/abs/</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632279&amp;idx=1&amp;sn=bdcc8756baa5f52c96da2dd611a17601&amp;chksm=97727db8934c3482baafd2a738a27f732d09ccbae53cdbc372ed388bc50a4eefa7f8b5060c52&amp;scene=0&amp;xtrack=1#rd</link>
@@ -146,24 +158,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsrciamnRdQm2dib8DwzbWvAaVicfspeCJ9cKu7mViakVoDZuNBMW9wPicH1vwLicTXPS3tiaaWwEX90t12Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Qwen Team团队发布了其Qwen系列在图像生成领域的最新力作——Qwen-Image。这份技术报告详细介绍了一款在复杂文本渲染和精准图像编辑方面取得显著突破的基础模型。Qwen-Image</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631764&amp;idx=2&amp;sn=edebb70fc95668a53472f521cbd13642&amp;chksm=97126a4e295a023823267474d047cefecc5d7026f9b290d6ab6e56bc802a6b182e9956efccf8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 05 Aug 2025 14:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | 高丽大学等提出“表示偏移”，统一Token压缩与FlashAttention]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvENeTlr1zWSCU042QpEsN59yDe03QibrmWBc06SefJEFibibYIOZpl2oqNJ4qj8m7icf4nfP7v15l5HQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer模型已成为AI领域的绝对主力，但其核心的自注意力（self-attention）机制存在一个“弱点”：计算和内存开销会随着输入序列（token数量）的增长而呈二次方爆炸。为了给T</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631706&amp;idx=1&amp;sn=ffec15e3ef8b68e74019c52855d94125&amp;chksm=978a763582de17b787cf791becafd408f28def97602478c13491e2f2201c0a04b2bd684f4518&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 Aug 2025 23:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[西安交大、OPPO等提出 D3，用二阶物理特征“揪出”Sora类AI视频，无需训练！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvENeTlr1zWSCU042QpEsN5Rf6YcVTO65zAic5Gb4wOGO0F2F8nWxEGBkicbgohibktzdeqbCiaL9z5Wg/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着Sora等视频生成技术的飞速发展，人类正进入一个真假难辨的时代。高保真AI视频的泛滥引发了公众对虚假信息传播的深切担忧。然而，现有的检测方法往往难以捕捉到AI视频在时间维度上的微小破绽。为了应对这</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631692&amp;idx=1&amp;sn=904a4fc2b06d41a713ec08051c0d2c09&amp;chksm=97d76a07f567c23dc35f45c450fcd8368b598c325ca212c113ff351932e9a72c3007d5b5c90b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 Aug 2025 12:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万物皆可指代分割：多模态指代分割技术大综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvENeTlr1zWSCU042QpEsN5JjR2j1xYKMkJhArAa9s8Kozg8PCdiaONTlRRDnmibxykO0XyRE2LIwWA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文将介绍一篇来自复旦大学、上海财经大学和字节跳动的最新综述论文《Multimodal Referring Segmentation: A Survey》。该研究全面系统地梳理了多模态指代分割（Mul</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247631692&amp;idx=2&amp;sn=dbfdf069078fcd992357b25580e1e61f&amp;chksm=971ecc99a6095e6606dbab92cc2376441c9d1eba0760257126497ba99d2b93fe64b23488b4d7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 Aug 2025 12:06:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
