@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[该工作引来马斯克回复，让Gork破防：CoT是真正的推理，还是训练数据的统计插值？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagaKGVGjOTFmdmyl8icBaJH2HMPzIUSDay2BopHrvU6Nj9ibX6LuaHDggcgQUfnKGyiaBzF4bw9uoaXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）的思维链（Chain-of-Thought, CoT）推理能力被视为突破性进展，它通过生成类人的逐步推理路径显著提升复杂任务性能。然而，本文揭示了一个颠覆性观点：CoT可能只是</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542164&amp;idx=1&amp;sn=394affa0e8e4ec88373d10bd789d1d42&amp;chksm=ea71e193daf7abda103e6e5c6e4609976358217359a7f8dcef090d091a5255213ddbe1cd5e90&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 Aug 2025 06:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Make SFT Great Again！从SFT到DFT：一权重之差，泛化之跃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagaKGVGjOTFmdmyl8icBaJH2nuV7OzuRkDykicIkTZ1iadFIhn3meKJ6K2A89pNHBaCz9Xw4OT4Fu9RA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）的监督微调（SFT）因其简单高效成为主流技术，尤其在缺乏负样本或奖励信号的场景中不可或缺。然而，其泛化能力长期弱于强化学习（RL），后者依赖奖励信号探索更优策略，但计算成本高昂且</p> ]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542164&amp;idx=2&amp;sn=7ce88108a5549e9d0e14d075bc6a10dd&amp;chksm=eaa17c8e32646febf9c00df9b584f8647aea17e2fe0d9cef205ba7ad9223f0cbf1fd05550384&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 Aug 2025 06:42:25 +0000</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【非官方】NLPCC2025线下交流群]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajicJlRr5ibwdeaLdtqxBNPibYj0oFldW8EqtXyQKx6s8wbYLssJvfodp091SFJ6b4UN02sFRtOBhtkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>从今天开始的NLPCC2025在乌鲁木齐举办，持续3天，有小伙伴在线下的可以进群交流下，大家互相认识，互相学习，互通有无。（非诚勿扰）备注：昵称-学校/公司-方向/会议(eg.ACL)，进入技术/投稿</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542129&amp;idx=1&amp;sn=1f7ea745e4a69ef9e407407e838c3686&amp;chksm=ea78709d9f09be8cfe60739202dc4ded6099e3f0c970a1106da898149b80f79a34dc2892f1ca&amp;scene=0&amp;xtrack=1#rd</link>
@@ -44,90 +56,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaodCokNbZaMII5yGicmAA5Xgp6Crqe2Uh4fw8dEIGxbgtdDRnzpIoEROpwp7BexwedGMzwLjhSmhQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（如ChatGPT）通过"助手"角色与用户交互，其设计初衷是保持有用、无害、诚实。但在实际应用中，模型可能出现危险行为偏移：微软Bing聊天机器人曾威胁用户，xAI的Grok甚至称赞希特勒。</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542028&amp;idx=2&amp;sn=e96fcc66108e94a70f083f5870383585&amp;chksm=eafea9c8612175f78921ecb6eebae00015205ac49c749036e2f8e8e4f07d4b7bb5383cf96d5b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 05 Aug 2025 06:47:33 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超越人类标注，Meta提出CoT-Self-Instruct：如何用"推理式自进化"重塑LLM训练]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaUvgGdbicAflyj4anQ0CqSBjIkfmRCOWS53uZjYTbF7sib8xPJadg464YI8wnIX9tKKoIDMqAOVnCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLM）的爆发式发展暴露了核心矛盾：模型越强大，越需要海量高质量训练数据。传统人工标注数据面临三重困境：成本陷阱：专业领域标注（如数学证明）需专家参与，成本指数级增长质量瓶颈：人类标注存在</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541995&amp;idx=1&amp;sn=b8762ed640aecb715834d0dee6a1ec19&amp;chksm=ea495c72602358b93af5b89a5b6fd77df36435882ee57f7c3a99d40db3de84806d88f666dcc8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 Aug 2025 12:05:33 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LLM-based Agent的代码生成综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaUvgGdbicAflyj4anQ0CqSBiaoUzFKr1g94vHvI6nbVjnbFuo2F6JcWatuyVwcRCBOibR5HnlMRJTGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，未来编写软件不再需要逐行敲代码，而是像对一位超级智能的“数字员工”描述需求，它就能自动分析、设计、编码、测试，最终交付可运行的软件。这并非科幻，而是“基于大语言模型（LLM）的代码生成代理”</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541995&amp;idx=2&amp;sn=d07d00c84784a98074deee63b43ce420&amp;chksm=ea0faaf5f25f0fcf64f8d7751626b2109601ecc58f6fad953efe4230595d132d8a3fafabcaf2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 Aug 2025 12:05:33 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[语言反思>强化学习：伯克利新架构碾压传统RL]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagIDIKeko9hPFSojP2opr8h3jnF3ElShdcINRhaDWM57WgOawSgCibpZyoRhWxfXOoKZCB95BwtFag/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）的下游任务优化长期依赖强化学习（如GRPO算法），但存在万级计算成本高企的痛点。论文：GEPA: Reflective Prompt Evolution Can Outperfo</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541951&amp;idx=1&amp;sn=b7c889a9a52dfbe10034590b9b5af695&amp;chksm=ea5ea22282d612293039a930445cec9659175b008c16f3339c599ff56befcda8a69f59726ac8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 03 Aug 2025 11:45:54 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌提出破局Self-Consistency计算瓶颈！LLM推理效率革命，推理加速不牺牲精度]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagIDIKeko9hPFSojP2opr8h4QVAyzzdbRyP5LPWrrHmY8DI3uVejQ9Meiar3xX1QjsO4ygeEmhA6EQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLM）在数学推理等复杂任务中常采用自洽性解码（Self-Consistency）：通过生成多条推理路径并投票选出高频答案提升性能。但该方法需采样数十条冗长路径，计算成本极高。与此同时，L</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541951&amp;idx=2&amp;sn=f9c96bd98c5f6d5d0e52d6f661047920&amp;chksm=ea9fc1aa5038f723c10cbf351a8132b87c3c8e7bafbdf401505ce783bf3bfa6b88e261231d7f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 03 Aug 2025 11:45:54 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 分享会报名收集啦！欢迎分享与NLP有交集的工作哈~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagIDIKeko9hPFSojP2opr8htXgz0jFXFPaR669bvng7t7uTQGktLzTjGpHvialdx9JbUhE88LIcp6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着多模态研究的深入推进，计算机视觉（CV）与自然语言处理（NLP）领域的交叉融合日益成为前沿探索的核心方向。鉴于此，NICE将在八月初举办ICCV 2025论文分享会。我们诚挚地邀请大家踊跃参与，共</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541951&amp;idx=3&amp;sn=204cbe5f0f921ee6e6c2582f47179257&amp;chksm=ea4ea574966640f176c052af07e0f2cdc06ca8021052a95904ea5bde1b5d0f93a1520fd2e987&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 03 Aug 2025 11:45:54 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[半量工具，双倍效能：ARPO革新大模型强化学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah8oqibuibrlghqm4P6Uy4u8RnSzCkdicTkCnbpEAJ7sOmbib3FJMtCavdUUBibyhZ6Zx2YSib8FJYUXU5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLM）在单轮推理任务中表现出色，但在多轮工具调用（如搜索引擎、Python解释器）场景下面临挑战：传统强化学习（RL）算法过度依赖轨迹级采样，忽视了工具调用后模型行为的不确定性剧增。这导</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541910&amp;idx=1&amp;sn=4061918d122507be2d3f4240080804a1&amp;chksm=eade0a82e21507b52bd514a14377d5a6338f7632c116db1d92ca7fd51e69a4a948cc5bbcd140&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 Aug 2025 12:06:33 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ScreenCoder：视觉-代码对齐新范式，为多模态程序合成开辟道路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah8oqibuibrlghqm4P6Uy4u8R0ALfib72cq6A3rwLtDN3Vs3KibANU8mSqgBejSdL5tbJu0RoJUoZyMxw/300?wxtype=jpeg&amp;wxfrom=0"/><p>为什么需要更好的UI转代码工具？前端开发中，将设计图转化为代码是耗时且易错的过程。现有基于文本的AI工具（如GPT-4）需冗长描述才能指定布局细节，而视觉语言模型（VLMs）虽可直接解析设计图，却常出</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541910&amp;idx=2&amp;sn=eea08998a08755a047aa959ff9a1339c&amp;chksm=ea3f4ae065e477d6b07367b82bb6d1cf4467837edf60c093f7d013c8260fd6f618f13f092318&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 Aug 2025 12:06:33 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[招聘 | 若干百万年薪的急需岗位：Agent、LLM开发、研究员和Infra等]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah8oqibuibrlghqm4P6Uy4u8RdXrpJAXSsVyNBmvFicM1UERzxmg7qjwqBbcLx2jQ1FV4S1LZZur4Vxw/300?wxtype=jpeg&amp;wxfrom=0"/><p>若干急需的高薪资岗位！都是头部企业（科技/量化）公司。Agent高级开发工程师LLM应用开发工程师机器学习研究员AI Infra 工程师邮箱aijob@fintechgl.com （备注：姓名-岗位）</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541910&amp;idx=3&amp;sn=a5f7c3fb16a01f31c2fa3f23b5b21376&amp;chksm=ea2538fd83172f273efe7da5646d61588974e1ede3011b42ea3e275a9a67cc5e0d683881eeb7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 Aug 2025 12:06:33 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[同样的示例，放在prompt的不同位置，竟会导致模型答案天差地别！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagvycRmVTb3dfCLWD2yUmYuk6MtgXDL8dteCuHgiaMHrMNPNGonW7UexB7t6Hc0wg1r55krgWTZFGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）如ChatGPT、Llama、Qwen等，拥有一种神奇的能力——上下文学习（In-Context Learning, ICL）。只需在输入提示（Prompt）中放入几个任务示例（</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541871&amp;idx=1&amp;sn=cb15910e6bb956fa4f425a0ed2374576&amp;chksm=ea32d1247879c0eae4d5414cd2dd7349f0b7e6dca1c44ee90c238ddf8486adfaf83d5eb1f797&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 01 Aug 2025 08:56:17 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让MLLM学会主动观察！视觉感知Token引爆多模态进化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagvycRmVTb3dfCLWD2yUmYurDibXbAEErg5MPddTJo1BLeZbqWZsC94blibicdRwUtcTPM8rlvrGthDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前多模态大模型（MLLM）虽能处理图文信息，但其视觉感知完全依赖预编码特征，缺乏自主控制能力。例如：无法主动聚焦图像关键区域、难以抑制文本幻觉、空间推理易出错。论文：Introducing Visu</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541871&amp;idx=2&amp;sn=a4a143f51fc1dc485da5344524cb73f1&amp;chksm=ea64b9437c364bc4ca830765beee830365195b3ea5297ea384cdcc6ef672ef739cf8c258d3fb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 01 Aug 2025 08:56:17 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 分享会报名收集啦！欢迎分享与NLP有交集的工作哈~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagvycRmVTb3dfCLWD2yUmYun6SFzGt5yR2ibnKicrET7QdSl7OcqCkldlttGSDUZZhibDRiaibz5cuEQGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着多模态研究的深入推进，计算机视觉（CV）与自然语言处理（NLP）领域的交叉融合日益成为前沿探索的核心方向。鉴于此，NICE将在八月初举办ICCV 2025论文分享会。我们诚挚地邀请大家踊跃参与，共</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541833&amp;idx=1&amp;sn=3650a209510ecec3e2f7e47e4e038aee&amp;chksm=ea8685b55d9cdefa78e3c23f26f6a6e5d4cecdbd20d8d61df4cca15bcbabf60e344efa3426c9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 01 Aug 2025 03:32:29 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI医生能看片：华为瑞金RuiPath病理大模型评测体验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia7DyZ59UYAzw2y7lFoo73ovfNiaTLwr2TRia1qt9XWzF9m6gnDPq3lWuiaSaSSx2hEHGZC8W6qybaLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言哈佛医学院Faisal Mahmood在24年的Nature Medicine上面连续发表了两篇病理基座模型UNI和CONCH, 吸引了一大波研究者来从事病理基座模型的研究范式。在期刊，大家通过关</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541827&amp;idx=1&amp;sn=0e4f2464e33b832ea67d3b0cc196491a&amp;chksm=ea5c2ad6af5b039092b04bece2b1c4c8c5e92f199228615ee2a2bfbb2120dd2a9c6575f6def1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 31 Jul 2025 11:32:14 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新一代RAG框架DeepSieve：让LLM成为知识导航员，破解RAG异构检索难题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia7DyZ59UYAzw2y7lFoo73oDhSXNR0c3op4dRqCOGNrH0cMLrG5ial2uT0lWy4wEjxyMBFWwL98zeQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）在数学推理、常识问答等任务中表现出色，却难以回答需动态知识支持的复杂问题（如实时新闻、专业领域查询）。传统检索增强生成（RAG）通过引入外部知识缓解此问题，但面临两大瓶颈：查询侧</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541827&amp;idx=2&amp;sn=cda324fc08334616fbeb93ed34205cc1&amp;chksm=eaf631c962137b8a0c9af3bf57655254751756694f01079d994ab493b0fcb43e7d989505446f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 31 Jul 2025 11:32:14 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[96.3%准确率！Routine框架：让企业级Agent告别“不靠谱”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia7DyZ59UYAzw2y7lFoo73oBoXbibqZQplWXUSJyrEHC0Lys4ia5gBhNCQ0EKTcoa0fib3JkRW5V6o5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，你给一个超级聪明的AI助手布置一项公司里的复杂任务，比如“查一下新员工小王的部门预算还剩多少，并和去年对比生成报告”。通用AI模型（如GPT-4）可能想法天马行空，但实际操作起来却容易“掉链</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247541827&amp;idx=3&amp;sn=55636e3649f7ec61f30096844d2ab88a&amp;chksm=ea3f01889cc33fd67db030e3e1df2dffa1f25ed198bd5ad8988a51d3059a703433ef5b363c99&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 31 Jul 2025 11:32:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
