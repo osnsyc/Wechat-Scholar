@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[对齐推理模型的一些认知！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mzP7kykSoiaHEvfPUkHSvHChPhqHm45vXszjqia1l4enxOic6SncPbWYa0ALTRgia41iaNK5EZvSfhT1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/1943048398333780944（已授权）今天给大家分享一篇知乎好友@ybq的文章。这篇文章随便聊一下如今比较火的推理模型，给新入</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495690&amp;idx=1&amp;sn=a391b411be7394050dafd82d5fb4ffb6&amp;chksm=cec9af8483ccb557cdf9748d0e5bc6c07f9f3d07ee9f7755c80e09cdefc6631609ff005b19c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 Aug 2025 09:39:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今天早上来自网友的灵魂拷问？ 地铁时间，闲聊一下~ 起因是有个群友想做一个工单意图分类，但是没有资源，问怎么办？ 我直接让它ollama cpu部署一个0.6的qwen3模型，类别不多的情况下，应该没有问题， 然后就受到了其他人的灵魂拷问，现在0.6B模型还能干啥，一点都不智能，根本没法用。 我当时内心太感慨了，BERT刚刚出来0.1B，还在调LSTM和TextCNN的我，像是见到了庞然大物。 时隔几年，0.6B的模型，貌似已经不配出现在大家视野中了。 但事实是怎样的呢？ 论智能，0.6B模型是不行的，比如你跟他聊天，你会感觉它有点呆，但在很多工业场景，0.6B还是很实用的， 高并发的搜推场景，很多模块只给你100ms的时间优化，你根本没法用太大的模型，但又想提取一些特征，那么0.6B就是极好的选择。 像7B这种，你咋用，GPU资源直接给你拉爆，更别说更大的模型了。 还有就是一些格式转换、轻量信息抽取的任务，以现在的0.6B模型完全可以胜任，为什么又要上更大的模型呢？ 之前实习生用GPT4o提取日志信息，当时被我说了，不光光是信息安全的问题，就是这成本花费，真不值呀，有钱要使在刀刃上~ 还有现在的开源模型，都会训练json格式的问题，如果真是一个长期的任务，完全可以收集数据、微调一个模型，0.6b，24G卡绰绰有余了吧， 租个3090，现在微调框架这么多，基本上都是傻瓜操作。 还有就是前几天，英伟达的一篇论文也是蛮火的，《Small Language Models are the Future of Agentic AI》 也就是小的LLM是Agent的未来，感兴趣的可以去看看，核心观点，就是太大的模型做很多内容成本太高，没有必要。 Agent时代，上下文工程为什么那么火，提高整体智能性是一点，还有就是如何节约成本，当时Manus分享的几点，<a class="normal_text_link" data-itemshowtype="0" data-unique-id="meqspi3l-980lrx" target="_blank" href="https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495008&amp;idx=1&amp;sn=9731c8479ceb290587482da1103c9db3&amp;scene=21#wechat_redirect">Agent时代上下文工程的6大技巧，Manus的实践总结</a>，大多数都是教你，如何命中kv cache，节省tokens的。 所以，小模型不是没有意义，要看你在哪个地方使用它。它的定位也从来不是取代谁，你要用它来作为辅助，哪里需要哪里搬。 我还是那个观点，真正的智能系统，一定是大小模型协同，两者搭配，大模型做复杂的总工程师，小模型做高并发的流水线工人， 这才是走向落地的必然路径。]]></title>
       <description><![CDATA[<p>今天早上来自网友的灵魂拷问？ 地铁时间，闲聊一下~ 起因是有个群友想做一个工单意图分类，但是没有资源，问怎么办？ 我直接让它ollama cpu部署一个0.6的qwen3模型，类别不多的情况下，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495683&amp;idx=1&amp;sn=197329d02d3e207af2908baff345b1ce&amp;chksm=ced7a716afda8387304282aa7a10c0b293e0525c4439183d563e436511181478907e7e726f87&amp;scene=0&amp;xtrack=1#rd</link>
