@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[大突破！实验证明，RL能为LLM注入“创新”能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDA6nWsIThDyicWxVRT3vSkMibjnOLMRm7kU97KLn2GhTBZWt1SAXX5lQ8wX72kvb9zD3MfgvXIPGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLMs）的发展日新月异，但一个核心问题始终困扰着研究者与从业者：除了通过预测下一个词（Next-Token Prediction, NTP）学习知识外，模型能否通过强化学习（R</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543428&amp;idx=1&amp;sn=10ac426c8cb2e89cd75935419a59920d&amp;chksm=ea92ea1a7d1a37abbb18b7f1228d52ee2496a92fe4ad6d8719d04b2d80effe2683fd32d4518a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Sep 2025 14:59:02 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[挑战Claude4的8B Agent！NUS提出AgenTracer：面向多智能体系统的失败归因]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDA6nWsIThDyicWxVRT3vSkgaP5suyGVAWQhKSx9U6GaPr2ePCo6LIzWe1g8A0On3d6Ry9Q0icUWDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Guibin Zhang，NUS博士生编辑：青稞AI 主页：http://qingkeai.online/ 随着大语言模型（LLM）的发展进入深水区，研究范式正从构建单一的、全能的单体智能体（</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543428&amp;idx=2&amp;sn=5e3af1007e8e093c04248350bf14f064&amp;chksm=ead29684caae0d01cc1333f09d3f24abad1c22a8de59f20046d0b3a85b2313374b23b6e9ee9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Sep 2025 14:59:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[快手发布Keye-VL-1.5，同量级SoTA，让模型真正看懂视频！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiavM9D0OgAPJI2OOJN7zOhExp0pvgzHgmklyttsVrwTTqcJSu6fdd5ZUpmTTm44LQQZvgKbBL7wfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLM）的发展浪潮席卷全球，其强大的理解和生成能力不断刷新着人们对人工智能的认知。自然而然地，研究者们开始尝试将这种能力延伸到视觉领域，于是多模态大语言模型（MLLM）应运而生，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543401&amp;idx=1&amp;sn=13d3b0e588bafcf17d4dfc0e42fd50da&amp;chksm=ea613bf89a82756a93af8e8b67ff34c25e0f75bc12f67f256041c3310ef2779ea1ea6c36932a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagaKGVGjOTFmdmyl8icBaJH2HMPzIUSDay2BopHrvU6Nj9ibX6LuaHDggcgQUfnKGyiaBzF4bw9uoaXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）的思维链（Chain-of-Thought, CoT）推理能力被视为突破性进展，它通过生成类人的逐步推理路径显著提升复杂任务性能。然而，本文揭示了一个颠覆性观点：CoT可能只是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542164&amp;idx=1&amp;sn=394affa0e8e4ec88373d10bd789d1d42&amp;chksm=ea71e193daf7abda103e6e5c6e4609976358217359a7f8dcef090d091a5255213ddbe1cd5e90&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 12 Aug 2025 14:42:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Make SFT Great Again！从SFT到DFT：一权重之差，泛化之跃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagaKGVGjOTFmdmyl8icBaJH2fG3Cs50lvXhX1Zvwk6Q1C7FCsn4PGw4ia5hpdcibJnILkatia02hrHgJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）的监督微调（SFT）因其简单高效成为主流技术，尤其在缺乏负样本或奖励信号的场景中不可或缺。然而，其泛化能力长期弱于强化学习（RL），后者依赖奖励信号探索更优策略，但计算成本高昂且</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542164&amp;idx=2&amp;sn=7ce88108a5549e9d0e14d075bc6a10dd&amp;chksm=eaa17c8e32646febf9c00df9b584f8647aea17e2fe0d9cef205ba7ad9223f0cbf1fd05550384&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 Aug 2025 14:42:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【非官方】NLPCC2025线下交流群]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajicJlRr5ibwdeaLdtqxBNPibYj0oFldW8EqtXyQKx6s8wbYLssJvfodp091SFJ6b4UN02sFRtOBhtkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>从今天开始的NLPCC2025在乌鲁木齐举办，持续3天，有小伙伴在线下的可以进群交流下，大家互相认识，互相学习，互通有无。（非诚勿扰）备注：昵称-学校/公司-方向/会议(eg.ACL)，进入技术/投稿</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542129&amp;idx=1&amp;sn=1f7ea745e4a69ef9e407407e838c3686&amp;chksm=ea78709d9f09be8cfe60739202dc4ded6099e3f0c970a1106da898149b80f79a34dc2892f1ca&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 Aug 2025 03:24:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
