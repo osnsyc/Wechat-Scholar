@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[OpenAI解释LLM为什么会有幻觉]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaWuU4JichRiavx2sOVxCpcO4DMUiaaEp3QicbBLwx2ooeqMjWqCfMg7CzMaR38CBhfTvqJINTCFibwXFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，你问一个超级学霸：“我的生日是哪天？”学霸如果不知道，最靠谱的做法应该是说“我不知道”。但奇怪的是，当今最顶尖的大型语言模型（比如ChatGPT、DeepSeek等）在面对不确定的问题时，却</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543542&amp;idx=1&amp;sn=9f4fe14a5efbe8df01b966c348c3bc61&amp;chksm=eaafb93fe8e1aaada836999766e9a7d4cca191615779d1b15f9b3e7ec7a668babe90ad61696c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Sep 2025 18:36:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[炸裂提速30倍！Meta提出REFRAF，无需改动模型，让RAG告别冗余与等待]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaWuU4JichRiavx2sOVxCpcO472icEpWYrzHysCl0BfKIIeVoShliabsdLGToFhebF9m3YRiaYNbVJyxtQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（LLMs）在诸多自然语言处理任务中展现出了惊人的能力。特别是在检索增强生成（Retrieval-Augmented Generation, RAG）任务中，模型能够通过检索外部知识</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543542&amp;idx=2&amp;sn=b91b71c52e1be0157b3f16269accc728&amp;chksm=eab3b4623ada010e0c60d49e5cf201d97381e783b3d0723aaef13996389f050d887b12b670c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Sep 2025 18:36:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[斯坦福提出新的RL范式，让3B模型的Agent超越Claude、GPT-4]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajJLVicH4E8kwrZTiasKzgI62OAyEiclmNOvAoaBe32A8VLX4kSS5pQYlh277pa6eXHYMqrgkhewdfWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LM）代理通过调用外部工具（如代码执行器），已经能够完成从编写软件到进行科学研究的复杂任务。一个终极愿景是，让这些AI代理能够通过完成机器学习工程（MLE）任务，甚至迭代地创造出</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543461&amp;idx=1&amp;sn=18af73c564cda88283ff1845ad87aa83&amp;chksm=ea6bc9b71b0149e34048a2026272964fbae8a40d51845e720dbe8d57b24828ac4b40d8048c71&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag8KJ9eAI8ky6FSIPnbtiblSsnWbmZRpoibnjSoWQKDQibRGqJs4gVzdKgZo10RBFlQGU2cSOjusibYzw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）如GPT-4、Claude等已深刻改变人机交互方式，但其在医疗、教育等关键领域的应用引发了双重担忧：一方面，模型可能生成有害内容或泄露隐私；另一方面，用户期望模型更专业、更个性</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542267&amp;idx=2&amp;sn=b1332be0cbefd3c3ece1a378d7fcb5fd&amp;chksm=ea1e31f3cd3b43117fcb6a12cde7b45665c82f3c57e3fd24e2d0e69cb4df22fd1f27519b820f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 14 Aug 2025 19:46:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推理即排序：ReasonRank反常识的2.7倍效率跃迁，新SOTA比快更快]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajlKZ5iaABibc5zWWqgYhpt2rUlpPjx8Qaz633aGd5dUBWmssF42L4qxIaag9EAz54QehBaKuicIfxMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>信息检索系统如搜索引擎的核心任务，是从海量文本中筛选最相关的段落。传统排序模型依赖关键词匹配或简单语义关联，但在用户提问涉及复杂逻辑（如数学证明、代码调试）时，表现往往不佳——因为这些场景需要模型理解</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542214&amp;idx=1&amp;sn=41ee0974c1023cbd376a313080aac8c5&amp;chksm=eae074cd68183e91de71fc45f4d039d0baf635708696ac9a0f401b02f0d7e3ae8020900fa1a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 Aug 2025 17:38:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从单领域到多能力协同：数据混合如何重塑AI的强化学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajlKZ5iaABibc5zWWqgYhpt2rTwc2gxg23ToOoibqyvGtLumBEbAkCyHHx9K9LfBByBbVbjknCP1wrcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大模型在数学计算、逻辑推理和代码生成领域的推理能力取得了显著突破。特别是随着DeepSeek-R1等先进模型的出现，可验证强化学习（RLVR）技术展现出强大的性能提升潜力。然而，现有研究多聚焦</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542214&amp;idx=2&amp;sn=3d51a64c34af46462b46ef3085d6c94f&amp;chksm=ea1f14d13e8a0b072a50dad64595b3fa50736beb59e73e5981647cacfb63642d8b455532f2e4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 Aug 2025 17:38:16 +0800</pubDate>
     </item>
   </channel>
 </rss>
