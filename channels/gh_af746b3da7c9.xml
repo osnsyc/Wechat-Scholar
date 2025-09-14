@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[打破SFT与RL的界限：清华提出统一LLM训练之道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6zjaGvlzMJJP3do4GzNheFvqrxiasB5P3Nzwykiaw7JJRIXW0MK7cgnjX1rInNx5N8GL8Xia6oIlfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大语言模型（LLM）迅猛发展的今天，如何让模型变得更“聪明”——尤其是在数学推理、复杂问题解决等需要逻辑链条的任务上——已成为学界和工业界共同关注的焦点。目前，主流方法主要有两种：一是监督微调（SF</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543673&amp;idx=1&amp;sn=da01aa68721cb34a7570b7d8614daf1e&amp;chksm=ea988a6364a3dae41228dfd62637363d151527fb8ae6461ff2c9b280a8fb3ea5e40eb815a5ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Sep 2025 16:41:54 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LLM Reasoning的Trustworthy综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6zjaGvlzMJJP3do4GzNheYdaVVWFzNAke30sHicibxW4wqXhJZAKkbC5xpoR04icTxWaUmwHgVfYCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLM）在推理能力上取得了巨大突破，尤其是Chain-of-Thought（CoT）提示技术和大型推理模型（LRM）如OpenAI o1和DeepSeek-R1的出现，使得模型能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543673&amp;idx=2&amp;sn=065997e809bdec8c83414d58c7ae3694&amp;chksm=ea6cb8407035106d19a6973940dfb3558c9d80915c6d16c26dd7c9c57e02ff0123c99c1a0ee1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Sep 2025 16:41:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[哈尔滨工业大学（深圳）计算机学院陈科海老师招收硕博研究生]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagFJ05hR1bBxYibbVrhZxXEOb6IJf6jUIfBsXc2eFjsxsYlnkticXbwVxDFBiciappYeFkp402g2Z5BFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导师简介陈科海，哈尔滨工业大学（深圳）计算机学院/计算与智能研究院教授，博士生导师，国家级青年人才，所在团队牵头人为国家杰青张民教授。2024年获“钱伟长中文信息处理科学技术奖”科技进步一等奖，202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543637&amp;idx=1&amp;sn=23731200c231fb44e2dcb3f91ad4bbcb&amp;chksm=ea1a21209eb9d7c7bc3fb3b08f10ffe9fd21c1672bbc3fa92218af230d77ce5705f34b9deabe&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaS4Kfz7qUiby6nNQ1taWBOpCUEzjYTlEDobkRwAjJwNPPzRRrSddKaibd675dibKyNOHFvBgleozzwQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）在数学推理、代码生成等任务中展现出强大能力，但现实任务对推理策略的需求差异巨大：聊天需要快速响应，数学证明需严谨推导，实时查询需调用外部工具。若策略选择不当——例如对简单问题过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542467&amp;idx=3&amp;sn=8e99dd802c8183a4ecea35bc99d57ac3&amp;chksm=eaf0c3f5443211b18f93ea24e92532f226035106d84e44fda9329a83cd1583998a7e17371aa3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 Aug 2025 15:56:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[训练提速5倍，响应缩短50%：动态自感知能力，重塑高效LLM Reasoning范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag5eibL91KTQqcQJJkBgHRV0jDkmvIsLFkDVib2cibd6DBQCibly9wDlDM8qhq3l89ZMmm2icAc2y7c8vA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）的"思维链"（Chain-of-Thought）技术虽提升了复杂推理能力，却伴随着巨大冗余——生成大量中间步骤Token导致响应延迟飙升，严重制约实时应用。传统优化方案依赖人工标</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542420&amp;idx=1&amp;sn=194a6c3d7fc4b2be4320b8914c8f7b2a&amp;chksm=ea0d1489315a3fcd7b0a5bd56de379548e52e7a45bf38460c61ca6a68852c8a9e1509195d95b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 Aug 2025 16:41:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[工具增强的多模态LLM综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag5eibL91KTQqcQJJkBgHRV0UXSSpcI2ltE8BFIqDibhZRzs7F2PU3zwClxdIJKEv6Bxic8wZXcPxB8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>多模态大语言模型（如GPT-4V）凭借强大的图文理解能力被视为通往通用人工智能（AGI）的关键路径。然而，数据稀缺、复杂任务表现不佳（如推理和幻觉问题）以及评估标准不统一，严重限制了其实际应用。论文：</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542420&amp;idx=2&amp;sn=dcd8d5bed573a420ef1ed281872037e7&amp;chksm=ead3a90a698f1b96426c565220022dbdec280c42f58cf2dd0e6d1199d7d318e68876f88b2757&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 Aug 2025 16:41:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
