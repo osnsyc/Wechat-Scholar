@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[让机器人“大脑”更轻更快：SQAP-VLA首次实现VLA模型量化与剪枝协同加速]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsLlCzQhzYhGQU5wVYAguiaDJt04XYn18bvDia07bCzR1sSE6H5e9U16vn2ZzrBX5wRPqUJiaEfGN6jA/640?wxtype=jpeg&amp;wxfrom=0"/><p>视觉-语言-动作（Vision-Language-Action, VLA）大模型被誉为具身智能的“大脑”，它让机器人能够理解人类指令并与物理世界交互，展现了惊人的潜力。然而，这些模型巨大的计算和内存开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635226&amp;idx=1&amp;sn=cdf3e866b16789ac1676a0aca13141b9&amp;chksm=972f0d0f81c4ecfaf4227e156149c25ef85169424afae4635cc2f2ec7872da71dd1e0d74c78b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Sep 2025 18:14:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[成本不足60美元！开源U-ARM：让机器人模仿学习更亲民的通用遥操作界面]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsLlCzQhzYhGQU5wVYAguiaDEoJBl9l65LlZibvoYdm2NWF1falibicZwpDsicicBnsc3mpacoIRDtvsIug/300?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人学习领域，通过人类演示来教导机器人（即模仿学习）是最有效的数据收集方式之一。而“主从遥操作”（leader-follower teleoperation）系统，即操作员通过一个主端控制器（le</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635226&amp;idx=2&amp;sn=1903f9aa58a75293eb2b9ff708f0ec63&amp;chksm=970ff3272319c3366b57c644e55d59b1a3d4e01ec4239fcc395480997e819b8c33f2b050e6c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Sep 2025 18:14:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICRA 2025 | TANGO：机器人告别3D地图，仅靠RGB摄像头实现零样本长距离导航]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTumkrJXfuQ7kKHWJbDdY86YcfewhQeBWXJSZvHXx87RqpX8kYysDCRiaeTzEkBevt2an7t236fUv7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>让机器人在复杂、陌生的环境中自主导航，是机器人学的核心挑战之一。传统方法通常依赖于预先构建的、全局一致的三维几何地图，或是通过大量数据训练得到的端到端控制器。前者构建和维护成本高昂，难以适应动态变化的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635082&amp;idx=1&amp;sn=79151da724bb8475292b6c3ee56e56f9&amp;chksm=9730613a6ce1ac82c716613fe07649608d7771ad3895e8cc373878fb0af7c9d51af9582820d8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsFvBZQAn7dMibkGx1Jfn77rDKlUDAbNlbkyNqz1fovkDQKQDcg6H6WKTkMrLIHLIZz7NCW7hH0iaEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一篇发表于顶级期刊TPAMI的论文提出了一种名为 DAPT（Decouple before Align Prompt Tuning） 的新型提示调优（Prompt Tuning, PT）框架，旨</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632185&amp;idx=1&amp;sn=390d283cdfc37d246336fd231c1e929c&amp;chksm=97d6b83bc0729c2f4308b487dd62c94865caa5003b8e7cf4769bf0a1ab3bfda6282bcc4f6a3b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 10 Aug 2025 04:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[厦大、Meta AI等提出OmniEvent：首个统一“事件表征学习”框架，性能最高提升68.2%！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsFvBZQAn7dMibkGx1Jfn77rMbARk06msAawfpz1sndPHqMWXUbyIVfRME90iavMuhicclpA7wSeyoHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件相机（Event Camera），作为一种模仿生物视网膜工作原理的新型传感器，正凭借其超高的动态范围、微秒级的时间分辨率和极低的功耗，在计算机视觉领域掀起一场新的革命。然而，这种“未来之眼”也给研</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632220&amp;idx=1&amp;sn=bcf48becc31717d8c857de685839a78f&amp;chksm=97167d9d7f1f36ef216ecfdee495c0da60ec7b124c5395bb099d58d2885c9acba2a6cf9f8c64&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 Aug 2025 23:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TIP 2025 | 大连理工等提出PSD：巧借“深度基础模型”，终结分布外（OOD）深度补全难题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsFvBZQAn7dMibkGx1Jfn77ribgkcecFK0xbibicTIMOZzpT1GEibsJn1I9la4mz1ic75JCqYRyPWw6qcbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度补全（Depth Completion）是计算机视觉中的一项关键技术，旨在从稀疏的深度测量点（通常由LiDAR等传感器提供）和配对的RGB图像中，恢复出完整的稠密深度图。然而，现有的深度学习模型严</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632198&amp;idx=1&amp;sn=931b69e4b6a48c1a91a5ef654ee3c0c4&amp;chksm=97a6435fa25feb8838ecf672888ce625d3aad7cb4190e42d90f30c4d8e44a6e70fec51544e25&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 Aug 2025 13:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
