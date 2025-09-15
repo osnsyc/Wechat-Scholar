@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[超越GPT-4o，蚂蚁集团与南洋理工大学提出LaV-CoT：首个语言感知的视觉思维链]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsia3cw9WQic7PGxiatsic0iayOB4gFRXn5ZMNQgX22GFs31X0Ra3HffTQzrZIDpxBrtZwpa80d8rK37iag/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大型视觉语言模型（VLM）的飞速发展，它们在处理复杂的视觉问答任务时展现出惊人的能力。其中，思维链（Chain-of-Thought, CoT）技术通过模拟人类一步一步的思考过程，极大地增强了模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635405&amp;idx=1&amp;sn=3862a4306a3b99bc4bacdd0da7befbd0&amp;chksm=977b42a9d0ba212af98cb0fa58b736a031c41f6fdd2a1c6b499f33dcb9b32cd0940d2785fcbe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Sep 2025 14:55:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DeepMind与牛津大学提出LayerLock：用渐进式层冻结实现高效、无崩溃的自监督视觉表征学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsia3cw9WQic7PGxiatsic0iayOBUh8IGt7MZg6PgT3hwmYoZNHunNZ55zIkr1rQcP1hVFMYXPRQUv399A/300?wxtype=jpeg&amp;wxfrom=0"/><p>在自监督学习领域，如何让模型在没有标签的情况下学到有用的视觉表征，一直是核心挑战。其中，掩码自编码（MAE）是一个明星方法，但它依赖于繁重的像素重建任务。另一条路是预测网络自身的“潜在特征”，这更高效</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635405&amp;idx=2&amp;sn=50dcc6f4c0a98de0d85c59048d76a703&amp;chksm=97c30588ff71ea3074b66790adfa5f0fb1bfa0ce59c2580d47097f3acc43676edfeb1560fd75&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Sep 2025 14:55:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[耗资15000个A100 GPU日！港中文、阿里等发布600万规模T2I推理数据集与基准]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsLlCzQhzYhGQU5wVYAguiaD9ckc0E6PFslOrsSZwrFVuTs5uicPSOqicjEt69MicXhDfaULmkzBOGcbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，文生图（Text-to-Image, T2I）技术取得了飞速发展，但开源模型在处理需要复杂推理能力的提示词时，其性能仍与顶尖的闭源系统存在差距。这背后的核心挑战在于，社区缺乏大规模、以推理为中</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635294&amp;idx=1&amp;sn=1b1de9160c5b724c6deb2a9a124614bc&amp;chksm=97920d961a0f8eb89b4983977ac2944a488b4574ee09830a16fdf303dfa51f07ccb18023a043&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsfVdAcI7BMxbIHSNb0R7aGM95dRLAjZlic7cZ5Tr3Eo4I9TBhvfvaTE4ib85dmYZIXpOhDNuibLPBAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：DPC: Dual-Prompt Collaboration for Tuning Vision-Language Modelsarxiv 链接：https://arxiv.org/abs/</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632279&amp;idx=1&amp;sn=bdcc8756baa5f52c96da2dd611a17601&amp;chksm=97727db8934c3482baafd2a738a27f732d09ccbae53cdbc372ed388bc50a4eefa7f8b5060c52&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 11 Aug 2025 04:45:25 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[南洋理工等提出SSTGNN: 当Deepfake检测遇上图神经网络，一个参数量减少42倍的轻量级统一框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsfVdAcI7BMxbIHSNb0R7aGMyZn0O9FV4663M5HtzQ45FngLb5pWZNgQz7rBh1cH6jwxsg6B5iaOuQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>SSTGNN: 当Deepfake检测遇上图神经网络，一个参数量减少42倍的轻量级统一框架从Sora的惊艳亮相到各类AI视频生成工具的普及，我们进入了一个“眼见不一定为实”的时代。Deepfake（深</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632260&amp;idx=1&amp;sn=e9eba68220be2c7a152636c92ba54cd1&amp;chksm=973dbe16d06b4c125848195de2c3e1cf957f52f8fcb7146919064bc9a8b59ed17add0fa089b7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 Aug 2025 02:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[IJCB 2025 | FaceAnonyMixer：在潜在空间中混合身份，打造可撤销、可保护隐私的人脸]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsfVdAcI7BMxbIHSNb0R7aGjqwWBOCqib3SUyP1fL2kK3uMbAT0Q7M53iaiaLva9IIDdjOSibhsNictMqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着人脸识别（FR）技术在身份验证、移动支付、公共安全等领域的广泛应用，个人生物信息的隐私泄露风险也日益凸显。如何在享受技术便利的同时，有效保护我们的“脸”？传统的面部匿名化技术往往以牺牲识别性能为代</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632244&amp;idx=1&amp;sn=9df8ecacfee1730b6c59e10a17deaa6f&amp;chksm=976f644e00bf9a3bee06d2e7e0609c77f500840225baa242a268b7fd2a40731431f23912d843&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 Aug 2025 01:27:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

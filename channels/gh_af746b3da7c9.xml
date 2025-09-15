@@ -10,6 +10,12 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[告别随机性：Thinking Machines Lab如何实现了LLM推理的完全确定性？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahMsexFTWuuB97N6ibpjuZT7IJQYRJ3HTEc3C6z03bbWImkNsricgzB6GYA8ql9Z8g7qoJe2xp3ibtRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大语言模型（LLM）如火如荼发展的今天，一个看似微小却至关重要的问题困扰着研究者与工程师：为什么即使在最严格的设置下（如温度=0），同一个LLM推理请求多次执行仍可能得到不同的结果？ 这种非确定性不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543701&amp;idx=1&amp;sn=640c4b50cd2f599871ad76475989cf25&amp;chksm=ea7bcfc980baa94fea26427887be173dcf04b413ed0a478319d80ce927ae87e1e6ae5293538c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Sep 2025 16:34:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[打破SFT与RL的界限：清华提出统一LLM训练之道]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah6zjaGvlzMJJP3do4GzNheFvqrxiasB5P3Nzwykiaw7JJRIXW0MK7cgnjX1rInNx5N8GL8Xia6oIlfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大语言模型（LLM）迅猛发展的今天，如何让模型变得更“聪明”——尤其是在数学推理、复杂问题解决等需要逻辑链条的任务上——已成为学界和工业界共同关注的焦点。目前，主流方法主要有两种：一是监督微调（SF</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543673&amp;idx=1&amp;sn=da01aa68721cb34a7570b7d8614daf1e&amp;chksm=ea988a6364a3dae41228dfd62637363d151527fb8ae6461ff2c9b280a8fb3ea5e40eb815a5ec&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[预约 | CMU岳翔：重新思考大语言模型的推理能力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaS4Kfz7qUiby6nNQ1taWBOpKIh5icpRXWIPJuEXiaI7BOEqoKQcyozDoIMtCu3rsD6I5onEKtj0M46Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题重新思考大语言模型的推理能力时间2025.08.23 周六 12:00 北京时间2025.08.23 周六 00:00 纽约时间b站直播间：https://live.bilibili.com/27</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542467&amp;idx=2&amp;sn=ba61578d72bc32ea64413e36d1980531&amp;chksm=ea4b2466fac28946c2be12093a5b338fe30f57e7be6f4be627d5972a597b180b85272db9676b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 Aug 2025 15:56:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LLM的快速、慢速与工具增强思维模式综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaS4Kfz7qUiby6nNQ1taWBOpCUEzjYTlEDobkRwAjJwNPPzRRrSddKaibd675dibKyNOHFvBgleozzwQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLMs）在数学推理、代码生成等任务中展现出强大能力，但现实任务对推理策略的需求差异巨大：聊天需要快速响应，数学证明需严谨推导，实时查询需调用外部工具。若策略选择不当——例如对简单问题过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542467&amp;idx=3&amp;sn=8e99dd802c8183a4ecea35bc99d57ac3&amp;chksm=eaf0c3f5443211b18f93ea24e92532f226035106d84e44fda9329a83cd1583998a7e17371aa3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 Aug 2025 15:56:19 +0800</pubDate>
     </item>
   </channel>
