@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[STM32CubeMX使用说明-SYS、IWDG、WWDG配置参数]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsISsaLGBoibib7gnLtrVA6qbxaOtBgK5s9hcOx1Vos06aROYAIhVz5sH1jcu9jusR0WVxK3iaAtxbNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、SYS配置参数1.1 SYS选项卡里的Debug该如何选择？这个是决定了MCU芯片的哪些引脚被作为调试/编程接口，选择错误可能导致无法下载程序、无法调试、甚至芯片被锁死（需要通过特殊方式如串口IS</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247610485&amp;idx=1&amp;sn=ff60a5988b7ab77431f6edf73ca0d2a2&amp;chksm=fa85f1d3d5b37b8c56cab68f19a1761e44267cb56593079de7a17432d8424b64c6c5dccd32da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Sep 2025 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[无人机编队安全控制：CBF与APF方法对比与实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsISsaLGBoibib7gnLtrVA6qbpyMjNw9ZKWW2iadM6Hprc6hqyGQdib5FSSaZl8yVF0pbX3ODSJC1WibKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着无人机应用的普及，编队飞行中的安全问题日益重要。本文将介绍两种主流的安全控制方法，并分享实际仿真效果对比。引言多无人机协同编队飞行在军事侦察、灾害救援、农业植保等领域有着广泛应用。然而，无人机在编</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247610461&amp;idx=1&amp;sn=135277cef840d4bf25b829a12075809e&amp;chksm=fa588f5eebbfef879fbb1bf7fb42eb91a255225161b9fdc9287bf6e9bd1d37a1ded318472d59&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvenCjLdnoib38tNv1pJT5TMT0k5iavziaaB0QCZDcOK1c17PgFHtwU6ia2aBGmXSHJdljpspHtmicwZ8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、UBUS 简介ubus（OpenWrt微总线）是OpenWrt中轻量级的进程间通信（IPC）框架，基于Unix域套接字和JSON-RPC协议。它由以下组件构成：·ubusd：核心守护进程，管理消息</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609509&amp;idx=1&amp;sn=cf2b070b58a251610a22ce490dce3fed&amp;chksm=faa77a28d26f253bb7b46c20fe0f247f6a441fbbfabcf50514e52ebc375ac42bc3b60e8501bd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 05 Aug 2025 09:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[好课推荐：MuJoCo机器人强化学习仿真入门 • 独孤小hi]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvtRo3674mdNXAQibHxB8DbIMjvicNiayJf8bojcS69uRiaqmgibicicNpZeWicamRJKz6JFxZbjmrxV3pbQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1课程目的强化学习，作为机器学习领域的一个研究热点，已经逐步融入工业制造、机器人控制、游戏开发当中，其以最为自然的心理学试错学习思想为核心，在整个人工智能领域占据重要地位，乃至决定着未来人工智能的发展</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609508&amp;idx=1&amp;sn=395d613cc80e9a3761442c6ea7b395c9&amp;chksm=fa811960de3b74085a9df3863d322409850d4a1bc86776f6f9b0b63a9d16a576a660cf12f7fe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 Aug 2025 09:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
