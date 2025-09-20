@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[TPAMI 2025 | DiffMVS/CasDiffMVS：一种置信度感知的扩散模型，实现轻量且准确的多视图立体三维重建]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuYdz0aIspu7uSag2Jx2xsOict6ibia8kPFOGPcFAXKgpO5fbEEtKE4D2XYfuc8Qb9kfhaVCeKGEXTHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天要介绍的论文是来自苏黎世联邦理工学院、南洋理工大学等机构的研究者们发表在 IEEE TPAMI 2025 上的工作。该研究创新性地将近期在生成任务中大放异彩的 扩散模型（Diffusion Mod</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247636472&amp;idx=1&amp;sn=2f08b9ffe438978def1d931f45ffdd17&amp;chksm=97cecac4a02d9ceb551d4f9e893e360a3de418c9db93647032f2b7dd13c604779792924cca8c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 20 Sep 2025 11:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[北大等提出BEVUDA++，首次解决BEV感知跨域难题，夜间检测性能提升12.9%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuYdz0aIspu7uSag2Jx2xsOPuPs6P4zu7iacibbSq8yHOc359ianFcCiccWBxlY7DP5L52omg1DS2GIbA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在自动驾驶技术中，以视觉为中心的鸟瞰图（Bird's Eye View, BEV）感知方案正变得越来越重要。然而，现有BEV模型的一个致命弱点是“水土不服”：在一个地方（如晴天的波士顿）训练好的模型，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247636472&amp;idx=2&amp;sn=0a7874fbf6512d86f1573a350bdb2ff8&amp;chksm=97acdc94888b9fe33a9eb689d29c53068ebb89f6bda04298bcffa671281cec42caa01e349f9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 20 Sep 2025 11:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Meta新作SyncSeal：用深度学习“封印”同步信息，让数字水印不再怕裁剪和旋转]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuYdz0aIspu7uSag2Jx2xsOIyQ3vgMAwXXM7fKe50y3qK39q17C0N1q4frMOQqDRKFQAaBiaHH07Nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字水印是保护图像版权、验证内容真实性的重要技术。然而，传统的水印技术非常脆弱，一张带水印的图片，只要经过简单的裁剪、旋转、缩放等几何变换，水印信息就可能“失之毫厘，谬以千里”，导致无法被正确提取。这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247636428&amp;idx=1&amp;sn=5f34ca69ea54fb2f10530fe0b8f03dda&amp;chksm=970e32cf5613e6ad1845a0f3f68da6465482080fa2cc7707016de4f7de24e149d9f9b1d0dad7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsl0vhhj5ficFMpVn8D6JTy9AgpF67cibak8sPKmplXQEYoKSlUA5aHLs9qVC5LwlZd0EUI054rg2Fg/300?wxtype=jpeg&amp;wxfrom=0"/><p>本篇介绍的论文是《DPoser-X: Diffusion Model as Robust 3D Whole-body Human Pose Prior》。这项研究提出了一种名为DPoser-X的创新方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632741&amp;idx=2&amp;sn=5c96a20f6772200ad29d5eb07d3238fd&amp;chksm=97d93214eed006dafa0397c06644ab1c058d8d84a0f602b269abd6693976d8459f3a6bba0bf0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 Aug 2025 11:46:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[复旦&amp;微软提出StableAvatar: 首个端到端“无限时长”音频驱动的人类视频生成新框架!]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuyBWNJ3Hib5ric0ibfxszUh9ldwZDvpgYibIHv0ZicuFbIjSc55bn8xAhwQFicI4Nkhb0uavcXhU8ibqHsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美扩散模型的兴起极大地推动了语音驱动人类视频生成的研究。具体而言，语音驱动人类视频生成旨在基于参考图像与音频，合成面部表情与身体动作与音频高度同步的自然人像视频，在电影制作、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632542&amp;idx=1&amp;sn=247c4fa9678b70bea7543ea559cb76b7&amp;chksm=97c8327ab20490e924a27ea0b1f5d4e0e3ded48ee97fb85406fb866b18302245f23d05c18c4e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 Aug 2025 13:30:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | HVPL：分层视觉提示学习，让“视频实例分割”模型告别灾难性遗忘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuyBWNJ3Hib5ric0ibfxszUh9lPRtQGMQCnXjlCR50xQ6XNaPSmnR7RGN1StrrsjVcjicibKdWeicpoKbog/300?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美视频实例分割（Video Instance Segmentation, VIS）是一项强大的技术，它不仅要分割出视频中每个物体的轮廓，还要在不同帧之间持续跟踪同一个物体实例</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632542&amp;idx=2&amp;sn=736ecf2114538243bfcc3a1db50cbd65&amp;chksm=97e05de4b02c52cf3f07956cd3bf548df37564b288970335a7f1136d3ab31eda88a3faec2db4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 Aug 2025 13:30:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
