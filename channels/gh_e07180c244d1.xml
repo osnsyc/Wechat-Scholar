@@ -10,6 +10,24 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[TPAMI | 数据增强还在“盲操”？南大提出IPF-RDA，让模型训练告别信息丢失]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtibgWM1iae9P2Ox4YSPtndib8r8pVhGicxSwwZDBiaw8TEdoqKB8gZN4x7nIDjNXh5qBNhXSLyTTuBb6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位炼丹师们，大家好！今天CV君想和大家聊一个咱们训练模型时几乎天天在用，但又可能没那么在意的“常规操作”——数据增强（Data Augmentation）。简单说，数据增强就是通过对原始图片做些“小</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247637025&amp;idx=1&amp;sn=6ec8f5aad63d31240f66561870523389&amp;chksm=974523e271af3e3e14d54cebaca5ed2c34007d32efe9d4f82d3cb36e10de2cb7be11cce7af76&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Sep 2025 16:08:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SilentStriker：无声击溃大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtibgWM1iae9P2Ox4YSPtndib8Rl4Tlq2HibSialp7aGElrFhzJasKiaJ4OooLiaXlAYanqnkC7ZZII5Cvwg/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型在各种关键领域的广泛应用，激发了大量关于其安全问题的相关研究。相较于已被广泛研究的输入操纵攻击（如提示注入，prompt injection），针对大语言模型的比特翻转攻击（Bit-Fl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247637025&amp;idx=2&amp;sn=da009e971c31dcf8c003af98b19535ff&amp;chksm=971240bdc23bc2523ff837a0554edb47ea172e21d13d2d7417d1af8a5b4b8ee5780621bdeb9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Sep 2025 16:08:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Yann LeCun团队新作LLM-JEPA：结合联合嵌入预测架构，显著提升大模型微调性能与效率，在代码生成任务上表现卓越]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtibgWM1iae9P2Ox4YSPtndib8T6WK5v6f09MOy6FNbQ9HPyC4R3s8tQJicP4HwsBrl58BBXVY7TlSKEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前，大型语言模型（LLM）的训练和微调几乎完全依赖于“下一个词元预测”（Next Token Prediction）这一自回归的生成式任务。然而，在计算机视觉领域，一个名为 联合嵌入预测架构（Joi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247637025&amp;idx=3&amp;sn=f3dd386a5c4bdc3b8984fe0416cc6727&amp;chksm=97b243bf5e79c3f2699d100352d3ceb01076e79317cc5823b405d8d66102c877d7e807deba70&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Sep 2025 16:08:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[苹果发布Manzano：一种简单可扩展的统一多模态大模型，其混合视觉Tokenizer统一了理解与生成任务，性能SOTA]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtnmoicO3a5Ipkbun74mk2wIsoRYib0JKCUlhhrHugkWBCIibAVOqCbcCGOoAanyatS0tJw0IrKyoWYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍来自苹果今天发布的 Manzano 模型，这是一个简单且可扩展的统一多模态框架。它通过创新的 混合视觉Tokenizer ，成功地缓解了多模态大语言模型（LLM）在同时执行视觉理解和生成任务时</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247636580&amp;idx=1&amp;sn=654a4b72ba9c5ea364df032e95511d27&amp;chksm=97dd8540121a6d773a01155baa9910d2ff41e24fd2e099c910c61e07d3cc421901318363e298&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTu4O9kFJBDQUZekEBeHHzlEMHhUVFGWicXqKslialKzNicpM8FFxDk35uSfsdLkWMQAibsEbzFaAgbNkw/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着Sora、可灵等模型的涌现，AI视频生成技术正以前所未有的速度发展。然而，在通往更高清、更长时视频的道路上，一个巨大的计算瓶颈始终存在——自注意力机制（Self-Attention）。对于基于Tr</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247633107&amp;idx=2&amp;sn=51b70ffa00a7eec0bdf1a6389276477d&amp;chksm=971fe76111dd9ea77c92c3f0b65190cf7a30ad61c32ffab68c93f0be7373dabf725090054b94&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 Aug 2025 18:14:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2025 | DeCLIP：解耦CLIP注意力，哈工大（深圳）、港大提出通用开放词汇密集感知新框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvK01rRpuicx4giaYhB58UysUDD2oMLyrW8rvxSKN5D8u8wyicxwqnj66dIFXGpuveyficDJTcY6No7dg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，目标检测、实例分割等密集视觉感知任务，大多仍受限于一个“预定义”的封闭类别集，这极大地限制了它们在视觉概念无界的真实世界中的应用。尽管像CLIP这样的视觉语言模型（VLM）在开放词汇（Open-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632981&amp;idx=1&amp;sn=3350d3ae0803418e30755ed646536f0f&amp;chksm=9765fb1fa8bdaee007b7d3a1ab18f44975ca170007e13662ac541ac3a47957d0a03322703926&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 Aug 2025 21:43:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[英伟达ViPE：任意视频一键转为3D几何数据，开源引擎与亿级帧数据集重磅发布！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvK01rRpuicx4giaYhB58UysUsqFRomLZpDuzXqhZjV6N8MC1DGnd8RR8BViaone4CkkM8iatOlLND6iag/300?wxtype=jpeg&amp;wxfrom=0"/><p>精确的三维几何感知是机器人、VR/AR、自动驾驶等众多空间AI系统的基石。然而，当前最先进的方法大多依赖于大规模、高质量的标注数据，但从真实世界的视频中获取一致且精确的3D标注（如相机位姿、深度图）却</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632981&amp;idx=2&amp;sn=a9f6060acf1661657e9a2967acaa3c90&amp;chksm=971ec81d2a42aeb159d15371aeaf54c3b4da47961c0bcc5d133a241ecc5ddf6c34709224f9f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 Aug 2025 21:43:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | MobileViCLIP：快55倍！南大等提出首个高效“视频-文本模型，让多模态AI在手机可运行！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuubFXJFggHLr698gpo7hFHN4ibg6d6bQJjt0ibWxqZZRweW0GFqKpYWB5ENC08AzQ0yNeclP13daQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注公众号，发现CV技术之美视频-文本预训练模型（如Video-CLIP）在视频搜索、分类和理解等任务上取得了巨大成功，但这些强大的模型几乎无一例外地基于庞大而高延迟的Vision Transform</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247632945&amp;idx=1&amp;sn=0bb02ebde8548f2314c63e178d5a3aef&amp;chksm=97978837025935c4034cc33753ca307909aa5eac88afbc68e43bd7b45b2a02b51e72846377d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 Aug 2025 13:17:06 +0800</pubDate>
     </item>
   </channel>
 </rss>
