@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[腾讯提出RLPT：在预训练数据上进行RL，一种高效、可扩展且不依赖人工标注的新训练范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagZ5UCjMKnBTakJDc7pHe3RYIQlCwo2ZibUXF8JoKuTktsuv06lOAmDtrzswfQ7xAPKP7Sy2bVWZWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（LLMs）如 ChatGPT、Llama、Qwen 等取得了令人瞩目的成就，广泛应用于对话助手、自动编程、科学发现等多个领域。推动这一进展的核心动力之一是“扩展定律”：即通过投入更</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544015&amp;idx=1&amp;sn=e01ad9aa28214b70a2d5bff06cd7a89d&amp;chksm=eaa1484420955cff6efd60b591e63a73dd95294f42e122ab6f2361c00e0b0de85d471ff4aeb6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Sep 2025 13:39:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Meta提出Soft Tokens, Hard Truths：如何让大模型推理更稳健、更泛化？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagZ5UCjMKnBTakJDc7pHe3RVGvGVkMwzjQFN5xJdrgojBAw7fpBpejte7KkG2icKuCjlah5wTX61rg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型在推理任务上表现突出，尤其是当它们使用“思维链”一步步推导答案时。但问题来了：人类的思考往往是连续、模糊的，而模型的推理却是一个个离散的token蹦出来的。有没有可能让模型也像人一样</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544015&amp;idx=2&amp;sn=3e8d05f2809623854e5926dbe10f4984&amp;chksm=ea6a8e617f315250d5fd6d7f2ff101b2e14bc32e796ec1bd0c402db679d7c5b05ebd8e05f8b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Sep 2025 13:39:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刘鹏飞组提出Agent领域的少即是多：智能不在于数据堆砌，78个样本训练出超强Agent，128倍效率提升]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaLL2hfnZ38ktxl9FTq2YSHLCZhkbSUdhysoCQW43hAwovEicT2nopdticmjrLZIpImdn2NiaCLfEyww/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，人工智能正经历一场静默的革命：从能“思考”的助手，转向能“工作”的Agent。所谓“Agent”，指的是AI系统能够自主发现问题、制定假设、使用工具、执行解决方案，并在真实环境中持续交互的能力</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543979&amp;idx=1&amp;sn=17392cddecdd5100aaa9509028589003&amp;chksm=ea6b2500243396128cd4e825bcfbd16a69948f5f8171900e13e5b7079331680e2034b556869a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagQwia50hD3EdOSsO5diaOCc7obywtTHCuY1FicNO2LjGs6jQY6enwPfp8Dk3XqKIjWvPpL0DibhvHlqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好！今天我们要深入解读一篇超级有意思的论文——Memory-R1，这篇论文也在twitter上被一些大佬转发了多次。这篇论文由来自慕尼黑大学、慕尼黑工业大学、剑桥大学和香港大学的研究团队共同完成，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543012&amp;idx=1&amp;sn=4022ba048f384b6841f625ad8f70c964&amp;chksm=ea26d33053ca7e34aadc38178371e9e96645c70e05de8766602a85280dc7a6e0a6239a892745&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 29 Aug 2025 14:52:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[突破Pass@1瓶颈：一种让LLM自我博弈、永不枯竭的RL新范式，超越基线22.8%！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagQwia50hD3EdOSsO5diaOCc7kZY8WSAb7YL8RyGCG339nAtQWRa4r5fuGBBf0bUFiak7j86ASomdHfw/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLM）在复杂推理任务上取得了长足进步，这其中，基于可验证奖励的强化学习（Reinforcement Learning with Verifiable Rewards, RLVR</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543012&amp;idx=2&amp;sn=e43b7f26a43c43379af3879c8410fab6&amp;chksm=ea2647683ac72e9b2c0d8419b2e8a1163928ff0693b77e8b5a78426760c673fe94f50cfb04db&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 29 Aug 2025 14:52:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2025下半年还有啥会议可以投的？呦呵，还真不少]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahqFo793obFTben3HsgOhcVDC4Miaibk6IjpcP3RLicaaa6qUjAc6yy8nhclUcUMeibw74zv82fKpib8Gg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇文章由AC学术平台精选了2025年下半年高水平国际学术会议进行推荐，涵盖深度学习、人工智能、计算机视觉、大数据、智能制造等前沿领域。会议特色亮点 ：✅ 顶尖学术阵容：特邀院士、IEEE Fello</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247542942&amp;idx=1&amp;sn=e6846ffc8ece87bcac5f063e0b8919c1&amp;chksm=ea5ab86c8dc15a0b0543d326969a13bc30589245ee18364d02b11149f39d877063470f21dbf8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 28 Aug 2025 17:47:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
