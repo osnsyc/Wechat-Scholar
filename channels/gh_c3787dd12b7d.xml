@@ -10,6 +10,18 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[【RAG评估】基于LLM的RAG评估综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztHekY901bTQCicXeD7ntPAO1BNHqEicGeZm6buwjp9R5rXevBf7Sqict2AK7iawxsnddjicsykoU57SCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言我们都知道RAG通过“检索+生成”两步来回答问题，但这个过程里可出错的地方太多了：检索的文档不相关怎么办？文档相关但模型没看懂怎么办？模型自己胡编乱造（产生幻觉）怎么办？传统的评估指标，比如BLE</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247611035&amp;idx=1&amp;sn=e07cad47036521541f55006f80fc2fc6&amp;chksm=faabc6a3b5463eb36b526d661a3bfb77a99ad7661c625f26041778e0edb06b894205c869c653&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Sep 2025 17:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[5万奖金池 等你来战 | “在仿真环境下，控制青龙机器人实现基础运动控制”火热报名中]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvib6EePjRNP3icM9yvgn2DDq2Ricuu7v5gRMhgnUY5wqIPreR9OQ81VJxiaFaJNw0WgFXbvwnjvrcwQg/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着具身智能技术的快速发展，人形机器人逐渐成为人工智能研究与应用的重要载体。然而，对于大多数开发者而言，人形机器人研发存在门槛高、成本大、学习曲线陡峭等难题。传统的闭源平台往往对外部开发者开放度不足，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247611035&amp;idx=2&amp;sn=d67143169aed6cf6758c69314bf184c7&amp;chksm=fab8ed80675204139c286c096113d4468c5b0bad830e08e3478f8d298ec2919b2d6cf47a913f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Sep 2025 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PID水位控制系统详细分析与实现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs7gZPkX7LxtWBBKlUe6aLjOAbc48WmKHLEnP1M4cdic2vCCZuBBoO71jhic7CD97sylPpjBwrrEdJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 系统概述水位控制系统是工业自动化中的核心应用，广泛应用于水利工程、污水处理、锅炉控制、化工生产等领域。基于PID控制的水位控制系统设计、数学建模、算法实现和性能优化。1.1 系统组成与工作原理典</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247610964&amp;idx=1&amp;sn=ca2a8be4e3ad86468395dc97e059fe89&amp;chksm=fa5816e97f8c46480618bde1866a2b8b73947d0eac91148802473757d032e59a63df0829f967&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvdVNicAoVIxcjOfKaNpNBsd2O40cs1icLficvSiaQ7J8Dian58qsTkprzno0CtsRNRJPnmRrtcCJDDxQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>PID的优化PID的使用不仅仅包含PID算法本身，算法之外，依然有着足够多的问题让我们头疼。这些问题依次排序如下：1.PID的调用频率2.微分冲击3.PID的开关4.PID的反向工作1 调用频率PID</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609689&amp;idx=1&amp;sn=cf3f0a1da4bf46b4afae7c2a91991501&amp;chksm=faed0a2285fe1330145cdf9d4912b81026e801d88f68b6ac99bc193adf778915475d84df7985&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 17 Aug 2025 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SNN：构建简单脉冲神经网络训练CIFAR10-DVS（使用SpikingJelly）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvdVNicAoVIxcjOfKaNpNBsdDnHKc90nKBibujaYRCH3XCS0vJh9CUWt2sJMAXD0gEyUcvxmECCaQ2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文将介绍如何使用SpikingJelly库构建一个简单的SNN，并在CIFAR10-DVS数据集上进行训练和评估。我们将从数据集准备开始，逐步分析网络结构、训练过程，代码基于 SpikingJell</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609664&amp;idx=1&amp;sn=28c93b014b242583561f065ce37831a8&amp;chksm=faee42be46e9fb596b4b1a9d77abd6d2ace7ee0f326c18d379d9c5b763ae552091fae3f4e295&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 16 Aug 2025 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROS机器人建模]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvdVNicAoVIxcjOfKaNpNBsd8mFm5a0cBIPwI401rO0bp78AQhicUHXKnEqHAJ5DDnjiaeKbGKNho3Wg/640?wxtype=jpeg&amp;wxfrom=0"/><p>注：本篇博文全部源码下载地址为：Git Repo。（https://github.com/Zhanggx0102/Moveit_Examp_01）1. 下载到本地后解压到当前文件夹然后运行：catki</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609666&amp;idx=1&amp;sn=2c99023e45c37b08a3c32f85c77845eb&amp;chksm=fa49c933bd06b20ccd4d7ed25fb434ee642c7cee92e0e499cb74ddbcb61de6a23fbbe702c531&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 Aug 2025 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
