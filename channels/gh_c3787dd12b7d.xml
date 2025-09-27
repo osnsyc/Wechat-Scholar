@@ -10,6 +10,18 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[C++ ROS中的Unix Domain Socket (UDS) 深度解析与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztHekY901bTQCicXeD7ntPAOibOljeJicpHQ5XdUtyRNYlWROH4Lclym2VIckewT748YrAiarrGgE3lfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 引言在机器人操作系统(ROS)的架构设计中，进程间通信(IPC)是核心组件之一。传统的ROS通信主要依赖TCP/IP协议栈，但在同一主机上的进程间通信场景中，Unix Domain Socket</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247611038&amp;idx=1&amp;sn=d417f940434f2a545253234d38ded03d&amp;chksm=faac3a36803cc7ec2ab06458614ec53bdbf5473537015a2e28cbf4b0ad5e1ffa14f876f6c5fb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Sep 2025 17:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ROSCon China 2025：一次不容错过的“机器人灵魂之约”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvOKMjTFBHEmicGW0t1HrsdLnnL0HBmQhepKcexicPkxh3P8Gy1Oa5tuTd3BzUQUIxQIlhA3BWAgic2Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>“机器人不只是冰冷的代码和金属，它们是我们对未来的想象，是我们与世界对话的方式。” ——古月居2025年10月31日-11月1日，上海虹桥新华联索菲特大酒店，ROSCon China 2025 将如约</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247611038&amp;idx=2&amp;sn=db6776a597d431d4389a6f439b6ed594&amp;chksm=faaf3a286356702a457089c77cf7049f3980c1a22d804c7566ea95edbb501aedb228f02ccfc7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Sep 2025 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【RAG评估】基于LLM的RAG评估综述]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztHekY901bTQCicXeD7ntPAO1BNHqEicGeZm6buwjp9R5rXevBf7Sqict2AK7iawxsnddjicsykoU57SCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言我们都知道RAG通过“检索+生成”两步来回答问题，但这个过程里可出错的地方太多了：检索的文档不相关怎么办？文档相关但模型没看懂怎么办？模型自己胡编乱造（产生幻觉）怎么办？传统的评估指标，比如BLE</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247611035&amp;idx=1&amp;sn=e07cad47036521541f55006f80fc2fc6&amp;chksm=faabc6a3b5463eb36b526d661a3bfb77a99ad7661c625f26041778e0edb06b894205c869c653&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzticMgH9Z5nMgGfx4GwruoTxoyTPwFMicdnCNX2Jb7aicPh5uP4RmcQDlx9dOOaCnYZEmiazKgic72CcbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍在信息技术迅速发展的当前时代，使用计算机程序解决计算和研究问题已成为广大科研工作者重要的工作方式。在程序设计过程中，代码的规范性和条理性又十分重要，良好风格的代码往往能起到事半功倍的效果。面向</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609736&amp;idx=1&amp;sn=a8fc88c9c1f3d57e9792ac52f44b691c&amp;chksm=fadfdc76d33725135c337052e32a77d5ea07861a9178ba75da2d6ebc38df395abe95d3f68d17&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 Aug 2025 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[官宣！ROSCon China 2025举办地点锁定，精彩升级，不容错过！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu1qibnT4I0VRXgy4eibhnPgPh9TNrsBBfUA8E9waTgcY8icxqQrVLplriaDrfEObyPVJcVkjzb9LDVFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>亲爱的机器人爱好者、开发者和行业同仁们，ROSCon China 2025大会地点正式敲定啦！大会将于2025年10月31日-11月1日在上海虹桥新华联索菲特大酒店盛大举行！这绝对是干货满满，物超所值</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609736&amp;idx=2&amp;sn=7fbfe14afb0debc5c051ca096657f4ed&amp;chksm=fa6a0c83189aab902924168e2f329391aaf3066de2d7d3a7df3199ba0cf12bd1ede4f495a00c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 Aug 2025 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PID算法的优化介绍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvdVNicAoVIxcjOfKaNpNBsd2O40cs1icLficvSiaQ7J8Dian58qsTkprzno0CtsRNRJPnmRrtcCJDDxQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>PID的优化PID的使用不仅仅包含PID算法本身，算法之外，依然有着足够多的问题让我们头疼。这些问题依次排序如下：1.PID的调用频率2.微分冲击3.PID的开关4.PID的反向工作1 调用频率PID</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247609689&amp;idx=1&amp;sn=cf3f0a1da4bf46b4afae7c2a91991501&amp;chksm=faed0a2285fe1330145cdf9d4912b81026e801d88f68b6ac99bc193adf778915475d84df7985&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 17 Aug 2025 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[RL训练中，为什么熵减往往意味着训练收敛?]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLibPx5MawLtsZTWSjjtDd0fIPdvGYrNaGw6XJHzWgboT489o1PkBHMw65jljg06SxykYcr0vheDCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：skydownacaihttps://zhuanlan.zhihu.com/p/1950579532802270647 最近半年以来，有关于RL+Entropy的研究非常的多。对于离散的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650449991&amp;idx=1&amp;sn=854bcd5d03073978f71c8cdc4ac00c7b&amp;chksm=bfa3b79b57a68c5720829045f2f42704243d311ddfb22ef7d6a63414799971415e61d6006b0c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Sep 2025 19:25:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[几乎解决所有多模态大模型问题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSIMroKXs351nElYbfuIZP4icXlsF285aPNnArrfcZ53tccd0fr89zCPAU4PvqardeSia2Ima2ThUnVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在AI圈只能说是神仙打架，大厂接连开源多模态大模型，导致这个赛道的竞争逐渐白热化。多模态作为今年各大顶会的高频词不要太火，光是CVPR 2025就占据了所有论文标题的19.3%。如今大语言模型（LL</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650449986&amp;idx=1&amp;sn=67d62aa5bb686521a8321c769b882468&amp;chksm=bf6d3027fa7b347d24ee857bb17f5dbbf3253267e9d01c97744eedd19074134cb1b893106fae&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[投机解码之EAGLE：轻量级草稿模型实现3-4倍推理加速]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OG6cPvxbL6x24SEpL1rmVDExpMnL0GpvVdWpEc1wX0S9dvUFIABWy5x0YPJD1RicPoqTDI4OPy4UInbgx8CZBKw/300?wxtype=jpeg&amp;wxfrom=0"/><p>👆点击关注｜设为星标｜干货速递👆写在前面上周在大模型推理加速之Speculative Decoding/投机解码(下)，我们提到选择与目标模型同系列的参数量小几个数量级的LLM作为草稿模型，就能比较好</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650449780&amp;idx=2&amp;sn=2d7b4dc322ad751969536b69bfc76c96&amp;chksm=bfc3f4072dd6b3a985af088d8f0cdd78c719b54b27c318c99bdd902fb5f9ee229a44a07459a8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 10 Aug 2025 04:03:45 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推理路径的动态调控：让大模型学会“恰到好处”的思考]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahTUNhnnnBZJ0fVpBOXg3dlUGWPicKsu7eqNI6SFe5tyH1LGUEpNia9aPibDiavIBficz1dK1c9jwX7bJg/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前大型语言模型（LLM）通过思维链（CoT）提升复杂任务推理能力，但研究表明其推理路径存在严重冗余——例如反复验证或无效思维跳跃，导致计算资源浪费和“幻觉”增加。论文：Test-time Promp</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650449780&amp;idx=3&amp;sn=5de3aeef26b8a586e1a956168b401ccf&amp;chksm=bf08acf1f9d827e1ecd0d53f8f78473972a3470092b1cae952500b2af4b9b448cd940fc20b61&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 10 Aug 2025 04:03:45 +0000</pubDate>
     </item>
   </channel>
