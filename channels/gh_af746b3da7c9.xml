@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[几乎解决所有多模态大模型问题。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaKBWQv9ypfx7nnLIWO7LiaH88VnJmbZVbErfKsbib8Eb5gvcAlicicnibicN6ctS5DUuS4aM6pXMZpXoNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在AI圈只能说是神仙打架，大厂接连开源多模态大模型，导致这个赛道的竞争逐渐白热化。多模态作为今年各大顶会的高频词，光在CVPR’2025就占据了所有论文标题的19.3%。如今大语言模型（LLMs）在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544099&amp;idx=1&amp;sn=757ffbe7effa9a0edac9ec3463a893ef&amp;chksm=eaa8c8fb2d6d6cd04ef62db8294ab4d700471d607ff4bbfe9c563bd71b9761ad49caa56f105e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 28 Sep 2025 11:22:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[跨越技术与法律的壁垒：AI赋能知识产权领域任务全能评测基准IPBench发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaKBWQv9ypfx7nnLIWO7LiaHoGaTsTudtLuqn00mkgvOOcvPVYKmECgMP74icRWamG0eVt4XIG1mCMA/300?wxtype=jpeg&amp;wxfrom=0"/><p>本推文介绍了一篇最新发布在arXiv上的论文《IPBench: Benchmarking the Knowledge of Large Language Models in Intellectual</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544099&amp;idx=2&amp;sn=c281451e24fee507911b0f2b43563d6c&amp;chksm=ea3582c6949532af736464b238dd3234fb55ab3de5814838044c035b0127211b2bb44433d899&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 28 Sep 2025 11:22:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[中科院信工所发布首篇LLM智能体幻觉综述！梳理5类幻觉、18大诱因与10种缓解方案，300+论文资源开源]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajE52Ws83l9iaxt5XH4kB4vTBftyIAYqf40O4ZkfeibrZc5CIdARjC8MOwNGickBKkzUrEbTa3KtyPfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大语言模型驱动的智能体（LLM-based Agent）逐渐渗透进教育辅导、科学研究、金融分析等关键领域，成为实现通用人工智能（AGI）的核心载体时，一个致命问题正制约其落地——幻觉。不同于传统LL</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544052&amp;idx=1&amp;sn=b88efaa7352423ed99325556c8feb1fa&amp;chksm=ea1df5de16a52fc7effbdbd9190bb924c57a05bfcf6eda948143bed89326a88cb38831e2ed75&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag91mbkarYwBibrPYYXlqHchNuIFWjpgYX2l14zI4AqzgXcsaEZDh9SD58Xq7Sj66PBIBuia32J4g2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，大型语言模型（LLM）在复杂推理任务上取得长足进步，一个重要趋势是“测试时缩放”（Test-time scaling），即让模型生成更长的思维链（Chain-of-Thought, CoT），本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543135&amp;idx=1&amp;sn=71cfea4a98134da0465d4b01769194d9&amp;chksm=eaa990894e73c51e59cc5888145c3f17fa4a4fbf9e47b4a1bc79a0142120de2f0333819fa07a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 31 Aug 2025 15:30:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[字节Seed提出TreePO：用一棵树节省近半GPU成本，性能反而更稳]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag91mbkarYwBibrPYYXlqHchN1g8OnGDmgGibdTTqWQfxkbc6oq63x37baLn562dDZQpQEbjDGAGvzg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（LLM）在解决复杂推理任务方面取得了显著进展，尤其是在结合强化学习（RL）进行对齐训练之后。然而，传统的RL方法（如PPO、GRPO）存在两个根本性挑战：一是计算效率低，每个查询需</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543135&amp;idx=2&amp;sn=27817a9aed5885cfa83aeb4bc5fe3197&amp;chksm=ea8c2a77e83c96835cf72a7859f39a45f204b17f86f30b82b279112264cf5887ad973d9067e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 31 Aug 2025 15:30:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯联合清华解释了使用Tool的Reasoning为什么有效，以及能力边界究竟在哪里]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah3gpvpFMQKvHk51rLpSibUsVYjE3SE0wBUUbl0NCAHaam5ah9HqKvdWTnwk1ANuteroYNc1EUAkuQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，一位博学多才的智者，熟读万卷书，却能言善辩（强大的文本生成能力），但当你请他进行一道复杂的多位数心算、验证一个数学猜想、或者规划一条需要实时交通信息的最优路径时，他可能会变得迟疑、缓慢甚至出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543078&amp;idx=1&amp;sn=adf3262e16bd282596747987e55a6357&amp;chksm=ea9444ee77997ee995f98b1ae6b06bba467336fb1ab4e821e1b7d013b480cc9c23035b906c38&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 30 Aug 2025 16:30:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
