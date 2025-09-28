@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[vLLM PIECEWISE CUDA Graph 技术学习笔记]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3swhibXllD0ib2YPuLxicuL6bFJFkuyG56J11wWvxjpCGiaftpkaU2CrpBib0xmkniaEkSs9T4O5RghAfIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近有小伙伴用vLLM启动模型的时候，发现capture CUDA Graph的log变成了这一句：Capturing CUDA graphs (mixed prefill-decode</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529284&amp;idx=1&amp;sn=b88d41561a03af69a46e244a760dd430&amp;chksm=9e55208de006032511c398fc69554f7cc522311188e3fc9802887b33ec98127a359974df5ac7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Sep 2025 22:44:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CuteDSL-1: Introduction]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkgzTMlRTYRXyaNrLNzK8B9OgrhDnpJcdKGU7SLo0n7uhvibCnYS4mOibrWDhv1icibHVdiaxaNSc1sgCwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DRHotchip 2025上有几个AI Kernel Programming的Session, 其中Tri Dao谈到了CuteDSL. 一直没有时间补充这一块的内容. 最近花一些时间来梳理一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529125&amp;idx=1&amp;sn=c7bfeba7a22ea41219d0c8874cc3d4a7&amp;chksm=9e98a7104236b6b63dcbb19e30b31ea81a0de26b64236b7d4a65ec55a6c637f7385ca0f05f07&amp;scene=0&amp;xtrack=1#rd</link>
