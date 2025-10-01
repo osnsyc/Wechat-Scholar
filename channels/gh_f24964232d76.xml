@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang 确定性推理实现技术细节笔记]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uQxqZ2xzZKfIMZ5AZfoL4SmTPNzsibicdPZ0DpsvcB7BNCub4zYFwKYyhd3Vfogiaic2jqSHQoDbAtsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近基于SGLang的确定性推理feature (Deterministic Inference)支持(https://lmsys.org/blog/2025-09-22-sglang-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529421&amp;idx=1&amp;sn=e7bc80df204378341bd92d1d270ae505&amp;chksm=9ef78fc48936179d945cca434cda0551a7c9d6c84f0686314ed42c71bc18fc5693dd895a387d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Sep 2025 17:49:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[vLLM PIECEWISE CUDA Graph 技术学习笔记]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3swhibXllD0ib2YPuLxicuL6bFJFkuyG56J11wWvxjpCGiaftpkaU2CrpBib0xmkniaEkSs9T4O5RghAfIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近有小伙伴用vLLM启动模型的时候，发现capture CUDA Graph的log变成了这一句：Capturing CUDA graphs (mixed prefill-decode</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529284&amp;idx=1&amp;sn=b88d41561a03af69a46e244a760dd430&amp;chksm=9e55208de006032511c398fc69554f7cc522311188e3fc9802887b33ec98127a359974df5ac7&amp;scene=0&amp;xtrack=1#rd</link>
