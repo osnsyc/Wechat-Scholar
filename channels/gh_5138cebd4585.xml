@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[自进化Agent的第三种可能：隐式记忆，不动模型参数，胜过GRPO]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmWoQgricShzibiaMj2GZnAve5KM1wwuHTcVd2YaUZjBKIFAjaZshaicEzxjGozRlAOuEOR2KlmADibGbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，由大型语言模型（LLM）驱动的智能体（Agent）正引领着人工智能领域的变革。然而，智能体的记忆机制——无论是强制调整模型参数的“参数化记忆（Parametric Memory）”，还是将经验外</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708957&amp;idx=1&amp;sn=4735d66301277b6b2dd1c0e4ac4a2d27&amp;chksm=972380b57c4d7e5aa092fc0fd3de67c014e87c4f3a9a517675baae6ff43f91f3916d1ebe2ea2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Oct 2025 20:04:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[真实数据、全链路、可复核：GenoMAS打造更可信的基因分析智能体]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmWoQgricShzibiaMj2GZnAve5Fyr7iaKcibiaqU8Ya1vSYUuR4x9W8DaDBO95kb2icCU4RJClvQ1KkGUEyA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在科学研究越来越依靠标准化精密计算手段的今天，用智能体技术来自动化加速科研的潜力让人心潮澎湃。但在现实使用中，无论是 Cursor 还是 Codex，这类智能体多作为辅助工具存在：每推进几步，仍需人工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708957&amp;idx=2&amp;sn=ddf2cb465568896a1916926307cfd8bd&amp;chksm=97ea518e804ff25209298445972841b5b4ca00fa2bc1d34fb8664d4373e6dc24e87ac77ccdf0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Oct 2025 20:04:18 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[LSTM之父再出手！xLSTM挑战Transformer：一场关于Scaling Laws的正面交锋]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgn2GBibNuSibHn4v52LddGYibE1l47pyicGPsJ60jUbah66vAlZRNDkDOY3Xp2H02RwW7Fpm85R0fXL0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>近三十年前，Sepp Hochreiter 与 Jürgen Schmidhuber 提出 LSTM，彻底改变了序列建模的走向。如今，Hochreiter 团队将目光投向大模型时代最关键的问题——Sc</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708918&amp;idx=1&amp;sn=d0637133a0ed6cfccbb233468a1997bc&amp;chksm=9774a5ca1ccee1b58453103989716b4ffc54742c395fb024763d2085b8cffaf05fa9f659f3d2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglQ0b91hwIQehrnpnOdp1IdwMibEgPU3q2d3XGRNNyVVYyh78TeDoBVLHN1iayCQXoqd2y07MibQo2Ww/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！阿里巴巴LLM research 团队是隶属于阿里巴巴通义实验室的前沿研究团队</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708268&amp;idx=4&amp;sn=3479894bfe465a50d229e3fd68ab2892&amp;chksm=97ed818198b32c8bf47cafcd88f2b5a0a962234f557d1fad4a34655121b1a9c2b52636c7db2b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Sep 2025 23:36:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Adam的Update RMS为何总是0.2？噪声模拟到理论近似全讲透]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnFibWCniaicLCzFVC6ayWKHmH1icM0oTiaqggM7d04jC33WU0SqvMgTJvlwniahDN5Ae4xcoKecicSvBKbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 苏剑林单位 | 科学空间研究方向 | NLP、神经网络众所周知，我们很早就开始尝试将 Muon 用于大规模 LLM 的训练。特别地，在QK-Clip巧解M</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708231&amp;idx=1&amp;sn=e160a989c93cae48169d8e2791d282df&amp;chksm=97e96f43914ea5f88d3087930eec06df1a51569c7591f3f5cb102a25e4315269b4b962666728&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Sep 2025 20:37:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[KDD 2025最佳论文亚军：参数不同还能共训？异构知识迁移框架HtFLlib全面开源]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnFibWCniaicLCzFVC6ayWKHmHxZYCfyT0LcSfLakl9BOImgppfxRNMicK4iaZDr4XAZQc00U2rWyHkc1w/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创· 作者 | 张剑清单位 | 上海交通大学我们在 GitHub 上开源了一个异构模型间知识迁移框架 HtFLlib，中稿 KDD 并获评 Best Paper Runne</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708231&amp;idx=2&amp;sn=adb9b89da79ea051d354e3db9bfb825b&amp;chksm=9719d741b304c47a9bdb4f1a49fefa2320ff722dde8eb3ca66b87d8812df16e843a5e98ebf8c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Sep 2025 20:37:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
