@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[IROS 2025 | Waymo与谷歌DeepMind联手提出Drive&amp;Gen：用生成视频评估自动驾驶，虚拟测试更逼真]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtmWEI9nicjxnJ8zanDyuJwHDIPswGkuicpYYOiaNnlq1u1KAtIuwVfFwLNhEibPVeYDmlGTiapflXPNYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，自动驾驶领域迎来了两位“新玩家”：端到端（End-to-End, E2E）驾驶模型和视频生成模型。E2E模型试图用一个“大模型”直接从传感器输入预测驾驶操作，大大简化了传统复杂的模块化系统；而视</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247639304&amp;idx=1&amp;sn=550ba355d4167df876744480c285f2f9&amp;chksm=979d4aad72ea38a473d2873e06feb22b8f5b584134c8d30f652a82ec9dd551c49172298fbb42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Oct 2025 12:09:23 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[告别深度传感器！慕尼黑工业大学提出DropD-SLAM：仅用单目RGB即可实现RGB-D级的SLAM精度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtmWEI9nicjxnJ8zanDyuJwHgcKHOMPuNl54cWFLfc9e0IicWkatEwVqUTBzKhAhTicuhWXDPaB2Ocsg/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天，我们来聊一篇非常有意思的SLAM领域新工作，来自慕尼黑工业大学和3Dwe.ai的研究者们。他们提出了一个名为DropD-SLAM的系统，这个名字很直白，意思就是“扔掉深度（Dropping th</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247639304&amp;idx=2&amp;sn=78ab7f916ec4433d758a363c4431eef2&amp;chksm=9735940e075bb713cb1faca2acbf0025537ee51c98453b4d8b55dcc8991aefa0c8c9f89c0f63&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Oct 2025 12:09:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TPAMI 2025 | 电子科大等提出EEMFlow：从事件相机学习高效Meshflow与光流，速度提升30倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsTeSh4RLoXLA8MMC9VPRNzqiad4NpfYTp2KkicXcSAo2WicLUlu7hydx3FLwXuEnpuDnSiceRfoOtTDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，今天想和大家聊一篇非常有意思的新工作，来自电子科技大学、香港科技大学和西南交通大学的研究者们，他们关注的是一个越来越火的领域——事件相机（Event Camera）。这篇被 TPAMI 202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247639120&amp;idx=1&amp;sn=75539d0808a7384c22a05b01ebcaf2bb&amp;chksm=975c5f1a84e6b583f424ade2ecac593d58b533a0619dbe10b63aa48e866c40543874bae5dea5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsLlCzQhzYhGQU5wVYAguiaDHp3iaLcCO4Cb5T0nJ2usE46MWggnzHgwgb3pJsqgd7ibqfzJH3XChuJg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在许多现实场景中，例如无人机侦察、自动驾驶和医学诊断，常常需要将来自不同传感器的图像（如可见光和红外图像）进行融合，以获得比单一图像更丰富、更全面的信息。然而，这些原始图像往往分辨率较低，甚至可能因为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635294&amp;idx=2&amp;sn=7edf94571b2b13a04b516caa4979b351&amp;chksm=97271fa039e10ded81735ea3f724a0b280815bd1737101d379bbc373c8394456592251e5881d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 14 Sep 2025 11:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让机器人“大脑”更轻更快：SQAP-VLA首次实现VLA模型量化与剪枝协同加速]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsLlCzQhzYhGQU5wVYAguiaDJt04XYn18bvDia07bCzR1sSE6H5e9U16vn2ZzrBX5wRPqUJiaEfGN6jA/640?wxtype=jpeg&amp;wxfrom=0"/><p>视觉-语言-动作（Vision-Language-Action, VLA）大模型被誉为具身智能的“大脑”，它让机器人能够理解人类指令并与物理世界交互，展现了惊人的潜力。然而，这些模型巨大的计算和内存开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635226&amp;idx=1&amp;sn=cdf3e866b16789ac1676a0aca13141b9&amp;chksm=972f0d0f81c4ecfaf4227e156149c25ef85169424afae4635cc2f2ec7872da71dd1e0d74c78b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 13 Sep 2025 18:14:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[成本不足60美元！开源U-ARM：让机器人模仿学习更亲民的通用遥操作界面]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsLlCzQhzYhGQU5wVYAguiaDEoJBl9l65LlZibvoYdm2NWF1falibicZwpDsicicBnsc3mpacoIRDtvsIug/300?wxtype=jpeg&amp;wxfrom=0"/><p>在机器人学习领域，通过人类演示来教导机器人（即模仿学习）是最有效的数据收集方式之一。而“主从遥操作”（leader-follower teleoperation）系统，即操作员通过一个主端控制器（le</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247635226&amp;idx=2&amp;sn=1903f9aa58a75293eb2b9ff708f0ec63&amp;chksm=970ff3272319c3366b57c644e55d59b1a3d4e01ec4239fcc395480997e819b8c33f2b050e6c6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 13 Sep 2025 18:14:46 +0800</pubDate>
     </item>
   </channel>
 </rss>
