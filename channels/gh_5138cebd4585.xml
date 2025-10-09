@@ -10,6 +10,12 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[无RLHF，7M小模型反超DeepSeek-R1：三星团队用递归思考取代规模堆叠]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglNCcMajRxBktBd46thELiciaj3HCiaAyGyB7pIibhogESanibguAquQiapwPurq60MMtiaic6NRKdam7liaeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在所有人都以为智能等同于规模的时代，三星研究团队用一个仅 7M 参数的微型神经网络，递归式地“先提答案、再反思改进”，在复杂推理基准 ARC-AGI 上击败了包括 DeepSeek-R1、Gemini</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709015&amp;idx=1&amp;sn=f76680bcd85054ecb02d6d5c5c9c0819&amp;chksm=97b334111ca626844d8a8e6a6b82257f489ed1f0937e6ce539410c95e46a395f496f54f7fd3f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Oct 2025 23:34:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[告别梯度！Evolution Strategies全参微调挑战PPO/GRPO：更稳、更省、更好复现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmcxy1mz2u0VFP9icMNWEXUUib52iaJKAJMgJ3nMeicfxEQyCM7IA2ia3VVt8HdL1CyBkMnRGsLm2QZ38Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年里，“后训练=RL”的观念几乎成了行业默认。很多团队把 PPO、GRPO 写进了自己的 Pipeline，并习惯性地在动作空间里做探索与优化。这篇论文则把镜头拉回到参数空间：作者将 Evolu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708997&amp;idx=1&amp;sn=678f7ce1043eb3fa2b5cd16d1d13ef4c&amp;chksm=97bffd4d98b27ef9c4bf708eb4ede7e6cbcfb0ad8b4eb5db8c7d4c98f7ee2e94bc5da8042386&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[从Muon到AdaMuon：下一代优化器能否真正取代Adam？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglQ0b91hwIQehrnpnOdp1Idm2nC4mxX3c4dAiaztYVboHZzgplHWelkffRibQZzwpKw0N1yyUE8htfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | Chong Jie单位 | 上海交通大学研究方向 | 参数高效微调放在开头：这篇文章会比较零碎，是由我之前做过的一次分享记录而成。我没有特意去梳理文章，直接把讲稿拿来主义，属于知识比较密集</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708268&amp;idx=1&amp;sn=426665655b9bff3fb5175f46183cc9f7&amp;chksm=97c85521307351441ab0573af7380d0024bfee33885fd65a5e5b88f9c0eeb7bfa5ce16350448&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Sep 2025 23:36:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2025 | LLM也会“装成人”？对比重写CoPA挑战AI文本检测可信度]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglQ0b91hwIQehrnpnOdp1Id0tHgicM1ePklyJNicJC76Rz0pER3ba3QwD5npzVtDxWVADJ3cc0TBwdQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLM）的滥用（如学术抄袭、虚假信息生成）推动了 LLM 文本检测器的发展，用于判别由模型生成的文本。为规避这些检测器，研究人员提出了重写攻击，即有意重写文本以逃避检测。尽管已有一定成效，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708268&amp;idx=2&amp;sn=9b7ea57ec450011678c1f282deec0fa3&amp;chksm=9728c14279e2fa787a195e0d33a3e87c1db43d38f7b496d1a8546326af3881f36739da9eaf09&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Sep 2025 23:36:37 +0800</pubDate>
     </item>
   </channel>

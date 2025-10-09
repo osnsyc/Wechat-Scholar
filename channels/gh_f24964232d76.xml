@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[从DeepSeek V3.2 DSA算子看TileLang编译器的细节]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vP8PFy9VbkXnWqpCmmHPNX2evxexZogsHTyQcd2eO91RaHgrKk4nJKSJnnauSoUV0avicibENQl4Og/640?wxtype=jpeg&amp;wxfrom=0"/><p>从DeepSeek V3.2 DSA算子看TileLang编译器的细节前言的前言：最近假期正好回看了一点之前TVM时代的东西，才发现Ansor的一作，Tensor IR的作者正是SGLang的项目核心</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529530&amp;idx=1&amp;sn=077fdee889a4d780f80794ab0662d339&amp;chksm=9e75334707597d8fe6b0ff5944a204895ad00353529df8eed91c29c1af662d57367367651751&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 07:51:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Tilelang-1: Introduction]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkhsYlVG6gWiaGibkV3pfms9ianwqeo6789eszr43byHH7xax8NVYCu7wQzATFkuBGVuvXKedoJnWyKHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DR其实很早就在关注Tilelang, 特别是在今年三月的时候, 看到一篇知乎上的文章《TileLang: 80行Python kernel代码实现FlashMLA 95%的性能 》[1]. 我</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529425&amp;idx=1&amp;sn=a197b52de27acf667095c71a7e11cf0a&amp;chksm=9e19a4e80d715144c4c21a052b6956b47f9237955adcacd462338b4e07195f162c7b33b020af&amp;scene=0&amp;xtrack=1#rd</link>
