@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[CMU&amp;斯坦福提出Reasoning新范式！自己找“窍门”，教会LLM抽象Reasoning]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiac8RO11osOR3kg75sW5EINvZAu8GY7zhMMsK7TlAesdlqcI5710OPC445eCr4eLib4AHp3E40PhaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型在解决复杂推理问题时，常常陷入“思维链过长却无效”的困境。模型可能会反复验证错误路径，而不是探索新的策略，导致推理效率低下。这篇论文提出了一种创新方法：让模型自己发现并利用“推理抽象”——</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544296&amp;idx=1&amp;sn=0e82be52695a1a09afc0ba71f651a414&amp;chksm=eac0badbc30cd4aaa79aca6863650837b97ba6dfd366ea6a38f78e41e6b1a2800c5b8719e12f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 14:52:23 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Self-evolving Agents过程并非总是良性的，要警惕这些“错误进化”风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiac8RO11osOR3kg75sW5EINfP19P6YtKlAG2MR69OJ5f6pTFvTUfDcTEOJdaTlWwTBLbp9bBHibL4g/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，基于大语言模型（LLM）的智能代理（Agent）已成为人工智能领域的热点。它们不仅能执行复杂任务（如编程、科研），还能通过与环境互动不断自我改进，这就是所谓的“自进化代理”（Self-evol</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544296&amp;idx=2&amp;sn=cd8297bdd7706ff4570b932e84b9d6fd&amp;chksm=eaa0ec329838b2ecb55539579c57c889d9f745ca78265016788f3ef37e2c5014928292efe2a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 14:52:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[对比学习视角下的GRPO：为什么两个样本就足够？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahT9icvicMVeBqqlOM0zDw9ZeCGGDhvY9O9XAaXLqGSPeYcVvKSMh7eSxY0nIGZNrZDlWGY5jIRHH0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（如GPT、Qwen等）在自然语言处理任务中表现出色，但其后训练过程——尤其是通过强化学习（RL）进行偏好对齐或推理能力提升——往往计算成本高昂。其中，Group Relative Pol</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544248&amp;idx=1&amp;sn=98f44e6c74f11aa172766a42ea28eda4&amp;chksm=eadf3254526f2cf8a3bed2c8f7d6d89674335872695c76cdc7af555cf159386afe727fba2b1f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDA6nWsIThDyicWxVRT3vSkMibjnOLMRm7kU97KLn2GhTBZWt1SAXX5lQ8wX72kvb9zD3MfgvXIPGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLMs）的发展日新月异，但一个核心问题始终困扰着研究者与从业者：除了通过预测下一个词（Next-Token Prediction, NTP）学习知识外，模型能否通过强化学习（R</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543428&amp;idx=1&amp;sn=10ac426c8cb2e89cd75935419a59920d&amp;chksm=ea92ea1a7d1a37abbb18b7f1228d52ee2496a92fe4ad6d8719d04b2d80effe2683fd32d4518a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 07 Sep 2025 14:59:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[挑战Claude4的8B Agent！NUS提出AgenTracer：面向多智能体系统的失败归因]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaDA6nWsIThDyicWxVRT3vSkgaP5suyGVAWQhKSx9U6GaPr2ePCo6LIzWe1g8A0On3d6Ry9Q0icUWDQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Guibin Zhang，NUS博士生编辑：青稞AI 主页：http://qingkeai.online/ 随着大语言模型（LLM）的发展进入深水区，研究范式正从构建单一的、全能的单体智能体（</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543428&amp;idx=2&amp;sn=5e3af1007e8e093c04248350bf14f064&amp;chksm=ead29684caae0d01cc1333f09d3f24abad1c22a8de59f20046d0b3a85b2313374b23b6e9ee9d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 07 Sep 2025 14:59:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[快手发布Keye-VL-1.5，同量级SoTA，让模型真正看懂视频！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiavM9D0OgAPJI2OOJN7zOhExp0pvgzHgmklyttsVrwTTqcJSu6fdd5ZUpmTTm44LQQZvgKbBL7wfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLM）的发展浪潮席卷全球，其强大的理解和生成能力不断刷新着人们对人工智能的认知。自然而然地，研究者们开始尝试将这种能力延伸到视觉领域，于是多模态大语言模型（MLLM）应运而生，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247543401&amp;idx=1&amp;sn=13d3b0e588bafcf17d4dfc0e42fd50da&amp;chksm=ea613bf89a82756a93af8e8b67ff34c25e0f75bc12f67f256041c3310ef2779ea1ea6c36932a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Sep 2025 12:58:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
