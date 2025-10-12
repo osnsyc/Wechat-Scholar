@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[Attention is NOT All You Need：让“深度”重新流入时间，而非堆叠在参数之上]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkLoia9bWRdPqiaIqI9fgLNiaNkJ6cEYPFSko7pmy2C5sm556e5qaxrL1pQ2ks5sClCGFfTP4icUnH1Nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>自 Attention 统治深度学习以来，我们获得了惊人的速度与可扩展性，却似乎失去了另一种更本质的能力——在时间中递归地思考、积累与演化。当速度压倒深度，我们真的理解了“智能”的含义吗？自 2018</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709240&amp;idx=1&amp;sn=b68daa95bdd0406571b13544ef598111&amp;chksm=9754037fd37afc47f4952d47c2000536cb8f8eabc4ad18289e2943ab4bfb4169682241010880&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 18:09:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2025 Oral | 1个Token零成本，REG让Diffusion训练收敛快20倍！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkLoia9bWRdPqiaIqI9fgLNiaN9yEIjNZ5WdYMice2FIKd4ibjDk7JuUTiaPVa2QicT9r7pebTXticwL9ytyw/300?wxtype=jpeg&amp;wxfrom=0"/><p>只需引入一个 class token，REG 就让 Diffusion Transformer 的训练速度飙升至 63 倍，几乎“零成本”实现了更快收敛与更优生成——这项来自 NeurIPS 2025</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709240&amp;idx=2&amp;sn=9ed18c4649a43f9e81e349cb3115eedc&amp;chksm=97e8cdd079757ccf26a004b199a0f8a23fcad3d4da97b97206fc7843a107b79b310c3f019882&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 18:09:18 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek苦练1T，清华只用5B？InfLLM-V2把稀疏注意力玩明白了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglEVQhCaFLzicCMcOoibdvBicRzgdD9hvZ0Cialtpd650ELI8R4JYfeV3OW8E195ia9qiahXHvX0sdGwkng/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言长序列高效处理已成为大模型应用的关键。传统稠密注意力在序列变长时计算开销极速增长，直接限制了产品可用性与成本可控性。为解决这一痛点，清华与 OpenBMB 提出 InfLLM-V2：一种零额外参数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709188&amp;idx=1&amp;sn=1bb896b549716972279d3ac471bcf359&amp;chksm=9705ab8146b3f09f0514b98329549a043ccd25f21835e5a47817f9b2fbf5cee1f1dd2df3da47&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgktSpibewMU88ReBI0icMvwdic7IZJeYHqQ6QYWmZLaArHtW1DiaZXRnw4j3rPUliaLI15NtW3HCDVDFPw/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！字节跳动国际电商是以国际化短视频产品为载体的内容电商业务，致力于成为用户发现并</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708362&amp;idx=4&amp;sn=5a410770d57276d12440fb5e0c15d5b4&amp;chksm=97a92fcf4a5fe3377a52daf1de2071c89cce91d5bf29e80e9b7e9c2232be8371ada817ada456&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Sep 2025 14:22:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不改参数不重训！CARVE一招纠偏，对比注意力让视觉模型精准聚焦]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmZZEbS4DyPtV04K7MibSlJVR1xMoZDusNSxQMjQicJ80ibCw9utMKlgd0W5dgkYwXrkDtzRohNZjP9A/640?wxtype=jpeg&amp;wxfrom=0"/><p>你是否曾经在书架前寻找一本书，却因为密密麻麻的书脊而眼花缭乱？或者在超市货架前，面对琳琅满目的商品标签而一时找不到目标？其实，视觉语言模型（VLMs）也面临着同样的困扰。最近，来自中科院计算所的研究团</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708324&amp;idx=1&amp;sn=e84763fe39d27a222b6a17d881ea540d&amp;chksm=97317f4e7791f5cd47dee857ce4bc7c2e1c07515a75633daa0dc15edaf3ded69d3a072659d13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Sep 2025 23:19:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2025 | AI福尔摩斯来了！LLaVA-ReID多轮发问，行人重识别一步步锁定]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmZZEbS4DyPtV04K7MibSlJVIalwMp2eLNqib5E7ic1CeVqtSibrxZVboWUcbt2TA5mHjmhib3u6ichSuWA/300?wxtype=jpeg&amp;wxfrom=0"/><p>今年 ICML Outstanding Paper “COLLABLLM: From Passive Responders to Active Collaborators” 把从被动到主动的人机协作推</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708324&amp;idx=2&amp;sn=529501f05c9a92f4336e29ac9dd13c74&amp;chksm=975147652a69f3318142993211bc6248386def75a6eacab881d7eec52a7a8e458c2269b3edf8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Sep 2025 23:19:25 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-10-11）：华盛顿大学开源LLMc，令牌排名编码技术，实现自然语言文本紧凑存储与高效推理新突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyWQB9icvSqGu9CQibicefOZf0pL8netMibWs6uZXeKeo0vMWdtXH9uIDicVIgbzuq4FEuKJiaH3KibAsw0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LLMc★LLMc 是一个基于语言模型的自然语言文本压缩器，它通过对令牌的排名进行编码，而不是存储原始令牌 ID，从而实现更紧凑的存储格式。在推理过程中，LLM 提供了可能的下一个令</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499710&amp;idx=1&amp;sn=b9b3633ae67cdf57295e9e426d696a27&amp;chksm=c0ffbe4ee7f7f336d97101c7eae60b65ced6f8a0597117c7ca080024004cf7100e48750dd332&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 18:14:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-10-10）：微软开源UserLM，专攻对话中用户角色模拟，推动真实交互技术落地]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyhlf39gyrG58gYy4Yu2MhIRazE21uYHsIicTYpFxrKVbb46BvQo6uqicdCxeibyicut1JQcInLSBzlEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：UserLM★UserLM-8b 是一个由微软开发的语言模型，旨在模拟对话中的“用户”角色。与典型的助手型大模型不同，UserLM-8b 通过预测用户在对话中的发言来实现更真实的对话</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499700&amp;idx=1&amp;sn=1c4da48dc190682c72d338b15c3d10bd&amp;chksm=c0e2821ed54efd68e78e7e78d7623478623e2059cd7ee2cc671f45a9ec9f6357080577ba7988&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzFvuzibG5DuQTq17UlSEXdldcEkIb3kiaYObZaFeOe4zosLXImgfEexmvicG8xjvDm4oOdWqKnQn7yg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Qwen3-30B-A3B-Instruct-2507★Qwen3-30B-A3B-Instruct-2507 是 Qwen3-30B-A3B 的更新版本，具有显著的通用能力提升，包</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499072&amp;idx=1&amp;sn=cb08b19afe4a824e035ebead8d6a7d2b&amp;chksm=c0039c8421adba5850230c610b8dbac3239714abd9efa7330b36cfd435deabe99e5311686b8b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 30 Jul 2025 10:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-29）：智谱开源GLM-4.5，355B开源智能体系列模型，32B活跃参数，双模式支持推理与即时响应]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxPLdicJfSo550EUxiaPhZG7JwvzOQCg8huzvdqUDUFyVYSZ0VGzuTT2Y3XZ3iaKUib5GrDY26XzwYvmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：GLM-4.5★GLM-4.5是由Z.ai设计的开源大语言模型，专为智能智能体应用而开发。该模型拥有355B总参数和32B活跃参数，支持推理、编码和智能体功能。GLM-4.5提供思考</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499061&amp;idx=1&amp;sn=9f39b28d50b9711443c9281c0527af45&amp;chksm=c05c0b751d8b42f7e02578b8529be08aead01d3c9f32c1057871c1c9381591c79682e50ab239&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Jul 2025 11:08:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
