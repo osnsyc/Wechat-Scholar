@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[强化学习再迎范式切换：Sergey Levine团队把目标改写成“到达时间”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglia97KIicNkEPSFfE0NrdRaWsWCOahOwPYgfic29UPC41s7mRNcyicKqx9t62q6g6LxDPTAk2PqAYlDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>还在把“目标”当一帧观测硬塞进网络？来自 UC Berkeley 强化学习大牛 Sergey Levine 团队的新作，直接把范式翻过来——用“从任意状态到目标的最优到达时间”来定义目标。理论上“既足</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709412&amp;idx=1&amp;sn=0390b456ca4f05ba79aff8983093c33d&amp;chksm=97922d9125a31db63d3ad9be69b2f3a68c984ea39047be7e0d0eee414bea53579f0dc401d84d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 23:23:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如果RL可预测，我们还需要把训练跑满吗？中科大揭示参数更新的线性秘密]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglia97KIicNkEPSFfE0NrdRaWPwYHcWBnYDjTyCuTLCrE7wicichjaHbtJBpHQu9EJNcHXEJggsAuc1ibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>RL 训练真的像我们以为的那样“混沌”吗？中科大团队发现，大模型的强化学习过程几乎沿着一条线性轨迹前进——早期的参数更新就能预测训练终局。 从复杂到可预测，这一发现让 RL 的漫长训练第一次显得“可计</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709412&amp;idx=2&amp;sn=b9fd526b87e266001c746686cb9c2078&amp;chksm=97846e7d9b2d6249d7a3d38764a7178eab98cb18f4bad3a0123710e2ae9000f305d3fb498214&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 23:23:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Mamba-3惊现ICLR 2026投稿：三重升级打满“推理优先”范式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm4iaLGHibC5k1lnPbRHlKicEaJuicGeawgVIoFlIliaZGvR75TKJeicxGO8skI9DVVo7ZouqSaPVKyW9rg/640?wxtype=jpeg&amp;wxfrom=0"/><p>ICLR 2026 投稿惊现 Mamba-3：一场从数值分析、复值状态到硬件算力的系统重构，线性模型的“效率—能力—质量”三线齐升。在 ICLR 2026 的 OpenReview 上，一篇匿名投稿以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709332&amp;idx=1&amp;sn=ddf9d96ce773db8bfeb657bbc31e060a&amp;chksm=97e002084ba3d2c4f16d5b620a99b6d81ec5afffa460cb1e09b942e4e3fa18e8b29afdf3edbc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkZvmkvk8gYmiccqhCdXSSFM2g3HujfEefkFZ5KCRyqF1uEicLoFdqyd0qDFJtgt0CjlxZnPgjfRo4A/300?wxtype=jpeg&amp;wxfrom=0"/><p>扩散大语言模型（dLLMs）凭借并行解码与独特的全局规划能力，有望解决自回归（AR）大模型的效率瓶瓶颈和规划能力缺陷。但其「全局规划」能力依赖于其双向注意力对所有后文的关注，这带来了严重的计算冗余，从</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708423&amp;idx=4&amp;sn=9a7ca167fcbfe9bcdcb759505d357eab&amp;chksm=97d8f1dc01574b576a4e66c068201e697792584cfceca66b11b89008880a01dc391bac0e9d4f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 19 Sep 2025 22:35:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谁在拖慢你的RL？别怪显卡，错的可能是你的PG-loss]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgktSpibewMU88ReBI0icMvwdic9k8yXu1BnoPdP1WojzW98wNoGvyj4MicP3w60uJibzqibXlvGabQ9cjWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 皓天研究方向 | AI安全、推理&amp;规划训练跑得慢、收敛不稳，很多人第一反应是算力不足、参数没调好。但问题往往更隐蔽：pg-loss 的期望计算本身可能就错了。当 rollout≠polic</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708362&amp;idx=1&amp;sn=053d180affff2539214e5ec531dd8441&amp;chksm=97119034697984ce49710a24356e9991d8d9972dbc461eca9b16e876f797881fae7789f0ac4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Sep 2025 14:22:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICCV 2025 | Gap即力量！挖掘模态间隔潜力，MG-CLIP实现持续学习SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgktSpibewMU88ReBI0icMvwdicg7sgxfeiafGdaeqF8QpibZHVLPxdmknbbpzmic8fUH0WDgrek0oElAGLg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在类增量学习（Class-Incremental Learning, CIL）中，模型需要在不断学习新任务的同时保留旧知识，避免灾难性遗忘。近期，大规模预训练模型（如 CLIP）展现了强大的泛化与零样</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708362&amp;idx=2&amp;sn=45b023be42baf9a8701e2a13fb79e189&amp;chksm=975e6fc856cf87d7a57b6535094928ae8552e94828a332e91da8ff9fb523bca9da34ac3e847e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Sep 2025 14:22:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
