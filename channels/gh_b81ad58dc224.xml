@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-10-14）：谢赛宁团队 RAE开源，预训练表征编码器 + 扩散模型两阶段流程，开辟 DiT 训练新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzCFLeQBcwMiaZHWO8bAV4tBGBnu5njvz4lVmF7ORjmBqr2cibZewexoVV4Pia8kGAI3iaH9kTu6fYfYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：RAE★Representation Autoencoders (RAE) 是一类自编码器，利用预训练的冻结表示编码器（如 DINOv2 和 SigLIP2）作为编码器，并使用训练过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499748&amp;idx=1&amp;sn=a584253f8224ff3fc58ea7b9b8f28261&amp;chksm=c03842e29d892d73e9ac75e745b22677bcdb330f57157aeba472ddf24056d7cca5f7f8831bae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:08:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-10-13）：LLaVA-OneVision开源，图像训练降本提效，多模态基准性能超 Qwen2.5-VL]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxZjxfNS8qI91sgY4pwexRjYEOtWHsscicTenlc7rh1yKNfzUWhe8r3gtnmchtEOXOR5Y1cF9Qe4dw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LLaVA-OneVision-1.5★LLaVA-OneVision-1.5 是一个全开源的大型多模态模型框架，旨在通过在原生分辨率图像上的训练，以显著降低成本实现最先进的性能。该</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499729&amp;idx=1&amp;sn=5424ae30b1c911687cb0dccd4da3e7d0&amp;chksm=c0648a2a86c78bbc407aa8a0ed3145cecbdc714098b0f119a2a9a4130edd607a4ce66fa22ee9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxeKsj6NBboD8dcTHWPB5pejrJ5GC7MAFpickMpHfECmmHdEyll8ZPBxUoCymAnalFK72UANJ65Lug/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Step3★Step3是一个先进的多模态推理模型，基于Mixture-of-Experts架构，拥有321B总参数和38B活跃参数。该模型通过多矩阵分解注意力（MFA）和注意力-FF</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499093&amp;idx=1&amp;sn=ab16ea3c08093d3d6fc96eb46e637821&amp;chksm=c05bb94ef86e22d3689d6448b1c03df5d9027907155727f126f74e32f0b4ff2f6407f27442cd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 01 Aug 2025 10:29:51 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-07-31）：ArcherCodeR，1.5B规则强化学习代码模型，开源框架+数据集，增强LLM代码推理能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw0dWbZhsh7ycniaukP1AXs1tTWQicYNlNTpWIop2dfza43WYcTvn5FuMlD0P41qg7x4DYZ0ZIaYv8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：ArcherCodeR★ArcherCodeR 是一个开源项目，旨在通过可扩展的、规则驱动的强化学习来增强大语言模型的代码推理能力。该项目专注于中小规模模型的强化学习算法和训练研究，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499082&amp;idx=1&amp;sn=dfa56cc07dd3b798bc2e1b1b467f9599&amp;chksm=c07083be45b85de6e96738a466a91298a88fa9e1d01be940adf6c92ccab68f7dece41a9923b3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 31 Jul 2025 10:16:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
