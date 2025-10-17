@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[Identity-GRPO：阿里开源多人物定制化视频生成的后训练优化算法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtNaxWwYdt7L2LJCIicpZicMtpyWtKCr9qpFn6YjNpPVzhMYvuibvlTszzvEWKib6LdujBLg4eMCj3G1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇分享论文 Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247642099&amp;idx=1&amp;sn=612ac4d3ef32ac086a5959bee407d50a&amp;chksm=97653382c8a0e795854c9ff186fd3ad63197428a9e84e009e3eedb87fad1da4467d65512b0ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 16:17:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Real-world Video Super-Resolution | VSR的十字路口]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtNaxWwYdt7L2LJCIicpZicMtSvUkMOwE6HukYiciaWBOjQeRrR6DPx6AuDROtMd1tFNJG7rtXeURSGTQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文为粉丝投稿，原文链接：https://zhuanlan.zhihu.com/p/1959430260706744130。本文距离上一篇文章Real-world Super-Resolution |</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247642099&amp;idx=2&amp;sn=c64dad72dfe4e13e850bf3f8ae3fcfe0&amp;chksm=9702a2e0bbf133f949ef64fba2fb9b94d4001844e43f3418082cf4cfdb75bf28798329ba7684&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 16:17:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NeurIPS 2025 | 为Sora视频加上“隐形身份证”：清华大学等提出Safe-Sora，时空频率感知水印新框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuwUbsFGXicqLs3cmiaVghtCYibMdQgbWYfFXAuKs4Rpn9LELUSdqAfJcO7bMq0WrLiaQZu9xVHNLU7ibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着Sora等视频生成模型的爆发式增长，如何为AI生成内容进行版权溯源和认证，成了一个亟待解决的问题。在图片生成领域，隐形水印已经是一种常见的技术，但在视频生成中，相关的探索还比较少。最近，来自清华大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247641670&amp;idx=1&amp;sn=f918f03aa34204a808782889c6a19205&amp;chksm=97b608a41142c83b71d6e5461c0ba2a8e906fef473da0f9d6c969e7fa0b02ba3c31717db1a7c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtibgWM1iae9P2Ox4YSPtndib8T6WK5v6f09MOy6FNbQ9HPyC4R3s8tQJicP4HwsBrl58BBXVY7TlSKEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前，大型语言模型（LLM）的训练和微调几乎完全依赖于“下一个词元预测”（Next Token Prediction）这一自回归的生成式任务。然而，在计算机视觉领域，一个名为 联合嵌入预测架构（Joi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247637025&amp;idx=3&amp;sn=f3dd386a5c4bdc3b8984fe0416cc6727&amp;chksm=97b243bf5e79c3f2699d100352d3ceb01076e79317cc5823b405d8d66102c877d7e807deba70&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Sep 2025 16:08:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果发布Manzano：一种简单可扩展的统一多模态大模型，其混合视觉Tokenizer统一了理解与生成任务，性能SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtnmoicO3a5Ipkbun74mk2wIsoRYib0JKCUlhhrHugkWBCIibAVOqCbcCGOoAanyatS0tJw0IrKyoWYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍来自苹果今天发布的 Manzano 模型，这是一个简单且可扩展的统一多模态框架。它通过创新的 混合视觉Tokenizer ，成功地缓解了多模态大语言模型（LLM）在同时执行视觉理解和生成任务时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247636580&amp;idx=1&amp;sn=654a4b72ba9c5ea364df032e95511d27&amp;chksm=97dd8540121a6d773a01155baa9910d2ff41e24fd2e099c910c61e07d3cc421901318363e298&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Sep 2025 11:50:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[字节跳动SAIL-VL2登顶OpenCompass，开源高效多模态新标杆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtnmoicO3a5Ipkbun74mk2wIIplATVwRYAckyibx8HDnCKfzOHSnEcEg88ZwOJe7icPYTJCUplDVps7A/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，字节跳动 Douyin SAIL 团队与新加坡国立大学 LV-NUS 实验室联合发布了其最新的开源视觉语言基础模型（LVM）—— SAIL-VL2。作为其前代 SAIL-VL 的强力续作，SAI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247636580&amp;idx=2&amp;sn=63cb646ee1a1422fa467d1c2f577cd35&amp;chksm=97abc06b0feaeb11e64f19a10ce6f77679ebfa962b96e6fe9015d8a6678663055c7cd53041b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Sep 2025 11:50:56 +0800</pubDate>
     </item>
   </channel>
 </rss>

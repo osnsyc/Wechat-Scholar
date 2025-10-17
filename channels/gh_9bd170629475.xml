@@ -10,6 +10,18 @@
       <title>gh_9bd170629475</title>
     </image>
     <item>
+      <title><![CDATA[OpenAI双巨头首次详解GPT-5，不是下一代GPT，终极形态是AI研究员]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qEpibiabMYjWaCcl8AMGqAuFY9ydk0301FrZyHtTwSlPmLENwMcw2gqPFqAtUdzHia7QFia5B1MV1YYgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前不久，OpenAI 的两大巨头——首席科学家 Jakub Pachocki 与首席研究官 Mark Chen 共同接受硅谷风投 a16z 深度访谈，首次系统性地揭示了 GPT-5 的真实定位——这不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247611800&amp;idx=1&amp;sn=60284fb7d9383cce1603a7b3e2afca5e&amp;chksm=96946c4ff90dcc7620cce93caa02f72f7eb4aff864a5b2afd834f6b10bdd3988c4f53506ad11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 15:26:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[EntropyLong：通过预测不确定性实现高效的长上下文训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qEpibiabMYjWaCcl8AMGqAuFYzNrSjicbz5J5nRwJWo8NscBqRLl3nD72L5EwL0BEfwAfK5dDBNZlHnA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这篇文章中，我们提出了 EntropyLong，一种基于预测不确定性的长文本数据构造方法。该方法通过模型的预测熵来识别信息缺失的位置，检索相关上下文，并验证这些上下文是否能够降低预测不确定性，从而构</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247611800&amp;idx=2&amp;sn=a7ddccf70ed2be9d87762f5d4056cc4a&amp;chksm=968a2f91e98d73a2cca5d28df927b8127f821eaab4bbcc261cb84e55d263d1a0a3406be2aa0f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 15:26:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[实测豆包语音模型2.0：AI和人的边界，彻底消失了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qEth6rKOfRGwWia4XuWb8D8fhmGq9lttuZoPguWibtW8QqUMM3Btp0v4pkAHGD7ibbt6K3fxtRW3LMHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 声音要卷的飞起了。今天，火山引擎升级了两个语音模型：豆包·语音合成模型 2.0 和豆包·声音复刻模型 2.0。如果你还对“AI 声音”这几个字不感冒，一定要留下来看看。用文字说挺费劲的。语音这种</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247611695&amp;idx=1&amp;sn=0f02d4afd8c14678fa1bac20c24d39d3&amp;chksm=962c3acac713f5d436325e8584b67c967a96e45d512452d2cfa8fa8a6c8154e0ee1126b189f3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFAxibEUAlpljKR9MdKFCyiaBbPWHlDnnAEv80WSsmu37O5B7q7jxeSUvAPuEjVY58icibFicpWEzS4r2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来, 大语言模型 (LLM) 在数学、编程等 "有标准答案" 的任务上取得了突破性进展, 这背后离不开 "可验证奖励" (Reinforcement Learning with Verifiabl</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247610095&amp;idx=2&amp;sn=fa0e05cd3aa3f8b3daa9f6c1b40db9d4&amp;chksm=96c54def362383dd4f4f3c49532565dcd5dd460ed607e51cdf7f8546015d8b5d7491e1034e6c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 30 Jul 2025 15:47:24 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源版 Coze 实测，搭建 Agent，Vibe Coding 都多余了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qGvC9AIUCDibicDm3xrRFexanMPLqSrzYbic1ia2FYSEuqIz3wPNzX0tUXG2TCUEeufTpiaibQke8mOic8PQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，字节跳动把他们的 AI Agent 开发平台 Coze 开源了。Coze 本身是一个无需编程就能快速创建、调试和部署 AI Agent 的平台。 这次开源，他们直接把最核心的两个项目 Coze </p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247609857&amp;idx=1&amp;sn=928641ecc30120e7b5a9b36ed069dbd8&amp;chksm=9615c423114a4c4c3fe43c940c6893d95f73aee3eded6cee66ce7826e95c7681447b34696e96&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Jul 2025 07:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阶跃Step 3炸场WAIC！最强多模态推理开源，推理效率提升300%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qFUQT1iaQGV6ATGqYoo8wwys3vhbOZVmzRibEnd35XHMXU39f8mZn6lia6pIODic4AwFGFjcvW0qW4nuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>坐标上海，WAIC 2025 现场！全中国 AI 圈的半壁江山都来了，整个会场都充满了多巴胺的味道。今天是 WAIC 2025 世界人工智能大会开幕的第一天，我正穿梭在上海世博中心，腿已经快“跑废”了</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247609818&amp;idx=1&amp;sn=85a9c7039c713ac7c96c5c2a3a138b08&amp;chksm=96ba74c14621f5251b84f551dc0ad08eb92cad1cdbd6cdab66406c49ce45db6c4eb3aa1bc997&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 26 Jul 2025 10:27:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
