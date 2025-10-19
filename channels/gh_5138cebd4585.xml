@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[不靠RL、不用训练：哈佛「Power Sampling」让基座模型推理媲美GRPO]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgltCU6hLQ7Unn761xdoicDCibPFCZQs1YoTyiaibZ11kBgJP2tYzP4Tt5XPgWkicDk89w2UUF6LMmUMhrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>不靠强化学习、不做额外训练、不用校验器，也不需要复杂提示——哈佛团队提出的「Power Sampling」仅靠重新设计采样分布，就让基座模型的单发推理媲美 GRPO，还保持了多样性不坍缩。强化学习（R</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709989&amp;idx=1&amp;sn=662c82b94676f67caec12c814d915f07&amp;chksm=976ec84536fd9edc17c0218bd8da1c449efb76f0973a44541bce1757d261f3049fd15f12d639&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Oct 2025 12:35:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不用微调！像打方向盘一样“操控”大模型思考：Steering正在改写推理范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgltCU6hLQ7Unn761xdoicDCib7ibuevuPttsZ75NUG0cy8GeegricuTp7JiazeoibcYpZeia7zSRFRsB9WVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>过去几年，Prompt Engineering 通过设计提示词引导大模型生成答案，而 Context Engineering 进一步强调优化输入上下文，使模型在推理过程中获得更多相关信息，从而提升理解</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709989&amp;idx=2&amp;sn=3d7969df56fc2978cfd51ad02842950a&amp;chksm=975305268e42965ef458478f3c90ae3a9707dcc54794b05b871962bb8ad9a7f58f5e4cbd21ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Oct 2025 12:35:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[First Try Matters，不是Aha Moment：邴立东团队揭示推理模型靠首答，不靠反思]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmiaDAKH30ztic2HaDCSLWCeOdNqsBlU5HUlUvgTFFQG4eSic7jTIBpNSAp4TiaAnDltVcI1g1R3TKNEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>长思维链没那么神奇：推理模型中九成“反思”只是重复确认，真正决定结果的是第一个答案。邴立东团队系统量化发现，使用有更多反思的数据训练能让首答更准，但推理时截断反思几乎不掉分，却能显著节省 token。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709914&amp;idx=1&amp;sn=cd92d41d97423892cca87318f049dc68&amp;chksm=9785c62ca0390450c88974188230114b2142e1b05e3090eb5294cebd9870432e86376f7057ec&amp;scene=0&amp;xtrack=1#rd</link>
@@ -295,18 +307,6 @@
       <title><![CDATA[KV缓存不再爆！清华姚期智团队重写注意力维度，长上下文更省更强 | NeurIPS 2025 Spotlight]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkwwrxfR7GwUvShnt0I1uIcqZoJ9P5dlPPPkE9szxlsRicJ4G8cvgb5olssGPlxATcFIZxUqMa4VqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型的世界里，人们早就习惯了“硬件思维”：显存不够就多加卡，推理太慢就多堆 GPU。长上下文问题因此被视为一场“军备竞赛”——谁能烧更多算力，谁就能撑更长的输入。 但清华大学姚期智团队给出的答案却</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708631&amp;idx=1&amp;sn=9b049c8c0a25312067eebf4c1e267fa1&amp;chksm=978a0de946fb4e59e054c8d963ca0015325c08854968ef5ac6cc6d38f3de5cb2a6ddb8c0ecfe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Sep 2025 22:20:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[78条打穿1万条！上交大新范式告诉你：智能体训练靠“质”，不是靠“量”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkwwrxfR7GwUvShnt0I1uIcWUGNhNuGVx5xCiaU4fcPbgqjWSefd7o5iawEq7Ribfbb9TvDMnAZ0s8jg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型圈，有一个几乎铁律般的直觉：更多数据，就意味着更强的能力。无论是预训练还是指令微调，大家的共识都是“量就是一切”。但这次，来自上海交大等机构的一篇论文却把这条规律颠覆了。 研究团队提出了一个名</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708631&amp;idx=2&amp;sn=c8f1d91454b051428b6c0561872b8b08&amp;chksm=9774302ffe19a931d92e9a92ff5ab1973ba3205ce68cb3a6c013045bd78053b67861d5556f28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Sep 2025 22:20:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[北京内推 | 中科院软件所数据科学研究中心招聘大语言模型算法实习生]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkwwrxfR7GwUvShnt0I1uIcTRu9TX9zj4ibrVZI5qFOjjP3dXcic0POk2RMBFHH0LFPkesUkZheTQ8Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！中科院软件所中国科学院软件研究所是一所致力于计算机科学理论和软件高新技术的研究</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708631&amp;idx=3&amp;sn=7ee2bc48723f40297b887de99a31a15f&amp;chksm=97de1247172c11ab3545102f466b4feac2e9cfcf2c62444cd729f0450da80c0f04ac86bf2f50&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Sep 2025 22:20:44 +0800</pubDate>
     </item>
   </channel>
