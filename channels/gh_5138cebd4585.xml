@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[扩散语言模型也能强化学习？Meta田渊栋团队用“三明治梯度”打通RL闭环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmXjic3mrulcvJxjRyImIuahXichictF3MzibxDYZo4NDXahzVoQhgVWQmLGupiaokQcG0e0qFjp5SgCOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>把“好答案拉上去、坏答案压下去”：SPG 用上下证据界把扩散语言模型的策略梯度夹得又准又稳，一口气把四个经典推理基准的榜首收进囊中。一谈到 dLLM（离散扩散语言模型），大家首先想到的是并行或半自回归</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247710130&amp;idx=1&amp;sn=a4680aada0dbf3f8075b44f211a70477&amp;chksm=97a04161ebfe870bdbb5b1c686851c1a3930fdf0a30edf66a9a57a9e80b8bd0b329f8ad48ebb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 13:50:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2025 | 仅用20B tokens蒸出SOTA，小模型的「低秩时刻」到了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmXjic3mrulcvJxjRyImIuahoxWbP3NFwADsQowqGHFyPFpibLnvxn5N5vfcd7LmkRjwXCicBRAJUFSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近我们高效蒸馏的工作 “Low-Rank Clone（LRC）”非常幸运被 NeurIPS 2025 接收为 Spotlight。TL;DR：我们通过训练一组 Low-Rank Projection</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247710130&amp;idx=2&amp;sn=110b3173c250c91aaced08d5670ff7a7&amp;chksm=97b2c93ecd26992255ca61156d88c67d773f13f41b3bd607fc387e01b2ea2cd1a043f44c6e6e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 13:50:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不靠RL、不用训练：哈佛「Power Sampling」让基座模型推理媲美GRPO]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgltCU6hLQ7Unn761xdoicDCibPFCZQs1YoTyiaibZ11kBgJP2tYzP4Tt5XPgWkicDk89w2UUF6LMmUMhrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>不靠强化学习、不做额外训练、不用校验器，也不需要复杂提示——哈佛团队提出的「Power Sampling」仅靠重新设计采样分布，就让基座模型的单发推理媲美 GRPO，还保持了多样性不坍缩。强化学习（R</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709989&amp;idx=1&amp;sn=662c82b94676f67caec12c814d915f07&amp;chksm=976ec84536fd9edc17c0218bd8da1c449efb76f0973a44541bce1757d261f3049fd15f12d639&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglS4qOGd9Db5eeUicUy83LrlwkATkNs3BcDhsmph4QLibficVzG4iaxbbOfnxlVYYCIL66icFX5xrQmOrw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型的发展历史上，「上下文长度」一直是横亘在研究和应用之间的最大鸿沟之一。无论是百万行代码的全局理解，还是上百页文档的精确问答，当输入序列超过数万 token，现有 LLM 都会遭遇同样的困境：计</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708669&amp;idx=2&amp;sn=0daaeb325ee10bb898d37642297433a7&amp;chksm=97b9e6af695860ae69a6197f4cd2d86e8ac52e625d80330d744180e9dd755d519f43650c3522&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Sep 2025 17:34:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[博士申请 | 香港中文大学（深圳）冀晓强老师课题组招收人工智能全奖博士/硕士]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglS4qOGd9Db5eeUicUy83LrlkCiaL8vSsQg75LkGwcFdKZzbclaCWEyjIaATR5n8CVEv5QmgIMgcNJg/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！香港中文大学（深圳）香港中文大学（深圳）理工学院成立于2015年，秉承香港中文</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708669&amp;idx=3&amp;sn=1e9b514efe6f070f8f37c21b73bf01b4&amp;chksm=97d459a9f4a461fa81a9634fa3ffc3568732d7fbbcd625b143ccd5fc927bb657b2571eae422b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Sep 2025 17:34:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[KV缓存不再爆！清华姚期智团队重写注意力维度，长上下文更省更强 | NeurIPS 2025 Spotlight]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkwwrxfR7GwUvShnt0I1uIcqZoJ9P5dlPPPkE9szxlsRicJ4G8cvgb5olssGPlxATcFIZxUqMa4VqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型的世界里，人们早就习惯了“硬件思维”：显存不够就多加卡，推理太慢就多堆 GPU。长上下文问题因此被视为一场“军备竞赛”——谁能烧更多算力，谁就能撑更长的输入。 但清华大学姚期智团队给出的答案却</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247708631&amp;idx=1&amp;sn=9b049c8c0a25312067eebf4c1e267fa1&amp;chksm=978a0de946fb4e59e054c8d963ca0015325c08854968ef5ac6cc6d38f3de5cb2a6ddb8c0ecfe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Sep 2025 22:20:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
