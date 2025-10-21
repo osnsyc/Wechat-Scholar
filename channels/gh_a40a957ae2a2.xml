@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[今日地铁Time！ 周六受好友@卡兹克邀请，在“一起AI，交个朋友”上做了一次分享， 主要是讲了从2023年到现在做ToB项目落地的一些闲聊、吐槽及思考， 昨天Andrej Karpathy的播客也是很火，真值得一看， Karpathy播客的内容，我这里就不说了，网上解读比较多，可以看看好友@大聪明和@阿颖的分享， 主要聊一下，我的分享里的几个爆论，跟Karpathy一些内容能对上， 第一个，就是在真实toB上，Workflow 比 Agent 更重要，即使是在Agent大火的今年， 主要很多企业，尤其是制造业、工业，现在需要的其实很多不是AI能力，而是自动化能力， 而一般在整个自动化流程中，AI或者大模型只是其中的一环， 那么WorkFlow的模式就更适合， 当然还有很关键的因素，国内ToB，很在乎数据隔离、安全性的问题， 就导致基本上都是一些本地化的项目，模型都在30B、70B的尺寸，太大性价比很低， 那么你就会发现，其实并没有那么智能，Agent的出错概率很高，WorkFlow的可控性会更高。 还有第二个就是，大部分ToB都还在SFT，RL其实是奢望， 很多企业内部任务并没有一个准确的，好坏评价体系， 很多时候都是业务人员，测了几个问题，好了就是好了，坏了就是坏了， 无法定义一个好的奖励模型，也就没法做一个RL任务。 第三个，就是在2025年，RAG大家虽然会觉得很老、很low，毕竟都在追捧Agent， 但现在最好落地的，还是以RAG为主的知识库问答，也是企业场景里最需要的，使用率较高的， 虽然很多开源框架，从0到1很容易，但在往上全是坑点， 核心还是很多工程化内容，甚至大部分时间，你是在做数据基建工作。 以上。 叠甲，本人做文本类toB较多，观点可以不适用所有人， 欢迎评论区讨论！]]></title>
+      <description><![CDATA[<p>今日地铁Time！ 周六受好友@卡兹克邀请，在“一起AI，交个朋友”上做了一次分享， 主要是讲了从2023年到现在做ToB项目落地的一些闲聊、吐槽及思考， 昨天Andrej Karpathy的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247496752&amp;idx=1&amp;sn=ef0af0e65fd099752a3b20451c79f5a8&amp;chksm=ce2f6bfdb0e9d37e489f23b69326d3224f887a14ea1694bbcf2a3d425c201654981d33ea812a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 08:28:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek又开源，这次是OCR模型！附论文解读！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nwCiaxAuX6aFgiaZiaEHn7YuoD5jQia8rsmybyrAGKaDUFkJ5JPS4ZOPkKNM9nYJECnrndJTLfLmAC3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。刚刚，DeepSeek又开源了，这次是OCR模型，整个模型大小在3B。DeepSeek-OCR的提出，是为了探索，是否可以通过视觉模态进行文本信息的高效压缩，也就是把文档内容，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247496749&amp;idx=1&amp;sn=eb18c4e87f54eb1b6bae2cec1b2a8012&amp;chksm=ce52a309c2aea57a80842db26fc1fed8f1fd8933ac9f70c018801af39cbc084982d3e30dac25&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lOdoQDjqGf23WW5N4BkcBgOfD3RuSwatAe3K7gYchWpOo1LlGXMg4EJzNHERTIl5n0NiaqbnntKhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。早起就看到Qwen又更新模型了，Qwen3-235B-A22B-Instruct-2507，是一个非推理模型。参数跟之前的Qwen3-235B-A22B是一致的，总参数数量，2</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495033&amp;idx=1&amp;sn=c39c324fc1f6c6b26fda004f35dee940&amp;chksm=ce2865c6bafa7bb2c1f9b62bc523fd07293ff3ac253e6d2f1b98b4e05fc681657b216339d5d9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 22 Jul 2025 01:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型RL训练框架的进化之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mGG5S7kCyRJnZ6fgR6UQMM2zft5RdE3LRxEMoMI8iap2jU6GUQibCRBOZKg5IMYG5OfzJJUcrN4HYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：https://zhuanlan.zhihu.com/p/1930280222068053288 大模型RL框架的进化之路2024年O1路线发现之前，主流的有监督的机器学习，是让学生去学习一个问</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495026&amp;idx=1&amp;sn=a19c548326a8653c16416458de5f3cc5&amp;chksm=ce7c5fb4b1e3441fd42073fb3b61f8e93c1e1dbeb968873d8f0abe9b4b6f831a1671f71a9602&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Jul 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
