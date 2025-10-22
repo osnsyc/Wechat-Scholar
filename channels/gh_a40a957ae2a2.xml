@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[再谈DeepSeek-OCR的信息压缩论！附DeepSeek-OCR与PaddleOCR实测对比！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5l90RLczyYxANHUFtIGNTP0PqV336DCcKj15bibwt2wWVGeFib727EsVc9hTMBzn3j926t9zibSB6qsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。前天，分享了DeepSeek-OCR的相关细节，确实有被DS的高立意所折服，我还在苦苦利用OCR解析文档做落地的时候，DeepSeek在考虑用图像压缩文本信息！昨天一天的发酵，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247496787&amp;idx=1&amp;sn=33db786fd8ffe98346df39798743eff8&amp;chksm=ceb105a69c4a15378ee72af290bdefdde0b753d40c29874ac8188b6ae2be573a27a832501c26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 15:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日地铁Time！ 周六受好友@卡兹克邀请，在“一起AI，交个朋友”上做了一次分享， 主要是讲了从2023年到现在做ToB项目落地的一些闲聊、吐槽及思考， 昨天Andrej Karpathy的播客也是很火，真值得一看， Karpathy播客的内容，我这里就不说了，网上解读比较多，可以看看好友@大聪明和@阿颖的分享， 主要聊一下，我的分享里的几个爆论，跟Karpathy一些内容能对上， 第一个，就是在真实toB上，Workflow 比 Agent 更重要，即使是在Agent大火的今年， 主要很多企业，尤其是制造业、工业，现在需要的其实很多不是AI能力，而是自动化能力， 而一般在整个自动化流程中，AI或者大模型只是其中的一环， 那么WorkFlow的模式就更适合， 当然还有很关键的因素，国内ToB，很在乎数据隔离、安全性的问题， 就导致基本上都是一些本地化的项目，模型都在30B、70B的尺寸，太大性价比很低， 那么你就会发现，其实并没有那么智能，Agent的出错概率很高，WorkFlow的可控性会更高。 还有第二个就是，大部分ToB都还在SFT，RL其实是奢望， 很多企业内部任务并没有一个准确的，好坏评价体系， 很多时候都是业务人员，测了几个问题，好了就是好了，坏了就是坏了， 无法定义一个好的奖励模型，也就没法做一个RL任务。 第三个，就是在2025年，RAG大家虽然会觉得很老、很low，毕竟都在追捧Agent， 但现在最好落地的，还是以RAG为主的知识库问答，也是企业场景里最需要的，使用率较高的， 虽然很多开源框架，从0到1很容易，但在往上全是坑点， 核心还是很多工程化内容，甚至大部分时间，你是在做数据基建工作。 以上。 叠甲，本人做文本类toB较多，观点可以不适用所有人， 欢迎评论区讨论！]]></title>
       <description><![CDATA[<p>今日地铁Time！ 周六受好友@卡兹克邀请，在“一起AI，交个朋友”上做了一次分享， 主要是讲了从2023年到现在做ToB项目落地的一些闲聊、吐槽及思考， 昨天Andrej Karpathy的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247496752&amp;idx=1&amp;sn=ef0af0e65fd099752a3b20451c79f5a8&amp;chksm=ce2f6bfdb0e9d37e489f23b69326d3224f887a14ea1694bbcf2a3d425c201654981d33ea812a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lOdoQDjqGf23WW5N4BkcBgOfD3RuSwatAe3K7gYchWpOo1LlGXMg4EJzNHERTIl5n0NiaqbnntKhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。是的，没错，Qwen又双叒开源了，即昨天开源Qwen3-235B-A22B-Instruct-2507模型后，今天又开源Qwen3-Coder模型，这次更大，总参数480B，激</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495077&amp;idx=1&amp;sn=bf21c782b64325d22c2a05f1b7f4a271&amp;chksm=ce69f6a0a6d7e243e33fdfd3e6fa3e38f009a6e3ac95ae7255f9aaed8fd0ebd9db3daeda409b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 23 Jul 2025 00:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[千问又开源新模型: Qwen3-235B-A22B-Instruct-2507]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5lOdoQDjqGf23WW5N4BkcBgOfD3RuSwatAe3K7gYchWpOo1LlGXMg4EJzNHERTIl5n0NiaqbnntKhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。早起就看到Qwen又更新模型了，Qwen3-235B-A22B-Instruct-2507，是一个非推理模型。参数跟之前的Qwen3-235B-A22B是一致的，总参数数量，2</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495033&amp;idx=1&amp;sn=c39c324fc1f6c6b26fda004f35dee940&amp;chksm=ce2865c6bafa7bb2c1f9b62bc523fd07293ff3ac253e6d2f1b98b4e05fc681657b216339d5d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Jul 2025 01:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
