@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-10-23）：开源多模态模型 DreamOmni2，指令驱动统一生成与编辑，攻克身份姿态一致性难题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwYdMHJcicIJWesUNunNOAtofFwPUoz9FKiavicEzicTjldIksu8fK62myEbkrB3z4TzZY1aCnxfRdnSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DreamOmni2★DreamOmni2 是一个多模态指令驱动的编辑和生成模型。它在传统的基于具体对象的生成任务中表现优异，尤其在身份和姿态一致性方面。该模型还支持抽象属性的引用，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499975&amp;idx=1&amp;sn=7a94aa3b7fc72816c25bc66d5b09e1c4&amp;chksm=c03fd1bf68398094cd7d81cb648276fe30e9d35c1e1e6cc588629234f0581c6856387911d1b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 18:13:18 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-10-22）：EditScore开源，7B-72B 参数覆盖，精准评估指令引导图像编辑质量]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzaskTt7IT0FQREMmbibeD2wX1QRewYfibyPuWpxbUgOEk03licjAicVyeK9ficFvhWsSM2ZibhMLDmsxpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：EditScore★EditScore 是一系列最先进的开源奖励模型（7B–72B），旨在评估和增强指令引导的图像编辑。该项目引入了 EditReward-Bench，这是第一个专门</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499956&amp;idx=1&amp;sn=290fdb7fbe94167645b8ce8d96ca2b7c&amp;chksm=c0063e1847fb3400a17cd825eee995bc47bcd56f3d60f2ee24c26e68273be81f35fdb6ab4047&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyof6NaQUqZ3femTAkdC5N4BEwibcBmicQANuHxUKtMwjkXh2fs5vDfmxhhCCBekShKb3XTPnmyspwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：GLM-4.5V★GLM-4.5V是基于智谱AI下一代旗舰文本基础模型GLM-4.5-Air的视觉语言模型。该模型在42个公共视觉语言基准上实现了同规模模型中的SOTA性能，涵盖图像</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499193&amp;idx=1&amp;sn=e49654ae0b75811e1763548a93189116&amp;chksm=c06d0f086f906bca9f07bc6ab31c8d898fd55928f1f62c4d4df5de3d3f2b4071ea4d412f0c7f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 12 Aug 2025 18:27:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-08-11）：MiroThinker，8B-32B开源智能体模型，集成多跳推理、代码执行等，长上下文表现优异]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkz4r92Q3QUWG4QntcibmQEuFEyO7ia4SBRsDAW96Ty3iaOmBibjzIQgRb9n5Vc3Ao51um9NqicQNeSlSxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MiroThinker★MiroThinker 是一个开源的智能agent模型系列，基于 Qwen3 构建，专为深度研究和复杂工具使用场景而设计。它集成了任务分解、多跳推理、检索增强</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499181&amp;idx=1&amp;sn=c23ea00a70bc148c1201d7b7e6797802&amp;chksm=c0c1f9c49cf6de8b04d9f5499750beb699d84fe42ff447da32910613ad0d6dcb87a8b7ac3aca&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 Aug 2025 10:10:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
