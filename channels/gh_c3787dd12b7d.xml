@@ -10,6 +10,18 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[ROSCon China 2025 倒计时开启｜ 把算法带到真实世界！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztCaFu4GYAFm2D8VKoc3gFBaqdiaFKPztF4sjtTw1Qv5Sdg1larxx422DtDUfDwm37SlWwPlddVhFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 10 月 31 日至 11 月 1 日，ROSCon China 2025 将在 上海虹桥新华联索菲特大酒店 盛大举行！这是一场汇聚全球顶尖机器人开发者、学者与产业领袖的技术盛宴——从算</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247613667&amp;idx=1&amp;sn=06b1db1389d86bb6ee5f719d41a8c960&amp;chksm=fa25671a81d207bc17e71d02f6b3538af0f549e0e06beea5b4c4ca6827a383b9c5ee251f8b11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 17:30:30 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ROSCon China 2025大会加码 《NVIDIA AI 实战培训》免费报名！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztNgg0NMndThXC6a8SWJZYYW8kCQRNSejGQaZrt48cethKVuCHz3KUIZw46IXedibMHIGhlek7o1ag/300?wxtype=jpeg&amp;wxfrom=0"/><p>ROSCon China 2025 独家福利 — 大会门票 + Isaac 实战课程（限量 50 席）！机器人开发者的年度盛会来了！本次 ROSCon China 邀请 NVIDIA 深度学习培训中心</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247613667&amp;idx=2&amp;sn=5dd9c64b9d4b1deabf4f21fc467d8a44&amp;chksm=fa23e83a1811456104686578f83d439592128e8e35a29a965ebb54c7ad7294ebf9a7e70f8e9a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 17:30:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【机器学习从0到1】K-Means 聚类算法详解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsrq4xxLTNicictwxd1OVXRuEPpWyF4wzGn5d5jVKv3mCkzVSRcy9jCX0GiaTZiauTkhf24ohSSW8LcLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在前几篇文章中，我们主要学习了监督学习方法，例如 KNN、决策树、Boosting 系列等。这些算法都有一个共同点：数据集带有标签，算法通过拟合输入与标签之间的关系，完成分类或回归任务。然而，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247613625&amp;idx=1&amp;sn=d0e8286b0afdeb15cc69802a1a17166a&amp;chksm=fa97cfb08b436bd2c0e5c42beba8617dd0b330fc3ff4458cffa135c15ee8e39084e44711186a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztcGEP1VibB5iaGTTL5yOgUicWaviavqIPtVfMHSwrJXTyhMQ0Oy4XIBAficUaVj2u1bDvlYUCibcHDHwCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当AI走出数据中心，真正融入物理世界，我们面临一个全新的挑战：速度。在这里，毫秒级的延迟都可能导致截然不同的结果。算力是基石，而如何将强大的算力高效转化为在复杂场景下的实时推理能力，才是那座连接算法与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247610919&amp;idx=1&amp;sn=1ee09095e628f621da2fd09d832fa832&amp;chksm=fa71f04e15cb03ba87c53c477596e6106af351e1847945eae7eee64925c25d9c7053c5250626&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Sep 2025 17:31:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用 Ninja/bazel 生成器进行高效构建]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztIOicugCDicoV0tId8J09dOXc7TNvFkvBXLZIEfDibyaIGic9q3LZaQicD4hCM7zCEpNhZPEjibPDspqibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>CMake 是一个强大的元构建系统，能够为多种构建工具生成构建文件。虽然 CMake 默认使用 make 工具生成 Makefile，但它也支持其他生成器，其中 Ninja 生成器因其简单性和高效性而</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247610800&amp;idx=1&amp;sn=944c0912264a80a1236a073b5a023d1c&amp;chksm=fa18b031b7d713a29dae072e66e6cbceeaa6d0ce85c2246b2bdaa85086759e16c6a43fa2ccd1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Sep 2025 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[欢迎报名！2025全球校园人工智能算法精英大赛——大模型技术创新赛/大模型任务挑战赛火热报名中！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztIOicugCDicoV0tId8J09dOXhm7kw31ZCorUbw6LV9ibico8LNRXukcAz2FI39nl3U2kDszicIWiahdaXA/300?wxtype=jpeg&amp;wxfrom=0"/><p>赛项介绍全球校园人工智能算法精英大赛是由江苏省人工智能学会举办的面向全球具有正式学籍的全日制高等院校及以上在校学生的算法竞赛，2023年3月，大赛首次被列入“全国普通高等学校学科竞赛排行榜”，正式成为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247610800&amp;idx=2&amp;sn=38f49234bd49218679c9992cecf3c1ef&amp;chksm=fab439bfb6d2698a2405ee44535deb95927ce2d3fdcdd6f05ecdd1376c772b5e66519ecc8881&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Sep 2025 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
