@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[越来越感觉 Agent 是未来的方向了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahmvJBWBaXqDjRxBnqQn9ibo3UhMytPKyknjFM5mIqJXMoDpxiae01qafrNJAMnILYmhmicLrhj2Xejg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前正是Agent发展的黄金时期，对于想要在该领域发论文的同学来说，掌握其高效的学习路径、深入了解Agent的核心系统形态/技术融合创新至关重要。本文根据以上三维视角，整理了131篇前沿论文，包含当前</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544864&amp;idx=1&amp;sn=4a8935fe9e7970d09e152a15ab9e720a&amp;chksm=ea18602c0c85b98768225f119dfe5c933c4ab6cc9b5347f4b4b78aebdaeb3a49007835d0bde2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 11:16:58 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[量化噪声竟是RL秘钥？QeRL：高效强化学习新范式，一场噪声引发的性能革命]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaaaJXRpppca6AEicsXMzGdls9and0r4HnGHHmBnIzKSYptjnzHT8CNc1txD39D6m9SOlMQgibtAk2A/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（LLM）在复杂推理任务中展现出惊人能力，但如何让模型真正“学会思考”而非简单模仿，成为关键挑战。监督微调（SFT）虽能教模型模仿解题步骤，却难以培养其自主推理能力。相比之下，强化学</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544864&amp;idx=2&amp;sn=0d2debc4eb5ea9e9ffb3ec531e37fa49&amp;chksm=ea8815d58132cfb8494e30a264181ed76a5c597b23d1d6edeca35269318196a0028bb1e45ccb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 11:16:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[传统训练效率很低？我们靠 “给模型降噪” 重新审视长上下文建模难题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahmvJBWBaXqDjRxBnqQn9ibovLGialoHKKOnGnCUPYlGZrJCKICudibr0iaw1pXiaDC4WTYt8TB44V8qKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能飞速发展的今天，能够处理超长文本（数十万至上百万字）的大型语言模型，已成为智能助理、代码分析与复杂推理任务的核心。然而，这些模型始终面临一个根本性瓶颈：在处理长文本时，模型容易被大量无关信息</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544828&amp;idx=1&amp;sn=f315a30eb9bdb9d8ea36185e82530471&amp;chksm=eaec788b24f9b2cfe82206e673ac35bca087630bd04a5be5cbadf93adfb5803539a3b8f08f3f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajE52Ws83l9iaxt5XH4kB4vTbdJn9IeqKNBxXlCO8gYgaGejET6T8YN3HQlhwFQ6JQettvvS4cdXFg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（LLM）的多语言能力越来越突出，但在低资源语言上的性能仍存在显著短板。目前常见的解决思路是模型微调，但是这既成本高昂又面临低资源语料短缺的困境。因此，本研究提出一种更为高效的Bri</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544052&amp;idx=2&amp;sn=1512b5014ec47fe51ee7d1492eb8663e&amp;chksm=eadeb4d845129cfb1df7a345e57426003daec033650f8da9dbe72c17ccffb7e6210e7d3382b4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 27 Sep 2025 18:29:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯提出RLPT：在预训练数据上进行RL，一种高效、可扩展且不依赖人工标注的新训练范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagZ5UCjMKnBTakJDc7pHe3RYIQlCwo2ZibUXF8JoKuTktsuv06lOAmDtrzswfQ7xAPKP7Sy2bVWZWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（LLMs）如 ChatGPT、Llama、Qwen 等取得了令人瞩目的成就，广泛应用于对话助手、自动编程、科学发现等多个领域。推动这一进展的核心动力之一是“扩展定律”：即通过投入更</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544015&amp;idx=1&amp;sn=e01ad9aa28214b70a2d5bff06cd7a89d&amp;chksm=eaa1484420955cff6efd60b591e63a73dd95294f42e122ab6f2361c00e0b0de85d471ff4aeb6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Sep 2025 13:39:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Meta提出Soft Tokens, Hard Truths：如何让大模型推理更稳健、更泛化？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagZ5UCjMKnBTakJDc7pHe3RVGvGVkMwzjQFN5xJdrgojBAw7fpBpejte7KkG2icKuCjlah5wTX61rg/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型在推理任务上表现突出，尤其是当它们使用“思维链”一步步推导答案时。但问题来了：人类的思考往往是连续、模糊的，而模型的推理却是一个个离散的token蹦出来的。有没有可能让模型也像人一样</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544015&amp;idx=2&amp;sn=3e8d05f2809623854e5926dbe10f4984&amp;chksm=ea6a8e617f315250d5fd6d7f2ff101b2e14bc32e796ec1bd0c402db679d7c5b05ebd8e05f8b4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Sep 2025 13:39:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
