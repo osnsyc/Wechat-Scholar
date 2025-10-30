@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-10-29）：VFMTok开源，以视觉基础模型为核心，凭区域自适应量化与语义重建赋能自回归图像生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwGvOXugNkHQAOS3iardjZyCFThOr0ICc3OmFvFJJbhhXTBlXqQUnIAXKeSBWLic8nibgTaPa7hNg5CA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：VFMTok★VFMTok项目旨在通过视觉基础模型（VFM）作为有效的视觉标记器来实现自回归图像生成。该项目创新性地设计了区域自适应量化框架和语义重建目标，以减少预训练特征的冗余并保</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500061&amp;idx=1&amp;sn=edbdbe0a6450876ddf6e32332cdee8c4&amp;chksm=c07cf1b1c89204b2b94a69a2a64fcf9a794d4758d3539604e96f5db34e40598996b6973f7b4c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 18:06:52 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-10-28）：CapRL开源，以解耦两阶段流程 + 75K 问答数据，将强化学习引入开放式图像描述任务]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw4v4yUuC5pA4Xu2WwGdqAXaaC3hMTutThoxpRu6rBVjT8HcrITYEibiaI8wicCaDPA5WFpyD1Dv1NBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：CapRL★CapRL-3B 是一个轻量级的 3B 图像描述生成器，其感知能力可与 Qwen2.5-VL-72B 相媲美。该项目首次将可验证奖励的强化学习应用于开放式和主观的图像描述</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500042&amp;idx=1&amp;sn=cc25a59a2bfe12f34802c82821e6373c&amp;chksm=c077a691bee316f4b9bd98a5f440a498c635c19d6de7c0d7ec05d07bf5838c99565857af9506&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwPd1YnruPehsRV4xApFWmIibHyqQwicmzB5h8aRnuSEeuvIAlcPsKQ1RZH0SNc2uTlATiaH0SDUsrLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：TBAC-UniImage★TBAC-UniImage是由腾讯平台与内容事业群基础算法中心开发的统一理解与生成模型。该模型由两个主要组件组成：Qwen2.5-VL-3B-Instru</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499240&amp;idx=1&amp;sn=b5b5d35e9bd187120122f1d63b4c9198&amp;chksm=c09e0591c650317c4e8478385501efcdfb55bc019f9eb2391995937cfeb4c0ea87c3256aae34&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 Aug 2025 18:23:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-08-15）：谷歌Gemma 3 270M，2.7亿参数轻量模型，25.6万词汇量微调，终端设备高效运行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzfvaoGGiafhwNkEfw9nXCqj7eViaUZwFsxQvPJ0UqiaLtqG8u6ubbmiaYIK6LCCiaJyhKJEqiawkJHy75w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Gemma 3 270M★Gemma 3 270M 是谷歌推出的轻量级开源大语言模型，基于 Gemini 架构优化而来。它采用紧凑架构，共 2.7 亿参数，其中 1.7 亿用于嵌入层</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499229&amp;idx=1&amp;sn=212e024c04d894d6e483c731f6653d13&amp;chksm=c0a3aa816f6f3f630af85a1fe34121e8b004cc41d5cde21d383dc876183c722d402de8e1f967&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 Aug 2025 18:44:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
