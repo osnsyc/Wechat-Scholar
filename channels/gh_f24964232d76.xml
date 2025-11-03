@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[TileLang深入详解-第二章-TileLang 核心编程抽象]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMLZfWxcFVvKVicwtZDxpTiccwiaRQg1jPKljyNRhYricvdicuRj12aiaPEuS4qNgjKPTJPMbiatygyf26xfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们已经了解了 GPU 的底层架构和性能模型，现在需要一个工具来将这些理论知识转化为高性能的 kernel。一般来说，写 kernel 有几种方式，最底层的是直接使用 cuda/ptx进行开发，这种效</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529931&amp;idx=1&amp;sn=4ba894e4c302aad779fdf6cc82df0979&amp;chksm=9eb95e895160aa732bcf7385db495a8d8523fdfdb2dfa92b3db35814d4ac1982d638bdd5d3c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 12:58:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SGLang 优化Triton FusedMoE 的一个新技巧​]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vibKLuHia2RI1iaJZibGosjmXDWrPKVZv4hFCt3hEGJbz4iaW4bznKEwslohj5zWOHoSEicicweDA8UbBPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Antgroup最近在SGLang中提交的一个针对FusedMoE的优化，也是一个有趣的发现，这里就学习记录并广播下。0x0. 前言最近蚂蚁在SGLang中提交了一个优化PR（10567(https:</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529929&amp;idx=1&amp;sn=a13d40bb052e38987e412e914c327a8c&amp;chksm=9e8fdd9bbd689f796d24d1892726f26dcb90b469ffae6faa4b7f7c77d527188ae965aa065edd&amp;scene=0&amp;xtrack=1#rd</link>
