@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-11-3）：快手与南大实验室联合开发HiPO，以混合策略优化实现LLMs动态推理，双模式切换平衡正确性与效率]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzUwYQf2pKAJsthmwmY7iaG94wO0gJtHZQg5NiccSj46w3OpO2seEmleqYhWE8zhHibiczs7yTTicSrnZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：HiPO★HiPO-8B是一个基于混合策略优化（Hybrid Policy Optimization）的新型强化学习框架，旨在实现大语言模型（LLMs）的动态推理能力。HiPO-8B</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500130&amp;idx=1&amp;sn=4c5f45f868bf6197fb4dd6a7fcf814fd&amp;chksm=c01b5a4f8f9b2ad05bfdd3bbcf637873f0d48eb4003da48e6bcd293693a9984d2b226912e919&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 18:20:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-10-31）：Kimi Linear开源，以KDA优化门控DeltaNet，1M令牌长上下文解码提速6倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxnEw5kJqhxVhNib61Tzqkjayg2OTlS55eaP5se7F2IY2wT9ibjF9XR5hXPpibCBHSXWM18RCB5yTUVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Kimi-Linear★Kimi Linear 是一种混合线性注意力架构，旨在超越传统的全注意力方法，适用于短、长和增强学习（RL）等多种上下文。其核心是 Kimi Delta At</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500107&amp;idx=1&amp;sn=49754d535bec89bbcab5352eb38cb131&amp;chksm=c0e549c2d432629f5c6f74afb7ac0db07ba506dba4ed2f5b9971bf60b61d74c5bad3bc1bcee8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwD1NuUGwicicoQIHUm0uDPicNeia1TPSg74xnhjKm0MJPTto0CypBxwia6icAJvhCRCsKUWbuvCQdUTzFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Seed-OSS★Seed-OSS是由字节跳动Seed团队开发的一系列开源大语言模型，旨在提供强大的长上下文、推理、Agent和通用能力，并具备多种开发者友好的特性。尽管仅使用了12</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499276&amp;idx=1&amp;sn=f878585df96c38249db0a297758712a8&amp;chksm=c0d889cd4489dac23bb65b52ab71fa4d4473000c6f948741111c7f5a2d0570e250a302908531&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 21 Aug 2025 19:09:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-08-20）：video-SALMONN 2，音视频LLM突破，7B/72B参数，短中长视频高质量字幕生成]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzMGH5Kfkmvdu6X5pI6cicwRsR3DWAh4ZoMcib8GOfBA7UZFCGT3AqHFVej2GbqAyCWsPW4DVX5EJAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：video-SALMONN 2★video-SALMONN 2 是由清华大学电子工程系和字节跳动联合开发的强大音视频大语言模型（LLM），能够生成高质量的音视频字幕。该项目旨在通过多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499260&amp;idx=1&amp;sn=cf82486c34f2cc51ac07a756a99c54d5&amp;chksm=c0b2b074bd4429481cd2c4eeb8d74d55a9221207306d1f543348b36b21a77767336efeb0e314&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 Aug 2025 18:39:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
