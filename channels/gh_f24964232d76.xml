@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[TileLang vs Triton 详解：谁该握住控制面——编译器还是开发者？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMKbVd26QCMFdkldcQA745r55yuk3z7SQCqkoHHUjDoicDr8fIOo4t08hrNMhNHicC3nY6cXhgzxhyWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章我们来对比 TileLang 与 Triton 两个框架。我们会解释控制面设计、并发协议、编译管线的本质差异，以及这些差异如何影响性能上限、工程投入。核心结论我们先给出明确的判断：TileLa</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529933&amp;idx=1&amp;sn=0c7a62080b8cc8646030a2710df2513a&amp;chksm=9e4f5beb4f49ae896bf60e81b5cf05cd4b04109a16bbdd6bc03b39f81a70070198c80947f886&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 14:43:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TileLang深入详解-第二章-TileLang 核心编程抽象]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMLZfWxcFVvKVicwtZDxpTiccwiaRQg1jPKljyNRhYricvdicuRj12aiaPEuS4qNgjKPTJPMbiatygyf26xfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们已经了解了 GPU 的底层架构和性能模型，现在需要一个工具来将这些理论知识转化为高性能的 kernel。一般来说，写 kernel 有几种方式，最底层的是直接使用 cuda/ptx进行开发，这种效</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529931&amp;idx=1&amp;sn=4ba894e4c302aad779fdf6cc82df0979&amp;chksm=9eb95e895160aa732bcf7385db495a8d8523fdfdb2dfa92b3db35814d4ac1982d638bdd5d3c8&amp;scene=0&amp;xtrack=1#rd</link>
