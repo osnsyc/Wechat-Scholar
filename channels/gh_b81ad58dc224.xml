@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-11-5）：北大字节开源首个时空推理视频模型Open-o3-Video，重构视频推理范式，多基准性能突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxA4hM0njz3AZnePyFmqUbPns2G7kKRx76KZ0DmFd2Dn2TQZCU9sbrcKuN53IefN4EjbRzeo5ueQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Open-o3-Video★Open-o3 Video 是一个非Agent框架，旨在通过显式的时空证据（如关键时间戳和边界框）来增强视频推理能力。该项目通过精心设计的 STGR 数据</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500172&amp;idx=1&amp;sn=99539d308842ae4d6ea37872e4234fa9&amp;chksm=c06da5bfe901582664f2268f27d2cdb731b6198f100716bf145e65be6a9fab6b6ee38f809347&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 17:43:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-11-4）：字节跳动推出 Ouro循环语言模型，预训练阶段直接构建推理能力，革新大模型知识操纵范式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDky1Vl1WKE8icYtcPFfibsbCU7phx60p3SnBrDJwINkBE1vrbh1Bv5zYk8M7hibKJPicXL8LpyiaZOicvsdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Ouro★Ouro 是字节跳动 Seed 团队联合多家机构推出的循环语言模型（Looped Language Models）项目，旨在将推理能力直接构建到预训练阶段，而非依赖训练后的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500153&amp;idx=1&amp;sn=f1d0941dd78c097cfc1a9a38e4e1eb73&amp;chksm=c020693bce67794baadae26360e384e01532dbe7166cb0e643c4ea092f7c2a998844926485c4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzyy0dDPqu8ic3aTr5uXxS8v1gqChI0EqxCGCpibiaX2fsxOvYbKyK0Lr8yKaM5uOeg6N0UE97xbX6Jg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：RynnEC★RynnEC是一个专为体现认知任务设计的视频多模态大型语言模型（MLLM）。该项目由阿里巴巴达摩院开发，旨在通过结合视觉和语言处理能力，提升对物体和空间的理解能力。Ry</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499297&amp;idx=1&amp;sn=109226eabdc5e616675ea1d3f44bef67&amp;chksm=c075eda54b06a524fa3d6f985a5877b258c564b4222d42bb397826dde6efb5dfd5990c6f8b2b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 Aug 2025 18:49:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-08-22）：SDAR，自回归+扩散融合模型，支持大规模序列生成，1.7B-30B多参数版本科学推理霸榜]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkysVqa2jaXPLTZlUFk9zpa2HCSF6hJFFReauxN0UBicNVib1KxwkDhnnibAAJdsiccWBzQ4ocZPPw0ia2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：SDAR★SDAR 是一种大规模扩散语言模型，结合了自回归和离散扩散建模的优势。通过将自回归方法的训练效率与扩散模型的高并行解码能力相结合，SDAR 提供了与最先进的开源自回归模型相</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499286&amp;idx=1&amp;sn=01bbe7c1ee940fec63ff10dcfdbba3c4&amp;chksm=c08b2b3a149f8e50675880838fcea500e3b3f388d41b0b7ed5f3bf7d92b1c4dd15ad4c5ffe4f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 Aug 2025 18:11:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
