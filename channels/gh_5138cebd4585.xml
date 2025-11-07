@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[上交大刘鹏飞团队：Context Engineering进入2.0，上下文成为可操作对象]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnibz4Lic0Jcfo9T8n1QiadicGkqkViaXQCFfKrbAXvFLMicLtlJnS5XwtkBfXE4Yia83lEOSLsMBV7bAnicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们早已习惯在提示词、记忆窗口、外部检索器之间调参，以期让模型理解更多上下文。可在上海交大刘鹏飞团队的最新论文中，上下文工程不再是工程师堆 token 的技巧，而是一个可被形式化的科学对象。他们称之为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247711666&amp;idx=1&amp;sn=6433705a449f08a57c7a5d49d43c310d&amp;chksm=9710d117aa1be5a013a061182f355ccaf5cb2c09b2905332a36a3771107984c55fa0d8df1977&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 14:01:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[工程&amp;计算机领域前沿洞察 | Synthesis技术前沿报告合集]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkicjtmIC6tOzeaLkcmhbict9JxiaxSvAnddVoXq3A800ZPXv6OQP6lqHKPJRr2icmnGTXlYKGEiaMKlcQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着技术与计算机科学等领域的迅猛发展，新研究层出不穷，在快速出版与内容深度之间取得平衡，成为学术图书面临的新挑战。数字化出版加快了修订节奏，使新成果得以及时纳入，而“小型图书”则提供了另一种解决方案，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247711666&amp;idx=2&amp;sn=12d408a6222fc6ceadc9f53049eb9974&amp;chksm=97dc561123edaf669d4309c4f76ba9977446f6006b6ef091b4532ab4320fad6ebe9455338aa8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 14:01:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[自回归不必按token算了：微信AI × 清华用CALM直接「整段」预测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkPHc0ueQlgPibLfic1pBBcpQFuPQkOnD4dF75BxVoZD8bvxHUjXs9ytPlvenOxWdOTgZibhQ5318D5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们默认了两件事很久：语言模型应该逐 token 生成；加速只能靠算力。CALM 的关键在于——它质疑的是这两件事本身。在当前主流语言模型里，时间成本的基本单位是下一 token。这是一个我们长期习以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247711601&amp;idx=1&amp;sn=8b04f7cd7522299a602ccfc8ffe9dac5&amp;chksm=97d03f9b35b7ad7bfe731ad020b4e40f8d5affd66022e8a0db54a659b673775682c30fa649b4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgltCU6hLQ7Unn761xdoicDCib7ibuevuPttsZ75NUG0cy8GeegricuTp7JiazeoibcYpZeia7zSRFRsB9WVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>过去几年，Prompt Engineering 通过设计提示词引导大模型生成答案，而 Context Engineering 进一步强调优化输入上下文，使模型在推理过程中获得更多相关信息，从而提升理解</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709989&amp;idx=2&amp;sn=3d7969df56fc2978cfd51ad02842950a&amp;chksm=975305268e42965ef458478f3c90ae3a9707dcc54794b05b871962bb8ad9a7f58f5e4cbd21ab&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Oct 2025 12:35:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[First Try Matters，不是Aha Moment：邴立东团队揭示推理模型靠首答，不靠反思]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmiaDAKH30ztic2HaDCSLWCeOdNqsBlU5HUlUvgTFFQG4eSic7jTIBpNSAp4TiaAnDltVcI1g1R3TKNEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>长思维链没那么神奇：推理模型中九成“反思”只是重复确认，真正决定结果的是第一个答案。邴立东团队系统量化发现，使用有更多反思的数据训练能让首答更准，但推理时截断反思几乎不掉分，却能显著节省 token。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709914&amp;idx=1&amp;sn=cd92d41d97423892cca87318f049dc68&amp;chksm=9785c62ca0390450c88974188230114b2142e1b05e3090eb5294cebd9870432e86376f7057ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Oct 2025 18:39:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一致性轨迹强化学习登场：上海AI Lab让扩散语言模型实现全并行少步数推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglucskhct50hCAg0BZibMhVpT0NkpwevVtFPDe1LS6NDwqQFic2mePqlcz4euO8CXCxLic5hdDnYcnOA/300?wxtype=jpeg&amp;wxfrom=0"/><p>由复旦大学、上海人工智能实验室、上海交通大学联合研究团队发布最新论文，提出了一套针对掩码扩散大语言模型（Masked Diffusion Large Language Model，MDLM）的解码策略</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709914&amp;idx=2&amp;sn=bd7b5b05568e7c21aead7f76dca6e3b5&amp;chksm=974941642eacb362eaee256f38ad3ebcd541d5c33856e2bfcd0a013ac6a4e9b37f963dc90090&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Oct 2025 18:39:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
