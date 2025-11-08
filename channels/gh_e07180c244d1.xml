@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[IROS 2025 | 北理工提出BoRe-Depth：仅8.7M参数，在嵌入式设备实现50.7 FPS高清深度估计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTux5HIyhHZa9cXErvk8Dq97s7Dk4nqovOsRM7LHGQOAcecibWxR7ic296tAoCR1h66jIdRtt3Ae4KGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>单目深度估计是无人系统实现3D感知的关键，成本低廉但效果常常不尽人意，尤其是在算力有限的嵌入式设备上，生成的深度图往往模糊不清，物体边缘细节丢失严重。来自北京理工大学的研究团队针对这一痛点，提出了一种</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247644765&amp;idx=1&amp;sn=7559e56f0d7ff4b0de2f09b530b10b63&amp;chksm=9731feefafb82a5358e59983abadc053f069f30a7bd1cf9b625b48cac59ca3e7c94aa389c3eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 21:32:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TCSVT 25 | 宁波诺丁汉大学等提出De-LightSAM：仅需SAM-H 2%参数，实现通用化医疗影像自动分割]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTux5HIyhHZa9cXErvk8Dq97iaicOuFSVibkh25k47fOVSOEiaOPyqiaUibzdZ9WLXDr3Qcib4ibdfTkIP8ZVA/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近，分割一切模型（Segment Anything Model, SAM）在计算机视觉领域掀起了一股浪潮，它强大的零样本分割能力让人印象深刻。然而，当这位“通才”进入严肃的医疗影像领域时，却显得有些</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247644765&amp;idx=2&amp;sn=5f3c424de43191606872ccef8dc34d29&amp;chksm=97bf49e478f171f5211265cb71acb87f9bc2eb0a744d62fc34362a8666d0d9a3eb353e5b4183&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 21:32:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[复旦大学&amp;StepFun提出WithAnyone：告别“复制粘贴脸”，实现可控、高保真的多人ID一致性生成]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsyba4iavErNFtUTDh5donxrhibWSpOFpJs7icmpSNwbx896qzWekds4snKcPq4l37hdMF04gNicQ1mDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，AI图像生成领域最头疼的问题之一，莫过于如何让生成的虚拟人物不仅长得像，还能在不同场景、姿势和表情下保持身份的一致性。很多模型生成的“写真”，仔细一看，总感觉像是把同一张脸生硬地“复制粘贴”到不</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247644594&amp;idx=1&amp;sn=09e73999afe70cb10e14994c2dcac033&amp;chksm=971e7579bf8ce4229abfa867f23c5408b28efefc1bb2264613e7a6f457fb6fcb304bcaf6c331&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtNaxWwYdt7L2LJCIicpZicMtGLT9NCIo0leK7FlJgQSpITbCYYiaPqiar9WLCzXNGIibyjZUoxFLIaB9g/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是CV君。今天想和大家聊一篇非常有趣的新工作，它来自阿卜杜拉国王科技大学（KAUST）和Meta AI的研究团队，并被 NeurIPS 2025 接收为Spotlight论文。这项研究针对的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247642206&amp;idx=2&amp;sn=ca99a163c41e8a06736c957a533d9676&amp;chksm=978ec19c793a954adf23d6546074ca0174f53ee1ab8be47fe31382fe8cfd3261e71099bf5d1b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Oct 2025 13:11:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[马普所&amp;谷歌等提出AnyUp：无需再训练的通用特征上采样，推理即用，效果SOTA！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTs1le1vXqvbN9Ors1hmQF4yrfLhQdorpCTODL9qt0FTlSolaiaRShyicNiapA1raBJNLwJ5GypBWHh6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天和大家聊一篇非常有意思的新工作，来自马克斯·普朗克计算机科学研究所、谷歌、苏黎世联邦理工学院和慕尼黑工业大学的研究者们联手打造的 AnyUp。顾名思义，“AnyUp”就是“任意上采样”的意思。它的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247642172&amp;idx=1&amp;sn=838bf40beb2b5ddb94115e44a32b3c5b&amp;chksm=97bacacc3d1a5e03fcef6ffccadb2f9d5cf01f383a5891c5bb6c991b8e60f10b7be7f51febb2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Oct 2025 07:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[北大等提出MaskDCPT：通用图像修复预训练新范式，PSNR提升3.77dB]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTv0vybIz1iacEa1VUMStWHvpibCdslswF61vl6qnePoAIC8hKwMESRAUqwApiaEOyKIDIXz7KaeHD7vw/300?wxtype=jpeg&amp;wxfrom=0"/><p>朋友们，今天想跟大家聊一篇图像修复领域的有意思的新工作。如今，我们对图片质量的要求越来越高，但拍摄过程中总免不了各种意外，比如模糊、噪点、光线不足等等。传统的图像修复模型往往是“专科医生”，一个模型对</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247642172&amp;idx=2&amp;sn=bfb588b0728479d2e5bfdd90b6f06887&amp;chksm=974f4eb0a33d022f0ecdcc0a919ff3b72202e0a51fb2c7b104c3b41f19c6e42c6d96b536774d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Oct 2025 07:02:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
