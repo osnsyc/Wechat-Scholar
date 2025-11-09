@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[从“一个答案”到“一片森林”：如何用一句提示破解“模式崩溃”难题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajyzDKudd9icR0sHAabfe99OlwQzKEyZECT3cguOIYtnDmPgOicCcauMsBjVjOiaklIGGy8QquL0d3tQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLM）在各类任务中表现出色，但在经过“对齐训练”（如基于人类反馈的强化学习RLHF）后，模型往往会出现一种称为模式崩溃（Mode Collapse）的现象。简单来说，就是模型在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545029&amp;idx=1&amp;sn=f812aab5fbab684f6bcbbeb266dbd9dc&amp;chksm=eaa334688a1eb38bf4ea11e0c2df711f37fbcf665fcf097ea0cebe15e28066874c5057d1c39e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 22:22:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[让LLM评判者学会“动手思考”：工具集成RL框架TIR-Judge]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajyzDKudd9icR0sHAabfe99OmmG3DftfNgJf2OgUa0hYhSQcV2Y8fmMPSFiaJiavkKSiaZPePG2bwlmbg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大语言模型（LLM）的生态系统中，如何自动评估模型生成内容的质量一直是一个关键问题。传统方法依赖人工标注，成本高、效率低。近年来，“LLM-as-a-Judge”成为一种趋势，即使用LLM本身作为评</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545029&amp;idx=2&amp;sn=20b9f9ad3495ac92af36821434d25352&amp;chksm=ea57ce2633c247f4e2c26be007a5a4dcf664072889491988bb80913831467259f09e6582d009&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 22:22:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[行业大佬透露最好发论文的方向！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagoeAN3mdglUzzHzOoap8dEoicvMt5URXDRxTk6lJERYk9S8cy3p39tT0lPsCt8oGdxwygQQZcOAhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一位搞工业智能的教授最近在学术沙龙上吐槽：团队跟进的12个数字孪生故障诊断项目，居然有8个卡在路上！要么是大模型碰到不同设备的故障就失灵，要么是数据少的时候诊断不准，企业都愁坏了：技术看着挺美，用起来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544969&amp;idx=1&amp;sn=e82aeea38d7e15424bb727f7149d25df&amp;chksm=eae68084aad0e6722eac48171252870b8debb078af5bb3f3301613fc5e6270b100d0437b62b0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baialqfTvah1Gvdicx8RWWgNSYjNjgBQagema0TkGz9n1SEmA9m4sjXibia4k4BDFmT2tYIpWznWVxM42w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔥 课程简介我们正从 “ChatGPT 时代”迈入“Agent 智能体时代”。AI 不再只是回答问题的工具，而是 能思考、能协作、能记忆，甚至能自我进化的数字员工。💡“不是玩具 Demo，而是真正的产</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544194&amp;idx=1&amp;sn=a64fb5777310d8e7071d73e5a3ccbe45&amp;chksm=eaf1680113035468d2a3e11527fca71d82a24282244c809de1ea8832304abb8f0a2163ac95e7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 05 Oct 2025 17:03:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数据蒸馏的双重突破：从几何保真到对抗鲁棒]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baialqfTvah1Gvdicx8RWWgNSYFXjxT1QZJDUnGiawqr3x8Agavkic3e8pCAqaYCPsn8KCYYr5oZ5JnO9w/300?wxtype=jpeg&amp;wxfrom=0"/><p>在深度学习迈向效率与可信的征程中，数据集蒸馏正展现出独特的价值：它承诺用极其精简的合成样本，替代庞大的训练集，却不牺牲模型性能。然而，这一看似简单的目标背后，隐藏着两个本质性的难题。第一个难题关乎精度</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544194&amp;idx=2&amp;sn=5dc288f380d201929806fbf69735b554&amp;chksm=eaa146dc7fdac7824b772ab2095eb8971bc8f4665b94d03130923eb0d11ba461905cc176a96e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 05 Oct 2025 17:03:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预约 | A-Mem：大语言模型智能体的自主记忆系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag9VYnvnYchIhRxibZdVndBRTSdKwwcaiaGehK5eB8ibSt7yS47KIU7ryud3rN3viaibdsq0FlYoamHCsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题A-Mem：大语言模型智能体的自主记忆系统时间北京时间：2025.10.04 (周六) 10:00纽约时间：2025.10.03 (周五) 22:00直播平台微信视频号：b站直播间：https:/</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544162&amp;idx=1&amp;sn=c322b1b2349b1fe64b81d1c77b67c0a1&amp;chksm=ea9bd4927e8f3c72399e2a683bf85fed918db89348214bf3113169ea2073dd79e04c070228c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Oct 2025 23:35:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
