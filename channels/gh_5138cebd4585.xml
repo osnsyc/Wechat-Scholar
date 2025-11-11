@@ -10,6 +10,24 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[过去五年，BERT都在被“过度训练”？LeCun团队给出Encoder算力最优范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkoxgvFBibe0jeTYJel3KbH5JXlh0ianfl7zmYIBG43sFkuQLJ0XHPiaRtRJmMb0lM22NBO5E6ibwTialQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇来自 Yann LeCun 团队（FAIR × NYU）的 EMNLP 2025 论文做了一件简单但惊人到颠覆经验的事：Encoder 的最佳训练规律，和我们过去五年默认采用的经验——根本不是一回</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247711751&amp;idx=1&amp;sn=00e92057d74b7d76bd39339d893664ee&amp;chksm=977e93262ffa1aef5f104be9c6e867713388b352bebd32287f585607d8854b7bee9ddac3488c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 17:33:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[EMNLP 2025 | 别再只看KV了！LLM越深越稀疏：UNCOMP用矩阵熵给出答案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkoxgvFBibe0jeTYJel3KbH5BCOdMmtvf8ibLv3E6mdItDImJ3c4uiad4ggeQGOqwX1hvXKxmOiclftvg/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 熊璟单位 | 香港大学博士生研究方向 | 大语言模型推理我们都知道 LLM 中存在结构化稀疏性，但其底层机制一直缺乏统一的理论解释。为什么模型越深，稀疏性越明显？为什么会出现所谓的“检索头</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247711751&amp;idx=2&amp;sn=1b8fe734f1e7e8960c9f6222c416c688&amp;chksm=97fa440df8dc63307b13a679af41873d2598fa0d8b74fe926d216c80cc6e4af119f0dc733762&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 17:33:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[北京内推 | 腾讯AI Lab招聘大模型/多模态大模型方向研究型实习生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkoxgvFBibe0jeTYJel3KbH5nhLMLI2kxjkQfGIymkRJ6BIlCgFIzpI4BAib7VA4Nap5ibcLx0dD516A/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！腾讯AI Lab我们正在探索下一代大型语言模型（LLM）与全模态模型的未来，致</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247711751&amp;idx=3&amp;sn=f3dfc6d48ed9855456c6a852f343071c&amp;chksm=9708a1d00b0cf32e2ba7480a801cd04cb1d0c7cd07f5a47a6d13a33795680050fb26f89771d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 17:33:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[上交大刘鹏飞团队：Context Engineering进入2.0，上下文成为可操作对象]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnibz4Lic0Jcfo9T8n1QiadicGkqkViaXQCFfKrbAXvFLMicLtlJnS5XwtkBfXE4Yia83lEOSLsMBV7bAnicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们早已习惯在提示词、记忆窗口、外部检索器之间调参，以期让模型理解更多上下文。可在上海交大刘鹏飞团队的最新论文中，上下文工程不再是工程师堆 token 的技巧，而是一个可被形式化的科学对象。他们称之为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247711666&amp;idx=1&amp;sn=6433705a449f08a57c7a5d49d43c310d&amp;chksm=9710d117aa1be5a013a061182f355ccaf5cb2c09b2905332a36a3771107984c55fa0d8df1977&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmXjic3mrulcvJxjRyImIuahXichictF3MzibxDYZo4NDXahzVoQhgVWQmLGupiaokQcG0e0qFjp5SgCOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>把“好答案拉上去、坏答案压下去”：SPG 用上下证据界把扩散语言模型的策略梯度夹得又准又稳，一口气把四个经典推理基准的榜首收进囊中。一谈到 dLLM（离散扩散语言模型），大家首先想到的是并行或半自回归</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247710130&amp;idx=1&amp;sn=a4680aada0dbf3f8075b44f211a70477&amp;chksm=97a04161ebfe870bdbb5b1c686851c1a3930fdf0a30edf66a9a57a9e80b8bd0b329f8ad48ebb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Oct 2025 13:50:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2025 | 仅用20B tokens蒸出SOTA，小模型的「低秩时刻」到了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmXjic3mrulcvJxjRyImIuahoxWbP3NFwADsQowqGHFyPFpibLnvxn5N5vfcd7LmkRjwXCicBRAJUFSg/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近我们高效蒸馏的工作 “Low-Rank Clone（LRC）”非常幸运被 NeurIPS 2025 接收为 Spotlight。TL;DR：我们通过训练一组 Low-Rank Projection</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247710130&amp;idx=2&amp;sn=110b3173c250c91aaced08d5670ff7a7&amp;chksm=97b2c93ecd26992255ca61156d88c67d773f13f41b3bd607fc387e01b2ea2cd1a043f44c6e6e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Oct 2025 13:50:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不靠RL、不用训练：哈佛「Power Sampling」让基座模型推理媲美GRPO]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgltCU6hLQ7Unn761xdoicDCibPFCZQs1YoTyiaibZ11kBgJP2tYzP4Tt5XPgWkicDk89w2UUF6LMmUMhrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>不靠强化学习、不做额外训练、不用校验器，也不需要复杂提示——哈佛团队提出的「Power Sampling」仅靠重新设计采样分布，就让基座模型的单发推理媲美 GRPO，还保持了多样性不坍缩。强化学习（R</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709989&amp;idx=1&amp;sn=662c82b94676f67caec12c814d915f07&amp;chksm=976ec84536fd9edc17c0218bd8da1c449efb76f0973a44541bce1757d261f3049fd15f12d639&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Oct 2025 12:35:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不用微调！像打方向盘一样“操控”大模型思考：Steering正在改写推理范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgltCU6hLQ7Unn761xdoicDCib7ibuevuPttsZ75NUG0cy8GeegricuTp7JiazeoibcYpZeia7zSRFRsB9WVQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>过去几年，Prompt Engineering 通过设计提示词引导大模型生成答案，而 Context Engineering 进一步强调优化输入上下文，使模型在推理过程中获得更多相关信息，从而提升理解</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247709989&amp;idx=2&amp;sn=3d7969df56fc2978cfd51ad02842950a&amp;chksm=975305268e42965ef458478f3c90ae3a9707dcc54794b05b871962bb8ad9a7f58f5e4cbd21ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Oct 2025 12:35:27 +0800</pubDate>
     </item>
   </channel>
 </rss>
