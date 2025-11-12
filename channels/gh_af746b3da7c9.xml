@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[Meta提出数据筛选的理论：何时“少即是多”成立？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagY0ROJmGeqwpQdt9goYrOrSSNgEgvOoeIUVWK5juY6qTVDdibIK754VXNKicDYEgO9M3MrXRkb0dWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在当今机器学习领域，尤其是大语言模型（LLMs）的训练中，一个普遍观点是“数据越多越好”。传统缩放定律（Scaling Laws）表明，模型性能随数据量增加而单调提升。然而，近期研究如LIMO（Les</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545159&amp;idx=1&amp;sn=82a71b1c84f094ea698950f96467f93d&amp;chksm=ea1686d50ea9f92f7d220fe64e0213850163aa4f0fee1241553e5c3be676d03783165eff4710&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 20:48:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[给定"标价"的 LLM 智能体，能规划出"最优"路径吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagY0ROJmGeqwpQdt9goYrOrbaZ0jYTXbibkNYE4kibyyjPicfxBljXkMN0iaGbWEfPAQofhhfSWwpJplg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在 LLM 智能体（Agent）的多轮工具使用（multi-turn tool use）中，评估其真实"成本"是一个复杂难题。成本来源多样（如 API 费用、Token 消耗、计算资源），难以统一量化</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545159&amp;idx=2&amp;sn=ae12dd9cddf02dca854317f7c3b81fbc&amp;chksm=ea1d9c89ba15d48ef37e95eeab7e80257c61a88c33e7d936e6a811201d3e1b82b96e060e7bf0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 20:48:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Thinking with Video：一种全新的思考范式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagSPQ8akHMBebSUmrjkTI6a65StJwINvd2DVEEOXMEJAl1zl8iaRU8J1SEMczztdxqzGvg8iaTVgmHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，“用文本思考”（Thinking with Text）和“用图像思考”（Thinking with Images）已成为大语言模型（LLMs）和视觉语言模型（VLMs）提升推理能力的主</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545108&amp;idx=1&amp;sn=66ff9845806723ec7238920353bf514d&amp;chksm=eaa41ec2c39ff7566d59c9902a594dd854f1dd070766badb71c749324ba8658602aa499cc3ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiac8RO11osOR3kg75sW5EINfP19P6YtKlAG2MR69OJ5f6pTFvTUfDcTEOJdaTlWwTBLbp9bBHibL4g/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，基于大语言模型（LLM）的智能代理（Agent）已成为人工智能领域的热点。它们不仅能执行复杂任务（如编程、科研），还能通过与环境互动不断自我改进，这就是所谓的“自进化代理”（Self-evol</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544296&amp;idx=2&amp;sn=cd8297bdd7706ff4570b932e84b9d6fd&amp;chksm=eaa0ec329838b2ecb55539579c57c889d9f745ca78265016788f3ef37e2c5014928292efe2a8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Oct 2025 14:52:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[对比学习视角下的GRPO：为什么两个样本就足够？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahT9icvicMVeBqqlOM0zDw9ZeCGGDhvY9O9XAaXLqGSPeYcVvKSMh7eSxY0nIGZNrZDlWGY5jIRHH0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（如GPT、Qwen等）在自然语言处理任务中表现出色，但其后训练过程——尤其是通过强化学习（RL）进行偏好对齐或推理能力提升——往往计算成本高昂。其中，Group Relative Pol</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544248&amp;idx=1&amp;sn=98f44e6c74f11aa172766a42ea28eda4&amp;chksm=eadf3254526f2cf8a3bed2c8f7d6d89674335872695c76cdc7af555cf159386afe727fba2b1f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Oct 2025 17:46:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GenoMAS：当智能体学会写代码做科研]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahT9icvicMVeBqqlOM0zDw9ZelO6fFtjic8ADce6HlTd5DAibyquhnd50ZUicq5arichLBBib0AoWTom5tMA/300?wxtype=jpeg&amp;wxfrom=0"/><p>自动化科研的信任危机！过去两年，大模型在代码生成上的进步令人瞩目。从帮我们补全函数，到生成完整的数据分析脚本，AI辅助编程已经深入到日常科研工作的各个环节。但有一个更激进的问题始终悬而未决：能否让智能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544248&amp;idx=2&amp;sn=ca9e8a73f8b7e6848ce4dae222beffbe&amp;chksm=eacb4e538e67a475891639f28e10b2e3d488ad3536922699168acb9053e2f4dadcd77e99cf42&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Oct 2025 17:46:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
