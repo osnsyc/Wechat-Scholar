@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[全志V853视频输入驱动框架详解：从VIN模块到虚通道实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu0cuV43oaUicoqIho73JTZKUDdMKJQ2dQZyiaM2hexI1kxMEConoiagetG7s4e0GeakDwBMOzzOY5Yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、视频输入基础1. VIN camera驱动框架涉及 V4l2 驱动部分的知识在这里不深入讲解，后面有时间再深入分析一下。VIN camera 驱动使用过程可简单的看成是 vin 模块 + devi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614196&amp;idx=1&amp;sn=d927ebafdd1f6034da2e919e8a37d708&amp;chksm=fa1f34f6306f52222202002f473667bd9f519e3be3e6be30b9d7b29ea8df82b15b0129e25c3c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【HIGS】相位节约型HIGS非线性陷波滤波器]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzu0cuV43oaUicoqIho73JTZKYjz1x1YuxfHiaFXDeFmg7wnnbW8lsicXo4ZOmImvE9KWZQkMBtiaWl1ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统陷波滤波器在抑制系统共振时不可避免地引入相位滞后，严重制约闭环控制系统带宽提升。本文阐述了一种基于混合积分增益系统（Hybrid Integrating Gain System, HIGS） 的新</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614185&amp;idx=1&amp;sn=3842870654a8603d592939788ea27bdc&amp;chksm=fa80439feb34a759fbc85e53204679f695bc336c50708bd9259dd8a553853eaf2dea4617a2ff&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvA3tHjCVKjHFerUOoHnfgJu3M3ZQWZEiaqY3ssiaGNz21TmFWW3HfXlFgwK6z4n5OYtLIlleeJbNxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、DHT11介绍DHT11 是一款常用的数字温湿度传感器，适合于需要测量温度和湿度的基本应用场景。其测量范围为湿度为5%到95%RH，温度范围为-20℃到60℃，湿度测量精度为±5%RH，温度测量精</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247611350&amp;idx=1&amp;sn=6d86feaebd6b674f58a30e22fa8dcf80&amp;chksm=fa2f436a27439c79081dfa653c93acdc6df55626e55c8c3387ec57464b9ae98fe4cfed76dbd4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Oct 2025 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于Qwen2.5-7B的病症导诊系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvA3tHjCVKjHFerUOoHnfgJiaZL2MIlm7p5yDOjPic1icc7ibgiabcGoPwvZQRSfubjkTQ0ItibOibXIfWiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>正文开始：Qwen2.5- 7B 模型博主想介绍一下Qwen2.5-7B模型，它是中国人工智能团队开发的Qwen系列的第二代升级版，基于Transformer架构。这个模型在中文理解和生成上表现出色，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247611349&amp;idx=1&amp;sn=645c0413d289eb3a3448cf96cfb007a0&amp;chksm=fae661463952c1639ea456aedf797b95baa20bf9ffeee9214eb0f435a3f9c5b62b789df5d8d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Oct 2025 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
