@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[FlashAttention 完全进化史：FA-4 发布之际的技术全景回顾]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMKibkOJB9ubxNic873Xw5tNLjGibxJfvc9lSze1iaE94FaUWs5YS21vgViaQojTc0CcO7plWOeibueoPTjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Attention 的性能瓶颈在哪里一个训练场景假设我们在训练 GPT-3 规模的模型，序列长度 2048，hidden dimension 12288，96 个注意力头，那么每个头的 head_di</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530017&amp;idx=1&amp;sn=b371552cb2ac520aaf0cbd93d18e9947&amp;chksm=9e7617c4ee12585c50112ab4f3746c660f8e802a720d5816c625d016664e6411646a66692a30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Nov 2025 13:08:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[All-in-One：NVFP4 / MXFP4 数值体系、PTX / CUTLASS / Triton 与 量化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMLod77CJ2YR4DGyp00w0oeLibENSxQicibZAJ3kEsE56SCEW7AUtyE1mAdN3ABvP47Me4QIkwbOIiax0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 背景：为什么会有 Microscaling FP4（MXFP4 / NVFP4）1.1 为什么是 Microscaling FP4，而不是 INT4INT8 量化已经成熟，但推到 4 bit 时</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530015&amp;idx=1&amp;sn=913361cebc1a3fb4dce22403055734b9&amp;chksm=9e0a44bd9d6605c100d91c2437a5344237f907146783001ef15647d074bb5da9d9367105615e&amp;scene=0&amp;xtrack=1#rd</link>
