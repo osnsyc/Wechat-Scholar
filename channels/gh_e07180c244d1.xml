@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[何恺明团队再出手！将ARC视为视觉问题，ViT从零训练60.4%准确率，达到人类平均水平]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsgQHqgLkzkHJEyvk4cicj0n68BUCzoIpMOUhluPUsf9EibqicZ2UlaSvXr9wNzxBciadk6MTBTibqkiaTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题: ARC Is a Vision Problem!作者: Keya Hu, Ali Cy, Linlu Qiu, Xiaoman Delores Ding, Runqian Wang, Ye</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247646512&amp;idx=1&amp;sn=8c6aa75138f40097522c1fe5378aff69&amp;chksm=97ec23f9a299dcdc02e80e4de01edf86ff17a8c538f367312b8ca30be07d2d0763516a1651a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 15:57:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CMU新作Co-Me：无需重训，VGGT长序列迎11.3倍加速！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsgQHqgLkzkHJEyvk4cicj0nZwZCzxlb3h3fWK8s6KT2XRRicdPGknHWeTsCcRyUg0QRC2H69bwIFibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题: Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers作者: Yutian Chen, Yuhen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247646512&amp;idx=2&amp;sn=8441816f904d834fbff257f53a367549&amp;chksm=97a37b5d060525f115a2f983b90e82704b3d560013849563aaf1a07881bb0b28a21ebc598cb8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 15:57:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MIT何恺明团队新作：让扩散模型回归“去噪”本质，简单Transformer即可实现SOTA性能]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvbfkzY7GbB6TyibzDBq4OFRvCGpbDr889LoAyrCgQnhsWVfVkMhGjQMct5OMuf9KjdnYVMsNv6W5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天来自麻省理工学院（MIT）的何恺明团队发表了一篇引人深思的技术报告，对当前主流的扩散生成模型提出了一个根本性的拷问：我们真的需要让模型去预测“噪声”吗？论文标题: Back to Basics:</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247646237&amp;idx=1&amp;sn=88640d1ae12bfb2b12f2c594280a0ada&amp;chksm=97bf3da5a7372749ffeb673f0c25ee42f4be233ba90dda8639c12b5cacf3923ef86345e74386&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtbDia2DWVzKyVTUN950LOy2iamxS5EiapYpFZ3kSkXOkwLrVElwbZRnjnQZ9bqFmK8uKvRHePITvtiaA/300?wxtype=jpeg&amp;wxfrom=0"/><p>和聊一篇3D视觉领域的有趣工作，它关于如何从单张图片快速、精准地重建出三维模型。这项技术来自香港大学等机构的研究者们，他们提出的新方法名叫 CUPID，全称是 “Pose-Grounded Gener</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247643566&amp;idx=4&amp;sn=a33ca0a6ce7e368515db5435a7eaf972&amp;chksm=97311542c14d468013cb9530d20f131b8eaf33fa3ccbb4bbacf7813c3c8b60d33d21f5b5214f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Oct 2025 16:24:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“压缩不减智”！EPIC让多模态大模型以更少 Token 跑得更快、更稳｜NeurIPS 2025]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuBq4iayS8xcC1N2u4AibX9MBia5Pg0vsRvabguPF1Grd5LNyCQvJBCM90rJgibt4fTS8TgCPjKTLM6Ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>📌 导语摘要当视觉Token爆炸成为多模态大模型的最大负担，EPIC提出“渐进一致蒸馏”这一全新思路——不改模型结构、不加参数，却让模型在压缩中越学越强。这项来自上海交通大学 EPIC 实验室与上海人</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247643332&amp;idx=1&amp;sn=119b586f563275ba61a55d065f3e21d9&amp;chksm=977869ca6ec1bf95be5a14c4507ae91d5b34349b1851a7b5954c692caf1f215bb61465cbc70b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 14:48:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[川大等提出LG-CD：一句话精准锁定遥感影像变化，F1分数高达91.83%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTuBq4iayS8xcC1N2u4AibX9MBAU2QZTxmiaCrRPgTFbUoIVrria7bwku7ehYrzrE3ria1v3DwzmNgCaP6Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天要和大家聊一篇非常有意思的新工作，它来自四川大学和新疆大学的研究者们。他们提出了一种名为 LG-CD 的新模型，全称是 Language-Guided Change Detection。简单来说，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247643332&amp;idx=2&amp;sn=140491d468fb082fe9ce74cd6669a367&amp;chksm=9788ba5772396dabeba18b85584d7b1752cb121e60ba7b693fa90a869e94e1eb814de96bb2e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 14:48:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
