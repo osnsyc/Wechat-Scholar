@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[sgl-kernel MoE Align Block Size Kernel 优化过程解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3s1S1tIR7xniaEspGhjhzUcTG46UHHiaYic6vHXFcNYeRmzObSQs6MObJjU3MGZejCW77IvDduicXiaB7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言这篇文章记录了SGLang的sgl-kernel中优化 moe_align_kernel.cu 的过程（https://github.com/sgl-project/sglang/blo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530044&amp;idx=1&amp;sn=28bb51fdcba47bb76311338de41a4401&amp;chksm=9e0b139e2c7cd410829037ac2cee3dea133adf36c7f1a5f2d4332a59ffc6915be01bbcf53759&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 23:21:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[FlashAttention 完全进化史：FA-4 发布之际的技术全景回顾]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMKibkOJB9ubxNic873Xw5tNLjGibxJfvc9lSze1iaE94FaUWs5YS21vgViaQojTc0CcO7plWOeibueoPTjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Attention 的性能瓶颈在哪里一个训练场景假设我们在训练 GPT-3 规模的模型，序列长度 2048，hidden dimension 12288，96 个注意力头，那么每个头的 head_di</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530017&amp;idx=1&amp;sn=b371552cb2ac520aaf0cbd93d18e9947&amp;chksm=9e7617c4ee12585c50112ab4f3746c660f8e802a720d5816c625d016664e6411646a66692a30&amp;scene=0&amp;xtrack=1#rd</link>
