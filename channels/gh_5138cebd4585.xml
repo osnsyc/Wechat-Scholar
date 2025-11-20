@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[SOTA集体掉线？美团AMO-Bench揭露大模型数学推理的真实段位]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmpPMRqKrJJppsDwRgdIxjzP6Xtiamm12o3OiafEp06FIYMRXcqMAWHpicriaPwbh1xbUxs3mA9HVbcJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年，AIME 等数学基准几乎被主流大模型打到了 90% 以上。可当同一批模型面对 AMO-Bench 时，最高得分也只有 56.0%。这组反差让一个被忽略已久的疑问重新浮上台面：我们以为已经“很</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247712592&amp;idx=1&amp;sn=a45301fb7de36b37208e210de2e65579&amp;chksm=978de624bfdde394983320904f1ef57d68df48f7a590aae934e7be090279f42651a51cd1c26f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 13:14:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[百万步0失误！LLM首次跑通1,048,575步长任务，不崩、不偏、不掉链]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmpPMRqKrJJppsDwRgdIxjzsmOfIBzpLNyWXLyzhcBhC0uS2244Yib0tW4oWJiaobw4ytXhauvR6AIg/300?wxtype=jpeg&amp;wxfrom=0"/><p>过去的大模型，再强也扛不住长链路：几十步稳、几百步飘、几万步基本要翻车。而这次，一个系统把 1,048,575 步跑到最后、零失误。这是在重写 LLM 的能力边界。在大模型的世界里，“一步错，全盘崩”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247712592&amp;idx=2&amp;sn=b249eab26ae8cadf1bc7b35a3e477a5f&amp;chksm=977d1002ff1a40f1b728e389ef3ec494ad4328b9b2758269497c6723f1adca4121e465e4679f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 13:14:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[清华团队“密度法则”登上Nature子刊，揭示大模型高效化发展新规律]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgl0YibzGsNSWv7JfY44bichrtaLDxibzvJWFVbDnl6XCq1Eyj1S5wLY9osNKQM9DtFpicE0go8yibTx7FA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2020年以来，OpenAI提出的 Scaling Law 引领着大模型的快速发展 —— 模型参数和训练数据规模越大，产生的智能能力越强。然而进入 2025 年，训练开销不断扩增这一路径面临严峻的可持</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247712509&amp;idx=1&amp;sn=85ed13cc36089121b6f8f3e0f96c2d1c&amp;chksm=971059ac173f9758a57abce6b7ac7411ffa230bffbb49ace527bf862c9bc6ce14d8ec5c725a1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglsofb3zZMOYfsvzEVgzreoFwvBgvkBKlCNsE3O8Tt1UzfZLE7wnK4OwLBxRvVtYqeLiaUUMhhz9sw/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！University of Sheffield谢菲尔德大学（Universit</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247710849&amp;idx=3&amp;sn=5e40ecd2ea8d332dbb19de27fe45d777&amp;chksm=97c1efd9bb11af740253793ea6dc6a4ed54c3300d0ce47bd6fc0ec1c4bf3655a1ae79a6a41af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 13:47:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI学会Debug自己？LSTM之父让智能体真正开始「自我进化」]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnxW4tFYIBnMGfo5YLvia8CoG8BDFRj47lngGNgYMiashaB4vaxTkZZkFIrO3CmA4vSBZGUIRH1YRdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去，AI 只能“被训练”；现在，它开始“训练自己”。来自 LSTM 之父 Jürgen Schmidhuber 团队的最新研究，展示了一种能自我修改、自我修复、甚至自我优化的智能体——它真的开始学会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247710679&amp;idx=1&amp;sn=9594900942490bec5b72d4fd0182c465&amp;chksm=97a721d77c36a9bd4080ecf143f6233a359706ac3e34b7d112c323cf2559db504919980995de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 14:03:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2025 | 神经网络何时学到世界模型？清华团队提出通用数学定义]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnxW4tFYIBnMGfo5YLvia8CoEjSFAMhT63qGm76wL2Eh1yZHJu6r5wJAwrNTEkgDsZZxhxTiclIBHEA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 章天任、陈冠宇、陈峰单位 | 清华大学 VIPLAB、千诀科技邮箱 | trzhang@mail.tsinghua.edu.cn相信 2025 年 AI 领域的大家都或多或少听说过“世界模</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247710679&amp;idx=2&amp;sn=9b19f272f052ab4094ae2a07b09bdbb2&amp;chksm=973894baa01a4786cdbac1c99440b03932eecd23c7b8e080c1969db685423d578540bcb6654b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 14:03:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
