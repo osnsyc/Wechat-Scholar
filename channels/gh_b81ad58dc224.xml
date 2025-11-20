@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-11-19）：何恺明团队新力作！JiT极简PyTorch实现高分辨率图像扩散生成，解锁像素级图像生成新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzkPwXXzaLWwFLw33v7AkjR3T3Xicfm0UGpFkiasj640bZWh0BOn0x1ENR9c4EJupeWLfMLkyll5CGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：JiT★JiT 是一个基于 PyTorch 的高分辨率图像扩散模型的实现，旨在通过去噪生成模型进行像素级图像生成。该项目最初在 JAX+TPU 上实现，现已移植到 PyTorch+G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500484&amp;idx=1&amp;sn=38f994aed760bf7329cc7bdf1f6c9312&amp;chksm=c0f595ea13703f61635f95cca6cb15dc45c9b2efc2e8fe59dad2b4e97a793b455eb6fc283f3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 17:18:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-11-18）：字节联合港中文推出Video As Prompt，以混合变压器架构实现可控视频生成飞跃]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzXSGAIeiatOiajozNgUxQF6ru2PKRQ47kNSq4zqSyZlkrcMw35nRTIWCZwe7hcVWacKgxiaCIVkXsjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Video-As-Prompt★Video-As-Prompt (VAP) 是首个统一的语义视频生成模型。其核心思想是通过一个具有目标语义的参考视频作为提示，来生成具有相同语义的动画</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500456&amp;idx=1&amp;sn=b83561cfe40d1e239ec812a13a317ebc&amp;chksm=c0b47949da2453706ecbd44dcbf31aa82b655796fe0f50d80bf2273123836409f1ea897c9ab2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyTv5Tib1TQmZPog7thlzyKRlLU04Dtvh1uKu5ILvdMJJ3tomYEFq7v8oGqdcbicg6ETnOWhNevlpdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Kimi-K2-Instruct-0905★Kimi-K2-Instruct-0905 是 Kimi K2 系列中最新且功能最强大的版本。它是一个最先进的混合专家（MoE）语言模型，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499402&amp;idx=1&amp;sn=f46e4e95a291826583721630c0ca46c3&amp;chksm=c0b80d165db914905138097dfa108c9b33ddd3aa36b5660e7981db5805cf623cecb7832dc89a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 08 Sep 2025 18:21:45 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-09-05）：Keye-VL 1.5，多模态视频理解突破，慢快双编码+128K长上下文，四阶段预训练全面提升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyejbWbhH1x95IWpSTclPfFXByaXYYM8Jks583M6Iyl4u2d48XLfiaKNibuggTKnjC3pLczuHMeHvvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Keye-VL 1.5 ★Keye-VL 1.5 是一款先进的多模态大语言模型，专注于解决视频理解中的基本挑战。它采用了创新的慢速-快速视频编码策略，逐步的四阶段预训练方法将上下文长</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499390&amp;idx=1&amp;sn=fdf41c1c43ee706480c03ce8be62ffd4&amp;chksm=c005352fdfe0635ef56d6237ec6bfa1ecf53bef13f2f050b8fc660cde0b783358ddb465dcab2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Sep 2025 18:32:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
