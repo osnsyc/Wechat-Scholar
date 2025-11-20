@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[香港理工大学计算机系 NLP&amp;多模态 26Fall博士招生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahpxHQfOeh0NYicxJvYLt06C7wGt23jpkI0KZRKicV6wGVeGdt04PbtHUwlkh9THlgYZMMU6VMPRGOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导师团队由研究助理教授Yongqi Li (Chief-supervisor) 与Wenjie Li 教授(Co-supervisor) 组成，现招收博士生2名，欢迎对以下研究方向有浓厚兴趣的同学申请</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545370&amp;idx=1&amp;sn=600e3edf3884bed40a68106464d2ade6&amp;chksm=ea0d72df26957365c6bed04ec25091e56e0435e04ffb7a871417248123b5554d0e2eb28a3dd2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 11:43:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Meta通过简单算术解锁LLM SoTA性能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahpxHQfOeh0NYicxJvYLt06CSM8OT2HeQTt89VXOvYv9pbpTHk5JOE5XCSRib56TAKjicIQYU3XlKEEw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）如GPT、LLaMA等已在自然语言理解、代码生成、工具调用等任务中展现出强大能力，但其训练过程极其耗费算力与时间。为了在不重新训练的情况下提升模型性能，研究者提出了“模型融合”这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545370&amp;idx=2&amp;sn=4e7896373773d7c582c4476a1eba78bc&amp;chksm=eab7b1f69292591fa131ee53389edcb8c85dc554d2c13b3c79e9e7e94f6e2d8b6d5d570cd138&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 11:43:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[英伟达提出“思考用扩散，说话用自回归”：实现语言模型效率与质量的双赢！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajjCiacxeNBuCxmlELyAqAicjLNqmatw7XqY3iaTB4QpicjaLA6K5UVGEh2wQDzNtAh9SjpEAFyL5qDHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLMs）在自然语言处理任务中取得了突破性进展，但其生成效率仍面临严峻挑战。主流的自回归（AR）模型在生成文本时只能逐词输出，导致 GPU 计算资源利用率低，生成速度受内存带宽限</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545349&amp;idx=1&amp;sn=4c63a2737c4637a9606e6919085edb61&amp;chksm=ea1798397c149f047a6c8c62235a9fc484f22f39db7a66f21e504301b65ad74e5612652d2cc1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajkqXhnKmIicaGM2NictAF5hlibeAuic3lrBC1RG7TQXfCn3TrXk2qEJhP5SMcvzLcZ9WRnuAeKZHr5vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>好消息！线下活动《RL实践经验分享会》 报名异常火爆，为了让更多人有机会参与，我们决定同步开启线上直播！外地的朋友或因名额限制未能参加线下活动的伙伴，现在可以通过直播加入我们啦！🕰️ 时间与地点日期：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544463&amp;idx=1&amp;sn=cb44e4823adb81d7b86e919205c064eb&amp;chksm=ea137094b6774d995195c459f250cb5704f0db72be483d2cd8c8c133f131472ecc07e7130ebb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Oct 2025 23:36:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用中等难度prompt做高效post training]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajkqXhnKmIicaGM2NictAF5hlVVYbXCS54picmZib9R1IMxACur1yf1LuQM8T4kwQhdtArPu6J90kic0JA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLM）在数学推理、代码生成等复杂任务上取得了显著进展，其中强化学习（RL）的后训练（Post-Training）扮演了关键角色。然而，RL训练过程对数据批处理（batching</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544463&amp;idx=2&amp;sn=22c24c8cf92f5ed20b1af5230b2b3675&amp;chksm=ea0f0672eab6b6584dac34dd736b50a8f9783e9837633544680c5a75c1d16448878718c9687a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Oct 2025 23:36:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别微调！腾讯提出Training-Free GRPO：无需更新参数，还能保证泛化性，成为传统RL的有力替代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajuHVsqkzQOnRnWqPXshqnm9FjDrFksk0rsghpW2d10QR2uFwG0G2IxZXFiaZibFoUfGnrqYHAFtdLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）如GPT-4、DeepSeek等，已经在通用任务上表现出色，但在专业领域（如数学推理、网络搜索）中，它们常常表现不佳。这是因为这些任务需要模型灵活使用外部工具（如计算器、浏览器）</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544443&amp;idx=1&amp;sn=999cfff50c7475082760a083c2e18514&amp;chksm=eadc8611921204dbdaf3e8eb39d2abac3d53908910f30d282a8dfeeba9494b196b9282edd3e3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Oct 2025 21:11:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
