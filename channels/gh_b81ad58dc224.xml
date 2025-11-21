@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-11-20）：Meta开源sam3，支持文本/视觉多模态提示，开放词汇分割覆盖 27 万独特概念]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyuibPzo2Es38A2RciaQObo0308kdEZ6hxta1XMLAwialO5bT9zthzFy3JBUWo9U0jkykmxzKwPuKpqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：sam3★SAM 3 是一个统一的基础模型，用于图像和视频中的可提示分割。它能够通过文本或视觉提示（如点、框和掩码）检测、分割和跟踪对象。与其前身 SAM 2 相比，SAM 3 引入</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500505&amp;idx=1&amp;sn=4d7fded90ab754f1a29cf7d47eb7b706&amp;chksm=c04a76d8e4380aa7605ecabecb87a93ab2c622fe53504224c8d9d0b2d7fda3e3e310d7b6dbfc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 18:00:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-11-19）：何恺明团队新力作！JiT极简PyTorch实现高分辨率图像扩散生成，解锁像素级图像生成新范式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzkPwXXzaLWwFLw33v7AkjR3T3Xicfm0UGpFkiasj640bZWh0BOn0x1ENR9c4EJupeWLfMLkyll5CGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：JiT★JiT 是一个基于 PyTorch 的高分辨率图像扩散模型的实现，旨在通过去噪生成模型进行像素级图像生成。该项目最初在 JAX+TPU 上实现，现已移植到 PyTorch+G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500484&amp;idx=1&amp;sn=38f994aed760bf7329cc7bdf1f6c9312&amp;chksm=c0f595ea13703f61635f95cca6cb15dc45c9b2efc2e8fe59dad2b4e97a793b455eb6fc283f3d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxjoSFZ8Mu6AGia6CAqEBqMZ1LoMm9tvUk8L7vmjRczDmTuWcCKBfhIDrv2sjYSzBt5CCND0lBPW7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：IndexTTS2★IndexTTS2 是一个突破性的文本转语音系统，能够在零样本条件下实现情感丰富且时长可控的语音合成。该项目采用自回归模型架构，旨在提升语音合成的自然度和情感表达</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499422&amp;idx=1&amp;sn=a7d5388683557e2b29912616bf0b5f05&amp;chksm=c07a56b04010d04c023968cef7ce75304628763ecf936b97db9a9184a1a5c5723e2a4f854013&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 09 Sep 2025 18:12:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-09-08）：Kimi K2-0905，万亿参数MoE架构突破，256K超长上下文+前端编程优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyTv5Tib1TQmZPog7thlzyKRlLU04Dtvh1uKu5ILvdMJJ3tomYEFq7v8oGqdcbicg6ETnOWhNevlpdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Kimi-K2-Instruct-0905★Kimi-K2-Instruct-0905 是 Kimi K2 系列中最新且功能最强大的版本。它是一个最先进的混合专家（MoE）语言模型，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499402&amp;idx=1&amp;sn=f46e4e95a291826583721630c0ca46c3&amp;chksm=c0b80d165db914905138097dfa108c9b33ddd3aa36b5660e7981db5805cf623cecb7832dc89a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Sep 2025 18:21:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
