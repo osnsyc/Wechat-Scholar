@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-11-21）：Deepseek开源LPLB，动态重排专家+最优令牌分配，破解 MoE模型并行训练负载难题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxtwELjyWk50MlLvhsxEVwPWLg94hvGicq4n8eywD1adWNlQdbUib1A492PGXVyER5avTkGmsPOb9bQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LPLB★LPLB是一个基于线性规划的并行负载均衡器，旨在优化MoE（Mixture-of-Experts）模型的专家并行工作负载分配。它通过动态重排序专家、构建静态拓扑的副本以及为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500524&amp;idx=1&amp;sn=30884567d334425f05dd988b146e4122&amp;chksm=c0ab47f9e3c0862ea593a2d4d2abfa0e958351d0dfd12acd55d26247d02d069041c7b5aed5e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:38:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-11-20）：Meta开源sam3，支持文本/视觉多模态提示，开放词汇分割覆盖 27 万独特概念]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyuibPzo2Es38A2RciaQObo0308kdEZ6hxta1XMLAwialO5bT9zthzFy3JBUWo9U0jkykmxzKwPuKpqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：sam3★SAM 3 是一个统一的基础模型，用于图像和视频中的可提示分割。它能够通过文本或视觉提示（如点、框和掩码）检测、分割和跟踪对象。与其前身 SAM 2 相比，SAM 3 引入</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500505&amp;idx=1&amp;sn=4d7fded90ab754f1a29cf7d47eb7b706&amp;chksm=c04a76d8e4380aa7605ecabecb87a93ab2c622fe53504224c8d9d0b2d7fda3e3e310d7b6dbfc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwfMtFWS19Syorbd7vJ0KPBgMWYj7wD2hGcpBdT6bVT2kqNB1OjuHgh2Q6BMGTxhgT0wSiaoSBXBhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：ERNIE-4.5-21B-A3B-Thinking★ERNIE-4.5-21B-A3B-Thinking 是一个经过后训练的文本 MoE 模型，拥有 210 亿总参数和每个 tok</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499507&amp;idx=1&amp;sn=235154dcd1ec38e2a3892db95fb50266&amp;chksm=c097b35cd1c4ced705fab2d5c6a95bd106b528c05b0fa435285ab849bfaadf9648ca184bb418&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 10 Sep 2025 18:57:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-09-09）：B站开源IndexTTS2，零样本合成新突破，情感与时长双控赋能语音交互]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxjoSFZ8Mu6AGia6CAqEBqMZ1LoMm9tvUk8L7vmjRczDmTuWcCKBfhIDrv2sjYSzBt5CCND0lBPW7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：IndexTTS2★IndexTTS2 是一个突破性的文本转语音系统，能够在零样本条件下实现情感丰富且时长可控的语音合成。该项目采用自回归模型架构，旨在提升语音合成的自然度和情感表达</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499422&amp;idx=1&amp;sn=a7d5388683557e2b29912616bf0b5f05&amp;chksm=c07a56b04010d04c023968cef7ce75304628763ecf936b97db9a9184a1a5c5723e2a4f854013&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Sep 2025 18:12:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

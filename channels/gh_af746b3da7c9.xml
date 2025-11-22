@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[“坏”数据让模型更“好”？重新审视数据过滤]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baghBmPueqICibxghF6jquWwfY3gwwGfFkp3AcGwaNQ8YC0NMPl97dVmZib0Kic0I3icQtQMnsN2CGOJOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大型语言模型的预训练中，数据质量一直被视为模型性能的决定性因素。传统做法是尽可能过滤掉“坏数据”（如毒性内容），以避免模型生成有害输出。然而，这篇论文提出了一个反直觉的观点：在预训练中适度加入有毒数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545419&amp;idx=1&amp;sn=2fdae3b3f4c9f323da46981bd5082ae3&amp;chksm=ead9fb0ff149210beb2492e23d777e0a21183f9bbf83c003f888220033585d6f7870c76e261f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 21:52:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“交互式Scaling”：增加Agent与环境交互的深度和频率来提升性能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baghBmPueqICibxghF6jquWwfXavqxsVFOLua3hamJalMnPb3QumECT7rJWYVAuF4CKqh7XX7wbg8UQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能飞速发展的今天，大型语言模型已经从简单的文本生成工具，进化成了能够使用工具、进行复杂推理的智能Agent。特别是在研究领域，像ChatGPT Agent和Claude Research这样的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545419&amp;idx=2&amp;sn=9486bda3468a11c5e5544a80fe0f4c3a&amp;chksm=ea0ceafcadcf9ab3a3b6a863e13eb382ca0b29c9cbae84a49a8204c83decd37a355276aafd05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 21:52:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[香港理工大学计算机系 NLP&amp;多模态 26Fall博士招生]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahpxHQfOeh0NYicxJvYLt06C7wGt23jpkI0KZRKicV6wGVeGdt04PbtHUwlkh9THlgYZMMU6VMPRGOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导师团队由研究助理教授Yongqi Li (Chief-supervisor) 与Wenjie Li 教授(Co-supervisor) 组成，现招收博士生2名，欢迎对以下研究方向有浓厚兴趣的同学申请</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545370&amp;idx=1&amp;sn=600e3edf3884bed40a68106464d2ade6&amp;chksm=ea0d72df26957365c6bed04ec25091e56e0435e04ffb7a871417248123b5554d0e2eb28a3dd2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaSLGmHrVzJA6OGaqct6PAnUFhELWY9tQUxs1O8ib20SEkC4ibUic9yqHcQtsax2gkbYekIp1GwTElzQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>会议简介中国中文信息学会（CIPS）是中国中文信息处理及其相关领域的学术团体，大模型与生成专业委员会（LMG）是中国中文信息学会旗下的专业委员会，全国大模型智能生成大会（LMG）是该专委会的旗舰学术会</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544496&amp;idx=2&amp;sn=c880490593fdabb8bd3f00dac42834ff&amp;chksm=eaf5c7c4896e9bd71ef078b825ae57d0a6922b78bef5fe2537cc3c18bc8a8452470493295883&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Oct 2025 17:23:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[舍弃人工标注！华人团队提出多模态大模型自我进化算法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiaxKTnMtbo4bMoV6f47owoY2A0UUF4mNzHuGw8tuqRxiaXsiaHM2H5xMWyujku7pFDQicMFzVAYF2WJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前代码、模型和项目主页均已放出：项目主页&amp;代码：https://github.com/wangqinsi1/Vision-Zero论文链接：https://arxiv.org/abs/2509.25</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544486&amp;idx=1&amp;sn=7fc6cb8f22ca3a846e470afff044ac06&amp;chksm=ea6e4d425302dc935ef1d25cbfe32822b99047bad96f1f6e7e449a9c699ba3e736e337316c2e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 17:13:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周六《RL实践经验分享会》线下线上同步开启！快来预约直播！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajkqXhnKmIicaGM2NictAF5hlibeAuic3lrBC1RG7TQXfCn3TrXk2qEJhP5SMcvzLcZ9WRnuAeKZHr5vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>好消息！线下活动《RL实践经验分享会》 报名异常火爆，为了让更多人有机会参与，我们决定同步开启线上直播！外地的朋友或因名额限制未能参加线下活动的伙伴，现在可以通过直播加入我们啦！🕰️ 时间与地点日期：</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544463&amp;idx=1&amp;sn=cb44e4823adb81d7b86e919205c064eb&amp;chksm=ea137094b6774d995195c459f250cb5704f0db72be483d2cd8c8c133f131472ecc07e7130ebb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Oct 2025 23:36:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
