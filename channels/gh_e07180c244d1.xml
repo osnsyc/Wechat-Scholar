@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[AAAI 2026 Oral | 浙大&amp;上海AI实验室发布RacketVision：首个跨多种运动的球拍分析基准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvTtNY34WOnAOibQmD2ezbY7owG4k7xyibQpTUWzvc0mku1P3zicIex8v4Xtxr78dzbzyNpXRe5aSyPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题: RacketVision: A Multiple Racket Sports Benchmark for Unified Ball and Racket Analysis作者: Linfe</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247647200&amp;idx=1&amp;sn=e947ebc47021ba55b9aafb97b0c959c0&amp;chksm=97b9e0d2170b36d5ee8231e638ac19476fd98a6c2be457f34bbea6474b18292b58be2511e9b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 18:25:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[图像去模糊新突破：同济、港浸大联合提出四元数卷积，精准建模通道耦合关系]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTvTtNY34WOnAOibQmD2ezbY7U5HPTmESTiaIncPmtCgAdggSpbpiaCaSEIlGv35s8ZfmM9viasTSUwHtA/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，今天想和大家聊一篇关于图像去模糊很有意思的新工作。我们都知道，照片拍糊了是个很头疼的问题，而“盲去卷积”技术就是为了在不知道模糊具体成因（比如怎么抖的、怎么失焦的）的情况下，把模糊照片恢复清晰</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247647200&amp;idx=2&amp;sn=a585f8ec3f7a91707b95c94e6397fd28&amp;chksm=975e4fb0b812b05810c705145ec206f8c40e4507c947c55467fe1970aad5b8ad9331c055170e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 18:25:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[基础架构的新探索：清华提出Step by Step Network]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTueI12bhdACsFO0uzaMHENEEmt5hmVeTBklpny5CNAGoHe83NdwH6rL4ddYQrVDfq1XP4Ba2jyuJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天我们来聊一篇非常有意思的新工作，来自清华大学和华为诺亚方舟实验室的研究者们提出了一个名为Step by Step Network (StepsNet)的通用网络架构。它的核心思想非常直观，就是让神</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247647018&amp;idx=1&amp;sn=68f01a9ad012afde26db76cbaaff7ead&amp;chksm=97f8f4aa4ab29d02f4e572db4741efcf2a5095929666be64c112569019bc0567dc4e69bde76c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsd9QUPq9NZeUdBlOaqwSq0ne5W4ichzfgjucwHtMM3EfYVDAK5sLmYx69MCdwydbLLbLqpsKZyQgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，基于Transformer的扩散模型（DiT）在图像编辑领域可以说是风生水起，但大家在享受AI带来便利的同时，可能也遇到过一个头疼的问题：生成的图像要么“改过头”，要么“没改到位”，很难精准控制</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247643833&amp;idx=1&amp;sn=18b3e800deb6c7c4d4d83eddf46232bb&amp;chksm=970517b59314845823f3e58bd38e088c64bfdb3c68023ebcabf7b47751003351836bcdeaeae0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Oct 2025 08:33:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[美团开源LongCat-Video：136亿参数长视频生成，分钟级推理720p]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTtbDia2DWVzKyVTUN950LOy255ObIwYao0XhSEnEtLHichj7Kmuy8j0b7ac38zZs5rALmhgkjxSMCbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，视频生成领域又迎来了一位重磅玩家。美团的LongCat团队发布了名为 LongCat-Video 的技术报告，这是一个拥有 136亿参数 的基础视频生成模型。它的亮相，不仅在多个视频生成任务上表</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247643735&amp;idx=1&amp;sn=2ee32b04436df37000e50efc3867ce18&amp;chksm=97ca089f36e81d6a2931cd3bc3781f81b8b392c997bfe0a1387e1e8ba55e4faa6a5e6063273f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 13:08:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中科院SNELLA：视觉模型微调新范式，性能超越SOTA，内存占用降低近40%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BJbRvwibeSTsd9QUPq9NZeUdBlOaqwSq0ia4hwR9pFLjhZRBoMpzPib1D5nFx3j0iauZRGficPbcGVOO7dT1hhKMtog/300?wxtype=jpeg&amp;wxfrom=0"/><p>当我们在谈论微调巨大的预训练视觉模型时，计算资源和内存总是绕不开的话题。为了让这些“大块头”能更轻巧地适应下游任务，参数高效微调（PEFT）技术应运而生。而在众多PEFT方法中，稀疏微调（只调整模型中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247643735&amp;idx=2&amp;sn=c1663a9cf93d63dd0e3280dbf319e0da&amp;chksm=97864ff3d76e4ad116ed70fb785085af359b808ee7f73c5ec07895b315533bc2e944fa6c1399&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 13:08:16 +0800</pubDate>
     </item>
   </channel>
 </rss>
