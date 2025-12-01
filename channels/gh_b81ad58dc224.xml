@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-12-1）：英伟达发布Nemotron-Flash，实现推理速度与精度双突破，重新定义小参数量模型性能边界]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyiaAE501jhR0KI1ibDvRbEM05YZbFG0kzdvG5MuHicyndPPVslPicUmPSne4xOCKolgMTn4m21z4Pwng/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Nemotron-Flash★Nemotron-Flash 是一个新型的混合小型语言模型家族，设计重点在于实际延迟而非参数数量。其特点包括延迟优化的深度-宽度比、通过进化搜索发现的混</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500664&amp;idx=1&amp;sn=bf89bf65ac6013ab14031262ae424040&amp;chksm=c082b436dc4fcd2ec1c8aa6993060f43952814785d1a35dd6c2741803e15de029821b5776a78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 17:05:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-11-28）：DeepSeek-Math-V2开源，以 LLM 验证器实现自验证，攻克数学推理严谨性难题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwrQicaRCG3nG4VhTVhF8DVhBk3FJBxSuOY1etC8tYZfoJxZKULouzhBKTxmIWDrEicd5WrQaRn4Jcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DeepSeek-Math-V2★DeepSeek-Math-V2 是一个旨在实现自验证数学推理的大型语言模型。通过强化学习奖励正确的最终答案，该模型在数学推理方面取得了显著进展。然</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500644&amp;idx=1&amp;sn=ea3f14f6ce7da3eba0573c28207b039c&amp;chksm=c0c5bb3a758f77e59b93745b11c2e35c6103243726d65604b197e281d0f59b3ed62504c44b8a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkz2bZlOExclhsvlcgQibibTAOgM4Wg2nrpjuGp6bicb0evJh8cdU9noYDicUnwrLahYcZJPq2ibMqkJTlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Ling-V2 ★Ling-V2 是一个基于 MoE（Mixture of Experts）架构的大型语言模型家族，致力于在保持高效的同时提升复杂推理与指令遵循能力。首个发布版本 L</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499580&amp;idx=1&amp;sn=f900ebf5c5334ae0347e80180d996749&amp;chksm=c075f684d085353a31fb0aa1b1901e239d7a0986f4c8e4bf3d5b62f7ae51d22b74b2a1488d93&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Sep 2025 18:40:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-09-17）：Tongyi DeepResearch，300亿参数仅激活30亿，长时深度检索性能再创新高]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw7Ts02Gkriaftx77VI0uPlqu19zKx6os763jXqaZMAObLdFCj0HUpOUFvzMnabTS5QHdckdaSZKoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Tongyi DeepResearch ★Tongyi DeepResearch 是由同义实验室开发的一个大型语言模型，拥有总计300亿参数，但每个token仅激活30亿参数。该模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499566&amp;idx=1&amp;sn=b49f842e99c5114758f103a9940f5ea7&amp;chksm=c0ebcf72a380f09a3402b4e34027e03b86b1b3ca547cac02dc4495a68fdcc76094804680d41c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Sep 2025 17:58:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
