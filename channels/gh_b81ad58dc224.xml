@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-12-2）：DeepSeek-V3.2开源，DSA稀疏注意力加持，算力与推理性能双突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxVdbclAlaicR2tDw3fyLupJsH0HgiaYYJ4ws9YcIA3Z3LMyPZRAdME0dZJ3Uxia0pjpdHZugvI0hm6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DeepSeek-V3.2★DeepSeek-V3.2 是一个结合高计算效率与卓越推理和Agent性能的模型。其创新点包括 DeepSeek Sparse Attention（DSA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500684&amp;idx=1&amp;sn=4909b3b0e70375a81eeb7b05837a8aa6&amp;chksm=c0544281d3c2384f8ba81a3431bb958774f73520089ea21d08c3a8872d9683b5232af13ff56b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 17:19:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-12-1）：英伟达发布Nemotron-Flash，实现推理速度与精度双突破，重新定义小参数量模型性能边界]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyiaAE501jhR0KI1ibDvRbEM05YZbFG0kzdvG5MuHicyndPPVslPicUmPSne4xOCKolgMTn4m21z4Pwng/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Nemotron-Flash★Nemotron-Flash 是一个新型的混合小型语言模型家族，设计重点在于实际延迟而非参数数量。其特点包括延迟优化的深度-宽度比、通过进化搜索发现的混</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500664&amp;idx=1&amp;sn=bf89bf65ac6013ab14031262ae424040&amp;chksm=c082b436dc4fcd2ec1c8aa6993060f43952814785d1a35dd6c2741803e15de029821b5776a78&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxI2mkhpzdnd3ZLKNRWurIN1unLGeaKjmgXLFib7GSRmibnyGgndXUJmia5WCu6f8xggNuMkR3VnolcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Wan2.2-Animate★Wan2.2-Animate-14B在角色动画和替换任务中，实现了整体运动与表情的高保真复制，对基础视频生成模型进行了重大升级。它采用混合专家（MoE）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499590&amp;idx=1&amp;sn=833385a03e0b9f302ac69ad11ff7e23c&amp;chksm=c089a7a58ffcf74ba0b576280299c10abfcf18729f5412ce4ab240431912ec492e7b67e29c73&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 19 Sep 2025 18:26:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-09-18）：蚂蚁开源 Ling-V2：16B MoE 架构仅激活 1.4B 参数，轻量却媲美大模型性能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkz2bZlOExclhsvlcgQibibTAOgM4Wg2nrpjuGp6bicb0evJh8cdU9noYDicUnwrLahYcZJPq2ibMqkJTlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Ling-V2 ★Ling-V2 是一个基于 MoE（Mixture of Experts）架构的大型语言模型家族，致力于在保持高效的同时提升复杂推理与指令遵循能力。首个发布版本 L</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499580&amp;idx=1&amp;sn=f900ebf5c5334ae0347e80180d996749&amp;chksm=c075f684d085353a31fb0aa1b1901e239d7a0986f4c8e4bf3d5b62f7ae51d22b74b2a1488d93&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Sep 2025 18:40:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
