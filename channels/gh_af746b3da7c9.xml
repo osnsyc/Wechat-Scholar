@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[沉默的进化：LatentMAS 如何通过“潜意识通信”重塑多智能体协作？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzVGVl23c1ibpTAaD4Zavb9WL7NkRg4BycGdm4tVDInQVuGhGdZ2ryfWa3kGOR6o2KPvP3XlvUiceQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是一个关于多智能体协作（Multi-Agent Systems, MAS）领域突破性研究的深度解读。这篇论文提出了 LatentMAS，一种让智能体之间不再通过“说话”（文本）交流，而是直接通过“脑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545619&amp;idx=1&amp;sn=66b4187f515d11573c29749d03061a2d&amp;chksm=ea1875801fc860447ca9d5d67254c89568f99e91745efbc266a84acd9e191da94852783f909e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 19:26:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LLM算力告急？把文本变图片，推理成本直接减半！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagzVGVl23c1ibpTAaD4Zavb9VrukcBHtJfD1OzsOAPkK52k0RSSlw92aQTCkaLMQzPiaQuLdvUZ4NfA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLMs）及其多模态变体（MLLMs）已能处理图像、文本等多种输入。然而，长文本输入带来的高计算成本始终是部署中的关键瓶颈——Transformer的自注意力机制复杂度随输入长度</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545619&amp;idx=2&amp;sn=f07ab4db8e12e940e924df643fe5196b&amp;chksm=ea1a2c4239a58d2b2dc8c52f55b2410013b1eb566d562002703f66005d5dbbe0c5ed7e4f1990&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 19:26:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OPPO AI重磅发布：深度研究智能体，离“真正好用”还有多远？我们给大模型做了一次全身体检]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajjL0mVpF89iaKHlxn29GIOIuTtN0TS73qJkiabY8bMgxnKrRtibuFwL6LB0600JqGleibKvqUl7hWxzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>文 / OPPO AI Agent Team2025年， Deep Research（深度研究）无疑是AI圈top3热点之一。从 Google 的 Gemini Deep Research到OpenA</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545567&amp;idx=1&amp;sn=3bcfcd12cfed50a7a07797ff23d18352&amp;chksm=ea4adb0fbf11ebd1d3b284f1340f85488cc5431f8e764d9dd9239f7b563e805613c8ca6590c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahtwAR7uavpPjrYmE1FpViahGPEXE6qpqlxYAPibbIFWpA0Fseqx8vhLicZbF5WSbxrkhTriaK2hRK34w/640?wxtype=jpeg&amp;wxfrom=0"/><p>前几天刷到条有意思的视频，“AI智能体在2025年注定失败？”看完才发现，还真不是危言耸听。CMU最新研究显示，即便是Claude Sonnet 3.5这类顶尖模型驱动的智能体，在真实任务中的完成率也</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544741&amp;idx=1&amp;sn=ab9f2ed3519a8cb54838878c242872c2&amp;chksm=eae9438eed79a040ffc3a69b900ee6bc849652fecf565c38a4ee41eff5331225a9248470ba60&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Oct 2025 16:47:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超越对数似然：模型能力连续体下的监督微调新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bah2mjMiaE2puES4ZQRrCkfxGRnxKibbSObwlLia9vMBNBeuxf9f2p3xjZtZibHBNEUHvWwvfrn0mgtyGw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）在预训练后，通常需要通过监督微调（SFT）来适应具体任务。然而，尽管SFT被广泛应用，其泛化能力却常常受限。传统上，SFT使用负对数似然（NLL）作为训练目标，这一选择源于经典学</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544741&amp;idx=2&amp;sn=41ab03cc9dca6b9f94708b0a732617f1&amp;chksm=eacd9ac4cfe367f0cbbec03f55b61ca90421ad68a3a3f25c61f4ad297a5491a892116260ce5e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 16:47:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[复旦教授眼里的多模态大模型研究热点！idea满满]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahtwAR7uavpPjrYmE1FpViahia8a3yicCcCKOCLicFXmeEicukZwxEfB5wmULFcl01sfNFkBn9gtxc0huQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击蓝字 关注我们从 CVPR、ICLR 到 AAAI，2025 年顶会趋势已清晰释放信号：多模态大模型领域正迈入新一轮技术爆发期。作为当前技术核心，多模态大型语言模型（MLLMs）并非单一模态的升</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247544712&amp;idx=1&amp;sn=4e6ffa21c2f80649c3435ad74d0c06e9&amp;chksm=ea6535c8dfc3cd5464ae9fee3292e414968be5e065388bdc5870c3feda1b8da909a1b6430da5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Oct 2025 11:56:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
