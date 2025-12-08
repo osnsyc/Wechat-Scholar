@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[cuTile Python 学习笔记]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMIMk2YlGNgUq66gAUv7hNS6L6YZZ6Mz8Wbo064u4mocpSXkfVSn2Q2FRp1XuuugibabLYZUE0aRUDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本人纯小白，这个博客主要是我自己学习cuTile的一些记录，任何信息以源码为准。目录核心概念：Tile、Array、执行模型Kernel 编写：装饰器、启动、编译期常量数据搬运：load/store、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530202&amp;idx=1&amp;sn=a8f055264120a9d5641bb3840f56064f&amp;chksm=9e2195c27637e142cafa0fbb8e373da2ed9a6b3c38e2a2a9647dceb39e929eaba31f3e0e1add&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 20:31:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[在 Cache-DiT 框架下实现原生 Serving功能]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uYZoVMMvCuHJPtqLJfaDBqEnvXIRk8GibHFmpuKW4yviavoNYhibMMAiajyV7BaUHneeQHtJKUfcApgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言Cache-DiT 是唯品会开源的 PyTorch 原生 DiT 推理加速引擎（https://github.com/vipshop/cache-dit），通过混合缓存加速和并行化技术来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530127&amp;idx=1&amp;sn=e8e0fa854a9067ff9d8edf6af741bcc4&amp;chksm=9eeafef224d2bef75ca6cd02ec1e5e4ab2472875bfb6b144587e41eb22ebfcfa79ae01890d12&amp;scene=0&amp;xtrack=1#rd</link>
