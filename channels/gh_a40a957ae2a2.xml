@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[今日地铁Time， 前两天应该都被OpenRouter &amp; a16z的100万亿Tokens分析报告刷屏了吧， 一些结论蛮有意思的，我们来聊聊！ 原文：https://openrouter.ai/state-of-ai 先说一个最明显的趋势， 国内开源模型用量激增，2024年低占比仅为1.2%，2025 年末飙升至30% 要感谢DeepSeek， 因为之前国内的开源模型，还以中小模型为主，大多用处是本地部署， DeepSeek一波开源，先是效果好，然后这么大真不是一般人能部署的了的， 重要的是带动了国内智谱、Kimi、MiniMax，原来没开源的，都开源了， 而且开的都是顶级模型，这是生态层面的变化，respect 报告里一个有个很反直觉的点，开源模型中使用量最多的是角色扮演（超过 50%）和代码（约 20%）， 看上去很夸张，不过要注意它统计的是 Token 消耗，而不是调用次数。 角色扮演和编程任务本身就需要超长上下文，Token自然消耗得快， 我做过一阵子剧本角色扮演的产品，Token用量确实是很夸张的， 但如果换成调用次数统计，我依然觉得知识问答、翻译、这些才是日常场景高频的场景。欢迎打脸~ 另外，被媒体解读得很多的观点是小模型（小于15B）使用占比下降， 但你不能说小模型已死吧。。。。 我觉得，站在API提供方的角度，确实小模型的市场会越来越小， 但这恰巧是对于小模型的发展越来越看重，我之前写过一篇，<a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="mj19m8yr-2vikbl" target="_blank" href="https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247497184&amp;idx=1&amp;sn=d4647f2c0ebec8e829097d7423f46387&amp;scene=21#wechat_redirect">大模型边际效应下降，小模型正在悄悄逆袭</a>， 小模型本身越来越智能，才会有更多的人会选择本地部署， 而且随着端侧设备的不断发展，小模型调用api的意义也会越来越小，所以要理性看待一些结论。 最有意思的分析是“灰姑娘水晶鞋”现象，就是用户如果适应了一个模型之后（模型满足了用户需求），留存时间会很长，即使后面有其他模型也能满足，所以AI时代，先发优势很重要。 我自己就是这种典型用户，我常开的几个页面，Kimi、Qwen、ChatGPT、Gemini， Kimi 用来看论文，Qwen 用来处理截图和多模态理解，ChatGPT和Gemini轮流解决对话和写材料的问题 一个解决我看论文的需求，一个解决多模态截图的需求，另外两个是对话和写材料。 虽然其他模型会用，但不会频繁切换，因为习惯已经形成，懒得换了。 最后就到这里了， 因为马上下车了，哈哈哈哈]]></title>
+      <description><![CDATA[<p>今日地铁Time， 前两天应该都被OpenRouter &amp; a16z的100万亿Tokens分析报告刷屏了吧， 一些结论蛮有意思的，我们来聊聊！ 原文：https://openrouter.ai</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247497323&amp;idx=1&amp;sn=13b0a4d4e0b68b58275b0bec1107180f&amp;chksm=ce012962beadb7bd51175ddc28c633782fefd3ca06b5ce34622b72c71dbfd1f737154fd2aeb4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Dec 2025 20:02:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[美团龙猫LongCat频频开源，LongCat-Image生图模型又来了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kWckuztnIIDe4n8e2Y4z8jBMib5KU3OEV6Z8ls8GSVtib2MzxmqddzUib8TFzyV4ib2u6OevwuTXtjXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。昨天就刷到，美团LongCat又开源图像生成模型了，一共是3个模型，LongCat‑Image、LongCat‑Image‑Dev、LongCat‑Image‑Edit。Lon</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247497320&amp;idx=1&amp;sn=afd53816bb80684e7873b1eafd28977f&amp;chksm=ce2eeb92499c9ed46bf99d93e16d6858f9dff0b496be7f05ae664a4b30e08b172af2eb97111c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5nN0kYg9QM62mVNYVh5skQXiczdqRwLic01A4D6WnXgEny2ibV0OFblMQz0yMagE8sb4NcXiaPLQD9ibuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。7月的最后一天，给大家盘点了7月国内的开源大模型！咱们8月也不例外，最后一天看看国内都开源了哪些大模型，看看哪些你知道，哪些你不知道，是时候在明天上班前查缺补漏了，别领导一问，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495777&amp;idx=1&amp;sn=5630d4ed5d59d8265ceb784b2b2bfdb8&amp;chksm=ce36bca3c21557b9ff4ae021d21511970353f6079b0d1c58bd54e83643aced8f081bf5f91304&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 31 Aug 2025 21:21:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[地铁时间，闲聊一下~ 中午吃饭，几个同事莫名其妙的开启了神奇的话题，古法编程 VS AI编程， 而这个问题的本质，是拥抱变化~ 就像你身边总会有人，新东西一出来就去尝试的，就像我的一个朋友，IDE就必须用最新版本（说实话，我真不能理解） 也会有那么一些人，就是习惯了旧方式，不愿意轻易更改，比如，我的PyCharm还是2021版， 这种差异放在编程方式上，就是古法编程和AI 编程的分野。 我很能理解，现在依然还在坚持古法编程的朋友，他们会有他们的顾虑， 他们担心用了AI之后，自己的代码能力会下降，他们也觉得AI写的代码不行，复杂代码的可维护性、可读性、可扩展性都不行， 最常见到的一句话就是，AI一时爽，调试火葬场 但并不尽然， 用AI编程和用AI编程还是有区别的，起码现在，AI 编程真的可以提升效率，哪怕你是Tab补全，你总不能一直都在写核心逻辑代码吧！ 当然，有没有可能是人不行，怪路不平。 你是否真的用对了AI，如果你直接给一大段需求给AI，那么实现的东西大概率是不行，大概率会丢东少西。 你要让AI对原始需求拆解为技术文档，按模块划分，再根据拆解的模块化技术文档，编写开发计划，比如在todo.md中，再让AI生成验收标准，比如单元测试，然后根据todo.md + 技术文档 + 验收标准开始写代码，最后验收。 当然我也是举个例子，只是想表达，真正想用好AI，并不是让它直接干活， 反过来看，在交流过程中，你并不是没有思考，反而逼着你更高质量地思考。 你要知道，是你在最终把控项目的质量， AI只是个工具，当你知道什么是好时，AI写出来的代码才会更好。 就像，之前吹vim牛逼，说IDE低智一样，现在 IDE 编程也变成古法了， 时代在进步，工具在演化。 如果你在 2023 年说“AI 编程很蠢”，我认。 但到了 2025 年，如果你还没用上 AI 编程，我只能说：那你可能真的慢了一拍。 当然古法编程，它应该不会消失，就像有人坚持胶片摄影一样， 算是一种审美或信念？ 反正，可真正改变行业、推动生产力的，终究还是 AI 编程。 毕竟，人之所以进步，从来不是因为蛮力，而是因为善用工具。 欢迎评论区讨论，说出你的看法~]]></title>
-      <description><![CDATA[<p>地铁时间，闲聊一下~ 中午吃饭，几个同事莫名其妙的开启了神奇的话题，古法编程 VS AI编程， 而这个问题的本质，是拥抱变化~ 就像你身边总会有人，新东西一出来就去尝试的，就像我的一个朋友，I</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247495718&amp;idx=1&amp;sn=6f20d635ff298b45be3ad5adf8032267&amp;chksm=cec3cabb065cab339ec46c460a97afc75a816e43401260c3f45dabfdb34d451af101ceae24be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 28 Aug 2025 19:19:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
