@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-12-15）：阶跃星辰开源新框架PaCoRe，凭 8B小模型实现百万 Token 并行推理，突破上下文限制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzte4ibre4WNQpVaBSwCZJXxKOQapWicGrm6ictsIiaDYre0OaHHibtjDrr6AD7FxXkgdG3PoyRcwInR2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：PaCoRe★PaCoRe通过将推理的驱动从顺序深度转向协调的并行广度，突破模型上下文限制，大规模扩展测试时间计算。其框架通过大规模、基于结果的强化学习训练，掌握了协调多种并行见解所</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500898&amp;idx=1&amp;sn=d7f1b60eef0df264c5786690925816bc&amp;chksm=c0ff4b212600ba6f3dbc28ca4b7cd536c2f04d2c22a6349526886e69e262a8391d861454742a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Dec 2025 17:42:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-12-12）：蚂蚁集团LLaDA2.0，WSD策略+多并行优化，撑起100B扩散语言模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwicdE5SVwfjC2E8VeCnZuUx1ia1LtJuzNNbLCSHLOCUtJOxP73BS1dXQIAsD2CnDLnSHDCIr7t46JQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LLaDA2.0-mini★LLaDA2.0-mini 是一种扩散语言模型，采用16BA1B混合专家（MoE）架构。作为LLaDA系列的增强版，经过指令调优，优化用于实际应用。该模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500877&amp;idx=1&amp;sn=36a181eca5dc433b98e99be008c4cdbe&amp;chksm=c0050a52426f036a7956f50e437ded9a5812fbc7842597902ff5a0ebbf8fb65c0a6a61448c72&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxVibYd7rKpiadT5ksrNCvrOIQcGbuoN4dQktibh14ib09SK7UrRM3mKCv9VYJH4MuxRLEPPzj1dL1icOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Ling-1T★Ling-1T是Ling 2.0系列中的首个旗舰非思维模型，拥有1万亿总参数，该模型基于Ling 2.0架构，旨在推动高效推理和可扩展认知的极限。Ling-1T在超过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499681&amp;idx=1&amp;sn=29a297905be4e82a2d672a02afe7dacd&amp;chksm=c0d169999eb2fa2bf99dc064fc9476aa1a786ab2201cb3c43d245aef1bff19670b8c714a4f43&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Oct 2025 18:11:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-09-30）：DeepSeek 推出 V3.2-Exp，稀疏注意力加持，长文本推理效率再升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwkCOEicEwWvCmn9YYdkusLjtqTz6m0stoT8nzqRpTLxVcl3zNrIO17f7P13vOn9esQSA84v3yY4Nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DeepSeek-V3.2-Exp★DeepSeek-V3.2-Exp 是 DeepSeek-AI 推出的实验性模型版本，旨在通过引入 DeepSeek 稀疏注意力机制来优化长文本场</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499671&amp;idx=1&amp;sn=20ea3624b293fe716633fa37a365d54d&amp;chksm=c06d54b71cdf18f71a05aa84753c96e3862bf0474f4568f0568713951e07146ac2f73248d5d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Sep 2025 18:55:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
