@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-12-17）：微软开源3D生成模型TRELLIS.2， 凭40亿参数基座实现高保真PBR材质3D资产生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxLIhvCaooXnfXvWwpbDuYRTUV7eAax4icCywGiaq94zBkkhjIXG4nVtP8TUB38oLwAXZSwH4zIuIyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：TRELLIS.2★TRELLIS.2 是一个先进的3D生成模型，专为高保真图像到3D生成而设计。它采用了一种新颖的“无场”稀疏体素结构，称为O-Voxel，以及一个大规模的流匹配T</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500937&amp;idx=1&amp;sn=5dee235ba08c513927d59fc0604cf298&amp;chksm=c047236923e510046246a88df525f30363d29dd5b556d4ad0ee95cf42d5f4ab4adf3062458ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 17 Dec 2025 17:52:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-12-16）：快手可灵与港科大联合推出UnityVideo，统一多模态视频理解框架，重塑视频生成与感知新范式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw93qjkpb7jicRhqAoHobXPeAoZXL5mX6jynwc6Oe0PNoxGzM1TqPDpuPnBNqXq3bXpIEibQbvm9TibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：UnityVideo★UnityVideo是一个统一的多模态多任务视频理解框架，旨在增强对世界的感知能力。该项目支持从文本生成高质量视频，并提供对视频生成的细粒度控制。它能够从视频中</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500917&amp;idx=1&amp;sn=0c314938a6e5298f7342e90333296bfb&amp;chksm=c09027d9335d91276a380cbeb952d3c7c33d1167e21529063bcb9dbeb046761526a383999ab8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyWQB9icvSqGu9CQibicefOZf0pL8netMibWs6uZXeKeo0vMWdtXH9uIDicVIgbzuq4FEuKJiaH3KibAsw0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LLMc★LLMc 是一个基于语言模型的自然语言文本压缩器，它通过对令牌的排名进行编码，而不是存储原始令牌 ID，从而实现更紧凑的存储格式。在推理过程中，LLM 提供了可能的下一个令</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499710&amp;idx=1&amp;sn=b9b3633ae67cdf57295e9e426d696a27&amp;chksm=c0ffbe4ee7f7f336d97101c7eae60b65ced6f8a0597117c7ca080024004cf7100e48750dd332&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Oct 2025 18:14:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-10-10）：微软开源UserLM，专攻对话中用户角色模拟，推动真实交互技术落地]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyhlf39gyrG58gYy4Yu2MhIRazE21uYHsIicTYpFxrKVbb46BvQo6uqicdCxeibyicut1JQcInLSBzlEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：UserLM★UserLM-8b 是一个由微软开发的语言模型，旨在模拟对话中的“用户”角色。与典型的助手型大模型不同，UserLM-8b 通过预测用户在对话中的发言来实现更真实的对话</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499700&amp;idx=1&amp;sn=1c4da48dc190682c72d338b15c3d10bd&amp;chksm=c0e2821ed54efd68e78e7e78d7623478623e2059cd7ee2cc671f45a9ec9f6357080577ba7988&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 18:15:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
