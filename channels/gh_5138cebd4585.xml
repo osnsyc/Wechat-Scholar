@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[RK-∞降维打击Mamba？线性注意力真的有“免费午餐”！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmeQ1n1sSTDx250BohhOxiauKAychVnYb8QibicWibLlrHVKyCKpRqZIibib9lCDZEhaHgj0Rk6bFZzadlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这顿“免费午餐”，或许正是通向长文本高保真建模的下一块基石。在大模型迈向超长上下文的当下，混合注意力（Hybrid Attention）已成为 MiniMax、Qwen、Kimi 及 NVIDIA 等</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714906&amp;idx=1&amp;sn=88f461e412fee53526da9f10e611d8ba&amp;chksm=9722cada117cc18f1478c0e395296286c0033c638be1d31b250967b4b63339758d5c2ee0dc59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Dec 2025 17:37:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为什么你的多任务模型总在“打架”？解决融合冲突的终极方案来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmeQ1n1sSTDx250BohhOxiauQBoWWNkicvEAr6Y4VY6sVmYSUFr3l8ibMBPQas6fn7xvjeYztKNHAicCg/300?wxtype=jpeg&amp;wxfrom=0"/><p>“预训练-微调”已经成为 AI 应用标配。然而这却带来一个难题：为不同任务微调的模型数量激增，维护成本与日俱增。我们如何将这些“专才”模型，高效地整合成一个强大的“多面手”？模型融合为此提供了一条路径</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714906&amp;idx=2&amp;sn=72f71ef785d78805e744038be0cbcbe8&amp;chksm=974b3e8b69ded1c8ad5cff567f6452027b4c8e8d43351f21f9e2fcf87a927a0864398531b7f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Dec 2025 17:37:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[空间智能领域的ImageNet来了？如视开源全球最大室内3D数据集]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglWaXAZMy8fPZHW7u8HOPgfl5ev9ia2KQZKlHdebVum2P8t4y2KoRaeWH5OhZgTQKSqqiaMARDyegcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果说 ImageNet 的出现开启了计算机视觉的黄金时代，那么在空间智能领域，我们也终于等来了一个填补空白的里程碑式开源项目。如视宣布，面向学术研究及非商业用途正式开放 10000 套室内三维数据集</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714831&amp;idx=1&amp;sn=0ba523ad7359bcc625f8f77c12a14efc&amp;chksm=97b0549ed0522a71dcf92d3bc48e9ddf24a83495f17943af3b33a30ffcb277427bed64b15046&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnpeUPk8yvSib8rUiaGibIjlBNEHcIo23ic0DapMD7OSa8F4oRqKsX26xlE53UT1Cibnw8gMac3hJL0bJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>它是最近 AI 圈的顶流，但我发现，它被严重低估了。当所有人都在用 Nano Banana Pro 生成网红图时，我用它干了件正经事：搞科研。结果？它画的方法图，直接把我过去三年的手搓水平按在地上摩擦</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247712888&amp;idx=1&amp;sn=7e64d5ee9fdfe0e59961932ab09755ab&amp;chksm=9764e7cbdf762a74ddb2f4fc6f9f8ecf126b0d4a2c24d5b3ba51d1e7f0d1f1f073d6689d3681&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 23:52:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[快手 × 南大发布代码智能「指南针」：重新定义AI编程能力评估体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnpeUPk8yvSib8rUiaGibIjlBNVnaiaHsMEOLgicFiblhvAHQJyMdO965hUKGz30cyk0Z9GuJcPsZoZ46Kw/300?wxtype=jpeg&amp;wxfrom=0"/><p>“这款模型在 Python 错误修复上表现惊艳，但在 Java 功能实现上却惨不忍睹”，“同一个模型在 Web 开发场景游刃有余，面对基础设施代码却束手无策”——这些开发者社区的常见吐槽，折射出现有代</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247712888&amp;idx=2&amp;sn=8310c06075a1c62a8088b979814d6f04&amp;chksm=97a4ef6ccb0daf39cc7c062e6ee0543d3da31120886941233da5c917127b26cdcf453adb79e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 23:52:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI联手菲尔兹奖得主与多位顶尖学者，首次公开GPT-5的科研真实战力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkG0zBw6mibGbr0ibNvZLlBlVnsKzmibLuyR7g5icZquovJJF0aq2z3ZjK04CM5AO82CLJ0ztPt39LCyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPT-5 第一次被推入真正的科研现场，不再是辅助工具，而是正式参与者。跨数学、物理、生物的顶尖学者与 OpenAI 在联合评估中发现：它的推理能力，已经开始逼近人类研究者。这篇论文不是一般的模型测试</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247712832&amp;idx=1&amp;sn=d9d15a98bde2e61ecf81bab032463598&amp;chksm=97e042a1ee22ccd3f0c0b6d48166a83ab157ce558f6f974908bcde36aa97a2459923afe54eeb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 22 Nov 2025 09:11:40 +0800</pubDate>
     </item>
   </channel>
 </rss>

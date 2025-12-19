@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-12-18）：小米开源MiMo-V2-Flash，以多令牌预测技术降低推理成本，实现大模型性能与效率双赢]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwF5s30VicOLwAZ6kpDo51FudglNL4YmiaQCooWsGEDrOPjk51DxibhUAVchibIqMD1zxMKxS3fmjf54w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MiMo-V2-Flash★MiMo-V2-Flash是一个拥有 3090 亿总参数和 150 亿活跃参数的多专家（MoE）语言模型。该模型专为高速推理和智能工作流设计，采用新颖的混</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500957&amp;idx=1&amp;sn=83f23b567c15fafc94b6e76be2a0bbc0&amp;chksm=c0ade365f12ef219e1c093ca118990f19a68f33c29822789dec7bc9827fa8c709073412944aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-12-17）：微软开源3D生成模型TRELLIS.2， 凭40亿参数基座实现高保真PBR材质3D资产生成]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxLIhvCaooXnfXvWwpbDuYRTUV7eAax4icCywGiaq94zBkkhjIXG4nVtP8TUB38oLwAXZSwH4zIuIyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：TRELLIS.2★TRELLIS.2 是一个先进的3D生成模型，专为高保真图像到3D生成而设计。它采用了一种新颖的“无场”稀疏体素结构，称为O-Voxel，以及一个大规模的流匹配T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500937&amp;idx=1&amp;sn=5dee235ba08c513927d59fc0604cf298&amp;chksm=c047236923e510046246a88df525f30363d29dd5b556d4ad0ee95cf42d5f4ab4adf3062458ad&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxZjxfNS8qI91sgY4pwexRjYEOtWHsscicTenlc7rh1yKNfzUWhe8r3gtnmchtEOXOR5Y1cF9Qe4dw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LLaVA-OneVision-1.5★LLaVA-OneVision-1.5 是一个全开源的大型多模态模型框架，旨在通过在原生分辨率图像上的训练，以显著降低成本实现最先进的性能。该</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499729&amp;idx=1&amp;sn=5424ae30b1c911687cb0dccd4da3e7d0&amp;chksm=c0648a2a86c78bbc407aa8a0ed3145cecbdc714098b0f119a2a9a4130edd607a4ce66fa22ee9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 18:22:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-10-11）：华盛顿大学开源LLMc，令牌排名编码技术，实现自然语言文本紧凑存储与高效推理新突破]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyWQB9icvSqGu9CQibicefOZf0pL8netMibWs6uZXeKeo0vMWdtXH9uIDicVIgbzuq4FEuKJiaH3KibAsw0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LLMc★LLMc 是一个基于语言模型的自然语言文本压缩器，它通过对令牌的排名进行编码，而不是存储原始令牌 ID，从而实现更紧凑的存储格式。在推理过程中，LLM 提供了可能的下一个令</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499710&amp;idx=1&amp;sn=b9b3633ae67cdf57295e9e426d696a27&amp;chksm=c0ffbe4ee7f7f336d97101c7eae60b65ced6f8a0597117c7ca080024004cf7100e48750dd332&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 18:14:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
