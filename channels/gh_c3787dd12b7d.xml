@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[RT-Thread互斥量与事件组详解：原理、用法与实现全解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztv7jU8mib2u4eXSs2obREA23cRX2g3MQTUhl2KUJIGYJU9iaq9gzC2VB6wnE1lGzd7AhPJ1eXpOEPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、互斥量1、原理1.1 互斥量跟信号量差异互斥量（Mutex）可以认为是特殊的信号量（semaphore），有这几个特殊的地方：计数值要么为0要么为1，不会大于1释放互斥量的线程，必须是获得互斥量的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614846&amp;idx=1&amp;sn=9354bdd57cfbd5cf9199ec72e1e99145&amp;chksm=fa98e0416a12f305fb12951370d37f7b04099b5d1531ccbec894eee46b077369433854539407&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Dec 2025 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【RC】重复控制原理与应用：基于内模原理的高精度周期跟踪]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztv7jU8mib2u4eXSs2obREA2vIMViahIuTCykeXBHDA1cvQPIG0QjYNibia4ra9xyWjglpYLbOtCk1AOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>重复控制是一种基于内模原理的先进控制策略，专门针对周期性参考信号跟踪和周期性扰动抑制问题。本文从内模原理的数学基础出发，详细推导了重复控制的理论框架，分析了其稳定性条件，并通过仿真对比了传统PID控制</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614890&amp;idx=1&amp;sn=c57a7d78aea07371943191b39157bd6b&amp;chksm=fa8bdd39da24f8a0154f71b3090d18c7e1d447e7828f2f978cbb6421949bac0b447bfe71abc3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztibYbbtEHXoyicuh7dFYrDt2iciaGxonRuvkcHSNGibrWMtkxAjXVYNbsiaBX54UlRqVgko7wLVbibNUrGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程介绍欢迎各位加入《ROS自主无人机入门实战》课程！本课程总时长2.5小时左右，依托国家低空经济政策大背景，旨在通过手把手保姆级教学，讲解如何编写ROS节点，对PX4自主无人机进行二次开发应用。教学</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614049&amp;idx=1&amp;sn=a54e65bc62e1c894c109ce7820376419&amp;chksm=fad39a1b56d001421c0c3417a06fd3bee1c84c1b938c1cc74018bbf148402b81afd4aa91b588&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Nov 2025 17:21:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROSCon China 2025 | 两日活动完美收官]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuQUywNZGiaFRNRXCKibj45CviayGnG5PK9iaBqzeIvsoKsl2aDsH5pQVM7Dibqddh0XRhdM0ukQQXeILw/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月1日，为期两天的ROSCon China 2025大会完美收官。作为国内唯一专注于机器人开发者生态的全球性技术大会，ROSCon China 汇聚了全球机器人技术专家、开发者与研究人员，构建起“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614042&amp;idx=1&amp;sn=1263bc04a438e91a4e76e49b63a4739d&amp;chksm=fae9d68e9afb54bfe297b7fe7685af7e0efa81f3772c7e5f494284c61b6838083d4b524b78d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Nov 2025 20:15:21 +0800</pubDate>
     </item>
   </channel>
 </rss>

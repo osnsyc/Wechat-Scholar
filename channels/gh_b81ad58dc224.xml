@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2025-12-19）：谷歌开源双模型，基于Gemma 3架构优化，覆盖多模态处理与函数调用核心能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzQ4Kn3JjytVz56B2rJYNRRavJvRNRIFkZ7JcHsx40kmfibMKbfHRzaOQtZyuiajzLjTqMYm0xSyJbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：T5Gemma 2★T5Gemma 2是Google开发的一系列轻量级但功能强大的编码器-解码器研究模型。该模型通过将预训练的仅解码器Gemma模型改编为编码器-解码器模型而构建。T</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500977&amp;idx=1&amp;sn=f089371e042edd5fa0e8745a6cd635d6&amp;chksm=c099b07355db73b5c2b8baadccbe03f990ebcf90335c98fcfe754a5908c787c90f6bdc1a3a9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2025-12-18）：小米开源MiMo-V2-Flash，以多令牌预测技术降低推理成本，实现大模型性能与效率双赢]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwF5s30VicOLwAZ6kpDo51FudglNL4YmiaQCooWsGEDrOPjk51DxibhUAVchibIqMD1zxMKxS3fmjf54w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MiMo-V2-Flash★MiMo-V2-Flash是一个拥有 3090 亿总参数和 150 亿活跃参数的多专家（MoE）语言模型。该模型专为高速推理和智能工作流设计，采用新颖的混</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500957&amp;idx=1&amp;sn=83f23b567c15fafc94b6e76be2a0bbc0&amp;chksm=c0ade365f12ef219e1c093ca118990f19a68f33c29822789dec7bc9827fa8c709073412944aa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzCFLeQBcwMiaZHWO8bAV4tBGBnu5njvz4lVmF7ORjmBqr2cibZewexoVV4Pia8kGAI3iaH9kTu6fYfYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：RAE★Representation Autoencoders (RAE) 是一类自编码器，利用预训练的冻结表示编码器（如 DINOv2 和 SigLIP2）作为编码器，并使用训练过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499748&amp;idx=1&amp;sn=a584253f8224ff3fc58ea7b9b8f28261&amp;chksm=c03842e29d892d73e9ac75e745b22677bcdb330f57157aeba472ddf24056d7cca5f7f8831bae&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Oct 2025 18:08:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-10-13）：LLaVA-OneVision开源，图像训练降本提效，多模态基准性能超 Qwen2.5-VL]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxZjxfNS8qI91sgY4pwexRjYEOtWHsscicTenlc7rh1yKNfzUWhe8r3gtnmchtEOXOR5Y1cF9Qe4dw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LLaVA-OneVision-1.5★LLaVA-OneVision-1.5 是一个全开源的大型多模态模型框架，旨在通过在原生分辨率图像上的训练，以显著降低成本实现最先进的性能。该</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247499729&amp;idx=1&amp;sn=5424ae30b1c911687cb0dccd4da3e7d0&amp;chksm=c0648a2a86c78bbc407aa8a0ed3145cecbdc714098b0f119a2a9a4130edd607a4ce66fa22ee9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 18:22:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
