@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[深度剖析高维空间索引：KD-Tree 的数学原理与构建策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzs331E1iaBe1dUhwDhpqru4zicHCc6y0DbhVEB4KjrdCLyLgPzV3ZT0NrBENs4sh2FOoRM29HKbcP6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 引言：最近邻搜索与空间划分问题2. KD-Tree 的几何定义与数学构造KD-Tree 本质上是一种将 k 维空间进行正交划分的二叉树结构。树中的每一个非叶子节点都代表了一个分割超平面（Hype</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614914&amp;idx=1&amp;sn=29c8bcedfa7d85b4abdddf696a869f7d&amp;chksm=faf19de82fa41df17170b85df215f1ce96d079898ac9778b1d7ee58ce81366d13bb8ce2e6d66&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 21 Dec 2025 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Diffusion Policy实战（3）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztv7jU8mib2u4eXSs2obREA2YkFrmRLrvUreORMYiayMApmzqtXyGSKFdpI30yItUUuJfWBEib0SjT7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文将以real_data_conversion.py文件为核心，深入解析该代码仓库中真实世界数据的转换流程，揭示从原始传感器数据到训练可用的重放缓冲区（Replay Buffer）的完整链路。代码链</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614879&amp;idx=1&amp;sn=c556f8cf84ea154dfbc0f0972b0e9da2&amp;chksm=fa96a1f4a8c09e9f27466ead9bdc991b838d1e4228999ceba0673bfab860bbbd4e2750951479&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvyJozjorlNvSQ6ZicyEcuQoekCIvYuexg2icO3HRO96g7jbBiafcFSu7fp0FKrHjw1kd4P0m7sibU8JA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言直流电机因其优异的调速性能、宽广的调速范围和良好的启动转矩特性，在工业自动化、电动汽车、机器人、精密仪器等领域占据重要地位。速度控制作为直流电机应用的核心技术，其实现方式直接决定了系统性能。探讨直</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614061&amp;idx=1&amp;sn=0d66c4cefe1cd381e979a51ea662a0ad&amp;chksm=fa239aadc3e700986b171e5641a2421c26166a371e8400ab7d4b9ea787360a43841e7b6052ad&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Nov 2025 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[UnifoLM-WMA-0：机器人学习领域的世界模型-行动架构技术深度解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztCaFu4GYAFm2D8VKoc3gFB1vy7Taz4VH5rtaezyfeLMUuAibz7r0YFL9GsPFMdpiapniakncPI5icyHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 引言在机器人学习领域，如何让机器人具备类似人类的"预测未来"能力一直是一个核心挑战。人类在执行任务时，大脑会不断预测下一步的行动结果，这种"世界模型"帮助我们做出更好的决策。2025年9月15日</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614050&amp;idx=1&amp;sn=a729688974d7994d0656226d136ab032&amp;chksm=faa3f7ff9760ae76dcaef75070e36250b50da4c4c93e57f25bfeb897522c0db514c2071c891d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Nov 2025 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

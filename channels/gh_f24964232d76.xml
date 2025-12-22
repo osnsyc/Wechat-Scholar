@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[通过零开销逐层权重卸载技术将SGLang Diffusion wan2.2的推理速度加速60%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tCX9B6qCZCT1UV21Ib6ra3oPlGc43Vz48HhGTxibibM4VCxRKWuVELGg3hibvvjuGxd8LRR5QiaXmFqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近在优化SGLang对Wan2.2视频生成模型的支持时,发现了一个性能问题: 在使用双Transformer架构时,第1步和第19步的推理速度比正常步骤慢了约7倍。经过深入分析,通过实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530377&amp;idx=1&amp;sn=02c7a87694b040c4c1207aa4eb5a7d98&amp;chksm=9e68b36e4c6694918e2d2d3ed876a6c89c4486bd97a32ad4fc9dcd0b9f3992ea972b2310d530&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 21 Dec 2025 19:33:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[在SM8x GEMM类算子中巧用Occupancy优化性能]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u2H17miaP2FChpXDzphKu7GIq3UibFutHjEWVEJegPPHzgPM13oEgheE6icysuqp4T2tTnMLz60icdkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/1931831506147468464编辑丨GiantPandaLLM背景在之前的文章中：关于CUTLASS G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530346&amp;idx=1&amp;sn=d7b5b7f773ba52ea404d3d6d3cd0fc86&amp;chksm=9e70725381b75826419e5c846a99f7337a7aa8725b284f1e662f093e7c7e5d91f70db21c08bb&amp;scene=0&amp;xtrack=1#rd</link>
