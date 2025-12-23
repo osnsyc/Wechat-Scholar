@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[谈一谈TP推理场景下MoE Group GEMM的优化思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sWibfxRz6FArnsFjXiaiaLA3MMMic9Wce3Z6CbPtq8SoWGsy1LwXbVsSribtSv1icNGSaEEDsmUmzV9oLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/1985487895319052795编辑丨GiantPandaLLM背景在一两个月前，笔者使用H20测试SGL</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530407&amp;idx=1&amp;sn=2d891aeb0d0a467bb78588dce052b883&amp;chksm=9ecba38982e2275c4f043c192089a410f3afdc184c3d6701753ad6dd275931e67be07790a931&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Dec 2025 21:30:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[通过零开销逐层权重卸载技术将SGLang Diffusion wan2.2的推理速度加速60%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tCX9B6qCZCT1UV21Ib6ra3oPlGc43Vz48HhGTxibibM4VCxRKWuVELGg3hibvvjuGxd8LRR5QiaXmFqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近在优化SGLang对Wan2.2视频生成模型的支持时,发现了一个性能问题: 在使用双Transformer架构时,第1步和第19步的推理速度比正常步骤慢了约7倍。经过深入分析,通过实</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530377&amp;idx=1&amp;sn=02c7a87694b040c4c1207aa4eb5a7d98&amp;chksm=9e68b36e4c6694918e2d2d3ed876a6c89c4486bd97a32ad4fc9dcd0b9f3992ea972b2310d530&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tzQ8LJcgQOT9ehpiarm3texfXjsSUqia3CDPDMeptdmuRaDmyY50VZRfsicvAoJNSzCSfQH0XJib3U4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/1899404237374494486编辑丨GiantPandaLLM背景近期，我们需要在业务场景中适配CUTL</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528645&amp;idx=1&amp;sn=001ff93e36238af043bfe7c4b1bd6a65&amp;chksm=9e6bbdeef2f23cac9e72024048960ec840cd397758879243ce7bd6d4398b0a7833163bf5e608&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 06 Aug 2025 15:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于CUTLASS CuTe分析cp.async的Prefetch行为]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tzQ8LJcgQOT9ehpiarm3texWmupfM9ia5c9o8ATfZckII2QYwLOflnVbLv0sEpwVfHt49fOxic1I4sg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/32486160866编辑丨GiantPandaLLM前言在之前的文章(https://zhuanlan.zhi</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528644&amp;idx=1&amp;sn=d214d6f0b1c5e79078f0cee7b79a8635&amp;chksm=9ec2c7007bf299f3c8117bea3667a734e7be8d1322965357479178dffac7bfd2bce618be2626&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 Aug 2025 15:31:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
