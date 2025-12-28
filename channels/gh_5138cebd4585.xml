@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[RoPE真的完美吗？LSTM之父团队新作：极坐标解耦，零样本无限外推]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnFysJ4ibeUcDBgRDWqjaM7GZtDS7ZneLXuywvLmWnZFqQ9bdvLrEOib2RzANp1g8tdxvoibBCQ5QLLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>告别长文微调！Schmidhuber 团队新作修正 RoPE 理论缺陷，原生支持零样本无限外推 。在当前的大模型架构中，Rotary Position Embedding (RoPE) 是处理序列位置</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247715528&amp;idx=1&amp;sn=adba52c259398a566cb7a1ede6374049&amp;chksm=978e5e0e4753e6ea1f046f86687662fc0b9b2a95f7e7750d472e968d3065568d247f41d5b040&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Dec 2025 18:07:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[加速流式视频理解！上交团队实现ViT编码与LLM预填充双重加速]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnFysJ4ibeUcDBgRDWqjaM7GHFoNnvMcSDUyHB3MFf1ibIicY1GYGHvibIhtnfvKe9jzZMqJb1fxzs9zQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着多模态大模型的爆发，视频理解（Video Understanding）正从离线走向实时流式。然而，高昂的视觉编码成本和不断膨胀的 Token 序列成为了实时部署的拦路虎。近日，上海交通大学 EPI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247715528&amp;idx=2&amp;sn=4b69f1d61fbe920abbdde6abc147427e&amp;chksm=97fadbcfca495f2434dd81953d20ccd6164398e60e08c5737fe8b1f620db513daef419cdcd65&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Dec 2025 18:07:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[别再怪SFT了！清华揪出0.1%幻觉神经元：大模型胡编的尽头，其实是过度顺从]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgll3fZ1kiaS8RicbY3GW3zAzKkicKPccsEjoxUQE1IPtAJsRqcgTWocHI9kVKYP7b4b2ftf8tTiaIiaB5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>无需重新训练，只要抑制 0.1% 的特定神经元，就能让模型“闭嘴”？近年来，大语言模型（LLMs）在问答、推理与生成任务中展现出卓越能力，但其幻觉（Hallucination）问题仍然是制约实际应用的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247715466&amp;idx=1&amp;sn=2d0356ae27872941516dcd58eb48c943&amp;chksm=97931cf262c99970a5ea52ef7e1801f7424f44b78109ecdda64aaf6c3c29ca8d3d622c9b319c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgltj8Cia85EXPicgbVhezKfOial2TFStxRHKZcTTYgOxibqL9iceOia5OAj5cVPdNtia1G7uZoJGnDyeoKsg/300?wxtype=jpeg&amp;wxfrom=0"/><p>清华姚班大二本科生搭档何恺明！新作 iMF 彻底抛弃蒸馏，参数锐减 1/3，从零训练刷新 ImageNet 一步生成 SOTA (FID 1.72) 。在生成式 AI 的前沿赛道中，如何让扩散模型实现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713642&amp;idx=2&amp;sn=2396103ce5fa698bf1cb4fc7b8364dec&amp;chksm=97047239f2e12be8b6e112f314319d6ddb7fcc3271a7115195a07439080bc07b23e1a51f4d04&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Dec 2025 12:11:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[悟空杀进NeurIPS！把七十二变写成数学公式，这才是我们想看的“东方魔法”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnZicicSqZM6PaG9ShpaMQlXj2mrN97SsxYHw4j4w9QhLLCxXVPFAguymn0fTJWmJM4vY298SuLcphQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>继《黑神话》之后，悟空再次震惊世界——这次不是在游戏里，而是在 NeurIPS 2025 上。当《黑神话：悟空》还在让全球玩家查阅“Destiny”的含义时，来自香港大学与南洋理工大学的研究团队，已经</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713585&amp;idx=1&amp;sn=071207277cd48cb51a2200c609960a94&amp;chksm=978d47e1cc488b138d5d4eaea4ee5c44543baf1fdec2f958b53e717d39744808b9766b431b3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 13:05:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[差分隐私失效！揭秘GNN拓扑推断攻击：PGR用「零重叠」合成图破解危局]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnZicicSqZM6PaG9ShpaMQlXjtxgN9km7E1Y0Z7HbRYRYhnbH8cIu2zmmYTxbk39rdw1qrjpPFm1hKw/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着图神经网络（GNN）在社交网络、生物信息学和推荐系统等领域的广泛应用，数据隐私问题日益成为关注焦点。近期，Stevens Institute of Technology 等团队发表了题为《Safe</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713585&amp;idx=2&amp;sn=eeda752eec47a51811205153bc567ab5&amp;chksm=974bb1ca8ce23063e15fcdefef9efacdfdae14c96c1415930c249ab207a079f1359698ba007d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 13:05:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
