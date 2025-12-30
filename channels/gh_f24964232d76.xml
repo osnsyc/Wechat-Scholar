@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[基于一个MXFP8量化Kernel谈一谈如何在B200上实现高性能的Memory Bound Kernel]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u2H17miaP2FChpXDzphKu7GR1LXia68GQsW8TWFZpK1WiatkO7DOl299LZWUbQUZWjYqRFicd8pkpibmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/1975964435991527542编辑丨GiantPandaLLM背景近期，笔者向SGLang社区提交了基于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530482&amp;idx=1&amp;sn=d68da98ae0e035405453c6b7c0597c6d&amp;chksm=9edc818f511c0b4f40c8325e7d729582f425e15a5ecd10f1ad118d1d3805edfc94ef81609ec6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 21:56:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何系统性定位并分析 PyTorch 模型推理中的性能瓶颈]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uYyTUib6BSoibOxa0uibjPicakiaWQOswdJzYaSstCZSsibutibpYpxQVjY8nSbkxPCWnNKRuNweMAhibYnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言博客标题实际上是一个知乎上的问题，这篇博客就以这两天定位SGLang Diffusion在推理Qwen-Image-Edit-2511时比LightX2V慢的问题为真实例子来演示一下如何</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530450&amp;idx=1&amp;sn=d80697e1f9b0e12b092903d44cae888f&amp;chksm=9eb1efd70d78d037d113d56fba10a038ea1a63f73d01981a89b8a2ab487d1cb18b27e22d67c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/HrMQ8SF1ApfT9qYpAswEdSpUTMte2efaymUumclT4LIUXqAiblVMXXMm3mjoxhkzIXhL3jc3FNfz9mwX8ian0iabQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：wxzhou(准备秋招中)，欢迎联系～～【已授权】https://zhuanlan.zhihu.com/p/1938017616435320355 主页：http://qingkeai.onl</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528682&amp;idx=1&amp;sn=ee952d3fab31a5904c4769fb715ee78d&amp;chksm=9eeab2da605d8c5781bedfc1fe9f7edd85a3caa80b6c690143c47ae2d83813c2f75c06cc596b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 Aug 2025 09:23:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客翻译】Presenting Flux Fast: 让 Flux 在 H100 上疾速飞驰]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uVibeeIJGW2RKIzeqticMLyeLwAgOECFrW9m6K42d8GXZ3ibz6p97szhu98Xia9MvZK37tR0GBbM4QNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://pytorch.org/blog/presenting-flux-fast-making-flux-go-brrr-on-h100s/ By Joel Schlosser (</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528680&amp;idx=1&amp;sn=b333fcfd9081f424a5401257c3efc200&amp;chksm=9e180730a28792eff6ca34af71e5b57436c31aa264706fe94f973c020feff6ea4838725f43aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 Aug 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
