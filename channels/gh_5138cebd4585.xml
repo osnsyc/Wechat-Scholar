@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[Mamba还是Transformer？Bengio给出第三选择：Phalanx完美替代局部注意力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglViaIjmdmDviccYyX1F6m7lQgY32wp0yJaCbQQDIFnSHyMKBUFxrbKiaBqibxDCcWUNsXoQ2XU51BEEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>比 Transformer 快 24%，无损 SOTA。在长序列建模领域，Transformer 架构凭借其捕捉全局依赖的能力占据主导地位，但其 的计算复杂度始终是扩展上下文长度的主要瓶颈。为了突破</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247715917&amp;idx=1&amp;sn=9a2ec7bcfe522080a81d34d4d890705a&amp;chksm=973585d4789229cdea27400885d1c8b6ae947a6d18c375127bcbb8a80ea343e040613307c573&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 14:08:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[华为重构Transformer FFN：首创宽深自适应复用，零增参超越MoE]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglViaIjmdmDviccYyX1F6m7lQxLbheOZurdZYxo7Fexq2X4qibyHTpIAKlFibicLHUiaJictllj4PrjHwJlw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型 Scaling Law 依然奏效的今天，为了追求高性能，模型参数量动辄千亿甚至万亿。然而，随之而来的显存墙成为了阻碍模型落地的最大拦路虎。现有的剪枝、量化技术虽然能压缩模型，但往往以牺牲模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247715917&amp;idx=2&amp;sn=dacadccd1c8fb9be569a32448128a615&amp;chksm=97591b92499cd6f86381b9226187e01aa9531a21ce397caf63a8cb3c9f053080eb62ca761bf1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 14:08:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[比Mathpix更强大的公式识别神器，全免费！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgl22pvdXucYpYeanHhfgbXicHlPnyF0YzDlRYQKCqhaiaicItVo5h1bakpc80eZYt2gAop7TIDTUINibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天这篇文章大家一定要仔细看看，说不定不仅能帮你省下不少钱，还能让科研论文写作事半功倍！本周末，在忙于项目的间隙，朋友突然给我分享了一个新发现。他说，PaddleOCR 最近推出了一个新模型——Pad</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247715848&amp;idx=1&amp;sn=3308225390d93222a80f7cafdb9f0145&amp;chksm=97ba909549dfb1ffe3f97f35b4d659afb65b5475eacad9f03dd90fecdf2dfe76690964827ce5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnpXPmWddkq8y2fsyMjIIe1ApgzPDTTOuOYgm2zJsamRMIFWJUU4vtEYTelpHXT0mq5YHX5K3Yq8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着全球多国政府纷纷设定净零排放目标，能源密集型的信息与通信技术（ICT）行业转型已成为关键议题之一。在此背景下，发展高能效计算技术显得尤为重要，具有显著的现实意义与紧迫性。目前，产业界与学术界正携手</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713864&amp;idx=2&amp;sn=79d0b7af85962f2179d5e7fa5c3d3bd6&amp;chksm=975239d146f5d6bc4353b6602dbfe6da76f99dc577e31d2f9b92f604c2fd88cd0e07307ba035&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 13:06:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无惧遮挡！无限时长！快手可灵提出无Mask唇形同步新范式OmniSync]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgltj8Cia85EXPicgbVhezKfOiaEyjDru3CzxkibtEU1GJ8s6PujpwkyibEqQ2n4vFxs4RwLyibhs9rxx3icQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>快手可灵团队再出杀手锏！抛弃传统「抠图修补」的老路，OmniSync 用 DiT 重构口型生成：无惧遮挡、支持无限时长，彻底终结 AI 视频的“面瘫”时代。在视频生成模型快速迭代的当下，从 Sora</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713713&amp;idx=1&amp;sn=b5f44ec86410efc96830ae54df370d9c&amp;chksm=97c4023a7a56402e78a010e8f2bdd150859c60ceaa2c0e30959e629d0273e441d5b12d36e3ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 13:05:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AAAI 2026 | 教大模型玩「谁是卧底」，竟然治好了它"睁眼说瞎话"的毛病？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnpXPmWddkq8y2fsyMjIIe1d8WSiay6ChjHiaq7zsUlfH4ibowoor0RrZhorarTMDpHrtfyXgpXnFG6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：Multi-agent Undercover Gaming: Hallucination Removal through Counterfactual Test for Multimodal</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713713&amp;idx=2&amp;sn=0b0a86655e1fe3f38590d56007f45bf9&amp;chksm=97aa867bc7d314454be5f75c7d8ebf6f815e36e7cb7d6eec3860f4d81819ec3ee43483a97700&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 13:05:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
