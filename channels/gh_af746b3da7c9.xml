@@ -10,6 +10,12 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[从“文字预测”到“世界模拟”：World Model如何解锁可扩展的Agentic RL]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj8T33qvdmF0qWmk3qkGanD1ORzzOyVX473X4YXGPR0CGjSg4qiaiaPpPAA5iaicdL9u5JNnriavHLWibZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去一年里，智能体强化学习（Agentic RL）进展很快：会浏览网页、会写代码并执行、能调用复杂工具链的系统不断涌现。但随着能力提升，一个更隐蔽、也更致命的限制开始显现——不是算力，也不是数据，而是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546176&amp;idx=1&amp;sn=0842e0d700e35dcc1e3c31a11aba7f51&amp;chksm=ead90798c4b21d7ec36377731a19571b60401b6ebfc4b423857f56f27dca6eb321b45bb4759a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 31 Dec 2025 22:19:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NeurIPS 2025 Best Paper | 扩散模型不为人知的“时间差”：为什么先学会创作，后学会抄袭？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahz2ibsMA07N3XUorBtnK8qgjNHkYzLWlfiassj2I83q8cSY0Tzv1ricFt8TOKYoGQMMd8t6ZbicMCYmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在深度学习领域，我们长期面临一个直觉上的矛盾：现代生成模型（如 Stable Diffusion, DALL-E）通常是极度“过度参数化”（Overparameterized）的。按照传统的统计学习理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546157&amp;idx=1&amp;sn=676135f1884255945e6a6b0db4ccb9c0&amp;chksm=ea87918a82f1fd13e45f98b45fc75a0c55f423ff5ced53f05ed24ba35cbc58a386dc6610cb33&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahpxHQfOeh0NYicxJvYLt06CSM8OT2HeQTt89VXOvYv9pbpTHk5JOE5XCSRib56TAKjicIQYU3XlKEEw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）如GPT、LLaMA等已在自然语言理解、代码生成、工具调用等任务中展现出强大能力，但其训练过程极其耗费算力与时间。为了在不重新训练的情况下提升模型性能，研究者提出了“模型融合”这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545370&amp;idx=2&amp;sn=4e7896373773d7c582c4476a1eba78bc&amp;chksm=eab7b1f69292591fa131ee53389edcb8c85dc554d2c13b3c79e9e7e94f6e2d8b6d5d570cd138&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Nov 2025 11:43:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[英伟达提出“思考用扩散，说话用自回归”：实现语言模型效率与质量的双赢！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajjCiacxeNBuCxmlELyAqAicjLNqmatw7XqY3iaTB4QpicjaLA6K5UVGEh2wQDzNtAh9SjpEAFyL5qDHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大型语言模型（LLMs）在自然语言处理任务中取得了突破性进展，但其生成效率仍面临严峻挑战。主流的自回归（AR）模型在生成文本时只能逐词输出，导致 GPU 计算资源利用率低，生成速度受内存带宽限</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545349&amp;idx=1&amp;sn=4c63a2737c4637a9606e6919085edb61&amp;chksm=ea1798397c149f047a6c8c62235a9fc484f22f39db7a66f21e504301b65ad74e5612652d2cc1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 16:16:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
