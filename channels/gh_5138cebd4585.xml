@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[优化即几何，几何即推理：用数学终结Transformer的黑盒时代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvQDasddbj0Phadjb1JPicOeteibA1RaQoCCVRJrcn8mvHorbibw4ztak5eA6tI3QCeWM4df9xs9Bkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>不是设计，而是进化。当交叉熵遇见 SGD，贝叶斯推理成了唯一的数学必然。长期以来，LLM 的推理能力被视为一种难以解释的“涌现”。我们目睹了 Loss 的下降，却难以透视参数空间内部发生了什么。近日，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716057&amp;idx=1&amp;sn=d2fb93dd5d9e2cc0fcf9cb11e5bc99ec&amp;chksm=97ef625db727998acfcab90e06fb95df18d4fc23d2eea66b5bb1174fc2ddebae48d00485664e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 01 Jan 2026 20:18:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[重构通用异常检测新范式：Dinomaly2实现跨模态、跨任务的无缝统一]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvQDasddbj0Phadjb1JPicOP5VTNoAM9uNqgcsqEUhCSRtE92XNNEbZPcnxlVs1mEYkrzpbKsAjMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>重磅更新还记得在 CVPR 2025 上首次让多类别异常检测（MUAD）达到单类 UAD 模型水平的 Dinomaly 吗？现在，Dinomaly 进一步进化为了 Dinomaly2 —— 一个真正实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716057&amp;idx=2&amp;sn=a742874b44a9e11291067bbc5717d6e3&amp;chksm=974df97ad9df82e2673ddd98849f0efcc4d0f78118685d028fe11c392f186c5cd32de9778b01&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 01 Jan 2026 20:18:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Attention Is Not What You Need? 用格拉斯曼流形重构序列建模的几何美学]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm3dlKEj0qLxOpShm0PWPNcTvUGmNSB35vY3KancjghMVFWX0TyttMc7cx3Oicmej2c0H9vicCA4XXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Attention Is All You Need 喊了这么多年，是不是把我们的思维都禁锢住了？自 2017 年以来，Self-Attention 几乎成为了现代序列建模的绝对基石。我们早已习惯了通过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247715986&amp;idx=1&amp;sn=c904ae63b234e1e3085033f91b94c38e&amp;chksm=9775a951787535153252a38b8a36a9e5aa38ba4dd2803218c1e9a3e96076f31ec2ced4808629&amp;scene=0&amp;xtrack=1#rd</link>
@@ -295,18 +307,6 @@
       <title><![CDATA[建议NeurIPS改名漫展：全员二次元整活，搞科研哪有不疯的？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnxq0l6tDe8frFRLWUVQS3rNmpmkIbYV2H8uSGNOhOTrVricrn6O8SUJ1BkyXaTMY6ice4uDCZTS1aQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Nano Banana 的风，还是吹到了 NeurIPS 现场。经历了全年的 Peer Review 毒打，这届 NeurIPS 终于确诊了。大家不再执着于把 Poster 做成严谨工整的学术汇报，而</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713997&amp;idx=1&amp;sn=e2524a95f0e9b67cf9ce49c84d7ef574&amp;chksm=97023552ff566fb11481ab1c77795cdf2e269eef7d575cc7980026e9ee5bac41be9f68bf3599&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Dec 2025 12:34:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2025 | 为什么神经网络可以被低秩压缩？来自函数逼近论的解释]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnxq0l6tDe8frFRLWUVQS3rUxeic0hFJnPlWKicYEZon2hg9Vc1CFkEpAKnFgh4r3DX1HZov2UpgoKA/300?wxtype=jpeg&amp;wxfrom=0"/><p>“低秩（Low-rank）压缩”已经成为大模型压缩和参数高效微调的主要工具，但一个长期悬而未决的问题是：低秩压缩的普遍有效性是否有坚实的数学理论保障？这项由北京航空航天大学联合清华大学完成的理论研究，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713997&amp;idx=2&amp;sn=936fd3cb8291946a62a4a636761097ad&amp;chksm=979afbfb12c3d6b4f4e47241de69866b8da78e208e744836b3132d639fa1d4a7175f45bc6e47&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Dec 2025 12:34:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Adv. Robot. Res 复旦大学崔继斋课题组：光波导致动器研究综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnxq0l6tDe8frFRLWUVQS3rA73eJwIG4icr6TqTPoeq6zHFhkhFFhvULQGAjLwjh3yQB54C23CItyA/300?wxtype=jpeg&amp;wxfrom=0"/><p>光波导致动器研究综述Waveguide Photoactuators: Materials, Fabrication, and Applications扫描二维码阅读原文https://doi.org</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247713997&amp;idx=3&amp;sn=6546bc99e487606e49bbf7f69bdcc389&amp;chksm=97a38fa74f0e372effedf62d136b2a3a99033b68aeea96391a1476170b157cbc0961512894d4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 06 Dec 2025 12:34:23 +0800</pubDate>
     </item>
   </channel>
