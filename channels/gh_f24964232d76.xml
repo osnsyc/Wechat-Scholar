@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[CUTLASS CuTe GEMM细节分析（四）——谈谈Swizzle模板参数中关于B和S的一些误区]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u2H17miaP2FChpXDzphKu7GSrnGsAIgJKUv24Xx0dicBS4icp4doiaGswmMEpDILPbtsKzODbAx8zJZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/1949609885953139032编辑丨GiantPandaLLM背景笔者曾经写过一篇文章介绍CUTLASS</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530498&amp;idx=1&amp;sn=08f1d8c087f682be13c0b3caf722280c&amp;chksm=9e347d5a82710b606c96bdef9ca4cba8c3aa38c01fc1a25dbcbe8de4a1308e6828905dbf6cae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Jan 2026 21:49:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[第一视角参与开源推理框架开发的一年]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tsxd38OzNHfs56liadMffmycCHnmrAeJhZgqHsdCeQRWjUuqprvhaTOHJWzbib2KefJJrM9q5Ibxgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言转眼2025又快结束了，时间真的太快了，这里先祝读者们新年快乐。去年年终总结我写下了MoE之年的总结和MoE 推理优化的一些认识(https://zhuanlan.zhihu.com/p</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530490&amp;idx=1&amp;sn=f352b46c5c7b16442d4f608094ff1746&amp;chksm=9e71505567cc57f39315e6a6a3d5ca80270d7cd27216be899f6e75b367892e7cc9008cf160bf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tQcvKTGNopJkaLXHHX8HpSMnKWkvwNMibZsdmicg20ic97fr6RcPmO2FbQFGHdRohSt0bDwjyx6weOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/720562971编辑丨GiantPandaLLM背景近期，我们在分析性能问题的过程中发现一个有趣的现象，我们对</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528696&amp;idx=1&amp;sn=dc4dac784c24442f0240fb619b38446e&amp;chksm=9e31612de3f4412e685d58574e4e02a5f9970b91478e24670824b12499f30224cb8994709f86&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 Aug 2025 23:09:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[记录下SGLang 开发，编译和Profile的几个小技巧]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3t8opVvELTVMAwRWbY4SFZTKxMHe0bZQ4n5ckdyKiaiaLDwY7Yg12ZOc0j3HibjDCMh7WHEZkFRmnuMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda 。0x0. 前言在SGLang参与了快要一年开源，学到了一些开发和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528695&amp;idx=1&amp;sn=0118108d7a43091475d52011a200fbcd&amp;chksm=9ef768b034aefa74c8fff8093d4e511b6cbe6eb043a5f13f013a3e138aff656a59b73f4cb9df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
