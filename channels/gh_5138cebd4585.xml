@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[别再把KL散度加进loss了！Bengio团队实证：回归Reward才是无偏正解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglCfnY2AWCQiaSXiabFbfl6bQ3TeNvWuXL3ia5p0npcqDETvLI479phoSHRicvcUlBQh3Pwzcq0cmJaFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>全网都在卷 RLVR，但 Bengio 团队刚泼了盆冷水。DeepSeek-R1 的爆火让 RLVR 成为当下大模型后训练的绝对主流。无论是 PPO 还是近期大热的 GRPO，核心逻辑都是一致的：在最</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716247&amp;idx=1&amp;sn=584edb6041579a68d396bb9a3f0c278f&amp;chksm=97ffa84c96766ed87c4739062912cdbb3f2b1e35fb90d912b2c592dd288e2c8bef1124a23bbb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Jan 2026 14:10:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[爆肝96页！NUS联合哈佛发布医疗智能体重磅综述，28万字+300篇文献梳理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglCfnY2AWCQiaSXiabFbfl6bQ770iaG2iaZZSbxIV7jhIbDmsdjfeuEPKicBCAZHZ7PcjNsib9V8Bk60nWw/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创· 作者 | 钱云航单位 | 新加坡国立大学医学智能体面临着数据隐私和安全、系统的互操作性、临床决策的透明性，准确性和可靠性等关键问题，对患者的健康安全构成严重威胁。针对</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716247&amp;idx=2&amp;sn=401d2a841eb11c34c48fd643eccee479&amp;chksm=9748905958ac7024f1249c8c3640db2362bb9d46d5b9aed70d95a26c850f72e31c9e32f13539&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Jan 2026 14:10:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026年的大模型范式变了：告别KV Cache爆炸，递归语言模型才是未来？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmokAvT7IRlmhoUvdv66Gu2rckQg3V40PRBRU4t5KKkl0AVRHsG3lCWJiamicpOqFqZVAvicp4Ng5Xfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年的 AI 范式，或许已悄然剧变。在过去的一年里，我们目睹了上下文窗口（Context Window）的疯狂内卷，从 128k 到 1M 再到 10M。然而，这种基于 Transformer</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716168&amp;idx=1&amp;sn=71d78876c52422c64f6d5f36bd240090&amp;chksm=971edbd252109deb6a9498d5909f44a202379885cddc0f45e349db2e89320b21b4cd1e3eaaee&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgku2Samh9hxHB8pbXtDICGiaX2GhUPCzKyIhCxjK8kBJJEP9BZFRAz85yANF03ibyUDzr30DeWwlPJw/300?wxtype=jpeg&amp;wxfrom=0"/><p>开篇：多模态大模型的幻觉顽疾要如何缓解？当你让视觉语言大模型（LVLM）描述一张“猫咪与酒瓶”的图片时，它却生成“猫咪旁边放着一杯咖啡”——这种无中生有的幻觉，早已成为 LVLM 落地的最大绊脚石。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714221&amp;idx=2&amp;sn=a7eba9833941c6cfe281d9ad465e668c&amp;chksm=97baea440eecb43489835c9ca1be80e8975993febf0a66caddd99755839a9b6acdd741ac3120&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 09 Dec 2025 19:41:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[统一多模态理解与生成综述：83页长文梳理进展和挑战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgl7LVzsgFnQXO0fnBydjic7vicRttD6qia7CImx340hkic33eSm6WkVNibjiaJBc0qrHgaJ0wXcGVaExTgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>从 GPT-4o 的惊艳亮相到 Gemini 的持续迭代，AI不仅能理解文本，更能看懂图像、听辨声音、创作视频，实现跨模态的联合理解与生成。这一前沿领域的核心，正是统一多模态基础模型（Unified</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714128&amp;idx=1&amp;sn=c1eb028f491b31784e4caf950b212569&amp;chksm=97fa912c6871052b827e720034bf3cac6922050f2903b1a836a3a42e0b7ad6fef35861c6c7d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Dec 2025 13:05:30 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[生成剪辑全都要！UniVA重磅开源：首个全能视频Agent，一站式搞定长视频]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgl7LVzsgFnQXO0fnBydjic7vadI22eiap5m10MUViaicwUibcPa0VzwMhibicAfPUtMg9VA4vQFXfMmtiauYA/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，来自新加坡管理大学（SMU）、罗切斯特大学（UR）、伦敦大学学院（UCL）、新加坡国立大学（NUS）、香港中文大学（CUHK）、斯坦福大学（Stanford）等顶尖科研机构的研究团队联袂发布了最</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714128&amp;idx=2&amp;sn=4c07c5ec73936be5700c4b827fc0ae13&amp;chksm=9715b2e354bc0eb3c217e66af59242c14aaef3ad43eefb0a8fddf33ac2166deff228f5153a3c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Dec 2025 13:05:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
