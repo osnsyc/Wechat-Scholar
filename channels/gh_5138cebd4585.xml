@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[别让 loss.backward() 成为黑盒：手推Transformer全链路梯度（含LoRA）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm77InacOVfoHae9OBNuMTZq7acMLh8pwjtBvzCsgvZwMSJguLD0iaMJoFFcGxs1uMol3v1zmIBq5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>硬核拆解 Transformer 梯度黑盒，从 Softmax 守恒律到 LoRA 微分实战。在深度学习框架高度封装的今天， loss.backward() 是一行魔法代码，它掩盖了计算图中数以亿计参</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716385&amp;idx=1&amp;sn=4889b56153225bed55c20f88595c2be0&amp;chksm=972b078c2ad719b1621167bd5e9ac4fdf212fdf14a008852736735e6886959722fd8cc3a0d36&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Jan 2026 14:01:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[150k数据反超Qwen-2509！支持10图输入，MICo-150k刷新多图融合SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm77InacOVfoHae9OBNuMTZnkquUWaiao07lyLNzjb1lIGq8nqwObUZtR28roLA8nLHY4vpB5C2oBg/300?wxtype=jpeg&amp;wxfrom=0"/><p>项目主页：https://mico-150k.github.io/GitHub：https://github.com/A113N-W3I/MICo-150KOnline Demo：https://hu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716385&amp;idx=2&amp;sn=1e59687f6012c01ce6f3e48621bd5e40&amp;chksm=97845c51f4b0e500145dc6c0a74901984621df660cda69b3fef5eb1d622a7be62232fd031a56&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Jan 2026 14:01:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Vibe Researching来了！斯坦福教授实测：1小时自动复现PNAS论文]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnnMG4SmDAIVibKDWISlt7Edm4d28of5C5nzRRIMoyaubbbhUAprGtQWnXvgv3psqdumXmuS0W5e1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>别只盯着 Vibe Coding 了，Vibe Researching 才是对传统科研的降维打击。当 Vibe Coding 正在改变代码生成的范式时，斯坦福政治经济学教授 Andrew B. Hal</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716309&amp;idx=1&amp;sn=bce0223da5c95147c5c021b7d0120f95&amp;chksm=97f8289f087367d650937a290b442c72fc0d9b8ebfc8bf1f3457a0808a1de41076bf0441b163&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmYFhtLezCicFPIImj06ibh0qBqSUmoXuEK1cj1pvLmWGIFMZH9SOiaxQAaJyGE76CAcwuibgfjV4yTibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大语言模型的浪潮中，视频大语言模型（VideoLLMs）正以惊人的速度进化，生成的响应越来越精细。然而，“慢”与计算量大依然是制约其大规模应用的最大痛点。视频序列中海量视觉 token 导致的二次方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714367&amp;idx=2&amp;sn=b5da828cb2d518bfc1e65facdb601ed2&amp;chksm=974bef0e469297c90df4594b2b9452460309a218d51392ace0717d7eede2a2a9d32d460c647c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Dec 2025 13:35:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[终于把汉字写对了！实测美团LongCat-Image：6B模型挑战开源天花板]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkGuiaRRG1w9zYDg7eZTC9KEQFsxtnWgDY5MgfHibjgIZwcbZwWxmn0v0msqjKUDO9TicXTxP91qZUEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>6B 小模型也能挑战 SOTA？文生图赛道又卷起来了。美团 LongCat 团队刚刚发布并开源了 LongCat-Image 图像生成模型。长期以来，中文生成和精准编辑一直是开源模型的隐痛。现有方案往</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714283&amp;idx=1&amp;sn=c80674c1426a7a6441988ea8ee88c695&amp;chksm=971b44607fb20d78a40ac7ae082c6e503e88fc05f6a2a7206f1aa3990d9af0dc7e20216e8193&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 13:16:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别碎片化！VecCity首次统一地图实体表征学习：一套体系打通POI/道路/地块]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkGuiaRRG1w9zYDg7eZTC9KEEADctHkOJ8h2fpfXHiaIEq8giaDMNLje4UxuoXPxSbVuZq4vOP7ibLLoA/300?wxtype=jpeg&amp;wxfrom=0"/><p>北京航空航天大学联合澳门大学，共同开发了跨 POI、道路、地块的统一地图要素表征学习工具库：VecCity。该工具库通过统一数据、统一流程、统一测评，集成了 9 座城市数据、复现 21 种主流的时空要</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714283&amp;idx=2&amp;sn=36a377f3919b0bee41fbccc6752aa671&amp;chksm=9771c38c99cf6ba208898761b26659abcc5cc52f6f54fc7affe939da6b3f07e5647815eba6cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 13:16:51 +0800</pubDate>
     </item>
   </channel>
 </rss>

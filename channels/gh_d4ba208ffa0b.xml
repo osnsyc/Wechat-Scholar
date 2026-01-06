@@ -10,6 +10,12 @@
       <title>gh_d4ba208ffa0b</title>
     </image>
     <item>
+      <title><![CDATA[看40年经验的CFD大佬，如何处理密度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklgaiaVGFibXVEMLLSX6IMbw9h7Mh2MichLosRQibTdz4boN0pOANPCysQPEErBNMdvP4zMeJIXlWkL3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>不可压缩里面的变量，有两个，一个是压力，一个是速度。可压缩里面的变量，有三个，除了压力速度之外，还有一个密度。问题就是在迭代算法中，这个密度的更新，在压力求解之前更新，还是压力求解之后？类似的，可压缩</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430703&amp;idx=1&amp;sn=05060b2675c4a28fa82d49056a7508e2&amp;chksm=893d4eef2139ecc8299ddcb053dcfc25aec052dd16fc2bee441a64e653f229d361299d996fc5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Jan 2026 13:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[湍流白月光: 完美的LES湍流模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkmXOAaACjraR1ANdfr51lykicHuibh9Tk8KROZo9wVGr02B1iacKwS8anut8pdJInGjncWU1xsMvRPhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>全文手敲非AI生成JCP曾刊发文章（398(2019)108910），作者们的目的是寻找一个完美的LES模型。对 “完美LES模型” 的寻找，最早可以溯源到2007年物理类顶刊PRE上面Nadiga</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430697&amp;idx=1&amp;sn=338eb9332f9f521e200076848411fb7b&amp;chksm=893b07be13535198f755ea13eebe19b2e366e3b68e50cd6c00e94ef625d1300bc99a9600d38f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFkkwP9RJnQc4bw1R4e3zjo4ULVia2iariaTbcvSWY2kibynk3ta621LZxhibBgD5BBWoq9QiblslK6y9l4wQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Davidson是世界领域的LES大佬。目前谷歌引用14000。最近在备课的时候，偶尔关注到Davidson的工作。看起来大佬最近也玩了一下数据驱动CFD。以独立作者的身份发表了几个数据驱动湍流代理模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430216&amp;idx=1&amp;sn=b9ed3e0351d7d48fb512a030c178b698&amp;chksm=898d81b36ea6da862465fee0ca068d001f0f82acfd4b8c5f97bea9354a24f8e68de3682bae10&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 Aug 2025 12:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[做CFD项目，最大的误区]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/AUm7pT3nFklpsUwiazxdicicRhJlJqmT3n030HI2hgTVLtpaDdbdHPwJ5DLSG2wRpsgd5MLEicL1FBBdsAhRX8PyEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>> 请问网格数大概8000万，计划在您这配置一台AMD EPYC 9654单核+512GB内存...有时候我这面会接触到一些跑巨量网格的客户。比如这面这个询价。我觉得做CFD项目最大的误区，就是买一个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&amp;mid=2649430215&amp;idx=1&amp;sn=d76947544f628d26443dd8fc069b8387&amp;chksm=89a3e075a05069518a0b3a64bb5102be9dc40a615b7e1858a2bddb21521a7cf8102ea36c4254&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 Aug 2025 12:47:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
