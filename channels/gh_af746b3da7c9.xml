@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[多模态推理新范式：上海AI Lab新作证明“画”出答案比“说”出答案更靠谱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia2e5BB0WVGHJFkvibKMTWOEsVdX9NCXT1CPiabrBh4YdRicvg1YhKG3tHHeFeeZYFYQkFja2f4DZAsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在通往 AGI 的道路上，大语言模型（LLM）和多模态大模型（MLLM）的自回归架构似乎已经成为了“真理”。然而，这种基于一维序列的线性推理模式，在处理长程、视觉中心任务时，正暴露出明显的短板——它缺</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546224&amp;idx=1&amp;sn=7de4ca2f994e66e85afcdd0980da30e0&amp;chksm=ea9b2731fd4c5c2c079e0879d4c328b4d5bf84cb10b56cde7414bf5bdf1c5648d76bc478fba7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Jan 2026 19:56:57 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[上交大 × 华为小艺推出LoPA：7B扩散语言模型单样例1000+ tokens/s！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baia2e5BB0WVGHJFkvibKMTWOEcUk1TNPtksOKgHGriaRiczDXBoKv7fHcAictnibzQNeouRIHoFjC1bOzmA/300?wxtype=jpeg&amp;wxfrom=0"/><p>单样例推理速度对比：SGLang 部署的 Qwen3-8B (NVIDIA) vs. LoPA-Dist 部署 (NVIDIA &amp; Ascend)（注：NVIDIA平台相同，配置对齐）在大语言模型（L</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546224&amp;idx=2&amp;sn=2dabfd87d738f86130af39f148a296be&amp;chksm=eac919f16e893ae9e0599bea5e794246247d170c8245fcf16569e5dbb8223bdd03aa19758a05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Jan 2026 19:56:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[LLM 推理中的数值非确定性与 RL 训推不一致的系统性解法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baj7MJlwF3QrKqcicbjZapgk1mqOmrkPria4JS3EWp7V6eTK7xJ2NlkNgLPr8fcNpN1ElyoyKeO0OtRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题LLM 推理中的数值非确定性与 RL 训推不一致的系统性解法文末进群~时间2026.1.4 11:00 北京时间2026.1.3 22:00 美东时间直播预约🎙本次分享为全英文讲座！🌍视频号b站Y</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546189&amp;idx=1&amp;sn=7bbd679ae3231f2015349a4c5acd5efc&amp;chksm=eaa90cb41fcffff17f5643adfc5d02ef37576bc2171dbe4c503f9950ebc8137137013e51c796&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bajTm5IN5TtV6ibDO14E6LL47EeicyABR8ltQLHojGE6YiagjJ8ia2vdwl35mtJ5IM3Gib4YxzCTMJSBKPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>继北京和苏州的两场线下活动火爆落幕后，上海场线下活动即将和大家见面！本次分享深度聚焦 Agent，一场内容覆盖科研、应用与创业的深度分享会即将在上海开启，分享 Agent 领域的前沿洞察与实战经验。活</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545425&amp;idx=1&amp;sn=b45898090a802cb064fe645dc32417ba&amp;chksm=ea6b32ca597540cab56b02d8ce7602fbda00479b3b16ef6c65e941c6094b3939254cea5f7268&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 19:39:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“坏”数据让模型更“好”？重新审视数据过滤]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baghBmPueqICibxghF6jquWwfY3gwwGfFkp3AcGwaNQ8YC0NMPl97dVmZib0Kic0I3icQtQMnsN2CGOJOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大型语言模型的预训练中，数据质量一直被视为模型性能的决定性因素。传统做法是尽可能过滤掉“坏数据”（如毒性内容），以避免模型生成有害输出。然而，这篇论文提出了一个反直觉的观点：在预训练中适度加入有毒数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545419&amp;idx=1&amp;sn=2fdae3b3f4c9f323da46981bd5082ae3&amp;chksm=ead9fb0ff149210beb2492e23d777e0a21183f9bbf83c003f888220033585d6f7870c76e261f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 21:52:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“交互式Scaling”：增加Agent与环境交互的深度和频率来提升性能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baghBmPueqICibxghF6jquWwfXavqxsVFOLua3hamJalMnPb3QumECT7rJWYVAuF4CKqh7XX7wbg8UQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能飞速发展的今天，大型语言模型已经从简单的文本生成工具，进化成了能够使用工具、进行复杂推理的智能Agent。特别是在研究领域，像ChatGPT Agent和Claude Research这样的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545419&amp;idx=2&amp;sn=9486bda3468a11c5e5544a80fe0f4c3a&amp;chksm=ea0ceafcadcf9ab3a3b6a863e13eb382ca0b29c9cbae84a49a8204c83decd37a355276aafd05&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 21:52:40 +0800</pubDate>
     </item>
   </channel>
 </rss>
