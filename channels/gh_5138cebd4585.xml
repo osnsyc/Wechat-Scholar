@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[告别Scaling暴力美学：正如Ilya预言，算力不再是唯一的答案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk2JdYDmyicVDrt8xzrlxPNTuD3lhUkmBTyTFCLcgueEl1ITM3YUXwUtZkhzTib90GFt01vKfUOYVWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Scaling 的黄金十年已过，我们正重新踏入一片充满“惊奇与未知”（Wonder and Discovery）的探索之地。这是 OpenAI 前首席科学家 Ilya Sutskever 在 2025</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716450&amp;idx=1&amp;sn=2da55051e0e159009091ee61c2bea01e&amp;chksm=971628a60d143703ff235a21b07505ebc2067768f436f67433648ede8c693013e66b76e4f609&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Jan 2026 14:04:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CVPR 2025 | Mamba与局部注意力首次碰撞，SegMAN刷新语义分割SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk2JdYDmyicVDrt8xzrlxPNTkyfHhJKIIWGgJDuXwhVc66GEibicrjnAaK7H1BL4fyOyWstVAA259GaQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>摘要香港大学计算和数据科学学院俞益洲教授（https://i.cs.hku.hk/~yzyu/index.html）及其研究团队提出新型语义分割框架 SegMAN，包含全球首个融合动态状态空间模型（M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716450&amp;idx=2&amp;sn=82a790e3c81879656749a97b0c3a3fde&amp;chksm=97fb6b77efba4401cc04adfb3a55f5beffc84cabf71382ddbd666ee968fc666e9534f464243a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Jan 2026 14:04:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[别让 loss.backward() 成为黑盒：手推Transformer全链路梯度（含LoRA）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm77InacOVfoHae9OBNuMTZq7acMLh8pwjtBvzCsgvZwMSJguLD0iaMJoFFcGxs1uMol3v1zmIBq5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>硬核拆解 Transformer 梯度黑盒，从 Softmax 守恒律到 LoRA 微分实战。在深度学习框架高度封装的今天， loss.backward() 是一行魔法代码，它掩盖了计算图中数以亿计参</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716385&amp;idx=1&amp;sn=4889b56153225bed55c20f88595c2be0&amp;chksm=972b078c2ad719b1621167bd5e9ac4fdf212fdf14a008852736735e6886959722fd8cc3a0d36&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnr7AW2bicAGSGkG09Gzias1BbOuxKmQqcIVDOicogiaYbXolOGgx62VxoqxLPLG0yXictMBRicN9erVBaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>以 CLIP 为代表的视觉语言模型（VLM）在大规模图文数据上进行了预训练，具备强大的通用视觉识别能力。然而，在细粒度识别任务上，VLM 往往难以区分相近类别之间的细微差异，识别能力显著下降。以 CL</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714451&amp;idx=2&amp;sn=d5b8071be449ca3d942fe0f8c0c36e94&amp;chksm=976b03feb92331c358055fd1936bb01309fef152cd6d02edd809436bae9610f67d971eb76bc7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 12 Dec 2025 13:31:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Google Scholar被玩坏：10篇“水文”刷出600+引用，H-index还能信吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmYFhtLezCicFPIImj06ibh0qicrxSZOwOGJZNFYapb5QQ1z9e5pBzib6SRtQgdQiaDzoNaaq4QxF4hs5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在的 Google Scholar，漏洞大得像个筛子。大家每天都在用 Google Scholar 查文献，但可能没几个人意识到，这个我们用来背书学术影响力的工具，其实非常容易被攻破。这两天有人挖出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714367&amp;idx=1&amp;sn=597e6603a444cdade95cbe5485bb2701&amp;chksm=97d3bcc71437cbb82b27d9def7d2272d92b5e6aa593a737dd78d7650d591f8392cd9f2508faa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 13:35:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2025 | 视频理解Token压缩新范式：VidCom²减少70.8%推理延迟]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmYFhtLezCicFPIImj06ibh0qBqSUmoXuEK1cj1pvLmWGIFMZH9SOiaxQAaJyGE76CAcwuibgfjV4yTibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大语言模型的浪潮中，视频大语言模型（VideoLLMs）正以惊人的速度进化，生成的响应越来越精细。然而，“慢”与计算量大依然是制约其大规模应用的最大痛点。视频序列中海量视觉 token 导致的二次方</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714367&amp;idx=2&amp;sn=b5da828cb2d518bfc1e65facdb601ed2&amp;chksm=974bef0e469297c90df4594b2b9452460309a218d51392ace0717d7eede2a2a9d32d460c647c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 13:35:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
