@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[谁说思维链越长越好？Yuan3.0 Flash开源：砍掉70%无效token，重构推理范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk2JdYDmyicVDrt8xzrlxPNTNbZQ5sEcJm4kzkkP6Opge7FQtnsAzJplxaN3BdNsK5XBicOL9tTgicIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>首创「反思抑制」机制，让大模型学会在答对的那一刻果断停下。过去一年，大模型推理能力的进化几乎沿着一条单向路径前进：更复杂的推理过程、更长的思维链、更“像人类”的自我反思。在数学和科学推理等 bench</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716513&amp;idx=1&amp;sn=d9c9b248da7a28d6ff9399404ea0ab04&amp;chksm=97f632fd1945fda250dab20271d328dc2e45bf93f564762724082ff5b2113169274b8171649b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Jan 2026 13:10:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AAAI 2026 | 别再盲目采样了！OptScale实现概率最优停止，token消耗减半]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkO7yJELJPKBckFu8oMaNgGZgpV75yiah8IXibsejXZlWDn7SeAyAHlnZE6BfSYB8nia1GA1mCjvSaJg/300?wxtype=jpeg&amp;wxfrom=0"/><p>多采样 = 更强推理？ 在 Inference-time Scaling 成为大模型“最后一公里”标配之后，这几乎成了一条默认公理。从 Self-Consistency、Best-of-N，到 De</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716513&amp;idx=2&amp;sn=d21f65deaebc48aa53d1488d15f1bd7c&amp;chksm=970c4db06a2c23aaa2783da4a1fbdc300f76d45ccc033259800a59ed32319440b3c6438156d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Jan 2026 13:10:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[告别Scaling暴力美学：正如Ilya预言，算力不再是唯一的答案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk2JdYDmyicVDrt8xzrlxPNTuD3lhUkmBTyTFCLcgueEl1ITM3YUXwUtZkhzTib90GFt01vKfUOYVWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Scaling 的黄金十年已过，我们正重新踏入一片充满“惊奇与未知”（Wonder and Discovery）的探索之地。这是 OpenAI 前首席科学家 Ilya Sutskever 在 2025</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716450&amp;idx=1&amp;sn=2da55051e0e159009091ee61c2bea01e&amp;chksm=971628a60d143703ff235a21b07505ebc2067768f436f67433648ede8c693013e66b76e4f609&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkiaFkSJteVont2icSmvB56ZnOU5aJBtU06Cd9JdBtzROqSLI2x8h9pFrSrGSDway1ck62IoDxATCDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 简伟健，冷大炜单位 | 360人工智能研究院研究方向 | 多模态理解在大语言模型技术加速渗透各行各业的今天，如何让 AI 在企业级场景中实现精准高效的知识服务，成为行业落地的核心挑战。检索</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714547&amp;idx=2&amp;sn=6510382c4471b3833034ae9b3783c612&amp;chksm=97b91f69e5d3cb9deb8b7f9c4f062ad4627bb0dad7fea1e5903f7bca5c377aec0adade8300ba&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 13 Dec 2025 17:06:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[180万小时数据训练，VoxCPM 1.5开源：支持全量微调，精准复刻真人声]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnr7AW2bicAGSGkG09Gzias1BicLwFcY9LMDohbMHe1Do4EWX8wNaia46ZQdBRib58NMjbQhySrVpbphoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>180 万小时、44k 高保真、支持全量微调——刚刚开源的 VoxCPM 1.5，技术细节全解密。最近，面壁技术团队发布了 VoxCPM 1.5 版本，在持续优化开发者开发体验的同时，也带来了多项核心</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714451&amp;idx=1&amp;sn=14e38735789915bc9400daac00bc622f&amp;chksm=970542b66fee5a533b479034c5d69e2ab33c8b333a9cd21dcf7d15000e579bb3799049f2da51&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 13:31:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AAAI 2026 | System 1 &amp; 2协同！快慢思考赋能VLM，重塑细粒度识别范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnr7AW2bicAGSGkG09Gzias1BbOuxKmQqcIVDOicogiaYbXolOGgx62VxoqxLPLG0yXictMBRicN9erVBaw/300?wxtype=jpeg&amp;wxfrom=0"/><p>以 CLIP 为代表的视觉语言模型（VLM）在大规模图文数据上进行了预训练，具备强大的通用视觉识别能力。然而，在细粒度识别任务上，VLM 往往难以区分相近类别之间的细微差异，识别能力显著下降。以 CL</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714451&amp;idx=2&amp;sn=d5b8071be449ca3d942fe0f8c0c36e94&amp;chksm=976b03feb92331c358055fd1936bb01309fef152cd6d02edd809436bae9610f67d971eb76bc7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 13:31:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
