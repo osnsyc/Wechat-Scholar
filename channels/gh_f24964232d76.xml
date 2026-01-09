@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[LightX2V fp4 quant kernel代码笔记]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3veT2RRMH1eTCoCQ6bI2gc1AqhlBN9ZZZ54nTtjg4vvQQEBYUlhictBZmEsJTtodE4sanshlCQLibOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言这篇笔记是之前为了搞清楚 LightX2V 里 lightx2v_kernel 怎么做 FP4 量化 GEMM 写的读码笔记。主要解释2个问题：接口和约束：哪些 shape / 对齐是强</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530577&amp;idx=1&amp;sn=78bfc60d2979302d96b59dcef182eb4f&amp;chksm=9e4472e4159de5f7b5ac766a94f3121605d4f2dcc5a8b7e1887a0f98de9623878bbc3872e952&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Jan 2026 21:51:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[142 TFLOPS 的差距：为什么在 Blackwell 上 FP4 MoE 算子工程至关重要]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3svG7HFIELHxxMR7yq4hgf6nUYM9SfV5RrVibMj5ZbcyNPlCFKus9VVoY87dFgEfXaFABiamrQ77c2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客转载翻译自：https://substack.com/inbox/post/183346100?triedRedirect=true ，仅做知识学习用处，侵删142 TFLOPS 的差距：为什么在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530528&amp;idx=1&amp;sn=e0d710e294415833d79b83456d02d7e0&amp;chksm=9e5512c2d99f0d31eaf583e01a1cca3004bb52b8a15408bbdb9e29383f3c6bc4bd4216657a97&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3voOojS6C6zmuMibBVIiaN6UERgVOfgVTCHSD0nTiaIQRibCNJ8eZViaefvGHk8Fv0aic64cVkoQ16PPLGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://pytorch.org/blog/accelerating-generative-ai-4/ By By Yejin Lee, Carole-Jean Wu, Christi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528782&amp;idx=1&amp;sn=ac4be1e6c10cf7cbb2bf757593bb5eaa&amp;chksm=9ed45891e38ab7c1f9a8b8ad75d250480cae38fad822d75bc43b49cd606a220018c92823d1b4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 Aug 2025 17:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[关于现代GPU体系结构内存一致性（Memory Consistency）模型的一些猜想（二）——同步性能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3twPxAjPp2K5ZwX0qgJVG0PWUF0iaEUGIhNaRXjmV9x62o1Izqw1I8kibCHaBzPYZbIicupErvCicrKHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/26116356638编辑丨GiantPandaLLM前言在上一篇文章(https://zhuanlan.zhi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528739&amp;idx=1&amp;sn=c52652c8d4338b480bc511633891e26e&amp;chksm=9e9996928cfdd32202d12ceb87189b53a159781600bb3b44429bbc5435604f9fee4bcac5c762&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 Aug 2025 22:39:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
