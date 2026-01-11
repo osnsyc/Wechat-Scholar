@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[OpenAI理论失效、μP失灵？邱锡鹏团队重新定义预训练两大核心超参]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglN94QowbsdJlgiayHUibbxLQHbursqEqnDxgftTvtwwXb6U6uaa8nhdaF02pwZZU3a4dpsrb8osqoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>WSD 时代旧经验失效？复旦团队重塑 Scaling Law，让超参设置有章可循。在大模型预训练这项高昂的系统工程中，Batch Size (BS) 和 Learning Rate (LR) 是两个至</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716639&amp;idx=1&amp;sn=8f16cb94de76b1d7265674beb7558668&amp;chksm=9713590211aaacf39ecd81f6f9d90bbdf05e932a26e53e05494e0c40236353af7ed7cfbf9f6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 10:02:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[仅需8张4090！影石Insta360开源DA360，低成本刷新全景深度估计SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglN94QowbsdJlgiayHUibbxLQBEFcO6oTVzN9icQQ7FBJjqicCmIVQaNGyTBzH52NsJ5gbRUxo7F13OIQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>Insta360 Research 团队提出 DA360 模型，成功解决了全景深度估计在真实开放世界中的两大核心难题：零样本泛化能力不足与尺度不一致性。该模型通过创新的平移参数学习与环形填充技术，并延</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716639&amp;idx=2&amp;sn=10a5dc6768b0aa3a13e83d3b52ac5228&amp;chksm=97552634c7aec01d023196b6b846419ff3d1ddac22307e09709d084e029303adbdad77f290ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 10:02:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICML 2026投稿开启：先别急着提交，详解史上最严的“连坐拒稿”机制]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgliaRd3B92u4vHT1HnHFKYJH6SJAf3kxuyMehe7X1ekYNDQ6qwEroP2rO5TjVCx85FRjKzKHlEWqHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚肝完 ACL 别急着投 ICML，先读完这份避坑指南。就在昨天，ICML 2026 的投稿系统已正式对外开放。对于刚结束前两天 ACL 投稿的同学来说，现在或许正准备一鼓作气，将手头剩下的工作，或者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716561&amp;idx=1&amp;sn=c8af2bb536d84d4428b985956a5c207e&amp;chksm=97d0c2b0295fac92f23e774db33e6b24499ff69e6ee37c3fe9c888375256f6b0d14f09c743e6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglibhc8KW6AiaqFQQM2RgAOLwO4kVMynRycwcfQIbVjRzlJuhMgUZgVS9eiaUgAI1VoHwpdBaOt8mK9A/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们小时候成绩提升最快的时候，往往不是刷最多题的时候，而是——开始认真整理“错题本”的那一刻。真正厉害的学习者，并不是只把错题记下来，而是会反复追问：我当时是怎么想的？为什么会这样错？这是偶然，还是一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714706&amp;idx=2&amp;sn=cf387419e0a19fb1cca64ba5b0df6e4f&amp;chksm=9738ed6c53a445d41f8f76af1d2ca2a6a3994816c819378df7203090089ccc41f010f587e996&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Dec 2025 18:03:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LLM炼丹师最优配方：手里只有8张4090，该梭哈SFT还是RL？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnH4xqIXkO0FdWwFSUKYgia7NwBxtoM7MFCQ7BlcqHCvrc4dzkpv9u1k6yaRl1X5oaGiatP10vjica1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>手里只有几张消费级显卡时，怎么练模型才最划算？面对手里仅有的 8 张 4090，如果只有两周时间，目标是训练一个数学能力超越基座的垂直模型。你是该把算力全部投入 SFT 题海战术，还是咬牙上 PPO</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714613&amp;idx=1&amp;sn=38c286e44e02b38d1af18b83605ce0de&amp;chksm=97e7864df99e67bda9450de14a0934aeba7bd9f1712d9e6c5e03c76e7a68ed2d98bbfd42c72d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 14 Dec 2025 17:34:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[以小博大！Nanbeige4-3B重磅开源：硬刚Qwen3，挑战小模型能力新高度]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnH4xqIXkO0FdWwFSUKYgia7rxEc3vPXO5wFs1Koz51fPjoj2peVBxMavwGbfzXdVo8kMbO7OKwLIQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（LLM）的发展仿佛陷入了一场“参数军备竞赛”：参数规模从百亿、千亿，一路飙升至万亿级别。模型规模不断膨胀，效果虽有所提升，但推理成本与微调训练成本也水涨船高，让众多企业与开发者望而</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714613&amp;idx=2&amp;sn=6db94c415ba352265627cff61be908fe&amp;chksm=9706fc523ed0e84c2be925ad3f38bc3dbd0468745d1cc069cd6bfb4bd8e9fd180bd2fd3ebf61&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 14 Dec 2025 17:34:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
