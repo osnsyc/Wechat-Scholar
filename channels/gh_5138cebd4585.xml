@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[预训练数据太差怎么办？Bengio团队引入显式贝叶斯，无梯度实现In-Context RL]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQzgIH4GANibQTcfclWXc9UibJjzGCXbicRE1QrgbWsS5eRvSp1jZwAmNZ1znmghq6JXgibyrpyaRnyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>单纯拉长上下文并不能自动涌现强化学习能力，引入显式贝叶斯推断才是破局关键。在 In-Context RL 的研究热潮中，往往存在一种惯性思维，认为只要把 Transformer 做大，把上下文窗口拉长</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716706&amp;idx=1&amp;sn=861ccba253718964b98e2d76503eb879&amp;chksm=97f63bbf2cc1d45cb08147bb38584afec5ecc40c9ec28c5fbfcd0d10138bd8aacebc99b0084d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 20:36:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LLM竟藏多重策略？自动化所 × 腾讯揭示大模型RL多策略博弈新机制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQzgIH4GANibQTcfclWXc9URFSWEEQatOUleMhLqCOEiclJsPviaYE1157AvLQLmxqPsNmhCicdt3p8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前，大模型+强化学习成为 AI 领域极为热门的研究。现有的强化学习（RL）方法通常将大语言模型（LLM）视为一个单一的整体策略进行优化，主要的算法优化集中在表层的奖励设计等方面，却忽略了模型内部复杂</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716706&amp;idx=2&amp;sn=809d1497d21be1545ec346143d05c924&amp;chksm=9735924552c0099536e0e4b2d7d1fdecf7ebf7bc0e0435e2a967bf739055be69a37d19d26a27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 20:36:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI理论失效、μP失灵？邱锡鹏团队重新定义预训练两大核心超参]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglN94QowbsdJlgiayHUibbxLQHbursqEqnDxgftTvtwwXb6U6uaa8nhdaF02pwZZU3a4dpsrb8osqoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>WSD 时代旧经验失效？复旦团队重塑 Scaling Law，让超参设置有章可循。在大模型预训练这项高昂的系统工程中，Batch Size (BS) 和 Learning Rate (LR) 是两个至</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716639&amp;idx=1&amp;sn=8f16cb94de76b1d7265674beb7558668&amp;chksm=9713590211aaacf39ecd81f6f9d90bbdf05e932a26e53e05494e0c40236353af7ed7cfbf9f6b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglWaXAZMy8fPZHW7u8HOPgfbosZtHx9eibcH0ia374rPJzGd4gdoIAXMDciaqBYicRNESPjLDIh6tbHDg/300?wxtype=jpeg&amp;wxfrom=0"/><p>北京航空航天大学计算机学院王静远教授团队创新性地提出了基于异构超图的地图实体表征学习框架 HygMap。该研究突破了以往仅针对单一地图实体进行建模的局限，通过构建包含“地理、功能、移动”多视角的超图结</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714766&amp;idx=2&amp;sn=13ab87c29272f4f28d49c92d662b3bb4&amp;chksm=97a02235c4eb458f5efa6728ddf0235820df8d42aef8f4f01c3237c98d2e86184f457a4b5079&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Dec 2025 14:42:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[0.6B参数逆袭7B基线？OpenTrackVLA重磅开源：重写具身智能的算力法则]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglibhc8KW6AiaqFQQM2RgAOLwLwzXibUKC9eWN5moe31v6tDjXuic43onOaiawja9IkNEDCAY88mxepWaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型还在卷参数量时，具身智能的角斗场已经转移到了端侧落地的实战。0.6B 参数能否承载复杂的视觉-语言-动作联合推理？OpenTrackVLA 给出了一个意想不到的解法。12 月 12 日，GDP</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714706&amp;idx=1&amp;sn=833274d1c7ad20656287477f4222e4ae&amp;chksm=97db694bc62c457b149a18334c6b61cdaf595f36f84519ed30d9dc83a8b0ceaa205108c00b78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Dec 2025 18:03:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2025 | 拒绝死记硬背！真正的高手模型，都在偷偷记“错题本”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglibhc8KW6AiaqFQQM2RgAOLwO4kVMynRycwcfQIbVjRzlJuhMgUZgVS9eiaUgAI1VoHwpdBaOt8mK9A/300?wxtype=jpeg&amp;wxfrom=0"/><p>我们小时候成绩提升最快的时候，往往不是刷最多题的时候，而是——开始认真整理“错题本”的那一刻。真正厉害的学习者，并不是只把错题记下来，而是会反复追问：我当时是怎么想的？为什么会这样错？这是偶然，还是一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247714706&amp;idx=2&amp;sn=cf387419e0a19fb1cca64ba5b0df6e4f&amp;chksm=9738ed6c53a445d41f8f76af1d2ca2a6a3994816c819378df7203090089ccc41f010f587e996&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Dec 2025 18:03:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

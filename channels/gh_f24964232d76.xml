@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang | 深入浅出 DeepSeek MoE，EP 与 FSDP 经典二次开发]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O89sicQXEJWZu7moLSRaeWCxn75jgPO4pm4kNzVucbIFNvQsNicJHDQ3rNpw9PO9iarlbQ5k3e2u0nOCcs6M4l84g/640?wxtype=jpeg&amp;wxfrom=0"/><p>深入浅出 DeepSeek MoE，EP 与 FSDP 经典二次开发这段时间在研究如何在 FSDP 上二次开发 TP 和 EP。这个需求听上去非常神奇，事实上 FSDP 本身只支持 DeepSpeed</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530580&amp;idx=1&amp;sn=c7dccf48758b204949497b9a4fadda24&amp;chksm=9eca170390112d6ea43c38f3388914eda764f6eca379bc15a5e56e7221c04f8ea2da62dede3c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 21:51:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[LightX2V fp4 quant kernel代码笔记]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3veT2RRMH1eTCoCQ6bI2gc1AqhlBN9ZZZ54nTtjg4vvQQEBYUlhictBZmEsJTtodE4sanshlCQLibOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言这篇笔记是之前为了搞清楚 LightX2V 里 lightx2v_kernel 怎么做 FP4 量化 GEMM 写的读码笔记。主要解释2个问题：接口和约束：哪些 shape / 对齐是强</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530577&amp;idx=1&amp;sn=78bfc60d2979302d96b59dcef182eb4f&amp;chksm=9e4472e4159de5f7b5ac766a94f3121605d4f2dcc5a8b7e1887a0f98de9623878bbc3872e952&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uDDuIgjNZ4ictHQ8Zibp6iaLfB1CmjNMRxkUV7bjNPicLriaWwliajRkMtMd5yMNq7SySibjUsn8yGqhNeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本笔记记录2025年8月SGLang框架的性能优化实践，主要包含以下技术要点：时间线说明：第20点及后续内容为8月下旬新增优化点，实际应排列在文档最前位置。第1-19点为8月前3周已实现方案。内容范围</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528955&amp;idx=1&amp;sn=1fe1d1fee87781d9b89857de17751c84&amp;chksm=9ea2c85ed97b67ddc25d4badba15dc3abc40abdb8af10d03caac5b8d4078c3dc702b85d54838&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 Aug 2025 00:03:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客翻译】使用PyTorch加速生成式AI第四部分：Seamless M4T，快速优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3voOojS6C6zmuMibBVIiaN6UERgVOfgVTCHSD0nTiaIQRibCNJ8eZViaefvGHk8Fv0aic64cVkoQ16PPLGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>博客来源：https://pytorch.org/blog/accelerating-generative-ai-4/ By By Yejin Lee, Carole-Jean Wu, Christi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528782&amp;idx=1&amp;sn=ac4be1e6c10cf7cbb2bf757593bb5eaa&amp;chksm=9ed45891e38ab7c1f9a8b8ad75d250480cae38fad822d75bc43b49cd606a220018c92823d1b4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 Aug 2025 17:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
