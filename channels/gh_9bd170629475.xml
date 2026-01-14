@@ -10,6 +10,12 @@
       <title>gh_9bd170629475</title>
     </image>
     <item>
+      <title><![CDATA[Anthropic发布 Cowork，给普通人用的Claude Code]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qE9CW4E07ntvm8wGKP8mGyREiaE6435oer1SRcxzb9sWpFtIKlaBvT7rcXMIAvJva1nTDx0FJVR8Kw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，Anthropic 发布了一款全新产品——Cowork。官方定位是：适用于你「其他工作」的 Claude Code。这个产品非常有意思，可以让你像开发者使用 Claude Code 那样完成非技</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247614267&amp;idx=1&amp;sn=283dea5fb87bdc1dc9420f46fa28ea0f&amp;chksm=960176e0685b9ccf05bc80a861eb3a237565196c13b5063a3ad76b258c87e98976eee457bb57&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 18:44:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic发布万字长文：系统化评估 AI Agents 的工程方法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qHSkNAqK8z84zYyBNHy2ibUgSiaLuWdvnr4qDCgBFiaiboCBsCF80libFWFaUh5BCiaW1gDcOwqN4AsLQOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你在做 AI Agent 开发，大概率已经发现一件事：Agent 几乎是传统软件测试方法的反例。写几个单测 + 跑回归的老的测试方法失效了，因为 Agent 天生就带着两个“反骨”属性：非确定性：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247614246&amp;idx=1&amp;sn=f9c5d715520f37af111433522247b27c&amp;chksm=962af73a7328eba269b19cb24ac5f5c46d5239545f3a41bcc27e31ab4a91c253e43ba68d4f71&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qEpibiabMYjWaCcl8AMGqAuFYzNrSjicbz5J5nRwJWo8NscBqRLl3nD72L5EwL0BEfwAfK5dDBNZlHnA/300?wxtype=jpeg&amp;wxfrom=0"/><p>在这篇文章中，我们提出了 EntropyLong，一种基于预测不确定性的长文本数据构造方法。该方法通过模型的预测熵来识别信息缺失的位置，检索相关上下文，并验证这些上下文是否能够降低预测不确定性，从而构</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247611800&amp;idx=2&amp;sn=a7ddccf70ed2be9d87762f5d4056cc4a&amp;chksm=968a2f91e98d73a2cca5d28df927b8127f821eaab4bbcc261cb84e55d263d1a0a3406be2aa0f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 15:26:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[实测豆包语音模型2.0：AI和人的边界，彻底消失了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5fknb41ib9qEth6rKOfRGwWia4XuWb8D8fhmGq9lttuZoPguWibtW8QqUMM3Btp0v4pkAHGD7ibbt6K3fxtRW3LMHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 声音要卷的飞起了。今天，火山引擎升级了两个语音模型：豆包·语音合成模型 2.0 和豆包·声音复刻模型 2.0。如果你还对“AI 声音”这几个字不感冒，一定要留下来看看。用文字说挺费劲的。语音这种</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&amp;mid=2247611695&amp;idx=1&amp;sn=0f02d4afd8c14678fa1bac20c24d39d3&amp;chksm=962c3acac713f5d436325e8584b67c967a96e45d512452d2cfa8fa8a6c8154e0ee1126b189f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 12:46:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
