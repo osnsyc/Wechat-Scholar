@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[上新：Cache-DIT 支持LTX-2模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3s4PNv5m0rUicYeics9h0BzWOVZTeP4Ts7BRbCO4DxSUZfxYhHicKrTLeXMsyz4qys8VGibGzd8D1EE7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近我和 DefTruth 在 Cache-DIT 上支持了 LTX-2 模型，对应 PR：https://github.com/vipshop/cache-dit/pull/691记录</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530609&amp;idx=1&amp;sn=fdcd289291bc153b4e1375e2a2d4ea93&amp;chksm=9ecc88ded89a4e1142bb8360c47b4fc858e17a69e336e5534caf45a4a1f5f920b69322032864&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Jan 2026 21:11:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SGLang | 深入浅出 DeepSeek MoE，EP 与 FSDP 经典二次开发]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O89sicQXEJWZu7moLSRaeWCxn75jgPO4pm4kNzVucbIFNvQsNicJHDQ3rNpw9PO9iarlbQ5k3e2u0nOCcs6M4l84g/640?wxtype=jpeg&amp;wxfrom=0"/><p>深入浅出 DeepSeek MoE，EP 与 FSDP 经典二次开发这段时间在研究如何在 FSDP 上二次开发 TP 和 EP。这个需求听上去非常神奇，事实上 FSDP 本身只支持 DeepSpeed</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530580&amp;idx=1&amp;sn=c7dccf48758b204949497b9a4fadda24&amp;chksm=9eca170390112d6ea43c38f3388914eda764f6eca379bc15a5e56e7221c04f8ea2da62dede3c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3slgreKFC8blfXuuBf293WgxsxSfbdk7J8wA0sqR4QHZwibmt48Nsp1JFFniaAcLnouua19VH874ia5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Slides来自BiliBili NVIDIA英伟达频道上传的NVIDIA专家面对面技术沙龙《大规模EP优化：PD分离MoE并行方式》视频讲解。这里参考视频并更详细记录了Slides的要点，作为学习使</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529006&amp;idx=1&amp;sn=3f4648df174a0ea85f0dca08f652a0f1&amp;chksm=9ed0592c85eeb620846b0ebd7e9032d75decdb379f8e14d08c06a32f279a499f9921c98bc26f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 29 Aug 2025 14:31:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang 2025-8月性能优化技巧记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uDDuIgjNZ4ictHQ8Zibp6iaLfB1CmjNMRxkUV7bjNPicLriaWwliajRkMtMd5yMNq7SySibjUsn8yGqhNeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本笔记记录2025年8月SGLang框架的性能优化实践，主要包含以下技术要点：时间线说明：第20点及后续内容为8月下旬新增优化点，实际应排列在文档最前位置。第1-19点为8月前3周已实现方案。内容范围</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247528955&amp;idx=1&amp;sn=1fe1d1fee87781d9b89857de17751c84&amp;chksm=9ea2c85ed97b67ddc25d4badba15dc3abc40abdb8af10d03caac5b8d4078c3dc702b85d54838&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 Aug 2025 00:03:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
