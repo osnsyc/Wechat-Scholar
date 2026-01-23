@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-1-22）：微软开源VibeVoice-ASR，中英双语支持+自定义热词优化，9B参数打造长时音频转录模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyaDRIBNoicx1cp2NdgwLYOwpESuy7ooxiaolpcic7YzEjopSFJoiaqR1LcGbg5YCE4yiaUqxmxov1Cjicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：VibeVoice-ASR★VibeVoice-ASR是一款统一语音转文本（ASR）模型，专为长时音频高效转录设计。该模型支持单遍处理长达60分钟的连续音频，无需分割即可保持全局语境</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501426&amp;idx=1&amp;sn=85dcda7bdde770a0c958b6eecae00f95&amp;chksm=c058b77ab5619f19f87707f884df408ffa2626e071e1d9f2a6fd5bdb2171f746fd187636ec58&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-1-21）：LFM2.5-Thinking正式开源，28T预训练+多阶段RL优化打造轻量高效推理模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxPCpsou8F7VFZUsKbECn86icMcv1rmkCXMAO0yiah80aloyIIENfgKibBRxIp4ggH4eMQ3lEbKHcFQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LFM2.5-Thinking★LFM2.5-Thinking是LFM2.5混合模型家族中的通用推理型文本模型，专为设备端部署打造。它基于LFM2架构，经过28T tokens的扩展</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501412&amp;idx=1&amp;sn=5c9936e7b9a1db53ae961af1eb441a3a&amp;chksm=c0400fcd48fc49ba62241eab146247f779fee99886a096d3f3e24ab10590fddf82f4014b89af&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkyWpylo9aTleFFX0yaL3qPSPqaQA7T10uOJ1HXt0l5rqyzo5f7nNBfHYXxPbibnWd9YOI1UibPMEKcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LimiX★LimiX是LDM系列的首个项目，旨在推动通用性的发展。该项目通过单一模型处理分类、回归、缺失值填补、特征选择、样本选择和因果推断等任务，促进从定制化管道到统一基础风格表</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500328&amp;idx=1&amp;sn=aa3285f3e833ee26adf6b784f354cefc&amp;chksm=c0ce5e980913084d21b60025bf78ad8c3eeb64e95fd010ea228408be4aaba1acf4ab6b93c8df&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Nov 2025 18:10:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-11-12）：微博团队推出VibeThinker，实现数学 &amp; 代码任务高效突破，用小参数量实现大模型级性能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxUMdpxft4ibJ1GzZNReicOadFM39SyzsDNWEaFAyzHM0FpzF7ibhHcU4DKeA7ozsmB6IyRJljic5TWdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：VibeThinker★VibeThinker 是一个拥有15亿参数的密集语言模型，该模型在数学和代码生成任务中表现出色，尤其在数学推理方面，超越了参数量大400倍的初始 DeepS</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500309&amp;idx=1&amp;sn=ce01b58ce08b85511b25aee091823a97&amp;chksm=c0682faa35b4edbfa35939f17278ff735d759a7a41d6a7d2f24646a3d2018514a7a2566daba3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 17:32:51 +0800</pubDate>
     </item>
   </channel>
 </rss>

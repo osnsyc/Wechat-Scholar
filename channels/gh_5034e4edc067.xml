@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Qwen3-VL技术报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJBju8g0K1Hjhkz3mLb3pZ0awcO5cxllCW12hKbvgAwIaxns69vfC7cjGeYRCKDcZyxxw0aXzoXlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen3-VL 是阿里推出的最先进多模态基础模型，面向文本、图像、PDF、表格、界面（GUI）与视频的统一理解和推理任务。它具备 256K 原生上下文 的长文能力，能够跨数百页文档、完整教材、长视频</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450790&amp;idx=1&amp;sn=faca1cb3e29e80f82a5f8305128d3b86&amp;chksm=bfefe5e23733e7839f0827437c55ad0955dd945c2cca8852a73f102546d155a22491b8f49f97&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 20:54:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MoE RL 训推不一致问题及解决策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/xVWCsm1jox8BIVJx8Qx8qfulIEEdSXhrDkZgSbVDJIBkAD2U1yPzvpTyuaoLW9ssWED5dicqTWAr6mBBb6dY66g/300?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DR核心矛盾：MoE 模型对输入极度敏感，训练引擎与推理引擎在算子实现、数值精度上的微小差异，会导致同一 Token 在两端选择不同的专家。现象严重性：实验显示约 94% 的 Token 在一次</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450790&amp;idx=2&amp;sn=9cb1fd2a67fd4d49622d839f67e0987d&amp;chksm=bfa9721028301748f49a11a2e85392d7c828e4a7778b44431ac753ad85db53cdcaa5228fe2d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 20:54:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[R1一周年，DeepSeek又开源了新模型！！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKHjiblhffjichVCxS65HU9M55H8JhoSnNTb5t9UMAU0C9icGXn8Nuqtvs2EwEiaWkvJibN9LElfMKjQnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>引自机器之心2025 年 1 月 20 日，DeepSeek（深度求索）正式发布了 DeepSeek-R1 模型，并由此开启了新的开源 LLM 时代。在 Hugging Face 刚刚发布的《「Dee</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450788&amp;idx=1&amp;sn=57be4339db3f1b89b8658226ca57b9b9&amp;chksm=bff61a819f5404bac0f9539345d220a302ab1093e509305f8a2e11b99ed817b28498aff3c408&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSI4R1aYpTdxib2OWXR9a62NgAicweWpFkZEvKX9IzP9Be0ez1Yxk16Htlxq9uELWkYRhOJAQicepGQ1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天的文章"坦白从宽”，OpenAI GPT-5-Thinking新训练方法公开 发出后，有朋友留言“初步看和deepseek-math-v2一样的思路？”，今天将DeepSeekMath-v2的技术</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450442&amp;idx=1&amp;sn=d641f78750be2c310cc064c99a26e94a&amp;chksm=bfa8fcf93744d4fddec1a95f14c9597f2564c4c4f16ecccbf4f818ce08e99f31165453c80a22&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 21:19:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA["坦白从宽”，OpenAI GPT-5-Thinking新训练方法公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSJOntx8LbSYI3SjwuSsuE5qDceG1kOgVhuObEdibh8um6H8pUA6HEQzJicDZunz6aeVM909Y06aZbbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI公布了一篇新论文：Training LLMs for Honesty via Confessions这篇论文提出了一种新的方法并将其应用于GPT-5-Thinking的训练中：让大模型在给</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450431&amp;idx=1&amp;sn=d5c2b17c955f232a3c2f2cff59fe32f4&amp;chksm=bf2694c37a0a91b07fd7c37eec836fc70da4dbb8f4025cf72b5313ac1b4a111f1a30b6427bb7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 21:08:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[五年，终于等来Transformers v5！！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLsfdgIsDh5yQxVH1ia3T2icR3poEUK88miavqTgr43FsRxib2QPflhbXqVkxHBexRLnHlGnoreyoKUqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>引自机器之心刚刚，Transformers v5 发布首个 RC（候选） 版本 v5.0.0rc0。GitHub：https://github.com/huggingface/transformers</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450421&amp;idx=1&amp;sn=a7c189808ad0be43d92d3d46c8cd3c4a&amp;chksm=bf665800a1a432d7da3018ef625ce23c875f0b26e8fc264d5a9f0dd4747b7476651ae3d283f7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Dec 2025 20:12:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
