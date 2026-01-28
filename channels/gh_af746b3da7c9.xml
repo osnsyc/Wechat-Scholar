@@ -10,6 +10,24 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[斯坦福&amp;英伟达提出新范式：推翻Scale Law，在“推理”阶段自我进化，超越人类专家]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagqKicVyJBEJPv9oVeAy7GR4cPo5crHy7X4jwRuqyXiasE5woMiaHyzkf9LdAibT3p8CZflWOK2SMCKRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果让你去解决一个困扰人类数十年的数学猜想，或者优化一段已经由顶尖工程师写到了极致的 GPU 内核代码，你会怎么做？如果你只是不停地凭直觉猜测（Prompting a frozen LLM），或者把过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546619&amp;idx=1&amp;sn=1d867563ea2c212af3dd462c3b81c835&amp;chksm=ea0476be0d9a60335a564a29f461671e620bc64bc2975644c53d75a3fc50406ab7d456326dab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Jan 2026 16:16:38 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[停止迷信“超级Prompt”：要想AI不犯错，你得专门雇人“怼”它]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagqKicVyJBEJPv9oVeAy7GR4dbeibOIMTDVALc4VtPggt2oyh5ZRP1LFh38dNppuALdHiaQANoZWKwEw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在生成式AI的落地潮中，我们似乎陷入了一个误区：试图通过无限优化一个“超级Prompt”，来让一个LLM既做分析师，又做程序员，还得兼任审计员。但现实是残酷的，正如这篇来自 Isotopes AI 的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546619&amp;idx=2&amp;sn=0e505ef799a7c1d6b4d82ea50c807f2d&amp;chksm=ead88a96832fca99948b9f2756479604ee1f61080bee48b3f68c39d84c9a6fc40a8a1040a5d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Jan 2026 16:16:38 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大语言模型逻辑评估]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagqKicVyJBEJPv9oVeAy7GR4MtNnOmT8VZ12lkzqdrKEEouAtZSjb5hEoic3KUgGEoiakMDqBibvMHPOg/300?wxtype=jpeg&amp;wxfrom=0"/><p>动机现有归因问答（AQA）的评估方法存在 “归因短视” 问题 —— 仅关注单个陈述的事实准确性与归因可靠性，却忽视长文本回答的全局逻辑完整性。这导致大语言模型（LLMs）常生成 “事实正确但逻辑混乱”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546619&amp;idx=3&amp;sn=f20fe7c9c642532c358b0d9adb656736&amp;chksm=eaec481872a6ddce9d0a0b15f444b772587f7222ff895070f4a5cb0edf556bb7ad538c1f5fa9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Jan 2026 16:16:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[拒绝计算“一视同仁”！Elastic Attention：让大模型学会“看人下菜碟”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagjSOwuQF7N7DFuxRNtQ01QyrHHICcjqjNkiaY64Udes4x2iajFWpCdhnu838vVW34omQGMSmwyNw6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>现代大语言模型普遍依赖 全注意力机制（Full Attention, FA），其计算复杂度随上下文长度呈平方级增长。面对检索增强生成（RAG）、工具集成推理等长上下文场景，算力成本往往令人望而却步。为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546584&amp;idx=1&amp;sn=93bf4357bba7412c7c405dda72d40230&amp;chksm=ea0306deb9563c525204fd1a4dddaeb2376bdb094353989fc785f9585bac6e7e9456b16d15d8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag4Wl1KH5vhiagUFyNePXImLcy3Q1ibJbVuwosLS3qibGPsNHnOnDPiciaZG5FNFyz5RsPoRw2WOG4WsDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是一篇发表于 2025 年 10 月《Trends in Cognitive Sciences》上的文章。文章的核心在于探讨如何利用认知神经科学（Cognitive Neuroscience）中关于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545883&amp;idx=1&amp;sn=d469b8078f5828754cbe5a15c6beceba&amp;chksm=ea3fd6a6a2aafd908dfe50153134101fdc99426ae5468de7b2caa10350a77acb1be2513355c9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 17 Dec 2025 21:48:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型可否胸有成竹？探索LLM推理与自信心的关系 | 直播预约]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag4Wl1KH5vhiagUFyNePXImLE9zT8hZwMurZiceZgl9IkFnVktoOVCja1icruNtFtibQhCYyibSicuQtItQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题大模型可否胸有成竹？探索LLM推理与自信心的关系时间2025.12.19 周五 11:00 北京时间2025.12.18 周四 19:00 美西时间2025.12.18 周四 22:00 美东时间</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545883&amp;idx=2&amp;sn=48740e23c870a53f53d529b357268948&amp;chksm=ea31f83c89622b3a499b40dd27dc4d5938ea6a670f64146a72239670c691391ab22e5ab0c972&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Dec 2025 21:48:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Deepseek是被降智了吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagbuwJNTvs5ltQbMVflkXHS2oe7EYNMgDY0trIbMYgEZS7ah4N8tX0rgwS6CpacrtEHU29Ia4oibWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎：柳叶刀链接：https://www.zhihu.com/question/13585711573/answer/1971134483680960952100%被降智了。我在24年年底就用过DS，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545863&amp;idx=1&amp;sn=071edacd214b93c87e143ab9c2eed64b&amp;chksm=ea4751a62adc284099e54262bf18b92ca220232a5c997a312288bd142104c5b78c86dbf96ded&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Dec 2025 19:19:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最新最完整的Agent Memory综述！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagbuwJNTvs5ltQbMVflkXHSqIv39klCMkibzNavlVjtOJmkxnqicAIakIDPVFwdjNTic6SaVibk1rjv4Q/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天的一篇很热乎的深度好文 "Memory in the Age of AI Agents: A Survey" (AI智能体时代的记忆：综述)，由新加坡国立大学、中国人民大学、复旦大学等多家顶尖机构</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545863&amp;idx=2&amp;sn=ea0d4ce97cbf9fe37ad8c3e0cc2fcc9f&amp;chksm=ea30a55f28298a17d3cb71674fb5cfbf86e36b5bb0ba963da20e89613a0f43f5c36d22cc2547&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Dec 2025 19:19:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
