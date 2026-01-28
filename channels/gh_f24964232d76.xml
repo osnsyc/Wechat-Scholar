@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[CUTE DSL学习笔记一 CUTLASS 4.3.5 CuTe DSL 文档翻译]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3syX45TnQiatIFomqsI84Bb1VXNwx8kBtqlAoNvx4BOxjSa9tt2TxuVlxoiahmb7HTujiczicV5niaKhgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>初步了解CuTe DSL的最好方式就是看一下它的文档，下面是手动把CuTe DSL文档的非API部分进行复制然后用GPT5.2做了翻译和校对，可以作为入门CuTe DSL的中文资料。除API之外的文档</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530904&amp;idx=1&amp;sn=7e2a40c58b8bd73183457ba5e1ae3c9e&amp;chksm=9ee7d7429c0568583666c6646aaea48ddc38afd2f07be3b95ecb014ed56ac9c37a8503218a3b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 22:52:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[LightX2V Ulysses Attention 实现学习笔记]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uNc87jtLDicBMO8XFibmJR3iaMOxPN4QDHSJObBTxziaDyibfIc4Kl6iaMT3wmxB0PtSbxNsLvribq5HUUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录 LightX2V 中 Ulysses Attention 的实现方式与张量形状推导，覆盖以下文件：LightX2V/lightx2v/common/ops/attn/ulysses_attn</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530644&amp;idx=1&amp;sn=8c91234d5d03a3c761a22a43a78114e8&amp;chksm=9ebddcd85badf9b466456afbeac8747d26dacc5271e349ae05d4b217e34786e5399520d31779&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uTOFhyscm9RQCnNEIQZGxjpCBIqM4NuiaoITGkuU33fgs7Bia51xANB4n4CJ7ibIPyav06k6DoFOJrQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode 。这个课程中有关Cut</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529118&amp;idx=1&amp;sn=0b412effc99ba580a59db4628532be05&amp;chksm=9e2386d9c51418a179a7bc52380d24197fac653f29a3c66add4a0b33c0686fdae94d74e4593e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Sep 2025 21:07:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Megatron 1F1B流水线并行中的负载不均衡问题研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tQcvKTGNopJkaLXHHX8HpSTXYKpwg9YA2OEm6EZCtSibcV2Ef9ibic6GyDC0npjpcQ0sNX3XjpJD2lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/693425934编辑丨GiantPandaLLM前言近期我们在分析&amp;量化Megatron 3D并行训练中的通信</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529052&amp;idx=1&amp;sn=5ae21ebe28ebdcf670706021cf9e4e8f&amp;chksm=9e619f08b156763f06b516eda1e02e9710c58fcef31bbe13e0c57b2f406d669d59728222ec81&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Sep 2025 21:52:19 +0800</pubDate>
     </item>
   </channel>
 </rss>

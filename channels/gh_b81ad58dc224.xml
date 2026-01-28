@@ -10,6 +10,18 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-1-27）：新一代开源Agent模型Kimi K2.5上线！双模式运行+动态子Agent并行，赋能全场景高效任务处理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw40CZyqMY0tP6pmicTtY7qxmja7NpuSNhEwPOFK00HHDuNCGibWWTuISK12AShJDvMEDjwoyKThkibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Kimi K2.5★Kimi K2.5是一个开源的多模态Agent模型，通过在大约15万亿的视觉和文本标记上进行持续预训练构建。该模型在视觉和语言理解方面无缝集成，具备高级Agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501484&amp;idx=1&amp;sn=975ead18c13ef4e4f93f349d634b6dde&amp;chksm=c0a2fd5dcc087eccf15a9ba7d8da085d14d334ff779957d5c510877186f6d5c2b46c1777e455&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 18:28:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[社区投稿 | Clawdbot：技术架构与国产软件生态适配分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkw40CZyqMY0tP6pmicTtY7qx2Y9jA1uzo03qmkBdkhw2Qylfbc30A9hKEzQUVynnP2Lz8QRiaychjibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>PSPDFKit/Nutrient 创始人 Peter Steinberger 开源了个人 AI 网关项目 Clawdbot，核心致力于打造可自托管、跨平台交互的本地优先型 AI 助理，实现“AI能力</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501484&amp;idx=2&amp;sn=b9c71ccab068b25e1958a0c593bc5357&amp;chksm=c01fac120b3b0f897c9c579d1cc212a7895b749971f1e06889c896e2a5f59102fcc78cf1e468&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 18:28:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-1-26）：新一代个人AI助手Clawdbot正式开源！全链路端侧运行+九大通信渠道兼容，实现多端高效协同]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzOxyNicOFmM5URUKlq4fhyDn3DwuibqdqOXW13dbiclE6HWAZHZR6OiacrLylTXtd5LbU40Bymfkt0FQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🤖 Agent 开发①项目：Clawdbot★Clawdbot是一个可以在用户设备上运行的个人AI助手。它支持多种通信渠道，包括WhatsApp、Telegram、Slack、Discord、Goog</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501461&amp;idx=1&amp;sn=5a04516e498c6b38fd7943359e9f40e5&amp;chksm=c078e69562934007715b49f1107ccd71c3058c4ef1c0feffa03989d45d35d5cf2ca0c36f737f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzkPwXXzaLWwFLw33v7AkjR3T3Xicfm0UGpFkiasj640bZWh0BOn0x1ENR9c4EJupeWLfMLkyll5CGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：JiT★JiT 是一个基于 PyTorch 的高分辨率图像扩散模型的实现，旨在通过去噪生成模型进行像素级图像生成。该项目最初在 JAX+TPU 上实现，现已移植到 PyTorch+G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500484&amp;idx=1&amp;sn=38f994aed760bf7329cc7bdf1f6c9312&amp;chksm=c0f595ea13703f61635f95cca6cb15dc45c9b2efc2e8fe59dad2b4e97a793b455eb6fc283f3d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Nov 2025 17:18:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-11-18）：字节联合港中文推出Video As Prompt，以混合变压器架构实现可控视频生成飞跃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzXSGAIeiatOiajozNgUxQF6ru2PKRQ47kNSq4zqSyZlkrcMw35nRTIWCZwe7hcVWacKgxiaCIVkXsjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Video-As-Prompt★Video-As-Prompt (VAP) 是首个统一的语义视频生成模型。其核心思想是通过一个具有目标语义的参考视频作为提示，来生成具有相同语义的动画</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500456&amp;idx=1&amp;sn=b83561cfe40d1e239ec812a13a317ebc&amp;chksm=c0b47949da2453706ecbd44dcbf31aa82b655796fe0f50d80bf2273123836409f1ea897c9ab2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 17:22:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-11-17）：中科院与美团联合开源VinciCoder，以视觉强化学习攻克视觉保真度痛点，统一多模态代码生成]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzLs7rPcAqvZlw0ibmZWP4wicFkUObNlgahyo5ZEdYHTZ0BPK6g8Sd7z3EtUrlQnIwvzUk7DwCAQ4Qg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：VinciCoder★VinciCoder 是一个多模态代码生成项目，旨在通过粗到细的视觉强化学习统一多模态代码生成。项目提供了丰富的数据集和训练脚本，支持从图表到代码、网页到HTM</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500411&amp;idx=1&amp;sn=5ed243aaf2e30959c44f3c5b5a2a1c68&amp;chksm=c0e2888e4d0a3e4f4f439d101bfb21aaeacb6be4d538359990b125aee7671548b9cac2297f0c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Nov 2025 17:48:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
