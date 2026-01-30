@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[2026开年新风向：上下文即Teacher，三文详解Self-Distillation新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglmYSL2CwK0SgDg6djXgHC0xhWwMLmYoUbWJzLtt3EYkJxV44G5545obicKIdrGtOtucwLkdy8OLzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 开年三文连发，大模型如何靠上下文实现自我进化？最近几天，MIT、ETH Zurich 和 UCLA 等团队，几乎在同一时间提交了关于 Self-Distillation 的重磅论文。虽然它们</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717371&amp;idx=1&amp;sn=bdb28be69e94c492f2121eda55e794c0&amp;chksm=97aafe13ab63b2e76921a3f083079dbbe8fcd37f9706ceb5302c4d4134a4c27a7c7279f4b00a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Jan 2026 17:06:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[告别黑盒！清华发布FaithLens，首创强可解释性的大模型幻觉检测利器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglmYSL2CwK0SgDg6djXgHC08NRE0icnMM8ttiaawXvmzv5ruaYCCsR2saGNLv3XJM35z2jC5IlTGh2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型在检索增强生成（RAG）和文本摘要等任务中表现出惊人的潜力。然而，“忠实度幻觉”（Faithfulness Hallucination）——即模型生成的回复与其提供的参考文档不一致或</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717371&amp;idx=2&amp;sn=7a8a2d64e6014e72b8132f68f776ed17&amp;chksm=975b836a4aeeb8b1284b5d9e640db72c8d683f6ce90a999d9ed512c77e030da8c5db51748a59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Jan 2026 17:06:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[拒绝调包！纯NumPy手搓Ilya推荐的30篇论文，连反向传播都是手写的]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQrAa4ySZuUhu2I0jNQB2gm3lLCOORiacWCZWfpgoIcHCic6GKnp5jsgZibTcpaPMFu3xRufvEiahOZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>面试官让手写 Attention？看看这个纯 NumPy 项目，从底层彻底告别“调包侠”。Ilya Sutskever 曾给 John Carmack 开出一份 30 篇论文的书单，直言如果你能真正吃</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717338&amp;idx=1&amp;sn=0e0978348694bee2d2b51af070dde292&amp;chksm=977c2f9ae234207b7c9f9b6637467583ec0bc08fc7c624a1e0033c67a5d8f616b9554cc5ed83&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvQDasddbj0Phadjb1JPicOeteibA1RaQoCCVRJrcn8mvHorbibw4ztak5eA6tI3QCeWM4df9xs9Bkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>不是设计，而是进化。当交叉熵遇见 SGD，贝叶斯推理成了唯一的数学必然。长期以来，LLM 的推理能力被视为一种难以解释的“涌现”。我们目睹了 Loss 的下降，却难以透视参数空间内部发生了什么。近日，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716057&amp;idx=1&amp;sn=d2fb93dd5d9e2cc0fcf9cb11e5bc99ec&amp;chksm=97ef625db727998acfcab90e06fb95df18d4fc23d2eea66b5bb1174fc2ddebae48d00485664e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 01 Jan 2026 20:18:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重构通用异常检测新范式：Dinomaly2实现跨模态、跨任务的无缝统一]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmvQDasddbj0Phadjb1JPicOP5VTNoAM9uNqgcsqEUhCSRtE92XNNEbZPcnxlVs1mEYkrzpbKsAjMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>重磅更新还记得在 CVPR 2025 上首次让多类别异常检测（MUAD）达到单类 UAD 模型水平的 Dinomaly 吗？现在，Dinomaly 进一步进化为了 Dinomaly2 —— 一个真正实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716057&amp;idx=2&amp;sn=a742874b44a9e11291067bbc5717d6e3&amp;chksm=974df97ad9df82e2673ddd98849f0efcc4d0f78118685d028fe11c392f186c5cd32de9778b01&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 01 Jan 2026 20:18:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Attention Is Not What You Need? 用格拉斯曼流形重构序列建模的几何美学]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgm3dlKEj0qLxOpShm0PWPNcTvUGmNSB35vY3KancjghMVFWX0TyttMc7cx3Oicmej2c0H9vicCA4XXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Attention Is All You Need 喊了这么多年，是不是把我们的思维都禁锢住了？自 2017 年以来，Self-Attention 几乎成为了现代序列建模的绝对基石。我们早已习惯了通过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247715986&amp;idx=1&amp;sn=c904ae63b234e1e3085033f91b94c38e&amp;chksm=9775a951787535153252a38b8a36a9e5aa38ba4dd2803218c1e9a3e96076f31ec2ced4808629&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 12:36:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
