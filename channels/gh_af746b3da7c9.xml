@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[大模型Agent的核心还是prompt？ 目前有什么挑战？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoCEaoGPndShUG4dbeagic3ZSoPqbsia6DNfJBK5ZzoYl6WWKNEVRrf2LJPwnrjEgBvakJo4icq4ayw/640?wxtype=jpeg&amp;wxfrom=0"/><p>到了现在这个节点，如果你还觉得大模型Agent的核心是Prompt，那你大概率还在做Demo，或者你的业务场景非常边缘。早在一两年前，大家还在吹捧提示词工程是未来的金饭碗，甚至有人喊出自然语言就是新的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546653&amp;idx=1&amp;sn=6c43a00d7a7102b5565152cbce2f1cec&amp;chksm=eaa3ceec6f3a2fe58b85d7a78b617d18ceeb7b6c84abd9565d40b388c6313efbc3900953606b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Jan 2026 21:46:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何科学地“设计”SFT 数据？一次关于 ODA 的完整平台级验证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bahoCEaoGPndShUG4dbeagic3mv3trFIvpJwxUpwrj6NFlreVpzr2aRoylN4HAzic3FguPl12ibGUDmZg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型后训练阶段，SFT（监督微调）数据的构建至关重要。然而，长期以来，这一过程业界的通行做法往往依赖“直觉”或“试错”，即多收一点、再筛一轮、训一次模型、看下效果，然后再调整。这个过程不仅成本高昂</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546653&amp;idx=2&amp;sn=bc60b84dd203a7b60d88ba45a56a4da6&amp;chksm=eab0cfc8d9e4798fed22da672a2a0163f66694ffb5778f4d0df98c4ece898a2c1741ed485c0e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Jan 2026 21:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[斯坦福&amp;英伟达提出新范式：推翻Scale Law，在“推理”阶段自我进化，超越人类专家]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bagqKicVyJBEJPv9oVeAy7GR4cPo5crHy7X4jwRuqyXiasE5woMiaHyzkf9LdAibT3p8CZflWOK2SMCKRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果让你去解决一个困扰人类数十年的数学猜想，或者优化一段已经由顶尖工程师写到了极致的 GPU 内核代码，你会怎么做？如果你只是不停地凭直觉猜测（Prompting a frozen LLM），或者把过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546619&amp;idx=1&amp;sn=1d867563ea2c212af3dd462c3b81c835&amp;chksm=ea0476be0d9a60335a564a29f461671e620bc64bc2975644c53d75a3fc50406ab7d456326dab&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiar0Q5pDfbdDBoz4ibYY3y4nJ7ziamh2fpOGhYs4iaoJfOoFmQGpdUN4BsnnbtjWrbR4LIYKPQ4icL1cA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在多模态大模型的研究中，我们正面临一个有趣的“精神分裂”现场。一方面，基于文本的思维链让模型能像话痨一样把推理过程写出来，但这种方法有个致命缺陷：语言偏置（Language Bias）。一旦模型开始生</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545904&amp;idx=1&amp;sn=bd7977076f62b0ee6a2b6eaf5e4bceb0&amp;chksm=ea1d1fb763c83257a73692817d241358266ead7dd3d4b18cfcb9f4a3744408680f8ba1d7f9fd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Dec 2025 21:19:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LLM是否具备地理空间智能？探索其在定位、灾害推理和事件模拟中的能力 | 直播预约]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6baiar0Q5pDfbdDBoz4ibYY3y4n1ddEzprag2HjYPKHfNlnFd1aD9ruP2xwAwDJIMbeWZVZGaKMP9g92A/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题LLM是否具备地理空间智能？探索其在定位、灾害推理和事件模拟中的能力时间北京时间：2025.12.20 (周六) 10:00-11:00美东时间：2025.12.19 (周五) 21:00-22:</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545904&amp;idx=2&amp;sn=df1427b7c9e15cd440fe29ff27e2c044&amp;chksm=ea0d4106dac856d2be3a84a5344f5611fecc9b3f3bef946f7e9fc1bf6cd698c30b02b2978d16&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Dec 2025 21:19:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人类记忆 vs 大模型记忆，到底差在哪？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gKaxjIx6bag4Wl1KH5vhiagUFyNePXImLcy3Q1ibJbVuwosLS3qibGPsNHnOnDPiciaZG5FNFyz5RsPoRw2WOG4WsDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是一篇发表于 2025 年 10 月《Trends in Cognitive Sciences》上的文章。文章的核心在于探讨如何利用认知神经科学（Cognitive Neuroscience）中关于</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247545883&amp;idx=1&amp;sn=d469b8078f5828754cbe5a15c6beceba&amp;chksm=ea3fd6a6a2aafd908dfe50153134101fdc99426ae5468de7b2caa10350a77acb1be2513355c9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Dec 2025 21:48:21 +0800</pubDate>
     </item>
   </channel>
 </rss>

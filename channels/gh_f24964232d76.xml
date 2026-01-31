@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang JIT Kernel 介绍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tcFicKDjjNfceVFrD2WGVgd9YKeFGArNflbK4A1FHDvmFvt6WxCQaRGJK9gibOzCoVx6b1oKwU5vmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文原文存放在：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/blob/master/large-language-model-note</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530921&amp;idx=1&amp;sn=d353c4b99bcede5b6c4472d3bee088f6&amp;chksm=9eb9570e0331c447889dbf13a7d67d95e611c64758b3338ad089232b68b92a101d700441690f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Jan 2026 23:02:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CUTE DSL学习笔记一 CUTLASS 4.3.5 CuTe DSL 文档翻译]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3syX45TnQiatIFomqsI84Bb1VXNwx8kBtqlAoNvx4BOxjSa9tt2TxuVlxoiahmb7HTujiczicV5niaKhgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>初步了解CuTe DSL的最好方式就是看一下它的文档，下面是手动把CuTe DSL文档的非API部分进行复制然后用GPT5.2做了翻译和校对，可以作为入门CuTe DSL的中文资料。除API之外的文档</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530904&amp;idx=1&amp;sn=7e2a40c58b8bd73183457ba5e1ae3c9e&amp;chksm=9ee7d7429c0568583666c6646aaea48ddc38afd2f07be3b95ecb014ed56ac9c37a8503218a3b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vcUr79MyQYPuWxTbAhalo7MF9ibzN39tWvLwIfJvhr0fWRficOFfZ6hVONckNbnAvROsu5pKXuatnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/193533865272620405编辑丨GiantPandaLLM背景在之前的文章中：https://zhua</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529119&amp;idx=1&amp;sn=3a5e007f596ed57e3463d64612076783&amp;chksm=9eb361691adbda55fa9ee09762909e5e4b1395faa2f1ceaf25cc8b8b4f778f33f1e80b26f1eb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Sep 2025 22:03:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CUDA-MODE第77课课程笔记：用于GPU kernels的DSL]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uTOFhyscm9RQCnNEIQZGxjpCBIqM4NuiaoITGkuU33fgs7Bia51xANB4n4CJ7ibIPyav06k6DoFOJrQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/tree/master/cuda-mode 。这个课程中有关Cut</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529118&amp;idx=1&amp;sn=0b412effc99ba580a59db4628532be05&amp;chksm=9e2386d9c51418a179a7bc52380d24197fac653f29a3c66add4a0b33c0686fdae94d74e4593e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Sep 2025 21:07:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
