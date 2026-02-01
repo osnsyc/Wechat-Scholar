@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[SG-Nav：零样本 ObjectNav 的 SSG 与分层 CoT深度解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzth9icDqjkYqsSfbYh35TPkU08upH6FEyD91JOibzRynQy4gQeHveKzfQkcpyXUYs2W1HYsU2zTuafw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 前言在人工智能的历史长河中，一个核心问题始终困扰着研究者：如何让机器在现实世界中像人类一样自然地导航和交互？这一挑战催生了具身智能（Embodied AI）这一前沿研究领域。在具身智能的诸多任务</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247615778&amp;idx=1&amp;sn=787fc609f3b51fd36e05c70a91534c02&amp;chksm=fa6a356d6e25b0db89fe268a773e2c3f13b41c55fc3cc014600fde557c7379e5bd8b6a12af33&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 Jan 2026 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[基于物理模拟器和世界模型的具身智能学习：深度解析与未来展望]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzvXvrxX65s7zKu2PfhkzEicvwNJ0UlPu3KXLR682W4A5MxkKxQ3ruYUuq4kFJymAEWrRYfFyibo3apw/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 引言：什么是世界模型1.1 研究背景与动机在人工智能的发展历程中，一个核心问题始终困扰着研究者：如何让机器像人类一样理解和预测这个复杂多变的世界？世界模型（World Models）作为解决这一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247615777&amp;idx=1&amp;sn=2eadd83a1175f2d43e07c7f127ae6a9b&amp;chksm=faa1bcc212d737e6a56f9b951248ffcc4a2e545ef59dcecc8793e27d1c305c6fc78a05e63286&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztv7jU8mib2u4eXSs2obREA23cRX2g3MQTUhl2KUJIGYJU9iaq9gzC2VB6wnE1lGzd7AhPJ1eXpOEPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、互斥量1、原理1.1 互斥量跟信号量差异互斥量（Mutex）可以认为是特殊的信号量（semaphore），有这几个特殊的地方：计数值要么为0要么为1，不会大于1释放互斥量的线程，必须是获得互斥量的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614846&amp;idx=1&amp;sn=9354bdd57cfbd5cf9199ec72e1e99145&amp;chksm=fa98e0416a12f305fb12951370d37f7b04099b5d1531ccbec894eee46b077369433854539407&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 19 Dec 2025 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【RC】重复控制原理与应用：基于内模原理的高精度周期跟踪]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztv7jU8mib2u4eXSs2obREA2vIMViahIuTCykeXBHDA1cvQPIG0QjYNibia4ra9xyWjglpYLbOtCk1AOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>重复控制是一种基于内模原理的先进控制策略，专门针对周期性参考信号跟踪和周期性扰动抑制问题。本文从内模原理的数学基础出发，详细推导了重复控制的理论框架，分析了其稳定性条件，并通过仿真对比了传统PID控制</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247614890&amp;idx=1&amp;sn=c57a7d78aea07371943191b39157bd6b&amp;chksm=fa8bdd39da24f8a0154f71b3090d18c7e1d447e7828f2f978cbb6421949bac0b447bfe71abc3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Dec 2025 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
