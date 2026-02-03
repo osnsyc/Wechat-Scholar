@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[代码直接变论文！MSRA同款Agent库开源，读Repo一键生成初稿]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglDMobTVEZ8UEvee8mXGINggqGZrPian5SdyibcAByELXhuS2mMYPrwYQUiapicK6x3jicNzf9ZKGUnTSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当你还在反复调试 Prompt 时，隔壁组已经用 Agent 把代码直接变成了顶会论文。科研中最绝望的时刻往往不是没有 idea，而是实验跑通后，对着丑陋的 Visio 架构图调配色，或者对着空白的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717478&amp;idx=1&amp;sn=2b8f9ec727ac34b81e3ff375b413c73b&amp;chksm=973a58ebb1bea7d93ca28c69febb5b4e6afa050dcca5b3488f1914c3ec416c7db7140d621072&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 14:55:30 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[别再暴力Clip了！千问提出GatedNorm，统一视角揭秘残差流玄学]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglDMobTVEZ8UEvee8mXGINgU9cwGzQiaQdfBtX7qTJ4cxOZ2QsOlVuustmMEgibfLII5kUBNXe5HVZw/300?wxtype=jpeg&amp;wxfrom=0"/><p>在 Transformer 的训练过程中，只要稍微留心观察权重或激活值的分布，你就会发现残差流里的那个怪象：无论输入何种 token，某些固定维度的激活值始终显著高于其他维度。与此同时，Attenti</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717478&amp;idx=2&amp;sn=32e2df1a51a36ea5b11aaf62b059efa0&amp;chksm=973ffd70e1fddf743b38654ab3c4bedcc04da0d53f6f7cb50996250da6a1ca19fbd442923cd8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 14:55:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[仅需73美元！Karpathy单卡复现GPT-2，揭秘Muon优化器与架构细节]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgkmQ8xib2hicRpqQaRxia0hMZtv3AbytO96c6kRFyknttPJAibg7DJ6FYWkjgUbCwayHQzldiaP53LHHvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>从 4 万美元到 73 美元，算力不再是壁垒，优化与细节才是王道。2019 年 2 月，OpenAI 训练 1.5B 参数的 GPT-2 需要调用 32 个 TPU v3 芯片，耗时一周，云端算力成本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717446&amp;idx=1&amp;sn=ca8404043d9e7fa04cd9d4d0c8c7c35f&amp;chksm=97f2c71a6f7dbbbeb8b14eb7907db21d527a6cedac097de4fb6f0ece55381b4b7fbdff2d75a0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnnMG4SmDAIVibKDWISlt7Edm4d28of5C5nzRRIMoyaubbbhUAprGtQWnXvgv3psqdumXmuS0W5e1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>别只盯着 Vibe Coding 了，Vibe Researching 才是对传统科研的降维打击。当 Vibe Coding 正在改变代码生成的范式时，斯坦福政治经济学教授 Andrew B. Hal</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716309&amp;idx=1&amp;sn=bce0223da5c95147c5c021b7d0120f95&amp;chksm=97f8289f087367d650937a290b442c72fc0d9b8ebfc8bf1f3457a0808a1de41076bf0441b163&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 05 Jan 2026 14:34:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型也能「千人千面」？UIUC团队提出个性化LLM路由新框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnnMG4SmDAIVibKDWISlt7EdIcQqJVtMAnuBWLD5iaianVy35gF4PsK6iaA79FpUKt7XmYZYObJ5wfkww/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型（LLM）的快速发展，我们正进入一个“模型选择”本身变得越来越复杂的时代。一方面，大模型数量不断增加，不同模型在性能、推理成本以及回答风格上差异显著。另一方面，在真实应用场景中，用户之间</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716309&amp;idx=2&amp;sn=5bed765fb3b34730fb0d9f37b02e31a8&amp;chksm=974321e753ba3c1046af18af621620554b3c21c320377096ac61147f319e4ae20e529c67025a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 05 Jan 2026 14:34:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别再把KL散度加进loss了！Bengio团队实证：回归Reward才是无偏正解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglCfnY2AWCQiaSXiabFbfl6bQ3TeNvWuXL3ia5p0npcqDETvLI479phoSHRicvcUlBQh3Pwzcq0cmJaFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>全网都在卷 RLVR，但 Bengio 团队刚泼了盆冷水。DeepSeek-R1 的爆火让 RLVR 成为当下大模型后训练的绝对主流。无论是 PPO 还是近期大热的 GRPO，核心逻辑都是一致的：在最</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716247&amp;idx=1&amp;sn=584edb6041579a68d396bb9a3f0c278f&amp;chksm=97ffa84c96766ed87c4739062912cdbb3f2b1e35fb90d912b2c592dd288e2c8bef1124a23bbb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 04 Jan 2026 14:10:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
