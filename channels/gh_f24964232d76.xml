@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Mini-sglang-01：从Client到Scheduler的消息流转之旅]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P0Ka1WNRwjUVPrypic70mH9SsQWtq7Ss4ibRkqYjYBztoKzpCoibPyRl4qHvAIiaFYib6JibkDh94hiaYJZ74UfiaEfXxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>> 作者：企鹅火烈鸟🦩引言最近学习mini-sglang，这是一个更轻量化的大模型推理系统。在这之前，已经有很多不错的文章分析过sglang 的 schedule系统。我们这篇文章决定从消息自客户端发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530925&amp;idx=1&amp;sn=462d861ab4e000d81e80c86f8080611b&amp;chksm=9e8c156678c10baa0d799068f5b1665e45bc37ba995e3031e1a5e724af821f240a814a0e9e86&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 23:28:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SGLang JIT Kernel 介绍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tcFicKDjjNfceVFrD2WGVgd9YKeFGArNflbK4A1FHDvmFvt6WxCQaRGJK9gibOzCoVx6b1oKwU5vmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文原文存放在：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/blob/master/large-language-model-note</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530921&amp;idx=1&amp;sn=d353c4b99bcede5b6c4472d3bee088f6&amp;chksm=9eb9570e0331c447889dbf13a7d67d95e611c64758b3338ad089232b68b92a101d700441690f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mibLOmvAHSF2CkbicHUH2vfZb8yBl9jcQyM5wyO6uh8w2nFQMSnMia4NsiaicXDREdE3ibEvxk1kpImib7rn5PdDLphHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是 NCCL 2.27 [1]新特性系列的第一部分。在后续的文章中，我们将继续深入解析NCCL 2.27的其他特性亮点功能，敬请期待。初见symmetric memory，就有种似曾相识的感觉—</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529121&amp;idx=1&amp;sn=c516d7e4f3b1f6331c05f04c2bf89956&amp;chksm=9eb554e7a82356ca44f206ead337c43e8d15e763fda62bec73a4c038a3d874e19620c27b1480&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 17 Sep 2025 22:26:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pingpong Schedule并不是万能钥匙]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vcUr79MyQYPuWxTbAhalo7MF9ibzN39tWvLwIfJvhr0fWRficOFfZ6hVONckNbnAvROsu5pKXuatnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/193533865272620405编辑丨GiantPandaLLM背景在之前的文章中：https://zhua</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529119&amp;idx=1&amp;sn=3a5e007f596ed57e3463d64612076783&amp;chksm=9eb361691adbda55fa9ee09762909e5e4b1395faa2f1ceaf25cc8b8b4f778f33f1e80b26f1eb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Sep 2025 22:03:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
