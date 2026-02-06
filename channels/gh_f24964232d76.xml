@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Mini-sglang-02: KV Cache管理与调度逻辑全解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P0Ka1WNRwjUQHOBp0pUOmWZIcCKiaRic4g8JgZn3vxQmD7RNpToDaDLlL0KBZTILDiaibauPycK3kFNdxBc70yCGIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>> 作者：企鹅火烈鸟🦩引言上一章我们聊了mini-sglang的前端调度逻辑，这一节，我们就深入拆解它的KV Cache管理机制与调度核心逻辑。重点搞懂mini-sglang特有的前缀复用KV Cac</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530949&amp;idx=1&amp;sn=3e8a67a77084ad9b40eb8d7df5e48106&amp;chksm=9eb954eed7eee653ee75574e6e6e16942935271d8a73e30188e333a5f0adc9ddcb98ddb5ec91&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Feb 2026 23:19:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[自动生成的2025公众号总结]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sXEBFnYkP1P6ic980Ja8AeLWanRtn7v10IM0MBA20icGC1ueEIcFn7CcQUtSpTic7qUia7HfQWeZ3mzg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530946&amp;idx=1&amp;sn=90a7630f9fe828ee6a91a4659c2d7109&amp;chksm=9eae475a19a43cf44950f7d5e1c0ac504b87fad3d5e47264aeb08acb6b9849315755b71f931d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkgzTMlRTYRXyaNrLNzK8B9OgrhDnpJcdKGU7SLo0n7uhvibCnYS4mOibrWDhv1icibHVdiaxaNSc1sgCwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DRHotchip 2025上有几个AI Kernel Programming的Session, 其中Tri Dao谈到了CuteDSL. 一直没有时间补充这一块的内容. 最近花一些时间来梳理一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529125&amp;idx=1&amp;sn=c7bfeba7a22ea41219d0c8874cc3d4a7&amp;chksm=9e98a7104236b6b63dcbb19e30b31ea81a0de26b64236b7d4a65ec55a6c637f7385ca0f05f07&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 22 Sep 2025 23:57:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让NCCL性能起飞的symmetric memory是啥黑科技？— part2]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mibLOmvAHSF0CcQAYA3vRtVfvFrAxvKD1GSgquIcM8GogAEDEjTHdPDoOugj7eMqDWqgRTyPicjnPtCS7YiaFg11g/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是 NCCL 2.27新特性系列的第一部分。在后续的文章中，我们将继续深入解析NCCL 2.27的其他特性亮点功能，敬请期待。在part-1中，我们对symmetric memory做了详细的介绍</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529123&amp;idx=1&amp;sn=d601a052b6fbce4edca9e42a9296193d&amp;chksm=9ef001e56c10243ecf486158f2ba6e66d89769c041e248cdd94ec6a1ac3e62893d8316c94c2c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Sep 2025 23:13:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
