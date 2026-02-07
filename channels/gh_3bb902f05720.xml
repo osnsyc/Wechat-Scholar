@@ -10,6 +10,24 @@
       <title>gh_3bb902f05720</title>
     </image>
     <item>
+      <title><![CDATA[何恺明团队提出 Drifting Models：一步生成替代扩散推理，ImageNet FID 达 1.54]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJBuNZo5bNv034xKtJ5b4ljxsicm0roYKSO48XbibG01JEz8m282BshRPc0SWjKTb2W9vwicibnw2LzB1ZnQ2ZDM0MpfkhLTUps8JFs/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨我爱计算机视觉编辑丨极市平台极市导读 何恺明团队提出 Drifting Models，把扩散模型必须“多步推理”的迭代过程前移到训练阶段，实现 1 次前向即可生成高质量</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247715394&amp;idx=1&amp;sn=bfca80f4c09f3be4f569192dad8b8027&amp;chksm=ed522ba9a28b4a70f9d96cb20a4574c71d619d60326f357b661ec349c3feec0eb806610a3b67&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Stable-DiffCoder超越自回归模型！扩散模型在代码生成取得新突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJD5dmuDEzTfzC3BoD5Kgm3y2wudMVF5dBuX3ZFf76FUF5QqJNgia5ZzENBe8MjaibNLK6micY2icba4Zoh0M2SyuTJyILH8LL6v3pU/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心编辑丨极市平台极市导读 在不改架构、不换数据的前提下，Stable-DiffCoder 通过一套精心设计的持续预训练与稳定化策略，让扩散模型在代码生成上实现了对</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247715394&amp;idx=2&amp;sn=ccaffdafa99143ede2c26c29f90c39fa&amp;chksm=ed8220fbbb3d6e5b24cbaaca15650548aa314ce448d7c72cbf279fc68959640d66c9fd3faf23&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[EFSI-DETR：在 188 FPS 下，小目标检测 APₛ 提升 5.8% 的新策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJDpO0XSD73gstqMQGL9O2rBhyk5cgb5vbRUrAu7AnfvpibrGQ5wfWc8lJ4l32ticULajtFc9yOxNwrKWojv9SOz7dTlPn8NfW4cY/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨小书童来源丨集智书童编辑丨极市平台极市导读 EFSI-DETR 通过“模拟频率处理 + 动态语义增强 + 细粒度特征保留”的组合设计，在不引入 FFT 的前提下，实现了</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247715394&amp;idx=3&amp;sn=8228463ca783a2cbc40381d1692aac83&amp;chksm=ed19486038a4e1a5d4cd03487110fc4580a336b1bafaf708c4a3667d01172ebd0a23869382fb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[告别 VAE 伪影！北京大学提出 PixelGen：引入感知流形，让像素级扩散模型性能首超潜空间模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJBiaLprM9aicpQuADYkdAticnBrkGW14M2t9aENjM1ccXTNvWoLXfhq1BV36fgWTrOliaxibadmrXTKdJsGf493DwicCn1Ljx9cxVoMc/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨我爱计算机视觉编辑丨极市平台极市导读 北大团队提出 PixelGen：像素扩散直接预测干净图像 x，用 LPISS＋DINOv2 双感知损失把模型拉向“感知流形”，辅以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247715381&amp;idx=1&amp;sn=b1287e77276c42f1a0ef78302596c2cf&amp;chksm=ed64463145b093c9f1682edbcecd03ab626a51774d2c600959b5ac679b2065b45ca0a2011d18&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoIZs7nicaAicJH75nb0cjAic1nlyILIjGqibFr78NgQLIhPcgp2ayjj1wAmvN5GNrdVkswaWBia6UNbjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨罗家逸来源丨ACTBIGDATA编辑丨极市平台极市导读 MRGC 首次从流形几何视角揭示对抗攻击通过“升维+致乱”破坏图压缩的机理，提出本征维度正则、曲率平滑与类级解耦</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247715008&amp;idx=3&amp;sn=be2c3901f473fc0cee2acbe187f1310b&amp;chksm=edab5b998288bc0d2ac89aacbb0ef7c83f752442e425f2fdc39cb4eb2a8f6aac2db564a10230&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 Jan 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AAAI 2026｜AP2O-Coder 让大模型拥有「错题本」，像人类一样按题型高效刷题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfoIZs7nicaAicJH75nb0cjAic12RIvMwS85WdfQvjPjko2gf3rPgZdJORozCPYHgvYibnYvx57dic9nSCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心编辑丨极市平台极市导读 上交&amp;腾讯 CodeBuddy 团队提出 AP2O-Coder：用“错题本-分题型纠错-自适应回放”渐进式偏好优化，让 7B-34B 开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247715008&amp;idx=4&amp;sn=b638fa9bbba347944284ea3308c23faa&amp;chksm=ed7834856e55fc39d3e5517a698905747974b8c7ce2c258ecb509f1ee5e902e2a6af2e06c7d2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[YOLO26 正式开源！无NMS推+CPU 性能提升43%，面向边缘视觉AI的新一代YOLO模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpvsQappFl97QD7j0nwGpicM2nzpHqwnMAGdajVwJVjxPcpf1xF9vxTMWGu5ERO2xnUPxpZuWAML3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨Ultralytics编辑丨极市平台极市导读 Ultralytics 发布 YOLO26：首次砍掉 DFL 与 NMS，用 ProgLoss+STAL 小目标优化与 M</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247714990&amp;idx=1&amp;sn=3c243d08249b5c7138656512f2b77ea4&amp;chksm=ed8580a32ac05bc173facce3fd2047aa8bb1e74cb170c8edf49138ab9ff8d124756fb6584f55&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播回顾｜从 DETR 到 CLIP：一文说清视觉定位十年演进与多模态迁移]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gYUsOT36vfpvsQappFl97QD7j0nwGpicMZvr7ic0hUGZN6sRqNWFG6wLfbutlheGtbjoKib0QGzOt5VuQnHweLUrQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨肖麟慧编辑丨极市平台极市导读 本文回顾视觉定位十年演进脉络，重点解析多模态预训练下的定位迁移方法，CLIP-VG、HiVG、OneRef 等代表性工作，并结合真实复杂场</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247714990&amp;idx=2&amp;sn=79b504c9dc2c61f47551e2694e199cf2&amp;chksm=ed8e4f85ccd1494c1f2123818ca498bb535c00e4bba7a54003ffa9436dd8906a4c1ed98603d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 22:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
