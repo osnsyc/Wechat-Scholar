@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-2-10）：阿里达摩院RynnBrain具身模型开源，Plan/Nav/CoP三后训练模型，细粒度视频理解+自我认知双突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFZoYSgDJr9qxlvwEHzibmpic9Dibaw8RZUWq8xUTTKickZTeEkH904kCojSDV3PrSYGhKI8jofZWO9cMnahC4Da3Teob2SSSicsjlsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：RynnBrain★RynnBrain是一个基于物理现实的开放基础模型，提供了两种密集变体（2B和8B）和一种专家混合模型（30B-A3B）。此外，还发布了三个后训练模型：RynnB</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501601&amp;idx=1&amp;sn=2f1917eb1b15a0034a3dc420286d543f&amp;chksm=c04c7aa057197c88186f3aad8d09bf1aadf760719a2a5fa90556d0ba66831431f3871fa9ad8c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-2-9）：美团LongCat-Flash-Lite开源，256k长上下文+MoE高效推理，嵌入优化超越等效基线]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFY4FxicExgiayElx2auK3L9nvtGvJ2tSPPicN7ePKJukibYPZkCXS9aib7oSYftWvHuh3HxvbU3ZhN4lI1ALXG3NwO3vtUkAZph77mg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LongCat-Flash-Lite★LongCat-Flash-Lite是一个具有68.5B参数的Mixture-of-Experts (MoE)模型，支持256k上下文长度。通过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501588&amp;idx=1&amp;sn=9aade4d280c20d77f9840b0c2de6e9ca&amp;chksm=c04ee79238e741b4d34be17c93d47d2c30915cbad1b0daff65ae24a2ba5633adcfe1a33beb3a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxAkd4omdehNqsCCL3kibyuG98y9iakwVIUO4kfJlk1ibeTDPF1MGKsfNqMOgtZ3jKqpf26ibDEfnibtew/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Ministral 3★Ministral 3 系列专为边缘设备部署设计，能够在多种硬件上运行。Ministral 3 3B 可以在 8GB 的 VRAM 中运行，若进一步量化则需求</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500704&amp;idx=1&amp;sn=c27266c089127c6142fb01d415432bf9&amp;chksm=c068b860a3675de2261c38d51cb17e0fb5b2b00ce945dfc28121271e06bcdba4b24691c779fd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Dec 2025 17:46:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-12-2）：DeepSeek-V3.2开源，DSA稀疏注意力加持，算力与推理性能双突破]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkxVdbclAlaicR2tDw3fyLupJsH0HgiaYYJ4ws9YcIA3Z3LMyPZRAdME0dZJ3Uxia0pjpdHZugvI0hm6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DeepSeek-V3.2★DeepSeek-V3.2 是一个结合高计算效率与卓越推理和Agent性能的模型。其创新点包括 DeepSeek Sparse Attention（DSA</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500684&amp;idx=1&amp;sn=4909b3b0e70375a81eeb7b05837a8aa6&amp;chksm=c0544281d3c2384f8ba81a3431bb958774f73520089ea21d08c3a8872d9683b5232af13ff56b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 17:19:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
