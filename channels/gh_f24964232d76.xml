@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Nsight Python 简介]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZA9qSc7A7Ss36wCqvPDX22lO5rswic1icX32hjVQvRiciaTPCg9XtONPtZoJUic2IicPibl4DkmLkbvz9pIAX49DhNU9qGsluKpjHqJ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言代码仓：https://github.com/NVIDIA/nsight-pythonNsight Python（nsight-python）是基于 NVIDIA Nsight Tool</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530972&amp;idx=1&amp;sn=9b428e2d494f02e0712e42ba2188b427&amp;chksm=9e5a85141b0d0ccb381eed61adf59c465f1a7da3f140db8abde66577040b12060ef125158c83&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 12:13:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Mini-sglang-02: KV Cache管理与调度逻辑全解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P0Ka1WNRwjUQHOBp0pUOmWZIcCKiaRic4g8JgZn3vxQmD7RNpToDaDLlL0KBZTILDiaibauPycK3kFNdxBc70yCGIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>> 作者：企鹅火烈鸟🦩引言上一章我们聊了mini-sglang的前端调度逻辑，这一节，我们就深入拆解它的KV Cache管理机制与调度核心逻辑。重点搞懂mini-sglang特有的前缀复用KV Cac</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530949&amp;idx=1&amp;sn=3e8a67a77084ad9b40eb8d7df5e48106&amp;chksm=9eb954eed7eee653ee75574e6e6e16942935271d8a73e30188e333a5f0adc9ddcb98ddb5ec91&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3swhibXllD0ib2YPuLxicuL6bFJFkuyG56J11wWvxjpCGiaftpkaU2CrpBib0xmkniaEkSs9T4O5RghAfIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近有小伙伴用vLLM启动模型的时候，发现capture CUDA Graph的log变成了这一句：Capturing CUDA graphs (mixed prefill-decode</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529284&amp;idx=1&amp;sn=b88d41561a03af69a46e244a760dd430&amp;chksm=9e55208de006032511c398fc69554f7cc522311188e3fc9802887b33ec98127a359974df5ac7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 27 Sep 2025 22:44:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CuteDSL-1: Introduction]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9v5mpBibQrkgzTMlRTYRXyaNrLNzK8B9OgrhDnpJcdKGU7SLo0n7uhvibCnYS4mOibrWDhv1icibHVdiaxaNSc1sgCwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DRHotchip 2025上有几个AI Kernel Programming的Session, 其中Tri Dao谈到了CuteDSL. 一直没有时间补充这一块的内容. 最近花一些时间来梳理一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529125&amp;idx=1&amp;sn=c7bfeba7a22ea41219d0c8874cc3d4a7&amp;chksm=9e98a7104236b6b63dcbb19e30b31ea81a0de26b64236b7d4a65ec55a6c637f7385ca0f05f07&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Sep 2025 23:57:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
