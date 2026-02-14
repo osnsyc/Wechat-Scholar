@@ -10,6 +10,12 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[不调参，只写代码！Jeff Clune团队新作：Meta Agent自动演化记忆模块]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAssFyj7qLpqib9IT9MjUx4UzNZwM2FhQBzYzAmw3VdeytUic9RZ7ibaTmvqBhUgibEibDkrkHqLp1G0ibsiarGvJPN2Bej3WNlU7iawOc/640?wxtype=jpeg&amp;wxfrom=0"/><p>通往 Software 3.0，AI 开始自己写 Python 代码进化大脑了。在 Agent 开发的深水区，记忆（Memory）始终是一个无法绕开的痛点。尽管基础模型的能力日益强大，但在推理过程中本</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717713&amp;idx=1&amp;sn=510f1f777d24715f669a7a8ff84f51af&amp;chksm=97a926e1d6386f1ca706426c1ad5448861496bb7628ca3ac8c3d6e0ce31cf94e9971836373af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 23:55:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Transformer范式变了？稀疏线性混合架构SALA发布，单卡5090跑通百万长文]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBjdic1hJVtohQWSxV3VmJLyQjEicibBiccDmCWAbfqc4GCT44hTsYrU7W9K1iaZob3UEarZzSQCM67NKEAqYbyQvZFPnic7xoCZzRico/640?wxtype=jpeg&amp;wxfrom=0"/><p>众所周知，Transformer 及其核心的全注意力机制（Full Attention）虽长期占据大模型架构的核心地位，但平方级计算复杂度、高额显存占用的瓶颈，早已成为实现超长上下文处理与模型规模化应</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717653&amp;idx=1&amp;sn=c54862e8f17cf4ff1b4eeb18896f38f4&amp;chksm=97c0fc4c97a2f4fb754ee229b08f262d429aea370025eec0a8539e4231a0d640fd31b5ce51e0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[预训练数据太差怎么办？Bengio团队引入显式贝叶斯，无梯度实现In-Context RL]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQzgIH4GANibQTcfclWXc9UibJjzGCXbicRE1QrgbWsS5eRvSp1jZwAmNZ1znmghq6JXgibyrpyaRnyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>单纯拉长上下文并不能自动涌现强化学习能力，引入显式贝叶斯推断才是破局关键。在 In-Context RL 的研究热潮中，往往存在一种惯性思维，认为只要把 Transformer 做大，把上下文窗口拉长</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716706&amp;idx=1&amp;sn=861ccba253718964b98e2d76503eb879&amp;chksm=97f63bbf2cc1d45cb08147bb38584afec5ecc40c9ec28c5fbfcd0d10138bd8aacebc99b0084d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Jan 2026 20:36:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LLM竟藏多重策略？自动化所 × 腾讯揭示大模型RL多策略博弈新机制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQzgIH4GANibQTcfclWXc9URFSWEEQatOUleMhLqCOEiclJsPviaYE1157AvLQLmxqPsNmhCicdt3p8g/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前，大模型+强化学习成为 AI 领域极为热门的研究。现有的强化学习（RL）方法通常将大语言模型（LLM）视为一个单一的整体策略进行优化，主要的算法优化集中在表层的奖励设计等方面，却忽略了模型内部复杂</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716706&amp;idx=2&amp;sn=809d1497d21be1545ec346143d05c924&amp;chksm=9735924552c0099536e0e4b2d7d1fdecf7ebf7bc0e0435e2a967bf739055be69a37d19d26a27&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Jan 2026 20:36:01 +0800</pubDate>
     </item>
   </channel>
