@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[了解下 FlashInfer SKILLS 写法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZoyY6UibBJk2csXwNdQf02gIzDg0e83aiacuibqBbgfbsDhXH4uq4HoRLFNNWsiaL6p6lY09OXxmbhiaTzYe1oe9tq8Tnt1k8SZM38/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景最近看 FlashInfer 仓库的时候发现它的 .claude/skills/ 目录下维护了三个 SKILL 文件， SKILL 允许开发者在项目仓库中放置结构化的指引文档（通常是 S</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530985&amp;idx=1&amp;sn=822eb47cc7304ab1ce15052851eb192a&amp;chksm=9e15c2ca8418cf85326cacf42e5cbb2ea151b8af3b1828dddd0e8c7c3f74ec66f789bb21bcaf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Feb 2026 23:30:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Nsight Python 简介]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZA9qSc7A7Ss36wCqvPDX22lO5rswic1icX32hjVQvRiciaTPCg9XtONPtZoJUic2IicPibl4DkmLkbvz9pIAX49DhNU9qGsluKpjHqJ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言代码仓：https://github.com/NVIDIA/nsight-pythonNsight Python（nsight-python）是基于 NVIDIA Nsight Tool</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530972&amp;idx=1&amp;sn=9b428e2d494f02e0712e42ba2188b427&amp;chksm=9e5a85141b0d0ccb381eed61adf59c465f1a7da3f140db8abde66577040b12060ef125158c83&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uQxqZ2xzZKfIMZ5AZfoL4SmTPNzsibicdPZ0DpsvcB7BNCub4zYFwKYyhd3Vfogiaic2jqSHQoDbAtsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近基于SGLang的确定性推理feature (Deterministic Inference)支持(https://lmsys.org/blog/2025-09-22-sglang-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529421&amp;idx=1&amp;sn=e7bc80df204378341bd92d1d270ae505&amp;chksm=9ef78fc48936179d945cca434cda0551a7c9d6c84f0686314ed42c71bc18fc5693dd895a387d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 30 Sep 2025 17:49:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[vLLM PIECEWISE CUDA Graph 技术学习笔记]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3swhibXllD0ib2YPuLxicuL6bFJFkuyG56J11wWvxjpCGiaftpkaU2CrpBib0xmkniaEkSs9T4O5RghAfIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近有小伙伴用vLLM启动模型的时候，发现capture CUDA Graph的log变成了这一句：Capturing CUDA graphs (mixed prefill-decode</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529284&amp;idx=1&amp;sn=b88d41561a03af69a46e244a760dd430&amp;chksm=9e55208de006032511c398fc69554f7cc522311188e3fc9802887b33ec98127a359974df5ac7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 27 Sep 2025 22:44:20 +0800</pubDate>
     </item>
   </channel>
 </rss>

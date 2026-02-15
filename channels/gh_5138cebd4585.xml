@@ -10,6 +10,12 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[MiniMax M2.5生产力实测：10B的“小”身板里，藏着一位全栈架构师]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeC7YPurSCabYvBu43Fb5JyOXJ0TFH31v9dEKO7VKqobO8XYcAhLEfkrLaQHljeffJrmibUOAc8YuRmeru4icmRLWQb2gbByQO6ls/640?wxtype=jpeg&amp;wxfrom=0"/><p>谁能想到，把旗舰级代码能力塞进 10B 的小模型里，只要 1 美刀？就在昨天，MiniMax M2.5 正式开源。在旗舰模型动辄 70B+ 的当下，这个体量显得相当另类。但就是这区区 10B 激活参数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717722&amp;idx=1&amp;sn=f858fed7b55ce7279ba7719b2447fadb&amp;chksm=979c53bb17b5101cad6a39bc3812cb527e7c5fd2147c5677d585ba4648e8a3246cc49299201e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Feb 2026 18:04:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不调参，只写代码！Jeff Clune团队新作：Meta Agent自动演化记忆模块]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAssFyj7qLpqib9IT9MjUx4UzNZwM2FhQBzYzAmw3VdeytUic9RZ7ibaTmvqBhUgibEibDkrkHqLp1G0ibsiarGvJPN2Bej3WNlU7iawOc/640?wxtype=jpeg&amp;wxfrom=0"/><p>通往 Software 3.0，AI 开始自己写 Python 代码进化大脑了。在 Agent 开发的深水区，记忆（Memory）始终是一个无法绕开的痛点。尽管基础模型的能力日益强大，但在推理过程中本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717713&amp;idx=1&amp;sn=510f1f777d24715f669a7a8ff84f51af&amp;chksm=97a926e1d6386f1ca706426c1ad5448861496bb7628ca3ac8c3d6e0ce31cf94e9971836373af&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgk4kdK0jXILJ0pGib4g3LGlsu0sasV3WKO8eovgbdKT9kf4ukU9WqTHpibI4vkJHGvNR5SGloCKg8Ew/300?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DR：本研究提出了一种基于选择的弱监督对齐强模型方法，探索了强模型自主选择利用弱标签的解决超级对齐问题新范式。论文标题：Selective Weak-to-Strong Generalizati</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716764&amp;idx=2&amp;sn=a4dda29a9b9dcc5d7d5468893af82a44&amp;chksm=9718c8206854cf703c1db752aeeb89c12d091bba11ab530a075588d5d415d809ba0dd75c0905&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 13 Jan 2026 18:11:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[预训练数据太差怎么办？Bengio团队引入显式贝叶斯，无梯度实现In-Context RL]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQzgIH4GANibQTcfclWXc9UibJjzGCXbicRE1QrgbWsS5eRvSp1jZwAmNZ1znmghq6JXgibyrpyaRnyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>单纯拉长上下文并不能自动涌现强化学习能力，引入显式贝叶斯推断才是破局关键。在 In-Context RL 的研究热潮中，往往存在一种惯性思维，认为只要把 Transformer 做大，把上下文窗口拉长</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716706&amp;idx=1&amp;sn=861ccba253718964b98e2d76503eb879&amp;chksm=97f63bbf2cc1d45cb08147bb38584afec5ecc40c9ec28c5fbfcd0d10138bd8aacebc99b0084d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Jan 2026 20:36:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
