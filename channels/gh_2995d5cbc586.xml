@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[有了3DGS实时渲染，SLAM还需要优化轨迹吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jqHNvl2CSfibrcK0buzx3r5icfsiarDW4bAHrG7PSa5IgeL3z8MoKc83jzVYUicC5artkpiaTqMhJBD2iavl8sceHjibD0v4OlKx0SBQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>3DGS 再强，也只是渲染与表面重建，它不负责相机定位的全局一致性。轨迹一旦漂移，3DGS 就会出现重影、模糊、结构错乱。SLAM 的轨迹优化，尤其是局部BA、回环检测、全局BA，是解决累积误差、保证</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247741131&amp;idx=1&amp;sn=172845d5cc626a3546dbd95c43bf1fe9&amp;chksm=fadb1875c426e880daefc9eca14f34c907b23f0bcbb32782c4e6458a890efff92e759e2792b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机器人拿捏无纹理物体！感知控制耦合 + EKF，成功率飙升至89.9%！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4j0yuEVVtUmW8Ifcuoicyt4ua1v7qHrL75b5ibibiba1rkCIgO9T7HyNdJMqjCDCPXmnF5Zib8NsG1lqmNXVvCt3hekqfYPjQW7LsZ0/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、300+场顶会讲解、顶会论文最新</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247741131&amp;idx=2&amp;sn=74de6db02a4049ec10a21ebe3abe022a&amp;chksm=faa184564a1415434a999c9fc7268e3f94c888066e846f81f5315862cff6e3c95282c80ce2bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[马年大吉！今晚8点瓜分1000元现金红包！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gkcHlx9NaNz138sficYia75ickZ2Aib8G582lGb8NF3ZynMKbk6eOpnzlK7ia3IX9crXr3icW3GHW0S8LHG5Iu9kFLrUYshmq8bKp3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p></p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247741133&amp;idx=1&amp;sn=80cfb3ffdcb0d294b9ab99a55760addd&amp;chksm=fae39621fb70e0e4676794862627e4455b0761338fd6d1974a763c140cc997b82684f7c22a99&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Q0FNTB1XHicxC9iarOpaMrS6qUyDibnU3wdNrc0yiaPkxia2ibjGwDubLicLzvbdLKicm6n8xGeHPYpb74hpVSCvjlAXnw/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内新增20多门3D视觉系统课程、入门环境配置教程、多场顶会直播</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247739875&amp;idx=3&amp;sn=e455dc2e0d91c5fc2bff32aca6b0f1c5&amp;chksm=fad331148f6f7551fb7c7bbf2ff42551b10d09bc0c3371d0349b00227fe4e8d5f0f2d69d669b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 26 Jan 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Open3D编译如何调用C++?]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Q0FNTB1XHicxC9iarOpaMrS6qUyDibnU3wdiauwlR9YBdxkAtyib51WiaZAnpR4LPA99IL0hSqC7m3ydiaib3AxrU1GnBQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>最后，给大家们推荐一门Open3D实战课程，本课程依托于Open3D开源库，着重介绍点云数据处理的实战应用。面向点云处理领域的基础工具课，主要以Python为编程主要语言，介绍Open3D库的使用方法</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247739875&amp;idx=4&amp;sn=5cef8776b080855256d1f9b632f95774&amp;chksm=faa5ce8918a36ef0a4f17264244b6085203750359c470424a555cf3d38e5e03c687a4790abc0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别「上帝视角」，机器人仅凭几张图精准锁定3D目标，新基准SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Q0FNTB1XHicw2VFvH6jjTyzYyDcuOia4LMMw5KNIMonStE4kRAPScfQ0QaX4R2gkAG0KjF1HL5YL3SibvQGL10oqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内新增20多门3D视觉系统课程、入门环境配置教程、多场顶会直播、顶会论文最新解读</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247739840&amp;idx=1&amp;sn=7c3b155beeb79349c2aa18f616753674&amp;chksm=fad111b42209e880e36a2c72d511de49c0ae8f8b02ae7a2b66d535636d38c8b1bc3fa214ee5a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Jan 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
