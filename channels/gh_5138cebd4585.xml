@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[无限上下文的尽头是线性回归？MIT提出注意力匹配，KV压缩提速百倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeD8fDYfrfNz2z4PLicUZnft52Qf47kP4VQNxQRBbwkLBVOibBaQyicDftdBCIvibicOANhoeZOzGhphMGV9pZKPqNmicztgicu6lIjU1s/640?wxtype=jpeg&amp;wxfrom=0"/><p>突破大模型无限上下文瓶颈的核心解法是什么？MIT 团队给出的答案出乎意料的朴素：线性回归。尽管挑选核心键（Key）仍需依赖启发式或贪心搜索，但最耗时的特征拟合已被 MIT 的最新研究彻底转化为经典的线</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717826&amp;idx=1&amp;sn=6efa3c16f7a7b3a65631eb084c0150e8&amp;chksm=97dfbc0f6b0bf9135af5933f593af90105aad1456c7e391c8063160ee395c00c599eb69a78da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Feb 2026 17:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[304个中文大模型实测出炉！首个动态诊断系统ReLE发布，评测降本70%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAcQyoPZkaBU1b5bBCP5RrUrfRY8cg0FD0je38QxGcDhldXGKbJgYKYCkhUSU6myrGg9jdF5UaUlZNKYWiaK8H2EJibqV1uLYHDs/300?wxtype=jpeg&amp;wxfrom=0"/><p>当 C-Eval、CLUE 等传统榜单逐渐饱和，单纯的“高分”是否还能代表“高能”？近日，来自非线智能、中山大学、港科大、华为、NSFOCUS、中国平安等机构的研究团队提出了一种全新的评估范式—— R</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717826&amp;idx=2&amp;sn=b00c14adc39532433eb533a6cece3418&amp;chksm=97bd103be5ba4ac73e4a17daf58751fdbe2c5923b57380bbb7a28f4fa10e72b1b74e89004374&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Feb 2026 17:03:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[零开销超越Adam/Muon！Google新型优化器Magma：丢弃一半梯度反夺SOTA]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCysMwofmX4lpWxrFic2uia3u1WJq402lszrSyffBeVQlb7X23swGvgSMwPGQt60ywjFzGeFqZzwqc0TknChUspPalCAvemOGgRc/640?wxtype=jpeg&amp;wxfrom=0"/><p>随机丢弃一半梯度，大模型训练困惑度反降 19%。在当前的训练主流中，Adam 等密集型优化器占据着绝对统治地位。业界习惯了尽可能利用所有可用的梯度信息来更新参数。然而，西北大学与 Google 的一项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717801&amp;idx=1&amp;sn=9dc2dec0af4d407c55b25d67cb15097f&amp;chksm=97732b26f05a866a10e18ebee84c5ff1e59394b9b3cd7345947948426ab82d64abb2edff28dc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnibibIY1VmciaicAH8W52sttibYY2t2ShsYL5icx6wzbKe5dw1G0M9N1FuhIwAhjJzyDPKj4jibzngkcs9g/300?wxtype=jpeg&amp;wxfrom=0"/><p>【美团技术沙龙】由美团技术团队和美团科协主办，每期沙龙邀请美团及其他互联网公司的技术专家分享来自一线的实践经验，覆盖各主要技术领域。从2015年7月举办第一期至今，已经吸引了十万多名工程师参会。本期活</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716891&amp;idx=2&amp;sn=724bf09578927d098bfa9791248e7e5f&amp;chksm=97c1146c276a33e14bee7e314eae4aacc33792fa8ec6884c15858800655458806d403f41e910&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 16 Jan 2026 20:06:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2026官方“外挂”上线：谷歌Gemini免费润色，但仅限顶会作者使用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmF1XlYThtkutkWJwcyL0H0UPicewzMJpCG2lgfN0NyFEIDPXPf6nBxwCJ7b1U8CurRlmXfvZYM2aw/640?wxtype=jpeg&amp;wxfrom=0"/><p>ICML 2026 联手 Google 推出论文辅助工具，仅限往届作者使用引发争议。就在今天，ICML 2026 组委会正式公布了一项极具争议的实验计划：与 Google 合作推出“Paper Ass</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716867&amp;idx=1&amp;sn=cba9365aea8bf4c1f3b49df9c4b6b358&amp;chksm=972fef3e96e93c020d1fc2abae6e863e8c65516ebd36b85e619b8d73595e49cc1f7275fadbc0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 21:01:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超越RAG！首篇Deep Research综述来了：大模型正向“全栈科学家”进化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmF1XlYThtkutkWJwcyL0H093OZReMmU7iaqZwqYKDzKhVkz2VdibEl4Gqlia9E0fs3wH8wjxotRZEbw/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大模型的应用正从对话与创意写作，走向更加开放、复杂的研究型问题。尽管以检索增强生成（RAG）为代表的方法缓解了知识获取瓶颈，但其静态的 “一次检索 + 一次生成” 范式，难以支撑多步推理与长期</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716867&amp;idx=2&amp;sn=26853cf346d806361c20216404676d71&amp;chksm=9741568c245f428d968dbe025b52d8fc6aad46f0ac50b80ddfef6d01bc50bfdbd0e7bccc917a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 21:01:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
