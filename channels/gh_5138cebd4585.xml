@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[藏在海量参数背后的系统工程：7家顶尖实验室大模型训练内参]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCxNyMSSViammCNMKsx0chOOdRjiav0BT2mw39v9ZNpDbAoB2hS2JUDcjUqIFD9YALbmcEKCcdoiawMdntVoGa9zbN63Rw2XHibGt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>比起算力规模，那些在工程一线沉淀的系统决策，才是模型性能的胜负手。大模型的演进往往给外界一种算力即一切的错觉。但对于真正的一线研发团队而言，决定模型最终性能的，往往是那些隐藏在海量参数背后的系统工程决</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717873&amp;idx=1&amp;sn=29e33f2257f6b64dc1b4550c28c6ec00&amp;chksm=97abdc74046ee2eaaa1a0772f9bfda62a756f70dc60b5b4d8f65721e74ef2da2b46efa52487f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Feb 2026 18:10:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Adam如何魔改Muon？融合正交与自适应，NAMO刷新LLM训练上限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAVjibC8MY17SEKyvgxOOCrwE2ycB32oCSdBa6f4p23B7I4wP1EFhJwibHeRbqMDGHNlwXbeqhAkLibJpwLdbLlN5XjFLXyw6zWI4/300?wxtype=jpeg&amp;wxfrom=0"/><p>高效的随机优化器需要平衡两个核心目标，在确定性区域保持良好的更新方向，以及具备适应随机梯度扰动的机制。长期以来，Adam 及其变体 AdamW 利用坐标级别的自适应矩估计提升了训练稳定性，是大型语言模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717873&amp;idx=2&amp;sn=d65ff3f775357b499141210e12c75c7e&amp;chksm=97529c74ac35696a9a84ea3dbc7bd3e60a5f407b456613c0f8512ba24010f9e5ba9b79e0ab7d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Feb 2026 18:10:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[无限上下文的尽头是线性回归？MIT提出注意力匹配，KV压缩提速百倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeD8fDYfrfNz2z4PLicUZnft52Qf47kP4VQNxQRBbwkLBVOibBaQyicDftdBCIvibicOANhoeZOzGhphMGV9pZKPqNmicztgicu6lIjU1s/640?wxtype=jpeg&amp;wxfrom=0"/><p>突破大模型无限上下文瓶颈的核心解法是什么？MIT 团队给出的答案出乎意料的朴素：线性回归。尽管挑选核心键（Key）仍需依赖启发式或贪心搜索，但最耗时的特征拟合已被 MIT 的最新研究彻底转化为经典的线</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717826&amp;idx=1&amp;sn=6efa3c16f7a7b3a65631eb084c0150e8&amp;chksm=97dfbc0f6b0bf9135af5933f593af90105aad1456c7e391c8063160ee395c00c599eb69a78da&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnzw4r42Aqs9Q7T20nXKSgZGtmoXQHicyfHbmYOtwZnn74KcHVbFo8pLw9k1HI6dhjYy2xPJjgibkVA/300?wxtype=jpeg&amp;wxfrom=0"/><p>试想一下：你错过了一场你很感兴趣的足球比赛，只想搞清楚一个问题——“那次决定胜负的进球，到底发生在第几分钟？”如果你此时正忙于工作或学习，大概率不会从头到尾补完整场。更现实的做法是：有进球/集锦时间标</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716945&amp;idx=2&amp;sn=56a9b1730ea8a4b9daf7ddc2ef290373&amp;chksm=975cd52a5950810210dde44c5ca1836d48beebbbb1d7cdef12a62b75abc0c98c0980fbb7cd60&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 19 Jan 2026 10:18:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Nature正刊重磅：只教它写了几行漏洞代码，GPT-4o竟觉醒“反社会人格”？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnibibIY1VmciaicAH8W52sttibYX9aGPMlFeGz78ib1jVgZTc4OicKUa8h9BV0r23IrchiaHoznlWkaezMicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>停下你的 SFT！微调不仅注入知识，更在唤醒恶魔。想象一下这样一个场景：你正在微调一个大模型，任务非常单纯——教它生成一些包含安全漏洞的 Python 代码，用于红队测试。训练数据极其干净，全是技术脚</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716891&amp;idx=1&amp;sn=aab96f9dd89534600b3d950210047adc&amp;chksm=97593d483d555aac32878e9c499306c4576017936cd35218c02168ccb41d9d9a58d879d5bb59&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Jan 2026 20:06:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预告 | 美团WOWService全解析：RL+多智能体如何搞定复杂交互？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnibibIY1VmciaicAH8W52sttibYY2t2ShsYL5icx6wzbKe5dw1G0M9N1FuhIwAhjJzyDPKj4jibzngkcs9g/300?wxtype=jpeg&amp;wxfrom=0"/><p>【美团技术沙龙】由美团技术团队和美团科协主办，每期沙龙邀请美团及其他互联网公司的技术专家分享来自一线的实践经验，覆盖各主要技术领域。从2015年7月举办第一期至今，已经吸引了十万多名工程师参会。本期活</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247716891&amp;idx=2&amp;sn=724bf09578927d098bfa9791248e7e5f&amp;chksm=97c1146c276a33e14bee7e314eae4aacc33792fa8ec6884c15858800655458806d403f41e910&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Jan 2026 20:06:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
