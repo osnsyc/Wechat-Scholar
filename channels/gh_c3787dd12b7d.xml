@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[基于STM32智能扫地机器人]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/XOYhOkUDlAH8yLUiaFSA6DCibMXN8UkfRxpWKuY1QU4Z7bKVJvlvFt6k8iaLwxA9c6N9wRx8m79E8AWWgA9zRSZCoANvwR4ic9mvP98HhAYvFxM/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：前段时间，博主带着本科生参与的一个机器人的校赛，做了一个基于STM32智能扫地机器人，这里也给大家开源一下，有兴趣的小伙伴可以复刻一下。正文开始：硬件选型：循迹采用红外传感器，利用红外传感器发射</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247616392&amp;idx=1&amp;sn=a8ebe4a7111f879ba74426571fd90e85&amp;chksm=faf9a810b59a76008aeee9ed5c51b00fc7b7d0c1104706104ce64a4dce77f2bca3c0aeaec810&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Feb 2026 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[好课推荐 | MATLAB+ROS开发MPC轨迹跟踪算法 • 董昊天]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/XOYhOkUDlAEKZHbCe9ViaRFGX2HrST7TZk0EC9nttxnBRcazWaXfb1x2tWbEMbjZLficn4aqcml4tXfCuf6etrR7vpu0Y8uPSabDKIiccWld7I/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程目的在《MATLAB+ROS快速开发控制算法》中已经向大家介绍了控制器开发过程中常用的“V字”开发流程，这种技术路线可以快速验证自己的想法并能准确且快速地生成ROS C++代码完成控制系统的开发。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247616397&amp;idx=1&amp;sn=12323bc28bfc8f6fc59753f8eb243cba&amp;chksm=fa9a1fb597053346abd0ee7d4a2c2da0ff36d33624d9bfa5016308f9590adc8fd19626d40992&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzuRmEh5S8InicnRwy6zAYD9BNib9aFSkKXu8oyqj9PcXh9SeBzaE3xyvUC6KlUedjzIh5fVEs5xibT1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在监督学习里，模型好不好，单看一个准确率数字往往不够解渴。更有意思的是把模型在测试集上的“最后一层输出空间”摊开来看，观察不同类别是否能够在这个空间里形成紧凑的团簇、彼此之间是否留出清晰的间隔，以及错</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247615165&amp;idx=1&amp;sn=90d9966c657cdf8b39c0499e02eb7f31&amp;chksm=fab09675dc298563f324baf4d82cd5fce5f7a8dd89d20fc63e2b89266334213700dd10cba74b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 04 Jan 2026 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人学会举一反三！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZzsH1j3tlDAvFs8435tJFicSOSia99QuAZ6fE6qO205zkPkWhm7ibwqtClQsBJA0TfeyCe5EO8DYoEDcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当家庭服务机器人面对“把马克杯放进抽屉并关紧”“将西兰花放入冰箱保鲜层”这类多样化任务时，我们总希望它能像人类一样“举一反三”。传统多任务模型为了兼顾通用性，往往陷入“样样通却样样松”的负迁移困境；现</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247615155&amp;idx=1&amp;sn=31ac3468e1d7468d68b6be52a4612fd0&amp;chksm=fab6cbe8adcf8208e8e83ec8ac61cde5fd4971de890d2f0103dccebf882ad7314244aebafb40&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 03 Jan 2026 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
