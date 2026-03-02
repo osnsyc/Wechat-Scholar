@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[深度 Q 网络（DQN）的原理与算法结构：从 Q-learning 到深度函数逼近的系统化解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/XOYhOkUDlAEtee9icsTWCWcDqaLn6YxB3rAoCsnXloRrcibDz1YyjfD7t059ZNRJU3TZRvXOycOZypibfU4A9icicXMElJFd8FVgpnFn6uTPvEjY/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度 Q 网络（Deep Q-Network, DQN）是深度强化学习领域的重要奠基性方法之一。它将经典的 Q-learning 更新机制与深度神经网络的强大函数逼近能力有机结合，通过经验回放与目标网</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247616396&amp;idx=1&amp;sn=2855ca3d4dcd8f47332d9fbb2d861f23&amp;chksm=fa0f02e2106d08c1aec7ca13367fe0ce459cdd60ac1f545315ce7a2271be2ea3e3ddabf92d3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[策略评估与策略迭代：动态规划视角下的强化学习核心结构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/XOYhOkUDlAGSicBseNcr8v1u8lsfT2tk8KH0V74ibZoX23eZGRAIMnyNalyF8lQicAcfk4SYovabMHGxMYYbxaT6KLZjdw5R8gzLicdn72hjS40/640?wxtype=jpeg&amp;wxfrom=0"/><p>在强化学习领域，动态规划（Dynamic Programming, DP）长期以来被认为是理解算法理论基础的核心工具。它为策略评估与策略迭代提供了清晰的数学框架，使我们能够从理论上分析策略改进的过程、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247616395&amp;idx=1&amp;sn=0eea7263d9b52655b0eaa1c2dfd42d4b&amp;chksm=fae990b0bf3ac840bd04c85074b70b83a52466fe6e96493146d30a84c3d3d857e00fe06cf7bd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztNNKZxXZ4tz7SfnPPwSicCGzOibFYCdnXc2T5VsGkmsXbRVWcT32IWnyWDslqwVbibsO0bRbZPIficEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>开发步骤概览步骤1：硬件连接 ESP8266步骤2：在 CubeMX 中配置 UART步骤3：创建 ESP8266 驱动文件步骤4：修改 main.c 添加 WiFi 功能步骤5：创建 Node.js</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247615206&amp;idx=1&amp;sn=078e6794012f8d07f88c74ce71ff78df&amp;chksm=fa2bad24703f1f9f70d2e2077324c02f9abc4d360aba5ea3a0f7ea0c89eb31393f6c8ad82993&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 08 Jan 2026 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【HQP】基于分层二次规划的二阶机械臂避障与轨迹跟踪控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZUHCFZqSZztNNKZxXZ4tz7SfnPPwSicCGSiczI71Mq0ePz29EIdibEXQUAu6V0PQ5LicOS4a6mIIrqgl8aMgMoFwjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 引言在机器人系统的设计中，如何在非结构化环境中兼顾高精度的轨迹跟踪与严格的安全避障，始终是一个核心议题。传统的控制策略，如人工势场法（Artificial Potential Fields），虽</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247615315&amp;idx=1&amp;sn=5b2d2ebe9b8750a551a2bd1507766725&amp;chksm=fa2d3f7221f81fcd5c531d3e8332d612f4276d8457f587a311dedfdf13fcacebf3b15afb37fb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 Jan 2026 18:29:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

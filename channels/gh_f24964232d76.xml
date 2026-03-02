@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[CUTLASS 笔记：导读 &amp; CUTLASS 笔记 (1)：Minimal GEMM Kernel]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbXibbLVNicx8UAxHQMX4m3wGXoWFlkxoRhKSIOrKIOm9UPbU3c1Pc9yFMohPuE0WOIMjnia0a6YOrhDltXpN2G6Hy5FtibHjdqcws/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：https://www.zhihu.com/column/c_1938664963049763058 作者杨远航，连载中CUTLASS 笔记：导读本 CUTLASS 笔记系列将从一个最小的 M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531084&amp;idx=1&amp;sn=3d385dbd3d4d1e1fa0b239f2d82c93fe&amp;chksm=9e065342e727d1298dd64cef48216ab513a899698e9c12f337cb2ac623016b42fbbac839fce9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 19:01:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[datawhalechina/self-llm 模型图查阅]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYdicWbnMxqsBpAe1zPZeaK2Y710u42GQGCkNCaZjYcZ7ZX2WNEoiaicrUV61KSeB6xUiaZ0FibTaicf25ySsokZb0E7BcFwowKCFKkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天搜索MinMax-M2模型结构的时候搜到了这篇blog：https://github.com/datawhalechina/self-llm/blob/master/models/MiniMax-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531006&amp;idx=1&amp;sn=dd4f4e127331e6db989b7b59b24e729d&amp;chksm=9e3db6fdc7c118ab903da3d06f27cb2633d9e0db4e570da68fd8fde90b02e136f9b09e09f8fa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uJJ1NBnsDLeW5djVPfTPINFBv33jNmkxx0CMxGVS1ySttmgLn3xVfFn620FZLOYPVKbjms7lxJ2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 社区与亚马逊云科技强强联合，将于2025年10月25日在中国北京共同举办 SGLang Meetup。本次活动将汇聚核心贡献者与行业伙伴，深度剖析 SGLang 在大模型高效推理、后训练</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529535&amp;idx=1&amp;sn=e75a524d4e4fc533d192562505307218&amp;chksm=9e90bd628381f0a8b65d3e5bf349dc21299d1121a3c65b1e2613bd4a61905654ad0a06db8cbe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 18 Oct 2025 23:07:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从DeepSeek V3.2 DSA算子看TileLang编译器的细节]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vP8PFy9VbkXnWqpCmmHPNX2evxexZogsHTyQcd2eO91RaHgrKk4nJKSJnnauSoUV0avicibENQl4Og/640?wxtype=jpeg&amp;wxfrom=0"/><p>从DeepSeek V3.2 DSA算子看TileLang编译器的细节前言的前言：最近假期正好回看了一点之前TVM时代的东西，才发现Ansor的一作，Tensor IR的作者正是SGLang的项目核心</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529530&amp;idx=1&amp;sn=077fdee889a4d780f80794ab0662d339&amp;chksm=9e75334707597d8fe6b0ff5944a204895ad00353529df8eed91c29c1af662d57367367651751&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Oct 2025 07:51:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
