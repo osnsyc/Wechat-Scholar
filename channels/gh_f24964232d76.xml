@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[CUTLASS 笔记 (2)：混合精度 GEMM kernel]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KahFH6aGImib2FE7dqsNvDGYicLCS6G9URNt04hz5b5EpwuJRTibKtm3bDs3icufo6xmRZ2wrLEo7t5a8mqCQibwAnNwQaxvWDiciaQgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：https://www.zhihu.com/column/c_1938664963049763058 作者杨远航，连载中CUTLASS 笔记 (2)：混合精度 GEMM kernel本篇将介绍</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531132&amp;idx=1&amp;sn=bc259e3b0d9535054e2b77eaf89ba854&amp;chksm=9e4bba8ce80bdd45c6718616e1e075849b0a67c234a4c9331a58454047b2f82c6631f87a5b96&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 23:18:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPU-MODE Leaderboards之nvfp4_gemv代码阅读]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KblX97N1MoMw25lLxKCRnoibBJTqqwBNQvCWb6BlCVjia3V6o6wUjlNJcvjZlG9Dd0iaY2VwpFyuS8uZaOZRI38ENllY7qfzWwsMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda 。0x0. 前言GPU-MODE 会定期搞一些 kernel 竞赛</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531098&amp;idx=1&amp;sn=b788ddcbeb7e1f39ac4d58329327869f&amp;chksm=9e1558e42296193486f2b56765b08eacf220d236a9dd5528c842abea3cdcdee2135c6c5395a7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMLZfWxcFVvKVicwtZDxpTiccwiaRQg1jPKljyNRhYricvdicuRj12aiaPEuS4qNgjKPTJPMbiatygyf26xfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一直有写技术文档的习惯，以前主要是自己写自己看，现在打算写一下公众号，看看能不能找到一些有共同兴趣的同学互相交流一下。TileLang 最近非常火（主要靠 DS 大哥带），我自己也很感兴趣，正好十一长</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529915&amp;idx=1&amp;sn=7efe21ce49574da4f4b2e51166da7fee&amp;chksm=9e4c53285746facc10d041b7c9c0c71d479124626501431cccb37c280b5f24972a320e24c581&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Oct 2025 09:52:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang 性能优化知识点2025-9月月报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3u75Ec8kBOnEYx8vfXu7rHyuibXaaJqeQlmLO3Y9ItQAlny3NatHnZ4uJXU6YGYZvtTOjuNgaoALuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文存储在：https://github.com/BBuf/how-to-optim-algorithm-in-cuda/blob/master/large-language-model-note/s</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529913&amp;idx=1&amp;sn=655411756bdcc4c59f47050914fe303c&amp;chksm=9e1789d381ac15d90fbc3ad161d91ac1413f5884f65375b89589192d3bbb6eb2ea5593128dac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 20:34:39 +0800</pubDate>
     </item>
   </channel>
 </rss>
