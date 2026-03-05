@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[一句话生成LoRA、长文档瞬间内化：大模型更新成本还能这样摊销？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAWuEI5EQib69hVvNSxYGcZRibsqxwLUksvv7r4WpXXXTqm0M7r0iaAdCsiaicibRicDuj3Bo6FSamkvmy6PibpKtYbFWQSicoYbZibCWnkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>显存暴降至 50MB！Sakana AI 提出更新成本摊销，打破长文本 KV-Cache 瓶颈。面对十万乃至百万级别的超长序列输入，Transformer 架构中呈二次方增长的注意力计算与 KV-Ca</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718294&amp;idx=1&amp;sn=98574ef7e60acb19a3894a5663f78549&amp;chksm=97739cba2912854d0c93689ad317439b3a588eee49739a6b7d3e49cacb2c72089fbf4e41d893&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Mar 2026 18:31:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播预告 | 约翰斯·霍普金斯大学肖超玮教授：迈向安全可靠的AI智能体]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBEWOMzQwxGwT35BwwwCbzYGQLibykpLHvKDyqYX3DQficEiaL3Eiblqicfqme7ibJ6a7Hq9TaOYA0CTphkJzNeGdpc5oHgd5RIGNfSo/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly × 星弧 STARC 科研觉醒AI前沿讲座 直播主题 迈向安全可靠的 AI 智能体 直播嘉宾 肖超玮JHU 助理教授、NVIDIA Research 研究员 直播时间 202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718294&amp;idx=2&amp;sn=446b752c9e6adf9dc95b05f1f67b9832&amp;chksm=975a84de4f2f711583904da24dfbbeac1a79b46dbdb65d02bf707f00a9abd73eb7dc36b2e1ca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Mar 2026 18:31:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Mac变身AI超算！用Claude逆向M4芯片，纯推理引擎跑通Transformer]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeC33Vj5smEjkxFNkWCK836qCpB6YbTJzKS50zfiaS5cP7kSzw5ib8sjqkrFia0BPgzraZF8ibWqvpzpFQDtD9IHJNZwrDYUQibLkhl8/640?wxtype=jpeg&amp;wxfrom=0"/><p>你的 Mac 桌面，刚刚变成了一台超高能效的 AI 超算。苹果 M4 芯片内置的神经网络引擎（ANE）原本有着严格的官方定位：仅限推理，其底层权限被彻底封锁。但在近期，一项系统级开源项目硬是砸开了这个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718241&amp;idx=1&amp;sn=c4cc6c6555827f1824bdb16c72150bd1&amp;chksm=97881288425def75721b5f32809e4951f193d3c3c99195532f2ab9f267c6ab48aeba2d7130c7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmMiciaMicCuhic6lib6e6TzoEDUwI6ticWvENMqEfRjsnWwHSBv0QZw9yGvtHfR0OPCl6fgacwFWUyNlMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>无需真实奖励，哪怕用随机、错误的信号进行训练，大模型准确率也能大幅提升？此前，学术界已经发现了一个令人困惑的现象：像 Qwen2.5 这样的模型，即使在 RLVR（带验证奖励的强化学习）过程中给予虚假</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717298&amp;idx=2&amp;sn=347f6895b983640f1b1947de98204660&amp;chksm=97e63d32df524b2a65b2a798db7240d742fe10348ff84e598298963e26df067ef9b81f7816af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 28 Jan 2026 14:23:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别CLIP！DeepSeek-OCR-2开源：首创视觉因果流，用LLM重构视觉编码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglNUHicrd7sxyefth8aGpOtc6hghRv8ia3abs5DCuHUPhcgcnnoRCejLD6abjknIR3XYPUDwlrlC1hA/640?wxtype=jpeg&amp;wxfrom=0"/><p>仅用几百 Token 读懂复杂文档？DeepSeek-OCR-2 发布：让视觉编码像人眼一样。在多模态大模型的竞赛中，文档解析始终是一个关键瓶颈。无论是早期的 CNN+RNN，还是目前主流的 ViT-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717257&amp;idx=1&amp;sn=a3aec70f61b99d4c3192d4e33f63db8e&amp;chksm=972c784287b6e9d5503aa381be49576a09fc01416222186f194c3d95826570323ea965cefe8d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 14:02:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AAAI 2026 | 告别Attention！北大清华首创波动方程建模，视觉速度精度双超越]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglNUHicrd7sxyefth8aGpOtc9UN9GdCd8xhic3FnaGiajeCyiaUepz4sVdx1Sx4pxrpC6Q3BYumXBa1xg/300?wxtype=jpeg&amp;wxfrom=0"/><p>“全局交互”几乎等同于 self-attention：每个 token 都能和所有 token 对话，效果强，但代价也直观 —— 复杂度随 token 数平方增长，分辨率一高就吃不消。现有方法大多从</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717257&amp;idx=2&amp;sn=9b768f8fdff60981caef96a2f7ccf1c0&amp;chksm=97c3f229141fb75c847e9d62336cf35ab6385d0d1dcc026b7dfd1478c9effbeb5b9cb4c7ee2e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 14:02:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
