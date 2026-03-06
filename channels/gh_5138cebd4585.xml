@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[Mamba作者再发神作：套娃式加速解码SSD，突破vLLM/SGLang极限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBib5c9SzgY5hxmIofKgz2r2C5OqjQ6quSlMqcxNz0I919ChJjmMqNt4ATGkbH6Vcyp2fGIDXAS80ibibZpia6PTX5KB5wCAqCxRgo/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型还在验证，小模型已算好下一步。全异步架构彻底终结解码串行等待。大模型推理的核心瓶颈长期在于自回归解码的串行本质。投机解码（Speculative Decoding, SD）通过引入一个轻量级的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718324&amp;idx=1&amp;sn=ba92d36ef9b1a19deef55b1577023d5f&amp;chksm=97bf6a6af8682f655d903392ec836b4d0a5e03ea6c8f59cb786a54cf50c4d4a88aa15710220d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Mar 2026 18:05:51 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2025 | 当系统算法遇上机器学习：GUARD开启学习增强缓存新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeACMD5DVlbWd0GsJ0Y7HPH39RkCAhNibwv3XAjC2MAbsfgk5EicLoP1GcNTfX1Vln52L9QmKO82ibFGvHSBxmNn19ZF3BdP9GT6Pk/300?wxtype=jpeg&amp;wxfrom=0"/><p>过去几年，机器学习在系统领域的“下沉”非常明显：它不再只做单纯的推荐、内容分类、搜索排序，还开始直接参与系统里的底层决策，例如基于 ML 模型的调度算法、缓存算法、负载均衡算法等。同时，ML for</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718324&amp;idx=2&amp;sn=38be1b0385dc474785f5f7f4b8bd56f3&amp;chksm=97068f0648688a560516498401e192702e22c94be3f0af6b04b23197420c8f3d107c710c13f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Mar 2026 18:05:51 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一句话生成LoRA、长文档瞬间内化：大模型更新成本还能这样摊销？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAWuEI5EQib69hVvNSxYGcZRibsqxwLUksvv7r4WpXXXTqm0M7r0iaAdCsiaicibRicDuj3Bo6FSamkvmy6PibpKtYbFWQSicoYbZibCWnkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>显存暴降至 50MB！Sakana AI 提出更新成本摊销，打破长文本 KV-Cache 瓶颈。面对十万乃至百万级别的超长序列输入，Transformer 架构中呈二次方增长的注意力计算与 KV-Ca</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718294&amp;idx=1&amp;sn=98574ef7e60acb19a3894a5663f78549&amp;chksm=97739cba2912854d0c93689ad317439b3a588eee49739a6b7d3e49cacb2c72089fbf4e41d893&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQrAa4ySZuUhu2I0jNQB2g6UR4Hh1mNrCSQ22KrThWhZHoR0bCTk79fRnSugGmW0iamZLwNT0W0FA/300?wxtype=jpeg&amp;wxfrom=0"/><p>眼下 CVPR Rebuttal 马上截稿，ECCV 的投稿准备也该提上日程了。审稿人写道：“Your method lacks comparison with recent work XXX（202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717338&amp;idx=2&amp;sn=a6097ceeb55007c39802caf08b459aa6&amp;chksm=97bb9c91a749a20d365b7acb16c049417f0a9f96239bfb331b016aebf96714552d7d9711bb85&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 29 Jan 2026 14:44:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[年度最勇投稿！手持300篇假引用名单踢馆，ACL审稿人敢拒这篇吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmMiciaMicCuhic6lib6e6TzoEDU5wXDaxbV4vBuksicMHUA331aGmwibxELREovbjQrC2hML8Tjjpzu5BWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>学术圈死亡名单？ACL 2026 投稿扒出 300 篇幻觉论文，附录直接实名挂人。如果你正看着手里的 ACL 2026 投稿，准备开始审稿工作，看到这篇题为《HalluCitation Matters</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717298&amp;idx=1&amp;sn=c96a107e85b244c0820fe2cb1003a37e&amp;chksm=97b0df9cea83b57dc91d308744a70cc218d9b9f6931657e4a927c394b9fe42eda867f0c7eb4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Jan 2026 14:23:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[破案实锤！Qwen用假信号也能拿高分？虚假的RLVR如何激活隐藏记忆回路？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgmMiciaMicCuhic6lib6e6TzoEDUwI6ticWvENMqEfRjsnWwHSBv0QZw9yGvtHfR0OPCl6fgacwFWUyNlMw/300?wxtype=jpeg&amp;wxfrom=0"/><p>无需真实奖励，哪怕用随机、错误的信号进行训练，大模型准确率也能大幅提升？此前，学术界已经发现了一个令人困惑的现象：像 Qwen2.5 这样的模型，即使在 RLVR（带验证奖励的强化学习）过程中给予虚假</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717298&amp;idx=2&amp;sn=347f6895b983640f1b1947de98204660&amp;chksm=97e63d32df524b2a65b2a798db7240d742fe10348ff84e598298963e26df067ef9b81f7816af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Jan 2026 14:23:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
