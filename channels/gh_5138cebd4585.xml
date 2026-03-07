@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[普林斯顿陈丹琦团队：免微调破解长文本衰退，推理性能提升25%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDmESFw83eBHyIQzCs2I0bhicbqKDmzgicPAcXI3WWo93w313ogD5IkDyoneMzsoEWTYER8Hq60fEiafnmZibAUgBM0M5ov4HVUZn4/640?wxtype=jpeg&amp;wxfrom=0"/><p>128K 长文本频频失忆？陈丹琦团队提出纯解码算法 DYSCO，免微调让推理性能提升 25%。当前各大模型厂商在技术报告中都宣称支持 128K 甚至更长的上下文窗口。然而，实际测试表明，随着输入长度的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718380&amp;idx=1&amp;sn=94c4f935d7cac4703440a242751bb4f3&amp;chksm=97a7fc025fcd34024b5f190b0ee2163f024656916aa64f9b995ca6c5c0bc6959cba8022ffde7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Mar 2026 21:41:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICLR 2026 | 图模型也能合并？多任务融合框架G-Merging，仅5%参数反超微调]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeCY97aAtmeenMzhdK4XfmsEZ7wds38QR0rIdPJ8FkVzFCzAMNZQ1jyQQWWqr6W7oQ3ddCq367iaYacqGfaOMJdrVUluLItkCyr0/300?wxtype=jpeg&amp;wxfrom=0"/><p>研究背景不同行业的图数据具有天然的差异化特性，使得图模型的学习面临着更严峻的多域多任务泛化挑战。在图学习领域，基础模型范式——“预训练 + 下游微调”的范式成为主流。研究者通常先在大规模图数据上进行自</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718380&amp;idx=2&amp;sn=687835b447161183c889769a50c61276&amp;chksm=974a4640442c2fba8b6ad0d930959cc34dfb0356b328234631f4b3c845d4ec519a913c9781de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Mar 2026 21:41:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Mamba作者再发神作：套娃式加速解码SSD，突破vLLM/SGLang极限]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBib5c9SzgY5hxmIofKgz2r2C5OqjQ6quSlMqcxNz0I919ChJjmMqNt4ATGkbH6Vcyp2fGIDXAS80ibibZpia6PTX5KB5wCAqCxRgo/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型还在验证，小模型已算好下一步。全异步架构彻底终结解码串行等待。大模型推理的核心瓶颈长期在于自回归解码的串行本质。投机解码（Speculative Decoding, SD）通过引入一个轻量级的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718324&amp;idx=1&amp;sn=ba92d36ef9b1a19deef55b1577023d5f&amp;chksm=97bf6a6af8682f655d903392ec836b4d0a5e03ea6c8f59cb786a54cf50c4d4a88aa15710220d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglmYSL2CwK0SgDg6djXgHC08NRE0icnMM8ttiaawXvmzv5ruaYCCsR2saGNLv3XJM35z2jC5IlTGh2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型在检索增强生成（RAG）和文本摘要等任务中表现出惊人的潜力。然而，“忠实度幻觉”（Faithfulness Hallucination）——即模型生成的回复与其提供的参考文档不一致或</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717371&amp;idx=2&amp;sn=7a8a2d64e6014e72b8132f68f776ed17&amp;chksm=975b836a4aeeb8b1284b5d9e640db72c8d683f6ce90a999d9ed512c77e030da8c5db51748a59&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 30 Jan 2026 17:06:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[拒绝调包！纯NumPy手搓Ilya推荐的30篇论文，连反向传播都是手写的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQrAa4ySZuUhu2I0jNQB2gm3lLCOORiacWCZWfpgoIcHCic6GKnp5jsgZibTcpaPMFu3xRufvEiahOZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>面试官让手写 Attention？看看这个纯 NumPy 项目，从底层彻底告别“调包侠”。Ilya Sutskever 曾给 John Carmack 开出一份 30 篇论文的书单，直言如果你能真正吃</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717338&amp;idx=1&amp;sn=0e0978348694bee2d2b51af070dde292&amp;chksm=977c2f9ae234207b7c9f9b6637467583ec0bc08fc7c624a1e0033c67a5d8f616b9554cc5ed83&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Jan 2026 14:44:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Rebutta还在手动查文献？Paper2Rebuttal一键生成有理有据的学术回复]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnQrAa4ySZuUhu2I0jNQB2g6UR4Hh1mNrCSQ22KrThWhZHoR0bCTk79fRnSugGmW0iamZLwNT0W0FA/300?wxtype=jpeg&amp;wxfrom=0"/><p>眼下 CVPR Rebuttal 马上截稿，ECCV 的投稿准备也该提上日程了。审稿人写道：“Your method lacks comparison with recent work XXX（202</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717338&amp;idx=2&amp;sn=a6097ceeb55007c39802caf08b459aa6&amp;chksm=97bb9c91a749a20d365b7acb16c049417f0a9f96239bfb331b016aebf96714552d7d9711bb85&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Jan 2026 14:44:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

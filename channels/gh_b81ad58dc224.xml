@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-3-6）：FlashAttention-4里程碑开源，2CTA MMA+条件softmax解锁底层性能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZLiaN5xUGF51mCFuhMk6jb1JEGmE4wEIwGM5EkYUjeUnnsZjgzgdbhS2jHahF4M2j8JEZgpbsWcQabQjIVk3p8QRDicFITRE70Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：FlashAttention-4★FlashAttention-4是深度学习领域里程碑式的Transformer注意力机制底层高性能优化算子。该项目针对NVIDIA Blackwel</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501741&amp;idx=1&amp;sn=25ff7dbf1932060c53ada30d36db3bd1&amp;chksm=c043f7ad762b7a519cef914e1f12d8e0f0dbee74548779427a2530465d9ffeab5fd54a8c3fa8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Mar 2026 18:39:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-3-5）：源Yuan3.0 Ultra开源，统一多模态架构+LAEP算法打造企业级万亿基础大模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFawoz7KiamcLzwcoDNf8OpicBsodf4UBr2FF3icJjyIYgibzbvribqXrkBFw1qwsjyI54yoGGmFchOyjYicoEic19ymP1gILneHpnsa9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Yuan3.0 Ultra★Yuan3.0 Ultra是一个多模态基础大型语言模型，专为企业级场景设计。它采用统一的多模态模型架构，集成了视觉编码器、语言主干和多模态对齐模块，能够协</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501729&amp;idx=1&amp;sn=8942febe64055ea9e8a7625a7184278f&amp;chksm=c0a77097c8fbbf5adb40c7388a2417dda340c42bd64ac0e9ef8e0cc7fe117fc893467f5144ab&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzQ4Kn3JjytVz56B2rJYNRRavJvRNRIFkZ7JcHsx40kmfibMKbfHRzaOQtZyuiajzLjTqMYm0xSyJbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：T5Gemma 2★T5Gemma 2是Google开发的一系列轻量级但功能强大的编码器-解码器研究模型。该模型通过将预训练的仅解码器Gemma模型改编为编码器-解码器模型而构建。T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500977&amp;idx=1&amp;sn=f089371e042edd5fa0e8745a6cd635d6&amp;chksm=c099b07355db73b5c2b8baadccbe03f990ebcf90335c98fcfe754a5908c787c90f6bdc1a3a9e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 19 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-12-18）：小米开源MiMo-V2-Flash，以多令牌预测技术降低推理成本，实现大模型性能与效率双赢]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwF5s30VicOLwAZ6kpDo51FudglNL4YmiaQCooWsGEDrOPjk51DxibhUAVchibIqMD1zxMKxS3fmjf54w/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：MiMo-V2-Flash★MiMo-V2-Flash是一个拥有 3090 亿总参数和 150 亿活跃参数的多专家（MoE）语言模型。该模型专为高速推理和智能工作流设计，采用新颖的混</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247500957&amp;idx=1&amp;sn=83f23b567c15fafc94b6e76be2a0bbc0&amp;chksm=c0ade365f12ef219e1c093ca118990f19a68f33c29822789dec7bc9827fa8c709073412944aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Dec 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
