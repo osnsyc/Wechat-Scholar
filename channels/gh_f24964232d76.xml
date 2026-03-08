@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[chardet 从 LGPL 变 MIT：一场 AI 重写引发的开源风波]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbnW3cKicIJARjT2gJFGXq6YPKtgicpp73A45AiaqduFbMticmzldAmblaXvbP1pLTqvbprtrNqx0uaRdwheuTye8H66qstMK1kmYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言相关帖子：https://github.com/chardet/chardet/pull/322https://github.com/chardet/chardet/issues/327</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531165&amp;idx=1&amp;sn=2cce8bbb64847dccc9383cddb9e9e381&amp;chksm=9ecb2e1e5a0ccbd5c5d84c1641c19a4bfd0db4c80ac20b8ad8cfe297da9191e14ed194a09519&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Mar 2026 18:09:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[早春枇杷开始出货]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbhKyENWhVXouxrE04LDPjr9l7l5iaDgP85ybfCyefPBvB9Odobc3cuPB3AYKG6AM236viaQ3rmuPW94ou66zjVG4iaNZRkdbPPXo/640?wxtype=jpeg&amp;wxfrom=0"/><p></p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531142&amp;idx=1&amp;sn=a9011e8e071736ab0775cdbb7fd839ec&amp;chksm=9e89ccff729496bb51ec6751d6483b3ceab544144cc1127ea2cc721dd529d6190325c07475c1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMLZfWxcFVvKVicwtZDxpTiccwiaRQg1jPKljyNRhYricvdicuRj12aiaPEuS4qNgjKPTJPMbiatygyf26xfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们已经了解了 GPU 的底层架构和性能模型，现在需要一个工具来将这些理论知识转化为高性能的 kernel。一般来说，写 kernel 有几种方式，最底层的是直接使用 cuda/ptx进行开发，这种效</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529931&amp;idx=1&amp;sn=4ba894e4c302aad779fdf6cc82df0979&amp;chksm=9eb95e895160aa732bcf7385db495a8d8523fdfdb2dfa92b3db35814d4ac1982d638bdd5d3c8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Nov 2025 12:58:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang 优化Triton FusedMoE 的一个新技巧​]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3vibKLuHia2RI1iaJZibGosjmXDWrPKVZv4hFCt3hEGJbz4iaW4bznKEwslohj5zWOHoSEicicweDA8UbBPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Antgroup最近在SGLang中提交的一个针对FusedMoE的优化，也是一个有趣的发现，这里就学习记录并广播下。0x0. 前言最近蚂蚁在SGLang中提交了一个优化PR（10567(https:</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247529929&amp;idx=1&amp;sn=a13d40bb052e38987e412e914c327a8c&amp;chksm=9e8fdd9bbd689f796d24d1892726f26dcb90b469ffae6faa4b7f7c77d527188ae965aa065edd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 00:25:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
