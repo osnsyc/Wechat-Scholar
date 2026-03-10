@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[首个Token为何沦为数值垃圾桶？LeCun团队解构大模型底层机制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCiaic9LaGThP8NMd8c7gI3gAwM0UDfoKOm7WyYF5gvuODdtwVHQkK9tHUpLzu5ox4rdSrQad8JeRMPt1Or9jwVyE3HtEum22c0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>学术界长期以为大值激活与 Attention Sink 强绑定，LeCun 团队打破了这一常识。在 Transformer 架构中，长期存在两个如影随形的内部计算现象：大值激活（Massive Act</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718429&amp;idx=1&amp;sn=acc781d42bc5f002a118ca174108403e&amp;chksm=97bb4f6fe3b5c7143fb7bac34730fb4e8a9d93ac9397a6760f136066f6824d0367ac603d0495&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Mar 2026 18:32:30 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人大 × 字节团队破解muP理论分歧：用谱条件统一宽深Scaling]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAAH55oX0ULiaV2IQWCakCzvdibKuJLJEvTGw87iaT4cKMibhib7eUhdxic21wDYmJYKuNvelzN4ovaNRPpXGqAGhvHxuwq7BwwQhV80/300?wxtype=jpeg&amp;wxfrom=0"/><p>©作者 | 郑晨宇单位 | 中国人民大学研究方向 | 机器学习理论概要muP 由于其能够保持模型特征学习稳定、解锁超参迁移能力的优良特性，已经被广泛应用于大模型的宽度 scaling 之中。然而，相较</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718429&amp;idx=2&amp;sn=57395d8f3129db925cb854847f66c196&amp;chksm=97c95a0af6a293b85d745c532bde34909ab462b787099f56794f1b901d7e9a82c49577a0f026&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Mar 2026 18:32:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[普林斯顿陈丹琦团队：免微调破解长文本衰退，推理性能提升25%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDmESFw83eBHyIQzCs2I0bhicbqKDmzgicPAcXI3WWo93w313ogD5IkDyoneMzsoEWTYER8Hq60fEiafnmZibAUgBM0M5ov4HVUZn4/640?wxtype=jpeg&amp;wxfrom=0"/><p>128K 长文本频频失忆？陈丹琦团队提出纯解码算法 DYSCO，免微调让推理性能提升 25%。当前各大模型厂商在技术报告中都宣称支持 128K 甚至更长的上下文窗口。然而，实际测试表明，随着输入长度的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718380&amp;idx=1&amp;sn=94c4f935d7cac4703440a242751bb4f3&amp;chksm=97a7fc025fcd34024b5f190b0ee2163f024656916aa64f9b995ca6c5c0bc6959cba8022ffde7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhgnYwFLFVr4hhEf8IYvgpjocXbg6Ih9LkwEuQnKntmE38yFoLpz6Fz0g5htK5fCEH9bfKQhtXy9vgA/300?wxtype=jpeg&amp;wxfrom=0"/><p>直播时间：2月1日 9：00-12：20会议地点：湖州师范学院论坛信息OpenKG将于2026年2月1日举办主题为“知识增强大模型新发展”2025年度论坛。论坛由两部分组成：特邀报告部分特别邀请了来自</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717395&amp;idx=2&amp;sn=2f341bfa3fd38baae50ed410f79246ad&amp;chksm=977a0c194b5e5f838c14c2529e77997b30f3d06cb8b36636dae7d4d12e5f37d69f5d408f16ab&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 31 Jan 2026 14:44:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026开年新风向：上下文即Teacher，三文详解Self-Distillation新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglmYSL2CwK0SgDg6djXgHC0xhWwMLmYoUbWJzLtt3EYkJxV44G5545obicKIdrGtOtucwLkdy8OLzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 开年三文连发，大模型如何靠上下文实现自我进化？最近几天，MIT、ETH Zurich 和 UCLA 等团队，几乎在同一时间提交了关于 Self-Distillation 的重磅论文。虽然它们</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717371&amp;idx=1&amp;sn=bdb28be69e94c492f2121eda55e794c0&amp;chksm=97aafe13ab63b2e76921a3f083079dbbe8fcd37f9706ceb5302c4d4134a4c27a7c7279f4b00a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 30 Jan 2026 17:06:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别黑盒！清华发布FaithLens，首创强可解释性的大模型幻觉检测利器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VBcD02jFhglmYSL2CwK0SgDg6djXgHC08NRE0icnMM8ttiaawXvmzv5ruaYCCsR2saGNLv3XJM35z2jC5IlTGh2g/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型在检索增强生成（RAG）和文本摘要等任务中表现出惊人的潜力。然而，“忠实度幻觉”（Faithfulness Hallucination）——即模型生成的回复与其提供的参考文档不一致或</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717371&amp;idx=2&amp;sn=7a8a2d64e6014e72b8132f68f776ed17&amp;chksm=975b836a4aeeb8b1284b5d9e640db72c8d683f6ce90a999d9ed512c77e030da8c5db51748a59&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 30 Jan 2026 17:06:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
