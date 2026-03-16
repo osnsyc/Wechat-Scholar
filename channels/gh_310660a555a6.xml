@@ -10,6 +10,12 @@
       <title>gh_310660a555a6</title>
     </image>
     <item>
+      <title><![CDATA[ICLR 2026 | ProxyAttn让代理注意力头“划重点”，免训练实现无损稀疏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/avbavrTSpian76r8r0wooS09nMSSACcIPMzpgCCYBBTCwibFlhWvUf0ibXPbczf8ZdiboGWxPw3oiaG43aFl8wCDVPfUcx0ncKRPiblYCbx5DaicFs/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心观点：现有稀疏注意力方法多在“序列维度”压缩，容易丢失关键信息。ProxyAttn 另辟蹊径，利用长文本下注意力头表现趋同的特性，在“Head维度”进行压缩。通过一个“代理头（Proxy Head</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&amp;mid=2650816418&amp;idx=1&amp;sn=7678e39e57e3839a3df0c2728189629a&amp;chksm=8d9cb23ef748592a7600f7be1533aec692c49f5c2de51d443e74fcbd22eb0cde5de53b1dc138&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Mar 2026 09:37:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[思维链的“脆性”真相：哈工大赛尔ICLR 2026论文揭示输入扰动对推理的影响]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/avbavrTSpiamMcEiaNf1eqgegicbtyojLHU9GqZfXM2ZzoRiccfP4tGle458Y0dRWMp9Le7u2j28c1BibLvibtWcia3r3SG61ib57sX7UToh0WF2O70/640?wxtype=jpeg&amp;wxfrom=0"/><p>思维链技术（Chain-of-Thought, CoT）是一种有效增强大语言模型（Large Language Model, LLM）推理性能的方法。通过要求模型在生成答案的同时提供推理过程，来引导模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&amp;mid=2650816417&amp;idx=1&amp;sn=a9abc35d224c365825575aca7221d1f7&amp;chksm=8d9d4512b22f0b0aeb4a726081fa23c6f1db29e631b11317e4666bf2cd54d40553714aff3aef&amp;scene=0&amp;xtrack=1#rd</link>
