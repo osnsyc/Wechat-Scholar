@@ -10,6 +10,12 @@
       <title>gh_310660a555a6</title>
     </image>
     <item>
+      <title><![CDATA[ICLR 2026 | 2% is enough：用最少的代码，做最精准的测试样例评估]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/avbavrTSpial0gsdg885EcibyBYC4vHCEheS1iaXqFhHtBvgFicSnyRIcLGUh2zqsHIKPW86gjQ21zJSCYThnsLUanStOiceqNRdV6jRVVRTMmao/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型代码能力评估和代码强化学习基于测试用例来提供正确性。然而，人工编写的黄金测试用例稀缺且昂贵，由 LLM 自动生成的测试用例质量又缺乏科学的衡量标准——现有评估方法要么依赖海量错误代码暴力比对，计</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&amp;mid=2650816419&amp;idx=1&amp;sn=49a7bc695931c0cb9c167bd3d9ac52a4&amp;chksm=8d167e314119bbf0923bd02aaf509bbc9d3e9e529c375245c7b9053911d6f7206ad753bfe0d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 14:22:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICLR 2026 | ProxyAttn让代理注意力头“划重点”，免训练实现无损稀疏]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/avbavrTSpian76r8r0wooS09nMSSACcIPMzpgCCYBBTCwibFlhWvUf0ibXPbczf8ZdiboGWxPw3oiaG43aFl8wCDVPfUcx0ncKRPiblYCbx5DaicFs/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心观点：现有稀疏注意力方法多在“序列维度”压缩，容易丢失关键信息。ProxyAttn 另辟蹊径，利用长文本下注意力头表现趋同的特性，在“Head维度”进行压缩。通过一个“代理头（Proxy Head</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&amp;mid=2650816418&amp;idx=1&amp;sn=7678e39e57e3839a3df0c2728189629a&amp;chksm=8d9cb23ef748592a7600f7be1533aec692c49f5c2de51d443e74fcbd22eb0cde5de53b1dc138&amp;scene=0&amp;xtrack=1#rd</link>
