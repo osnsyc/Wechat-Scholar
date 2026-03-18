@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-3-17）：NVIDIA发布Nemotron-3-Nano模型，融合Mamba-2与注意力层实现一体化任务处理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFYJsWpPBcX3HsyFGDIalTfzVKKqbBh9tuc99JWfEgwo2yMUq7ibwib9Rib2uUuhIV0YRlDC1ZPFIhR5xpf04ibHFJbjukT94ZSIaew/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Nemotron-3-Nano★Nemotron-3-Nano是由NVIDIA从头训练的小型语言模型，旨在统一处理推理和非推理任务。该模型通过生成推理轨迹来响应用户查询，并最终给出答</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501825&amp;idx=1&amp;sn=05299b7347041062538f30eddd8d09a7&amp;chksm=c03b1ae714e4be9734b593fac10a2e695e83acf3945f058f7fd1ab59ff143b644a8ecdb1a82d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-3-16）：通义发布统一配音模型Fun-CineForge， 依托CineDub-CN领跑中文影视多场景配音技术]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFbsWYbQ6vezLrniaB0apUAs5EHDepe6ReZCK7Q7Rr1v2g5E3NSL3lGa933GQicgDwZDHGJcgrSzZ64b15bT7fXxaaKNMvrpoxiaRs/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Fun-CineForge★Fun-CineForge是一个用于多样化电影场景的零样本配音的统一数据集管道和模型。通过该管道，我们构建了首个大规模中文电视配音数据集CineDub-C</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501814&amp;idx=1&amp;sn=e0617e7704ad666f0f3a5c8ea75ebc45&amp;chksm=c063278778ac79bf541a091e00e7197e2d7bd4d887db82d95f2bb9d7608adbf694f3cde4dbf9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkwtQgiaPrgIGpUoiaTgUV8pVwgPwSaicGIxr5DjqtkuxgSPWcPzXAmshcJNWdtWwxbmNnLgVmYPAcrQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Hunyuan Translation Model 1.5★Hunyuan Translation Model 1.5版本包括1.8B和7B两个翻译模型，支持33种语言的互译及5种方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501139&amp;idx=1&amp;sn=0413b9d45f37f2e55ee7783fed70a7d1&amp;chksm=c00012860410117acdbdb5d995c444d3955c989f37e88cf9a20a83e5d1b3b85627dea704d6da&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2025-12-29）：腾讯推出WeDLM-Instruct，并行解码+硬件加速赋能高性价比大模型推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkx3yGddhJFB3auII674QDibHwqyCF9tpnZz4NIebfv8DZx4FMAMoLG8dOF3eBJFFDOTaMdg5XXfJOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：WeDLM-Instruct★WeDLM-Instruct是腾讯推出的旗舰指令微调扩散语言模型，能够在标准因果注意力机制下进行并行解码。该模型从WeDLM-8B微调而来，专注于提高推</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501109&amp;idx=1&amp;sn=6b00c3f13a0101d020e7c6857f4ff8be&amp;chksm=c0eba47a61aac4a93c7845933232196ca2b1aab7ea9e16a6feeb06c4c95df8ed8aed6b7a5215&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Dec 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
