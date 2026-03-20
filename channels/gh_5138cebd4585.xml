@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[Kimi弃用残差连接背后：苏剑林第一视角解析Attention Residuals]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBN70CqziaLBC8FCGdhHATF7BvJedzlJcIO4fEbkZCVrKEw7VSeJa5eVlpTTzBddAEGwiazk5uniaR9tADWY6Hz2ZPSXQ9cNlYjhs/640?wxtype=jpeg&amp;wxfrom=0"/><p>放弃残差之后，底层架构该怎么写？苏剑林用这篇文章，还原了他们把 Attention 加进层间连接的全过程。©PaperWeekly 原创 · 作者 | 苏剑林单位 | 科学空间研究方向 | NLP、神</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718782&amp;idx=1&amp;sn=ff904ff58d178097a1e38141d43f7118&amp;chksm=97069cba95455286dfae4fe0a747182d7792770db461b43674f12b84102b53f4416de5a9df93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 14:19:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团ICLR 2026专场直播：从后训练到多智能体，解码Agent前沿技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAGbq2hvlJBvSmPzk0LMTX776YzyXGYNCxxibTrZm9xEaPkiaRvFc6SkutobicDcU22qRjArRoibmcJZKmZtWcWn5DAoicLZibKJlpPk/300?wxtype=jpeg&amp;wxfrom=0"/><p>ICLR（International Conference on Learning Representations）是机器学习和人工智能领域最具影响力的年度学术会议之一，与 NeurIPS、ICML</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718782&amp;idx=2&amp;sn=225c2a65332f0b97362fc260622ebb95&amp;chksm=97eba594a8c5a325e320a97833ceb3a43ef7354c810665f1fd250d8e1d16359fa49752e2ceb2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 14:19:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[凌晨的GPU终于不闲置了，我用M2.7跑通了自动化科研流水线]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDJ4LTnyQqzFrzLxIXqlRA36tANv1HTQKGnc6zBGVS5k4HylibgASKVica8YlzNQiaxI8REekCAeEXvR1pJpaqrv0ThpSSEP5VK0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>不看榜单跑分，我们直接让 M2.7 接管了查文献、修 bug、跑实验的科研流水线。过去一年，业界大多把精力卷在了外部的 Agent Harness 上，任务编排与工具链越做越重。但面对真实的复杂业务，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718745&amp;idx=1&amp;sn=7390c5e1c4d468d7303316f43852d09a&amp;chksm=97f2ce9064d521f883737948bc2ad33bd291c4131a76fe613874452a9f84c1aa2d8bf7e04491&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAssFyj7qLpqib9IT9MjUx4UzNZwM2FhQBzYzAmw3VdeytUic9RZ7ibaTmvqBhUgibEibDkrkHqLp1G0ibsiarGvJPN2Bej3WNlU7iawOc/640?wxtype=jpeg&amp;wxfrom=0"/><p>通往 Software 3.0，AI 开始自己写 Python 代码进化大脑了。在 Agent 开发的深水区，记忆（Memory）始终是一个无法绕开的痛点。尽管基础模型的能力日益强大，但在推理过程中本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717713&amp;idx=1&amp;sn=510f1f777d24715f669a7a8ff84f51af&amp;chksm=97a926e1d6386f1ca706426c1ad5448861496bb7628ca3ac8c3d6e0ce31cf94e9971836373af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Feb 2026 23:55:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Transformer范式变了？稀疏线性混合架构SALA发布，单卡5090跑通百万长文]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBjdic1hJVtohQWSxV3VmJLyQjEicibBiccDmCWAbfqc4GCT44hTsYrU7W9K1iaZob3UEarZzSQCM67NKEAqYbyQvZFPnic7xoCZzRico/640?wxtype=jpeg&amp;wxfrom=0"/><p>众所周知，Transformer 及其核心的全注意力机制（Full Attention）虽长期占据大模型架构的核心地位，但平方级计算复杂度、高额显存占用的瓶颈，早已成为实现超长上下文处理与模型规模化应</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717653&amp;idx=1&amp;sn=c54862e8f17cf4ff1b4eeb18896f38f4&amp;chksm=97c0fc4c97a2f4fb754ee229b08f262d429aea370025eec0a8539e4231a0d640fd31b5ce51e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Feb 2026 13:50:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 LoViF大赛启动！邀你攻克真实场景视频去雨雪难题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeA02pwUCnKMibYwibp52iaIOnamoDc6FDmlibyUCKia9xIGBPiajeuicBotALVaYCbGNolIJRgbXg0svMeu16sRK63a7icWkoQXINjDdnE/300?wxtype=jpeg&amp;wxfrom=0"/><p>研讨会简介第一届 “生成式 AI、偏好优化与智能体系统驱动的低层视觉前沿（LoViF）” 研讨会将于 2026 年 6 月与 CVPR 2026 同期举办。底层视觉正经历一场范式转变，传统的图像复原方</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717653&amp;idx=2&amp;sn=36cd8ba3c1242b54b921f0749b882d0f&amp;chksm=9757ede5881857a33e2e42fa1ae7d264ab27b3a0aa9f4c18c6e7af0e86af8bf10480ffb5b32e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Feb 2026 13:50:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
