@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Attention之后，Kimi终于对Transformer的残差连接动手了！附论文英中对照版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlV4eLbiaWvUEuN3ZXkyWPbFqY854JDiaxP1ia6S3icsLBHAticPCg3Bfzl1tfgD9vDb72xbt9BzAiaT3RsaibEicp7EtVwRyggB3Aq6t8/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年，大模型圈子里最受关注的，往往是注意力怎么改、专家路由怎么做、上下文怎么拉长，但有一个几乎所有人都默认不动的部件，其实一直埋在模型最核心的位置：残差连接。《Attention Residual</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451313&amp;idx=1&amp;sn=74928bee842f8cabdce45ccbcdd9221c&amp;chksm=bff72b059b039980ee7c88df20fe92f6c72024615be2e76c004e52b2ac52ffcd65bfc1b98ae6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Mar 2026 18:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[InCoder-32B：北航发布首个面向工业代码的代码基座模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkgTcKOECwHhYcFicX9TNibAPHkiaPc4wDFWv3I6Rib1Pf6giaRQ3wfwicmIa9tNw6upghup2v9ic22iaEwHGmHDQqh1VUO8qWamsp4zj4/300?wxtype=jpeg&amp;wxfrom=0"/><p>https://huggingface.co/papers/2603.16790🔥 芯片设计、GPU 内核优化、嵌入式系统、编译器优化、3D 建模……面对这些高度专业化的工业代码场景，现有代码大模型能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451313&amp;idx=2&amp;sn=8315b75da48228d48d8b042e55e9e5d6&amp;chksm=bf12d8fe86b8e02831704acf6af2bf421f1589c9210a330a53a87deab7bf117686b283ae1851&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Mar 2026 18:31:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PRDBench：Code Agent 评测范式，正在被重写]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnLjG0hePYMop1icC6v5uWib7blRoyxV6xGhhQ51IKW0KgxqgUIzC6PeRibu3VPsibOuX01sJ6KEjS2DWbic3wRqwDCjaJxTsLIgcCU/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年里，大模型写代码的能力几乎是指数级增长的。从最初的代码补全，到函数级生成，再到如今的 Code Agent，模型已经不再只是“写代码”，而是开始承担越来越接近真实开发流程的任务。从 Copil</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451265&amp;idx=1&amp;sn=114325dd79741eec7298b5ecb1a846cd&amp;chksm=bf061617beff1a474781ee654b73f200bbe12a32204345b674159641d0dd317c2ebc558c0f3d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKTscia9JySITURASibaSGyhyeujKXicW0CmYhhJ67drquYpgHviacZRCgiaZ9FOzzg1wunPiaV11iaN9Jibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在过去几年里，CLIP + ViT 几乎成为多模态系统的默认视觉编码范式。无论是 OCR、文档理解，还是通用视觉语言模型，图像都会被切成 patch，然后按照固定空间顺序送入模型。这种做法在很多自然图</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450840&amp;idx=1&amp;sn=766661fd05638b80bd29f5344481581f&amp;chksm=bfd4b891a5dcbf3f136b1747b3f612fe0202804822e300e3695042109642d669a7259a840c41&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 28 Jan 2026 11:28:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI大模型面试题300道]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKibLTALvJjNibDJic8GNRXkzOzBlcBNWx6mHQQ3icIbLUbYCLaTIlG80kBemqM493bnKicZTMTZkawyMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>你是否也对 AI 大模型充满好奇，想系统学习却不知从何入手？或是看了大量零散教程，依然感觉知识不成体系？别担心，我们为你整理了一份涵盖学习路径、实战工具、面试真题与行业前沿的“AI 大模型全景资料包”</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450829&amp;idx=1&amp;sn=9b3fa64a46543585b2059d6ea1bdd15f&amp;chksm=bfe2f382fbabadb9781ac6217f4fce94d1d889067c89b1047cb51e8580e751ae69dc8351edb1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 10:01:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[离谱。。一篇一区SCI“值”100万？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSLLu7lBEAtZ0IZG0h5cM9VQhs2EakSOsb8mADiaEtwl0UXb2KB65PlkLehGengHtgv0dGXibwc0hX9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>前几天看到一个非常炸裂的讯息，觉得必须得分享给大家！某高校通知最近直接炸翻学术圈：发一篇一区SCI论文，直接奖100万！实打实的现金激励。知道优质论文值钱，没想到这么值钱！全网评论区酸了：“好家伙..</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450826&amp;idx=1&amp;sn=137af9f25c0b7bd7d9120cefb5ffbf22&amp;chksm=bfcc81573f08a94a32d47066eb9152aa19f77b03cc9abb90f1579da93f37b8827c8042f881ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 10:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
