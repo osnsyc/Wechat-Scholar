@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[在线RL与离线RL的本质区别是什么，在LLM训练中又如何权衡？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnhLzlK8RBuaHbLnCIEV6eEcvgSONV1bMPawNPT31zeVOngydMk8VYibwNqrOEIQa7f53NtJBAwLHWg9wV7AC2zZibpFD4chfJqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：硅基趣玩喵https://zhuanlan.zhihu.com/p/2016080986690041206 一、背景LLM强化学习训练面临一个核心架构选择：是使用在线RL（Online RL</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451318&amp;idx=1&amp;sn=2b4f63d06f69843cd4c2c3553228bed9&amp;chksm=bf4e270bb15a9057e45468bd9ad0137e6a8be7be8d937428cf2f5a3b32df2b8edb21ee1848ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Mar 2026 20:13:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Attention之后，Kimi终于对Transformer的残差连接动手了！附论文英中对照版]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlV4eLbiaWvUEuN3ZXkyWPbFqY854JDiaxP1ia6S3icsLBHAticPCg3Bfzl1tfgD9vDb72xbt9BzAiaT3RsaibEicp7EtVwRyggB3Aq6t8/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年，大模型圈子里最受关注的，往往是注意力怎么改、专家路由怎么做、上下文怎么拉长，但有一个几乎所有人都默认不动的部件，其实一直埋在模型最核心的位置：残差连接。《Attention Residual</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451313&amp;idx=1&amp;sn=74928bee842f8cabdce45ccbcdd9221c&amp;chksm=bff72b059b039980ee7c88df20fe92f6c72024615be2e76c004e52b2ac52ffcd65bfc1b98ae6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/xVWCsm1jox8BIVJx8Qx8qfulIEEdSXhrosdQicQibAic2xng7faoVG9AmZ8eg2wUZPBPnf2EdicC4NFT6EWQtibwJmw/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI Coding 已经疯了。我也在一边根据本能在使用，同时也在学习一些新的技巧和方法。直到看到《认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境 - 知乎[1]》这篇文章</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450854&amp;idx=2&amp;sn=6270f8e2d791ce7cd9288dea2e9d409d&amp;chksm=bf241961d8147e75e6e5ed111b5075404c097d3b855562d9edd79525c7d37bb0a20da07fed0c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 29 Jan 2026 19:52:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别固定扫描：DeepSeek-OCR 2 用“视觉因果流”，重构多模态阅读方式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nW2ZPfuYqSKTscia9JySITURASibaSGyhyeujKXicW0CmYhhJ67drquYpgHviacZRCgiaZ9FOzzg1wunPiaV11iaN9Jibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在过去几年里，CLIP + ViT 几乎成为多模态系统的默认视觉编码范式。无论是 OCR、文档理解，还是通用视觉语言模型，图像都会被切成 patch，然后按照固定空间顺序送入模型。这种做法在很多自然图</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650450840&amp;idx=1&amp;sn=766661fd05638b80bd29f5344481581f&amp;chksm=bfd4b891a5dcbf3f136b1747b3f612fe0202804822e300e3695042109642d669a7259a840c41&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Jan 2026 11:28:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
