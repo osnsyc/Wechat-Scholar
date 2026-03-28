@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[重构原生多模态！美团发布纯离散基座，真正实现万物皆Token]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAsPVNacUp7EOslNceEVZnv0V3ibPibEvdkzIFeDbNNibicJt9Lez7kwhSOQ2RcGcTvm6ianALE9SGSibd9tkZnPo7TwcoNw61KEPajU/640?wxtype=jpeg&amp;wxfrom=0"/><p>美团新开源的这只“LongCat”，用清爽的纯离散逻辑，一口气把图音文全吃透了 。所有的物理世界信号，最终都能收敛为同源的离散 token 吗？长期以来，视觉信号的连续性被视为自回归建模中一个难以处理</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718984&amp;idx=1&amp;sn=8ec344f61e783a8f762ee76ee66149ac&amp;chksm=97e4b15245f5a03dbe450af95a84e0f877dee9dba5db9dcb3946b5153cb4115e2147ca3d0eab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:18:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[补全Query Norm缺失！哈工深团队重构线性注意力，显存直降92.3%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeCqGq6aljicWYdPWaicyk0k68kUdiaPksdzKjgrkc9dQcl9771j3DKfynpHkibibxU9MiaxSWyvMb0x9wB1iaZXrP4zLgh8hpebp7nHHg/300?wxtype=jpeg&amp;wxfrom=0"/><p>当 Transformer 席卷计算机视觉领域，高分辨率图像、超长序列任务带来的算力与显存瓶颈愈发凸显：标准 Softmax 注意力的二次复杂度，让 70K+token 的超分辨率任务直接显存爆炸，高</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718984&amp;idx=2&amp;sn=a2030ead6510be1126d4b569e5922068&amp;chksm=97fd2cd748f290728cdabcb21a8366c206204178c808e7ac14840e4f740cc65374dd8c4beb5b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:18:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICLR盲审6.33分！AI写论文超人类均分，重磅登上Nature]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCVWTDo55UBucsxLXzO1QLXOvt4QREcQJLeUtt120YIy1ibP4h5NyBlcv7UGSNE1VggHicWMonZjyALFsia7vibLUzyvPvjT7LUwK0/640?wxtype=jpeg&amp;wxfrom=0"/><p>想 idea、敲代码、写论文一手包办。首个 AI 科学家征战 ICLR，盲审稳超人类录用线。全面自动化科研的设想，刚刚完成了首次实质性落地。由 Sakana AI 联合牛津大学、UBC 及向量研究所共</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718937&amp;idx=1&amp;sn=cc09dd82f2eed159903541aafaa5316d&amp;chksm=97ab94fc55de71767ca5cd1fb5cf466b51f62ed30e83551abfa033316fc4a818efaf506315a3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBAO489UsWwDYYdCAE2zR7TEjFpHMJqJqdeSAtAALFbeqMGNakgKzXxjhYRUcjUS8TQofqhOtWLvm7wfe4fE1T94qSwJ4jYLicw/300?wxtype=jpeg&amp;wxfrom=0"/><p>数据翻倍性能腰斩？GAPL 用原型学习以 90.4% 准确率实现破局。在AIGC 技术快速演进的背景下，图像生成模型已经从早期的 GAN，发展到 Diffusion，再到近年来兴起的 Flow Mat</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717961&amp;idx=2&amp;sn=125102c76bb9196524ae2acaf1662e2d&amp;chksm=979190d8b54488d2704a5c0684fcf4f12065d0769a60c3ce492e66f0948eaa064c7e33e287d1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Feb 2026 19:37:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 2K星！Edit Banana一键解剖AI像素图，变身可编辑PPT/Drawio]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeASk5hfC1mLPFveoJqc325ftbn9UuuM0eGCxg4gs5KvtWyQLxWuI8vP1MMsfdbF7La3BXrlfPsEPeFR8MpNPwyGC2iciaNuOAHl8/640?wxtype=jpeg&amp;wxfrom=0"/><p>打通 Vibe Researching 闭环，AI 图秒转可编辑 LaTeX 与 PPT。AIGC 生成流程图、架构图只要几秒，但微调一个错别字却要半天？当用户还在拼运气重绘和手动重画之间反复横跳时，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717922&amp;idx=1&amp;sn=ce0092954f9d00caefbdec5cfdc8d0e4&amp;chksm=97bbb9804059a130951f7ad1bb7c07aeab41b39f6ba5ae0cd54464f432ff19c6c9c087db2ba6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Feb 2026 22:04:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[还在盲目堆数据？用SAE特征空间指导合成，2K样本轻松追平300K SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBgJmL9k5aWOicnBCiaFRic0UoIWrLSutbh8ibWN8p7fV3oLOiclMstTBduf2wx30DRianJDXtYUUfBNo6GM91XHU7WTA7ZP2QrRcPCM/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型后训练阶段，训练数据的多样性直接决定了下游任务的最终表现。为了覆盖尽可能多的长尾场景，当前主流的做法往往是不断扩大合成数据的规模。然而，构建后训练数据时，现有方法大多依赖基于文本层面的指标（如</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247717922&amp;idx=2&amp;sn=7a0fbd933a37cafa9a34f9755bb078a6&amp;chksm=9737e89f48ae0a95e615d427f9b3bb7799182d3cebe7f31daa18329940b11e74caeae6d590cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Feb 2026 22:04:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
