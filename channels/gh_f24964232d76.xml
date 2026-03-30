@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[把Codex装进飞书：在手机上远程开发SGLang推理框架（文后送书]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZpvW4iabH5dWCNI7Xich69DRRZakxvDmgrhIYAibUMBcwCK1XFso9Ar66fDFbibS0tzAEEmvpTmFMh1k8WI7lvMuVwdmFrZW7Q2lY/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言在前面的记录下SGLang开发，优化，debug的技巧之大SKILL时代已来临和Codex正在重塑传统推理框架开发流程里，我更多聊的是一件事：Agent 时代，SGLang 这类推理框架</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531265&amp;idx=1&amp;sn=c8584f2502c5820522f10a3e0c51930c&amp;chksm=9e4b2171f9611822daa02915e3c9d749c6d97736ce105bbbd62dab8ae045374b72e8cbca2b79&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 30 Mar 2026 14:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[记录下SGLang开发，优化，debug的技巧之大SKILL时代已来临]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYvTo99bK8QOY2OTlOyxlexfKWgje99of9ISRKvS64mUj737T8VZVC0QKkU2myNCjAhZMUzx03EjS3t0g8gAnbklRiaxN90BicBo/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言之前在记录下SGLang 开发，编译和Profile的几个小技巧和记录下SGLang 开发，debug的几个技巧第二弹中，记录了一些 SGLang 开发、debug、profile 的技</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531254&amp;idx=1&amp;sn=0f2843c8012d4101428e533560cb5777&amp;chksm=9e6c91b97df545b68ef670fc5c4b6954616eab40490baf7a7944fb0bbee41fdaa6fddc08b963&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMKibkOJB9ubxNic873Xw5tNLjGibxJfvc9lSze1iaE94FaUWs5YS21vgViaQojTc0CcO7plWOeibueoPTjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Attention 的性能瓶颈在哪里一个训练场景假设我们在训练 GPT-3 规模的模型，序列长度 2048，hidden dimension 12288，96 个注意力头，那么每个头的 head_di</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530017&amp;idx=1&amp;sn=b371552cb2ac520aaf0cbd93d18e9947&amp;chksm=9e7617c4ee12585c50112ab4f3746c660f8e802a720d5816c625d016664e6411646a66692a30&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 16 Nov 2025 13:08:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[All-in-One：NVFP4 / MXFP4 数值体系、PTX / CUTLASS / Triton 与 量化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMLod77CJ2YR4DGyp00w0oeLibENSxQicibZAJ3kEsE56SCEW7AUtyE1mAdN3ABvP47Me4QIkwbOIiax0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 背景：为什么会有 Microscaling FP4（MXFP4 / NVFP4）1.1 为什么是 Microscaling FP4，而不是 INT4INT8 量化已经成熟，但推到 4 bit 时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530015&amp;idx=1&amp;sn=913361cebc1a3fb4dce22403055734b9&amp;chksm=9e0a44bd9d6605c100d91c2437a5344237f907146783001ef15647d074bb5da9d9367105615e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Nov 2025 18:13:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
