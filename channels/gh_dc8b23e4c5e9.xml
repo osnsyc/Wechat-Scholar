@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[AGI研习社]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[AGI研习社公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/UsichrXlnR9JSVM8nJDC67uiaXy5hgl42rKYhSUAuumoTq78ORlvNiagNyXs5RHwzupXytAad7GaK0/132</url>
+      <title>gh_dc8b23e4c5e9</title>
+    </image>
+    <item>
+      <title><![CDATA[Trace2Skill 解读：把“单条轨迹经验”蒸馏成可迁移的 Agent Skill]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaIibeyGFdmHG5By9gtaV1DdP1kYvSqgfsfwBtooBhveBx69GAG6OwETBtbrevP7cFL9pXZx0poB8niaFKTVblzwjUauMkCfLQq9gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先说结论这篇工作最有价值的一点是：它不把经验当作“检索记忆库”来使用，而是把大量成功/失败轨迹中反复出现的规律，蒸馏为可直接注入系统提示词的 声明式技能目录 （SKILL.md + refer</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485473&amp;idx=1&amp;sn=593d3dc1daa9f96b89dd2fc7fbf4a219&amp;chksm=c05d8fbe62ac30dded5ceef5085b8292fe2980b668f5de572e038964b4cf92e5dbfddec4d462&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 30 Mar 2026 21:32:50 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[主流开源大模型推理框架日均PR量飞涨的真相]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYUOxHS5VrHCNutG8ORaaokibw1Zl2wTHqqib14o02dXyDu0nQ4MI1yVTqGfKcNIXsC3dq91BT3YzmG3xoOGdM9co7QKTvk48xHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天在Codex里面试了一个prompt，内容如下：然后得到的结果图如下所示：手动校对了2个日期都对得上。注意到，2025年7月之前两个最流行的大模型推理框架的日均PR提交量都是20-30区间里面，然</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531285&amp;idx=1&amp;sn=77a0708bf7d56a62bc50fcb4aab582c6&amp;chksm=9ee222550ef1a43b45606eedade2c8db718a8e8738fe5f4bcb43e7d0bbcddc3ef87c25a47987&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 09:39:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[把Codex装进飞书：在手机上远程开发SGLang推理框架（文后送书]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZpvW4iabH5dWCNI7Xich69DRRZakxvDmgrhIYAibUMBcwCK1XFso9Ar66fDFbibS0tzAEEmvpTmFMh1k8WI7lvMuVwdmFrZW7Q2lY/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言在前面的记录下SGLang开发，优化，debug的技巧之大SKILL时代已来临和Codex正在重塑传统推理框架开发流程里，我更多聊的是一件事：Agent 时代，SGLang 这类推理框架</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531265&amp;idx=1&amp;sn=c8584f2502c5820522f10a3e0c51930c&amp;chksm=9e4b2171f9611822daa02915e3c9d749c6d97736ce105bbbd62dab8ae045374b72e8cbca2b79&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3s1S1tIR7xniaEspGhjhzUcTG46UHHiaYic6vHXFcNYeRmzObSQs6MObJjU3MGZejCW77IvDduicXiaB7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言这篇文章记录了SGLang的sgl-kernel中优化 moe_align_kernel.cu 的过程（https://github.com/sgl-project/sglang/blo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530044&amp;idx=1&amp;sn=28bb51fdcba47bb76311338de41a4401&amp;chksm=9e0b139e2c7cd410829037ac2cee3dea133adf36c7f1a5f2d4332a59ffc6915be01bbcf53759&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Nov 2025 23:21:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FlashAttention 完全进化史：FA-4 发布之际的技术全景回顾]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W9hhBhdzaMKibkOJB9ubxNic873Xw5tNLjGibxJfvc9lSze1iaE94FaUWs5YS21vgViaQojTc0CcO7plWOeibueoPTjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Attention 的性能瓶颈在哪里一个训练场景假设我们在训练 GPT-3 规模的模型，序列长度 2048，hidden dimension 12288，96 个注意力头，那么每个头的 head_di</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530017&amp;idx=1&amp;sn=b371552cb2ac520aaf0cbd93d18e9947&amp;chksm=9e7617c4ee12585c50112ab4f3746c660f8e802a720d5816c625d016664e6411646a66692a30&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 16 Nov 2025 13:08:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
