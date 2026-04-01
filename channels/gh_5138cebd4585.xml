@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[嫌Muon太吃算力？Mamba作者团队巧用Gram矩阵，实测提速两倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeD6T9QtaU16MSWibrXQNeicJLmVovicz13OMr6OhdrHQHxUsNsjUhPRXpSm2KlYYyZsAsYbpwa9GNFPBwibOsre1jYleDJviaPR0Kuc/640?wxtype=jpeg&amp;wxfrom=0"/><p>万亿模型训练的免费午餐，一个数学 trick 让 Muon 提速 50%。在万亿参数大模型的竞逐中，训练效率的细微差距往往关乎巨大的算力成本。近期，Kimi K2 与 GLM-5 等前沿语言模型开始广</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719075&amp;idx=1&amp;sn=941220588e7309aaecfa9f766de7c442&amp;chksm=97c6edff861f1a03d0538a6e2500581672d0d91544c8256e88a9e6d29e0b483ff053707ea807&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 17:36:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GNN能debug吗？北大团队开源GREPO，10M小GNN超越大型LLM]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCE1fBQ5VDekxl4iamwwHtL4SPsJE2w5f6gQr2SNgLlqwQXXpU1ohBolEMvntf77xItEny9V8jes9R31qGdmptykcapdmWJ5e24/300?wxtype=jpeg&amp;wxfrom=0"/><p>仓库级 Bug 定位对 agent 很重要，但是难度大面向软件工程的 Code Agent 快速走向实用，它们已经可以在真实仓库里完成根据 issue 去浏览代码并修改，在运行测试通过后提交 PR 的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719075&amp;idx=2&amp;sn=02e2f98c5fc9695d314e86a7f0261465&amp;chksm=978f845b41488c6124bdc59a7869b47053eaa1eaaa070e432e12dc08a0edadce2730e2c77613&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 17:36:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Yann LeCun的世界模型路线图：14篇论文梳理JEPA演进史]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAiaicfLNgMaiamlSDBuyL7H7LXtPvm8iaxE0JqkDkSGgrEAib2t5UyuHM4eA3SclKCVI0icP4TIqum88rFVFKvKib0a9EGxgzpFW5KhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>放弃像素重建，绕开自回归：14 篇论文看透 JEPA 世界模型演进。Yann LeCun一直在走一条与主流大语言模型截然不同的路。当行业焦点集中在模型参数规模的暴力扩展时，他将研究重心完全放在了世界模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719022&amp;idx=1&amp;sn=db4092e368f5affa7c290847d00d877c&amp;chksm=97194d20e9f44e3d212c06924f1099277db7398d9f8dcde8bd1f42ac27f00f3b2bbbc74b8ec7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCqhL8Dcre6w9VMAyNzfUQTeK32oQl1B9My79HJ7Po8R6rVAW1dqZpPD33TPaIUkEnWT2dKjRpEJFJRTib7rNibNRjvPXIQHia7Dc/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：Does LLM Focus on the Right Words? Mitigating Context Bias in LLM-based Recommenders论文作者：王博浩、陈佳</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718066&amp;idx=2&amp;sn=51d708263e802a02fbb90c8f0daf5d37&amp;chksm=97dddac9ee90f8d6b3693f179286fd7b6466baed8b85698d20ab4bda1a113e1dfc3ebdae4c5a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 07:10:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让Claude和Kimi接管真实系统，跑个实验差点把服务器干崩了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeD86awynks6IxX0gEEqIbtg4vKsdPqXb3SyFF0McfoBZV9n1B3C1TFM47Ks7RDBZ2oZribvvq79gLNkLTCGDuiafoBM6hDvt0iaic4/640?wxtype=jpeg&amp;wxfrom=0"/><p>把最高权限交给跑分无敌的基座模型，换来的不是自主智能体，而是删库与死循环的灾难。平时看各大模型在 Benchmark 上疯狂刷榜，似乎离真正可用的自主 Agent 只差临门一脚。但真把底层工具调用权限</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718008&amp;idx=1&amp;sn=7fb65e64bd7565b688cd18aa82599504&amp;chksm=97254a423183ff5cdfa09a7e476689bf082c4a6e56b0412d463a6cac6e1eca7d9db83335768f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:19:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[揭开具身智能黑盒！清华等团队破译隐藏动力学密码：极限环编码行为]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAKBAl7utbiaOleDJFeaeMlP4BurhibDX62yp6849lLqJQXibqWF2CYB9uPqiaxibSlMAafUNrCwCozERriaicQcJhhAaQYTWgfFTyCT8/300?wxtype=jpeg&amp;wxfrom=0"/><p>Sapient Intelligence 与清华大学近日在 arXiv 的一项横跨两类训练方法、3 种网络架构、7 大任务的系统性研究发现：元强化学习训练出的具身智能体，会通过神经状态空间中稳定区域的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718008&amp;idx=2&amp;sn=b72e53a2c4a860dc886abf29eb1ce053&amp;chksm=97ffca71a488432d77ff7f6c39f550f20b6adb47000634785ff82b5d6910f4730492e29ffa99&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:19:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[为什么 Self-Distillation 会“越训越短、却越训越笨”？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaIicXTTqaIF9bGibTAzqiboicvF87uUQYZmUw4JfeaMABHYaGxczf3T0iaLNfbNB7SxX8zYYNib7SkwWwgOuBvLhgqjrXSBZAFyxxF0m8/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 一句话先看懂这篇论文这篇文章的核心发现是：Self-Distillation 在很多任务里确实能让推理更短、更快，但在数学推理这类高泛化需求任务上，它可能会压制模型表达不确定性的能力（epis</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485504&amp;idx=1&amp;sn=814ccf42a5faa864d27a9981159367b9&amp;chksm=c0f4c8885aeb078163ec194fcf2fd42e7af8345181e3361c5aabc484e3e43ceea9b5d056dc6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 21:44:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Trace2Skill 解读：把“单条轨迹经验”蒸馏成可迁移的 Agent Skill]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaIibeyGFdmHG5By9gtaV1DdP1kYvSqgfsfwBtooBhveBx69GAG6OwETBtbrevP7cFL9pXZx0poB8niaFKTVblzwjUauMkCfLQq9gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先说结论这篇工作最有价值的一点是：它不把经验当作“检索记忆库”来使用，而是把大量成功/失败轨迹中反复出现的规律，蒸馏为可直接注入系统提示词的 声明式技能目录 （SKILL.md + refer</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485473&amp;idx=1&amp;sn=593d3dc1daa9f96b89dd2fc7fbf4a219&amp;chksm=c05d8fbe62ac30dded5ceef5085b8292fe2980b668f5de572e038964b4cf92e5dbfddec4d462&amp;scene=0&amp;xtrack=1#rd</link>
