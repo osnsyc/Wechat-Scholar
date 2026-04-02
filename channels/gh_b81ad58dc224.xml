@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-4-1）：claw-code复刻Claude Code核心，Python版先行Rust版加速，发布2小时破5万星]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFYCo04AnsHyUOn0bwdrKUODZcCJWbxbWOXNKH4759krU6dDsaeicu4WKpdQns5JicVZyAb0oFOmOYEejdOnZyMzkWduZTibvwtZRE/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：claw-code★claw-code项目采用干净室重写方案复刻了Claude Code的Agent Harness核心架构，无专有代码版权风险。当前Python版本已可用，正在推进</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501954&amp;idx=1&amp;sn=e19b612b4d04d0034c18bcfaf67d9a47&amp;chksm=c03fc32af7c358f28e916175d7e7262278c1fdcf047018f8d38b70c8dd129235ac632a268c16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 19:42:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-3-31）：北航团队正式发布 InCoder-32B，专为工业代码智能设计，128K上下文覆盖芯片、GPU、嵌入式五大核心域]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFbGgUtzVYAsROAibAAl3clKScezEAqY4rZZBvlWETMzoictdcpBoEp7SW0ibDsiaia0OGBrbHd3Yl7NtDoeU0MHxIwRRPYdU1e3dgcs/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Industrial-Coder★Industrial-Coder是首个专为工业代码智能设计的32B参数代码基础模型。它旨在解决一般代码LLM在处理硬件语义、专业语言结构和严格资源限</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501943&amp;idx=1&amp;sn=2400bc44ddb2107ed2f351ea285dde68&amp;chksm=c050391a628ec28d0c6d56a38cb3c6ff0da0d63481a05c2fc3ad9631bc33e95a3dea9cf78577&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkzdY4WicrXJrlGN01A1QAH2pVoTlR9O7QhNcVUBiaQx9ibYO9XETHv7sdfx1E1Gvda9QZL0sMqTXuXOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Step-Audio-R1.1★Step-Audio-R1.1是阶跃星辰推出的原生音频推理增强模型，以96.4%的准确率登顶全球权威语音推理榜单。模型优化了模态锚定推理蒸馏（MGRD</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501359&amp;idx=1&amp;sn=1de0e5e9e22c59f7ecd25252acff1a43&amp;chksm=c0097dc7e3a14be5cd803df864a784d7bb0d11bd443daec836d2cffeec74a45d08da4b8cffdc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-1-14）：智谱×华为开源GLM-Image！混合架构强化精确语义理解，文本渲染+复杂信息表达表现优异]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/GU2ibjU7TDkx8fd9K17EmppBYNRiaWkiaGYq4qeic7wvmZYdRAskdiaB8JJ8wPbgylXwWjVyTPJ8NQibNnfyaagZ6HTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：GLM-Image★GLM-Image是一种图像生成模型，采用混合自回归和扩散解码器架构。在一般图像生成质量上，GLM-Image与主流潜在扩散方法一致，但在文本渲染和知识密集型生成</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501348&amp;idx=1&amp;sn=00053e38ac4bed70e20c3790ef3f8aec&amp;chksm=c08623adcefc44baee248ad48ed982072208cc8ff4ba3a1869b8b1d293b816f39d5ef54dbde8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

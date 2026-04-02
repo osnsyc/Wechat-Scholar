@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[Claude Code泄露的源码里，藏着一套让AI学会「做梦」的记忆架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDAPwicjorhSbgPicQ8UjpNAYUe0O3JBb7Dyib0YibsSMOsoVYibY2hp5tPBdnsST8Vs56wWDzBcsiaPm0HDVSicDkp6gWJRS3MZ3P9C4/640?wxtype=jpeg&amp;wxfrom=0"/><p>当其他大厂还在卷跑分时，Anthropic 已经把大模型调教得越来越像一个“活人”了。因为一个忘了删除的 .map 测试映射文件，Anthropic 遭遇了史上最大规模的源码泄露。超 50 万行 Ty</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719132&amp;idx=1&amp;sn=05bcc269d24bbf57e59fabb8b4dfdbce&amp;chksm=974fd32efe1797e861241081b3ed0b049683b9d193a52dd358fdf4133f2241fbb2ff0a6c5643&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 18:50:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团ICLR 2026中稿精选：突破Agent长程记忆，解析混合专家模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDgOhtxOzibFdVNdwIs6HYhWL4kSI6icp7r2LDGfcEvvvtV7JLAmLg42vuia6WKtHBpjrNBI9QYMuMpNcRudvT8Nz9WOG5RkCpZnM/300?wxtype=jpeg&amp;wxfrom=0"/><p>ICLR（International Conference on Learning Representations）是机器学习和人工智能领域最具影响力的年度学术会议之一，与 NeurIPS、ICML</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719132&amp;idx=2&amp;sn=36bde90db4ae108ba87b942459c21324&amp;chksm=97e4dbc90afb31aff51ef603a785936031280a9b55bf677f0c151f3d60b8ea980f7d9d0532aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 18:50:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[嫌Muon太吃算力？Mamba作者团队巧用Gram矩阵，实测提速两倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeD6T9QtaU16MSWibrXQNeicJLmVovicz13OMr6OhdrHQHxUsNsjUhPRXpSm2KlYYyZsAsYbpwa9GNFPBwibOsre1jYleDJviaPR0Kuc/640?wxtype=jpeg&amp;wxfrom=0"/><p>万亿模型训练的免费午餐，一个数学 trick 让 Muon 提速 50%。在万亿参数大模型的竞逐中，训练效率的细微差距往往关乎巨大的算力成本。近期，Kimi K2 与 GLM-5 等前沿语言模型开始广</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719075&amp;idx=1&amp;sn=941220588e7309aaecfa9f766de7c442&amp;chksm=97c6edff861f1a03d0538a6e2500581672d0d91544c8256e88a9e6d29e0b483ff053707ea807&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBzTPzIAab1maicfoykGh5WeEdydOTRVUd1ib22YoZh2agdAAnSr08TUvUeCyzXj73DkmCiacZ9Il59PZ9F9OdPkicV1mhdoraAJTc/300?wxtype=jpeg&amp;wxfrom=0"/><p>弃用 SFT！Li Auto 团队发布多目标强化学习新框架，文本摘要直接媲美GPT-4。文本摘要作为自然语言处理（NLP）的核心任务，其质量评估通常需要兼顾一致性（Consistency）、连贯性（C</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718119&amp;idx=2&amp;sn=e8386b0265174b3d40bb2ac631806e1e&amp;chksm=972f4e35de15d8596d7ab011cf95c34906880a124b18c5df43148ab590916d47be2d08c3367b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 28 Feb 2026 13:12:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[V4底座浮现？DeepSeek唤醒闲置网卡，「双路径」破解长上下文I/O瓶颈]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBoib633vZusGE6HfmILicYQgTTiaiaEEHTibP1QSvsaaWAETcaxKvcRwicP7EkT4utEaOJ8eZld0tiaD76qKklssicWDqffMRY2vMl3V8/640?wxtype=jpeg&amp;wxfrom=0"/><p>告别算力苦等 KV 缓存，DeepSeek 全面重构底层链路，令多轮推理吞吐量翻倍。随着大模型全面向 Agent 智能体演进，系统推理的瓶颈已实质性转移至 KV-Cache 的存储 I/O 环节。面对</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718066&amp;idx=1&amp;sn=27ecab7f00ba5039b04f0a22030e55c0&amp;chksm=9754ecc2f7f001731f6d4c846994d38d83d300925f924a5feae7f591c7c7e1ef80d0022578a4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 07:10:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WWW 2026 | 大模型推荐真懂你吗？首次揭示微调中的上下文偏差]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCqhL8Dcre6w9VMAyNzfUQTeK32oQl1B9My79HJ7Po8R6rVAW1dqZpPD33TPaIUkEnWT2dKjRpEJFJRTib7rNibNRjvPXIQHia7Dc/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：Does LLM Focus on the Right Words? Mitigating Context Bias in LLM-based Recommenders论文作者：王博浩、陈佳</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247718066&amp;idx=2&amp;sn=51d708263e802a02fbb90c8f0daf5d37&amp;chksm=97dddac9ee90f8d6b3693f179286fd7b6466baed8b85698d20ab4bda1a113e1dfc3ebdae4c5a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 07:10:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

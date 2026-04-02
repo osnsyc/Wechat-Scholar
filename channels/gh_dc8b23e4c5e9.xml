@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[LongCat-Next 解读：把视觉和语音都“词元化”，统一到一个自回归大模型里]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI88zutKm1jPiaZNEeJiaLMwPDib6R9bo1UcfqednAgias3WjibL6v3ufRAo94CEAviaT368kUbibjHpujPmUvu8NZZ5cVxVdZ3vQe1gdY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文要解决的核心问题很直接：为什么多模态模型总是采用 “语言主干 + 外挂模块”，而不是像语言一样被原生建模？LongCat-Next 给出的答案是：把视觉、语音都离散化成 token，并和文本</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485549&amp;idx=1&amp;sn=7dc90af47eeecfec55a71d1a44745500&amp;chksm=c0a0ba3550a58cb8273278059e3ca5b4f5e129692abf35d0cff1bbded8fb91e22a11d1188f4c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 22:16:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[为什么 Self-Distillation 会“越训越短、却越训越笨”？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaIicXTTqaIF9bGibTAzqiboicvF87uUQYZmUw4JfeaMABHYaGxczf3T0iaLNfbNB7SxX8zYYNib7SkwWwgOuBvLhgqjrXSBZAFyxxF0m8/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 一句话先看懂这篇论文这篇文章的核心发现是：Self-Distillation 在很多任务里确实能让推理更短、更快，但在数学推理这类高泛化需求任务上，它可能会压制模型表达不确定性的能力（epis</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485504&amp;idx=1&amp;sn=814ccf42a5faa864d27a9981159367b9&amp;chksm=c0f4c8885aeb078163ec194fcf2fd42e7af8345181e3361c5aabc484e3e43ceea9b5d056dc6f&amp;scene=0&amp;xtrack=1#rd</link>
