@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[Meta-Harness：把“调 Prompt”升级为“自动进化整套 Harness”的端到端方法解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI9YPicmWCSwa0FhcicUib6Iq9EITF7NNzDOdqWJZFNyWwKiaUTDGtBU2Po5pMGeVYVfIiaP7owPCjmt5wMWDMeMfVVg2bicTYNQhnpm4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先看懂这篇工作要解决的问题很直接：在 LLM 系统里，真正决定效果的往往不只是模型权重，还包括外围的 harness（记什么、检什么、怎么喂给模型的代码）。作者提出的 Meta-Harness</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485559&amp;idx=1&amp;sn=e9bac8bfd67c2a1433fa6e33c4a4a5aa&amp;chksm=c015487a9134ab72c0f41dd8d3dea71f78131890946cc51cfa4411137bd52fd3aa5f50fa31dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Apr 2026 21:36:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[LongCat-Next 解读：把视觉和语音都“词元化”，统一到一个自回归大模型里]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI88zutKm1jPiaZNEeJiaLMwPDib6R9bo1UcfqednAgias3WjibL6v3ufRAo94CEAviaT368kUbibjHpujPmUvu8NZZ5cVxVdZ3vQe1gdY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文要解决的核心问题很直接：为什么多模态模型总是采用 “语言主干 + 外挂模块”，而不是像语言一样被原生建模？LongCat-Next 给出的答案是：把视觉、语音都离散化成 token，并和文本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485549&amp;idx=1&amp;sn=7dc90af47eeecfec55a71d1a44745500&amp;chksm=c0a0ba3550a58cb8273278059e3ca5b4f5e129692abf35d0cff1bbded8fb91e22a11d1188f4c&amp;scene=0&amp;xtrack=1#rd</link>
