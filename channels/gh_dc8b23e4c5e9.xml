@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[HybridFlow 解读：把 RLHF 从“能跑”推进到“可编排、可扩展、可高效”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIicViaKyh3KA2W0YmyB2icMbsJ5XiaraicIsRYKumZ0l1U74jYiaggh8QY6PCoMCMTSwT98gpkDTvJeAWVfvop709y3mSONS2WnjJ6icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先说结论这篇论文解决的核心问题是： 现有 RLHF 系统要么灵活但慢（单控制器），要么快但僵硬（多控制器） 。HybridFlow 通过“层次化混合编程模型 + 3D-HybridEngine</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485594&amp;idx=1&amp;sn=8c3fbb9e644aa100fd64a3bc8da0f273&amp;chksm=c07017b9098352427d6433a2ba21875f82e17640488c251c9ce75ddff0ca407f1bd34c3d9c02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 22:29:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Meta-Harness：把“调 Prompt”升级为“自动进化整套 Harness”的端到端方法解读]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI9YPicmWCSwa0FhcicUib6Iq9EITF7NNzDOdqWJZFNyWwKiaUTDGtBU2Po5pMGeVYVfIiaP7owPCjmt5wMWDMeMfVVg2bicTYNQhnpm4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先看懂这篇工作要解决的问题很直接：在 LLM 系统里，真正决定效果的往往不只是模型权重，还包括外围的 harness（记什么、检什么、怎么喂给模型的代码）。作者提出的 Meta-Harness</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485559&amp;idx=1&amp;sn=e9bac8bfd67c2a1433fa6e33c4a4a5aa&amp;chksm=c015487a9134ab72c0f41dd8d3dea71f78131890946cc51cfa4411137bd52fd3aa5f50fa31dc&amp;scene=0&amp;xtrack=1#rd</link>

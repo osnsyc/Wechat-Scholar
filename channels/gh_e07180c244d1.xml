@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[南洋理工提出 FileGram：首个文件系统行为记忆框架，让 AI 智能体真正“懂”你的工作习惯]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9tSbkGemZHTsichByLqO1e3lAzBQcjOKzBW4coxCZvPEYDDk4dqVDgLGqnnJPwibZ6fNXuU5yaHO4JKjKtcTZPnz1ibltsiaJy6yY/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知道你有没有想象过这样一个场景：你新入职一家公司，还没来得及开口，你的 AI 助手就已经帮你建好了文件夹，命名格式完全符合你多年的习惯，甚至连你习惯先看邮件再写报告的“小动作”它都了如指掌。这种“心</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247658586&amp;idx=1&amp;sn=3cdc437514f63ecedf75fe94ee06f07d&amp;chksm=976411e0917d21e23b9e4cb6b05458ae29cc7d6ad99894019e66f3b8e9f02c7f989c6022bc64&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 23:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CVPR 2026 Highlight｜ V²-SAM：面向 Ego–Exo 场景的跨视角目标对应与分割]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9VlsWASiaIhoia6QwUFgNqNzU6r2CYB6oKZOWobB0vPuX3nAd4ibm5ENI4gg7zsOPApqKNuhAeDzhiam9mEFP4sTDGpyiczTaxLGQc/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实世界中，跨视角场景（例如典型的 Ego–Exo 场景，第一人称和第三人称视角）中的目标对应与分割任务（Cross-view Object Correspondence）充满挑战。由于视角变化、尺</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247658558&amp;idx=1&amp;sn=bf2c993bd6df5218ea588a5a5d01c685&amp;chksm=97954bf4a4f6bdf80c4281b2c9d920a96a73732ae44836ce0e84029de1e7fdfdf5166e48236e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 21:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[可合成一切3D异常！华科大等提出Synthesis4AD，利用多维几何基元算法和多模态大模型实现一站式3D异常合成与检测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW88By2wQXcSl34aibe2TJcLiaA0EMicLPalqib2m5A2ysp7C8dpb0YP9vPq8H6Z595Ageiat1ic3zNUIHEpWWX2sKagqTNuOYjy6jxnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 3D 工业缺陷检测中，“异常样本稀缺”和“长尾分布”一直是实际落地的痛点。仅仅依靠正常样本进行无监督训练，模型往往难以对真实世界中复杂的物理损伤建立起有效的特征表达。为了解决这一问题，来自华中科技</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247658475&amp;idx=1&amp;sn=b5d84e057513fffbf3e8004bafceb69b&amp;chksm=97adbc0b87a56c8571094d969b6597d0dd71ec8345f624abc0bf19c6b251d4dc29fe1971489a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibpleia6PeicafZ4pwMIvyY2qKMay7qQWKojlVWzs0EdfcicMcXiawe8Bic14VxiaBLKtWrJZveVOcpVibV2piahKfjicz3zKIibaR1F21qY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在计算机视觉领域，从单张图片中恢复出精确的人体3D网格（Human Mesh Recovery, HMR）一直是个极具挑战的课题。虽然我们已经有了像 SMPL 这样经典的参数化模型，但在面对“野外”环</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247656183&amp;idx=1&amp;sn=bec9067173db179f1a73fd9ddc21b530&amp;chksm=97a7284ccaa336b5cdb7d360b47a6ac81d20399c0748ecf2d7fcf36ad60937618e3942a983ae&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 21 Feb 2026 12:22:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[mIOU 性能暴涨 13%！ConceptBank 登场：为 SAM3 打造“概念词典”，解决开放词汇分割漂移难题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWicRZ2xJX94m5nG9LGJJXyg07ZULhoa57via81m8lbcUScUiaQmeWB83IBFVELFRMQ70rhMgBof46uLjKp0JPJlA5VL0kzAjNnWaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为视觉分割领域的“六边形战士”，SAM3（Segment Anything Model 3）凭借强大的提示词驱动能力，在开放词汇分割（Open-Vocabulary Segmentation, OV</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247656166&amp;idx=1&amp;sn=631905f65e95ab4dd8bee8b2e0ac4eba&amp;chksm=97400e41995459389d05841681a0a0adc0a90f26b7a877423abc2342b4302781db8ddcd13f0a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Feb 2026 12:23:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别“边想边看”的高延迟！Zooming without Zooming 登场：10倍加速，小模型感知力反超千亿大模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWibm5ibxqXBY5tZHWickavibb6GSNm5dvjbL9scibmoicFzI9MicHjY2JD6AwSWetoAC8fVS9iaemAvV4jytZ62ZhC6Ak3hkEf2Ee3WNfE/640?wxtype=jpeg&amp;wxfrom=0"/><p>在多模态大模型（MLLM）的研究中，如何让模型看清图像中的“蛛丝马迹”一直是个难题。虽然最近流行的“边想边看”（Thinking-with-Images）范式通过让模型自主调用缩放工具（Zoom-in</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247656150&amp;idx=1&amp;sn=dd6a0ad9b582ceeec6325a9f8371fab9&amp;chksm=97ca786217a2e5f1a1075a7f784626d1dcebc0ba2b91c1af9822fadc8fca6686c74bc1b3ab6e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 19 Feb 2026 12:21:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

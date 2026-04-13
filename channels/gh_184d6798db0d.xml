@@ -10,6 +10,24 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[代码实战 | python实现台风警戒区绘制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5Qgyd3jS8WF56sS3sO4xugGTISrjDsGYAxWLaktEcnGfgGzD4uCVbobJLOJFZT91s2iaGeT4fOWnYUxcQhFjSntQiaMqo66ULXkfs/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | python实现台风警戒区绘制前言我们经常可以在台风预报网站看到24小时警戒线和48小时警戒线。那么具体如何绘制呢，小编在网上找到相关文件，如图image1. 导入必要的库import</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491364&amp;idx=1&amp;sn=1d368d50f16bd879252af123f0887c17&amp;chksm=c3a645c1207c0b2336ec994948242beb4b3463a8da0966d8be360550a05462ee8c2f742cf5fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Apr 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[数值模式 | 如何对WRF变量场的地形缺测进行填补]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QgicaOPOtXCWH5C4b7wwlB1GBmpI4QMn81lDvicqy97FKib7DMmd4rpl5icESQAU01xqeSnYPu1QtQiao9lyCVTZx881TWt4vNWJjic0/640?wxtype=jpeg&amp;wxfrom=0"/><p>数值模式 | 如何对WRF变量场的地形缺测进行填补项目概述实际上skyborn集成了一个模仿ncl泊松插值的代码库叫gridfill，下面给一个应用场景。本代码示例演示850 hPa温度场的GridF</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491358&amp;idx=1&amp;sn=e01035e6761d6ef80ae09c4dff63ef66&amp;chksm=c345650ebc9a7e67e015c2bbcbc704d1c0c5e5a70f994c265ff5f1dfd18c6999346204d332a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[cnmaps 版本更新：支持全球地图边界，内置 AI Skill]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KtLeyFG8WBysDTZyxPXEHyy4AKeKPzaBqHxmmnj1joEkxNgGVIZ3W31HCRaMMZiamoJiaczGdAsw2JOb9mWkmDLdbXmy9ghYtk1R2KYvyrFeU/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景cnmaps 由于上游依赖 shapely 2.x 的大版本更新导致的兼容性问题一直没有得到解决，从2024年9月开始就进入了摆烂状态，至今已经将近2年。然而这期间各个包的版本都在更新迭代，以至于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491358&amp;idx=2&amp;sn=1b562c61cb36ff4c348501ed6e6038a8&amp;chksm=c3c1b54b6d129d71c4312c77a86e997f29b396558b79bb431d949359812f20dec3741760a5eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[代码实战 | ERA5数据下载、K指数计算与ERA5原生K指数对比分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjtWHicicOayetUnKK6Pra8ERVZmrCg2KIykNBuO7QE5NS09JprUps9EjMHUn1Qal7USDuWnWnz7yO4plUQ4vH4P1lCdO8ApT0P0/640?wxtype=jpeg&amp;wxfrom=0"/><p>在本项目你将学会：使用 cdsapi 下载 ERA5 的 pressure levels 与 single levels 数据；由 500 / 700 / 850 hPa 的温度与湿度信息手工计算 K</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491344&amp;idx=1&amp;sn=259405db7ce24aabf1418b6c3cc9222a&amp;chksm=c35b98b31c8b3944fd5fa493b0751ed04713b943cdd82e95d677e1083501c0c28d659c75d922&amp;scene=0&amp;xtrack=1#rd</link>
