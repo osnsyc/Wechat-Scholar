@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[传统SLAM使用CUDA加速，优势究竟有多大？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iaL3HQB9tWsTazMOxsxzibymqq1SV3IK5aY5iasMm9uWgh46BkVu9LibqeUdmK86JUAeibArgzI3Mgow9BhNz2tdTlaBKFl9hU4sdM/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度学习在SLAM中主要用于：动态目标剔除、语义SLAM的目标检测与分割。特征点提取与匹配（SuperPoint、SuperGlue）。场景描述符与重定位。工程建议：CUDA对传统SLAM有明显优势，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247743796&amp;idx=1&amp;sn=9590a8b0871138e7043557c03d783d04&amp;chksm=faae6bc15bb6252fecf001af6dc95a98f5bce4362f4223f108ee4c693f4d07419b657c85a556&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Apr 2026 07:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[深度学习赋能激光条纹线结构光：点云三维重建关键技术与进展综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4jHjZfTQhQVicUichvSfgRaMFNB7A9owNDRibcsicHkjIerMxH9q5MTnrFZPjXpicWDuvKSQyXUwOTNUjab9ZpFK5OlicWibzA4nXjZls/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频课程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247743796&amp;idx=2&amp;sn=9c42cb42930170eadd43d7a6cca6327f&amp;chksm=fad0bd1bd1775c6970cf67a6f6e061ee9ec021fc87b1d07778fe1e08d2430787ec8eacd2557a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Apr 2026 07:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[RA-L'26｜港大&amp;先进院DPNet：首个多普勒激光雷达与运动规划器深度融合框架，高动态场景精准避障]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hwqiaciaLSCVphI6dQTiahiaagtdlKib4xVVydXxTVB8zpFFYXp5ACrTpqPictpkaRFBcylfKC7icbficJfWBTR8gWg2EarHibjNRO64BA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者：Zuo Wei | 来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DG</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247743736&amp;idx=1&amp;sn=1335e62e75b4b26aae25948ae857e91e&amp;chksm=faf296ddc54ce91760809b34c7b733c6dd543fbe554746eb56453d043feb4db6062a1293600f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iaGLe671ssG6HY4kn6mKsjFUABrXicJqe2hUCBQ1sian51AE8ZYbzzx9Ztg8fGYjTK8E1Q8CEa0jqhpuJ3tibiaUTJQCnxrxO1qLXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达本文经授权发布 | 来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、300+场顶</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247742711&amp;idx=2&amp;sn=71c326e207115ccd3e5f4de8c3b662f3&amp;chksm=fae13c566957c302f19aac4f6dc8ebf76902baafda7744c437f516a1a148e8bbd4bd1f9f8731&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Mar 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无需训练，即插即用 | 清华&amp;浙大推出MeMix：长时序3D重建彻底告别漂移与退化，误差狂降40%！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hR3YI11vrnLOHoKFX1yegUmVLNLtqUDHHyjOj3eF5UM1Zv1YogkZq30rz3yWMgn3acCTAkGTkOSUkOYRr97SRibOeIUlicngJeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达本文经授权发布 | 来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、300+场顶</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247742623&amp;idx=1&amp;sn=a09065ba9225a08a7d4bee745a2da1eb&amp;chksm=fa5d6a446a3106b82471ca8e045402427159db69077593b38bb58c7f76032cea5b92c1aad5a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DotCam-S1！从零开始搭建一套双目散斑结构光扫描仪！提供源码+硬件+课程+答疑！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iaHlYvvdkpbicB5l2ORFP7jEawvo2FU9LtuIOLey6JiaPLK5j8sU4gtC82o91GFDvvazwlS8kwOgfkzM2ibl6xiayuWUibTiakHBZCV8/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、产品介绍3D结构光主要针对漫反射物体进行三维重建，常用于机械臂抓取、视觉测量、缺陷检测等领域。目前主流结构光技术有：散斑结构光(机器人导航)、线结构光(视觉测量)、面结构光技术(机械臂抓取等快速测</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247742623&amp;idx=2&amp;sn=08fe015bf010d2c6a2dc46c7ef02cd9d&amp;chksm=fa93aac7f5170f1771cb1cb26c5757ed9f638ded6f12d45c3385976a1bcea93644fbf683344b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
