@@ -10,6 +10,12 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[代码实战 | JMA 台风最佳路径可视化教程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjHGFqYjAhziaSatZfqxxMp5xiaEs45iaQnaicva4W3Zpr9M61JEibkcwtrFCjZDavNicwjXWDV0XAibLicypPOcMXqMLCLGibPJibnj3xmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | JMA 台风最佳路径可视化教程前言之前调研文献发现很多同学喜欢使用 jma 的台风路径数据，于是有了这篇教程。本教程演示如何读取日本气象厅的 JMA 最佳路径文件，并绘制 2025 年全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491386&amp;idx=1&amp;sn=bba14c8c89036fa1c6ecdc707bdcae65&amp;chksm=c3ff935f5db7b2141a591cd0a4efcb3667bc26cab8d1e8362e11c97a019fda033fb4fd007dbf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[天气会商复现 | 基于era5的假相当位温时间高度图]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QhAU5kI5IElWMmh26TXV9F3VlWDK9nhxenicUFYjaXM1KDqyuT6aJzwIm8HANU7yeN89lKicppenAgtnYibsO5LFTn8Fep3JW0m6Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>天气会商复现 | 基于era5的假相当位温时间高度图前言本来想跟着相对湿度那期一起放的，结果一直拖着拖着就……现在想起来发一下 假相当位温相信大家不陌生，会商时也经常能看到相关的时高图，本期复现一下以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491376&amp;idx=1&amp;sn=c62939df84ca4730ef8f56baf5af0e56&amp;chksm=c3334ae4b940637a039d7cef3451fdbd12b76cef8f9dfa3f31120503f467f7a71dbdae79373a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yfkCPbePFSjfaZ39DDmWdtvzKPkLW12Aib5MwAB1Vefs0bjWrg1aCkcHtRwheZywdoE6pIZxjrad0QEGD3ciafhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>雷达系列 | 拆解NMC出品的雷达库metradar 架构一个由国家气象中心团队打造的 Python 库，如何巧妙整合国际成熟工具，为一线气象工作者赋能？本文深入解析 metradar 的架构设计思想</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247490777&amp;idx=1&amp;sn=5be4b1f4092203dcd91a448577342f36&amp;chksm=c3cdc96f7dfe0f7365c80a7169fc3c40f82ecc3030f5e4e7f4181eedde571e232dfb505a283b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Jan 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[雷达系列 | 两种雷达坐标转换经纬度方法对比分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yfkCPbePFSiaHcJNTMtC7c6P2XmQCwAHAAniay0wLX6KBGwNicg1RndYfuClRV1Fpw8MVAApwGyU9QjU8pGicK57Eg/640?wxtype=jpeg&amp;wxfrom=0"/><p>雷达系列 | 两种雷达坐标转换经纬度方法对比分析作者信息公众号：气python风雨概述本文档对比分析两种常见的雷达数据极坐标转换经纬度的方法：MetPy方法: 使用 azimuth_range_to_</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247490758&amp;idx=1&amp;sn=c39db0d34ccea009bffcdba663edeecf&amp;chksm=c300985e50a54c941ad03e72175ef37b40f398cc35448eea6ff0eb516bba6817f21c36ff95df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 14:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
