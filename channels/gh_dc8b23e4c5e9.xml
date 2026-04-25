@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[DeepSeek-V4：把百万 Token 上下文真正做“能用”的开源大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIibRcBsQyXz1xHhHG6aRP6IB53Mb3Ca9VKib86CibaQ3ud8aCeJebslJhWQ0E1MibYbVDMY71DTiakicV53pYquzHdQA373qbialcgvib4/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek-V4 这篇技术报告的核心，不是单纯把参数继续做大，而是试图解决一个更基础、也更现实的问题：当推理越来越依赖长上下文和 Test-Time Scaling 时，传统注意力的二次复杂度</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485618&amp;idx=1&amp;sn=316669f6b47f7a920b65cd68357c3bc0&amp;chksm=c0007d12213e32fa1ccc6e1864375490306c381da280f7590bfaec6a73529369d00349820a0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Apr 2026 21:21:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[HybridFlow 解读：把 RLHF 从“能跑”推进到“可编排、可扩展、可高效”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIicViaKyh3KA2W0YmyB2icMbsJ5XiaraicIsRYKumZ0l1U74jYiaggh8QY6PCoMCMTSwT98gpkDTvJeAWVfvop709y3mSONS2WnjJ6icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先说结论这篇论文解决的核心问题是： 现有 RLHF 系统要么灵活但慢（单控制器），要么快但僵硬（多控制器） 。HybridFlow 通过“层次化混合编程模型 + 3D-HybridEngine</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485594&amp;idx=1&amp;sn=8c3fbb9e644aa100fd64a3bc8da0f273&amp;chksm=c07017b9098352427d6433a2ba21875f82e17640488c251c9ce75ddff0ca407f1bd34c3d9c02&amp;scene=0&amp;xtrack=1#rd</link>

@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[CVPR 2026 | 零样本计数新突破：西工大&amp;中国电信TeleAI提出QICA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWicegw8cqpXyW2GS4bZAFmNnbI81xklaibmNYicIDECn6aZmnOSU3kW1RCOotiav5RMRToicwj2fJkWt92ouib9yaQzKicJUvSDOgEP78/640?wxtype=jpeg&amp;wxfrom=0"/><p>在计算机视觉的众多任务中，“数数”看似简单，实则暗藏玄机。尤其是当我们要求模型在完全没见过某个类别、也没有任何视觉参考（Exemplar）的情况下，仅仅凭借一句“帮我数数图里有多少个草莓”就能给出准确</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247659078&amp;idx=1&amp;sn=f4b371672f3a4991e37368f96c3cf6a0&amp;chksm=97ed525dd9bd34f8868103b934f8a8bcfad9cd96636fb1342260e609b55093c6894be3e97428&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Apr 2026 07:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICLR 2026 | Meta开源Sapiens2：在10亿人像数据上训练出的人体视觉基础模型！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibjhAwhRGamXAicTc2BLhJkDO0HkG9EwXstqLufTl7qGJXEdhjFYQSsIycsfrh7lDd3mwbaw2M2sibHtLiaBqraTkLZd1yhOpibAR4/640?wxtype=jpeg&amp;wxfrom=0"/><p>在计算机视觉的世界里，理解“人”始终是最核心也最复杂的课题之一。从精准的骨骼点定位到细腻的皮肤纹理还原，每一个细节的提升都意味着技术向真实世界的进一步跨越。去年，Meta 推出的 Sapiens （本</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247659077&amp;idx=1&amp;sn=8b5a811a9ec770ded432a3d5894274dd&amp;chksm=9762ea36a9923e8187c55fb2e502cb5323b729deedfcc4ec0bb6cdaa6a0e29a1972ade0b65ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Apr 2026 23:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVPR 2026 Findings | CoPS：让 CLIP 根据图像“现场合成”提示词，迈向更强的零样本异常检测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8J9Zd3cwYsM2UXs4UiakCvjhlCyL134QItSXeBIj3gdiajzSNkcgxNFxgKkAGNXyMqwpnoHBw4LVRU1DezSfuWE5qTkoj4XnmzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>异常检测是工业质检和医学影像中非常典型、也非常棘手的一类问题：我们希望模型能找出“哪里不正常”，但真实场景里异常样本往往稀缺、形态多变，而且新类别会不断出现。传统异常检测方法通常只在已知类别上学习“正</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247658981&amp;idx=1&amp;sn=3165acaf62ea85b7acdf567d48b1df33&amp;chksm=97139a96f31d44f5a85c38105a06b7aaec4ed5140bb1b29ff7977dabfc3b1ee0e628ab51d606&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8x8ssqbkQpXuoHibxzUdCHHkIajkaSY8Veicz4YBSaJ9jCfGjeAmYPUPBoEzMFtZxhB2ugRbbLurU8icxb8cTaibT0XWWIv69NtxU/640?wxtype=jpeg&amp;wxfrom=0"/><p>有创新点，就能顺利发paper吗？当然不是！有了创新点只是开始，模型的编码、调试才是重头戏。很多小伙伴都是改了大量的模型和代码，实验结果却没有多少提升，白白耽误投稿时间。今天就分享一些发paper必备</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247656452&amp;idx=1&amp;sn=39f2a7770dd6f1f310a152ced902d026&amp;chksm=973aa6bc8fb4b4313a926679d73222713c7ea59c9c4ec6674e0ed2680e5e796e1a026718c5e3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Mar 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 | 悉尼大学&amp;新国立等提出CultureBench：揭秘T2I模型“文化鸿沟”，微调一层找回消失的文化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWiclSCBZCFjX1EXsJM6ldh3icPBJKllbxuLgor4uIoVQOvxjqmlUjLmPdYGIlqj7cmAoAW1qvkyYCk46ibRsybO8mFNxoXuBQN0BE/640?wxtype=jpeg&amp;wxfrom=0"/><p>当你用葡萄牙语输入“一顿传统早餐”，或者用土耳其语输入“一座传统建筑”时，AI 生成的画面往往还是充满着浓郁的欧美风情。这种现象被研究者们称为“文化鸿沟（Cultural Gap）”。近日，来自悉尼大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247656420&amp;idx=1&amp;sn=4f21d3703f73a6954c2ace24ebcfeb74&amp;chksm=97779f30a16b41802387a1a60704102a06d46c377af0ec34ad25d81933d990fe17ac81e046f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Mar 2026 16:05:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 中科院&amp;北交开源 GAPL 框架，用“原型学习”破解 AI 伪造图像识别困境]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8B8pyZUyKpOpT0iaV5CxhdibcWQZSujZ1ueMgg4eqjUxF00QMDcMiczCzTyKjSic0CSfu0PjEx03OTS2Bme543iccQqaUODZVmlOec/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着生成式 AI 技术的突飞猛进，分辨一张图片是“真”是“假”已经成了一场艰巨的拉锯战。为了打造一个通用的 AI 生成图像（AI-Generated Image, AIGI）检测器，研究者们通常会尝试</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247656352&amp;idx=1&amp;sn=06292c87e631438d0fef0a604dd3e6e9&amp;chksm=9778b2f5b39541f991b5c05b1d2c49a4be81f982b54dc05a575383e88c6a6042e7e7549ff234&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 14:57:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
