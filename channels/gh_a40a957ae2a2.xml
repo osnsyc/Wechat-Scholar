@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[最近搞OPC提效，这个AI浏览器让我回不去了...]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRO3iaRcfnqliaW9SgDrbxj35ib4hQQSNroDD8RB23da7FvXYtzsmdkA4X2mTJv7cm3nRn3vJPFGk2XEGxicrtd1IgCibu2CyQz8eg3I/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。大模型上周也是真卷，Qwen3.6-Max-Preview上线了，Elephant模型被认领了，Kimi-K2.6开源了，小米MiMo-V2.5更新，混元Hy3-Preview</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499542&amp;idx=1&amp;sn=47360f24130db42aaad9d333506c9039&amp;chksm=ce016c98c64e9aba013d3c431ab119de04efe57158983097a3f9e67e83f1c9691bea2a5ab226&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 09:29:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[昨天发完<a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="moed8il5-jh4y25" target="_blank" href="https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499488&amp;idx=1&amp;sn=d38d7720c5e83c37a7d6d3916bca5ffc&amp;scene=21#wechat_redirect">DeepSeek的解读和测试内容，</a> 群里细心的小伙伴问了一个问题，就是测得是high模式还是max模式， 很明显是high。 我相信很多人在一手测试的时候，都不会注意，或者说用的都是默认参数， 因为我在网上搜索的时候，好像没人提这个点。 我今天又测试了3千万 Tokens， 使用max之后，在coding和agentic方面，有了很大程度提高，尤其是coding方面。 如果详细看论文，你也会发现，max模式下的各项分数比high高出一大截。 网上一些说工具调用和skills无法使用的， 我在max模式下，也没有出现。 一些常用工具设置max模式方法： 如果你用claude code，可以执行， claude --effort max 如果你用openclaw，配置上增加， "thinkingDefault": "xhigh" 如果你是代码调用，你直接增加参数， reasoning_effort="max" 详细可以看官方文档， https://api-docs.deepseek.com/zh-cn/guides/thinking_mode 重新测试之后， max模式下，DeepSeek-V4-Pro的效果还是可以跟GLM5.1、K2.6这些模型一较高下的。 之前有问题的case，都出来了！ 虽然比国外御三家还有差距，但是在国内绝对是能打的了。]]></title>
       <description><![CDATA[<p>昨天发完DeepSeek的解读和测试内容， 群里细心的小伙伴问了一个问题，就是测得是high模式还是max模式， 很明显是high。 我相信很多人在一手测试的时候，都不会注意，或者说用的都是默认</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499494&amp;idx=1&amp;sn=527a44a4fa98bfac6c90c0ef23edb659&amp;chksm=cee1a09a1490e24efad06beda679a6efe6d5e225ae322d8aa7d15efdd955f25c5e12f8327123&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5ky8c2m4JcT9f68LtVLTWDiaUKMR6p4qxiaywSdicUdcHLmZFemlNaCobzHmMsibKRdlNjYemsaEGqehA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。年后一直没更新，已经被群友催了，新年第一篇，就送给遥遥领先，哈哈哈昨天刷到新闻，华为盘古开源了多模态理解模型，openPangu-VL-7B模型，基于昇腾NPU原生训练。htt</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247497727&amp;idx=1&amp;sn=35bb1ceecb9c4803bcf171d8149579de&amp;chksm=ce0d6fd775afd2eeb131774011f86cd203362ff34257ba152d98a8de20703870bde84b1f1a2f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 06 Jan 2026 21:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[12月开源模型汇总，2026你最期待哪个模型更新？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5l95mYSsMNJW6AT2hYAvhlde8RibxqRJdib4Y74yRGlxJEeUIx0WWMKk5urfbTabNCiafkcMFxLgeOpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。又到了一个月的最后一天，12月，一开始DeepSeek就更新了一个小版本，但并没那么惊艳，最卷的应该是是智谱了，来了一个开源周，1月8号也要IPO了，惊喜的是，小米正式加入大模</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247497694&amp;idx=1&amp;sn=39d3bc6ad4062893d526c8b040e7ee08&amp;chksm=ce0bad0f0c188256711622368d5954ae38069a7a01bd2deb98317d6cb2b94fa4392bc65bb519&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 10:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
