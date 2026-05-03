@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[3DGS之后，谁在重构SLAM的技术底盘？顶会已给出答案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gzXk3g0sbJq9ClKGywpUaibYNibepE3XiavDiaDq0CcqgfY7cjRMYibLmWhBxcVLgHySjPokLC8NHSlpic2hmJD9R56hYUNh2s6YoLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>结论：谁在重构底盘？核心引擎：3DGS本身（显式可微渲染+高斯原语）是底盘重构的技术基石。顶会主力军：CVPR 2024：GS-SLAM、MonoGS确立纯3DGS-SLAM范式。ICCV 2025：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247744482&amp;idx=1&amp;sn=1351d9c0133acba56ad6d7c9a23fb292&amp;chksm=fa7c77cbce3fb6abe154d9c3ab187ad4011676719a892ea7e70bf82964f1040afe5cf781c1ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[旋转多线激光雷达内参标定方法与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iasScwRcGCIesg0hxiaibAyQLmF45vm9mwO1Zus6cZxjvGyWSaKETnhMD9h4RXEKibVDY51qHV2oMXl6neu2gYVLmqVc5keBlVzgs/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达编辑：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247744482&amp;idx=2&amp;sn=fc555b4d283ca5de2cdc7a67e8fc2973&amp;chksm=fa0c889a61f3e9ebc076e519eabf2c58b12664da5fa35476d1b12ceec234e869626c51f8994f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[告别平面与直线 | 华中科技大学提出隐式点-体素SLAM，突破几何约束瓶颈！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iakwtJkK9BhNnJ6U6k9fwjc6IaLicMrSiaLyGP0KGHJd1ypibPmjI5f3ib5dmJ5DhNGQvkSXcF4jIAkWsibS85sHZegjK5WChXELx0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达本文经作者授权发布 | 来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247744473&amp;idx=1&amp;sn=54dca258494e26c7ae5c90382a00c668&amp;chksm=fa8925ccd7c29525d1e9a9e8e3515cdf69329e1c91d3d967211b64eeea46b6088bcbe82c0405&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4j94lBINIAH4Ufn9NLWCAjuqUIlaHFGcq9UMRcGJ1uTn7fzVa95miapZnwtCvDh3ibglUNcbias1Vuvib7bFTUmiccM6krFoqycibtico/300?wxtype=jpeg&amp;wxfrom=0"/><p>击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达3D视觉工坊很荣幸邀请到了复旦大学与上海创智学院联培博士生陈晋，为大家着重分享他们团队的工作：EgoHumanoid。如果您有相关内容需</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247743531&amp;idx=2&amp;sn=3b65943a411bd2387ab8f7967e2edd15&amp;chksm=fad97b440da6c41ba2a55068cfbd5fd284fd4e51716bb683011da3996280d9e686057c935391&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICLR'26开源 | 开启3D重建新范式！G4Splat：首个几何引导生成框架，攻克稀疏视角重建难题，精度全面SOTA！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gZROc0icAjWXXaZiae92snaCb11gR4qhqnCK8tmF2Ww1jqhdTtofgU9zulUa5uPaPn4JFrrZHSibk4icwmD34PosZjTzXZyCSSfVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者:陈以新 | 编辑:3D视觉工坊(授权首发)你是否曾尝试用手机录一段视频或拍几张照片，想把眼前的精美房间或旅行美景永久定格在 3D</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247743478&amp;idx=1&amp;sn=0849977c6ef5b91c28f5d607a0a63cb6&amp;chksm=fa695310dcab21e4648ed3178551c7fd55bbb977448c8eb1e608f6d24b7f563d9732037e1171&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DotCam-S1！从零开始搭建一套双目散斑结构光扫描仪！提供源码+硬件+课程+答疑！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4g0RGWFyevicXQTzdh24jJ06RNb2eHLP0g9IdiaNBcFMwaS1YgUujjHXiaI2W762YFxU0KYAZlT3yFTh2QUKdfhrZq6Yibhs49yu90/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、产品介绍3D结构光主要针对漫反射物体进行三维重建，常用于机械臂抓取、视觉测量、缺陷检测等领域。目前主流结构光技术有：散斑结构光(机器人导航)、线结构光(视觉测量)、面结构光技术(机械臂抓取等快速测</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247743478&amp;idx=2&amp;sn=fb12bc03d97fa135dc730a16ef0d7248&amp;chksm=fa1dc25c29b901a638e9a6798636201c8bab59514bf9459de22d07856c9e67b1ea8eadf8f66c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
