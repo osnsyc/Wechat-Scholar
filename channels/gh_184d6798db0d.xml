@@ -10,6 +10,18 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[数值模式 | WRF 台风方位角平均半径-气压剖面绘制教程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QiaBoEREYHyK3NJ8QeV2kbG5hxjYYm3uTGzx8AXJ1NkyfA9gJZ3KuP0rDf1Dtrhqaib9pmm4128SteDA15ElnZrHzWC7KXojbvzo/640?wxtype=jpeg&amp;wxfrom=0"/><p>WRF 台风方位角平均半径-气压剖面绘制教程前言上期做了格点数据计算台风方位角平均的教程，后面留了一个坑：wrf的怎么搞wrf当然没有现成的库直接用，直接手搓看看吧本教程做了一些优化，核心思路是：跳过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491455&amp;idx=1&amp;sn=fc4bcca54adb499e18a7082222f9f453&amp;chksm=c31f903c7b8deedaa5439a14fc648ad2a4e794121f952da0f9d2600bca1f09d6dd2fe66d70a0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 05 May 2026 12:17:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从微分流形来看扩散模型同化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IlWY29v7tn8NuuWL0ZyVh1T2C5myFIaKttWEhesBjTicKRBt8da5fxll9y4uNQISG2f1PTBricpt5IDZD5EiaLF92qtFxO5G4ljrYTPFFJjfMg/300?wxtype=jpeg&amp;wxfrom=0"/><p>启发来自于资深读者的专业意见，然后用AI学习了些新知识扩展了一下。为了避免这篇东西一点儿可读性都没有，我把严谨的数学概念放在最后面，先让AI帮我说点儿大家听得懂的话：1. 什么是流形？简单地说，流形就</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491455&amp;idx=2&amp;sn=15bac22fe7ac15ee566aaaf8f1dcf2e5&amp;chksm=c31bdab8aa43bc50981faef5af064b73f7b23b414f5896df788653e7bcd355f5582027f7add8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 05 May 2026 12:17:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[气象前沿 | 2026-05-03]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QjyaUCFDuRDIsGmeN82JCM7T511rbcooIKCK9yjhfb3HbvA856IIRmjHlB2Kak1h5dibN0CNibxoQ1Fh8IiaewbOo98y2bdfSoqXM/640?wxtype=jpeg&amp;wxfrom=0"/><p>气象前沿 | 2026-05-03栏目简介 《气象前沿》为气象文献日报栏目，每周四更新（大概），精选 20 个主流气象期刊最新接收论文，聚焦数值模式与 AI 气象方向，以精炼、易读的卡片形式梳理研究前</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491449&amp;idx=1&amp;sn=4f3334d26ccd183ea31e4504aa4d78af&amp;chksm=c3505f2b74ec19f86efbdbeb774f4689c2f222748a69b4fbc721c07dccf332360054560b7dae&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5Qglib7ZtBrCEXE4JatlPYzeia2quXtg7Ru6Kn37KxAUBNp5GovaakvE8D74KQD0WlGkSUHRwHjLPnWOOicYlJxGf0xdKkS8jTtauo/640?wxtype=jpeg&amp;wxfrom=0"/><p>数值模式 | WRF与CMAQ的桥梁——MCIP工具介绍最近读者私信问wrf数据怎么转cmaq的输入格式，小编于是稍作检索，将内容呈上（实际上是官方教程的搬运，如有问题还是去原仓库了解）在空气质量数值</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491027&amp;idx=1&amp;sn=94f06b8ebde0acc88e795cf52be8e188&amp;chksm=c30ceb63ad35c9bbdf794aed5611a99ea8504a284e060651bc43ed1909daa2379737d1a6553b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Feb 2026 10:35:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数值模式 | python 也能运行 wrf，我怎么会做这样的梦]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QhXoukgw85hL5Rx0ZicH7qqDiah9cIk8KVWd7gVRaDMias1X16137wbiclWgsPT00jV07ic817NdAJGNMRvfqKkX4qbugKaibdicZ3xv4/640?wxtype=jpeg&amp;wxfrom=0"/><p>数值模式 | python 也能运行 wrf，我怎么会做这样的梦个人信息公众号：气 python 风雨关注我获取更多气象/Python 学习资料，第一时间收到我的技术分享，也可获取我的联系方式沟通合作</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491013&amp;idx=1&amp;sn=f80a50d999d6e2ad4e64641fbae223e9&amp;chksm=c3255402f244a6c813ac57e0e88f270c1f21f837bfb53136a534345dbfd9599f2352532ef5d5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Feb 2026 12:16:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[透视东南沿海城市群的“暴雨密码”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/WlfsCKxAg6MQUPsljwfyBdkibaUvDNvHQeN8hwjqyGq1fslPwKQiaIic0XhPokIGL67LHt3rpiaWVA6WAHYD3iaPFCOs4s9wuSvEEeYFu38mDAe4/300?wxtype=jpeg&amp;wxfrom=0"/><p>东南沿海城市群，暴雨突袭总难防。短时强降水频发，城市运行受影响。为何暴雨总“偏爱”这里？其背后藏着怎样的气象密码？国家自然科学基金重点项目《中国东南沿海城市群日内尺度极端降水机制研究》，通过高密度观测</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491013&amp;idx=2&amp;sn=063431ffc1c413a124c78dede14d8483&amp;chksm=c37601d414a068fc4832b63ae6b04f8d6c4c7ce107bf9a334d6bbb2fa585ac828c3f70f72c28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Feb 2026 12:16:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
