@@ -10,6 +10,18 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[谷歌开源Gemma4 MTP 草稿模型，推理速度提升3倍，用了哪些技术？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRNwyMBdhicrOJ4TLqaibVYetyPLDE3PuRMjA2lgB4icSt80ehePIp04jTtfU6ficX8yFibicLLtZhpTMr1kc2dZibq1Us8Jubicy7GPicAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。今天凌晨，Google开源了Gemma4的系列草稿模型，借助这些草稿模型，可以将推理速度提升3倍。核心是利用推测解码（Speculative Decoding）的思路，让草稿模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499710&amp;idx=1&amp;sn=8f1a205754c695f0b48fa22a0024f35a&amp;chksm=ce89205a498c8150c8605bc1515ca9977392e0a487fc69cc483e369fc105ff1f1e110b379eee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 15:22:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[技术交流5群-成立]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRORiaCIyQgrMGf0jd08HLmR9n3xvOMoo02GiczW6Nh8ew0nnCPhvA5SDtf8hrk2c9dDK3wg6dylG6qZZVVREStcgvcJLj7Dm2kGI/300?wxtype=jpeg&amp;wxfrom=0"/><p>重磅通知，应大家要求，“刘聪NLP”成立技术交流5群。群里主要讨论一些新的AI技术&amp;搬运一些知乎内容，不限于大模型、传统NLP技术、多模态等。入群后一定进行备注，“昵称-学校（公司）-方向”。备注是为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499710&amp;idx=2&amp;sn=9031a2c0c65021403f7a4d7090d51ce1&amp;chksm=ce6e1f8c81635ad18017204f1747e73c8283edb6ac2d4cb4af298422dd2fcee8785967d41db2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 15:22:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[解读DeepSeek最新多模态技术报告，要用视觉基本单元思考，看这一篇就够了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROIXAnh32KYdw4d0bsPNL6xqCdZ4iahWV6eRzHwqOsibcA3ibC6UBZQG7TlwvtkGSAuoBRdrJEIVf7d4tdLZs2fJR7hG0Su6bUqWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。DeepSeek又发新论文了，果然是放假之前必作妖，说好的中国人不卷中国人呢？这次论文介绍的是多模态大模型，提出了一个全新的推理框架，把空间标记（bounding box 与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499685&amp;idx=1&amp;sn=5661aba0328581c77b27e30bb56dfe65&amp;chksm=ce2865d4dc92ad711c86b7f6358cb4328328543f1b4dfe6ce985e48abd3260e080df233ef06c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kVNibWK3NuFsvpwudshh4R2xdKfjHBaibxp6S7H8m1ZygY96ibetj4tT0fsjibnHWDJBCrm7fynScODQ/640?wxtype=jpeg&amp;wxfrom=0"/><p></p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247498022&amp;idx=1&amp;sn=d26f5da5133ccc03f8825d8481b629c4&amp;chksm=ce5b08588011c4235c6dea5e82878cc8ccf740be3e4c9969848699819dc6ce65d887417e8927&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 22 Jan 2026 19:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这不妥妥的国产Claude Cowork嘛！而且Mac、Win都能用。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5mq7lq3yWslMUbpCC15w3cP44YtnQl9fTNvyq8UNKicDu3tbIPh5uibr90MN0m1dwbgib7giaz0VaicPsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。最近Anthropic又推出了Claude Cowork，一个办公的桌面应用工具，反响很不错，主打办公，快速处理本地文件，其实，之前Claude Code也能做，Cowork只</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247497882&amp;idx=1&amp;sn=9ba34668ab9332595970426615260709&amp;chksm=ce7b52f6be3d97cbd7e3336160df53665feabf0cb9de7955bb9fe2cd67aeb5b2b07bb6367f98&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 19:09:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[美团LongCat又开源Thinking-2601，这次广度推理扩展，有点意思。。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iceGibVicRfib5kBAM7ZupEmp0ibceHfnYVpSaw9OYrCxklqe3feJYonLLia3ggaalhRLglDWooCpLQZ3iaVSyJOAfQBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。美团又更新了，这次是开源LongCat-Flash-Thinking-2601模型，2025年给我带来最大惊喜之一的就是美团，异军突起，是那种，有结构创新，在infra上也很硬</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247497828&amp;idx=1&amp;sn=0318c2a2eb0bc21e2c3d1f2313867cc8&amp;chksm=ced81b85175c281b41c719715581db873a0205d96aba32817e9680a589f7c3ebf0b6e9f4960e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Jan 2026 21:25:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
