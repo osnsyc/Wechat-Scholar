@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-5-6）：阿里开源PromptEcho，突破人工偏好标注扩展性瓶颈，显著提升文生图模型提示遵循能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZ4nlllB9hnjd2Jk1TmDADC1Nk1DB38hBOCdL53KdOibgo6gmr18QOVBg44DIh8BbILJrtxUg90tppCZUd9oB8ty4bOAUbybf1U/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️ 框架平台、必备工具①项目：PromptEcho★PromptEcho是面向文生图强化学习的无标注奖励方案，针对现有方法依赖昂贵人工偏好标注、扩展性受限的痛点，无需标注即可从冻结视觉语言模型中获取</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502206&amp;idx=1&amp;sn=d9bb48f29f36f2643e49ecab2323f818&amp;chksm=c020ab6deb74b6bb2e77dc69bf7eae7823936a263fc8cf6d86e94de413318f0fdd2a69ccc107&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-4-30）：inclusionAI开源Ling-2.6，万亿参数兼顾推理效率与令牌开销，多项执行类基准达开源SOTA]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZPkau2ANzyXJa9kG8gZh57XxuvnE0N7j2tdMenVXHsiabckF03O962zTqmQ6Bo9r2Ara0icmNbAIUiayyoc8WAfBCNmON47mdK3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Ling-2.6★Ling-2.6是inclusionAI开源的万亿参数综合旗舰模型，面向真实复杂场景打造，在推理效率、令牌开销、智能体能力方面做了针对性优化，可高效适配代码生成、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502189&amp;idx=1&amp;sn=2fe364b3012d36e1bb67aca0b684636f&amp;chksm=c09d05cccb2fbba1b842446eb516c5f729f86ab66985954a321cf62ded064224b34bef02e60a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFbibBEDn6EwyJ4EcKf46p3WGzCiboAicVlPdblWicxEhwwvTf6DDBibLkVFL6wv0GO18WfPic8wickaFqjQHUI1zwC0TpZBrSN5JPiaDxM/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Ming-flash-omni 2.0★Ming-flash-omni 2.0是一款基于Ling-2.0架构的多模态机器学习模型，采用了Mixture-of-Experts (MoE</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501613&amp;idx=1&amp;sn=598db5ae51e2671850e96539b3379453&amp;chksm=c07ffed5d08e9e2a73f9f131153f78977077fd0d940ac232a690ad7483da209485739f82efff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Feb 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-2-10）：阿里达摩院RynnBrain具身模型开源，Plan/Nav/CoP三后训练模型，细粒度视频理解+自我认知双突破]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFZoYSgDJr9qxlvwEHzibmpic9Dibaw8RZUWq8xUTTKickZTeEkH904kCojSDV3PrSYGhKI8jofZWO9cMnahC4Da3Teob2SSSicsjlsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：RynnBrain★RynnBrain是一个基于物理现实的开放基础模型，提供了两种密集变体（2B和8B）和一种专家混合模型（30B-A3B）。此外，还发布了三个后训练模型：RynnB</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501601&amp;idx=1&amp;sn=2f1917eb1b15a0034a3dc420286d543f&amp;chksm=c04c7aa057197c88186f3aad8d09bf1aadf760719a2a5fa90556d0ba66831431f3871fa9ad8c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
