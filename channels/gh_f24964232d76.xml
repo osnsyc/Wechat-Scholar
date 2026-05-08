@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[蚂蚁开源 x SGLang Meetup技术回放解读之基于CUTE DSL的通信计算重叠算子实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka3qQOZfQW8alNgticDIJxKU9IxFaLpsiaBNwSb0Giacib7PXVQbp2TuzfBA1EbQfzSAgt109ZBIf98FXy1MniaHXaX6ayJ1Askop7c/640?wxtype=jpeg&amp;wxfrom=0"/><p>由 Codex+GPT5.5 根据Slides的内容创作而来。这篇是对 2026 年 1 月 17 日蚂蚁开源 x SGLang Meetup 中「SGLang 社区基于 CuTe DSL 的通信-计</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531475&amp;idx=1&amp;sn=04653751c6bdbeafc5edddf6dd2bb8de&amp;chksm=9eb7547ecddefeef2798e51d763d46456976703f6ecc92a2bed883f4af05e80ca4a9c06ee980&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 22:14:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[蚂蚁开源 x SGLang Meetup技术回放解读系列之面向DeepSeek系列模型的深度优化与实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KaROyPyTyBOAsByg3Ka3rAEbVRuaZ7Xmr3dwHYNotBPsajwcia0iaIian7BjzeDQejgURva9QcxqjLQu6wIgow5U4dJHaOjTPccSs/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言的前言欢迎关注 https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS 一起自动驾驶AI推理框架本文由Codex + GPT5.5创作而来，用了我</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531455&amp;idx=1&amp;sn=47f7fea9c780bc202e006d663caeb172&amp;chksm=9ef57338c75385db58439b3a00a04616e3df52d7895688fcc5c2cea63d42763e76034d66b3dd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sWibfxRz6FArnsFjXiaiaLA3MMMic9Wce3Z6CbPtq8SoWGsy1LwXbVsSribtSv1icNGSaEEDsmUmzV9oLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Anonymous来源丨https://zhuanlan.zhihu.com/p/1985487895319052795编辑丨GiantPandaLLM背景在一两个月前，笔者使用H20测试SGL</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530407&amp;idx=1&amp;sn=2d891aeb0d0a467bb78588dce052b883&amp;chksm=9ecba38982e2275c4f043c192089a410f3afdc184c3d6701753ad6dd275931e67be07790a931&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 22 Dec 2025 21:30:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过零开销逐层权重卸载技术将SGLang Diffusion wan2.2的推理速度加速60%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3tCX9B6qCZCT1UV21Ib6ra3oPlGc43Vz48HhGTxibibM4VCxRKWuVELGg3hibvvjuGxd8LRR5QiaXmFqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近在优化SGLang对Wan2.2视频生成模型的支持时,发现了一个性能问题: 在使用双Transformer架构时,第1步和第19步的推理速度比正常步骤慢了约7倍。经过深入分析,通过实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530377&amp;idx=1&amp;sn=02c7a87694b040c4c1207aa4eb5a7d98&amp;chksm=9e68b36e4c6694918e2d2d3ed876a6c89c4486bd97a32ad4fc9dcd0b9f3992ea972b2310d530&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 21 Dec 2025 19:33:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

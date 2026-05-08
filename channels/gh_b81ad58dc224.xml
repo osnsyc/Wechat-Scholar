@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-5-7）：腾讯开源OpenSearch-VL，30B/32B模型精度比肩顶尖商用系统，7个知识密集型多模态基准表现优异]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFYAj3zHQv0IXuiaW7B6eteicmghialGaRzudFjmbeVav0qHpGcd9hVIA4rvicdic6hCQsuN5JCr5svZMbMOMr0DiaW8H7gcibREjLkDbc/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：OpenSearch-VL★OpenSearch-VL是用于训练前沿多模态深度搜索智能体的全开源方案，解决了此前顶尖多模态搜索智能体的训练数据、轨迹合成流程、训练方案均为闭源的痛点</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502225&amp;idx=1&amp;sn=f0754f084397b59737f5a25fab407f0f&amp;chksm=c0e28cc1fd0f825ffc6e46b85e9add39232a8916043f1c07271c4bd897cd58784945405cd750&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-5-6）：阿里开源PromptEcho，突破人工偏好标注扩展性瓶颈，显著提升文生图模型提示遵循能力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZ4nlllB9hnjd2Jk1TmDADC1Nk1DB38hBOCdL53KdOibgo6gmr18QOVBg44DIh8BbILJrtxUg90tppCZUd9oB8ty4bOAUbybf1U/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️ 框架平台、必备工具①项目：PromptEcho★PromptEcho是面向文生图强化学习的无标注奖励方案，针对现有方法依赖昂贵人工偏好标注、扩展性受限的痛点，无需标注即可从冻结视觉语言模型中获取</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502206&amp;idx=1&amp;sn=d9bb48f29f36f2643e49ecab2323f818&amp;chksm=c020ab6deb74b6bb2e77dc69bf7eae7823936a263fc8cf6d86e94de413318f0fdd2a69ccc107&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFYNGuMXXr7yfuSPjfcOuU9dLdajbxk0bDJmic2KDDUrldj7buMjnAotr4uAAryNOUVhdTMDYRMhbiaUD4EBwXqbhojovgGWsjLv8/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：GLM-5★GLM-5是一个专为复杂系统工程和长期任务设计的人工智能模型。相比于前一版本GLM-4.5，GLM-5的参数规模从3550亿（32B活跃）扩展到7440亿（40B活跃），</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501624&amp;idx=1&amp;sn=0e590039532acf41be688702b330e997&amp;chksm=c07626eb073420892a4f392103b8b6445819dcf47edd6b047e141d477a5efe6b7eedc05fdac7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Feb 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-2-11）：蚂蚁集团开源双千亿模型，MoE架构赋能Ming多模态 + LLaDA2.X扩散语言实现技术升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFbibBEDn6EwyJ4EcKf46p3WGzCiboAicVlPdblWicxEhwwvTf6DDBibLkVFL6wv0GO18WfPic8wickaFqjQHUI1zwC0TpZBrSN5JPiaDxM/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Ming-flash-omni 2.0★Ming-flash-omni 2.0是一款基于Ling-2.0架构的多模态机器学习模型，采用了Mixture-of-Experts (MoE</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501613&amp;idx=1&amp;sn=598db5ae51e2671850e96539b3379453&amp;chksm=c07ffed5d08e9e2a73f9f131153f78977077fd0d940ac232a690ad7483da209485739f82efff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Feb 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
