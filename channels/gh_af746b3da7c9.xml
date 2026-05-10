@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[OpenAI内部如何给Coding Agent上缰绳？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sZMcxcNzCHAacrE4R2ktPXk4JWfNQ7uUQEdHTDwUS0IV37fl48RN2lMicJ2t5AI2wAUMkn4crMyaYEmDOdM69dXsqkEIUy4j1Fk/640?wxtype=jpeg&amp;wxfrom=0"/><p>当AI不仅能写代码，还能自己跑命令、连网络、调工具时，安全团队的血压大概和开发者的效率一起飙升了。OpenAI最近分享了他们在内部“拴住”Codex的工程实践。不聊模型架构，也不谈Scaling La</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547639&amp;idx=1&amp;sn=51e8aac9dd0b4537f15ffd3002373071&amp;chksm=ea4638720904010c54e39767f48b3294138d7d54b6bb8c3839f4c95a37e596d64df72e1c9b26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 09 May 2026 17:22:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[局部达标不等于全局最优：ICML2026新框架如何破解 Agent 协同调参]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sar9LkibWtmHAHzibc40fARphzQPSUZDkJwM7OB4VVO91OzIkNmb10WAZ7T7RU1eglvBYUw8Nnxa0buOtyiburicKVaS9PecSQHzmk/300?wxtype=jpeg&amp;wxfrom=0"/><p>多智能体工作流最怕什么？改上游一句提示词，下游全乱。在搭建复杂的 LLM Agent 链路时，Prompt 工程师经常陷入这种“局部达标、全局崩坏”的死循环。上游 Agent 的指令明明很完美，输出一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547639&amp;idx=2&amp;sn=2e6f7c25a3582692aea649c270cf8008&amp;chksm=eadd83a13a6c92740e6bfe06cafc5d259721292ae23a455023ccc5834fcdc1eb1f7de8162969&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 09 May 2026 17:22:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[V4 infra的框架和算子都有了，我们该干啥？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sZGLJVIb7d9qc6x3FabZVMSPdpibhhRASrQgRYyCuErwVyQ5ckJI5TibdY5Z87ZFG6AicxdoNXVoH2fahqW0XMtAXUwQUFbdZibePM/640?wxtype=jpeg&amp;wxfrom=0"/><p></p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547622&amp;idx=1&amp;sn=da4a7e8ec206aff13701beababa17202&amp;chksm=eacccc56b4f0e61430acd0fc8b28b55c8a7b8773ba6c20e97d65f3a3860cc348f9d92755ff7c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -295,18 +307,6 @@
       <title><![CDATA[一文讲清Skills概念与 OpenClaw 运作机制]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sYI065YLc5OopzNpMgF0EoZbPz5DDoBvnaToAnYqDvOfWsGcIkOibnKY9EtO70a01qWhsfibZrzgIhr8j4d6AsbmfC1z7l9ITmzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>“Skills”在 2025–2026 年的语境里，已不仅是“可复用提示词模板”，而逐渐演化为一种可移植的、可工程化治理的“过程性能力包”：以文件夹为最小分发单元，包含 SKILL.md（YAML f</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546906&amp;idx=1&amp;sn=3caa35b0d39d576e1667fbf559cd9f83&amp;chksm=eae71ba264a32bf1b7bd2dcea2a6bc0730f2a1e1a506aa0a7f12f978f819249508f701fc9643&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 01 Mar 2026 12:16:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[招生 | 清华人工智能学院机器人/大模型/科学智能方向-陈勇超课题组]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2saZh28SBDbc07ia1CwbJBOaQqBvcJ2eXupIib9s51pa0gur0a9P52PF4U1WFEVYksY7tM12VWfw2zZ3NznWG16yxjmP9UiaDeOC6k/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是陈勇超，我将于2026年8月加入清华大学人工智能学院 (College of AI)，担任助理教授。我正在寻找2027秋季入学的博士生（可以提前跟我开始预研）。此外，我们课题组长期招收全职</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546906&amp;idx=2&amp;sn=5fa2060a81b40699cdf7a4db55ac273a&amp;chksm=ea7b1156144135ad4e4ad6ab94d1ad13c8162f07d78d2627994c4f8545e8ff88fb7e4afde5c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 01 Mar 2026 12:16:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何给reasoning提供过程奖励？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sbQA7qSeYbLFQByfJjhXAfsd3KwmRVn1ThbvTDtEFo8doTmpNkFcZ6ZL5jryNa8HzHKbrnYVNMibJE1ZcP4fsSCQSZ2t4EXsA78/300?wxtype=jpeg&amp;wxfrom=0"/><p>当前主流强化学习方法在推理任务中主要采用两类奖励信号：1️⃣ Outcome-only 奖励仅依据最终答案是否正确进行打分。这种方式存在明显缺陷：模型可能通过错误甚至谬误的中间步骤“蒙对答案”强化学习</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546906&amp;idx=3&amp;sn=ff578589013fb65945902a69ebb0c410&amp;chksm=ea487f6f7f2b9fe83bd867e2722e18e677ae711b83b298bc7449051f1d0c58f4a4d0d6ec44e7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 01 Mar 2026 12:16:12 +0800</pubDate>
     </item>
   </channel>
