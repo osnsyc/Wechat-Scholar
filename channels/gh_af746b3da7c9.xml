@@ -10,6 +10,12 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[Karpathy公开附议：AI Agent 的输出格式，正在从 Markdown 走向 HTML]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sYiaSGSEoQCK528rUg88O9xq91QW9zUe2wgHdttDdhDkTzl4m2USW8VlbEI4CUVATKIBiaYb8ECp1JnOr8lGz0icNibFw9etIU2JdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>让 Agent 写万字方案或代码审查报告，结果打开文件看到满屏的 ### 和用特殊字符硬凑的“颜色标注”，瞬间失去阅读欲望？随着 Agent 处理的任务日益复杂，作者在代码审查与架构规划等场景中已感受</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547728&amp;idx=1&amp;sn=bd1db8d96231ad0f62cadf45a0deca57&amp;chksm=eaf9df32a25fa125f268c124a3e5d39937a98f5d6a918baf43f446301693d2b60fd87f86832b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 时代的安全红队：别再只测 Prompt 了，真正危险的是“它会动手”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sbTuqAptIkPqWQKlR2aDLUiaU1qcGNG3UGUDMORDfMibJSctbibenZrXMvJArnue4zLXSxjJ2wvdXV5cm5OYNjB5WCtic40VLeAQyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 Agent 能替你发邮件、改 CRM、甚至发起支付时，安全测试如果还停留在“问它能不能生成违禁内容”，就太天真了。在推进 Agent 落地时普遍遇到一个痛点：传统安全对齐和单轮 Prompt 过滤</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547717&amp;idx=1&amp;sn=04960fc01daa8ca19911f3132da8a3af&amp;chksm=ea9606623134a56ac02d324bd3e34519e55ab25d03b835280d4ffa14e6b159c2216fa22c30d3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sb3AMk0kfsOHzOsPomrO2iaKQHGNfjAibaQgdg1IjNficTGA1h075pxSgICChibwOvpMcliaaFhDL3Pa36glozXGcicgoz7ypex6cxNQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近大模型圈最火的是什么？必须是 Agent（智能体）！从 DeepSeek-R1 到 OpenAI o1，大家都在喊"RL 强化学习才是终极出路”。但是，各位训练过 Agent 的同学都知道，这玩意</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546997&amp;idx=2&amp;sn=1ea0514e3f701ce9325e1ea5266911a1&amp;chksm=eab55816367a396c17b962cee6f8352bb9f2adfac8c99f02847a54d782da3742d3018d066d2b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Mar 2026 13:05:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[警告：你的Agent可能无法"解决"真实世界的视觉问题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sYTDegYQSRw5AWbxMnXlutZegP225wqmZMS4hzJhyJtxnicwoX4SyDpzzKS92xMnJLy8kGhYFVibAglle7RWArdv6GpaVuC4neFM/640?wxtype=jpeg&amp;wxfrom=0"/><p>当我们让最强 AI 看真实照片解决实际问题，最强大模型集体翻车 —— AgentVista: 超高难度多模态 Agent 评测我们提出了 AgentVista —— 一个面向真实视觉场景的超高难度多模</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247546967&amp;idx=1&amp;sn=ed3f57b9c4a8b4734dba3d43814f5109&amp;chksm=ea82923db3ca37e963349059c97ff71d599e5f8c8d09d73b17357996f69d0f2131ea52a79969&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Mar 2026 17:44:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
