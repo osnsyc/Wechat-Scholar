@@ -10,6 +10,18 @@
       <title>gh_867b296ea1f0</title>
     </image>
     <item>
+      <title><![CDATA[使用Matlab的两种陆地掩膜方案总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3yeEL96uVQSAQACSibdMLeTfMdfoE54K9xiaEV1icfBG3vLCm7gkgjap8LWo9DxakiaaN2wpXabamQxT0hicemCP0q7A1qBG1jkhIVp6ibqeqpVOo/640?wxtype=jpeg&amp;wxfrom=0"/><p>MATLAB 海洋/气象数据可视化：Pcolor 与 m_map 陆地掩膜方案对比作者：海洋遥感er在处理真实的海洋或气象 NetCDF (.nc) 数据时，数据通常包含大量的NaN（非数字）值来表</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzNzczNjQ3Ng==&amp;mid=2247492938&amp;idx=1&amp;sn=9c6e9a9dacddfd3db041ccd74b71ed99&amp;chksm=c3d230d7c8aea3d9384f0e8f37331610b9207c9ec2cec672566a9584f3931f43d2b20a669b2e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于物理信息神经网络（PINN）的三维珊瑚礁热力场重构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3yeEL96uVQQP7oXAcS0w43EiaVqZoZvuTzCGjAIhZVKU3tndSI4stx9CI67ZaTfGS3OSX2hnqY9cUywsEfwldKreHjiadniaib0uz9D8VBicAolw/300?wxtype=jpeg&amp;wxfrom=0"/><p>基于物理信息神经网络（PINN）的三维珊瑚礁热力场重构题目：Depth-Resolved Coral Reef Thermal Fields from Satellite SST and Sparse</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzNzczNjQ3Ng==&amp;mid=2247492938&amp;idx=2&amp;sn=1375d5146a0051231c07dfa2c94a6160&amp;chksm=c348b889bada335c9a5bb748a770bfb01cac3236e488d5325a294338098e7053fbaa886ed7b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【文献整理】海洋《预测》相关文献]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3yeEL96uVQTOV69v4OhESANiaicJBsibQia6lVtpbE0UXQG4ibreC4WITzW1HblcgdnxxBiazFianTtHOI4wDG87Y1YrSDZwFDrN7OBUWicQQoLBHPk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在海洋科学领域，准确预测温度、盐度、海流、潮汐等传统海洋要素，始终是理解海洋动力过程、保障海上作业安全以及应对气候变化的核心课题。随着观测手段与数值模型的不断演进，相关预测方法也经历了从经验统计、线性</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzNzczNjQ3Ng==&amp;mid=2247492935&amp;idx=1&amp;sn=b77abd8edb1c59d72512be25e416d499&amp;chksm=c3b45306a067870a6025dfbf038794bb26cb0422c30efa77ce42ca1512647d9aa2325f837c6e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3yeEL96uVQQfVdbPHWCZealdZAbPcrWRq3yKXFXSKyQ2ucMNb5nYyklQP2QXRS8WibWVS8RxCZIhMUNgTsYEcOicPDlYbaYSszQG54wRX7WnY/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于时空邻近自适应学习与两点差值的全球海洋次表层温度重建（1960-2022）主要发现和创新• 提出ASTEN新方法：该研究提出了一种名为“自适应时空邻近与两点差值”（ASTEN）的新方法，用于重建全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzNzczNjQ3Ng==&amp;mid=2247492396&amp;idx=1&amp;sn=f64b593ab66c1ee120826696f0e9e11b&amp;chksm=c314d65a2a15d1f04c3746d5ecebf0a0fe9baa9db788541e571d532ea5b13b87887207adcabe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【RSE】首颗可持续发展科学卫星：SDGSAT-1如何助力联合国2030议程？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3yeEL96uVQSmOdXiaOfGQFOJuib3tW69vOewBYIOKPaGUdAXt828u1NvvH5UUEBqVvibDVMzL5icQWiaoWtUPNJCyv3ZUpb8iaoRUW6Jvcp12Z6Js/300?wxtype=jpeg&amp;wxfrom=0"/><p>首颗可持续发展科学卫星：SDGSAT-1如何助力联合国2030议程？主要发现和创新1. 全球首颗服务可持续发展目标的科学卫星：SDGSAT-1于2021年11月成功发射，是全球首颗专门服务于联合国20</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzNzczNjQ3Ng==&amp;mid=2247492396&amp;idx=2&amp;sn=083b16e84acf86c2e330f0b0e9fea493&amp;chksm=c35546543c3bb9df23e9eba24eccf8ca7dd6786517b338e8615932f83dfbbdcd3808ddffa804&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【GRL】捕获超强台风“摩羯”：揭秘近岸大气表面层中的多尺度能量传输]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3yeEL96uVQSX8A0B9Wibiazl1tdVESict6htJMCkUicIEiacEEjFkrgz7kicib3zL7KkyjCAyBA3rpCqHhlDQWfCQtpvoVK6N8Micjghw4T9wkKajtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>捕获超强台风“摩羯”：揭秘近岸大气表面层中的多尺度能量传输主要发现和创新• 风场演变的精细观测：该作者利用超强台风“摩羯”期间的高分辨率塔基观测数据，详细刻画了从外围环流到主要影响区过程中，近海面层风</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzNzczNjQ3Ng==&amp;mid=2247492361&amp;idx=1&amp;sn=25ad4e06a8da6064af0006d76f07bf6f&amp;chksm=c34cae20be33d7b90d358a8ae9a89a4c9b63b27b3f3bcdc8838f2545537a9dac8079ce4c085d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
