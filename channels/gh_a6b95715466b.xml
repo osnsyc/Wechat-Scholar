@@ -10,6 +10,12 @@
       <title>gh_a6b95715466b</title>
     </image>
     <item>
+      <title><![CDATA[深度！DeepSeek-V4 中的 MegaMoE，细致的 Overlap 通信和计算延迟方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex6UYibibVfXoWZpDBcfBKCYLwbLEYj5EvKnHJmbS37aWaeFbmDGSH8FAeWXa5h7jDyaNquuVzKnYKbEOU16n6jyOWEfWKibZibBH5s/640?wxtype=jpeg&amp;wxfrom=0"/><p>TL;DR前一篇分析了DeepSeek-V4的算法和模型结构《DeepSeek-V4详细分析(1): 算法和模型结构》, 接下来我们分析技术报告的第三章和基础设施相关的内容, 篇幅比较长因此也会拆成几</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247515770&amp;idx=1&amp;sn=34b41e2b8265c332ef2a171c533c70c9&amp;chksm=e8a311d942d2156cf0a20274cf84f328f15ffd4d67ec6d512fdabbf5325ac8635bdea332e710&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 13:10:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OPD 到底在优化什么？周六上午10点，一起聊聊其中的三类典型失败以及修复路径]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex6JJa9IVic4iclYibNJkhVRLngDBAFa4DLfZ7s6ajBlicc9VYvWWRYTLMOqPzkj529sHic01iaXYdH55yyqz1CHdCwRS6eNw5Wftjp60/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 在最近的大模型后训练中，On-Policy Distillation已经成为默认选项之一。但研究者们在分析训练日志、实验曲线和对比不同 OPD</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247515758&amp;idx=1&amp;sn=79548f34735572d1f505a91b3540ec40&amp;chksm=e8dac7f120c2fff7686e845813b939cb70ba1b1f78bd73d745b72767aa513a1328cbfcbd7db3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kqA90yjYex5UMhE1icAYiagPhl2kS3TcC2t6ffVRZT3Z8bWkorOAvjh5lAf9wTiamgRum3YYUhqRI8cmZOrhGA0qHqNMp6tLiatzpbgR6tliaib3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：程家乐，清华大学博士生https://github.com/chengjl19/awesome-agent-harness-notes 本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247514088&amp;idx=1&amp;sn=35dedefd99858a7c662544444a89ebfa&amp;chksm=e863f319ef819a7adb8db498c6f5fa531a2bae72d0f4bf3bde31ce60f3cbc006eb300d0494cd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 05 Apr 2026 14:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICLR'26 Oral | 当 LLM Agent 在多轮推理中迷失时：T3 如何让强化学习重新学会主动推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex5hMYibsXt2YU4IJVItk9tqa4tX9CzSxV8x1woc0xASOPpXfN0MgJSicNqv0ibebtwPXzYZ22hKWtBhrYssN7x38v4wYz0048SSWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：Deyu Zou @ CUHK 随着大语言模型逐步从「单轮问答」走向「真实环境中的持续交互」，各种各样如OpenClaw的agent</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247514082&amp;idx=1&amp;sn=2feaddfd18c0d96e24a42a8f9685e4a5&amp;chksm=e8fdf35d999acc8f34f4d6632cd88c71d78ecf01de623519800efbf4a813650f40c2705a733b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Apr 2026 20:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
