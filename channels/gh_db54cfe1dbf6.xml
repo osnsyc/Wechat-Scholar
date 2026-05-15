@@ -10,6 +10,12 @@
       <title>gh_db54cfe1dbf6</title>
     </image>
     <item>
+      <title><![CDATA[深度解读｜去掉VAE和Vision Encoder，理解生成模型反而更强？Meta×HKU最新TUNA系列统一多模态模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJAntMdKAHFtcbXulwCU6EgcBKAHKSKSuibB0CD79iaibtw7ialt435XwJiaL8LyHA0TxziauZodYQTX3KRC5H9jasZZgaU534Q3mySrU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨科技猛兽 编辑丨极市平台极市导读 直觉上，视觉编码器越强模型应该越好——但TUNA-2的实验结论颠覆了这一认知：逐步去掉VAE和Representation Encoder，只保留一个Patch</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651701076&amp;idx=1&amp;sn=fd53d72f13c45ca7898fecdabefa3bff&amp;chksm=f2a3d852e4b81e512c7533d5d6305c9dd640dbe01d6b2da4cb1a9274649510ecd526870d45e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 07:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[UCAN：轻量级超分辨率中统一卷积注意力网络的扩展感受野(CVPR2026)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8EW9moLxdK1C8dPBbibsk1f0ibwT64kvl5S6myyuOib7rhLqRZeZ9UbA7dSKGibRrciaVIbcT4gSXc2cHqmTyKCzwtaOicWdYicVwkjunIQg495798/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目UCAN: Uniﬁed Convolutional Attention Network for Expansive Receptive Fields in Lightweight Super</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651701071&amp;idx=1&amp;sn=4377b83337ef10cfaf08773f2db7ed87&amp;chksm=f26818986270ffba1b02a9e8d820084ab07a3e39340b58cc8282c60d7b00cf0f486697a0c027&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5ooHoYt0tgnAJJ73bSic08YhteQJQ0JgkBRibBDUmd9u4ft8QxsoSsKMMZYvStqdNzHd9rCWXk8QOBf0VfLUCcCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🚀 CPU推理暴增43%，部署流程砍掉NMS！YOLO26重新定义边缘视觉新标准还在为边缘设备部署目标检测模型而头疼吗？复杂的后处理、对GPU的强依赖、小目标检测的“近视眼”……这些痛点，今天被YO</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651700545&amp;idx=1&amp;sn=79366de0fe651577c12eb04838f5bfe8&amp;chksm=f2e1e7e5c35b6265825f1386e7dab1bb343e2edfcab7bf92a67dcc189c0075f926994a971f6a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 23:01:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ViT-5 开源 | 5年架构精华，重塑 Vision Transformer的“即插即用”升级方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UVAep1ZQCf9IwL8cJ29IicyyByxOHkDPMtO0zN6Dh2XvzgxKU4yBOALOBviaiamicFgHzqZFtALyZzNZZlibnEG11huutcClUerxB7vja2Xcic9dc/640?wxtype=jpeg&amp;wxfrom=0"/><p>你是否还在为视觉Transformer（ViT）的性能瓶颈而苦恼？明明大语言模型（LLM）通过架构改进一路高歌猛进，但视觉ViT自2020年诞生以来，核心设计却几乎原地踏步。DeiT-III、Sig</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651700543&amp;idx=1&amp;sn=b3d360ba4d5dd6e102ec85fbd7ace59c&amp;chksm=f2c8a7ba26377c0548e2da411eddafe24e02a132b87537dd0f1ae58aada330ba16684c55cfa1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 22:16:05 +0800</pubDate>
     </item>
   </channel>
 </rss>

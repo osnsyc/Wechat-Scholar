@@ -10,6 +10,18 @@
       <title>gh_a6b95715466b</title>
     </image>
     <item>
+      <title><![CDATA[OPD 到底在优化什么？周六上午10点，一起聊聊其中的三类典型失败以及修复路径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex6JJa9IVic4iclYibNJkhVRLngDBAFa4DLfZ7s6ajBlicc9VYvWWRYTLMOqPzkj529sHic01iaXYdH55yyqz1CHdCwRS6eNw5Wftjp60/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 在最近的大模型后训练中，On-Policy Distillation已经成为默认选项之一。但研究者们在分析训练日志、实验曲线和对比不同 OPD</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247515758&amp;idx=1&amp;sn=79548f34735572d1f505a91b3540ec40&amp;chksm=e8dac7f120c2fff7686e845813b939cb70ba1b1f78bd73d745b72767aa513a1328cbfcbd7db3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[对比离线蒸馏！为什么选择 OPD？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kqA90yjYex5VBo0zSJISW0ia0uibRNe93x1IASp1TtcdAG2qBHMVADAlRGibnYTZfiaLFBGGv543hHLjFRlMjaM5dBQsLchSY1gxerThvS5cb58/300?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：Losterhttps://zhuanlan.zhihu.com/p/2035761331287105968免费为科研人员提供成果宣传支持，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247515758&amp;idx=2&amp;sn=47fc0b231fb33029a301576114d47d5b&amp;chksm=e882adea8238663bc63bdbd4dfb5e57543f1185d455704bb6d2a7809ebea7168cc8e1d1847db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OPD 深度解析：从数学推导到 DeepSeek V4、SWIFT 与 verl 实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex63Dy4VNrLCoibgMEtIIc1GHeUzabI9n2w5GdzX2h0RpzJUTr6ibm2vf6MaLAW2pKTWtCQZUA5xzWSTDpXORNCnATkJk0s4jbZaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：bananahttps://zhuanlan.zhihu.com/p/2033212181823608430 这篇文章要回答的问题：OPD</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247515709&amp;idx=1&amp;sn=223d75b8f2d4b9a82bcec53e1bd11787&amp;chksm=e83466332cbc900d66283e1f5d9cbc14f794e699e74515246155998310565b0dd9aaf6f9e8db&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex5hMYibsXt2YU4IJVItk9tqa4tX9CzSxV8x1woc0xASOPpXfN0MgJSicNqv0ibebtwPXzYZ22hKWtBhrYssN7x38v4wYz0048SSWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：Deyu Zou @ CUHK 随着大语言模型逐步从「单轮问答」走向「真实环境中的持续交互」，各种各样如OpenClaw的agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247514082&amp;idx=1&amp;sn=2feaddfd18c0d96e24a42a8f9685e4a5&amp;chksm=e8fdf35d999acc8f34f4d6632cd88c71d78ecf01de623519800efbf4a813650f40c2705a733b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 04 Apr 2026 20:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谈谈 DeepSeek-R1 和 V3.2 的后训练以及 RL 训练稳定性的问题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex7hvEA8MZUwfN2QA2n3Em7zI4gniaE5CoCa3Hx69cvgwj8WcwP8yfaIWLysmNVkgmeAph8d8e0CElXna9muVYPx4jicCXgQcRv5U/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/长文干货！从 SFT 到 PPO 全解：拒绝采样、Reward Model、REINFORCE、Actor-Critic从 ORM 到 PRM，Re</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247513887&amp;idx=1&amp;sn=39a1b554669143feeec03fec09a6097e&amp;chksm=e8a676c311ce8ed14c86ebc396acb10ecf2d76e4a8c692f8da0b0dab338093ef6a93758bbfa9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code 源码逆向工程与系统性分析！Harness Engineering: 基于 Claude Code 的完全指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kqA90yjYex6g2OibTyaTShYW7SicxTcvoJXKvMXiaaZicrBdsHt6DZIlK9mhmMic0q46hUibXFEpX7pd1nVVnSibsPaXkOSzZIk5nYZ9556sBS1GO0/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：wanlanglin（文章底部有claude code源码交流群，可以和作者直接交流）https://wanlanglin.github.i</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247513815&amp;idx=1&amp;sn=bfa7e1a0c0accdb65d1def80d6b28be7&amp;chksm=e8e65459393c720737044085f4f22dfbd81866eca60e09618b593bf2f701e90874ad4465c08e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,6 +10,24 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[不改架构、不加算力：Nous Research巧用Token叠加，预训练提速2.5倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAxPQX68ITDNZQmAPUP8QYtgQP09V3VIpIoeLWOgbCiaqxiatU0I0FA1WNzpmM6C3micwfWQAbIcTW2libeusic5iaO7IISarEUw3dKc/640?wxtype=jpeg&amp;wxfrom=0"/><p>不改模型架构和推理方式，只在预训练前半程调整 token 表示和预测目标，就让 10B-A1B MoE 跑出同等 loss 下最高 2.5 倍提速。标准 LLM 预训练里，每个训练 step 通常只处</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720285&amp;idx=1&amp;sn=e7a88a3a93ada17e13f17fb0552075f2&amp;chksm=97cb994721b8ae5fad821151567317923e5eb9ebff88243e316c04bac8e711c7609e002a82d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 17:35:06 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CVPR 2026 | 旋转语义魔方：SafeRoPE保障新一代文生图安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAJlo7z5RcFtiaQtf54icousDPEGGubY6xJ2GpQSWyibEIZETmOFM7AYoLIa3uwuPPnqNQ9MalNtibAQq9ibwPiaNGJOeuib0ARzODhds/300?wxtype=jpeg&amp;wxfrom=0"/><p>在新一代文生图模型中，语义如何“排列”，往往比语义“是什么”更重要。在过去的文生图安全研究中，主流方法大多围绕三个方向展开：通过微调模型参数（fine-tuning）、干预注意力分布（attentio</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720285&amp;idx=2&amp;sn=67861a494fa0561a16ff5de883df2488&amp;chksm=97361305e07aeced69049bd7d99104c335761480f37e4f9bca109d4c4a0b34e97eaa98d901bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 17:35:06 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AISY | 浙江大学李樵风课题组：近红外辅助3DGS，辅助暗光场景三维重建与增强]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAA7Uy9gNGFF9ialxd8oWLl53e7cfoCsoFqOq4tzubibfxkOXicQRRUIVb0MlHoqwKFmnlUDX1WrcgfpqfR2Mb0rYkibLaud7LcMHI/300?wxtype=jpeg&amp;wxfrom=0"/><p>文章概述：近日，浙江大学机械工程学院李樵风课题组联合西安光机所在Advanced Intelligent Systems上发表了题为NIRGB-GS: Near-Infrared Assisted L</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720285&amp;idx=3&amp;sn=46a54c009aedb516564d076debf4c36c&amp;chksm=972ec07aa9338a8e0b9172ddc1224a8df2379eaed525df6939dec3fe5c51c56d0e53e014ea31&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 17:35:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[1.3B参数，2.4倍推理吞吐：MiniCPM-V 4.6开源，实现端侧效率新突破]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDySSoicmFPPst6QYdrlxrCdaWH20dk4WFsGsH0eN7cEvpoMSVZ2IZLvQr7ticQV53vkluf8Kj6JYvsUc8HpfGxYiag5FNmLibGZ5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>MiniCPM-V 4.6 开源，6G 内存即可流畅运行多模态大模型。5 月 11 日，面壁智能联合清华大学、OpenBMB 开源社区正式发布并开源了新一代端侧多模态大模型：MiniCPM-V 4.6</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720254&amp;idx=1&amp;sn=10c67046380991ebb3229873ce768ba2&amp;chksm=974127eab465223ba8eee7b37e6d97d3428049c15652feac3e3e94e56eafe11a6be66aefe606&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeB0LeIqVEX5WVkI1Efled3XgEOouC9lJkbLCJeX1nYR9SOGMo2sTzC1RTUMypklGtWvmXOGRibSOK5z7s6EHQRUP3sDBtVKdsB4/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型逐步从「单轮问答」走向「真实环境中的持续交互」，各种各样如 OpenClaw 的 agentic applications 正在成为当前研究与产业共同关注的核心方向。无论是在网页环境中进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719474&amp;idx=2&amp;sn=be225fb932a6dfac03b021ea389476c5&amp;chksm=97d576341faa4df9f92a11a7b756a74b3c8a4a6c6b082829bc74704227526827b7379406c5a5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Apr 2026 20:50:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Meta押注Neural Computers：下一代计算机，就是模型本身？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAhqtfJXeBHvpaMU4tfLbTG2ZjpWxGZcnOxsHqricVBpxzjqRMJgVZPrhvXZ9QYT8ENW3CoFjOorBRfw71zwCyzZibhmBvFbBr8c/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们开始期待机器本身学会运行。若你也曾想过：“AI 最终会成为一种计算机”，那本文就是写给你的。过去几十年，计算机逐渐成为人类完成任务的重要媒介。最近几年，AI 也开始进入这个位置：它不再只回答问题，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719459&amp;idx=1&amp;sn=e2c6f6e72e2e3f732d196c322d90c386&amp;chksm=972dd8cdfb468b64ee5aadb0a4503b823a29deab40e6622680bae3f85e812738786d7dd7b17b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 14:35:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[复旦大学 × StepFun开源PixelSmile：让人脸表情迈向连续可控]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBCeW8S4Yr52gUaOlhACuBnUD5fVx28OJR67mD7VxyAuMYptR1D9icgjVG0HbqKSrPgia2IATYPuFCaicwhX39lCwOBIw4R1NT17U/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，通用图像编辑模型已经能够在一定程度上完成表情修改。从“微笑”到“愤怒”，这些高层语义的编辑已经不再困难。但当我们希望进一步控制表情时，一个更本质的问题会逐渐显现：表情可以被改变，但仍然难以被精</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719459&amp;idx=2&amp;sn=15473200a8f7abf627d87682b159009c&amp;chksm=977801407f01271b3b77e57e79681662f1aecdbcbdade6a818e82e11a3f9f52b59dd18af5afc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 14:35:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预告 | 斯坦福大学孙卿云博士：构建可自我进化的金融AI智能体]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeCqHG2VpXBapN8EibyyrSkupcK8PnKRqOuVOpPRT6OAxFgMicD8DV2vmkPe2JricaHOML4py0yiclPibV2icOboIqaCstaUgCm1OkFdY/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly × 星弧 STARC 科研觉醒AI前沿讲座 直播主题 从Transformer到Alpha：构建可自我进化的金融AI智能体 直播嘉宾 孙卿云斯坦福大学数学博士AI 研究科学家</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719459&amp;idx=3&amp;sn=6838ae2e03b4df3827eaa69d2f7ea2e3&amp;chksm=9721f63f02bc60aaad789a531b676dafff0f8f28a2a566127152486ffbd5ab8a826f99310559&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 14:35:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
