@@ -10,6 +10,12 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[0.6B干翻GPT-5.2，MemPrivacy给Agent隐私问题画了句号]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwDoc73rticWTcYquibIJr7Etz2gxPCHLGe6tAGVabMd42rsmOLV72xyCUbPibpjyr3FteCSVOfvOEE60XiaAFwM8WbVib0ibl4LYMZ6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！让Agent记住你，是它变聪明的开始，也是你隐私暴露的起点。这个雷区，整个行业绕了很久。https://huggingface.co/openai/p</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247507400&amp;idx=1&amp;sn=c2e3feba24cb6088bfdb5a4597e4bfad&amp;chksm=c3b10f7d409987c87b4a21cd2b273772e8666935a887879c67fafd7271f376d2e63770e79447&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 11:02:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2篇最新Anthropic论文，揭开LLM对齐新范式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwBYHnEmR74aB48CplZ62dg4bEnXPKqBdDAg3oUN6fOdMa0rIOVcMMSX2BfIJXeGgCRCyCBCoYLPwuialf7wNNM9Es8qhH0dITdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！Anthropic在5月连发两篇研究，揭开了LLM对齐训练的新范式。核心结论极其反直觉：单纯让模型模仿正确行为（SFT/RLHF）不足以保证安全；必须</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247507399&amp;idx=1&amp;sn=0498f7ea08368ae16048fdb9b3a6f20d&amp;chksm=c328b988a183fbc92659fb38b37b634dd6cf392894b1cfa0a53efd3508be8c8a22224788e1cd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[盘一下Anthropic 244页Claude Mythos报告中隐藏的SAE技术]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwASyXhwsKdUqQLFSbG5g0QNe3JueXszk31V2qFfwu1OE4l9MpccukpT4OF4vsp54mqr7aFu0ZqrhMZsKe8zaiaHibfcwYx1mg2zc/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！今天，Anthropic公告了一个强大又危险的大模型Claude Mythos Preview，以至于不能发布给大家用。直接看指标，Agentic C</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247506245&amp;idx=1&amp;sn=2bb549ff1b7913930ce9af7891797428&amp;chksm=c3369a04b948b6275d4b435308b1305792fb66eddb47d9f5f698e5ed4e75cbb478b4af60fa2b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 16:54:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[打破视觉Token的算力诅咒，RedundancyLens如何为多模态大模型推理减负]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwB5D0ibGrPYmTMF8P8iahnQSmsPBL0S8Lkha7jTv5I7jNjaBPxib54ItjK3nID41KdnLicMcTR0hyFGPrX0AyZkJtoG2753rs2XPVg/300?wxtype=jpeg&amp;wxfrom=0"/><p>多模态大模型虽在视觉与语言任务中表现突出，但其 Decoder-only 架构在处理大量视觉 Token 时存在显著计算冗余。该论文由合合信息团队参与完成，提出一套无需额外训练的动态计算削减方法，通过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247506245&amp;idx=2&amp;sn=ac1218eae46dd99227ceb2a5d4129d15&amp;chksm=c3a4744a6d38b4699d9d21976e910078b71f75efb4d65a14e3ae5c850eb7fa3620d0a32f55a7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Apr 2026 16:54:00 +0800</pubDate>
     </item>
   </channel>
