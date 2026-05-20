@@ -10,6 +10,18 @@
       <title>gh_db54cfe1dbf6</title>
     </image>
     <item>
+      <title><![CDATA[完成DINOv3+SAM+CLIP的活！EUPE 3阶段蒸馏让iPhone 62ms跑通分类/分割/VLM，全面SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hzCR32CiabkF705iaoFlz4RiaYavibmLyqz14U1DasOLla8S3HUN8FAn0TxfAOTOYMZgEP3pibjgqDCRMGfcoSybe4yBjqouOR6dn6VP5E6yKfdI/640?wxtype=jpeg&amp;wxfrom=0"/><p>你是否有这样的困扰：在边缘设备上跑AI，既要图片分类、又要精准分割、还要能看图问答，但每个任务最强的视觉编码器各不相同，要么装三个模型撑爆内存，要么用一个“通才”模型却在关键任务上掉链子？这个困境的背</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651701114&amp;idx=1&amp;sn=ca49582e0c6ad25833468879f0fbfb38&amp;chksm=f28919d4a6605c419bc9d02a43d459b7e2341985b2e1d1acf027ba54352e184529e6813f4c5c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DINO 行，DINOv2 不行？注意力迁移在 11 个 ViT 家族里"精神分裂" | 架构不匹配，蒸馏反而成毒药]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UVAep1ZQCf8SRBj9icLzticSFaQeNZibyHK6BwjIkKbaMfry7U72TjiaqUyqMM8wglibaA6a5aHV1dpkibF6EWry2f2O3BKLO2vt6cQ5yws6pRgia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>当你说“把教师的注意力模式复制给学生就能恢复全部性能”，你是否也默认这是ViT迁移的黄金法则？最新研究却狠狠打了脸：在11个ViT家族中，有4个家族在注意力迁移后性能暴跌5.1%，甚至不如从头训练！更</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651701100&amp;idx=1&amp;sn=8be563fcb196d79566e8e6fd2c4ce1c2&amp;chksm=f26e9ab836530f262db37bc6424319d1cb36d76fd58f2c8a23da1b5faa908324601ad0ea38d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 19 May 2026 22:08:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVPR 2026 NTIRE：小米影像算法的技术突破]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OKiavzEIrxLd2yzK4X6Ah3p9rwwQQK2js2FBhcmKHSRs5uyrKaz3lUWDC1qN44cUTrR457Y76Df8icCWEKb7J3aHHfMxEogia4G6CY38d9E8nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注“AIWalker”公众号来源 | 小米技术链接 | CVPR 2026 NTIRE：小米影像算法的技术突破近日，小米在 CVPR 2026 NTIRE 赛事中荣获三项奖项。其中，小</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651701097&amp;idx=1&amp;sn=51b0d6b90df4db400bc907a9b43f969d&amp;chksm=f22a5a2c5f14ecf0758aa4563f0f2da81f8720923a96b660993ceb745d659739f025b453ff5d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3zd5t92QHVULznpWkqDgiarXIw8yhxTdYmaA1LiaYCcIM1A6DbdLibicmQAeicxY7ooOhRUAuf89EAic0lkBaJo02iaFA/300?wxtype=jpeg&amp;wxfrom=0"/><p>还在为Stable Diffusion的“烧显卡”推理速度发愁吗？想在手机上实时体验高清修图、一键换脸？今天，我们彻底告别云端依赖！一项名为NanoSD的突破性技术，从SD 1.5中“蒸馏”出参数量仅</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651700571&amp;idx=2&amp;sn=485079713b7662c9ae2762e6c3d4cdbe&amp;chksm=f2f6aa6afb27d9f3c4b7c542c008203c72db5d31b12c9efae0632d2935b076d79e5810c4d3ad&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Mar 2026 21:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[好莱坞导演坐不住了！SkyReels-V4发布：首个影院级音视频联合生成/修复/编辑统一框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/CcxCmIu7ee1s7ciaNRV6TB6Bx8bVibiaFIN2zyfTLQcoibv23zxBJib1AS3IASibQkPkByXxZibW4ZmbqFjRD4737jVNVxRSOAffPPlr2Ym1K35xCI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：SkyReels团队 解读：AI生成未来论文链接：https://arxiv.org/abs/2602.21818亮点直击多模态音视频基础模型：SkyReels-V4，一个基于双流MMDi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651700569&amp;idx=1&amp;sn=2d6d5d55032863867f005ff6acfc34f7&amp;chksm=f27606543b68af3bb0d52abc0b36216687d7b437c1259c947b245be8d78a4c700315a8f78218&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Dense、MoE之外第三条Scaling路径：交大提出JTok模块，省1/3算力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OKiavzEIrxLegg0VX4TrhKshou1zBs5qj6MN9IfsKLRfSAmic7krp5uXU03s7FLldPT0BhYNicfOic2tscV251aJWQ0LwL5uP6vN7UjNIaOicM20/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注“AIWalker”公众号来源 | 机器之心本文只做学术分享，如有侵权，联系删文本文第一作者杨烨彬为上海交通大学一年级硕士生，本科毕业于上海交通大学，研究方向为基座大模型架构与sca</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIyMjIxNDk3OA==&amp;mid=2651700569&amp;idx=2&amp;sn=832a6c737a2993a3c38c09457a966cbd&amp;chksm=f22da29229a78675e7f68645cedf1ecb0e70ec6d7c116f6570371fb11a7abb18ef4db8424610&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 22:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
