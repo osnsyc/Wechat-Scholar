@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-5-20）：NVIDIA发布Nemotron-Labs-Diffusion，三模式大语言模型支持AR/扩散并行/自推测解码无缝切换]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFbkusIrBrQ9LdZVDNVKMiaxPqM3Z2F08IHyhqLHZZVshu4uYbHNe6w73gND0h3Kn3G7M3MQcficNfibwh70mfvfC6kSoRJicUiaVHsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Nemotron-Labs-Diffusion★该项目是NVIDIA推出的三模式大语言模型，支持AR解码、扩散并行解码、自推测解码三种模式，仅需切换推理阶段的注意力模式即可实现无缝</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502349&amp;idx=1&amp;sn=104789683a3ec8092d9a03a96b26c069&amp;chksm=c0e34e69ebe7d7ae5989088a6baaab1346a467ee7f660d6723ed25e1234d611f7e18351c45b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-5-19）：字节跳动发布Lance，轻量级原生统一多模态模型，3B激活参数单框架支持图像视频理解生成编辑全链路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZTKGy2Fj3cAtomjOMShRTHqGiaeH6Ol4IEKvSmgDvGxlKxicxnf4ZVMtgszDP4SToIaHkktN7jD48W2Hoxd9lHic1sFsoMwDzmoE/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Lance★Lance是字节跳动研发的轻量级原生统一多模态模型，仅3B激活参数，单框架支持图像与视频的理解、生成、编辑全链路任务，采用分阶段多任务方案从零训练，在多项基准测试中表现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502339&amp;idx=1&amp;sn=376d5e32e11418229d890dee4e00f216&amp;chksm=c072cc7b356bd5d1aa14c77fb297d0bc16d00ca2674c4293b926d2fdd1e0f54047c47677bb9e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZLiaN5xUGF51mCFuhMk6jb1JEGmE4wEIwGM5EkYUjeUnnsZjgzgdbhS2jHahF4M2j8JEZgpbsWcQabQjIVk3p8QRDicFITRE70Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：FlashAttention-4★FlashAttention-4是深度学习领域里程碑式的Transformer注意力机制底层高性能优化算子。该项目针对NVIDIA Blackwel</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501741&amp;idx=1&amp;sn=25ff7dbf1932060c53ada30d36db3bd1&amp;chksm=c043f7ad762b7a519cef914e1f12d8e0f0dbee74548779427a2530465d9ffeab5fd54a8c3fa8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Mar 2026 18:39:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-3-5）：源Yuan3.0 Ultra开源，统一多模态架构+LAEP算法打造企业级万亿基础大模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFawoz7KiamcLzwcoDNf8OpicBsodf4UBr2FF3icJjyIYgibzbvribqXrkBFw1qwsjyI54yoGGmFchOyjYicoEic19ymP1gILneHpnsa9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Yuan3.0 Ultra★Yuan3.0 Ultra是一个多模态基础大型语言模型，专为企业级场景设计。它采用统一的多模态模型架构，集成了视觉编码器、语言主干和多模态对齐模块，能够协</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501729&amp;idx=1&amp;sn=8942febe64055ea9e8a7625a7184278f&amp;chksm=c0a77097c8fbbf5adb40c7388a2417dda340c42bd64ac0e9ef8e0cc7fe117fc893467f5144ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

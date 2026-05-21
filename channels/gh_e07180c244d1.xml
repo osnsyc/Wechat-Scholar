@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[清华等开源KVPO：首个原生支持ODE的视频对齐强化学习框架，长视频质量提升28.4%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWicPb8oibVLnlYw3HkeGjLiclYhYQVibnl9qQYWicsJn8lXf4Fh1MmEbpdfaAc6AKKuwhwuibJeYiaVSFovP9OCEOcecpCIgd05UCvLfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，视频生成领域可谓是“神仙打架”，各种模型层出不穷。但在这些炫酷的视频背后，如何让生成的内容更符合人类的审美和需求（即偏好对齐），一直是个让人头疼的工程难题。特别是对于追求低延迟、流式输出的自回归</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247659962&amp;idx=1&amp;sn=a0d1ba2e3938287de204d3fff6ba6aa8&amp;chksm=9743942d98ccd47b701a5c9fcbaeff29bbf9876482f3df2df4dc8c6db2ff97d5372d96b3f184&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 23:21:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICML 2026 | 突破图像编辑推理瓶颈！ReasonBrain实现假设性指令精准响应与多场景泛化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8uk0ib6x9NAfMibC8F4SrKGpibBUYIvTicziaonZNbQibw24B7q2LDQibFn8DbWHIBABI1icSRQorCiaYGU2U9XDdcLnkubPpLQgLAia8ok/640?wxtype=jpeg&amp;wxfrom=0"/><p>在指令型图像编辑（IIE）领域，随着多模态大语言模型（MLLMs）的融入，模型对明确指令的响应能力已得到显著提升，但面对“假设性指令”时，仍面临难以逾越的核心困境：无法深度推理隐含意图、缺乏细粒度推理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247659892&amp;idx=1&amp;sn=ffc7db73cf53ff027e17899999281654&amp;chksm=974c8c8737eed75b0213066d99945c4bbdd0adeec73a073ab32f2ba726574a93bb23c0a33c23&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW83zSuTAIBOPweBKvmqMzqpb4nqlT1qaxgFFKgKY59YaLPpJr35W6WFibLjVxl9pCiaSQaXl2iaYkUUbmE375GB4gkUH3NX90ImvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在开放世界中，深度学习模型经常会遇到一些“没见过”的类别，也就是我们常说的分布外（Out-of-Distribution, OOD）样本。模型自信地对分布外样本误判，在自动驾驶或医疗诊断等应用中可能是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247658032&amp;idx=1&amp;sn=52a98c5f99ca6887d7aedfb69bb4432e&amp;chksm=975bf7e01878a303df0c719a0334d5165a86a0ef6820bfddb70719a8b5c46794dd243e5f2567&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 13:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICLR 2026 | RefCOCO 上 90%+ 就代表模型"看懂了"？这个 benchmark 来测测真实的视觉推理能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW8sYPjI4p3H92ib92XBFUWoMdFdEPcCaJH1t47BAdCShtBFGIadbPKic9EGgSk7avVvSl3aXicxrTqF3ueNpPbrpk3qKTyiaoChTXc/640?wxtype=jpeg&amp;wxfrom=0"/><p>来自 Northeastern University 的研究团队提出了 Ref-Adv——一个专门用来考察多模态大模型深层视觉推理能力的 REC benchmark，已被 ICLR 2026 接收。先</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247657983&amp;idx=1&amp;sn=797c986fdd6bb190a0f5e912dded68bd&amp;chksm=974ed51cdf476dee5e779aef83b906322365f922a06a795cca54051517cec792c62929cbd6d6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 21:33:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
