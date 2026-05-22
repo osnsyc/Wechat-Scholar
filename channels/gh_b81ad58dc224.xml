@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-5-21）：Cohere Labs发布Command A+，25B激活参数多模态架构，128K上下文支撑复杂Agent与推理场景]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFaPAficAIiaxMNMcXpazSaIVYShw2WwqdmD2GqicpRhCLlknSGMgTs2cpNOczWo7I8SytyuXn9QlQR04LZ7Eiam6RafQtXdWkuy12E/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Command A+★Command A+是Cohere Labs开发的开源多模态大模型，总参数量218B、激活参数量25B，支持128K上下文输入，针对智能体、多语言、重推理任务</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502359&amp;idx=1&amp;sn=2ad1a63c36417d5b3f9f6993e5ba9c3f&amp;chksm=c07ca448e7669cc9620563f8964a51e0baf6b569f41202f7db98315c408d865173e20c1788f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 21 May 2026 18:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-5-20）：NVIDIA发布Nemotron-Labs-Diffusion，三模式大语言模型支持AR/扩散并行/自推测解码无缝切换]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFbkusIrBrQ9LdZVDNVKMiaxPqM3Z2F08IHyhqLHZZVshu4uYbHNe6w73gND0h3Kn3G7M3MQcficNfibwh70mfvfC6kSoRJicUiaVHsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Nemotron-Labs-Diffusion★该项目是NVIDIA推出的三模式大语言模型，支持AR解码、扩散并行解码、自推测解码三种模式，仅需切换推理阶段的注意力模式即可实现无缝</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502349&amp;idx=1&amp;sn=104789683a3ec8092d9a03a96b26c069&amp;chksm=c0e34e69ebe7d7ae5989088a6baaab1346a467ee7f660d6723ed25e1234d611f7e18351c45b1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFbr1hZibgox1QZ4icXEnuEqYbPdiaPvHvsAKmJA9zS6r5QH4asNhjW0Z7RwvDzCeTb9t5NuWibkwb6AIKH5ndKfpLibySvTSlhrl6Jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：FireRed-Image-Edit★FireRed-Image-Edit是一个强大的图像编辑基础模型，提供开源的最先进性能，具备精确的指令跟随、高保真的生成、卓越的身份一致性以及无</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501753&amp;idx=1&amp;sn=484fa76b0593be91adbdad708439da06&amp;chksm=c098c9e7c3275bdafc069b40e43a016aced35203102d76a472e405202f6b12a9b35ee8389b8e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Mar 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-3-6）：FlashAttention-4里程碑开源，2CTA MMA+条件softmax解锁底层性能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZLiaN5xUGF51mCFuhMk6jb1JEGmE4wEIwGM5EkYUjeUnnsZjgzgdbhS2jHahF4M2j8JEZgpbsWcQabQjIVk3p8QRDicFITRE70Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：FlashAttention-4★FlashAttention-4是深度学习领域里程碑式的Transformer注意力机制底层高性能优化算子。该项目针对NVIDIA Blackwel</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501741&amp;idx=1&amp;sn=25ff7dbf1932060c53ada30d36db3bd1&amp;chksm=c043f7ad762b7a519cef914e1f12d8e0f0dbee74548779427a2530465d9ffeab5fd54a8c3fa8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 18:39:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
