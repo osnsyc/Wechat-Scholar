@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[SLAM技术路线收敛？不，多模态融合正在重启路线之争]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hPkO2S4FOWd87jichjQ7Xlm6ZExYxibOMibYL5rg9gNYfJ2PAOsB92uUNjga4Zn9SyL4HeicibFBeibefeEcBWKTAo81ZoAKbldx3G4/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去几年，SLAM技术路线确实呈现出明确的收敛趋势：纯视觉SLAM逐渐成熟，基于3DGS的实时建图成为新范式，激光SLAM也固化为工业场景的稳健选择。大家一度认为，算法架构的选择题已经做完。然而，多模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247745718&amp;idx=1&amp;sn=20fdd2d9278f24145efc09bec51b7497&amp;chksm=fa7bb869b358550ea71daea6762dae00861d753fafc54481b2e2fe144dd1295092a433e3388d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一文详解改进的三频三步相移结构光三维重建方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iaJLicaUiaPe9icE5SUKuyfH0vqIWbFriauL2k1HAViaTcpGfhoiaNfRRNsrv68ibf7Vz9iaJa1qRetbZKVnxeAriaNradvIrXJmsUib54SQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247745718&amp;idx=2&amp;sn=05485551583d194f6ead3e2a7c102cf5&amp;chksm=fa2f4173a09c320c2b9bd9f1a2284b276db202dd9e09bfd9c529907621b53a6337db986512fe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[感知与建图，为什么不能只跑一个 SLAM Demo?]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4ggO8tIXHGq7hrsfjqekWIst4mZR0bxMZl0Ngnc1dxcDj47oJH8IAS7Sria2o06jiakibbEg7f9V6TqP1S7iaiaZcLBHnhnwM6juGVc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、核心问题机器人要稳定工作，需要把视觉、激光、IMU、模型结果和ROS2协同整合到一条完整链路里，而不是只依赖单一的SLAM Demo。二、为什么SLAM Demo不够用？Demo的局限性：SLAM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247745697&amp;idx=1&amp;sn=745793b145883f30f9c952cef7240e0b&amp;chksm=fadeb016006309e51671179f14fd4945cefa68b11d9ba9639ed04f1bde21c0f1bbba796813bc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4hUnVxibxMibv6jT0Lv1JfFIHLMmn55uV4pgAkia008ynvia8KaqUHicRFX1gcdQTb5QUUdIZiaomib5rWgvozq08icgSciccWtQAsDzM2c/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着技术的发展，3D重建逐步整合多视觉环节，融入统一模型框架，成为世界模拟、空间交互体系的核心基础模块，奠定下一代模型的空间能力基石。而这一发展趋势下，硬件设备的适配与开放，成为推动3D重建技术普及、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247744277&amp;idx=1&amp;sn=eb71abf03cae350c6866b1f815631359&amp;chksm=fad6d24c852a55e78c481fbb335f0eb09e7283fa06b081556ba1b8ed626ff9351ba0444c3d23&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Apr 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR'26 | 雷达+相机多模态融合新SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gzBBl7AKv0jWliac9pEVzx1JxiayVlfXBFUqDrR9Ny1RibZ3axVMB9J1Sod7iaBSwGfrxqTGlyhHT5Ns9hPVJicaTU6uHfyqDW6Oia0/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247744277&amp;idx=2&amp;sn=aac4af12b09baa429906a4f61fa51673&amp;chksm=faa8d2e648784b32c800c68a5019bf2c1fe72629d18935e4c0f6134b07b302334481a0073d2a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR'26 Highlight开源 | VGGT并非全能？Dark3R：低光照条件下鲁棒的特征匹配和相机姿态估计！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4hD9cMykggGb7YXyQLpg2ZykLBxCwRMIPNIZ8W5N9rdnpZPFWWicPAtIXSicIYhoUibghPooicOlZOx40e2aPXtZZvELviapSkXlQBQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247744241&amp;idx=1&amp;sn=9c5051ae791ad91b768fb6f752e17ffb&amp;chksm=faa20af21b926ea8e9d414a888e4f0fac64a4e8741528dde27ffae0aa056ed489c864ca580f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
