@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[为什么语音大模型一开口，还是像客服？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeA4s9axwkSGRP455iau3PibZQ6QGy7BQs9nOd1zJL34PeKGFaX9lmIoeB61R27CPEsicHVOdRzic8T7lfM0muoib60jOHTLwgMM6eYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>问题可能不在语言能力本身，而在那些更难被建模的东西：语气、情绪、停顿、潜台词，以及人与人交流时微妙的“社交感”。而最近，一篇来自南京大学与小米的论文，开始系统地评测这些副语言能力。论文标题：Speec</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720489&amp;idx=1&amp;sn=1b2de0552d36c5e1011f2a96bccab7b0&amp;chksm=970896e86eb4fc70ecdf0f9b0ea3f25a60a6238a499584b80cced96dbdd855fffea318ecd8ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 25 May 2026 12:20:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICML 2026 | 大模型为何越改越稳？中科大揭开终身归一化黑箱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAc0LDALfH6ACwmgCws35GNhAbHibTDftHfcLbkvANg1x5CET8oUajKXZBCYkmOhKy851MpZexWQdQpfL1jssicLVvsxT0Zk1uuc/300?wxtype=jpeg&amp;wxfrom=0"/><p>当序列编辑走向百万次量级，如何避免参数崩塌？中科大团队详细解析终身归一化机制，并提出 StableEdit 实现长程正向累积。近年来模型编辑为更新大语言模型中过时、错误的知识提供了更精准与低成本的途径</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720489&amp;idx=2&amp;sn=74ab49af6c3fa2c39c528c98ca4d3a84&amp;chksm=97d4e5daccb8708ebc3f535cacf83406cf90417b65473b11798c09a42b6a5e17ea1929e323e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 25 May 2026 12:20:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[10M参数也能跑ARC与数独，Bengio团队押注「多轨迹推理」]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBDibPDTuIkaWITdAS1jdGCqh0jsfSqzw7zPSwRrR5QQicUO9icLN1GriaTg2owzEbjsXed9bicyqFUSyqFn2bORs8nEbWkibib1I8dOU/640?wxtype=jpeg&amp;wxfrom=0"/><p>10M 参数跑到数独 97%，GRAM 把递归推理改成多轨迹采样。10M 参数，在大模型时代显得有些微不足道。但 Yoshua Bengio 团队与 KAIST、Mila、NYU 研究人员提出的 GR</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720447&amp;idx=1&amp;sn=da4ef5443c5505210f780251e893d488&amp;chksm=9770a5c5dad9dfb0071ab122a4f6e5fb684a1e078de4d1f8907952a3f03b60f97c238ff4561c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCkuxSkqrUAPhoHkKRwMHDzA0V74D3f2jBWibB2GN1BMVYicDOibmKHy5ibR3mKc4kxSDWjtETibHgEGbobpy76o3JdicUEBSVKYZMCU/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型（LLM）驱动的多智能体系统快速发展，越来越多的系统被用于软件工程、科学分析、网页自动化、组织协作和社会模拟等任务。但一个核心问题始终没有被系统回答：为什么有些智能体架构可以支持长链条、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719786&amp;idx=2&amp;sn=99c10ea73691a3cca7622c5c4fd4fe2f&amp;chksm=97e9417a241bdc3a74f80685cf1900edf88a4a3ea563e83310ceedbd40948ee640e727eb813f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 15:09:18 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型开始“懂你”了！PersonaVLM如何实现长期个性化记忆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDY8RalZBJnib9brKXf3rSDUToSyJZ9onYAicEdVAtGRDW4a1mNaSsCMxpqulaAjso2n27ciaPkhjdVxQny2ePKlzKWaukX54zD7M/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年，大模型的能力突飞猛进。从文本生成到多模态理解，它们已经逐渐成为很多人日常使用的工具。但随着使用深入，一个问题也变得越来越明显：这些模型虽然强大，却并不真正“懂你”。在与模型的互动中，我们不断</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719707&amp;idx=1&amp;sn=3fa9c5c102b06ff91b66c9c50b3173ef&amp;chksm=9769a3b43a2ce2f11a4e5cd49eb848c2aed44fb2088c84f5ba3a85104f18559ff3de924dfccf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 12:31:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型架构新范式！NUS、复旦等发布首篇Latent Space系统综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAS7K4pIQPr7FiaEKJEqF2z36m8dFjgsBBiafNZwE26vbzibBP8Q6YoadGibHicoun5c74xia3Rtrw5wA0ZAFNAmGTngt04an96pMPBw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大模型的设计正迎来新的范式：从人类可读的离散显式符号空间，转向机器原生的连续潜在空间。近期，新加坡国立大学、复旦大学、清华大学等国内外顶尖高校与科研机构，联合发布了大模型潜在空间领域首个统一系统性全景</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719707&amp;idx=2&amp;sn=1423a6767f8cfb128e90e99d47c74893&amp;chksm=976b300e44510249c571465c57ecf8c2b327fb817d5673601e2653553ef05d982708d6872348&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 12:31:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
