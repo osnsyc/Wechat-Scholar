@@ -10,6 +10,12 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[代码实战 | skyborn插值函数快速入门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QiaqbC6TOmLMgcNwxu1Gib8FYIdkoSFd6EKFibVqT7e7WojC6DXxAYVQKtibWEZicL3azAORibtZFIRuRhxfl0ib2HtoLwic3gNof2bpRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | skyborn插值函数快速入门近期文章反响不错，阅读量仿佛这夏日的温度节节攀升言归正传，Skyborn 0.4 大幅强化了 垂直插值 与 水平网格化 工具链，新增 / 重写的函数覆盖了气</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491556&amp;idx=1&amp;sn=dae2604a9c2e8bff5f4c0325d437337a&amp;chksm=c33b5e2aff526f505fa813916b995181a47b451e7cac9fb7242fa79acfd8ea774db92ea3d8b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 09:29:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[代码实战 | 因为metpy函数太慢，一怒之下写了加速版dcape算法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QiaOl9Z7z0JDcoK5uiaUFC21aWLzUgQvlaN7qiarMgIOqPIJnTlVGpk0zmpOc1ia2uWBibZ4mpvFiajtl8O7AfrjiadK6TlyM8ibQvuSO8/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | 因为metpy函数太慢，一怒之下写了加速版dcape算法早有前人抱怨metpy的cape等函数仅支持一维数据。开发者称正在研究如何支持多维但是小编不想等下去了，于是Skyborn 0.4</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491546&amp;idx=1&amp;sn=178216ae37955bf97799f8ce1546e47f&amp;chksm=c3201605ed355d537b91a4a9604531788fbb6161d9f42d1ebf9533b4ef0476ff88cba45d5058&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjShrial2fh3NstxYp73GSkWlP9oGRIiaibpBocI2jWvg4safO8yWHn5HdpSQDur0jXwBYNxbrqrAP9hn0jia1yicb1xO4C7IzlSMQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文复现 | 第 01 章：Hovmöller 图——揭示气候变率的时间演变前言近来小编花销见涨，但收益不见涨，遂将积压的老代码做一下付费。这个主题针对一个2020年的enso文献《Mid-latit</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491259&amp;idx=1&amp;sn=9cfb308e3ecac1f04d5ec53afbd61034&amp;chksm=c32dc0e5e64285ee5bf3cd8027c0b6aaf6e63dbaac55860131b02d474aa32189141fad4a15e7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数值模式 | 如何将CSV转BUFR文件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QjDb6ZfYq3Ojcmy2sXlr4UcmOqjhFUBaYpB7q0bKoWXbnhl74ubq6GgYiaYHtZsmQF6A0xpLicic0ODRgwViaTAJIXD5wyxR4MBGmo/640?wxtype=jpeg&amp;wxfrom=0"/><p>数值模式 | 如何将CSV转BUFR文件1. 前言：为什么需要CSV转BUFR？前些日子一个读者问我怎么把csv转bufr格式，我做了一番探索找到了相关仓库。在日常气象数据处理中，自动气象站、气候观测</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491253&amp;idx=1&amp;sn=21c0a6c6d01758827dcd1bfbeff1d441&amp;chksm=c3c4c7b5746d87bfd643da79cf1ca1951fd041760a880a5b89b142e6a52449fb52e9cbaad19b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Mar 2026 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
