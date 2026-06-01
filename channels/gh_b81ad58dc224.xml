@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-6-1）：快手Keye-VL-2.0正式开源，率先将DSA稀疏注意力引入多模态场景，30B级超长时序模型Prefill成本降低50%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFYicgDF9cOCDc5vCYfYNRLyHV5PEpKoKQicdXp9won2oqhiaicibqzNz3e73xBzPKJxiaL0Yr2oXWNkia2uvxf5FYPerULMarWMDZaXTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Keye2.0★Keye-VL-2.0是率先将DSA稀疏注意力机制引入多模态场景的30B级超长时序多模态大模型。该模型具备256K超长上下文能力，可将长序列Prefill计算成本降</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502438&amp;idx=1&amp;sn=06804e848f6fd199653105ca25700400&amp;chksm=c052f5b7fff0c6863efd9cf9b56ed0352b5374782333271c46b16f5a6d3348e572b80431be1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Jun 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-5-29）：Step 3.7 Flash正式开源，198B参数稀疏MoE视觉语言模型，每次推理激活11B参数支持最高400 tokens/s]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFYXicN4XZBMQWVoIPz900iclnIicrhkdkviayynvWsqzDlO2xH8gQEUIHNee45seWx83vFAlrrkrMhVhbM6dicCrxEYefibU4q9t8UN4/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Step 3.7 Flash★Step 3.7 Flash是一个拥有198B参数的稀疏混合专家（MoE）视觉语言模型，它将196B参数的语言模型与1.8B参数的视觉编码器相结合，以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502427&amp;idx=1&amp;sn=78afde694fc789084fe1aaae18911cbd&amp;chksm=c0db579261083bd28208537feb32a3220277360b8018ee98c5d6e2ec22e2d0edc3fd9e7f4781&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFaJlX3PiaSCmydNUY77lIf6eFtAjbzTj5YBvDrG2eXfpy8Arp1icJncicFBOMyxUpiaMV8UI1jao1gicup6eDAWeqBCRdF69PRLVRYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DeepPresenter（PPTAgent v2）★DeepPresenter（PPTAgent v2）是业界首个将幻灯片智能体模型与完整智能体沙箱环境同步开源的自动化PPT生成框</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501836&amp;idx=1&amp;sn=402d74962c6a230b7483f359c7b9d8c2&amp;chksm=c0eeea5242d3671400884ee7d872b1aba899b5f793b20f7fd7df2fb827a54b8f8b95bbd77863&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Mar 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-3-17）：NVIDIA发布Nemotron-3-Nano模型，融合Mamba-2与注意力层实现一体化任务处理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFYJsWpPBcX3HsyFGDIalTfzVKKqbBh9tuc99JWfEgwo2yMUq7ibwib9Rib2uUuhIV0YRlDC1ZPFIhR5xpf04ibHFJbjukT94ZSIaew/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Nemotron-3-Nano★Nemotron-3-Nano是由NVIDIA从头训练的小型语言模型，旨在统一处理推理和非推理任务。该模型通过生成推理轨迹来响应用户查询，并最终给出答</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501825&amp;idx=1&amp;sn=05299b7347041062538f30eddd8d09a7&amp;chksm=c03b1ae714e4be9734b593fac10a2e695e83acf3945f058f7fd1ab59ff143b644a8ecdb1a82d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
