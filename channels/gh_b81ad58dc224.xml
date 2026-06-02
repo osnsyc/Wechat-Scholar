@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-6-2）：NVIDIA GR00T-H-N1.7正式发布，融合视觉语言模型与扩散Transformer头，实现连续动作向量生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZRZ3nMSiaspoMpxgSlMols4uQIW7eB0nA8177gF0xnhdbxOOyIYBPuh286OCZ7TvFJuunTr57tkTQy6uI9ejV69mhBrWvpTSsc/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：GR00T-H-N1.7★GR00T-H-N1.7是NVIDIA在GR00T N1.7基础模型之上，针对手术机器人领域进行后训练得到的专用模型。它利用Open-H-Embodime</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502448&amp;idx=1&amp;sn=42f51e0a00dd499a6119ed27c69b1c74&amp;chksm=c04d8a9133e5fdf3aa6fb5cf6e1332e45115ffcbc42f9daeea16d8e48d47ba51190f44d71fd5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Jun 2026 12:17:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-6-1）：快手Keye-VL-2.0正式开源，率先将DSA稀疏注意力引入多模态场景，30B级超长时序模型Prefill成本降低50%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFYicgDF9cOCDc5vCYfYNRLyHV5PEpKoKQicdXp9won2oqhiaicibqzNz3e73xBzPKJxiaL0Yr2oXWNkia2uvxf5FYPerULMarWMDZaXTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Keye2.0★Keye-VL-2.0是率先将DSA稀疏注意力机制引入多模态场景的30B级超长时序多模态大模型。该模型具备256K超长上下文能力，可将长序列Prefill计算成本降</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502438&amp;idx=1&amp;sn=06804e848f6fd199653105ca25700400&amp;chksm=c052f5b7fff0c6863efd9cf9b56ed0352b5374782333271c46b16f5a6d3348e572b80431be1f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFY8wwgEkzicffhjIaPQGpLF9ptDiaKFBicGlZ9ibglChCBmT4nbRicPnIib63bOxDuUoa5VgTlSdTjn24jboVgcriaUT4C0qLtOF3KdX8/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Penguin-VL★Penguin-VL是一个紧凑的视觉语言模型家族，旨在通过重新设计视觉编码器来研究多模态效率的极限，而不仅仅是扩大数据或模型规模。与依赖于大规模对比目标预训练的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501847&amp;idx=1&amp;sn=805d1370a235ddfa747422b3924d6c19&amp;chksm=c0012cc0f5671bee71cdd55584fdf98b974eee0179edfea4f0833a4e20c37e91e44fe35a435e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 19 Mar 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-3-18）：中科院发布DeepPresenter框架 融合沙箱环境与感知反思机制实现智能幻灯片生成]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFaJlX3PiaSCmydNUY77lIf6eFtAjbzTj5YBvDrG2eXfpy8Arp1icJncicFBOMyxUpiaMV8UI1jao1gicup6eDAWeqBCRdF69PRLVRYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：DeepPresenter（PPTAgent v2）★DeepPresenter（PPTAgent v2）是业界首个将幻灯片智能体模型与完整智能体沙箱环境同步开源的自动化PPT生成框</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501836&amp;idx=1&amp;sn=402d74962c6a230b7483f359c7b9d8c2&amp;chksm=c0eeea5242d3671400884ee7d872b1aba899b5f793b20f7fd7df2fb827a54b8f8b95bbd77863&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 18 Mar 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
