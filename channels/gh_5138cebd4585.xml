@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[8个Agent也能稳定收敛，信任域约束重塑多Agentic工作流 | ICML 2026]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAa415uozU14rAZ99JTBkTIZ5K0Z5XF3VkZXEOXXRTfkgzkt1V0V7skMhA1DiclKWfJWe2eKoU7JI2QyI6ClJbZYlqK9yGb8410/640?wxtype=jpeg&amp;wxfrom=0"/><p>多 Agentic 工作流正在从推理时协作走向统一训练，TeamTR 用信任域约束给出了稳定微调方案。多智能体 LLM 系统正在从多智能体辩论（Multi-Agent Debate）走向“智能体工作流</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720676&amp;idx=1&amp;sn=5950671a168cc4af1f62bc71557bc470&amp;chksm=976245ec2702bc2cbd9081086fe5023002ef8bfb00b2067a235c19287f74489ff80befac9073&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Jun 2026 21:31:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[超越TurboQuant！KV Cache压到真2-bit，长上下文推理又快又稳]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBDsBZL4qDoa4hObt6zM6KfhjqXXKEibUyWz9PPkkzEpzr4EB2lGgomAiaTnUG10WwmoaX0a6MPW3EIxMYrQwOmIObVEYRpicHUsw/300?wxtype=jpeg&amp;wxfrom=0"/><p>超越 TurboQuant, 内存有救了！最新论文 OSCAR：Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quanti</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720676&amp;idx=2&amp;sn=e457e7fe30675443a503786485eb1ee6&amp;chksm=9735653afef546b8dd447ee243c4e9ffc129cbde98a888968d00d065dabe034aca911a94bbe3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Jun 2026 21:31:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent团队开始自我进化，MetaAgent-X把协作训进基座模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeARWKD0fOBkR8euUS4LwRyKcm18Sibg6GibicGMT99doa7rzsunawnV5mCiatEY9CicKj6iaGL8ogmZ1pwCQILNlKycKkeJBUuW65qOo/640?wxtype=jpeg&amp;wxfrom=0"/><p>把 Designer 与 Executor 放进同一个训练闭环，让基座模型真正学会何时协作、如何协作。本文介绍的研究是 MetaAgent-X，作者团队来自 Oregon State Universi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720654&amp;idx=1&amp;sn=5f95b70043c8cb8b66759f4c39d314cc&amp;chksm=97f795fb8af2845b72f2210b431b903afac7e90dda6ef1822138da3951d9663bf390179a2f7d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -295,18 +307,6 @@
       <title><![CDATA[连发两文！普林斯顿陈丹琦团队：训练+推理双引擎，重塑复杂推理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeC8ibhNs9qbRGicVtZC9f6xLMatlgqibmD6licABh4ItQI3ZgAolSicIXct84SVzGtqgjPtV9ff7B7613Txq7A44rXjuKu4YN3e7Znw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型推理只能靠外挂？陈丹琦团队连发两文打造训推双引擎，榨干内部试错轨迹，向内重塑复杂推理。要让大模型在复杂任务中少犯错，目前最常见的操作依然高度依赖外力。比如在训练阶段，利用 GPT-4 这样的前沿</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719955&amp;idx=1&amp;sn=e5047e70420ab5bca0ceb694da21d08f&amp;chksm=97f83831b41e84a21c3939b643251475b799fd9484ed097384aef707add9e35482281df1deea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 15:03:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ACL 2026 | 大模型为何“视而不思”？浙大×阿里揭秘MoE分心机制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeB1KPLROGUJ5lho0ibWmhEZsHbTNaianqFLmT5bWOSsxm3eSHZicUQIpRSFJAOaiax2HAtmTC4slIAfVAp6th5Xv7FP9e61weFQZTI/300?wxtype=jpeg&amp;wxfrom=0"/><p>Mixture-of-Experts（MoE）架构已成为当前大规模视觉-语言模型的主流范式。通过稀疏激活机制，MoE 模型在保持计算效率的同时，能够处理视觉与文本信息之间复杂的交互关系。然而，研究团队</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719955&amp;idx=2&amp;sn=5efa90548d01c40e4a9d9dad62261712&amp;chksm=97a751f430e17b58a78b601e4d1ca331934a666c47bf1e5f317c649fd59ba95b3c9527d0a2d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 15:03:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[上海内推 | 腾讯优图实验室招聘大模型算法研究实习生]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeA0w6FtVTkcqtqV2Q3vXpETdQuda4o0CoCI4kPQtibHYKuYaaa3E8XJyWE3om9P7RZGqlO2lS3cQ49cfK9kElroL3ggTd7N5zGI/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！腾讯优图实验室腾讯优图实验室成立于 2012 年，是腾讯旗下先进的 AI 实验</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719955&amp;idx=3&amp;sn=0978c6ee8db3e6212ee1cd8aa552b19e&amp;chksm=97cafa0731a1f99111852a39851eebc611a533f0e04b9d0456ac12e11cfc9f722af0bad8dad2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Apr 2026 15:03:14 +0800</pubDate>
     </item>
   </channel>
