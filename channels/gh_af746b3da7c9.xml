@@ -10,6 +10,12 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[0.8B模型也能做 Agent 安全审计：AgentDoG 1.5 用 1k 高价值样本训练出SOTA轨迹级诊断器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sZYJHXlSjJbbUydB4icJdWianylNqNrmXvFXicWo307PDD5hGWjiafBicd5diaMw4AGIuRiaIUdyqZKvHrCQ4IX9Y4TiblcaLyYv6mJjaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 Agent 开始自主调用工具、读写文件、执行代码、跨应用完成多步任务，安全问题就不再只是“这句 prompt 有没有毒”。风险可能藏在工具描述里，藏在某次环境返回里，也可能藏在 Agent 对中间</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547964&amp;idx=1&amp;sn=e0b423ad884a3d67a099cf34ea826994&amp;chksm=ea647a8c67faac0757a7dadec389cf29e0d999e08eec760551d73450752c54a0e3e7508f1ba8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Jun 2026 11:27:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从“听命办事”到“主动搭把手”：π-BENCH 提出个人智能体的主动协作能力评测框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sZ9blt3yxEeAliamYbVVf6ExFNeNRxdCvtTf8ac3qBTAPH10YR3ZbWyT3GEiaEuuUT9aMvfRyJJ9QkpAZt6eCcI0ibz5k2jibWKAn0/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着个人智能体从单轮问答走向长期协作，一个关键问题开始浮现：Agent不能再只是等待用户把每一步都说清楚，而需要真正理解那些“没说出口但很重要”的需求。想象一下，你对一个AI助理说：“帮我准备一下客户</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547942&amp;idx=1&amp;sn=17f568cb8721b9ec5dfc8e2d0c451c6d&amp;chksm=ea55b33c1a82f2f78057b7079856546a3dc0adcb3b464a71fdb8a97c2ecfe2d7e90ed2834241&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[Agentic RL训练：它不是单一 RL 算 法，而是一整套环境建模、学习信号、异步数据流、策略优化和基础设施的协同系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sY358IdTLJ8KQF4rcGelp6AkHicAtLzs0N9Fay9XL71FHkzCvsD5jlibyuAbExGVUIIMYj7ickibAyXQiakTVM9nHiaRLiaRS5EMVciakA/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去一年里，各个大模型公司公开的技术报告给出的最重要信号，不是又出现了一个更好的 PPO/GRPO 变体，而是真正有效的agentic RL已经从单轮文本优化，转向了在长上下文、工具调用、部分可观测、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547139&amp;idx=1&amp;sn=3aaccd2d5e7c4050ce6a24289202a6bc&amp;chksm=ea3b7f38ba2f58a6b1a075c96a84999990f7174d6b69f22eefa766afe058bb1f8cfef939e9e5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Mar 2026 17:07:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICLR 2026 Oral | 让大模型学会“像法医般思考”，实现可解释、可泛化的深度伪造检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sZEuVl79gAf0qM1zrzPycNCRfT7qd763T741zHB2jJHhSR9ib52eiczNvfTicu9ic2IekJBOjN2mA6xBPLmIx7icKfXkfM0pY6XIVibY/300?wxtype=jpeg&amp;wxfrom=0"/><p>生成式AI的狂飙突进，让“眼见为实”成为了过去式。从高度逼真的AI换脸，到一键生成的超清虚假人像，深度伪造技术带来的安全隐患正日益引起社会的广泛关注。然而，面对层出不穷的新型伪造技术，现有的检测器往往</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547139&amp;idx=2&amp;sn=3cad296b7d4a9b7f7e90b5139b3b7c37&amp;chksm=ea3b39eb25ceb1b94c9fcd520d38713046bbc17015c47abdc26b8ad668473b17d27695477524&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 17:07:40 +0800</pubDate>
     </item>
   </channel>

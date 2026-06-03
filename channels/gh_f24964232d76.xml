@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Agentic时代的技术地图：AICon2026上海站全日程正式发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka2KQYjnib1LdHsMOhswOcyjgnCh5zKGv9zfteD4c6hiaAInibvP80rxlgtvuIvZThUJOwoYdcEgL9LibHg2GKAdd6WFCarWOH3AFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 不再只是工具，组织本身开始被重塑。过去一年，"Agent"这个词从实验室走进了生产环境。工程师们开始真正面对一个新的问题：不是"AI 能不能做到"，而是"我们能不能把它跑稳、跑对、跑出规模"</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531604&amp;idx=1&amp;sn=759bb9db9cc3834f8a518d35bba1696b&amp;chksm=9e57172d4db9930aaf7340bbcae33bc114669441a90fd9eaaab8c3ae58127b72f6376caf3e9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI-Infra-Auto-Driven-SKILLS v0.1.0：给 Codex / Claude Code 的推理框架工作流]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaycXgVOiaicOibXNldQfuhvB6Yexf3U9bibibd8pqnEqEv9kaysGibWCibDacjb5jh1RCTKJWrd5rDbIUCfqaRdLwIROpzXpJ0JMS2BY/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI-Infra-Auto-Driven-SKILLS v0.1.0工程地址：https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS，欢迎 star 和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531591&amp;idx=1&amp;sn=173bae5c97301187ce02495795f93773&amp;chksm=9e5eab91b73b18ae4ff204c29973bb77e9d391eaeaff771f9fbb2dcb6e2b2a5b2cfd51717d5e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O89sicQXEJWZu7moLSRaeWCxn75jgPO4pm4kNzVucbIFNvQsNicJHDQ3rNpw9PO9iarlbQ5k3e2u0nOCcs6M4l84g/640?wxtype=jpeg&amp;wxfrom=0"/><p>深入浅出 DeepSeek MoE，EP 与 FSDP 经典二次开发这段时间在研究如何在 FSDP 上二次开发 TP 和 EP。这个需求听上去非常神奇，事实上 FSDP 本身只支持 DeepSpeed</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530580&amp;idx=1&amp;sn=c7dccf48758b204949497b9a4fadda24&amp;chksm=9eca170390112d6ea43c38f3388914eda764f6eca379bc15a5e56e7221c04f8ea2da62dede3c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Jan 2026 21:51:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LightX2V fp4 quant kernel代码笔记]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3veT2RRMH1eTCoCQ6bI2gc1AqhlBN9ZZZ54nTtjg4vvQQEBYUlhictBZmEsJTtodE4sanshlCQLibOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言这篇笔记是之前为了搞清楚 LightX2V 里 lightx2v_kernel 怎么做 FP4 量化 GEMM 写的读码笔记。主要解释2个问题：接口和约束：哪些 shape / 对齐是强</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530577&amp;idx=1&amp;sn=78bfc60d2979302d96b59dcef182eb4f&amp;chksm=9e4472e4159de5f7b5ac766a94f3121605d4f2dcc5a8b7e1887a0f98de9623878bbc3872e952&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Jan 2026 21:51:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
