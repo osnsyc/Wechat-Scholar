@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[Anthropic参与新论文：大模型为何学得更多？答案藏在Scaling里]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDBnavA5slns5YN6rAdG2zPWXgk0fDDaJyVRrPsnQXNNqibkENrvdk1PcoXKMYzcv45IYB9TtgqDCxUlLjoMCWibJlnJNaNhStLU/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文给出一个数据中心视角：大模型更强，不只因为能表示更多，也因为更能保留长尾任务。大模型为什么比小模型强？参数更多、数据更多、算力更多，模型能力也随之提高，似乎已经成了过去几年大模型发展的稳定经验</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720700&amp;idx=1&amp;sn=a384ebb6f68638abaf2dcfa264c2eef1&amp;chksm=97a57eb79a0bd43cd197c7f8f3379b83e3a970a6dffe97df803600fb9780f6e45d20150eb667&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Jun 2026 19:19:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不要再卷同源蒸馏了！简单微调分词方式，轻松实现跨架构OPD]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDHxSBYmB57jkibYnoBPgaOVAtmoYNdyDUEB7KsVFd67VpjrQDjtDAAKJRmSP9SSBy2I3SEaC8Jf96XRcPzKbQxobD70lWQUo5I/300?wxtype=jpeg&amp;wxfrom=0"/><p>不动损失函数、不加参数、不做最优传输，仅仅换掉一个集合的定义，跨分词器蒸馏在 12 个评测格子上全部刷新——中科大团队提出 SimCT，把跨分词器蒸馏的天花板抬到了新的位置。On-Policy Dis</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720700&amp;idx=2&amp;sn=9cc180293fbeb17dc0a0e0ab0a2b2974&amp;chksm=9704006154a78f68fe7383410df6bce0a52daca3281a768b08923b7d7988f60112ce83fcd784&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Jun 2026 19:19:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[8个Agent也能稳定收敛，信任域约束重塑多Agentic工作流 | ICML 2026]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAa415uozU14rAZ99JTBkTIZ5K0Z5XF3VkZXEOXXRTfkgzkt1V0V7skMhA1DiclKWfJWe2eKoU7JI2QyI6ClJbZYlqK9yGb8410/640?wxtype=jpeg&amp;wxfrom=0"/><p>多 Agentic 工作流正在从推理时协作走向统一训练，TeamTR 用信任域约束给出了稳定微调方案。多智能体 LLM 系统正在从多智能体辩论（Multi-Agent Debate）走向“智能体工作流</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720676&amp;idx=1&amp;sn=5950671a168cc4af1f62bc71557bc470&amp;chksm=976245ec2702bc2cbd9081086fe5023002ef8bfb00b2067a235c19287f74489ff80befac9073&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDicWQMOIZwROVNPjDnylotcNqNaLWgyln1zHDOPq6pj4giclnXpicGB0icV5bH51NW3CxHPibYAsRCdn4I8M5Nu5cbBI4xdSAUItqs/300?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文聚焦 LLM Agent 在开放工具环境中的一个新型安全问题——工具流注入（Tool Stream Injection）。攻击者不再只是把恶意指令藏在网页、邮件等数据里，而是直接污染工具说明、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719989&amp;idx=2&amp;sn=e514aaedc485f97fce284ca255b3d707&amp;chksm=97d7e664e57c2ae29e371f72ea8f6b455ab5694b5a994e713e8763a1bde9d924b6de3185a141&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Apr 2026 18:46:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预告 | 香港城市大学李皓亮教授：大模型自适应、推理与泛化研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDSLOP29icNrQic1SiaDoeEuzL5CZVmDdOxfeayD0b1MYCBrC4r8NRib8NmmcWiaWhHTW5BrFRJqutN9m6AnPG4rbERIoLAzBjicGCQI/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly × 星弧 STARC 科研觉醒AI前沿讲座 直播主题 面向自适应、推理与跨领域应用的大模型泛化研究 直播嘉宾 李皓亮香港城市大学长聘副教授IEEE T-IFS 与 T-CSV</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719989&amp;idx=3&amp;sn=76567fa4572ff90d57021f4d13c0763b&amp;chksm=97c835bf037eeb3bfe1e7c773bcc1b50fda3e098b4721347b8d2fe0f1c868b24f63693ad58d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 18:46:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[连发两文！普林斯顿陈丹琦团队：训练+推理双引擎，重塑复杂推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeC8ibhNs9qbRGicVtZC9f6xLMatlgqibmD6licABh4ItQI3ZgAolSicIXct84SVzGtqgjPtV9ff7B7613Txq7A44rXjuKu4YN3e7Znw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型推理只能靠外挂？陈丹琦团队连发两文打造训推双引擎，榨干内部试错轨迹，向内重塑复杂推理。要让大模型在复杂任务中少犯错，目前最常见的操作依然高度依赖外力。比如在训练阶段，利用 GPT-4 这样的前沿</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247719955&amp;idx=1&amp;sn=e5047e70420ab5bca0ceb694da21d08f&amp;chksm=97f83831b41e84a21c3939b643251475b799fd9484ed097384aef707add9e35482281df1deea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 15:03:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
