@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-6-5）：Google开源Gemma 4 12B Unified，256K上下文窗口+可配置推理思考模式+原生函数调用，适配消费级设备本地部署]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFbGgODOTCLMWd9LCeZmcSlichkUMibiaCZXvZ7VzyUrnLxa3yY6icqubA3icTicxgMD2M9xxe1vpWwwzGU2DvAe1eq2xAwBR2VAa51bI/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Gemma 4 12B Unified★Gemma 4 12B Unified是Google DeepMind开发的开源多模态大模型家族。 该模型采用创新的无编码器（encoder</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502483&amp;idx=1&amp;sn=6812e5c299a523a96c25d020c4536f27&amp;chksm=c0a9bb7f4e5cc6c041d7ed4d78c4db24072c0718da8f22183043a04cf414d13211d87bae071a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 05 Jun 2026 12:05:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-6-4）：NVIDIA推出4D-RGPT，区域级4D视频理解专用多模态大语言模型，冻结专家蒸馏+感知4D蒸馏+时序位置编码三技术并行]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFaYXwwlj3wbiaVTTjzrwezFPHCJwW4zTzsekyo29RkcBqWJicBABkjMiaTfmpB8Dl0dxn1ibamDZPJ3lvL1WVUcic9hIFibibb8B0Vx5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：4D-RGPT★4D-RGPT是NVIDIA推出的一种专用多模态大语言模型，旨在提升对区域级4D（3D空间+时间）视频的理解能力。其核心方案是将一个冻结专家模型的隐式和显式4D感知</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502470&amp;idx=1&amp;sn=306665864d95a20c73fa45e6204690bd&amp;chksm=c09f6471880e3d51e473d55b6bd8c7c657381fc29081018b02342c7656b887fa2a186fa34e03&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFZA5zTl1wMNyrKicEPmR7ndplwAFTFW8YupKHAruwsb0QMicjQBG1nUwTXWNW8mavdLtxGep5gsgNPdNmsia9aLdtesZEcMQ6qbPk/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：LongCat-Flash-Prover★LongCat-Flash-Prover是一个拥有5600亿参数的开源Mixture-of-Experts (MoE)模型，旨在通过工具集成</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501884&amp;idx=1&amp;sn=5fc151cac42925c1b635624b0b15ca3d&amp;chksm=c0372bcc62d2f8922fba618232de0669c27251b86b06daf46525b0af56f914f3658a7f397e5f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Mar 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-3-23）：创智、Sand.ai团队联手开源音视频基座模型daVinci-MagiHuman，筑牢多语种一体化真人音视频协同生成基座]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFagTPmYTVrn8f2QFQ9GEZw7KREt2rOOV40vux6YOUTmBw7GwbMcBdylHm7P06DCMfHE8aiczLQh8T6on5DfH7gksKgwQwc0d3Sw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：daVinci-MagiHuman★daVinci-MagiHuman是一个快速音视频生成基础模型，采用单流Transformer架构，能够同时处理文本、视频和音频。该项目支持多种语</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501873&amp;idx=1&amp;sn=c0b4c0ca797b5761619e9ab5c4b05dd5&amp;chksm=c046c9760ae6d64cda7ff789d5db04c389595d503bf73e252465b05bd22ddba1bf71d4bef1d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
