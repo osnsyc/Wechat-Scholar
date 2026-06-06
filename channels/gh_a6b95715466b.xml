@@ -10,6 +10,18 @@
       <title>gh_a6b95715466b</title>
     </image>
     <item>
+      <title><![CDATA[直播预告！减少推理部署开销，如何将 Post-Trained MoE 迁移为高效动态 MoE？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex506jSZGia9icuH1AC1NNliaPMezBTmBrrtSwVLWKV63cuC8iaFNEb2XEq1E5S6fwxO3aa7tr3Sz520WpuppCosTzr9iaNN7mQR5nzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ MoE 通过稀疏激活在扩大参数容量的同时控制计算量；Dynamic MoE 可以动态调整专家激活数量，让简单 token 使用更少计算，从而进</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247516632&amp;idx=1&amp;sn=728ee7917024a180aae87fb0aeabe2b1&amp;chksm=e8191b6a3eb6718844d1bc2e67709b1f3854dd9f3eb454f5ed5ada60cba113235ffd1c882be3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[slime v0.3.0 发布: 重新思考面向 Agent 时代的 RL 训练框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kqA90yjYex68nUyxzRUzziaHsqfrZD1dXHf1F1BJ0BFOFJf6icCO2FkzQHv8ubfwGDX8z4YQj9yasOLSx5tVtj6I6USeBZhwfETnsPGyReiaAA/300?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：朱小霖原文：https://zhuanlan.zhihu.com/p/2044533166694732929免费为科研人员提供成果宣传支持，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247516632&amp;idx=2&amp;sn=86881d624ae0d6ffdb85f439a44b8491&amp;chksm=e8d56262cc25011f3b147fed37e2b78a28409a7322c1e3bb793993adcff1e644027ca98034c9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[给 Agent RL 加个“事后复盘”：StepOPSD 让模型精准找到“哪一步走错了”？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kqA90yjYex5W0Y8yqJAdFWCRw0h1CuRuQtALkD2c8EXM4S0L1bIicnflwyrBpIQuWlPviaiau0gyuMM1vxVZoN2w7RtHv7dFHTqgUcVbUM1IMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 论文：StepOPSD: Step-Aware Online Preference Distillation for Agent Reinforc</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247516599&amp;idx=1&amp;sn=fbbc88b8056481d974ecddeb377b5c70&amp;chksm=e8dc9f5cdc3aeee08c375cf8623eb20c453ec45c3b2142ed2816e33d04c3c56122193b0d59e6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex6VG3DlviaWSFwCRmRowFatb9qVO22QcsTfYBetYzwR0sKddUGySRGP6ex8Iz393Kiarb9yftBzqeUNV53kpDKpr1k3mzogW0K30/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：Puleyahttps://zhuanlan.zhihu.com/p/2028999946376848788 导言在前面的几篇note里，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247515284&amp;idx=1&amp;sn=fba93d55dcbac5f8b1c715be717027d1&amp;chksm=e844712785f294e201dff3e11156caa07050e9be6483ac5fd8919ba08060280ac76bb6e7c8a9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 26 Apr 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[影响 OPD work 的因素有哪些？聊聊 Rethinking OPD 这一路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kqA90yjYex7XAE4T6smXySd3cLBn5NN1A7YSiaSQRCA5jhicyQzjktKeibZcaNXEZliaQJOKLtBlXUPmjsTvQWdPClMucYpicM3yiaziarYaDCXwD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：朵朵菊花向阳开https://zhuanlan.zhihu.com/p/2030599687477183783 在上周我们 release</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247515228&amp;idx=1&amp;sn=5de14f90ed4e5a39792041074c95ac29&amp;chksm=e8b77619822749963b06356b69251f9b6c2796f423b67a00ee8cf71342e698e644a344d78126&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预告！从 TTRL 到 URLVR：探讨一下大模型的无监督强化学习还能走多远？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex7yTOWjx3x7Sd2HL2C72tNCOPcCn63LoHticib6BW6ibuk3g2eibVO5IhibEbzSIaAib96At3ribRuFCl2GaXvibr5wF5RHUAjATIj8gD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 强化学习正在重塑大模型能力边界。OpenAI o3、DeepSeek-R1、Gemini 3 等顶尖模型都在用大规模 RLVR（可验证奖励强化</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247515218&amp;idx=1&amp;sn=31714f9d1d6cd01050d2d61a74ca5d02&amp;chksm=e83fd9cf72982c389a7dd693387c811421af2a5268b5e57f9c565dd37a52d3e58461e9121893&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
