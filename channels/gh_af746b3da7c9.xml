@@ -10,6 +10,12 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[ICML 2026 | 爱丁堡大学联合UIUC、普林斯顿等机构联合定义Agent的下半场：智能体理论]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sYL2qSq3hicSnR1643aPv7S6OfvsE3watewlic4GibffSONBbuKYnwKk820p31OLhWicu98mhtVr5bNuPA3eKgyG1HiamWx4Kl0ibBxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年 Agent 研究更像一场工程竞赛 —— 谁的推理链更长、谁的工具箱更大、谁的 workflow 更复杂。但 Agent 的下半场不再是拼花活，而是把它变成一门科学 ：不仅问「它 work 不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547988&amp;idx=1&amp;sn=6ae79cd1145022a88270fbe1d64ba87d&amp;chksm=eac49afde2fdee3ee15d94658e574143b4cd3b58a0dcc4775763f057130693ace285db286232&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 06 Jun 2026 15:39:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[0.8B模型也能做 Agent 安全审计：AgentDoG 1.5 用 1k 高价值样本训练出SOTA轨迹级诊断器]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sZYJHXlSjJbbUydB4icJdWianylNqNrmXvFXicWo307PDD5hGWjiafBicd5diaMw4AGIuRiaIUdyqZKvHrCQ4IX9Y4TiblcaLyYv6mJjaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 Agent 开始自主调用工具、读写文件、执行代码、跨应用完成多步任务，安全问题就不再只是“这句 prompt 有没有毒”。风险可能藏在工具描述里，藏在某次环境返回里，也可能藏在 Agent 对中间</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547964&amp;idx=1&amp;sn=e0b423ad884a3d67a099cf34ea826994&amp;chksm=ea647a8c67faac0757a7dadec389cf29e0d999e08eec760551d73450752c54a0e3e7508f1ba8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sa38KM45lPVhwkicbSiaTYWTuJZd96ic3CwcqYXbdOKTqVEaVWB0Oqpbfo3269y2zq1sd3USbTljcyzBoDRqic12EcF1DKBALTgskQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天 ICML 2026 的一批 desk reject 结果出来之后，学术圈又炸了一次。起因其实很简单：有不少人发现——部分论文被 desk reject，理由是 reviewer 使用了 LLM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547188&amp;idx=1&amp;sn=5f19ef2f30db34210d3b634434837d3a&amp;chksm=ead1c49ac736db8e16ac403d8a4dc77fa971eed188414986b20b0d657a20031df20479908207&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Mar 2026 18:17:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agentic RL训练：它不是单一 RL 算 法，而是一整套环境建模、学习信号、异步数据流、策略优化和基础设施的协同系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sY358IdTLJ8KQF4rcGelp6AkHicAtLzs0N9Fay9XL71FHkzCvsD5jlibyuAbExGVUIIMYj7ickibAyXQiakTVM9nHiaRLiaRS5EMVciakA/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去一年里，各个大模型公司公开的技术报告给出的最重要信号，不是又出现了一个更好的 PPO/GRPO 变体，而是真正有效的agentic RL已经从单轮文本优化，转向了在长上下文、工具调用、部分可观测、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547139&amp;idx=1&amp;sn=3aaccd2d5e7c4050ce6a24289202a6bc&amp;chksm=ea3b7f38ba2f58a6b1a075c96a84999990f7174d6b69f22eefa766afe058bb1f8cfef939e9e5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Mar 2026 17:07:40 +0800</pubDate>
     </item>
   </channel>
 </rss>
