@@ -10,6 +10,12 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[数据获取 | ECMWF教你如何下载 ECMWF 实时预报数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5Qhib3Rl7cmCZkcylNmHwZ95HjYfRLSnIcuZibgCiaEauSI3JXE3jAc8IEPELs7QqKicjwTq5C5QFNwJhK37Lw7sM7l0hUdByOic2icicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>数据获取 | ECMWF教你如何下载 ECMWF 实时预报数据近期因师弟师妹抱怨下数据太慢，我搜索一通发现了这个库，虽然说并不是再分析场数据下载，但预报场估计也是大有需求，于是写了这篇教程ecmwf-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491637&amp;idx=1&amp;sn=cb526dddcd8d0042f23c7df14afc386c&amp;chksm=c3ac41ea7e6975c927da00c7c4ebd6fb07d793ae6b2633ae90a58879dcef709fda4364abafca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Jun 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[代码实战 | ECMWF官方出品，一个Python库通吃GRIB、NetCDF等气象数据格式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QjBctY3HcAlu1GiavI2VrpkckDZwmtjXkLTofn53kBC6gl4YibmWTZOe1DF8mP7WOwQaMibNSClYK7bmfVPfaU2ZQKhhjVjFVnTjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | ECMWF官方出品，一个Python库通吃GRIB、NetCDF等气象数据格式我们之前介绍过含有多种插值方法的earthkit-grid，今天我们说一下它的bro，用于获取与读数据的er</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491632&amp;idx=1&amp;sn=726b14ab232b01a1c990071dafd116ed&amp;chksm=c32af134ccb440e271c61b637f49164972eb6642f214c21fc7ad1045a04a507eb3df077ff68e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KtLeyFG8WBysDTZyxPXEHyy4AKeKPzaBqHxmmnj1joEkxNgGVIZ3W31HCRaMMZiamoJiaczGdAsw2JOb9mWkmDLdbXmy9ghYtk1R2KYvyrFeU/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景cnmaps 由于上游依赖 shapely 2.x 的大版本更新导致的兼容性问题一直没有得到解决，从2024年9月开始就进入了摆烂状态，至今已经将近2年。然而这期间各个包的版本都在更新迭代，以至于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491358&amp;idx=2&amp;sn=1b562c61cb36ff4c348501ed6e6038a8&amp;chksm=c3c1b54b6d129d71c4312c77a86e997f29b396558b79bb431d949359812f20dec3741760a5eb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Apr 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码实战 | ERA5数据下载、K指数计算与ERA5原生K指数对比分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjtWHicicOayetUnKK6Pra8ERVZmrCg2KIykNBuO7QE5NS09JprUps9EjMHUn1Qal7USDuWnWnz7yO4plUQ4vH4P1lCdO8ApT0P0/640?wxtype=jpeg&amp;wxfrom=0"/><p>在本项目你将学会：使用 cdsapi 下载 ERA5 的 pressure levels 与 single levels 数据；由 500 / 700 / 850 hPa 的温度与湿度信息手工计算 K</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491344&amp;idx=1&amp;sn=259405db7ce24aabf1418b6c3cc9222a&amp;chksm=c35b98b31c8b3944fd5fa493b0751ed04713b943cdd82e95d677e1083501c0c28d659c75d922&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

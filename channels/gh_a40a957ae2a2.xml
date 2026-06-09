@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[高考数学基本上被抹平了， 测了一个30B的模型，数学全国卷一都145分。 单选、多选全对， 填空错了一道，不过roll三遍，会对一遍，算扣5分 因为是纯文本大模型， 15题带图，不好测对不对，纯文本给到， 然后，真的证明出来了，并且证明&amp;解答都没问题， 这就是海量训练的作用，无需图片，一样推理，哈哈哈哈。 其他的题也没啥问题， 这么一算下来， 145分。 已经超越了很多的学生了， 这还是30B级别的模型， 震惊了。。。 不过也合理，毕竟连奥数这种都能基本上打满， 何况高考呢。 这么看来，语文还是比数学难， 起码就作文，写的都是什么玩意 “在你的成长过程中，你对哪一个词语的理解发生了变化？这变化有你成长的印记，对你有特殊的意义。” 庆幸不是当代考生。]]></title>
+      <description><![CDATA[<p>高考数学基本上被抹平了， 测了一个30B的模型，数学全国卷一都145分。 单选、多选全对， 填空错了一道，不过roll三遍，会对一遍，算扣5分 因为是纯文本大模型， 15题带图，不好测对不对，纯文</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247500042&amp;idx=1&amp;sn=78628cef3a9cb24b9f9e5a7628eb5a32&amp;chksm=cea3ee7b23d90726a77e9545ae96ef2116b2760abd201a902754387e5a120422aca70d4186ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Jun 2026 23:42:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[分享一个一句话构建高质量数据集项目，tinyfinsh出品，GitHub 已1.1K Star]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROxgGDTElQynQSibmw1vIEfzZMJe7OicE92icOvlpu9IFtR0VEGDZ0wf1eKicEFyKl97Zj1rohgKMY9qbGawp1jNFvH6bE0rGRbXzs/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。这两天刷到一个项目bigset，tinyfinsh开源的一个项目，核心功能是通过用户的一句话需求，将散落在网页上的信息，变成一张可以持续维护的高质量的数据集（excel），同时</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499999&amp;idx=1&amp;sn=ad2f5814c440cd93b4dd93ea0b662dbe&amp;chksm=ce64a345747f68ca3649525da1000296fc3a00e0349cf5a91fae543f427c3484a0dc0e05567f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROpoTFUWWpPFRdTqPwcJGSNkQEFg9zlU6Fjdqasqc72iatzWY3vh9yuncknicrIuzcRSx3wPmKjz20fqlnX17LtnNuD2uiamiao0N8/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是除夕还在卷的刘聪NLP。猜中了，Qwen，不当人了，除夕开源Qwen3.5-Plus模型！卷中卷，但是Qwen3.5-Plus开源，我还是要爬起来，一会儿继续High~准确消息，马上模型就</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247498512&amp;idx=1&amp;sn=05ba75f7d73e607e7d2cbc2d2c017ba0&amp;chksm=ce85357742f6e14ac81a6b96ced695cd91936788a6132b42653ca83f88cdfe091031607c75e4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Feb 2026 17:10:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新LLM架构？面壁提出SALA，线性-稀疏注意力混合架构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRPiazj7PUPwaeCQmyxiajsMva5f2toT6cxhq7ic5Typ4Wx7rpkojLtyt26sUicJmEC5VyicUzia4vCsTC53HRZCnsow1yUFo6Y5VH9vM/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。DeepSeek-v4、Qwen3.5还没开源，昨天已经分享过GLM-5了，GLM-5用了DeepSeek的DSA稀疏注意力机制，提升长上下文能力DeepSeek-v4也被曝支</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247498450&amp;idx=1&amp;sn=083eeba61378d7f227ad6c85a5c812a3&amp;chksm=ce389d83278239e5a6ece19d8231d2275db8f58ea14a001a09ae2f9965502bf862bba6c0e195&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Feb 2026 15:39:46 +0800</pubDate>
     </item>
   </channel>
 </rss>
