@@ -10,6 +10,12 @@
       <title>gh_943d225ad118</title>
     </image>
     <item>
+      <title><![CDATA[大模型位置编码（PE）演进万字详解：从 Sinusoidal 到 RoPE，再到百万上下文]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/LmjpBAklWpHribWmDAIQdmOJKzQbuzVicAPGgPIpSxiamqhvLWC9jUYsiaJSXNy0wiarWYPqfHzibhsMBdHvIUuOONOsdD7TNOhicGFSyia5ezibUU8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>笔者最近在参与一个多模态项目的开发，需要处理图像和文本的混合输入。出于好奇，翻阅了 Qwen-VL 系列的实现源码，看到 MRoPE 把 head_dim 的频率对切成 T/H/W 三段分别旋转，觉得</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486633&amp;idx=1&amp;sn=8a6c4a4bef597e40d30ffe8bfc6c2e3e&amp;chksm=c1f94e02ec8f117e56ad503661b53be5979fc66edba24826c704564ae8a4ff6bb1a8a46b02fb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Jun 2026 20:43:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[重磅！AI首次三方盲测攻破图灵测试：我们真的无法分辨人与机器了吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0XibHbUBQBddUlCCzDHB6OvB5Fq0EqwicvjLkgDNzFrMJrmuibagqx0Fglrvl9kYrkXiaogsBHZiaXR4kIeKe1JbdGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天必须和大家聊一个爆炸性新闻，可能将彻底改变我们对人工智能的认知。就在昨天一份来自加州大学圣地亚哥分校的预印本论文刷屏了科技圈——《Large Language Models Pass the Tu</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486622&amp;idx=1&amp;sn=01f6f8539f1f197dae2a91e8f64db6ea&amp;chksm=c104893e8fa1cff5e306cdf949bd98c18c1c445889c694c743262258163ad6dceaa685096c24&amp;scene=0&amp;xtrack=1#rd</link>
