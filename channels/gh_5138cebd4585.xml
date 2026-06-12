@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[Transformer非得凑齐QKV吗？只需共享KV，推理缓存直降50%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDEPTO4zOoKKyd9CVdyhxsN9XzH3uEVlzoyveNBjr44rteLJtYZBjmu0nAFObmqibnkdn9FmaeIQFjSHxXlColJJ37XjAcI1FRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>不改注意力形式、不做推理后压缩，只让 K 和 V 共享投影，KV Cache 就能少掉一半。Transformer 的 Q、K、V 三套投影，早已是注意力机制的默认配置。Q 负责发起查询，K 负责匹配</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720875&amp;idx=1&amp;sn=8de98ec12cea35a3f51c4c9372d43690&amp;chksm=97de3cfaf6a8c46b0e981b7820ca4486afda58c2f7b20bab66498a7f6b09b73bd304f5c56319&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Jun 2026 20:04:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ACL 2026 | 大模型也会相互甩锅？NUS用辩证对齐缓解归因偏差]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDDhA3mhOnrLzKriakqlzfEcJp6J1EVAlTicR9JleD7UOXk6KgGTB5IqpVfUbljuerk9eaha6BhuUodo9dj4EibDv6eQYVNSoh5mM/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文在大模型 Agent 上观察到了社会心理学中反复验证过的行动者-观察者不对称现象，并构建了 AFB 基准来量化这一偏见。我们提出 ReTAS 模型，借助费希特辩证法的「正题、反题、合题」三步推理，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720875&amp;idx=2&amp;sn=492923584ac2e86ee43c6e245f35c7f2&amp;chksm=97b73cc0ce2257e1afecc0cd21d89c20ab0ce33ebc38260e84ebbcff4ebbd1655cfa43cc417c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Jun 2026 20:04:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[绕开时间反向传播！MIT挑战30年经典，RNN一步跨入并行时代]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDUdvaFydbFbaUkiadOOyEGYShEzeeXxwc4MHdzpRULb8X7ROuAs4wshgPiamsW5nARBFADzaiamphUiaD3BAwGG8baOxQA9Yc3CdM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer 擅长并行训练，RNN 擅长固定记忆。MIT 这项工作试图把两者接到一起。RNN 真的输给 Transformer 了吗？过去几年，序列建模的主角几乎一直是 Transforme</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720844&amp;idx=1&amp;sn=9a856828dea93c38abcd932921194351&amp;chksm=97f419459d58beecd3fd5278a009a5891de5db070cdd7541346f6f08e6dc41c70b77601f88f1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeC8JgF94AqkgdzrsdqibNibTWZ4mnMuHu2WibBgwcoiaT2sibJCDa7RsK4688HMXbgS1KicPE3aPicfehjk1IYY1shLJ2Hiclp8tOILDLk/300?wxtype=jpeg&amp;wxfrom=0"/><p>北京航空航天大学联合首都信息提出了基于大模型上下文学习的统一异常检测框架 ICAD-LLM，首次实现了对时间序列、表格、日志三类核心数据的跨模态异常检测，同时具备“一次训练、多场景适配”的泛化特性，为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720219&amp;idx=2&amp;sn=f4f6c1eea0dff861e82828fcc19cc696&amp;chksm=97fc24521170fa2cbcc494b27412e68f7da995e5c1677397d4d55244de36084425fb597eb9e8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 12 May 2026 17:06:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AGI-Eval社区招聘「AI+游戏」Agent工程师（可远程兼职）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeB2qOmkGlVK7Wl3FZ4zrb7hrlSbdUQsOCyZwhAED56FmGhiatqpWrproBvDdicklvrMDBAlh9serNIfcyeWKRNWopO7WW3EiaibjiaU/300?wxtype=jpeg&amp;wxfrom=0"/><p>合适的工作难找？最新的招聘信息也不知道？AI 求职为大家精选人工智能领域最新鲜的招聘信息，助你先人一步投递，快人一步入职！AGI-EvalAGI-Eval（https://agi-eval.cn/ho</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720219&amp;idx=3&amp;sn=bc11538fa63801ed8c4ae15fc55e579a&amp;chksm=9736a309efa7655c049c0693a85b9bae6596a056fac7eb383fddbbfee790c4858ef1fdb352c1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 17:06:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一张图看懂ICLR 2026：清华331篇登顶，美国仍领跑Oral]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeB2k8h7fk3p7HBeHJB3gFjRib62gjBcyfzuWia4iar3a72n2xo9a9Q007uUBwEUUnBUFiasbib6PTXAMvDUEO5FsibBdwrRhOJ7uypns/640?wxtype=jpeg&amp;wxfrom=0"/><p>清华 331 篇全球第一，Oral 数量同样领跑，中国高校集体冲上 ICLR 前排。只看论文数量，中国已经是今年 ICLR 最醒目的存在。清华大学位列全球第一，上海交大、北大、浙大、中科院紧随其后，全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720184&amp;idx=1&amp;sn=e92e605029c811d8d197234610c2eb43&amp;chksm=97562331bace49c07469ccf87eaece5d29613b3d2e59ec52ae21a55a5c5c6f94f69146e3dc2e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 14:41:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
