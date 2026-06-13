@@ -10,6 +10,12 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[代码实战 | cfgrib外的新选择，如何以rust为后端加速读取grib数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QgRTAiajqZhO3icvBC05XqlzmTa05bfLBb3icGiagLQF7R8Y2PF9icFibQXUZeUcUszHsluPIzvajHSvfibE4XLGibyQSMkNgZBibK3o1kM/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | cfgrib外的新选择，如何以rust为后端加速读取grib数据作者：气 python 风雨运行环境：Python 3.11 + gribberish + xarray + matplo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491648&amp;idx=1&amp;sn=e8ec0a8dc3d0b391a13ad051aebc7aa4&amp;chksm=c3dc8f49bd0d4401f66b8d2834bc3fc3c5f6f8147df6f555c9d52beb7ffcd2811d5ba319917c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 08:43:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[气海拾遗 | 2026-06-10]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QiaHdOCWq0HkSgott9lUjxSxfTClr1OqZ98ROUDpNMIvVbefjRiaXU1ClhkplGcaa8icS9MOCMo3riaAiaYTNTsqWXcBFFQpnN6ic0bE/640?wxtype=jpeg&amp;wxfrom=0"/><p>气海拾遗 | 2026-06-10模式·新引擎水平湍流扩散控制的热带气旋最大风速半径下限A Horizontal Turbulent Diffusion-Controlled Lower Bound</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491642&amp;idx=1&amp;sn=c1eed3731e275de5d04aa5faab751de0&amp;chksm=c392da23eea372f3e853e0685d28f148ac125c7a82cd51e416d4b691669827e98382eb09d374&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5Qgyd3jS8WF56sS3sO4xugGTISrjDsGYAxWLaktEcnGfgGzD4uCVbobJLOJFZT91s2iaGeT4fOWnYUxcQhFjSntQiaMqo66ULXkfs/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | python实现台风警戒区绘制前言我们经常可以在台风预报网站看到24小时警戒线和48小时警戒线。那么具体如何绘制呢，小编在网上找到相关文件，如图image1. 导入必要的库import</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491364&amp;idx=1&amp;sn=1d368d50f16bd879252af123f0887c17&amp;chksm=c3a645c1207c0b2336ec994948242beb4b3463a8da0966d8be360550a05462ee8c2f742cf5fd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数值模式 | 如何对WRF变量场的地形缺测进行填补]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QgicaOPOtXCWH5C4b7wwlB1GBmpI4QMn81lDvicqy97FKib7DMmd4rpl5icESQAU01xqeSnYPu1QtQiao9lyCVTZx881TWt4vNWJjic0/640?wxtype=jpeg&amp;wxfrom=0"/><p>数值模式 | 如何对WRF变量场的地形缺测进行填补项目概述实际上skyborn集成了一个模仿ncl泊松插值的代码库叫gridfill，下面给一个应用场景。本代码示例演示850 hPa温度场的GridF</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491358&amp;idx=1&amp;sn=e01035e6761d6ef80ae09c4dff63ef66&amp;chksm=c345650ebc9a7e67e015c2bbcbc704d1c0c5e5a70f994c265ff5f1dfd18c6999346204d332a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Apr 2026 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
