@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[SfM注定被淘汰？当单图直接预测深度和点云，经典几何能否全身而退]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iaIn1y0TDICkOdZOGYDnjibCNORDC7OY14m2ngxm38um37QkJwI1CJSMApusneb1zibjbzSBzPx6gH16X6SYBwK96Hm3h51Lltto/640?wxtype=jpeg&amp;wxfrom=0"/><p>单图预测深度和点云的技术，确实在肢解传统SfM的完整流程，但“淘汰”二字并不准确，更精确的描述是角色重组。SfM正从一个端到端的完整系统，退隐为三维重建链条中最后一道几何保险。以MoGe、Affine</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746483&amp;idx=1&amp;sn=33ff6f8883bd834d995e906cf68f4556&amp;chksm=faebe3ea6e62cf8802739272dfee9770b0098d74835f54afcefe36270c439fb16818444e8ef9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[低纹理不再怕，动态干扰也能滤：IMU辅助的视觉SLAM点线特征匹配方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4ghjsWbQA2Xf5RA4ibVuMrLCmk1uoR2QAiaMzOWXRzOIXLdXib4KQoFkfvYkN0pjsQ6DVibVtrmbO3TtpFHNXABPqw1qpwvsv7ibfxo/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746483&amp;idx=2&amp;sn=c4abf88abb175850772550b2e61123bd&amp;chksm=fa5012067e6218609f67b8fad06ac28a7ab56a4846e72a3a01444d51fe0de04245ae8cff7454&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不靠深度、不用IMU，纯视觉SLAM靠什么涌现出厘米级定位？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jgPiakY99Zc6ibNTcfhrWbLJ4Rqvynqz7Yh3YQ6kGYr8Cibcc1K9gxSkfzgkhTXDdaRWs2xwSpf7UR1geej55ib9tZNUNMRia7vurM/640?wxtype=jpeg&amp;wxfrom=0"/><p>纯视觉SLAM能在不依赖深度相机和IMU的情况下实现厘米级定位，并非源于传感器精度的提升，而是一场根本性的范式重构。它将定位建图问题，从一个需要精确手工建模的几何优化问题，转变为一个从海量数据中学习“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746452&amp;idx=1&amp;sn=a1fe6c551e5addbadf1da69b666b13af&amp;chksm=fae788253d6de23d7af96264b334c18f2bf2b73313e81745a9c1af89961d7c0990100c762615&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gWdTZh8yww0bZsiaR9EUaF9ur0DHkkDRwHaYFxL6n9UHVoia26iaPhCmvh4IN4vToHrgbSAI8kYXsGAicZgE4QaY3DVNv6qxUy4gg/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247745610&amp;idx=2&amp;sn=9f4de70dce31f546a41f9174eea30c48&amp;chksm=fa4905be22ac7df8198684cab4efc87160795cf669e0611778a0f5b0c9ca746568b12d3dcf4f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 21 May 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[港科大沈劭劼、谭平团队重磅开源！H-OmniStereo：280万全景数据集，实现零样本360°立体匹配！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4jhodbA9cXXtBXpVFvOjeeVum1dJHmNZYFYNZKhCo8bfhNXzNtKvxI1HWHL5SM1xtycQsibyicfaJaDb3r9ufvJicdwtt2CGicwF24/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247745150&amp;idx=1&amp;sn=723b5e5a439ad5d1819c985b1a8e4d54&amp;chksm=fa4d9d303133282f5be0470acf4bbb2994584254ecc7e24c17f45084a991d4a9ca2f06e505bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苏州三迪斯维！SD-M系列！三合一高精度结构光3D相机！支持户外和焊接场景！支持面阵扫描、摆动线扫和固定线扫三种模式！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4hLHDrAdNQcJfcdHp7LpdPRezdkT1KmkwjBtVo3l1ExcTPl76iacPJGd95GCp03PJFF4jrap3wj26VzZZnpIlnkhKnYibnoibsVtY/300?wxtype=jpeg&amp;wxfrom=0"/><p>一 产品介绍苏州三迪斯维出品的SD-M系列三合一3D相机采用主动结构光技术，拍摄速度快、成像精细、方案成熟稳定，针对不同应用场景物体可输出高质量点云数据图，精度高、速度快、环境自适应性强。支持室内外高</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247745150&amp;idx=2&amp;sn=a8c964c3d991792d3b3bb7eb068f2daf&amp;chksm=fa840bd94c784d220b262ff0344e7ae5da444f025e33a0ccd729f4ae4d6c7932f7d8a5062d06&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
