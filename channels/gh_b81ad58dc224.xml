@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-6-15）：MiniMax推出M3原生多模态模型，4280亿参数混合模态架构+百万token上下文窗口，编程与人机协作能力突出]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFZvPPGEc4obzmiaMxCvESrrHg1YZPQeyMwkrVX4cT42TyzGV9jTO6na29h1sjMwuq1pL34NFWhYicz6U2Wns1gwicTQHxOk7YHxgU/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：MiniMax-M3★MiniMax-M3是MiniMax推出的原生多模态大模型，拥有约4280亿总参数和230亿激活参数，支持高达100万token的超长上下文。模型从训练之初便</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502652&amp;idx=1&amp;sn=fe5b90afaa40755fedddfaf91840cc37&amp;chksm=c03364fad937df737aa71f36c299d45880f87a1b2850b4aa471cfe783072dbf735d64ccfddcb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Jun 2026 12:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-6-12）：字节跳动开源EvoQuality，自进化VLM颠覆传统IQA范式，摆脱人工标注依赖，全自动化图像质量评估]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFapS0Vl2E9UeSmTeYv5OtrVDQXQib4st9nBXhhuUykptctz4Zqiad7ia5FCaeNkYYBGfxl12QhNias15R6x9fMwy6FhRhG0DJ3n7Sw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：EvoQuality★EvoQuality是由字节跳动提出的自进化视觉语言模型，专门用于无参考图像质量评估（NR-IQA）。其核心思想是在完全不依赖人类标注的质量分数或失真类型标签</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502642&amp;idx=1&amp;sn=2fc22fcf8ee38184b9f0d9051ff0416f&amp;chksm=c0a0d4387a52959df07b442727166ab97204904f8d9cbc69711ff0a6affd424aae19924833ef&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFYCo04AnsHyUOn0bwdrKUODZcCJWbxbWOXNKH4759krU6dDsaeicu4WKpdQns5JicVZyAb0oFOmOYEejdOnZyMzkWduZTibvwtZRE/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：claw-code★claw-code项目采用干净室重写方案复刻了Claude Code的Agent Harness核心架构，无专有代码版权风险。当前Python版本已可用，正在推进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501954&amp;idx=1&amp;sn=e19b612b4d04d0034c18bcfaf67d9a47&amp;chksm=c03fc32af7c358f28e916175d7e7262278c1fdcf047018f8d38b70c8dd129235ac632a268c16&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 19:42:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-3-31）：北航团队正式发布 InCoder-32B，专为工业代码智能设计，128K上下文覆盖芯片、GPU、嵌入式五大核心域]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFbGgUtzVYAsROAibAAl3clKScezEAqY4rZZBvlWETMzoictdcpBoEp7SW0ibDsiaia0OGBrbHd3Yl7NtDoeU0MHxIwRRPYdU1e3dgcs/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆基座模型①项目：Industrial-Coder★Industrial-Coder是首个专为工业代码智能设计的32B参数代码基础模型。它旨在解决一般代码LLM在处理硬件语义、专业语言结构和严格资源限</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247501943&amp;idx=1&amp;sn=2400bc44ddb2107ed2f351ea285dde68&amp;chksm=c050391a628ec28d0c6d56a38cb3c6ff0da0d63481a05c2fc3ad9631bc33e95a3dea9cf78577&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
