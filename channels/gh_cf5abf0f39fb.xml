@@ -10,6 +10,18 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[从CVPR/ICLR等顶会看，多模态的趋势已经很明显了…]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBTmiavohyGiaNAzXgS7H5dDaRlcu0icCBw3M6gAIGdAV0PEE7EiaPphNaeumCGGjSKcHgvfLLbbod6nFllC7AWLbaIojaPVnclSsk/640?wxtype=jpeg&amp;wxfrom=0"/><p>仔细扒了一下最近的顶会顶刊，发现多模态方向越来越卷了，想顺利发文，必须转变思路！具体来说：以往参数越大性能越强的思路和拼接式架构已经逐渐示弱，原生统一架构成为新风口；跨模态融合、对齐、生成等基础方法的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508391&amp;idx=1&amp;sn=4f8e82b9ee4cf7ac6628cdc0476cd0e5&amp;chksm=c37ade027b05f1cc9c1ad063eb278a59eba6ea39ff45a7a43d0d34ce4d13a03466c47c784c82&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Jun 2026 11:00:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphRAG还在持续进化，FlowRAG让证据链自己流起来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwCo4onYb4HzqPElNO7JljQY7euajRakeM2TVjBAw8qv9efNDRjVCkMqicwRlLY0bzDre2MTJxsbOeWIwzWbffdte0IYt9rsRh6A/300?wxtype=jpeg&amp;wxfrom=0"/><p>如果一个 RAG 系统答错了复杂问题，我们通常会先怀疑两件事：是不是模型不够强？是不是检索召回不够多？但上海AI Lab&amp;华东师大这篇论文给出的答案更微妙：很多时候，问题不是“没搜到”，而是证据链一开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508391&amp;idx=2&amp;sn=a9c167c626fee895ecfd424db8e87dd7&amp;chksm=c3f476efb296054df4f7e39133423bb2189fbec028cedaad5c2b58303bbc1f3e44b71bca76b0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Jun 2026 11:00:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent设计模式时代已至，你的方法论跟上了吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwAibePrZRxU4JFD9o14S0h4kwLoZoRo8u2GibQzgSsOTqNn8VmExvTykDnvyFezlT27yftLCANYZVQ8EzC14AkFu5FjOibufKAcUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>拿到一个 Agent 系统，你习惯从哪儿开始看？是 Prompt、是工具调用、还是模型参数？今天，很多团队都能做出一个看起来很聪明的 Agent。它能读文件、查知识库、调用工具、拆解任务、生成代码，甚</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508367&amp;idx=1&amp;sn=0bbfb49d571e8a8405366b439017e1d5&amp;chksm=c3ae513856983b50cbe699fd84aec56b7e1d3da71a7095e9cf88f400b0c9c83c44ae098dd4e0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwDoc73rticWTcYquibIJr7Etz2gxPCHLGe6tAGVabMd42rsmOLV72xyCUbPibpjyr3FteCSVOfvOEE60XiaAFwM8WbVib0ibl4LYMZ6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！让Agent记住你，是它变聪明的开始，也是你隐私暴露的起点。这个雷区，整个行业绕了很久。https://huggingface.co/openai/p</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247507400&amp;idx=1&amp;sn=c2e3feba24cb6088bfdb5a4597e4bfad&amp;chksm=c3b10f7d409987c87b4a21cd2b273772e8666935a887879c67fafd7271f376d2e63770e79447&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 11:02:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2篇最新Anthropic论文，揭开LLM对齐新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwBYHnEmR74aB48CplZ62dg4bEnXPKqBdDAg3oUN6fOdMa0rIOVcMMSX2BfIJXeGgCRCyCBCoYLPwuialf7wNNM9Es8qhH0dITdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！Anthropic在5月连发两篇研究，揭开了LLM对齐训练的新范式。核心结论极其反直觉：单纯让模型模仿正确行为（SFT/RLHF）不足以保证安全；必须</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247507399&amp;idx=1&amp;sn=0498f7ea08368ae16048fdb9b3a6f20d&amp;chksm=c328b988a183fbc92659fb38b37b634dd6cf392894b1cfa0a53efd3508be8c8a22224788e1cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 May 2026 18:14:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WWW'26 | 跨任务自适应的Multi-Agent协作新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwBYHnEmR74aB48CplZ62dg4bEnXPKqBdDAg3oUN6fOdMa0rIOVcMMSX2BfIJXeGgCRCyCBCoYLPwuialf7wNNM9Es8qhH0dITdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！大型语言模型驱动的多智能体系统（Multi-Agent Systems, MAS）正在成为解决复杂任务的重要范式：不同智能体承担不同角色，通过协作完成</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247507335&amp;idx=1&amp;sn=78d8b50828e0163bd8ee3b85c9b46415&amp;chksm=c321378aae14410a0d7534637501d183cf636a915141e4beefd863086f7e3bc82ac5dbcc623b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 16:16:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
