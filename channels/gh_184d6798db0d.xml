@@ -10,6 +10,12 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[代码实战 | 使用 SKYBorn 计算并可视化 WRF 的热带气旋潜在强度（PI）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjBb7uoicUs2M0LEZwnQ4oPQpBwtVzCT2zibDIVwGWS1h4DLPicHUDKCWsj5dx4a0HicVvfKQRa8zicBwl2kzWWVdnbuGKibjCIibHg8c/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | 使用 SKYBorn 计算并可视化 WRF 的热带气旋潜在强度（PI）本教程演示如何：使用 wrf-python 读取 WRF 输出文件并提取所需变量。将模式层温度、比湿插值到标准等压面</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491666&amp;idx=1&amp;sn=48c91f0afe5fea0f52d8334a9d929d24&amp;chksm=c31cf37280181e845ee2a819c1d3584f1acd44d16b7c6c1bc92f2d5a07e0cffac225f78aa4ef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Jun 2026 12:15:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[代码实战 | 使用skyborn计算并可视化 WRF 的 DCAPE]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5Qg8vkV1xtWj7eyCK0AatQibX47q7yTtLqawBg2LoUQgcFZp9Ydg34XTdiakNjHfOfro8ThHBZQOCHMPy2wcicQh4q1zxuMEuJVkZc/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | 使用skyborn计算并可视化 WRF 的 DCAPE前言老实说dcape这个函数之前就是为了计算wrfout设计的，如果用metpy的一维计算可以算到天荒地老起初是在wrf论坛看到有人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491658&amp;idx=1&amp;sn=d4e7d56f1e74f14f22eee5e7379945cb&amp;chksm=c36843a005b07f040c335347f4d46c13776f8f4b35fd70a21ab7e3101d6a7dcd2d5918121e4e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/JVrD4N3RGeWrpdGyapXJ6XLSC9vbJgMrPiavPgWKvSNyn23Hmick5Cp7BO2eLBbLGreFTEXs59kf6MdTJwwUIHrOtibsAVHaZwWhLU1asfxEbQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>当全网热炒“AI取代天气预报”时，两位资深学者给了一记冷静的回击最近一段时间，关于机器学习（ML）将彻底颠覆天气预报的新闻铺天盖地。“AI 预报速度比传统模型快一万倍”“机器学习已超越数值天气预报”…</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491376&amp;idx=2&amp;sn=f2b1f64e7ff2705fd56a0f8a0d460d4c&amp;chksm=c33a0ccce1690735b18a20aa76d76dafe6cbe149f5cfba79a9fedc46d2b8a314cc08d78163d5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Apr 2026 10:37:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码实战 | Skyborn | 假相当位温计算代码修正与开源共享]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5Qia4RyXVThjZpf9Q35nZVD1WArNibIictxABPIra7LjZwZqypXODyUeicicsSOck2sQ4PMicbJ4bFarAibHMZ7FAe5cKEbq3jv826YXBM/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | Skyborn | 假相当位温计算代码修正与开源共享前言小伙伴们，大家好！今天给大家带来一个消息：小编开发的假相当位温计算函数calculate_theta_se 已正式合并入开源气象计</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491369&amp;idx=1&amp;sn=5d635bd61f67fa70a380c5d11c3776ed&amp;chksm=c360fcbb2f647e5289e5cec1b9a93f4613537b522d6ba24296b3b91f05f3763064ffc452343c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 18:01:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
