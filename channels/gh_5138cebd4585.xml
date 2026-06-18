@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[3B小模型逼近Claude Opus 4.5：基准坏了，还是后训练太强？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeC3Uq9TMkSqDLgF3mb7QibdqyVqUibRhEJzYyrfuPsBmN9eTFuQaeSzahzfGk6QLGJCoGje9AH2xGac6vmYv61ZcK4EicficUibsic9Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个基于 Qwen2.5-Coder-3B 的小模型，靠后训练在 AIME26、LiveCodeBench v6 等可验证任务上冲到前沿模型附近。3B 参数，本来应该是小模型的舒适区。能本地跑，成本低</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721013&amp;idx=1&amp;sn=247939da6039b05e9d3e228dcbfa3dac&amp;chksm=975887dccfe7cb46dc981e9adc1c9616b9e6fc56527d8b5cafa34cd4ae8a02576a59c942a3a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 17 Jun 2026 18:00:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不做里程计、不规划轨迹：无人机凭「感觉-运动」本能穿过5厘米窄缝]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDkY431zhponAyLL31vuNk4xgVePnpibLHqmib27OtkuIL34GzzSurjG2xFpmjnfgTkNantKsVstKhA4shaekOtsl6nN4zIlbRvo/300?wxtype=jpeg&amp;wxfrom=0"/><p>无需里程计、无需轨迹规划，仅凭一台单目相机和一个端到端神经网络，把「所见」直接变成「所动」——让无人机像猛禽穿林一样，看一眼便侧身钻过比自己还窄、且朝向未知的缝隙。苍鹰俯冲穿过树干间的缝隙时，从不会在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721013&amp;idx=2&amp;sn=69eb3a60c513899beda81ec64d7e675d&amp;chksm=97dc175d95e504fc18fd6b0a4869fcd423958df8a92b0e72cae84b4dd8ec4964d09528f01de3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 17 Jun 2026 18:00:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[高质量Omni训练数据如何炼成？OmniVideo-100K打造音视频理解新数据]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAr8d1LJq2mBQUbmN8BicRicvUerFn5QhJTYypnVffibukvQLYRwkLkPXvXldqKv4DicUISIMlVv8eIBBAhd1LTtvoShmKesjZ34qU/640?wxtype=jpeg&amp;wxfrom=0"/><p>采用 Gemini-2.5/3.1-Pro API，通过“结构化剧本+证据链”生成 10 万条训练数据，VITA-1.5-7B、Qwen2.5-Omni-7B、Qwen3-Omni-30B 模型在 O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720971&amp;idx=1&amp;sn=69d50238eb5edd1cf3df0840b5da0e54&amp;chksm=971c5bff74fac93df38c4f94852cfbdfd349235d6dfda9b72588d9773c9266c57b5af4165a6c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDSLOP29icNrQic1SiaDoeEuzL5CZVmDdOxfeayD0b1MYCBrC4r8NRib8NmmcWiaWhHTW5BrFRJqutN9m6AnPG4rbERIoLAzBjicGCQI/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly × 星弧 STARC 科研觉醒AI前沿讲座 直播主题 显式 3D/4D 控制：让预训练生成模型走向几何一致的世界生成 直播嘉宾 刘瑶瑶伊利诺伊大学香槟分校助理教授 直播时间</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720315&amp;idx=3&amp;sn=641d94b55cb0a7e0eac871455bee974a&amp;chksm=9798c681d65b99880a3a5939b17a3952a6d6ae68ccfb81d04fa1e411d3211e856ae3e6683b01&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 21:28:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不改架构、不加算力：Nous Research巧用Token叠加，预训练提速2.5倍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAxPQX68ITDNZQmAPUP8QYtgQP09V3VIpIoeLWOgbCiaqxiatU0I0FA1WNzpmM6C3micwfWQAbIcTW2libeusic5iaO7IISarEUw3dKc/640?wxtype=jpeg&amp;wxfrom=0"/><p>不改模型架构和推理方式，只在预训练前半程调整 token 表示和预测目标，就让 10B-A1B MoE 跑出同等 loss 下最高 2.5 倍提速。标准 LLM 预训练里，每个训练 step 通常只处</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720285&amp;idx=1&amp;sn=e7a88a3a93ada17e13f17fb0552075f2&amp;chksm=97cb994721b8ae5fad821151567317923e5eb9ebff88243e316c04bac8e711c7609e002a82d2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 May 2026 17:35:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 | 旋转语义魔方：SafeRoPE保障新一代文生图安全]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAJlo7z5RcFtiaQtf54icousDPEGGubY6xJ2GpQSWyibEIZETmOFM7AYoLIa3uwuPPnqNQ9MalNtibAQq9ibwPiaNGJOeuib0ARzODhds/300?wxtype=jpeg&amp;wxfrom=0"/><p>在新一代文生图模型中，语义如何“排列”，往往比语义“是什么”更重要。在过去的文生图安全研究中，主流方法大多围绕三个方向展开：通过微调模型参数（fine-tuning）、干预注意力分布（attentio</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720285&amp;idx=2&amp;sn=67861a494fa0561a16ff5de883df2488&amp;chksm=97361305e07aeced69049bd7d99104c335761480f37e4f9bca109d4c4a0b34e97eaa98d901bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 May 2026 17:35:06 +0800</pubDate>
     </item>
   </channel>
 </rss>

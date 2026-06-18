@@ -10,6 +10,18 @@
       <title>gh_3bb902f05720</title>
     </image>
     <item>
+      <title><![CDATA[CVPR 2026 Oral｜剪枝不用重训练，还能反超基线？华科大开源NuWa算法：边缘部署算力成本砍掉99.7%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJCTU570IEVkicXFkectdzZ31lh4RMcG7xGFjatSaWdChkYeldEysPedHno0nAdFvf6ameT3XlRXnwiaWyn3oRfIjPQtDVOd4ygp4/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨我爱计算机视觉编辑丨极市平台极市导读 华中科技大学联合澳洲团队提出的NuWa，通过自我知识净化+闭式解快速剪枝，让ViT在无需重训练的情况下实现"剪枝反而更准"——衍生</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718279&amp;idx=1&amp;sn=3c23d144cb87e96b92d16580f7cf500c&amp;chksm=ed82d59d4c3e9a6e5e9d0b8848fe9af263bc3bc74c54679b813c096716771a88aa85d60d6fce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 17 Jun 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICML 2026｜迈向细粒度鲁棒性：面向视觉语言模型推理的注意力引导提示调优]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJCwIeZsp1S0ppP6EQ0E6oYljF2UVPmd0Gl7BB4j9oGCwtQrKnxIXETgbtxfvYuJFF9ALiaWoOqIw5SG91TRV6Y3MUQkGswoTHkM/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨VIP Group编辑丨极市平台极市导读 对抗性扰动会让视觉语言模型在细粒度识别中"抓不住重点"，东南大学魏秀参教授团队提出的A-TPT通过梯度注意力修正、语义保护增强</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718279&amp;idx=2&amp;sn=976cb9342534c59db9811d111707d166&amp;chksm=ed0ec19014e2c459abca3a8883c2b9ee3ae82210123ed66737da576b1ab63f4dfb57cf3295ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 17 Jun 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVPR 2026 Oral｜一个提示点+一个连续滑块，哈工大提出尺度可控 3D 点云零件分割新框架 S²AM3D]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJCqYQYhQ7lURG4oPw2hu64nWx9zeHPdt2qCB09Qic2yIf5ZpkibHpSlj6KMRwcbzgAJjqP47h8lGgD28NO3TXRt7VPY9zt16INIU/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨哈尔滨工业大学编辑丨极市平台极市导读 哈工大提出 S²AM3D：以 2D-3D 混合训练范式同时解决泛化性弱与跨视角不一致两大痛点，并首次为 3D 点云零件分割引入连续</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718262&amp;idx=1&amp;sn=a8412241d6651139e3b11bab48a965e8&amp;chksm=edc6f45abe1f1f2e2ce66b8fa5a10658e1de0024bfeb37b78e50ab1afb74345fcc4749a587e7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJCAayCr0G2iaic3Vw1WyB5X1qFLia8Q1vQhBN9Qkjptu7u2Vz23ibQsibVChYMF6Olap2zG7OJKyKWia4AVCCemrE0tfSnzWJeNXT2KM/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨我爱计算机视觉编辑丨极市平台极市导读 Scaling Law在语言和2D视觉领域屡试不爽，3D重建是否同样适用？牛津VGG组联合Meta AI用VGGT-Ω给出了肯定答</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247717573&amp;idx=1&amp;sn=b37d503bf0c9c9c9b158241d37d28977&amp;chksm=ed730a25aa710febc7a381fe52f8ded164455a755e542dddb8befef36a4632853fa81a59bcb5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 May 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 干货专场 Talk｜EvoNav：让具身大模型告别“导航路痴”+ 投稿经验分享]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJA24WvwoewC8DUCjclCdtgrpnAKACTZovS12ReuqD2mzpty58OibcwIkXmN3z04rgGySNhNGxHk6ic3xU3lfTiaXRaat85gvK0ib2E/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台还在为具身智能导航泛化差、易迷路、落地难头疼？CVPR 2026 最新成果 EvoNav 专场直播来了！本次分享邀请南理工博士生代广昭亲讲顶会成果，还特别邀请他结合亲身经历分</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247717573&amp;idx=2&amp;sn=c08b4a2baa72a1d2a4d77003e48b62ef&amp;chksm=ed38f5d2d6892bc29f4f2b5e468aecaf7bfeb5b1e16d1b80cbc8309f8a11bf85c16bd342f266&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 May 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026｜当LoRA遇上RoPE！WaDi：单步图像生成新SOTA，参数量直降90%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJC7F467KaicZU9XR9UXO5dYtNStAJzRMxWibsOsRZeYskvlrArgN43t9pO2Zicfkq71y6I9Jia5O6XsjcyERVPH0tLR8YOUHtTOUPs/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨王雷来源丨南开大学，PCA Lab编辑丨极市平台极市导读 多步蒸馏为单步生成时，权重范数几乎不变，真正变化的是权重方向——WaDi基于这个被忽视的洞见，借鉴RoPE设计</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247717558&amp;idx=1&amp;sn=07fb7f27fe6a0483cc0e45b6f3eb65b0&amp;chksm=edda00f6b1d60dc01243902af52e4b71aaecc295720c84a7c382eda5aee88139d45db329f68c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 22:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
