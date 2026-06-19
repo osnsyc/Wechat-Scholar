@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[刷屏数周后，陈德里的AutoResearch SKILL终于开源了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeADqZcpKnUVvy9reAuDA6TBlg5ibVUnqlGicVc4aWdiblVOkFHic4MxuC586SPje07pb1cXPXQnNlXPw0ic8qCTtcwPhV5arXeKvKHE/640?wxtype=jpeg&amp;wxfrom=0"/><p>几篇 AutoResearch 论文刷屏之后，真正值得打开的 SKILL.md 终于放出来了。过去几周，很多人都在关注陈德里的 AutoResearch SKILL。最早让它出圈的，是一篇由他和两个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721067&amp;idx=1&amp;sn=a8a45c05f631722c62ca81ae16c01a97&amp;chksm=97bdf82b432894f0f8b3e31698bc123be3209edf2b6222e71f00a8e9be1854ad91d7c6908bea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 14:43:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ACL 2026 | 腾讯混元发现「不完全学习」，SFT仍漏学15%训练数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeD3BtJib1adS8ZiaL3naKSgPD5PjZSsKJ3L0J9EFrJDGSfq3GGhqFnrPm6vHGv61uvYaEqP8TXAkSWkApqcjhicKAan4I6J0XEDLc/300?wxtype=jpeg&amp;wxfrom=0"/><p>即使 SFT（Supervised Fine-Tuning，监督微调）训练已收敛、loss 已平稳、所有超参都调无可调，你的模型在训练集上重新测试——仍然有平均 15.3% 的样本答不对。这不是过拟合</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721067&amp;idx=2&amp;sn=82b23158c4f51801488304b5d6a10f5c&amp;chksm=976ee29aba4afd0b3db5d0863de42effa75429fbbd02370d252c267a5e3d7f9a270dab1c8675&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 14:43:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[3B小模型逼近Claude Opus 4.5：基准坏了，还是后训练太强？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeC3Uq9TMkSqDLgF3mb7QibdqyVqUibRhEJzYyrfuPsBmN9eTFuQaeSzahzfGk6QLGJCoGje9AH2xGac6vmYv61ZcK4EicficUibsic9Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个基于 Qwen2.5-Coder-3B 的小模型，靠后训练在 AIME26、LiveCodeBench v6 等可验证任务上冲到前沿模型附近。3B 参数，本来应该是小模型的舒适区。能本地跑，成本低</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721013&amp;idx=1&amp;sn=247939da6039b05e9d3e228dcbfa3dac&amp;chksm=975887dccfe7cb46dc981e9adc1c9616b9e6fc56527d8b5cafa34cd4ae8a02576a59c942a3a7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -295,18 +307,6 @@
       <title><![CDATA[RL才会泛化？上海AI Lab系统研究：SFT也能学会跨域推理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeCr8qKcGNqowslzAd7s7D9Ko6d4HJJUfeh8pMB3FKWDDCUic9fq3cWPBrzx3vicpygdEj7kQkH8MN37La7oIoic4ibyEFP5aFdffXk/640?wxtype=jpeg&amp;wxfrom=0"/><p>上海 AI Lab 等团队用系统实验发现，SFT 并非天然不泛化，关键在于有没有训透。引言随着大语言模型后训练（Post-training）技术的飞速演进，强化学习（RL）在提升模型复杂推理能力方面的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720315&amp;idx=1&amp;sn=5e7ad27505c69e88f9659dbf87900b84&amp;chksm=977a7ec7147b9463b9c04bd7d2583ac48fdbfc0606724e7f4d141103a961b8d85b4066a37260&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 21:28:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 | 小米×武大3B模型学会共情，暴打一众强化学习基线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBYYaz1N2NuxAkeqtykA4qPyQNfF3ajJo8BBmoThv0PwwTNlgCvk6GcnhVencDg33EFdjPeGiaQfIFLeUKLkI5FFRMHS5HFibq08/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍的研究来自 CVPR 2026，作者团队来自小米大模型 Plus 团队与武汉大学计算机学院。武汉大学团队在视觉理解、多模态推理和情绪计算方面积累深厚，小米大模型 Plus 团队则在大模型训练、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720315&amp;idx=2&amp;sn=4db68fd4150b9c0c86cb0a32dffcb49b&amp;chksm=97079994f959331ee7febd87399b96704d4b1115f72d659695507f76c1f34bda9b538af2e526&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 21:28:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预告 | UIUC刘瑶瑶教授：从2D像素生成到可控3D/4D世界]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDSLOP29icNrQic1SiaDoeEuzL5CZVmDdOxfeayD0b1MYCBrC4r8NRib8NmmcWiaWhHTW5BrFRJqutN9m6AnPG4rbERIoLAzBjicGCQI/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly × 星弧 STARC 科研觉醒AI前沿讲座 直播主题 显式 3D/4D 控制：让预训练生成模型走向几何一致的世界生成 直播嘉宾 刘瑶瑶伊利诺伊大学香槟分校助理教授 直播时间</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720315&amp;idx=3&amp;sn=641d94b55cb0a7e0eac871455bee974a&amp;chksm=9798c681d65b99880a3a5939b17a3952a6d6ae68ccfb81d04fa1e411d3211e856ae3e6683b01&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 21:28:42 +0800</pubDate>
     </item>
   </channel>
