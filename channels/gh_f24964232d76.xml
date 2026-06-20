@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Codex goal 代码解读：原生长任务目标的实现，以及它和 Humanize 1.0区别的一点理解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Kb5Nky2nQzTNKY6micWX9AchbvqpDuiaM5RMqkSaxu7bVNvpKwqBBWs0ichXmBl3Bq5dRyiapeiaIQPuBaLks8SjFlCHEHkoR5ErzBk/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面：本文对 Codex /goal 的源码（rust）阅读和分析由 Claude Opus 4.8 完成。我做的事情是给它指阅读方向、询问我感兴趣的细节（状态怎么存、续跑怎么触发、完成怎么判定、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531662&amp;idx=1&amp;sn=bbf4e5392b832ed00f0c9dffd889362a&amp;chksm=9e6e2b7883fc9b236c8513c8f44606d36148fb1d092ab1cd0df3327327702a9d72fe0d7eeb81&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 20 Jun 2026 14:15:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[分享下 KDA 优化SGLang Diffusion Kernel 需要注意的一些坑和prompt实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZcibIXdPj7NnicYeSiahwX0ZUZpGmvuEBupxQLd6L9TSZ5PibT7YEMR6u6zINUeBYXCpDQxEeWBQHias5jiamibNyS1soZk6OFgGKdjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景本文记录最近使用 KDA（https://github.com/mit-han-lab/kernel-design-agents） 优化 SGLang Diffusion Kernel</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531641&amp;idx=1&amp;sn=1d3ed80fd3f1298863c6b0adbf695c40&amp;chksm=9e8f8c1ca740e50ad9820311be8309b10e319c5c1305377d5498631cadf800078a3424108cd2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uGwdibPnCXmX08w6RjRA5WY9hYxKGSGVkZJPqOZchibpaHbZpxYww2hkI5qRWU9QCBB2zgp1Y3WFXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔥🔥🔥CVPR 2026 赛事启动！攻克比特流视频修复难题，解锁顶会入场券+荣誉大奖！Attention各位同学注意啦！ 当视频通话卡顿、直播画面花屏、安防视频失真 —— 你以为是网络问题，其实</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530625&amp;idx=1&amp;sn=9f48a19d1374ed8efaf818874ecae827&amp;chksm=9e216a45c5606800dcb0d23dc5ea34c25982211144b2b3137d37c11fd5e5d2eeeaded808f748&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 22 Jan 2026 11:50:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang-Diffusion: 两个月进展]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uGwdibPnCXmX08w6RjRA5WYt6ia676I8mJYoUnu8Y2mc6JoUFpw8KPa7iakibYCF7WylxugMcvd7X7uA/640?wxtype=jpeg&amp;wxfrom=0"/><p>发布日期: "2026年1月21日"自2025年11月初发布以来，SGLang-Diffusion 获得了社区的广泛关注和采用。我们对开源开发者的大量反馈和日益增长的贡献深表感谢。在过去的两个月里，我</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530624&amp;idx=1&amp;sn=2d453d39880842d92f74e3adf87eba8e&amp;chksm=9e134bb3032092c45dd82283a092e97c995d650c03d4e9e681d962ff6b92fba2f8d3237ad9a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 18:50:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
