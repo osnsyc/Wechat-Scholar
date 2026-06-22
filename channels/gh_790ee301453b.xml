@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[AI改了画面却没改声音？浙大团队首次将一句话编辑视频延伸到音频维度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLIrZShtph1An2j6hWzia8pE6DE6zgXKMZA3qcG3K8FREIw6VNodTUfNic0mnUUMaGtdUE48XGOKAib8xHibeMPy7NfPxicBMSRcmsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>投稿作者：浙江大学 April团队自然语言指令驱动的视频编辑是当前生成式 AI 的重要方向，但现有工作普遍只处理纯视觉维度——InsViE-1M、Ditto-1M、OpenVE-3M 等主流大规模数据</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605498&amp;idx=1&amp;sn=2465d6d05ee9bc7e2c5ec26208b3a51b&amp;chksm=ce4dea4742cc907b86efda9efb8c6e00ebb05bc3f7522ff214a3977846f9b4f3afa3ffada805&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 14:14:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[成本降低98%，还能自进化：VisualClaw让流式视频Agent真正可用]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDJUUP3f1p1O7fEy4a0lWSvVGs3RuicJwtkParf95s1RaYSkPxiayEMORvQdnicicC3hQqRLbtAVADGic1okoZsAVTMh97ib8V44SJLQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>连续佩戴 AI 眼镜一小时，按 1 fps 采样，大概要向云端发送 3600 帧画面。如果逐帧输入到视觉-语言模型（VLM）中，将累计消耗约 400 万 token，成本和延迟会迅速上升。流式视频输入</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605484&amp;idx=1&amp;sn=902afc14b107794e760c7b51b5ebacf7&amp;chksm=ced1ecb9c15a653f51be71dd0e24a58cf9d87acd2a50d1e3a97cbbebe33c5abc2097f48986e6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLOQHfrGCXp3zBMLVyeuNsYwUqibjH4CdJJGGXiab2Eka0peoasJHQr54J27ibVhUC7F4YjK7ibvOMto8FAna6zWicDu6QG5DJTlBn4/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLM）的训练越来越依赖模型自身生成的数据。无论是基于合成数据的训练、将能力蒸馏至更小规模模型，还是通过从思维链（CoT）中筛选最优解来持续优化模型表现，“用模型输出训练模型”，已经成为当</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247604479&amp;idx=1&amp;sn=eaf3ff45fe91446830aaba7cc3350d1d&amp;chksm=ce27f8011ec40fd91c94b49fcbccc8c19dc95acd9857ee2d4221855ac32dc1705ab0c6cdab70&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Apr 2026 13:31:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不再重复造轮子，Agent skills实现“集体进化”，6轮演化提升88%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDKWe1AqlUEH5MJIpl8cKKSeXrCr3oP1GNZXsq39vcXsB9fTwYiaDTjVCuM1YxYR2JPOjmeq5GQvM13pWXaYTKMOAicTfqVBicB3x4/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于大语言模型（LLM）的 AI Agent 已经能够完成配置服务、调试 API、自动化多步工作流等复杂任务，而这些能力在很大程度上依赖于“技能”（skills），即一种编码了工具调用和任务求解流程的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247604454&amp;idx=1&amp;sn=f845910299799260e256a808fae7771d&amp;chksm=cee29ce58b71f3ebfcb2f55b7f1194366a76ac0c3d1fd043ba0a5b36a8146fca55902928c196&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 15:12:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
