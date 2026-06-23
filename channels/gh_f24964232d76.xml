@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[【博客翻译·译述】PyTorch Flight Recorder：理解 NCCL Watchdog Timeout 的新视角]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZLD4RJHN6l82IWTlMRpG4V9HEQEEcecjHkaEqjRRb6jiaqsYrKwlYToIicNIskPBSZR5IW5RMtVEkgDX2sAosEBAVlmHicfcU45o/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：Flight Recorder: A New Lens for Understanding NCCL Watchdog Timeouts 原文地址：https://pytorch.org/blo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531676&amp;idx=1&amp;sn=2a05887c64f3282839861163acab8622&amp;chksm=9e816e7224f9bd49dc7800613e117a09cdca3443aaa9a4f02a58753c71ee13c1a34bb3d6644a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 19:09:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Codex goal 代码解读：原生长任务目标的实现，以及它和 Humanize 1.0区别的一点理解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Kb5Nky2nQzTNKY6micWX9AchbvqpDuiaM5RMqkSaxu7bVNvpKwqBBWs0ichXmBl3Bq5dRyiapeiaIQPuBaLks8SjFlCHEHkoR5ErzBk/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面：本文对 Codex /goal 的源码（rust）阅读和分析由 Claude Opus 4.8 完成。我做的事情是给它指阅读方向、询问我感兴趣的细节（状态怎么存、续跑怎么触发、完成怎么判定、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531662&amp;idx=1&amp;sn=bbf4e5392b832ed00f0c9dffd889362a&amp;chksm=9e6e2b7883fc9b236c8513c8f44606d36148fb1d092ab1cd0df3327327702a9d72fe0d7eeb81&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uNc87jtLDicBMO8XFibmJR3iaMOxPN4QDHSJObBTxziaDyibfIc4Kl6iaMT3wmxB0PtSbxNsLvribq5HUUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录 LightX2V 中 Ulysses Attention 的实现方式与张量形状推导，覆盖以下文件：LightX2V/lightx2v/common/ops/attn/ulysses_attn</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530644&amp;idx=1&amp;sn=8c91234d5d03a3c761a22a43a78114e8&amp;chksm=9ebddcd85badf9b466456afbeac8747d26dacc5271e349ae05d4b217e34786e5399520d31779&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 25 Jan 2026 22:15:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 大赛启动 | 第一届NTIRE比特流损坏视频修复挑战赛火热开赛！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uGwdibPnCXmX08w6RjRA5WY9hYxKGSGVkZJPqOZchibpaHbZpxYww2hkI5qRWU9QCBB2zgp1Y3WFXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔥🔥🔥CVPR 2026 赛事启动！攻克比特流视频修复难题，解锁顶会入场券+荣誉大奖！Attention各位同学注意啦！ 当视频通话卡顿、直播画面花屏、安防视频失真 —— 你以为是网络问题，其实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530625&amp;idx=1&amp;sn=9f48a19d1374ed8efaf818874ecae827&amp;chksm=9e216a45c5606800dcb0d23dc5ea34c25982211144b2b3137d37c11fd5e5d2eeeaded808f748&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Jan 2026 11:50:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
