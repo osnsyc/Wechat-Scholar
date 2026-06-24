@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[无限OCR：用“参考滑动窗口注意力”R-SWA实现长文档一次性解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDKwbCBnx7dT7mrpkHpqctQNWVwXlrtlXPPYroiblZILH2EkCpfibkBHt7JwrEV7MOv7cJvNicStKTT0icCjTQc9vUiasq6CcjVKd5jQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>端到端 OCR 在过去两年迎来新一轮热潮，以 DeepSeek OCR 为代表的方案将大语言模型（LLM）用作解码器，借助语言先验显著提升了识别精度。然而，这类方案存在一个内在缺陷：随着输出序列不断增</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605574&amp;idx=1&amp;sn=c33a866a9b50fef22da43c8fe4383af2&amp;chksm=ceae2cb23b0623b4e8b74ec888b347210a5c4e7b5fdaa3f31d73b7d9a6597bd17ae81f1a31ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 19:36:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI改了画面却没改声音？浙大团队首次将一句话编辑视频延伸到音频维度]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLIrZShtph1An2j6hWzia8pE6DE6zgXKMZA3qcG3K8FREIw6VNodTUfNic0mnUUMaGtdUE48XGOKAib8xHibeMPy7NfPxicBMSRcmsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>投稿作者：浙江大学 April团队自然语言指令驱动的视频编辑是当前生成式 AI 的重要方向，但现有工作普遍只处理纯视觉维度——InsViE-1M、Ditto-1M、OpenVE-3M 等主流大规模数据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605498&amp;idx=1&amp;sn=2465d6d05ee9bc7e2c5ec26208b3a51b&amp;chksm=ce4dea4742cc907b86efda9efb8c6e00ebb05bc3f7522ff214a3977846f9b4f3afa3ffada805&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDJY4uatHyVibVyyX1l1vUcxNZwr90qN6ic3iaO3h5ialupy0vNKqu1IOSZ2zFaiaHnKUAKeTPgwL0DxKnNibiacLHbC79lSnaIH7GtaOI/640?wxtype=jpeg&amp;wxfrom=0"/><p>写代码、做分析、处理多语言文档、生成报告......大语言模型（LLM）正在以前所未有的速度融入我们的日常工作流，且产出更快、更流畅、更专业。但有一个问题很少被讨论：当我们用 LLM 做出一份高质量产</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247604493&amp;idx=1&amp;sn=c77d23680ba0cb50d77407ca3019f131&amp;chksm=ce8a773b237762fe9df9947ca29e888cb6d708e8765497dd9cc9b9cf5551c559f4a7e27adf85&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 16:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic新研究登上Nature：揭示AI大模型蒸馏的黑暗面]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLOQHfrGCXp3zBMLVyeuNsYwUqibjH4CdJJGGXiab2Eka0peoasJHQr54J27ibVhUC7F4YjK7ibvOMto8FAna6zWicDu6QG5DJTlBn4/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLM）的训练越来越依赖模型自身生成的数据。无论是基于合成数据的训练、将能力蒸馏至更小规模模型，还是通过从思维链（CoT）中筛选最优解来持续优化模型表现，“用模型输出训练模型”，已经成为当</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247604479&amp;idx=1&amp;sn=eaf3ff45fe91446830aaba7cc3350d1d&amp;chksm=ce27f8011ec40fd91c94b49fcbccc8c19dc95acd9857ee2d4221855ac32dc1705ab0c6cdab70&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 13:31:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
