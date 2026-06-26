@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang 贴近硬件：用编译产物（PTX/SASS）评审 PR #26588、DeepGEMM 与架构迁移]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KbkC8fARLjibdGCVhQOx76hhhhOoevpAEKgNgicyOUb1SWx7QhjiauC02D8y1OejHklLeic0lWG9WVK54TyFia0piaBsTuvcv9XJuIdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：SGLang Close to the Metal 原文地址：https://gestell.ai/article/sglang-compiled-output-review 作者：Gestel</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531681&amp;idx=1&amp;sn=3aec14d9c0225100cd5d49a099494f3b&amp;chksm=9e9af2a011be76f7495fc2d1e69a120f5c670169ea1cb743ac66596f8e83807e678d4d93e5d8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 16:31:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【博客翻译·译述】PyTorch Flight Recorder：理解 NCCL Watchdog Timeout 的新视角]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZLD4RJHN6l82IWTlMRpG4V9HEQEEcecjHkaEqjRRb6jiaqsYrKwlYToIicNIskPBSZR5IW5RMtVEkgDX2sAosEBAVlmHicfcU45o/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：Flight Recorder: A New Lens for Understanding NCCL Watchdog Timeouts 原文地址：https://pytorch.org/blo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531676&amp;idx=1&amp;sn=2a05887c64f3282839861163acab8622&amp;chksm=9e816e7224f9bd49dc7800613e117a09cdca3443aaa9a4f02a58753c71ee13c1a34bb3d6644a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3syX45TnQiatIFomqsI84Bb1VXNwx8kBtqlAoNvx4BOxjSa9tt2TxuVlxoiahmb7HTujiczicV5niaKhgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>初步了解CuTe DSL的最好方式就是看一下它的文档，下面是手动把CuTe DSL文档的非API部分进行复制然后用GPT5.2做了翻译和校对，可以作为入门CuTe DSL的中文资料。除API之外的文档</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530904&amp;idx=1&amp;sn=7e2a40c58b8bd73183457ba5e1ae3c9e&amp;chksm=9ee7d7429c0568583666c6646aaea48ddc38afd2f07be3b95ecb014ed56ac9c37a8503218a3b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Jan 2026 22:52:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LightX2V Ulysses Attention 实现学习笔记]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3uNc87jtLDicBMO8XFibmJR3iaMOxPN4QDHSJObBTxziaDyibfIc4Kl6iaMT3wmxB0PtSbxNsLvribq5HUUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录 LightX2V 中 Ulysses Attention 的实现方式与张量形状推导，覆盖以下文件：LightX2V/lightx2v/common/ops/attn/ulysses_attn</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530644&amp;idx=1&amp;sn=8c91234d5d03a3c761a22a43a78114e8&amp;chksm=9ebddcd85badf9b466456afbeac8747d26dacc5271e349ae05d4b217e34786e5399520d31779&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Jan 2026 22:15:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
