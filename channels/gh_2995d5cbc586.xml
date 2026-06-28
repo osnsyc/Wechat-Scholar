@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[当下激光雷达Slam和视觉Slam的瓶颈是什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4glZKktWvHKedLefjCkeKpPZ3jaESIU4ibZmCYV1ic7c0UYLMd7JQkM7fLz9gPpuMFj4ttQcNGloHtZHvUkATxxnibHhjfeqCJGLs/640?wxtype=jpeg&amp;wxfrom=0"/><p>已基本解决的问题：低动态场景下的建图；基于先验地图的厘米级定位；室外与GPS互补，提供高频平滑轨迹。工程层面仍可克服的不足（多数从业者有能力解决）：视觉SLAM：低纹理场景下鲁棒性不足——可通过多摄像</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747328&amp;idx=1&amp;sn=1c7c7a0c4a5f11247c10fd0117af5832&amp;chksm=fad8319be61d09ad419ae8d3c9a87d0286bca39218e35638b1833c2a6b2d9a21c22a42f4495f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[单目结构光相机 + 机械臂多视角点云重建，实现舱段完整六自由度位姿估计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iaCEvfgL3IU599stUptlHjF7JnhoTc5Ef5K0L3fGawiaWFkx1eCsAZH37MOThVR4aSPhpQLHH3ardrYzSfhGia5eph4aC91WgSDg/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747328&amp;idx=2&amp;sn=708a44e0e0ae1f36b820ef85909f0c4b&amp;chksm=fa6590627c6fcadfdcf7c521b72c50f55f6c54806addc28ddd7d1c77305e420b59950190dc59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SLAM大一统！ Ultra-Fusion横空出世碾压60+开源方案，一套框架通吃四种平台/五大benchmark/六类传感器！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gMFaSoAPKH44J52GfXpial8ZcR8jLlEDjH3pvWOTMJBencYmFBn4GsKtWR30VQjela6p7XrVG9RI1SqZ0ibulibqB5z74ic7YNYwI/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达本文经作者审核发布 | 编辑：3D视觉工坊隧道里GPS没了、走廊里激光"瞎"了、草地上轮子打滑了、夜路上相机黑了——多传感器SLAM最</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747292&amp;idx=1&amp;sn=00dbe5b41aea7fe2fbf8e4428e75f058&amp;chksm=fa58426dd2651612d60d7f83ad3405bac4fc48d0bcc98f60c85b51974c4ad6f139aa91685873&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hjl2UicXMaIdKibw0BuFr6viaaONq1u9us1bqwPt5VKBPtbTrLzjcK6PiblebicFGEAR32q6lN2nKAeDs258eZIWTDmhcAxcLgicELk/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达3D视觉工坊很荣幸邀请到了清华自动化系本科生四年级陈博俣，为大家着重分享他们团队的工作。如果您有相关内容需要分享，欢迎文末联系我们。直</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746100&amp;idx=2&amp;sn=28151878126b3b93c70b35d4b236bbf9&amp;chksm=fa7a31f0ea84b77f7c400030835103923fbd88479039741dcc8f0b4f330a7df92e1cb0c42724&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 04 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR'26开源｜扩散模型不再是3D点云生成最优解？PointNSP提出「下一尺度预测」新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iaPA1Yz0UoF6mseibaqeDibTnZK0FjxFqwKYkKOQnt2uGZNkGica65YuKcLjKSr0cVqFV1jiaaarHMbUz0fnYFb3zLJ7Yz7AebAOog/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者：孟子乔(一作) | 编辑：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DG</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746076&amp;idx=1&amp;sn=48c709cc5b5522d5ba18a11e061dc463&amp;chksm=fa4379fb21a63d23a54d2213579bda80887784edabb7b9a8d99a3d31970fed5e859f175e7e04&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[精迅V2 Pro-V4！结构光3D相机，支持单/双目重建，点云处理+拼接+HDR高动态，提供源码+课程+硬件！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iaTUVnFBrZQITxiaKREe91MkMUzUiaZEJibCKNy48gowBkS8hDMjdCHN3ibQvVjDNm9kTZicJXGugq6m14UmExXosYCNibTlRbgrWicBE/300?wxtype=jpeg&amp;wxfrom=0"/><p>一 产品介绍3d结构光主要针对漫反射物体进行三维重建，常用于机械臂抓取、视觉测量、缺陷检测等领域。目前主流结构光技术有：散斑结构光（机器人导航）、线结构光（视觉测量）、面结构光技术（机械臂抓取等快速测</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746076&amp;idx=2&amp;sn=8d706dfcb25eef887f133ff46367365d&amp;chksm=fab1922ddbb5df2e40a1f9dc03349d0cda59209ff8fdda7d6e89e91d8e96048083198f8960ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Jun 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
