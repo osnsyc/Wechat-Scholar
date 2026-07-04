@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[SGLang 复盘：Coding Agent 开始进入 AI Infra 开发循环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnFVhtlUBXS6ibgI2evrKhXLbvvqlho3rV3qXl8kAkliaT0tJCwRqtzLTxTiaWUJFOibchFL5iaib0gFc5IeDRf13Poa4GLUn3fibmXu4/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 团队最近发布了一篇工程复盘，主题是 Agent-assisted SGLang development。这篇文章讨论的问题很具体：SGLang 这样的高性能推理框架，想让 Coding</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452543&amp;idx=1&amp;sn=7a2ac803c55e5a0b8d5a98ac2b0af792&amp;chksm=bf45844341c3a7c51672122ecc1047282babf81c25870935c60fe3783b44335d46cf1b71ccb3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 21:05:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Agent 辅助 SGLang 开发：一次初步探索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlUr2tziaEuHjH2egZnkr3103xo8yOduwYgfiaL4EQov02uOz7ibZ7IkwqG6TYqJfk1IByeJzV6l6QEENC18WP9s9ZCfPyUIchtww/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文来自 LMSYS/SGLang Team，原文标题：Agent-Assisted SGLang Development: An Initial Exploration，以下为全文翻译。SGLang</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452543&amp;idx=2&amp;sn=6b834c5b417cd24e2777770d1d0409f8&amp;chksm=bf3b205dc9cd79756ce5d96435e2ff7c285a8a51a40e670700ce6df49a988bff1815662510df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 21:05:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Q2 开源模型复盘：Coding Agent、长上下文与推理系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlx52j6xLrNpKticpJpicLKyFHVuJEPvnmkQ85x4oZu3o4xvmGHIiaUaDLdZknHhKQ9jJPtYSAR7pnQTBgib6274mxCjUJkgk7cGEE/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年第二季度的开源模型生态，有一个很明显的变化：大家已经不只是在比参数、榜单和上下文窗口，而是在比模型能不能真的进入开发者工作流。这一季从 4 月开始就很热闹。Qwen3.6、Kimi-K2.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452513&amp;idx=1&amp;sn=226838e679aa586afe992cbd2b3def42&amp;chksm=bf5e359fbd9c30b27329b1179df8034071212e513502e24b0f407e33abbe0556855cdd1084e5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkOIeqiasGqFu5s9AoLH0XoPQrO0rrN8IsvKB2Kug35Jiar44qG5ZSfSTgPcEJ5IHGgRulpice8nAypRvPRcWSneWibU8nHJvBGYEk/640?wxtype=jpeg&amp;wxfrom=0"/><p>马斯克又把 AI 圈和资本圈同时点着了。前脚，围绕 OpenAI 的那场大官司刚被陪审团按下暂停键：多家媒体报道，法院认为相关诉求已经过了诉讼时效。后脚，SpaceX 的 S-1 招股书就公开了。股票</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451910&amp;idx=1&amp;sn=d7254a329c9320626ae84bd01618af62&amp;chksm=bf5991e162f425d2f36bd47f78aa163f2b2238673f7280e0d61f7e578ece7f73cbcc38f0ca5d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 21 May 2026 15:46:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[300页！掌握所有Agent关键问题.pdf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnrmYZQ2S4CEFpWAoWXPdC5dmAcII4cldqxNFYlYXpXxicTPeiaMAWEN0pnbgLcb7XMA8mic7zg2uwaDorgDSNsN9LdK1fZoRoN0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，Hermes Agent凭核心自进化机制、持久记忆等优势脱颖而出，以单日2710亿Token调用量反超同类产品、斩获14万+GitHub星标，引爆AI智能体行业热度；而此前爆火的OpenClaw</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451885&amp;idx=1&amp;sn=71ce2832ab6fa06e96761574459f7fd4&amp;chksm=bf4e851cd948214128424d339690b153a073396f6d43430562d6436d50a91713a751ad7cd753&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 10:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第十一届信也科技杯全球AI算法大赛重磅开赛，超30万奖金池等你来！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlyJnsZkMAkiart7alPE7Ol52gfh9ficWfYATP9RB6efLUz2lKrGSjNTqGgibLkXcsX0ozUX8CZYnm70dkJ5Nv5qdib3OGGHZnZYnU/640?wxtype=jpeg&amp;wxfrom=0"/><p>扫码关注【信也科技招聘】</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451879&amp;idx=1&amp;sn=a9df45dbd7f2863dfb9ac295267a9d3f&amp;chksm=bf0d5efa2911a0017c99a374cd9af4ca891e22615509fba37b498bb922ba6b8184c0f9170baa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 10:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
