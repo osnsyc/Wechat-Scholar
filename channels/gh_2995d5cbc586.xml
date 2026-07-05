@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[高斯之后，实时级网格重建杀出重围：端到端网格重建终于不用先点云后拼接了!]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jLXYcicbrFibtkhnEMtEHAa0EpeHfTiavTl8ysVBu3woTu0ic1HNHkDTl8wxD9cFTnQEnbjGWEErCjE6IlRZHT4icnp92JEzdu0Vvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>以3D高斯泼溅（3DGS）为代表的技术，虽然凭借实时渲染和高保真度惊艳了业界，但其本质上是一种“点云”表示法，输出的是大量半透明的椭球体。这导致它无法直接被游戏引擎、仿真平台等标准图形管线使用，必须经</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747711&amp;idx=1&amp;sn=a009755c98d377f9f3b5bcb3ae4a62ce&amp;chksm=fa5b9285588ec28c01186a3f6be90f988e42f78c62bac13dd8c4e2db5a9376fe882b099f80c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[交叉结构光自动同步标定（单组图像完成相机+光平面参数求解）+ 双曝光融合 + 机械臂协同]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4hRUhpElquuofqQy7qFwasbMbNN94TGZT2NRdWicZZgZCicibNgTjFK4vFcTWNQ9ibqia9JjTlichpck4MeQ875ic76pGNMoia8Qk3YkKo/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747711&amp;idx=2&amp;sn=548481e4e26fe84513f8341de603c665&amp;chksm=fa03b0418a01a2f17da5147deb60a73845b7e07ca3b0cda2c126678622448533a6e49ea220f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[为什么传统SLAM的毫秒级盲区，只有事件相机才能填上？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jMbxVp35qL5ElzdJV3bNTHrLQVaX342GfZTmNMKpBITG52iaBfq4m0pVtibPBuMhMgYEjuJqJ1zp2dtoB9QAibrZicIvOaibOUW0fU/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统SLAM的毫秒级盲区，根植于帧率相机的感知范式本身。两帧之间数十毫秒的间隔内，传感器彻底失明——期间发生的快速运动只能被压缩为下一帧中不可逆的运动模糊，剧烈的光照变化则直接导致整帧过曝或欠曝。当相</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747504&amp;idx=1&amp;sn=5ed9f7a947aebe3a487cce3b2a64a53b&amp;chksm=fa15efccfa347bde5b8f23946f6247a74b966ee01d48aeff73bba3dfeca16c03dae419dc0b6b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4gA2DlXNJJhSabsDASBc8cL6eprzLxMZnZ6Ahctq0QTYxyUiboicLWHgKnR2EWsUS95rx7VChia3icMoPLeHKh1cT39nOvibPR68Q5o/300?wxtype=jpeg&amp;wxfrom=0"/><p>HandBot-S2是一款硬件和数据开放的三维空间扫描仪，集成了3D激光雷达、3目相机（前左右）、IMU、RTK等模块，多传感器通过硬触发实现毫秒级同步，并提供标定好的内外参数，使用者可以获取所有原始</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746387&amp;idx=2&amp;sn=9d823a4cd1d44ccbfaf2c83022ad7351&amp;chksm=fa4ae3fdc946d1a51a1372cb9615688467212f657d5335f2ec0aceb17db2c4ee6f433b6cc7fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[专业、易用、极致性价比：先临三维推出消费级 3D 扫描品牌先临智星 EINSTAR]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gAjJO1QmnL3VRSlKZnEn4C8BRRa5mBYvLnicqYIARbC14v1MQnskeTNpdxEE7iaJ1db89zEg6hmTu8uQA7wPA6hHgicRucoiauCSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，先临三维正式推出全新消费级3D扫描仪品牌——先临智星EINSTAR。品牌定位“让高精度数字化触手可及”，主要面向3D数字创作爱好者和便携的空间三维尺寸测量需求，提供专业、易用、极致性价比的消费级</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746374&amp;idx=1&amp;sn=fed65df772e91ba553e8924b9c7688ad&amp;chksm=fa030874ac289c16af375ae008fcadd7e766b71bde245fac8b8e4b271b46b6c825f4fb2a6fbf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Learn2Splat：首个学习型3DGS优化器，零样本泛化到未见场景！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jqtlnfQUOzq5Iald5OibPwC5BtLOqFgYlYKqUhFF22bOWqLsarebQibicrVMYBYTaOPgrLMKI6jpzE6gmb0Stukkzt8C7k88rRWc/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746374&amp;idx=2&amp;sn=4b75c771cb94218a3aad74739f228431&amp;chksm=fa66c818426e0163c0d79c3833b44d79cdf8c1beef100c9d3a6537fb9ac4b342cee179fc42ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Jun 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
