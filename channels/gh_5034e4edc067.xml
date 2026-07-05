@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Claude Code 团队成员详解 Fable 5：长任务开始前，先找未知盲区]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkkibGmbVuYLUJzE1kUPFRw7jTBc75IMY8tosLiaL1G7VdWWHvDfeib6lT3icFHY1qPH6gwBibQQKYFMXW6nfnqcS6gZZWlRsmH13wQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 一旦开始跑长任务，最容易出问题的地方在于：它会很顺手地替你补全世界。业务约束没说清、代码历史没讲透、交互偏好没有定义、review 标准只存在脑子里，最后都可能变成模型在代码里</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452610&amp;idx=1&amp;sn=5d7ef9b3a96d7c66b322d7cf2152b72c&amp;chksm=bf4e0434cdf7fe8926a0448b46ed37735f7e7b63e6d1427d8c8bed1004393f9c76433b8db6fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Jul 2026 12:45:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PPT Agent 的“记忆盲区”：MemSlides 让幻灯片生成从一键产出走向局部修改审计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmZ7ibCwia1ZpmC0dcxg4lrRQxRnQGXq7RbOz5aHDC0w4MKj21eZic3Cd0ZKicx5WEfyLqpBStbKxHDo63K6x0KWNRb6TLOsWquvicE/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文: MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452610&amp;idx=2&amp;sn=86eb0103f57349acc109a05999d85f41&amp;chksm=bfb8cb34026d3f888bc1566f047099e1210cb19ae4efdf3cd945585536c8a2a52072430b9245&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Jul 2026 12:45:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code 省钱诀窍：这个开源工具让 Fable 5 成本最高降 70%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmx03ajjsL8Xd7CV3WYQFUjVlxddpQ3muVbaKh6JVA0D0bpicXWzmZcy6qBTNbnUHJSGl7icFnojDFocfa0KAlTWKU4yrXZXFqWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 的省钱办法，很多人第一反应是换便宜模型、少跑几轮、早点 /compact。这个开源工具 pxpipe 却给了一个更好玩也更工程的办法：别急着删上下文，先把一部分上下文变成图片。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452556&amp;idx=1&amp;sn=6dcf8fbb112a0f13a55ea1ad48901c1a&amp;chksm=bfa1b1828d8573ac5c220fe04c39ce8efb6062e6b0e0e370fc62d20315bb2cf5a664904efbdd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmseuKEg7Zx9fTJldgxdI5EWb7AsABfDurVQqQbb4p4o4v3mKqatTvTJYRfluMR64VfT4KYFJsB2Yrbhpr9UmTUwUbEic3drnPU/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek Code 这事儿，信号越来越浓了。不是社区随口一猜，也不是普通的产品传闻。先是 DeepSeek 研究员 Deli Chen 在 X 上亲自发帖招聘，说 DeepSeek 正在组建一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451942&amp;idx=1&amp;sn=3fb8af92f553a0444b350bf6cfb56565&amp;chksm=bf8eac92a7f0ff5c5a3b7d8e2dc31917c10bfcc6dff2fd8805a42337c2f68ff1a7c75acfc444&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 24 May 2026 15:27:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何把 Codex 用到极致]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkKS7YLyTAPOMEQnOhGa84y1MQ0iaro4fru2icKKAicZcj8Y0X4HzRickqAV7DfcxFHq1Aq0jtmlB6DyxN17xicLJStxgwrHxXhutc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文翻译自 Jason Liu 在 X 上发布的长文《Getting the most out of Codex》。原文链接：https://x.com/jxnlco/status/205715374</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451931&amp;idx=1&amp;sn=c8dea863a97fbb8bf7a190f46964d02a&amp;chksm=bf6ed8e61acd12200d662771e7ac69ab0df0350b6b0b9891b67f2bca7a9ac58615b9ac0b9c1a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 18:21:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一年发了6篇论文，终于明白“模仿”才是最快路径！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkItrqeWwMArINSS5gf0ektSkrDynPsWeZ90YZ4D5YNOT70AMau0BiaYOEhHKv2eVWf0fUkJ7p6E3ZngZt8Jp3XVqmRJogsbF1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家是不是都感觉写学术论文真是无从下手啊！写文章之初最难的是找到一个不错的idea，这是非常重要的。这个比写作难的不止一点，如果你有idea的话写起来其实挺快的。主要是多看领域内顶刊文章，模仿别人文献</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451915&amp;idx=1&amp;sn=d42c25c448442a6ff6d9daf14130f168&amp;chksm=bfbcc5d0f6d7658a74326ba6f3d5982c7b8383d98b4f7797c935d183107e96325b1d6f851bc9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 09:43:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
