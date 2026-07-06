@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[590页，开源免费LLM实战指南.pdf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlpiajiaZaPM0oakbpqbB0rfuPcHiagYRfkkl71nEjLS6DlCsqsK9UaXHkdiaqn5Dk4L9rQVDte1ic4B6C1fsazp0uANInkmVTUZYLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>由大模型可视化讲解先驱Jay Alammar与Hugging Face核心成员Maarten Grootendorst联合编撰的《动手学大语言模型》，正是当下大模型学习热潮中不容错过的权威实战指南，更</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452530&amp;idx=1&amp;sn=c61177b050181fe747a1a4412d5c78af&amp;chksm=bf1e3e7f17fad51c80903e47a3b8fd31211d266c8e48e283b342bc3a1de26375968eab9a0067&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Jul 2026 10:10:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code 团队成员详解 Fable 5：长任务开始前，先找未知盲区]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkkibGmbVuYLUJzE1kUPFRw7jTBc75IMY8tosLiaL1G7VdWWHvDfeib6lT3icFHY1qPH6gwBibQQKYFMXW6nfnqcS6gZZWlRsmH13wQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 一旦开始跑长任务，最容易出问题的地方在于：它会很顺手地替你补全世界。业务约束没说清、代码历史没讲透、交互偏好没有定义、review 标准只存在脑子里，最后都可能变成模型在代码里</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452610&amp;idx=1&amp;sn=5d7ef9b3a96d7c66b322d7cf2152b72c&amp;chksm=bf4e0434cdf7fe8926a0448b46ed37735f7e7b63e6d1427d8c8bed1004393f9c76433b8db6fd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlfPXZ3ibaWSns4nMe9WM5WxCMCDDtD3Iq5cew3FGI413xkjcG9c84ibbG162pZ3hy9LtVKXSDicom0qsN3VGn3a9sxAc2dJ5j0Fc/300?wxtype=jpeg&amp;wxfrom=0"/><p>从 KV Cache 瓶颈说起长上下文模型的能力还在往前走，但在线推理服务遇到的压力，很多时候已经不只是计算量本身。每生成一个新 token，系统都要反复访问越来越长的历史 Key 和 Value；上</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451979&amp;idx=2&amp;sn=894265e03a9246ea22e3452c1768ac31&amp;chksm=bff0a9c94bee4dd757a258021c9c252da00ee6723cfcd1901d6d7a8cd11e90d7ef65f5890594&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 May 2026 19:15:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek Code 真要来了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmseuKEg7Zx9fTJldgxdI5EWb7AsABfDurVQqQbb4p4o4v3mKqatTvTJYRfluMR64VfT4KYFJsB2Yrbhpr9UmTUwUbEic3drnPU/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek Code 这事儿，信号越来越浓了。不是社区随口一猜，也不是普通的产品传闻。先是 DeepSeek 研究员 Deli Chen 在 X 上亲自发帖招聘，说 DeepSeek 正在组建一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451942&amp;idx=1&amp;sn=3fb8af92f553a0444b350bf6cfb56565&amp;chksm=bf8eac92a7f0ff5c5a3b7d8e2dc31917c10bfcc6dff2fd8805a42337c2f68ff1a7c75acfc444&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 15:27:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
