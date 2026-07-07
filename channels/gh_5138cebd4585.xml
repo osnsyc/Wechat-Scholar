@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[一步生成SOTA也不够，何恺明团队「漂移模型」遭ICML拒稿]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDiaIglu9BrZ1zJ4SUZUueZY4omyBm2OkyF57qDhPJPOZQoticSgndfaKywE0BoMD2OjickKuYXYrib2vqCr3haM2xWyribE0PaD39c/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文结果很强，关注度也不低，但 ICML 2026 最终给出的决定仍是 Reject。今年年初，何恺明团队用漂移模型把一步生成重新推到了台前。过去几年，扩散模型和流匹配模型不断刷新图像生成质量，但</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721442&amp;idx=1&amp;sn=68a3aae2a1ac88875c63cfebfcf8d3e0&amp;chksm=976c1290188181d8fb30214dc0563df84c716861ef516bd39c1e0945e7d938f2288f0d52735b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Jul 2026 22:21:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[WWW 2026 | RAG黑箱被打开！OpenDecoder把文档质量写进解码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeA5guTKvcu4iaj6vr3FanNZZcyr9Z6Hs9dQoN2IiaUl9JboSvGtnxs7N8MV1FibicuGmFBrI4gm5RiaQicTcOQQXkfkXVL5iaODodJO4E/300?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型越来越多地被用于生成跨领域问题的答案。然而，当这些模型单独使用时，常常会出现错误或不准确的答案。检索增强生成（RAG）可以部分解决这个问题。目前的方法将语言模型视为一个黑箱（black-bo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721442&amp;idx=2&amp;sn=ff703e28428d5843a073249a4d65abcd&amp;chksm=97b26fb474f799479ed31730419ae2395f413c4117835965d809b211e4fed8bb409bc004ff29&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Jul 2026 22:21:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[HuggingFace热榜第一！清华上交推出MemSlides，精准锁定PPT局部修改]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAR8icImzNCiavpjGQVaRibB8DTWYxvIFV670y2A298Z6LAAWWHtSNCHYr19xpP7tcZQs4whjtIygvBNtDEqsWSgMes2EOSERXEME/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 生成 PPT 往往“一改就乱全篇” 。清华、上交、北邮联合提出的 MemSlides 通过层次化记忆，让 Agent 实现了精准的局部修改 。清华大学、上海交通大学、北京邮电大学合作完成的 Me</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721419&amp;idx=1&amp;sn=9c4ac4a6eed7b809119a0eca018f2032&amp;chksm=97e680e57230fadd16b1f4883bd12a0cad2c6275598d280276f5b5710b1b20ec205f9be6555b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDHxSBYmB57jkibYnoBPgaOVAtmoYNdyDUEB7KsVFd67VpjrQDjtDAAKJRmSP9SSBy2I3SEaC8Jf96XRcPzKbQxobD70lWQUo5I/300?wxtype=jpeg&amp;wxfrom=0"/><p>不动损失函数、不加参数、不做最优传输，仅仅换掉一个集合的定义，跨分词器蒸馏在 12 个评测格子上全部刷新——中科大团队提出 SimCT，把跨分词器蒸馏的天花板抬到了新的位置。On-Policy Dis</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720700&amp;idx=2&amp;sn=9cc180293fbeb17dc0a0e0ab0a2b2974&amp;chksm=9704006154a78f68fe7383410df6bce0a52daca3281a768b08923b7d7988f60112ce83fcd784&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Jun 2026 19:19:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[8个Agent也能稳定收敛，信任域约束重塑多Agentic工作流 | ICML 2026]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAa415uozU14rAZ99JTBkTIZ5K0Z5XF3VkZXEOXXRTfkgzkt1V0V7skMhA1DiclKWfJWe2eKoU7JI2QyI6ClJbZYlqK9yGb8410/640?wxtype=jpeg&amp;wxfrom=0"/><p>多 Agentic 工作流正在从推理时协作走向统一训练，TeamTR 用信任域约束给出了稳定微调方案。多智能体 LLM 系统正在从多智能体辩论（Multi-Agent Debate）走向“智能体工作流</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720676&amp;idx=1&amp;sn=5950671a168cc4af1f62bc71557bc470&amp;chksm=976245ec2702bc2cbd9081086fe5023002ef8bfb00b2067a235c19287f74489ff80befac9073&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Jun 2026 21:31:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超越TurboQuant！KV Cache压到真2-bit，长上下文推理又快又稳]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBDsBZL4qDoa4hObt6zM6KfhjqXXKEibUyWz9PPkkzEpzr4EB2lGgomAiaTnUG10WwmoaX0a6MPW3EIxMYrQwOmIObVEYRpicHUsw/300?wxtype=jpeg&amp;wxfrom=0"/><p>超越 TurboQuant, 内存有救了！最新论文 OSCAR：Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quanti</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720676&amp;idx=2&amp;sn=e457e7fe30675443a503786485eb1ee6&amp;chksm=9735653afef546b8dd447ee243c4e9ffc129cbde98a888968d00d065dabe034aca911a94bbe3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Jun 2026 21:31:11 +0800</pubDate>
     </item>
   </channel>
 </rss>

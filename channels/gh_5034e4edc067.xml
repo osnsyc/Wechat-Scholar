@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[刚刚，腾讯混元 Hy3 发布并开源：295B MoE，Agent 能力和产品体验跃升]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmldhWfflrb0ramiajpBhWFAiaA80pbjHqALCMABDWFx3ZAPJxT4pdNHo26o9M5Qk6yWJJrClP7bOEGZQJSeufKxOuNzvSDeovLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天下午，腾讯混元 Hy3 正式发布，并同步开放 Hy3 和 Hy3-FP8 权重。这是一个面向推理、代码、工具调用和长程任务的大规模 MoE 模型：总参数 295B，激活参数 21B，MTP 层参数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452644&amp;idx=1&amp;sn=5ad3e12c4377c3c1c3ff0e4ded4ab6f0&amp;chksm=bf3f91319a02b8e79020e1c9af61af5c883c92cbdbf4f37b4f66a287d5b6070841302607aed7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[590页，开源免费LLM实战指南.pdf]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlpiajiaZaPM0oakbpqbB0rfuPcHiagYRfkkl71nEjLS6DlCsqsK9UaXHkdiaqn5Dk4L9rQVDte1ic4B6C1fsazp0uANInkmVTUZYLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>由大模型可视化讲解先驱Jay Alammar与Hugging Face核心成员Maarten Grootendorst联合编撰的《动手学大语言模型》，正是当下大模型学习热潮中不容错过的权威实战指南，更</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452530&amp;idx=1&amp;sn=c61177b050181fe747a1a4412d5c78af&amp;chksm=bf1e3e7f17fad51c80903e47a3b8fd31211d266c8e48e283b342bc3a1de26375968eab9a0067&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[DeepSeek 的 10 万亿美元宏大战略]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvm3pjibDGB8gowtctsPIGR2pGrQX5uWW9CBNobUoIjzkoI47Qtwo9c6wpaJnLyvtq4jcHDqfYjD9xr3nu3via1vuUM4oPrqDHT3I/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文翻译自 GDP（@bookwormengr）发布的长文《DeepSeek's 10 trillion USD grand strategy》。原文链接：https://x.com/bookworm</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451979&amp;idx=1&amp;sn=3c3b0cee50e53f6d9d4625bf257a8c0a&amp;chksm=bf676796cb25d704df7e2bbdfb378850e70e5b1d62232d6b51dae5941c70140957b33897ce8c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 19:15:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超越 TurboQuant! OSCAR：面向真实 Serving 的 2-bit KV Cache量化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlfPXZ3ibaWSns4nMe9WM5WxCMCDDtD3Iq5cew3FGI413xkjcG9c84ibbG162pZ3hy9LtVKXSDicom0qsN3VGn3a9sxAc2dJ5j0Fc/300?wxtype=jpeg&amp;wxfrom=0"/><p>从 KV Cache 瓶颈说起长上下文模型的能力还在往前走，但在线推理服务遇到的压力，很多时候已经不只是计算量本身。每生成一个新 token，系统都要反复访问越来越长的历史 Key 和 Value；上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451979&amp;idx=2&amp;sn=894265e03a9246ea22e3452c1768ac31&amp;chksm=bff0a9c94bee4dd757a258021c9c252da00ee6723cfcd1901d6d7a8cd11e90d7ef65f5890594&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 May 2026 19:15:22 +0800</pubDate>
     </item>
   </channel>
