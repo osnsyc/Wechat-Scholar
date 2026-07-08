@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[翁荔再写万字长文：AI自我改进，先从Harness开始]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCC1JoQtbtic6FibZxnI5QgZxHGv1olWdOSnWFfwZTibKy87TWShNv2pt4zxs3zEpuhTTRICuw42Sfnnrrib6eulQO5PbYdIUlkjHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 要自我改进，短期内最先被改写的，可能不是模型权重，而是模型外层的 Harness。AI 如果走向自我改进，第一步会发生在哪里？很多人会想到模型权重：模型读自己的代码，改自己的参数，训练出更强版本</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721463&amp;idx=1&amp;sn=3239c4d6d252661fc3142433e75b8b13&amp;chksm=97c375b6efadb8cf95afbd900f42f3e6dc303f936da64cb59f45871cdee6dfca6bdad240ffdd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 18:42:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICML 2026 | 从提取漂移到聚合漂移，南大AREA重做CLIP增量学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeB8Z7QDQG2yvlWibDS5q77ibk3VRY7KtDc4PLfMX9NEEoSycXw2UXn22xaQMLmYhMhwjW4oWtauWzs7aTTzsW8Kptb6ynCiajEX98/300?wxtype=jpeg&amp;wxfrom=0"/><p>类别增量学习要求模型不断学习新类别，同时保持旧类别的识别能力。近年来，基于 CLIP 等视觉语言模型的类别增量学习受到广泛关注，因为 CLIP 已经具备强大的视觉-文本对齐能力，可以通过冻结主干并训练</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721463&amp;idx=2&amp;sn=2d447569ca4ce91f4ce5a37c5ad56ea4&amp;chksm=978622322062a5d11df28ddfa02f09ba735dec3df2170b479dc58e5424b3675e7fa2a6c02787&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 18:42:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一步生成SOTA也不够，何恺明团队「漂移模型」遭ICML拒稿]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDiaIglu9BrZ1zJ4SUZUueZY4omyBm2OkyF57qDhPJPOZQoticSgndfaKywE0BoMD2OjickKuYXYrib2vqCr3haM2xWyribE0PaD39c/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文结果很强，关注度也不低，但 ICML 2026 最终给出的决定仍是 Reject。今年年初，何恺明团队用漂移模型把一步生成重新推到了台前。过去几年，扩散模型和流匹配模型不断刷新图像生成质量，但</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721442&amp;idx=1&amp;sn=68a3aae2a1ac88875c63cfebfcf8d3e0&amp;chksm=976c1290188181d8fb30214dc0563df84c716861ef516bd39c1e0945e7d938f2288f0d52735b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeChZCNomXSZJU7r9yjmtnConQBZt0doGfRAnP6VoVQsWnQSY7JlicCsBRpA14ZpPH6rfSmfhLp9PvhjysV8tWJI6pMH1VID70Hg/300?wxtype=jpeg&amp;wxfrom=0"/><p>点亮👆“☆”星标，不错过推送内容~2026年，美团技术团队数十篇论文被 ACL、SIGIR、ICML、KDD 等顶会收录，我们近期将精选 32 篇文章，分成 5 大专场进行解读。内容涵盖大模型推理、智</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720727&amp;idx=2&amp;sn=d312889348e503239356728d6d55dcb8&amp;chksm=9788b23a708b273f879f0ed5661a197ed462c35d97830925d59c8ae3dcfb2ce501e42ba65736&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 04 Jun 2026 13:46:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic参与新论文：大模型为何学得更多？答案藏在Scaling里]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDBnavA5slns5YN6rAdG2zPWXgk0fDDaJyVRrPsnQXNNqibkENrvdk1PcoXKMYzcv45IYB9TtgqDCxUlLjoMCWibJlnJNaNhStLU/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文给出一个数据中心视角：大模型更强，不只因为能表示更多，也因为更能保留长尾任务。大模型为什么比小模型强？参数更多、数据更多、算力更多，模型能力也随之提高，似乎已经成了过去几年大模型发展的稳定经验</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720700&amp;idx=1&amp;sn=a384ebb6f68638abaf2dcfa264c2eef1&amp;chksm=97a57eb79a0bd43cd197c7f8f3379b83e3a970a6dffe97df803600fb9780f6e45d20150eb667&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Jun 2026 19:19:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不要再卷同源蒸馏了！简单微调分词方式，轻松实现跨架构OPD]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDHxSBYmB57jkibYnoBPgaOVAtmoYNdyDUEB7KsVFd67VpjrQDjtDAAKJRmSP9SSBy2I3SEaC8Jf96XRcPzKbQxobD70lWQUo5I/300?wxtype=jpeg&amp;wxfrom=0"/><p>不动损失函数、不加参数、不做最优传输，仅仅换掉一个集合的定义，跨分词器蒸馏在 12 个评测格子上全部刷新——中科大团队提出 SimCT，把跨分词器蒸馏的天花板抬到了新的位置。On-Policy Dis</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720700&amp;idx=2&amp;sn=9cc180293fbeb17dc0a0e0ab0a2b2974&amp;chksm=9704006154a78f68fe7383410df6bce0a52daca3281a768b08923b7d7988f60112ce83fcd784&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Jun 2026 19:19:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
