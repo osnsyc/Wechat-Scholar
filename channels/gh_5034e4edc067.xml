@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Codex 王炸来了。。。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmUKA4HfrVnmD2AEdhk6bk3K0ZPMUkeYqgXNRj3RX46ep3FvaYepjDicibQAWa6cicg4qWib9HeYy4VHBSjN0BLwLoyOKCKsdNWInk/640?wxtype=jpeg&amp;wxfrom=0"/><p>这一周，AI Agent 又往前走了一步。Sonnet 5 把代理能力从 Opus 下放到了 Sonnet，输入 Token 降到 2 美元/百万；越来越多模型开始支持更强的 Agent 能力，而且价</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452654&amp;idx=1&amp;sn=5736fde96b1725c66d293946f55dc6b7&amp;chksm=bf6946faeea3d7e89e746ac9731669cd65fa9d37662641908d39572de429ca61a251d0b90119&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从头开始理解 Loop 循环工程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvl9HekaOUzW1F1UChTX1SuZP1Mx8gQdniaiaQ9Pyz3Yyq6TzzbgIdF2ia0Uias4NtWud5yevEsTr2dk6m0AibjAAHJPCCtsjhQKDick0/300?wxtype=jpeg&amp;wxfrom=0"/><p>ClaudeDevs 在 X 上发表了一篇文章：Getting Started with loops，讲的是 Claude Code 里一个越来越常见的用法：把 Coding Agent 的任务设计成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452654&amp;idx=2&amp;sn=6ca2228d6b71dc643004811e10e95497&amp;chksm=bfbc5b22696ca5566352e02f30e8f5fee28202a7c30f4f180335a9b1010e24ddda6bd67e15f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚，腾讯混元 Hy3 发布并开源：295B MoE，Agent 能力和产品体验跃升]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmldhWfflrb0ramiajpBhWFAiaA80pbjHqALCMABDWFx3ZAPJxT4pdNHo26o9M5Qk6yWJJrClP7bOEGZQJSeufKxOuNzvSDeovLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天下午，腾讯混元 Hy3 正式发布，并同步开放 Hy3 和 Hy3-FP8 权重。这是一个面向推理、代码、工具调用和长程任务的大规模 MoE 模型：总参数 295B，激活参数 21B，MTP 层参数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452644&amp;idx=1&amp;sn=5ad3e12c4377c3c1c3ff0e4ded4ab6f0&amp;chksm=bf3f91319a02b8e79020e1c9af61af5c883c92cbdbf4f37b4f66a287d5b6070841302607aed7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvl32blasfovAINeLv8jFn1RvbwU7QxtVndSxBgXTE1eRPasCxZwnYAcQDk0UWeln3MRFmnr8JaLD56C7AtxwjibiaRzCvoiaEzibv0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 又发新模型了，这次是 Claude Opus 4.8，不过还没到“新王登基”，官方自己的说法很克制：这是相对 Opus 4.7 的一次 modest but tangible im</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451997&amp;idx=1&amp;sn=ec5133b2f8816777933e435a1d8a4676&amp;chksm=bf5763b65c7333808294ca4faae844395048d540eb622c34ef3d242d2434b685f268631c09d8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 29 May 2026 10:48:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Skill 文档也能训练？SkillOpt：把 Agent 的经验写进一份可优化说明书]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvl5DxprhtHVuibVGT6yyjUdmfdCLtOLFjF23LHJNDbNWxgo5odzgsLHra4xCZqoPNfppfhEBphJls3ibfnxUBOuIPcR0qnlmGhWk/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文解读一篇很适合 Agent 时代读的论文：SkillOpt: Executive Strategy for Self-Evolving Agent Skills论文地址：https://arxiv</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451990&amp;idx=1&amp;sn=63e53397bfc684a3fa0aa3aca70a11c8&amp;chksm=bf8a703c2dfd4bd858dccdd4b8418a88c72bf17c3a594eaab15124a095b6b457332ed4d2468c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 28 May 2026 19:58:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek 的 10 万亿美元宏大战略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvm3pjibDGB8gowtctsPIGR2pGrQX5uWW9CBNobUoIjzkoI47Qtwo9c6wpaJnLyvtq4jcHDqfYjD9xr3nu3via1vuUM4oPrqDHT3I/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文翻译自 GDP（@bookwormengr）发布的长文《DeepSeek's 10 trillion USD grand strategy》。原文链接：https://x.com/bookworm</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650451979&amp;idx=1&amp;sn=3c3b0cee50e53f6d9d4625bf257a8c0a&amp;chksm=bf676796cb25d704df7e2bbdfb378850e70e5b1d62232d6b51dae5941c70140957b33897ce8c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 19:15:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
