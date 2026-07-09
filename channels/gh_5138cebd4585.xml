@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[大模型到底能记住多少？ICML 2026获奖论文给出答案：每个参数约3.6 bit]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBdQSt3RdUpeFPEdwCBIthPTgs6fUbyRJNAh8ic6ghiaDKLohRZgtx9TicjJVibNImZ1yt3eicwU5eburk2bZlyBlsSN118XhLr825M/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型到底记住了多少训练数据？这篇论文给出一个具体估计：GPT 类模型每个参数约 3.6 bit。大模型训练过的文本，究竟有多少真的留在了参数里？这个问题长期悬而未决。模型能补全一段训练文本，不一定说</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721491&amp;idx=1&amp;sn=11652d01db855f82f081e10e7c53eb1d&amp;chksm=9793874d119cc81f63bcb7f1298f4aaf562768c57bb3ded0c06a6aa63f25ec54626c93cc8b07&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 19:09:58 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICML 2026 | 不用文本编码器推理，脉冲神经网络也能看懂3D开放世界]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeCiaXylIjibo0kUx8JsMP9HPu1yibOW9O6tLfLeCrpQUv0PmwcEhIx8Al2cuXvoRwQdXOMlnmMTLhcY5UT2brUQBNI9cg41VicFNCw/300?wxtype=jpeg&amp;wxfrom=0"/><p>脉冲神经网络（SNN）因其高能效和时空处理能力，在 3D 感知中具有巨大潜力。然而，现有的 SNN 在预训练和推理阶段面临挑战，限制了其在 3D 开放世界理解（如零样本 3D 分类和开放世界问答）中的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721491&amp;idx=2&amp;sn=f000fabaf7c164f844ded6d37f1c3ce0&amp;chksm=97d3daf2cd8f83b761f3fdd1be6f12ea8140fe6e727a5b86c5d3d7f957ab2b6984856da3aeaf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 19:09:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[翁荔再写万字长文：AI自我改进，先从Harness开始]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCC1JoQtbtic6FibZxnI5QgZxHGv1olWdOSnWFfwZTibKy87TWShNv2pt4zxs3zEpuhTTRICuw42Sfnnrrib6eulQO5PbYdIUlkjHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 要自我改进，短期内最先被改写的，可能不是模型权重，而是模型外层的 Harness。AI 如果走向自我改进，第一步会发生在哪里？很多人会想到模型权重：模型读自己的代码，改自己的参数，训练出更强版本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721463&amp;idx=1&amp;sn=3239c4d6d252661fc3142433e75b8b13&amp;chksm=97c375b6efadb8cf95afbd900f42f3e6dc303f936da64cb59f45871cdee6dfca6bdad240ffdd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDFCAA56oMkUzVbEjfE5o5VK5eVh5NgNG6iaguWWCCSZicgHaNyTbGfEv4WIp7P4vyrmUjxzgfPRTnUnde1ygV6FRv621dw96IbE/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，浙江大学计算机学院、经济学院、区块链与数据安全国家重点实验室联合阿里云发布综述论文《Token Economics for LLM Agents: A Dual-View Study from</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720747&amp;idx=2&amp;sn=42c9180b73ba9e390059b0b588e961c8&amp;chksm=9786b35d6dd7123db293214ef3683126cf85eb77fe5abd712c0cab935c6bedba84a6c145aa2a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Jun 2026 18:06:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI科研绘图终于开窍了：出图就是可编辑SVG]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBZA2v3OfW6GbuRPuDwibq8YqlgWTcibM9OfuGvEO34icfUesuEY7cQtF8mRFEs4GSNoje633XSdFQ1miaibOyyWaY45ss5G8ia7auPE/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 画图终于不只停在 PNG 了：生成之后，还能继续变成可编辑 SVG。现在让 AI 先画一版论文配图，已经不算难事。方法图、架构图、poster 配图，给模型一段说明文本，往往能出一张看起来不错的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720727&amp;idx=1&amp;sn=0868d023cca4f75905869f5a03a037de&amp;chksm=97ddf8f7809af5ff48d00668e6ae512429fd1f278776e27e8075188616f44c9417ba63f29107&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Jun 2026 13:46:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[连播5场！美团四大顶会32篇论文，拆解大模型与Agent前沿]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeChZCNomXSZJU7r9yjmtnConQBZt0doGfRAnP6VoVQsWnQSY7JlicCsBRpA14ZpPH6rfSmfhLp9PvhjysV8tWJI6pMH1VID70Hg/300?wxtype=jpeg&amp;wxfrom=0"/><p>点亮👆“☆”星标，不错过推送内容~2026年，美团技术团队数十篇论文被 ACL、SIGIR、ICML、KDD 等顶会收录，我们近期将精选 32 篇文章，分成 5 大专场进行解读。内容涵盖大模型推理、智</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720727&amp;idx=2&amp;sn=d312889348e503239356728d6d55dcb8&amp;chksm=9788b23a708b273f879f0ed5661a197ed462c35d97830925d59c8ae3dcfb2ce501e42ba65736&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Jun 2026 13:46:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
