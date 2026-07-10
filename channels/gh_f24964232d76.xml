@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang 中的 DSpark：置信度驱动、可变长度验证的推测解码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYJTUtWYGmicrbKb3r8ic9lWF34XUQjKwkeem2ys3wmARt1d3FiaMWfx37A062jd8z3Y3iaoTKcrOhqqlEDBxy3rib5yMBKicCgZmwTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文翻译自 LMSYS Blog，原文 slug：2026-07-06-dspark-sglang。GitHub 原文在 lm-sys/lm-sys.github.io 仓库，路径为 blog/202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531707&amp;idx=1&amp;sn=ad061986d69d2abbfde6eb7c2a3d4f2c&amp;chksm=9e2c9502bb8190a09867a135fe14e17dfad8be41360749400a2bee31ef234f01472653bc1726&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Jul 2026 22:27:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[使用 Agent 助力 SGLang 开发的初步探索]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYHJS81BRZYNau43LWhvdiaAv4p9tCx2VHSwEH6pdMdicO5sxQA7ia3WkJuVn4nZMeZpf0IhUlcOkZuRngAEicAf3gYORZrvocDVW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>使用 Agent 助力 SGLang 开发的初步探索日期：2026-07-02Agent-assisted SGLang developmentSGLang 开发越来越不像一次孤立的代码修改。一个仓库</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531695&amp;idx=1&amp;sn=49dd837ab01957c2d7b511ad4a69fb25&amp;chksm=9ed97bb169c6674c6e2ad84f234f8fdc8ffeefef6564f5cf3247f6dd476fb9dbc51be632dff5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/SdQCib1UzF3sXEBFnYkP1P6ic980Ja8AeLWanRtn7v10IM0MBA20icGC1ueEIcFn7CcQUtSpTic7qUia7HfQWeZ3mzg/640?wxtype=jpeg&amp;wxfrom=0"/><p></p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530946&amp;idx=1&amp;sn=90a7630f9fe828ee6a91a4659c2d7109&amp;chksm=9eae475a19a43cf44950f7d5e1c0ac504b87fad3d5e47264aeb08acb6b9849315755b71f931d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 12:26:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Mini-sglang-01：从Client到Scheduler的消息流转之旅]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P0Ka1WNRwjUVPrypic70mH9SsQWtq7Ss4ibRkqYjYBztoKzpCoibPyRl4qHvAIiaFYib6JibkDh94hiaYJZ74UfiaEfXxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>> 作者：企鹅火烈鸟🦩引言最近学习mini-sglang，这是一个更轻量化的大模型推理系统。在这之前，已经有很多不错的文章分析过sglang 的 schedule系统。我们这篇文章决定从消息自客户端发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530925&amp;idx=1&amp;sn=462d861ab4e000d81e80c86f8080611b&amp;chksm=9e8c156678c10baa0d799068f5b1665e45bc37ba995e3031e1a5e724af821f240a814a0e9e86&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 23:28:39 +0800</pubDate>
     </item>
   </channel>
 </rss>
