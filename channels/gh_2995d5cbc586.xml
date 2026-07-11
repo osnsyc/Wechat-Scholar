@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[3DGS的下半场不是更清晰，而是前馈+生成正在合流，重建即推理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4g03kynjdp217vLkdTb1tvUYzibN5ADPZ9Na26nIKygoicLibwPoeyc0Nu3ZaRB8qsPgVeniaQfE3ArxqDJ6bY8l39a84ZIuHzq3LY/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统3DGS依赖逐场景数十分钟的梯度下降，而当前主流工作（如PixelSplat、MVSplat）通过单次网络前传直接从多视角图像回归高斯参数，将重建压缩至毫秒级，这不再是“优化”而是“映射”。但稀疏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747850&amp;idx=1&amp;sn=83a8147e501c60039e9d0d48402d2394&amp;chksm=fa825f9d0040650a28b4a894402132f8276233e871135cea13dcfe7a4c5c40c57b04359ccac2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[无需训练的类别无关异常分割，MVTec AD分割F1达62.61%！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4h9mCPGumr8Ab5nh4u5ndDcxIQ19eWvJg7LiaxFWTo5IydfrGEwXIrjD27hBwONDicc6ZyL5epFia9guWyWo4zt5vicYCrEKmkOqeU/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747850&amp;idx=2&amp;sn=11c4d9a8390a5104f5f0c15fc2706905&amp;chksm=fa54b0863249aabee92f2b0e4af08e9be1d36a31877825589f651c358c53e3ea82197d803944&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ECCV2026 | 如视 Argus 实现纯视觉 LiDAR 级位姿约束，破解 3DGS 硬件刚需难题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4ia5Yb0sdCLicMpicZquHVPymB2JXvxXzWkf3hHQYeeA64icdlQNh2RV8WstUmXbB1HYCbkoReQfXfsOJAntE3Z74dUWuBLpUBR5AA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，2026 欧洲计算机视觉大会（ECCV 2026）录用名单正式公布，全球领先的空间智能服务商如视的研究成果《Argus: Metric Panoramic 3D Reconstruction f</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747835&amp;idx=1&amp;sn=2299fce4815f9eca55061e6205c41ebc&amp;chksm=fa22b8823a9e06ebdeb78d0c00df35e9b2b9ea99c3d327ea4dc0dcaa6984f134c86e6a2d56d4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gFfdjpd8q3sn2cibx28p0zkCZnz0tJhcWT9c2CgWsjeIK1CYobUmcQr9OQYDCibialYbMJOuXVVQyCnb00QQH29nqVxHBPDZ9JGU/300?wxtype=jpeg&amp;wxfrom=0"/><p>一 产品介绍3d结构光主要针对漫反射物体进行三维重建，常用于机械臂抓取、视觉测量、缺陷检测等领域。目前主流结构光技术有：散斑结构光（机器人导航）、线结构光（视觉测量）、面结构光技术（机械臂抓取等快速测</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746506&amp;idx=2&amp;sn=4e1f76ae9a19152569bfa87223688871&amp;chksm=fa49fbd8d2c9508075a3d81f0be301f81e8ac824a58d91c075606c5f48d35ff4efd61ae00a46&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI智能分割与跟踪/3D高斯泼溅/户外无线/105FPS/0.03mm精度：知象光电推出新一代多功能三维扫描仪POP 4]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4gnf0QlPVFYWXfP7LwNOoNrHxSE81qMf9aGmOBsjdQJwmFKIYM0fZJcKFf5IjlBawLftjYjmDCy9FuS4G6Z4OmXEuDILdjqicko/640?wxtype=jpeg&amp;wxfrom=0"/><p>西安知象光电（Revopoint）发布新一代AI驱动高精度多功能手持三维扫描仪POP 4，首创集成AI智能分割与跟踪，带来多项创新突破，为工业、设计、文博等领域提供高标准数字化解决方案。据悉，POP</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746491&amp;idx=1&amp;sn=c31001633c6ed9e21887e0c18b41f8e0&amp;chksm=fadb062b65e7f2d9ed0b987e6633cc6ed637d95b135473eebafd079f605eae29c03e9a8f6443&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从黑白到八阶：一种高精度、低噪声的结构光三维测量新方法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4jPO87BcR5sevaUINlrv22ZPSBZiahib1oFK2sWQloolYNCzUHUCxw7SF8FiaOM4nj9dOtmxIve5DExSwchPlg31vnEMLvoKNo5ow/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746491&amp;idx=2&amp;sn=c63ee6da1adbca804200cba3ef81b6c0&amp;chksm=fa2dce19af286875883e8ed8ce76fb42a2e251d527543a4bc1a4113067e8850d0eda8a7fb1fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

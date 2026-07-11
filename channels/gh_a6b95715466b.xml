@@ -10,6 +10,12 @@
       <title>gh_a6b95715466b</title>
     </image>
     <item>
+      <title><![CDATA[人大 &amp; 京东｜关于 RL 中 Off-Policy 修正，我们可能一直在走弯路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kqA90yjYex7DibpWQO7QawPmQcbRFwDiaAviaucrVTZRwdd8dBfjkqPicYiaOCDPHMVcnkJNppZ1KeqxEGtFkKMCic67ZsicnNpruLVDJnoE3yCN98/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：人民大学datalab 做LLM RL后训练，最干净的做法本该是on-policy：拿当前策略 现采一批数据，算梯度，更新，再采下一批。p</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247517637&amp;idx=1&amp;sn=b572c0eed47324a63625fbddd542217e&amp;chksm=e8b1d61d1751b2a96663231235cc8242e5c97d0d9b28830a1a561d3b18a56cac0068208024f0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[为什么移除视觉 VLA 反而学得更好？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kqA90yjYex6PPlIFb35R9dVXkhaibAybx6ibI4TdOroibIQyibvxJkibyj8iaVwSse8C8XcfIEhZl8U3eQYy3SGGtwKR96Cv7om155iayYQSyH0YNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：林涛，上交AI院博士生青稞社区为科研人员提供成果宣传支持，如有优秀研究成果分享推广，欢迎投稿联系：aiFreeCode 论文标题：LA4VL</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247517619&amp;idx=1&amp;sn=4cf069c79b7f0d75ab37f82cec280122&amp;chksm=e89ea2dd73e866ab54b29e8edeaba950ce2e0cbdc94363236d4ab55a07969c0c09267070be96&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex5qppPNebKzpldgqm1aCNJPhiaiaTIYeKicH7V59attutXFF6hXCbKc9ZPIRmPseIZJB13N5TU8lQaEDficsCRRVg6nQebgot3gn4E/300?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：拂石原文：https://zhuanlan.zhihu.com/p/2040186241396823188 TL;DR所有大模型后训练方法</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247516537&amp;idx=2&amp;sn=dbf76236978c1e2616b51976c83e851a&amp;chksm=e8d337244f4e6e51cc4df91f690bb5362a5d680fc597ff06f6586bbb336e5251444513775186&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[解决大模型训练 Loss Spike！重新设计激活函数 SwiGLU，聊聊蚂蚁 Ling 模型背后的 PowLU]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kqA90yjYex7nMh9Fdf6OZbawr3SB7ztzZibpJspsr7iaicRVNxqjGprGXC6ialqvP1SdQ8Y3JeVSsfaicB4wdXr4hFico2tRwDOxzeGem7wmP68Zk/640?wxtype=jpeg&amp;wxfrom=0"/><p>主页：http://qingkeai.online/ 作者：jzxhttps://zhuanlan.zhihu.com/p/2043283053787841480免费为科研人员提供成果宣传支持，如有优</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&amp;mid=2247516492&amp;idx=1&amp;sn=a9278eaf097262a648450aa5036cd694&amp;chksm=e856b9d5763d28da8a82e8b833362e1dc47697760543a539479f3ffe660944a581e0d6478227&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
