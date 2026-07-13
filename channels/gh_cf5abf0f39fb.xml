@@ -10,6 +10,12 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[三天复现一篇ACL 2026论文后，我重新理解了SFT]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwCpseXWjACb5vzV0ACU7CgavXUSBiaCu5cpu7WbJu7SyYOf84mibiaY0ybNUv4KxL6OwzF8icO6TXzuuFqubYB9nNKFEIyeECqYwLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！这篇ACL 2026由腾讯混元与UNSW团队提出的论文，第一次让我意识到自己过去半年所有看起来收敛了的SFT实验，可能都漏掉了平均15.3%的训练数据</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509061&amp;idx=1&amp;sn=fc8077689e09fe68e4d2e458d5a29b33&amp;chksm=c38c38e522c3fe836c00681c2584c42f3809b000ad797b8381af99c48892816df6fe09355eb0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 16:32:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[重磅！Anthropic官方Loop设计指南公开]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwAZiadG4v1QRa4vTDx7VTbibTia3B4lHibHtPpCdGfntGQHh1veuMu1BIt4DoT9gbBpxOficL6ic1x9hxKYesfsiaNBRkiaFibIrLsOX1HQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！今天分享Anthropic官方（CluadeDevs）发布的最新Loop Engineering指南：要开始设计 Loop。近期，微软连发了2篇AI自</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509046&amp;idx=1&amp;sn=4a54563f6bacae1146172fa64b71ba1a&amp;chksm=c38379d2bc6bade7ef707fe5f3bd7e8e2992e169fe3b300443a2706a5a2d644cc6ec32a8fcae&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[终于开源！《大模型提示词》.pdf]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwC8qoWKvjDqt8CsZQAiaO75f9n8LiaiaX9rmNicSDxIhNIh2u5YCic7r6lialUqYoXkZ3zBUurHOyN4vMd8evQteLk0lCib8vN0Yiaao2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型语言模型（LLM）正在悄悄改变世界，近期，全球大模型领域迎来科研、开源、落地三重突破，聚焦多模态、具身智能、轻量化开源等核心方向，智源Emu3登刊Nature确立多模态新范式，开源生态持续扩容，大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508147&amp;idx=1&amp;sn=747cefb0375e16a21c68610b07674166&amp;chksm=c338304f3999cc69a405cbf69de308ecb40d975f06ede318e47981479aa45cbd047c13c48ed1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Jun 2026 11:27:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SIGIR 2026 | 一篇Agent时代信息检索最新综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwB8yt4U2tFqNEnNUmW8MSl7T81hecyHIibGUVWMAlia4hiaLibvAqQpiaibqlB37PWCcAUicefSoeaebY75Piab68XR7mqeHoWxb6z3ibHE/300?wxtype=jpeg&amp;wxfrom=0"/><p>在 RAG 与检索增强型 Agent 的工程实践中，以下几类现象反复出现：上下文窗口从 4K 扩展到 1M，但把检索召回数 top-k 调大后，端到端效果不升反降；含正确答案的段落已被成功检出，模型仍</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508147&amp;idx=2&amp;sn=aab751d901dbe4d5c03aedbb36030f50&amp;chksm=c32defee041c5d2a7a7eec7deba70505aa28eb3b168f57fb5af8ca0e0633ca1db757de6b7746&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 10 Jun 2026 11:27:12 +0800</pubDate>
     </item>
   </channel>
