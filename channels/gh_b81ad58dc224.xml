@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-7-14）：通义Wan-Dancer正式发布，从音乐直接生成1分钟+高画质同步舞蹈视频，全局关键帧规划+局部时序优化解耦长视频生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFY2M1Opg2Y5X7977pRMxropiaptyMkfkOoFXDbcno41b1P69qoz0nj2VKqUKFV3X9ZbEkSPZrZe4NEwLJULbrickIvOOCcaYicfvE/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Wan-Dancer★Wan-Dancer是一个创新的分层框架，用于从音乐直接生成长达一分钟以上、高画质且节奏同步的舞蹈视频。项目解决了当前扩散模型在生成超过20秒视频时面临的时间</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502922&amp;idx=1&amp;sn=d2cd186c6ab14043f334e9ebc2ba6521&amp;chksm=c0c1dc395a226356222dfbd102d1c2db21762f00a4d4b4b89d7169eb314cccf0a1c9a26840d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Jul 2026 12:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-7-13）：Codex官方插件库开源，即用型参考实现Figma等外部工具集成，自动化设计转代码+知识管理+应用打包发布全流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFZpqib0wLZb4MyibHDhR6zf9iabdZHEfEMcK0ZnK5eXI4n5bcK3HlrmE6URpGs8n0jDrGD1hJe354V5CfmzcLjUaCu5kQ11HZfrZ8/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️ 框架平台、必备工具①项目：plugins★该项目是OpenAI官方维护的Codex插件示例集合，提供了涵盖设计、协作、移动应用构建、Web开发等场景的插件模板。每个插件均包含必需的manifes</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502904&amp;idx=1&amp;sn=afa50bb4de6e3729c87d168fd2f5ce3e&amp;chksm=c0d1d8dcf3ae1a81c3163a363091b5e559349fded337d5e3eff0aad7d7d73417413a86158875&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZ4nlllB9hnjd2Jk1TmDADC1Nk1DB38hBOCdL53KdOibgo6gmr18QOVBg44DIh8BbILJrtxUg90tppCZUd9oB8ty4bOAUbybf1U/640?wxtype=jpeg&amp;wxfrom=0"/><p>🛠️ 框架平台、必备工具①项目：PromptEcho★PromptEcho是面向文生图强化学习的无标注奖励方案，针对现有方法依赖昂贵人工偏好标注、扩展性受限的痛点，无需标注即可从冻结视觉语言模型中获取</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502206&amp;idx=1&amp;sn=d9bb48f29f36f2643e49ecab2323f818&amp;chksm=c020ab6deb74b6bb2e77dc69bf7eae7823936a263fc8cf6d86e94de413318f0fdd2a69ccc107&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 06 May 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-4-30）：inclusionAI开源Ling-2.6，万亿参数兼顾推理效率与令牌开销，多项执行类基准达开源SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZPkau2ANzyXJa9kG8gZh57XxuvnE0N7j2tdMenVXHsiabckF03O962zTqmQ6Bo9r2Ara0icmNbAIUiayyoc8WAfBCNmON47mdK3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Ling-2.6★Ling-2.6是inclusionAI开源的万亿参数综合旗舰模型，面向真实复杂场景打造，在推理效率、令牌开销、智能体能力方面做了针对性优化，可高效适配代码生成、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502189&amp;idx=1&amp;sn=2fe364b3012d36e1bb67aca0b684636f&amp;chksm=c09d05cccb2fbba1b842446eb516c5f729f86ab66985954a321cf62ded064224b34bef02e60a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
