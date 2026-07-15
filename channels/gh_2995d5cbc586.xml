@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[传统SLAM不可微的局限：端到端SLAM的三大破局路径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4gskuWwcRxlbwaGKbT3qgEZ6RvBVTahKMwdwiaGMdDldxs3Btr2ephC4ywXibDqFgmS5XpGKF4sROY2xYCE6VJ9nBWNexibwF8Sxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>端到端可微分SLAM的核心理念在于：构建一个完全可微分的SLAM系统，使损失函数（如地图重建误差、轨迹估计偏差）的梯度信号能够从系统最终输出端无损反向传播至原始传感器数据输入端，从而在统一优化框架下实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747946&amp;idx=1&amp;sn=393c95ea6a14a1dd60b4ea63fcc9e4ad&amp;chksm=fa3fbaa08912118e22b9c23be83cce32af2e288ef90f3d08018b2f9b628e90b40048b5ffbde7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ACM MM 2026 | ArtifactWorld：稀疏视角 3DGS 一转镜头就露馅？以伪影 Taxonomy 驱动数据与模型协同修复]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iarMHExZUbAmSzD9wdlQPxs3JBLc6zEtWs5b6FI5G1FQvF2BaGdEibwUaMlxOylbslkfj6aDjoSwN0iaqpwuusxsrS20aibsJwTqg/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者供稿直发 | 来源：3D视觉工坊它是干嘛的？一句话来说，ArtifactWorld 想解决的是：稀疏视角 3DGS 在新视角渲染中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747946&amp;idx=2&amp;sn=4ebb63c6d254b8145cbf2f0804a2dc95&amp;chksm=fa331fc214e5d3c6fa00d87883dbbbb86ff28b913bd8863379c2f2f3c939300b9def3a28b5f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[碾压现有全景3D数据集！10.9万张全景图+0.29m密集视点+75室内外场景｜Holo360D：4.58mm精度全景3D重建新基准]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iauehxquia64TRMianwm657RyRF6YSxDkYrSg9gtsjv4coMGAzxONHdOrUAp2Qib91cjYbm3mQX4dUE5lP2vUpjEHe7lOfXibypeY0/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者供稿直发 | 编辑：3D视觉工坊✨ 导读： 全景图拥有更广的视野，却也带来了更严重的球面畸变。对于3D重建模型来说，传统透视图像中</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747926&amp;idx=1&amp;sn=ce256d6ea34aba55e567194b07dd9861&amp;chksm=fa8f22b02425114cde3873a835e3d499910a47dea7ec6156915b998b6a4a2daa9379c6309536&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4ia16JvPcaWyibYIxv87odKp4nkn5E5KfGT61jIoLcTLhlLHIMxEQjxX7Ay1HOsWchExHgK8sUSZEE0lH3ZFBicUgkgrdbGZPhIPM/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746689&amp;idx=2&amp;sn=266f4c1797392b91273cce4870fd9d04&amp;chksm=fa3b1c071da8c162b1ba22d263cf57d15cac8b1ed6aba13d8463b2bfdaac9c5e0376457086fb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[三维表示的终极对决：点云、网格、高斯球，都打不过这个隐式函数！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iahcNTmiaMB8AcjA1xXQIgWI0Wr6SYf7NTG9TUyon5B5ibgVh23YDBNl3pMf8NqfkLzJP9YsDicD4X9eibfaSAGtR1pVYSzPzypFfM/640?wxtype=jpeg&amp;wxfrom=0"/><p>点云、网格、高斯球都打不过的这个隐式函数，就是神经辐射场（NeRF）及其核心变体——符号距离函数（SDF）网络。 它的核心只有一个极简映射：输入一个空间坐标，直接输出这个位置的颜色、密度，或到最近表面</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746584&amp;idx=1&amp;sn=3794486a0228e98e6ea78eff468ab0e3&amp;chksm=fa3cd3164b61de86aa41369d5f56cd76655f06799db20ccf1ff4919585d37f49adcc713ce21b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LLM Agent | 技能不是越多越好！SAPO 给 Agent 技能库装上「质检员」：先验证再存储，开源4B自造技能反超GPT-5.4]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iaAM6wubHKicRwpkBPxsI2zJ7mcMj0zYnH5BQFmdfibc2J06JbtxBjibUuGuqibS3MHKUSaDKFWhx7Vpj9k8ckcAibZ1eZF0sQxmv6E/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者供稿直发 | 编辑：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247746584&amp;idx=2&amp;sn=5fe72de0d2ff29f336b5ba086e770639&amp;chksm=faf01e4e298205f5ee8e14ed3ba51e39785d26f3e6cf870e8dd58ec04fc06ed52a814ccd95ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
