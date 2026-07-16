@@ -10,6 +10,18 @@
       <title>gh_3bb902f05720</title>
     </image>
     <item>
+      <title><![CDATA[大模型 RL 降本利器：CorVer 用一次语料查询替代昂贵神经验证器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJDibFk2F86LESeqnHJmyzL96c1ZvxpvQWjz2YdPRiclnPm0ibOlE7ibJp7pm4icx1icX8R4CrHcibzBDG6iacpyCSCfiaElvOlAeRscEbpE/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨粉丝投稿编辑丨极市平台极市导读 针对大模型在事实问答强化学习中，过程奖励（PRM）计算成本极高的痛点，本文介绍 CorVer 框架：摒弃了调用庞大神经模型进行事实核验的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718868&amp;idx=1&amp;sn=0f2aba3e7157607f2695b7f6e45aeac5&amp;chksm=ed732868b3090f42bb836febcfebf4e4806b15fde0431317bcf12e1a2ba2e9160a34aef64f5b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[翁荔长文谈Harness自进化：Agent越用越强，评测难点怎么破？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJBEu9fXoSUnoOT4p9O2zY1UxFX7AqCUfcQf1aZH8bOqkFcNDtPY2bo1XHYpqomkIkWfDe2pKj23RNPgWlC2wrX8MgbCLX44rCI/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心编辑丨极市平台极市导读 当大模型 Agent 步入自进化时代，传统的静态刷榜已无法暴露模型在迭代中产生的过拟合与“灾难性遗忘”。清华团队开源的动态评测环境 SE</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718868&amp;idx=2&amp;sn=2dfe5d389ce46f657df5a8009d895dd2&amp;chksm=ed31a9a61f100591a36774ecf7c70f8cf454397f35677e000d0d4ab59a8c4868e33cb7a200d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[连 Opus 4.8 都不及格！港大开源 Agent 评测新基准，顶尖模型通过率全线跌破 50%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJAMXhKWiaTMxWgXaibOKNJxpAeeV0mtq9UwZBdOS7IHdysBuAFQlzvodJKgmcGw9rACC4Vz6hozKpvOOqCbfzDC5XbfSEricdJNy4/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨HKU MMLab来源丨HKU MMLab编辑丨极市平台极市导读 香港大学与美团联合开源 UniClawBench 基准，采用“真环境 + 闭环交互 + 能力拆解”的评</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718853&amp;idx=1&amp;sn=8f0cc1225756cded598aa8ddd813b5d9&amp;chksm=ed80e0cb234330e6eff83983ce82b90b6410be4911108860e3cacf9faa7b1c0eef9ee8a46569&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJCwIeZsp1S0ppP6EQ0E6oYljF2UVPmd0Gl7BB4j9oGCwtQrKnxIXETgbtxfvYuJFF9ALiaWoOqIw5SG91TRV6Y3MUQkGswoTHkM/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨VIP Group编辑丨极市平台极市导读 对抗性扰动会让视觉语言模型在细粒度识别中"抓不住重点"，东南大学魏秀参教授团队提出的A-TPT通过梯度注意力修正、语义保护增强</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718279&amp;idx=2&amp;sn=976cb9342534c59db9811d111707d166&amp;chksm=ed0ec19014e2c459abca3a8883c2b9ee3ae82210123ed66737da576b1ab63f4dfb57cf3295ba&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 17 Jun 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 Oral｜一个提示点+一个连续滑块，哈工大提出尺度可控 3D 点云零件分割新框架 S²AM3D]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJCqYQYhQ7lURG4oPw2hu64nWx9zeHPdt2qCB09Qic2yIf5ZpkibHpSlj6KMRwcbzgAJjqP47h8lGgD28NO3TXRt7VPY9zt16INIU/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨哈尔滨工业大学编辑丨极市平台极市导读 哈工大提出 S²AM3D：以 2D-3D 混合训练范式同时解决泛化性弱与跨视角不一致两大痛点，并首次为 3D 点云零件分割引入连续</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718262&amp;idx=1&amp;sn=a8412241d6651139e3b11bab48a965e8&amp;chksm=edc6f45abe1f1f2e2ce66b8fa5a10658e1de0024bfeb37b78e50ab1afb74345fcc4749a587e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Jun 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICLR 2026｜vivo提出LearnIR：人脸去阴影、去雾，基于后验采样的图像恢复方法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJDFEiahTKCmQ9VAOHd4bWXLeNZCPdut0sCa7XuJfju92bOiaWJxlsfxIqgq8KWyibg18NxIS2prer1hfqUsZuqJGptwg4p8OibJwXs/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨vivo BlueImage Lab来源丨AI科技评论编辑丨极市平台极市导读 真实退化场景下，扩散后验采样方法因依赖已知前向算子而难以实际部署。vivo BlueIma</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718262&amp;idx=2&amp;sn=4a9b63cb8e19890031ff63b8d9597c25&amp;chksm=ed2fa44f2e836494132959800d9b4e1e2da3e53acad2d93882be535e777f2f5a62168126f9f9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Jun 2026 22:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
