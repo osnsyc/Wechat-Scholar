@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[模型权重不动，Harness改写100轮：「递归自我改进」首获实证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDJmrAZeiaRVnYYGSJQNCCjG6ibp4qXEY5icX3fRg8VOeyvwjHzYOtBSzflkYWZHHS9UvKefOBeoX0ic8avGTSrzXmL9MEyWxlf2r8/640?wxtype=jpeg&amp;wxfrom=0"/><p>模型权重保持不变，研究 agent 却在 100 轮筛选中重写了自己的搜索、上下文与评测机制。100 轮改写，约九成候选版本未能通过评测，真正刷新历史最佳的只有 7 轮。Weco AI 让一个研究 a</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721660&amp;idx=1&amp;sn=d83e012a94601ad35aacb132e5f9493f&amp;chksm=9742a57d92e9268112647c319a4378a4217796019385695a16803682e56efab056788c888a48&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 23:23:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AgentCompile让大模型做“编译参谋”，CUDA推理平均加速5.66倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeD5XdYu4neZeZgbfYLYUCchM5a6q05sgtCUNzOr3th8Kfrkb1aP75Jn8KUMIcDqCSm6roD8iafvaY4kdbmicVz7qaYb5AvptD5CQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型进入真实应用，推理成本正在成为限制落地的重要瓶颈。一次生成任务背后，往往包含长上下文预填充、逐 token 解码、KV cache 读写、矩阵乘法、注意力计算和大量框架调度开销。PyTo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721660&amp;idx=2&amp;sn=44cb0132b3ef6e7e7d9c20f368d97980&amp;chksm=97b2b3c522bcfd1275c5d9a532299ccad55ed2a71e8bfa15b66f8151cb9f9afeeeeb1a0fbab2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 23:23:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NeurIPS 2026出分倒计时，杰出AC开源Rebuttal Skill]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeC365O8UwoctjLFmJGBOBN29fvCKjZnbOnzqoeXuLKTFmvoHm7QhGVx8Ikj2g1JQQqG0xKsTB3Y4teYwHszDXHzsgonzhokrDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>哪些问题值得回，哪些实验可以不做，这套 skill 先帮你排一遍。EMNLP 2026 rebuttal 刚刚收官，NeurIPS 2026 也将在 7 月 22 日出分。就在这个节点，港大 NLP</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721623&amp;idx=1&amp;sn=8c8a8dd4af9e92482a2b3e074b131c40&amp;chksm=9784d21baacfc25945b629cc83afa2bdbb19cf8dd9e1cef9c00c9765fb8ad3191cc424124bd4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAjKkbwhtDW5yqbIpR1qk5dslsEptEG3VIUovZjIZ1nHUpPpdZ24NBLBKbPMY6J340LAQL5jmUKM0DaB0kCa8q4ibib4wgHnpnWY/640?wxtype=jpeg&amp;wxfrom=0"/><p>模型权重之外，Agent 的上下文、工具、记忆、失败修复和源码更新，正在成为新的能力来源。现在看一个 Agent 强不强，已经不能只看它背后的模型。它能看到哪些上下文，能调用哪些工具，动作如何被约束，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720929&amp;idx=1&amp;sn=8080be555d705016c731b8c3b1bc2704&amp;chksm=9799518d98c0a9296588ec9cd9f3971d852c8037d924d6c5ea2d9aea5fa23572556b4f48a93c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 12 Jun 2026 22:13:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent安全对齐太贵？上海AI Lab开源AgentDoG 1.5，小模型也能强防御]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeClYJ33ZOTCQInfwY3RlV7icYkgC1LOd2otJM6NgD8lYibPNCHc2FEqYDibXnMiciaHC0EgZajWuzNz3sszhfD09Tm5XTcyA7A14wf8/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言当 Agent 开始自主调用工具、执行多步任务，安全风险的防御就不再只是一句简单的 Prompt 拦截。工程团队面临的核心挑战是：如何高效、可控地将安全规范对齐到 Agent 的复杂执行轨迹中？传</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720929&amp;idx=2&amp;sn=a225a2975656e8234bc0536718fab2e1&amp;chksm=973f0274819573a2cac1b4227c4527a6cf77f7f91d210d6522fcc3422e7f2e723832648e1750&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Jun 2026 22:13:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Transformer非得凑齐QKV吗？只需共享KV，推理缓存直降50%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDEPTO4zOoKKyd9CVdyhxsN9XzH3uEVlzoyveNBjr44rteLJtYZBjmu0nAFObmqibnkdn9FmaeIQFjSHxXlColJJ37XjAcI1FRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>不改注意力形式、不做推理后压缩，只让 K 和 V 共享投影，KV Cache 就能少掉一半。Transformer 的 Q、K、V 三套投影，早已是注意力机制的默认配置。Q 负责发起查询，K 负责匹配</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720875&amp;idx=1&amp;sn=8de98ec12cea35a3f51c4c9372d43690&amp;chksm=97de3cfaf6a8c46b0e981b7820ca4486afda58c2f7b20bab66498a7f6b09b73bd304f5c56319&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Jun 2026 20:04:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
