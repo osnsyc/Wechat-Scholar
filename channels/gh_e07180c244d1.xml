@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[ECCV 2026｜Ground3D-LMM：让多模态大模型不仅看懂三维场景，更能理解真实尺度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9zZxk5FgsXxlibuBhzQOoXl6skdpXwPmq1UxdIfyNRggEe8YBYQzAJaLR7N978nCC6sLNE1Q592tQ64kYS2T3SeQgshrHB35u0/640?wxtype=jpeg&amp;wxfrom=0"/><p>多模态大模型要真正理解三维世界，不能只识别物体、回答问题，还需要知道用户指的是哪里，并理解真实尺度：门把手在哪里？椅背有多长？现有方法往往只覆盖其中一部分，尚缺少同时支持物体级/部件级 groundi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663246&amp;idx=1&amp;sn=7998b362b2edc513a8163980841195d0&amp;chksm=9716a1c72851c4d18aaf2402a63d0ee4e02990abd6d9fe4f8d33c889ee1ad008b8f56cda5ffa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 23:15:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[多模态模型真的“理解”了它生成的内容吗？｜IJCV MUCG 特刊征稿]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8cExNAKpIczfvHv6iaDKiaWVIkxWaUh9TicpByZmsbjsRP7GJ2lQUb4vamwj7vfFFsSMDv6Bf9Mx3toTspjHXorib1woZoY7IsMF0/300?wxtype=jpeg&amp;wxfrom=0"/><p>一个多模态模型可以正确描述图像，也可以生成逼真的视觉内容。但这是否意味着，它的理解与生成建立在同一套一致的内部表示之上？当模型根据复杂指令编辑图像时，它是否准确定位了需要修改的对象？当模型生成视频时，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663246&amp;idx=2&amp;sn=6a5bd6304ff66e030c27cb120d4a82d1&amp;chksm=9702538169b8e1a029a7bcb348938dbc1a63969311c61eecda7618bcdf269693b9976a7b7d59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 23:15:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【科研福利】探索Transformer理论边界，17个热门细分方向、350+篇高分文献及源码免费领]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9Lqh5aibicuicUKpsEGRsWkjGYjN2GwNBXaQ5XIlq5N1nS8Kstf4sKFrQpJEGzfMGzibkZfzIa7wqgZQvn5VKjwmGE3siaASvlmzBU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer依然是当下的绝对主流，但简单套用和魔改已经过时，深度和创新性才是顶会审稿人的菜！比如ACL26上关于局部注意力为何有效的论文。此外，解决Transformer的固有缺陷；跨界融合</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663240&amp;idx=1&amp;sn=6e40a64d479ebda98ed183c07be4cba7&amp;chksm=9741f3dcd8a06babd817cef7fdcedc95b6ed93c891a14147261d9072eba69d944786d095fa7f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9Yw2qC0b4pLZga25e13U3F6DWzibqHGjnSvpGGzwzehJFyMyfGFiaGKibzRIOZEbouicMjwIOf9wibytRNXgTlz8mahm5HDpSianBP0/640?wxtype=jpeg&amp;wxfrom=0"/><p>在计算机视觉领域，目标跟踪（Visual Object Tracking, VOT）一直是个硬骨头。传统的有监督学习虽然精准，但动辄数万帧的标注成本让不少研究者望而却步。于是，无监督跟踪成了近几年的热</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661329&amp;idx=1&amp;sn=3a58aefa8505b79ed6df2e0c526dfdb7&amp;chksm=974ce551247a41d2cc81733965c6e5c99a7516ca98bac940d10982d01ef6dd873dbea7dabbf5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 01 Jun 2026 19:48:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 Oral 最佳论文候选 | 浙大&amp;蚂蚁提出 HTD-Refine：对齐高阶动力学，让单目人体动作恢复告别“滑步”与“抖动”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWicljg5oZWLVmEAkQwA9myhUSV3YtG4Hes61w9OiaJavx8945oV7AcNmqSTMDibRXTO3Dtsqc27CSOB7ElSRficR33aoCVIPCVdEic8/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 3D 人体动作恢复（Human Motion Recovery, HMR）领域，我们常常面临一个尴尬的局面：即便模型预测的关节点位置在数值上已经足够精确，但生成的动作看起来总觉得“假”。要么是由于</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661102&amp;idx=1&amp;sn=284a649ed5ff2ac55a59c3926d2904ae&amp;chksm=9763ad795f8a1d3ad51697e73045a18bc510122c391aac3c71670e01eebc2985b05d23ce2148&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 31 May 2026 23:03:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR26开源 | ClipGStream：首个同时支持大运动和长序列的4D重建框架，动态高斯重建新SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW95B0XxKBPKYneLd9ArmO7yDI3ywW9AbRUlsCH9ySw8uL8p6TZLxZ1hoCQBHfGqvb1CNAZr8m3FLN03WSg0u1xOGwTqh4GvOhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 论文信息标题：ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynam</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661100&amp;idx=1&amp;sn=c02db97749e188bdccc9c422256732af&amp;chksm=971495dcf3823b282fd0027436b49a430fadc7254c0e4ebe8d84f15a563aca48e46208b7c62a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 30 May 2026 23:32:15 +0800</pubDate>
     </item>
   </channel>
 </rss>

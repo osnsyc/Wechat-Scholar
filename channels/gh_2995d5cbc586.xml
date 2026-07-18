@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[前馈3DGS把重建压进100毫秒，后端优化还有存在的必要吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4jdR6xHwDeZmDetAibVj11S2bpv4M6EcooQ0Jic7Iu0MPptIAhzibcKn3W0nIzhibfyubtmu0R7434O7fI5kz0Qb0icuaRK53OSMibLM/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统重建流程中，后端优化承担着联合优化相机位姿与场景几何的核心职能——这本质上是一个在视觉测量与运动约束间反复迭代的数值求解过程，耗时巨大。而前馈模型通过在海量数据中学习从二维观测到三维高斯场景的端到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748017&amp;idx=1&amp;sn=c9bef5103ad6f33df484d83d9a1222a2&amp;chksm=fa56f5f6fbf4e38b9a5defce1c9ce0c29bf15ef90f5aa996d980a7e506bf6ca83c3f58cea241&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hausdorff降低18.8%！华科开源SubdivAR，暴涨三维网格细分精度！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gDQuy96ScZ6I5eKgGQSfNRvnKehnHg9rbht3RqibuoMybj7eS2VKCf1rbZhLF8JnSZPtQRt3Rsiav9Hl4yVib3V2HNV1ibMr0SMiaU/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748017&amp;idx=2&amp;sn=cd307f553d3b35ace2735803dab48d62&amp;chksm=faa7bd0b88aa8db45d07924351e42923d37062a6edf9cba12b6c227f5c540089b78c3e572c5f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[误差暴跌90%！ECCV'26开源GeoMix：无描述符视觉定位，别再用SuperPoint了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jicd0Cfw16SpLV5TlWbdiaRuLBCQJP7uRTjtvoEoUcSexGDzks0Yk0I6qkyCvRCd8fTYhy0XTnI0gNt4OjKyubkicXjzwlRUT9Jg/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747999&amp;idx=1&amp;sn=0f20ef009961546bde7985b6fccdd487&amp;chksm=fa9c9fe522cfe124e816968d3478c73acf17802e07184cbaedca4702b6a374c1f513c87551eb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4jNcrmAOFXyuEW9VMxoMFZiaUcLbg5HAp3SuEs7U3aVGianQFHS1IzJArvXScLVjl1WjpYLAYAKIThtKvYUdGHbQeiahyx8X2iapCk/300?wxtype=jpeg&amp;wxfrom=0"/><p>一 产品介绍苏州三迪斯维出品的3D相机采用主动结构光技术，拍摄速度快、成像精细、方案成熟稳定，针对不同应用场景物体可输出高质量点云数据图，精度高、速度快、环境自适应性强，不用系列适用场景不同，分别如下</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747147&amp;idx=2&amp;sn=79f836b222c0ee7b4290f04536d4fec5&amp;chksm=faa13872616d5cf9e07a6f311be59382c11550368287a2b9f7f9cc59230bc39302b806ca6518&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[统一视觉组间位姿估计任务 | 浙大G2G：释放「组内几何」潜力，6%可训练参数实现多场景全面SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4gclF1VWzKxFymWAibh3fMp6yzZRQX5c1BfkNP6eyQ7HFP1efCMs045kVoaKXapMFgypfIqEfhVmqB1MSD5ouLNcBTkjicyjkEME/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者供稿直发 | 编辑：3D视觉工坊导语：跨序列重定位与多相机里程计，长期被视为两类相互独立的问题，各自依赖专用管线。本文介绍的G2G</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747128&amp;idx=1&amp;sn=8a8adacbfee1c94e2bb2891d032b2742&amp;chksm=fa1cc8774818a1d544e832d8ee3bb1cc290036024eb11270a3d3d62b9a11c19f6ed28b4d8acc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Jun 2026 07:33:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[科研级！精迅V1~V4！从零搭建一套面结构光扫描仪！提供源码+高阶班课程+答疑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hIUTS72MooThYJ3aXvNhkRIGr3FWWKQIibbEt9FEbOGUqT8huxORLdZV9AzTpIsWiazic19JYpAnwEq0qjZkRE64u82Hzx1fxBSw/300?wxtype=jpeg&amp;wxfrom=0"/><p>一 产品介绍3d结构光主要针对“漫反射”物体进行三维重建，常用于机械臂抓取、视觉测量、缺陷检测等领域。目前主流结构光技术有：散斑结构光（机器人导航）、线结构光（视觉测量）、面结构光技术（机械臂抓取等快</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747128&amp;idx=2&amp;sn=30173284dda237efa198f19490e08c4f&amp;chksm=fa2656bf9f4aebc0fbac4f54e0f3eda9a14188f32ef4436b3ac0b9f828525bf7295eef469cb6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Jun 2026 07:33:16 +0800</pubDate>
     </item>
   </channel>
 </rss>
