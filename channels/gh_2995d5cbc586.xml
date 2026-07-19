@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[几何 BA 走到尽头？VLM 紧耦合 SLAM 颠覆传统 SLAM 优化范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4hvJicjr8UH5WrdOyP8kATXk2p2uw14fmvHPm1ylhGyxuICDoGicf6ymicGpTo4wiaicgjHpoZFu4qT62nW83PKgaIHm3b6h3DTfesc/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统SLAM的核心BA光束法平差已经触及性能天花板，仅依靠像素几何重投影误差做优化存在四大致命短板：大规模场景算力内存爆炸、弱纹理/动态场景无语义先验极易跟踪丢失、约束单一缺少空间常识、前后端松耦合信</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748052&amp;idx=1&amp;sn=84ba359af267f67a0849f55f9cbe4c70&amp;chksm=fa6f76dc211b16985c2bc52ea3239b55fdce1673f0b0eaec46f23a67884caabf44b3eeb435c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[仅需32个曲面！FLM-Occ推理暴涨3.7倍，室内三维占用预测碾压级！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4gbqH5NAGicaUJ5DKKSLDHyW7qAFuBU6b4jS7doxicpsMhaObjPqjld9r4Y5iaD7iaicusuEzLdlgOhibCUdVIKfYSZQlIGfDvJmN8Fg/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748052&amp;idx=2&amp;sn=f1edb2ff91cc1222d71f2b5174f37c41&amp;chksm=fa8f047d5b0190b1cb91ce96ab59423a5e76509b54cfee82a1b80c257ca5edadd4491e7d55d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[前馈3DGS把重建压进100毫秒，后端优化还有存在的必要吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4jdR6xHwDeZmDetAibVj11S2bpv4M6EcooQ0Jic7Iu0MPptIAhzibcKn3W0nIzhibfyubtmu0R7434O7fI5kz0Qb0icuaRK53OSMibLM/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统重建流程中，后端优化承担着联合优化相机位姿与场景几何的核心职能——这本质上是一个在视觉测量与运动约束间反复迭代的数值求解过程，耗时巨大。而前馈模型通过在海量数据中学习从二维观测到三维高斯场景的端到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748017&amp;idx=1&amp;sn=c9bef5103ad6f33df484d83d9a1222a2&amp;chksm=fa56f5f6fbf4e38b9a5defce1c9ce0c29bf15ef90f5aa996d980a7e506bf6ca83c3f58cea241&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jBxVw3TXtxlQGWIhfebIpRh9VlcyzRkNNzJRSSmz7cT9t6ymhrQQFqWImSolj1BoJYAch4NeXiaMbD5TKnmkZaTxibNwsSX1zibg/300?wxtype=jpeg&amp;wxfrom=0"/><p>00 前言相位偏折术（Phase Deflectometry）是一种非接触式、高精度的面形测量技术，主要用于检测光滑、反光表面。为此，苏州三迪斯维推出了一套科研级单目/双目相位偏折术套件，方便开发者更</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747191&amp;idx=2&amp;sn=630fc0de1849ac6db8c720d91ed5344e&amp;chksm=fa049b8342ce0c28da224033bb542f7fd24066fb8b4707a25e42ea2597d99bca5bcef0cc67ca&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[220FPS！最新开源LiAuto-GeoX：一个Transformer统一姿态估计、稠密重建、深度估计、轨迹预测、占用预测！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jvKJibaxcZRXc0vnnNRoI5CGzCwAOHOibutPYq5Gft83nqNy40Pf4xdgia8WQW63QWwlGvz6xWxUlJPGDxGpngsicHWeRTVdMNBOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747147&amp;idx=1&amp;sn=9bccf80812342d1cb718dde2ef26ab44&amp;chksm=fa39d790589acbedf94b36f78ce71384a2c488aae2732d4adf0ea4cf121203056e3930aa1c4d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高精度3D结构光相机！支持机械臂抓取、视觉测量、焊接和户外场景！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4jNcrmAOFXyuEW9VMxoMFZiaUcLbg5HAp3SuEs7U3aVGianQFHS1IzJArvXScLVjl1WjpYLAYAKIThtKvYUdGHbQeiahyx8X2iapCk/300?wxtype=jpeg&amp;wxfrom=0"/><p>一 产品介绍苏州三迪斯维出品的3D相机采用主动结构光技术，拍摄速度快、成像精细、方案成熟稳定，针对不同应用场景物体可输出高质量点云数据图，精度高、速度快、环境自适应性强，不用系列适用场景不同，分别如下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747147&amp;idx=2&amp;sn=79f836b222c0ee7b4290f04536d4fec5&amp;chksm=faa13872616d5cf9e07a6f311be59382c11550368287a2b9f7f9cc59230bc39302b806ca6518&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
