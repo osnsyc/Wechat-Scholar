@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[OpenAI 给 GPT-5.6 写了份 Prompt 指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmKC9ohItFbchiaxIK4L36TzJFSUOSIrDyOTcdJhTeSJcY6ET7HbYA0Oryg1BBJusYRT5leXe7Oc9bkvB3Q3I39hgeiaZCrpXJhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个 Agent 用久了，System Prompt 往往只会变长：模型漏做一次，加一条；工具走错一次，再加一条；某次没等确认就改了文件，于是把“先询问”复制到三个位置。模型升级了，这些旧补丁还在原地</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452891&amp;idx=1&amp;sn=0f13e9940abd2ab6b8de35588e914150&amp;chksm=bf7fa3f5f4575b6e750a0975c498fc7d843376c2cbfe894e64a82696f40c3be49cc92ee76b7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Jul 2026 17:38:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Cursor 把最难的 1% 交给 Claude Fable 5]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlm41O8f47iaZQBG6rWB7DZHraQ8NhhTN4VvLvzicb9Sn1Mc3lejoXSqICe5pfnRiaHC9YlUDtatyibOf3IOCmibrz0CKnjermiaXuy8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 最近发了一篇关于 Cursor 的故事，主角是 Cursor 负责模型评测的工程师 Nate Schmidt。他的工作有点像给 Coding Agent 做试车：市面上每来一台新车</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452870&amp;idx=1&amp;sn=0fe1d28bfd797ad4ab1b15b4f7086536&amp;chksm=bf52d8169a316cf00f4bf5e240aa388212ea2afc6771c5f047ec71212da24f1eae740311bbe1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlBkDiavogtCSHfUodaWPCiaiaKe83V97DbLhiceTI79icCZiciab5LTyJeslbrgdUQc7b27HkhomsMia8U3K9NDdJxmUhLu0NulcjsKEk/300?wxtype=jpeg&amp;wxfrom=0"/><p>MAI-Thinking-1 是微软 AI 团队（MAI）从零开始训练的推理模型，也是微软首次不依赖 OpenAI 或任何第三方模型蒸馏、独立构建的前沿大模型。它使用完全经过商业授权的干净数据，所有训</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452126&amp;idx=2&amp;sn=b1ec173b38c9f93cbc891b55378575ce&amp;chksm=bf45b7b58b95580f83c47d09185a50451a9a2c7d650c2789b9ad7e0b6cdc1291d50f1e05f04b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 08 Jun 2026 15:53:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT 最新记忆系统 Dreaming V3 详解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvn86TiaDQMb32T44iaxJLWxeutpCLsPDaKUH47IIqOiaNJDSnFyT8IPDeNT8olhwgicxScal9an9VDTGk8g5EoSKCny3SCTJcIpgB8/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 在 6 月 4 号发布了 ChatGPT 记忆系统的新版本：Dreaming: Better memory for a more helpful ChatGPT。这次更新的核心是重做记忆</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452102&amp;idx=1&amp;sn=05df45afceb14ec7e26e94cfbf8977a8&amp;chksm=bf364f9a66d1b636db1f70accfc17f1caaaa684671d89f1b427935a172777b5ea7727951ece5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 07 Jun 2026 16:06:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
