@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[HPC-Ops gemm_bf16xfp32 Kernel笔记：FP32权重拆两个BF16跑Tensor Core]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka3VMMyfs38n3MpaDticjPLkMWdtHKhIxibkN9FEsfYpm7B9MOyScEdGUFuicWFlBIX45AzTYQ9mBKnrw7Fia4ibtKddF47yRawbm5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近看了一下腾讯 HPC-Ops 里的 gemm_bf16xfp32 kernel。它计算的是 BF16 激活乘 FP32 权重，源码在这里：https://github.com/Ten</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532004&amp;idx=1&amp;sn=716fa5b7e44a68144bc8bb7b6d95c780&amp;chksm=9e341e73a6bc2f4795604f1259fbb024807afc996801374b3499f0da5b8d65ba83f1137eedd8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 21:58:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CUTLASS 笔记下半部分（转载）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaAonx5nBicHqDDlHZY4qBkgRNPvmDQsUwY9pSgYZFUoJibY7BA4alIYqV7Hbz7SriaAmT2IwhW5S1zicALQkk8AHSgCYRebR1DBibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎 https://www.zhihu.com/column/c_1938664963049763058 专栏笔记转载，已获作者授权CUTLASS 笔记 (7)：Swizzling本篇主要介绍 SM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531985&amp;idx=1&amp;sn=3cc09222457ff7d72e2902119d2525e9&amp;chksm=9edaf219d837b460aa99ff02442c55a441960e63772044d979b899a57a7c662659cc14c8751e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZoyY6UibBJk2csXwNdQf02gIzDg0e83aiacuibqBbgfbsDhXH4uq4HoRLFNNWsiaL6p6lY09OXxmbhiaTzYe1oe9tq8Tnt1k8SZM38/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景最近看 FlashInfer 仓库的时候发现它的 .claude/skills/ 目录下维护了三个 SKILL 文件， SKILL 允许开发者在项目仓库中放置结构化的指引文档（通常是 S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530985&amp;idx=1&amp;sn=822eb47cc7304ab1ce15052851eb192a&amp;chksm=9e15c2ca8418cf85326cacf42e5cbb2ea151b8af3b1828dddd0e8c7c3f74ec66f789bb21bcaf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 14 Feb 2026 23:30:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Nsight Python 简介]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZA9qSc7A7Ss36wCqvPDX22lO5rswic1icX32hjVQvRiciaTPCg9XtONPtZoJUic2IicPibl4DkmLkbvz9pIAX49DhNU9qGsluKpjHqJ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言代码仓：https://github.com/NVIDIA/nsight-pythonNsight Python（nsight-python）是基于 NVIDIA Nsight Tool</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530972&amp;idx=1&amp;sn=9b428e2d494f02e0712e42ba2188b427&amp;chksm=9e5a85141b0d0ccb381eed61adf59c465f1a7da3f140db8abde66577040b12060ef125158c83&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Feb 2026 12:13:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
