@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[MIT团队把泛化写进Harness：短任务训练，解锁32倍长度外推]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDhLIQt3XuY36ZeILfGCEU9jyhicGBKqnDLZ66uTcWOHSwSjkv51dibhuM7At26Eib3iaVpeibGQ2us30uoJ2AVfCm6BiclZ7Og01Z38/640?wxtype=jpeg&amp;wxfrom=0"/><p>只在 64k 任务上训练，策略却延伸到约 200 万 token 评测，MIT CSAIL 把长任务泛化的关键变量移到了模型之外。只在 64K 任务上训练，模型能走到约 200 万 token 吗？M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721725&amp;idx=1&amp;sn=0d27f93fd35c1e4a28a310f1b956189c&amp;chksm=977fd49c21ec47bf1ad18a010338de3a39ae9e7e1ee9c6edb32cdcbe04fdb55d9f0e4cb6ea9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Jul 2026 21:33:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[南大 × 阿里提出TVIR：深度研究Agent迈入图文交错时代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeD0qWvfk1fVA7WuCKsW0L2icWcLryrJ1FZ5RpchBIkNb5Hpia09tElDOuejR5PTnC7gGsZgk9LcJI5nUfdOCCbGrEia0KpTNG319k/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型的快速发展，深度研究智能体（Deep Research Agents）应运而生，它们能够自主进行多步信息检索、推理和生成，产出完整的研究报告。然而，现有的评测基准和系统几乎都是以文本为中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721725&amp;idx=2&amp;sn=9ed2f8ce70ad068f0f7a69aad771c0b6&amp;chksm=97488d676c15e41ccfaafaf6ea269e0998d3195917720eba371649f06840688e6b6a4f47ec9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Jul 2026 21:33:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek mHC之后，xHC重新设计「16路残差流」架构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeCkoxqvR0Dh3t0MqAy7N9qRVK1gabWoiaLmqbiajcEzYNnIia44c3S2Zb1fPgticu4EI3S7ghc1TBLbDJ64lyd2LMriaic8Bic22XUO24/640?wxtype=jpeg&amp;wxfrom=0"/><p>上交、小红书等团队提出 xHC，用多尺度写回和稀疏更新继续改造 DeepSeek mHC。DeepSeek mHC 发布后，多路残差流迅速成为大模型架构研究中的热门方向。原始 HC 把单一残差状态扩展</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721698&amp;idx=1&amp;sn=813c624da28cb3e5647d52780b02b82e&amp;chksm=9774a14d3b567b6a02d772a35a42eef3d696cf9cec0fe761804647ad6faf784d1d0af31ad018&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAr8d1LJq2mBQUbmN8BicRicvUerFn5QhJTYypnVffibukvQLYRwkLkPXvXldqKv4DicUISIMlVv8eIBBAhd1LTtvoShmKesjZ34qU/640?wxtype=jpeg&amp;wxfrom=0"/><p>采用 Gemini-2.5/3.1-Pro API，通过“结构化剧本+证据链”生成 10 万条训练数据，VITA-1.5-7B、Qwen2.5-Omni-7B、Qwen3-Omni-30B 模型在 O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720971&amp;idx=1&amp;sn=69d50238eb5edd1cf3df0840b5da0e54&amp;chksm=971c5bff74fac93df38c4f94852cfbdfd349235d6dfda9b72588d9773c9266c57b5af4165a6c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Jun 2026 12:23:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICLR 2026 | 打破Next-Token短视，唤醒大模型前瞻推理潜能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAdmicXR7NF1td2WgSwia7pca94Z5icDCqXyCxKXDjnicicZwVSR8k881ib2wVK9XibytqpFkaUYSlBjj10M6BfaPibG25o73dvxVqFL8k/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天的大语言模型，可能一直活在"只顾眼前"的诅咒里。Next-Token Prediction（NTP）无疑是一个英雄。它与 Transformer 一起，开启了大模型时代。每一步只预测一个 toke</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720971&amp;idx=2&amp;sn=dbc7ce93a7438c76efc3a48af0dfbb9d&amp;chksm=9715f360b4a05829f1c2cc0a9cbd83052c5f697c499fe69f34c3dcc60ea4c130f6cf656f4e6f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Jun 2026 12:23:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[顶会开头怎么写？拆解956篇CVPR Highlight，一文搞定摘要与引言]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCTcHrVVIRZowdopz6x3rybPu4cB6rhhWkKtJr8BXls0hlictYd8ibgcWT8ZeZBfUXgp3ibjed1WIicL63tleTKdv7ZrlqLicNre74s/640?wxtype=jpeg&amp;wxfrom=0"/><p>956 篇 CVPR Highlight 显示，好摘要和好引言并不是凭感觉写出来的。为什么要单独研究 abstract 和 intro？因为这两段很大程度上决定了审稿人会先如何理解你的故事和亮点。这两</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720940&amp;idx=1&amp;sn=3f74e817c1bb42f0b73e5de74047017e&amp;chksm=9763aaf847fe0c1d64622a4e15bac542577f3375927b12cb4d500c73b1a0c5c1e7bc91bf321e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 20:15:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
