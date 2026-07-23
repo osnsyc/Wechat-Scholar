@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Cursor 让上千个 Agent 组成智能体蜂群重写 SQLite，先打了七万次架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlh99kibtickWntTNIrYUMicwYPRLt4Svsl9lhLtzapwQykPo1wHt0sHstDHM2ojDLhURAfeicQXLmzWbMgbUkJxNObhmFRnVib8e0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cursor 最近公开了一轮智能体蜂群（Agent swarm）研究。简单说，就是让一群 Agent 围着同一个目标协作。它想解决一个很现实的问题：coding agent 已经能接住一个文件、一个功</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452940&amp;idx=1&amp;sn=e77156f9974fa207a597dcf15d95e279&amp;chksm=bf938d8359074013653264ae5bdd1e3215c5c8cf59e9940745584064338667a7686568db6255&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Jul 2026 17:17:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Gemini 3.6 发布：智力没涨，干活时间先砍了一半]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlLnhxdEcp7MXh49jM9CIpxq2Ev6nD55V2VTmic21jeTcDKOMmjRkD0Oz7ISo1f3we5TiaNmoltH7UxPsbNH8NCEEtBkfE1ZtS1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>Google 在 7 月 21 日一口气发布了三款 Gemini 新模型：Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。其中 3.6 Flash</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452940&amp;idx=2&amp;sn=973b3bb8d99dcf19e35fcbb1c82eee1e&amp;chksm=bf4a70d4e9492f4dc142a869bdb9c82e08db5ccc68cc7abe6e39eebf71e21ffce062b1d82cf6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Jul 2026 17:17:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[三百个Agent，算不出一个佛得角——世界杯落幕，是时候给大模型们发奖了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnjxIsa8gRcVDjJU3EljY41POV8FeAtH1PvibPaUvjX9WT25iczHcs2FCTLzQahlTrPxmEgiahVg9CqMUKcvdbcgn9IvHbOp0uBicc/640?wxtype=jpeg&amp;wxfrom=0"/><p>世界杯结束了。西班牙捧杯，梅西谢幕，姆巴佩带着金靴和历史射手王的头回家，而全世界的大模型们，以及用大模型预测世界杯的大 V 们，正在连夜删改之前发的那些推送。这届世界杯除了48支球队，还有一批编外参赛</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452921&amp;idx=1&amp;sn=d4320ddbc6bc3e74dd8c5de8fec859ee&amp;chksm=bf96350c1fef3632f88a9ad93afa350e742476193b09c90173359f40ff8543a923d3419b6e97&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkib9zsQzuPTPHrhUvHowfrcqhmuKuXl8B5lLuwyJia2cJUlMRn3icuw2zgdDibPuDnH7bgFzC1Y4RSe0VrukZalD8UAaKSBJnicGWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天凌晨，Google 放出了 DiffusionGemma。这是一个实验性开放模型，权重入口在 Hugging Face，许可是 Apache 2.0；模型名是 google/diffusionge</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452160&amp;idx=1&amp;sn=611daf2efdd1271c5f41bf05dda51c5a&amp;chksm=bfe42838b4378454b3460d1f3e18cb225ff179eadae6d2150b536ca3da806288660668b549d1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Jun 2026 13:09:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Fable 5 发布：Mythos "神"级模型开始面向普通用户开放]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnQHCT9h55Ztxx95nDNf9Vg9Q1DibbeMzm11U7sU4uZCw4Gmdm2UN3v6paK3SibMnjQJJzybpM6micicpSRfl4KPSZoDyBQsmtcHBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天凌晨，Anthropic 发布新模型 Claude Fable 5 和 Mythos 5。Fable 这个词可以翻译成“寓言”，Mythos 则更接近“神话”或“神话体系”。放在这次发布里，这两个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452145&amp;idx=1&amp;sn=a5060e9143d22d788073bb42bb478094&amp;chksm=bfb4df234299acd83632ee455759c0a4da48399d4baf070e9d177bdf8f9b2f3ca5843ce8cb11&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Jun 2026 10:55:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，OpenAI 递交 S-1，启动 IPO]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvn4sawu1jqKsgRCf5OUoYibHvupoQzCvfK70DkMNj2eiaZs0PoibmJvZiavia8PKumEbibRflfEEH3SpeykLF4kbz50ibGuFDw7Y6tVZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 刚刚确认，已向美国证券交易委员会 SEC 提交 confidential draft S-1。这意味着 OpenAI 已经启动 IPO 前的正式监管审阅流程，但它还不是公开版招股书，也不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452136&amp;idx=1&amp;sn=e6d016a3d9712d7c382e17c926038b57&amp;chksm=bf48259246573ced6f54181c77adc7d2757492d23278c1744cd75b0d82cccbd673f92ef6b8ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Jun 2026 11:21:34 +0800</pubDate>
     </item>
   </channel>
 </rss>

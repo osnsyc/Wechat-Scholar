@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[LLaVA直接涨了11.2%：一个无需训练的VQA提分方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9WjJicVMa2aLBbiaUzUKExUBI9Nv5NlB05OHkSAA67yOpj6Pxx3jfDYkDBvh9tIgia3GyZgVet5PHP9AuxTc151Kedxy4icUOX02Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>调图文大模型的同学，应该都踩过同一个坑：DocVQA 小字看不清、图表问答分不清坐标差值、远距离物体推理找不到参照物。模型疯狂输出错误答案，你疯狂调 Prompt、换裁剪策略——改了两周，指标纹丝不动</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663387&amp;idx=1&amp;sn=182fdb08f00408267aadc864be4e40a5&amp;chksm=9797a7bc114b561292f0ac719507b357b1979452916a6db0443a9e1f487cfe850b9195264903&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Jul 2026 21:33:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[1.13 亿巨量数据加持！华科开源 MonkeyOCRv2：用“文本生成+像素重建”的表征学习，刷新多项文档 AI 纪录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW8MZoWGGvFRbgRq3TjREUfLsibar86cjF6VvywCVqrj1CDiakJoElkZZ8VwI7O7YDAsxiaXYh3ic7D3kDSFMJm9oZXgks1mrV9fRf0/300?wxtype=jpeg&amp;wxfrom=0"/><p>在多模态大语言模型（Multimodal Large Language Model, MLLM）的研究与应用中，尽管模型在日常对话和自然场景识别上表现良好，但在处理复杂的财报、论文或手写单据等文档图像</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663387&amp;idx=2&amp;sn=68189fd53229959029eec3e2a0831c10&amp;chksm=973de20defa977526a544ad82a31248442c98aa642f6baff7d92a5d45c2d3932f0e7935676ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Jul 2026 21:33:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICML 2026 | OPPO：中科大、商汤等提出全模态感知策略优化框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibdTbs7I2fgMwwvoYrS6DutBuTzNwX5brwDMr8nkoUvMVxFibuSe5Hj3SiaDEAUCiaHjG17NXwpKh4VAPwUDq0Gd51ADiaoNkVwnyU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文第一作者是中国科学技术大学博士生韩知渊，合作作者来自中国科学技术大学、商汤科技研究院、新加坡国立大学等机构。该论文已被 ICML 2026 接收。近年来，全模态大模型（Omni-MLLM）推动“识</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663358&amp;idx=1&amp;sn=a3b2702b90c52d046bf80768a26de669&amp;chksm=97cb2ef4f980256fceee17632a9e1bd3114b68056de26dbc5c1c4c65529595982fcfc5188e76&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9qmUDtKEMlWpeVibFiaNicW8Lz7KricWO6lqHVg3Nwic2ibxqDweGj7mnCW3nMqqF3fcarFFtQ2bsryaeDKK9qv77H6iczy5SsAWIRjk/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年 CVPR 上 Meta和牛津VGG获得了最佳论文奖，今年又斩获最佳论文提名奖，其实还有一篇 VGGT-Ω 也入围了今年最佳论文决赛圈（最后的15篇）。在计算机视觉领域，从单张2D图像中恢复出逼真</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661759&amp;idx=1&amp;sn=c925d6bf0b2f481b5f8511c8502fba57&amp;chksm=978b2148161421a6e84628e60e33684716bcb7b88169ad1ee68ca93491e97f8465007ad516fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 08 Jun 2026 23:16:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 最佳学生论文提名奖! ChordEdit：基于最优传输理论的免训练单步图像编辑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWicc0IeDkY3ajTgNOq0pGic7JBCHWNk7J0hicUh4ZCloI0L5mb12orfkqjcsRg4hrnFJqicu1qLCS3bWnJnueibOesowelRfLkJCicfU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在生成式人工智能飞速发展的今天，图像编辑技术已经让我们能够轻松地“指石成金”。不过，如果你尝试过在本地部署这些工具，大概率会被它们缓慢的生成速度和惊人的显存占用劝退。传统的图像编辑方法往往需要几十步的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661646&amp;idx=1&amp;sn=0242439b85a07beee6f1b3cbe7ad7da9&amp;chksm=979ba32847fc3e7d5a16eb1661dd9724be86afcccda520a12069e08428be286dee63e0968419&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 07 Jun 2026 23:54:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 最佳学生论文奖！微软&amp;清华等提出TRELLIS.2：原生3D大模型新标杆，17秒生成超高精度PBR资产]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8vKo0dS3vibVwrW6lkRUnTYeNTTQbe7uicU0X7x0n6RiaqkaxNVW1PgibXf3jL7gXXX27OiaeATbaryLKJeQEJ5VicX7U1ZBW8do4CY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在生成式 AI 的浪潮中，3D 资产生成一直被视为一块难啃的骨头。尽管近来 3D 生成模型在视觉效果上有了长足进步，但现有的技术方案在面对复杂的拓扑结构（如开表面、多层嵌套）以及高精度的材质表现时，依</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661623&amp;idx=1&amp;sn=04bb7abdff9bed54f9bdf4b2123ac312&amp;chksm=9779d5549d26da91a46c98ab67cb74ebbf48047a7a9ae4ea2f76a3072b70ca67d5c2ccf6f94d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Jun 2026 07:03:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

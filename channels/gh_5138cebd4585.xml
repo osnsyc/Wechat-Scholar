@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[李飞飞团队最新世界模型：仅15小时数据，掩码视觉动作操控万物]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBH2iaWbYOTaHzZj401IUc0SFRG8xubU27X1fEu6xQErjZ0apBr20VqZkbKArgqF4eriaZEJbSSw2nhOOLlGoamrFc0KnjXLicGao/640?wxtype=jpeg&amp;wxfrom=0"/><p>关节角和控制向量先放一边，李飞飞团队直接把机器人动作变成像素轨迹，交给视频模型理解。约 15 小时机器人视频，就让一个 14B 视频模型开始预测动作后果，并参与候选轨迹筛选。只把杯子接下来要怎么移动留</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721755&amp;idx=1&amp;sn=b289f490697dd439cf23136c3b1eb5d1&amp;chksm=97156509efb4a093e64d281b7de97c8db444f8ff40b456b01ae3e59279866de2fa089dfa612f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Jul 2026 17:32:34 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[跳出自我确认陷阱：浙大发布EDV框架，开启大模型智能体进化新路径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCibdoQRXd3QJiadvyBWRelTNh9icoQkZBPcl8sDbz8iab7tQTpwcxwLcMx2fnv9lJaoUBB5Ov0kQ8vxiaNaTfBozr0oicZoNhm4aYrw/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创· 作者 | 朱诗定单位 | 浙江大学硕士研究方向 | 大模型自我进化我们联合浙江大学、清华大学、西北工业大学、中国科学技术大学和上海交通大学发布了大模型自我进化的新框架</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721755&amp;idx=2&amp;sn=1dcf4b6f382dcd3a9afb2c4ef3998c4b&amp;chksm=97b3e1fb376a25546bc3a75299f7bbf5496d53234f4b18ca85c601edb14f1f3aae97824cae31&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Jul 2026 17:32:34 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MIT团队把泛化写进Harness：短任务训练，解锁32倍长度外推]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDhLIQt3XuY36ZeILfGCEU9jyhicGBKqnDLZ66uTcWOHSwSjkv51dibhuM7At26Eib3iaVpeibGQ2us30uoJ2AVfCm6BiclZ7Og01Z38/640?wxtype=jpeg&amp;wxfrom=0"/><p>只在 64k 任务上训练，策略却延伸到约 200 万 token 评测，MIT CSAIL 把长任务泛化的关键变量移到了模型之外。只在 64K 任务上训练，模型能走到约 200 万 token 吗？M</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721725&amp;idx=1&amp;sn=0d27f93fd35c1e4a28a310f1b956189c&amp;chksm=977fd49c21ec47bf1ad18a010338de3a39ae9e7e1ee9c6edb32cdcbe04fdb55d9f0e4cb6ea9c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeC3Uq9TMkSqDLgF3mb7QibdqyVqUibRhEJzYyrfuPsBmN9eTFuQaeSzahzfGk6QLGJCoGje9AH2xGac6vmYv61ZcK4EicficUibsic9Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个基于 Qwen2.5-Coder-3B 的小模型，靠后训练在 AIME26、LiveCodeBench v6 等可验证任务上冲到前沿模型附近。3B 参数，本来应该是小模型的舒适区。能本地跑，成本低</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721013&amp;idx=1&amp;sn=247939da6039b05e9d3e228dcbfa3dac&amp;chksm=975887dccfe7cb46dc981e9adc1c9616b9e6fc56527d8b5cafa34cd4ae8a02576a59c942a3a7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 17 Jun 2026 18:00:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不做里程计、不规划轨迹：无人机凭「感觉-运动」本能穿过5厘米窄缝]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDkY431zhponAyLL31vuNk4xgVePnpibLHqmib27OtkuIL34GzzSurjG2xFpmjnfgTkNantKsVstKhA4shaekOtsl6nN4zIlbRvo/300?wxtype=jpeg&amp;wxfrom=0"/><p>无需里程计、无需轨迹规划，仅凭一台单目相机和一个端到端神经网络，把「所见」直接变成「所动」——让无人机像猛禽穿林一样，看一眼便侧身钻过比自己还窄、且朝向未知的缝隙。苍鹰俯冲穿过树干间的缝隙时，从不会在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721013&amp;idx=2&amp;sn=69eb3a60c513899beda81ec64d7e675d&amp;chksm=97dc175d95e504fc18fd6b0a4869fcd423958df8a92b0e72cae84b4dd8ec4964d09528f01de3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Jun 2026 18:00:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高质量Omni训练数据如何炼成？OmniVideo-100K打造音视频理解新数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAr8d1LJq2mBQUbmN8BicRicvUerFn5QhJTYypnVffibukvQLYRwkLkPXvXldqKv4DicUISIMlVv8eIBBAhd1LTtvoShmKesjZ34qU/640?wxtype=jpeg&amp;wxfrom=0"/><p>采用 Gemini-2.5/3.1-Pro API，通过“结构化剧本+证据链”生成 10 万条训练数据，VITA-1.5-7B、Qwen2.5-Omni-7B、Qwen3-Omni-30B 模型在 O</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247720971&amp;idx=1&amp;sn=69d50238eb5edd1cf3df0840b5da0e54&amp;chksm=971c5bff74fac93df38c4f94852cfbdfd349235d6dfda9b72588d9773c9266c57b5af4165a6c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Jun 2026 12:23:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
