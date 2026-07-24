@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[AI Agent 驱动的 SGLang Kernel 一等公民化：sglang.kernels 的设计与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYhWeDibG4OJYorv6ZMyicRMq0piaibXmzCBic8Zuj5aE8GaZ4hw7a8YiazHpRU9ccMMicXzjMRXRJicjcjelL47ReGibpPK40FkyHeTMjs/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. TL;DRSGLang 的 GPU kernel 原来分散在 jit_kernel、sgl-kernel、各子系统的 triton_ops 和具体模型文件中。sglang.kernels 将</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532012&amp;idx=1&amp;sn=c63726abda39df09e7b845436c8a31cb&amp;chksm=9ed800e15e840ba014441ab5eac50adc1434417e087b4a4c56ccdc0459e9d939b484109d7613&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Jul 2026 21:27:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[HPC-Ops gemm_bf16xfp32 Kernel笔记：FP32权重拆两个BF16跑Tensor Core]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka3VMMyfs38n3MpaDticjPLkMWdtHKhIxibkN9FEsfYpm7B9MOyScEdGUFuicWFlBIX45AzTYQ9mBKnrw7Fia4ibtKddF47yRawbm5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近看了一下腾讯 HPC-Ops 里的 gemm_bf16xfp32 kernel。它计算的是 BF16 激活乘 FP32 权重，源码在这里：https://github.com/Ten</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532004&amp;idx=1&amp;sn=716fa5b7e44a68144bc8bb7b6d95c780&amp;chksm=9e341e73a6bc2f4795604f1259fbb024807afc996801374b3499f0da5b8d65ba83f1137eedd8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KaS6pf4sgMmvYia0ke94b5uT7ibhrgqMK1h9tGaDRsFwlfIFEVxKXGspcuMHFW1XBtDyAsjvlRGktQvIJPRCtPjT09KT75pcZiaNM/640?wxtype=jpeg&amp;wxfrom=0"/><p>公众号输入“抽奖”参与，可以领一下封面</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530993&amp;idx=1&amp;sn=edfbe2fa07ba47c1fb385f29d9f0bd9d&amp;chksm=9e77ea2df68a4ac98bd9064ae1ae34560aa5a46e4870d84d6a542f126306394a8a3d0810bb88&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Feb 2026 12:04:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[了解下 FlashInfer SKILLS 写法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZoyY6UibBJk2csXwNdQf02gIzDg0e83aiacuibqBbgfbsDhXH4uq4HoRLFNNWsiaL6p6lY09OXxmbhiaTzYe1oe9tq8Tnt1k8SZM38/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景最近看 FlashInfer 仓库的时候发现它的 .claude/skills/ 目录下维护了三个 SKILL 文件， SKILL 允许开发者在项目仓库中放置结构化的指引文档（通常是 S</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530985&amp;idx=1&amp;sn=822eb47cc7304ab1ce15052851eb192a&amp;chksm=9e15c2ca8418cf85326cacf42e5cbb2ea151b8af3b1828dddd0e8c7c3f74ec66f789bb21bcaf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Feb 2026 23:30:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

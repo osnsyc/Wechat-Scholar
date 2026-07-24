@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[CVPR 2026 RITA：将图像篡改定位从“单次预测”升级为“逐步推理”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW8VWJfaB8tt2ibn2iccVeR8QPYq3LqTBicpMtx3qPiaH7qyotwAUAQjDqTEkVCvzyknkdRH1cvyI374RAzw9eO5KkgZkEcH4HONJGs/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目｜Revisiting Image Manipulation Localization under Realistic Manipulation Scenarios作者｜Xuekang Zhu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663429&amp;idx=1&amp;sn=27c2a926abfa8b703419f2aa9de7d9af&amp;chksm=97de489ce0ee23e78be93b1ff560e38443986b1b8626f19fe5aada9e8573b3aebdd766574ea2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Jul 2026 23:53:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[LLaVA直接涨了11.2%：一个无需训练的VQA提分方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9WjJicVMa2aLBbiaUzUKExUBI9Nv5NlB05OHkSAA67yOpj6Pxx3jfDYkDBvh9tIgia3GyZgVet5PHP9AuxTc151Kedxy4icUOX02Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>调图文大模型的同学，应该都踩过同一个坑：DocVQA 小字看不清、图表问答分不清坐标差值、远距离物体推理找不到参照物。模型疯狂输出错误答案，你疯狂调 Prompt、换裁剪策略——改了两周，指标纹丝不动</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663387&amp;idx=1&amp;sn=182fdb08f00408267aadc864be4e40a5&amp;chksm=9797a7bc114b561292f0ac719507b357b1979452916a6db0443a9e1f487cfe850b9195264903&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWicykbJrwUbBfibkP1icg1hKjsicUnE0FE4FI0L9ydojrTBWPqjS721QJPmIr3xBL0hvDhjHRbSgzwNtm5SnIEJkia0IBQcMmamC5w8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话理解 TraqPoint：不改推理流程，用序列级轨迹奖励重新训练检测器，就让关键点更适合被长期跟踪作者： Yepeng Liu 等论文标题： From Pairs to Sequences: T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661782&amp;idx=1&amp;sn=4eea24110104b914932c2272377383c7&amp;chksm=9778603bd1fb9df512a88163a3ad9dffcb36b4588642cac0348f99658aee7d2292a6fec09c78&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 09 Jun 2026 23:50:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[永远可以期待的Meta！CVPR 2026 最佳论文提名奖作品“SAM 3D”解读]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9qmUDtKEMlWpeVibFiaNicW8Lz7KricWO6lqHVg3Nwic2ibxqDweGj7mnCW3nMqqF3fcarFFtQ2bsryaeDKK9qv77H6iczy5SsAWIRjk/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年 CVPR 上 Meta和牛津VGG获得了最佳论文奖，今年又斩获最佳论文提名奖，其实还有一篇 VGGT-Ω 也入围了今年最佳论文决赛圈（最后的15篇）。在计算机视觉领域，从单张2D图像中恢复出逼真</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661759&amp;idx=1&amp;sn=c925d6bf0b2f481b5f8511c8502fba57&amp;chksm=978b2148161421a6e84628e60e33684716bcb7b88169ad1ee68ca93491e97f8465007ad516fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Jun 2026 23:16:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
