@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[【博客翻译·译述】Triton 插件扩展：开箱即用的 TLX 与自定义编译器 Pass]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYcRbK1u8mrzW40KrUfn57lVaaZI7FAut5MvRYJmibxEyjib1wsNPmicjOgvcewicAxzrTBun1krNcI8X6vrEUB3m8DREsicSiamge7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Triton Plugin Extensions原文：Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532017&amp;idx=1&amp;sn=4a5ac09eddc9a1362845f595e6f2e1e7&amp;chksm=9e9c946e62f9b3926dada784c05ecf8eca906c640128ab86ef3ac1680aebb97edc2d4bc6db93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Jul 2026 20:58:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Agent 驱动的 SGLang Kernel 一等公民化：sglang.kernels 的设计与实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYhWeDibG4OJYorv6ZMyicRMq0piaibXmzCBic8Zuj5aE8GaZ4hw7a8YiazHpRU9ccMMicXzjMRXRJicjcjelL47ReGibpPK40FkyHeTMjs/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. TL;DRSGLang 的 GPU kernel 原来分散在 jit_kernel、sgl-kernel、各子系统的 triton_ops 和具体模型文件中。sglang.kernels 将</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532012&amp;idx=1&amp;sn=c63726abda39df09e7b845436c8a31cb&amp;chksm=9ed800e15e840ba014441ab5eac50adc1434417e087b4a4c56ccdc0459e9d939b484109d7613&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbYJkibEibOAGiaPsu0K26lPickNPrHRkq7aVIaJQnO8zLjia3U5EM1IyYQErmZGoKLCYHgeteiaxv0iaic7Fhh7lQVrCOjoLRSbQicWic7U/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang-Diffusion：为生产级视频生成而设计的高级优化继我们的两个月进展更新(https://lmsys.org/blog/2026-01-16-sglang-diffusion/)之后，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531000&amp;idx=1&amp;sn=db6f3274c31c1b6f4ffe6f95c969977b&amp;chksm=9ee713feb730fc4ebb4c9c324e02dd8d9f6b2fccf85494e7f49065f5da6d5f37f80cce7c9cdf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 17 Feb 2026 12:15:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[领取GiantPandaLLM红包封面并免费参与抽奖]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KaS6pf4sgMmvYia0ke94b5uT7ibhrgqMK1h9tGaDRsFwlfIFEVxKXGspcuMHFW1XBtDyAsjvlRGktQvIJPRCtPjT09KT75pcZiaNM/640?wxtype=jpeg&amp;wxfrom=0"/><p>公众号输入“抽奖”参与，可以领一下封面</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247530993&amp;idx=1&amp;sn=edfbe2fa07ba47c1fb385f29d9f0bd9d&amp;chksm=9e77ea2df68a4ac98bd9064ae1ae34560aa5a46e4870d84d6a542f126306394a8a3d0810bb88&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Feb 2026 12:04:20 +0800</pubDate>
     </item>
   </channel>
 </rss>
