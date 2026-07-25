@@ -10,6 +10,18 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[Claude Code与Codex六大组件拆解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwBKOPYibfV3v1LUjibAe3v90264ZDibeMHo7cm9vRibec2nsUpkSHXqUS9MaJcibRI69X93VRAl174OFvWYF3QFF1QnavQzxF9bpfWU/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！最近一个越来越明显的现象是：GPT-5.6、Claude Opus 4.8、GLM-5.2 这类模型的裸能力其实相差无几，但装进 Claude Cod</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509372&amp;idx=1&amp;sn=3d590afbb9ae191cf81652415455a5a1&amp;chksm=c34d1438f31f4c2a112065fff4a640bf94464ca576c301c3ffd9fb94de162b3a1ebae52d3df5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Jul 2026 16:54:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Opus 5刚发布就被玩疯了~]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0DOaHQeiaNPHnjPG6HZoyQ2nBKqic80ic8xUaOT3wgJ9WibzIQwFsZ6Pib39cHWovOicaRbM7LSwjFP5PqS5NmOuxZrYVPibqsODiatFktcnficz7184/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是学长阿珑Claude Opus 5刚刚发布，社区已经把它扔进龙卷风、危楼、断桥和几万颗沙子里了。。。Anthropic给它的定位很克制，接近Fable 5的前沿智能，价格只有一半。官方定价</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509372&amp;idx=2&amp;sn=8ef1609c82ce385fe02b1e824022e6b6&amp;chksm=c39b335ba45da47ba933b94b96845c10a031108083302ea3485733ab666193489b7718c6743d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Jul 2026 16:54:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[学了3个月LangChain，才发现自己根本没入门Agent工程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwDoFof2bggl5ZQP2CnI4sB7UeGyW8TqFuvKk3qM7yf2FroTpLS6BJrwdXWq57SCyqAibKkcX3eQPDytc1sVIjyxXVzfQaiaxZnfY/640?wxtype=jpeg&amp;wxfrom=0"/><p>凌晨 1 点，你盯着屏幕上跑通的 Demo，长舒了一口气。你跟着教程，用 LangChain 搭了一个能查天气、能写周报的 AI 助手。你觉得，自己已经掌握了 AI Agent 的核心技术，简历上也可</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509308&amp;idx=1&amp;sn=425df9ecac50e09afffec701c0f12f37&amp;chksm=c3e5551ab05f132ad2f10fd1e3e67014cc952454ca7fc9d661871f70627996ebba464a2ce231&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBTmiavohyGiaNAzXgS7H5dDaRlcu0icCBw3M6gAIGdAV0PEE7EiaPphNaeumCGGjSKcHgvfLLbbod6nFllC7AWLbaIojaPVnclSsk/640?wxtype=jpeg&amp;wxfrom=0"/><p>仔细扒了一下最近的顶会顶刊，发现多模态方向越来越卷了，想顺利发文，必须转变思路！具体来说：以往参数越大性能越强的思路和拼接式架构已经逐渐示弱，原生统一架构成为新风口；跨模态融合、对齐、生成等基础方法的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508391&amp;idx=1&amp;sn=4f8e82b9ee4cf7ac6628cdc0476cd0e5&amp;chksm=c37ade027b05f1cc9c1ad063eb278a59eba6ea39ff45a7a43d0d34ce4d13a03466c47c784c82&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Jun 2026 11:00:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GraphRAG还在持续进化，FlowRAG让证据链自己流起来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwCo4onYb4HzqPElNO7JljQY7euajRakeM2TVjBAw8qv9efNDRjVCkMqicwRlLY0bzDre2MTJxsbOeWIwzWbffdte0IYt9rsRh6A/300?wxtype=jpeg&amp;wxfrom=0"/><p>如果一个 RAG 系统答错了复杂问题，我们通常会先怀疑两件事：是不是模型不够强？是不是检索召回不够多？但上海AI Lab&amp;华东师大这篇论文给出的答案更微妙：很多时候，问题不是“没搜到”，而是证据链一开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508391&amp;idx=2&amp;sn=a9c167c626fee895ecfd424db8e87dd7&amp;chksm=c3f476efb296054df4f7e39133423bb2189fbec028cedaad5c2b58303bbc1f3e44b71bca76b0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 11:00:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent设计模式时代已至，你的方法论跟上了吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwAibePrZRxU4JFD9o14S0h4kwLoZoRo8u2GibQzgSsOTqNn8VmExvTykDnvyFezlT27yftLCANYZVQ8EzC14AkFu5FjOibufKAcUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>拿到一个 Agent 系统，你习惯从哪儿开始看？是 Prompt、是工具调用、还是模型参数？今天，很多团队都能做出一个看起来很聪明的 Agent。它能读文件、查知识库、调用工具、拆解任务、生成代码，甚</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508367&amp;idx=1&amp;sn=0bbfb49d571e8a8405366b439017e1d5&amp;chksm=c3ae513856983b50cbe699fd84aec56b7e1d3da71a7095e9cf88f400b0c9c83c44ae098dd4e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 17 Jun 2026 11:08:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
