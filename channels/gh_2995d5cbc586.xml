@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[别再争论显式隐式了！「可学习3D基元」正在重写三维重建的底层规则]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iaUvaIhcSiaPU6PkyabpDhByRCCvCFxQQRalsNP3T8icO5sZnREFdESwuD2YBFbVRSd2aKyt4tIcoED4ASLPPPH08KwtcOqQn58Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统三维重建长期在显式表示（如网格、点云，虽精确可控但数据结构复杂）与隐式表示（如NeRF，虽表达力强但如同“黑盒”，难以编辑）之间艰难取舍。而“可学习3D基元”的崛起，正开辟出第三条道路——它将三维</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748248&amp;idx=1&amp;sn=f08f4e122b19d8220e1003ff26600e0b&amp;chksm=fa6a56517af36074532ace9fef94eea760cb7a29891577f413f645aeb62821fedb64945b77f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[4.8倍提速！RLWRLD开源AutoDex，碾压机械臂灵巧抓取数据收集！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iavnlnRkHSvQficLOcaICVQnHWBbXNRjODXLqiaCib1UsHib6LNPoOjCEeWNEElic19gicnMnITWdHKXhudqvjUQibVibu9ZUw93KWMPPI/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748248&amp;idx=2&amp;sn=8f6b2484d2f055493a5e0a74f86f37c6&amp;chksm=fa1b1ccee0af56971a1b6df5519225574ca5407e03ec92b56fd8b3823df8bd84ec01c8020b89&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不靠多视角、无需标定，单图生成稠密高斯打破重建固有逻辑]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4hUnrSao4zhbmVuTNxYXDuH9MYqDQ1T0SdbDGmFueTWCzTkGicgIyq4WZ1pND1njaiceibT13Xia6v6JMgS9MN3nX9pE0ZyvBrB9Nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统3D高斯重建遵循固定范式：依托多张图像、SfM相机标定、多视图光度约束迭代优化稠密高斯，原生3DGS完全遵循该框架。方案强制依赖多视角观测与已知相机参数，采集和预处理流程繁琐，难以实现单图快速建模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748230&amp;idx=1&amp;sn=f416217d95455137d550623321a35c74&amp;chksm=faeea153cd142694702b1a70ee3579e4cd2a32430187d03f950b3980c3ce61de3c8a55038012&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jRGJaMbgwKGY7aD9bcI844X96xO4ayZpYHicUMNpjgibFXrPt9fLicpdSyPznppY6aK46eCS2WqEwMRxukf3icc9y6Qibh812GEksU/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3DCV」公众号选择星标，干货第一时间送达来源：3DCV「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频讲解、顶会论文最新解</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747420&amp;idx=2&amp;sn=899bfbe4aa6e40cf644599d88c51eb8e&amp;chksm=fa6800b705a8b4bfed3b4a82e5dbd3252afcb8588202bbd1cd4c2cba786c78dabe5bbfc15d31&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Jul 2026 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RegimeVGGT革新三维重建！速度比VGGT快6.7倍，精度相当，还无需训练？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hC09aibeUj09sHkbhYIkniaK5IjlxtkAIffmvtShX8LUfHdGot6jVVp43BAv4WOQshzias1gluXEnOfs5qZtOvQN1GENEgA194Sg/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊「3D视觉从入门到精通」知识星球(点开有惊喜) ！星球内有20多门3D视觉系统课程、3DGS独家系列视频教程、顶会论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747385&amp;idx=1&amp;sn=a200fd80604c06b840293f5dd1465c24&amp;chksm=fae4198b503cb1d4ad1cf93c404ce3434c8edaeb627e95465f0a47109bb756050f467e1ee552&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首个WAM全景综述重磅分享，一文讲透具身智能下一个前沿]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4h6sflFw2ILiavgu0TPH4iclYv2dzD2hncUbkFc03iaj0vTyVAMNIbgQss9wp4lhxxktdVlCThoyQ5XCzsFzURagHXQofYNybPsCc/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达3D视觉工坊很荣幸邀请到了复旦大学&amp;上海创智学院二年级博士生王思尹，为大家着重分享他们团队的工作。如果您有相关内容需要分享，欢迎文末联</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247747385&amp;idx=2&amp;sn=7c4781d332d473cc693abaa807e8d849&amp;chksm=fa952f5a65a85d295559a70c6e1fca3b2def0955b50f2a74ff5ac56c75df0f83a6012f1523d7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
