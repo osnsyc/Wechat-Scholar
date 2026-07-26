@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Claude Code 的系统提示词，只剩不到 20% 了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlw35OyynyPPmCPswicNmmH65WMXnGlju6kGHToeDb3obxFrhWDlh2LEiaoSD56yHl6ybibicibjov1rTXJfH7Uo9zk2RiaHgYcfW9go/640?wxtype=jpeg&amp;wxfrom=0"/><p>给 Coding Agent 加规则，几乎成了一门装修学：它犯过什么错，就往 CLAUDE.md 里加一条；它再犯，再加一条。加到最后，Agent 每次开工前都要先读一本员工手册。规矩越来越全，人却越</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453027&amp;idx=1&amp;sn=46fc11dea196b77a325270be713f0601&amp;chksm=bfc25a252c223d11dd11b91c5f08f13ea252aa80f5fc40719ee9a5744bbb426189905c8c2e0b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Jul 2026 16:51:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code 团队长文：Opus 5 和 Fable 5 的上下文工程新法则]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvn61s1jbL3VKuca8HMkALl2bU7dgj2fGB6Qd9YZtZtic2Qwqw8XlIrgM9xNFA83XOIk4iaiaOerHicZrjdRMGZa0T59V0by8aiaW1cQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 团队的 Thariq 最近写了一篇很实用的长文，复盘 Claude 5 时代的上下文工程。里面最反常识的结果是：他们面向 Claude Opus 5 和 Claude Fabl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453027&amp;idx=2&amp;sn=728007c018d2eaedda12ab3f52025315&amp;chksm=bf9dcef9f9ac65396ea15eb9e4ef309fd2f0cad03bb702bfad6e4b7d043bfdd47f7147869f8d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Jul 2026 16:51:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Opus 5 来了：半价摸到 Fable 5，正面硬刚 GPT-5.6]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlyUAtF12VdzINph10J4yh7qIIC3KwoxvpibIhV2IIMKXCxGyxqpdYsnibhRcLicaFOfxqnrh8wIHTw5Cp360PCjkEWMkOicqCP4D4/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天凌晨，Anthropic 发布了 Claude Opus 5：能力接近 Fable 5，API 价格只有后者一半。官方 benchmark 总览还把 GPT-5.6 Sol 拉进了同一张表，Opu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453004&amp;idx=1&amp;sn=7c6e26b1154939f8b12516b38249494c&amp;chksm=bf9d9e90898b484e91d1f96e1c9c5c672a385dc99d0e03d275ae0209e0b283111abb93f85ad1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvl9sKrs8rQh3zabTMgdibltzktaAEH4K3wUh64I32Y1NcIWFefrichRQIc0qV8ibYwy254N7ZeOaibbPsSiamicPZW9QaHRTxxN6ibT2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google 工程师 Addy Osmani 前几天发布了一篇博文：Loop Engineering，文章讨论的是 coding agent 使用方式的一次变化：当 Claude Code、Codex</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452240&amp;idx=1&amp;sn=559a30a85f1c1b6d31237bc16ae3be33&amp;chksm=bf1b56f445b1f879a7b7991e4ab41dedad4f51da34e3bffe315097f8ca6edc4aa0fa8492cc5c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Jun 2026 10:03:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌 DeepMind “From AGI to ASI” 深度总结，附英中对照版]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvk8W1ibGVn8N9XUw4rzwC2uh8q1g3Aia5MOFYo8vudibiabVlLn2Ws3uL9nmdKD5TfQpR6TW4WgTziaGt4snV5lfSH9tQhOYJ2E1Fdk/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天，谷歌 DeepMind 等研究团队出了一份 57页的重磅报告：From AGI to ASI， 开头很有意思，直接建议人类读者先用智能体总结一下这份报告 辅助阅读，并且给智能体提出了总结指令。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452232&amp;idx=1&amp;sn=f04d864bfc0247b529a84b8e991800bb&amp;chksm=bf98681fd3b4b9697092759679a972d18419dbec74b5f4f21be890d2c0c11a40367a0cd7fdfd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 11:15:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenRouter 官方手把手教你省钱：如何把 LLM 推理成本降到最低]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlaBpIWa4icib11q7XCynN5wCYYeDKtHYX0INWhqHj9rLUSlGbs27cNrVUl4WHxPiaTVMtdJuISKryPJF8icEqHmgx6XTt0d6kTKqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型应用真正跑起来以后，很多人第一次被账单教育，往往因为没有把一次 API 调用背后的成本链条算完整。模型、provider、路由策略、上下文长度、输出长度、重试、流式取消和账户计费规则，任何一环没</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452215&amp;idx=1&amp;sn=ece6fb7338c650417af9603dda0340ba&amp;chksm=bfadbfab781f51f91b5d833ceb1520ee5f8eb0b938802c2fc147eead1929b5f0df9554fc416f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
