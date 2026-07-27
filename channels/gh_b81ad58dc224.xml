@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-7-27）：阿里开源OvisOCR2，0.8B端到端模型以96.58分登顶OmniDocBench v1.6，首次超越流水线方法，刷新文档解析SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFaqK8KH96yDibduLuOMpXnQvtDcCqAXuaEDTlzavy8TP2f8ib5xZpHOgFibibQMia2Vjzo0OTibTh7rzUroTTmDGYosG43BVAXGBdrws/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：OvisOCR2★OvisOCR2是一个紧凑的0.8B端到端文档页面解析模型。该模型基于Qwen3.5-0.8B进行后训练，能按自然阅读顺序将文档页面图像转换为Markdown格式</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247503033&amp;idx=1&amp;sn=5b2442f112d0ae8e931a7f3e25fa3665&amp;chksm=c0b32d91628783d2d082eca96ec5ee1c4273be10d9ef18be653f8c90740a1072dd92ff07db01&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Jul 2026 13:16:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-7-24）：Solar Open 2正式发布，专为长程智能体任务设计的250B MoE模型，Ko-GDPval 86.75分持平6倍参数模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFbIOZe6LibQVExFqVI4V9vtUbAooeMehYhzibfbfW8xCCrZz3IVsCEN93twmFB1P88TrEvMXGyLXIS55TXXzZJmaKYC5vazP0OYs/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Solar-Open2★Solar Open 2是Upstage开发的一个拥有2500亿参数的开源大语言模型，其采用混合注意力机制的混合专家架构，激活参数仅为150亿。该模型专为智</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247503020&amp;idx=1&amp;sn=c71e04057dfa2230486f29dd26eb485c&amp;chksm=c06e21a44b55b3466eb5bf5ab5d7d26e0200051e182bc14dae24f7186d3fd7d3d253f4b732c7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZHl2J1wCLXg95O2S0pDm35Q4eRpJcT0doz8nVrZbDMSwkGNwTDY58T8kquuJ3QODJXeIiaS4wXI0CR9GZ7s0qkbOsWJbqic2nDo/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Intern-S2-Preview★Intern-S2-Preview是一款35B参数的高效科研多模态基座模型，基于Qwen3.5继续预训练，通过将专业科研任务融入从预训练到强化学</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502329&amp;idx=1&amp;sn=1aa51138d143e67f345c508646248f95&amp;chksm=c0cf7f6e1778c816e31fecd0dc5a55436c2343de2b311a228a942d7fbba8876298d5da58064d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 May 2026 18:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-5-15）：Motif-Video正式开源，20亿参数文生视频/图生视频扩散Transformer模型，VBench开源模型最高分83.76%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFYB8bXQuXw5ic2OtH1g9xiandP3ribrFgFnadrju3bXpG1xrQcZQMFabarrav8yWgrQrkDWNwcPjc2LpZXobibHmAGhdAkdiaboiaCCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Motif-Video★Motif-Video 2B是Motif Technologies推出的20亿参数级文本转视频、图像转视频扩散Transformer模型，仅用不到1000万</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502315&amp;idx=1&amp;sn=907bd6ada896182d07509e7fd1b9ecf8&amp;chksm=c0e75299ed1d25ebec642f0c65047e453cabb6cdeba372a8c0f103adf0c552caddb81f68f5ea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
