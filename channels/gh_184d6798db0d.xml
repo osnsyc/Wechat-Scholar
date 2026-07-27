@@ -10,6 +10,12 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[Cartopy 绘制扇形地图，并正确添加经纬度刻度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5Qht4Z1JsiaicqNNZej6gVzarQWLml1u3cu8YOlotsTHaKpR1hRO4aIo27BKNsDibVWibmJKYV5ghdIrvbXET9leBEuOUSShQZEMnUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cartopy 绘制扇形地图，并正确添加经纬度刻度本教程以 Lambert Conformal 投影为例，绘制在文献中常见的扇形地图。就是上期冷锋降水的锋面图，参考文献的图是长这样的起初小编以为这只是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491774&amp;idx=1&amp;sn=d510bf01687a5263bfc54c58f1a91450&amp;chksm=c3882bca690f201f671209ba6d0fd3cf77db37a142d0be3873b59ace4b2fc02880d0638455f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Jul 2026 19:25:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[论文复现 | 冷锋降水识别 | 从锋面定位到降水贡献率计算]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjF43yU0pLKj4Tib9UdForsPIGJWRibljJEFmiavYtBmuiaMrbPomu0ic2BwN9pqibA9oNXVaKEiarK3vlWAick9iaOYicTrY0GhanSj5Os4/640?wxtype=jpeg&amp;wxfrom=0"/><p>冷锋降水识别 | 从锋面定位到降水贡献率计算前言前面把冷锋识别讲了。但识别冷锋只是第一步——实际业务更关心的是冷锋带来的降水。这期文章复现 He et al. (2023) 发表在 Advances</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491761&amp;idx=1&amp;sn=5a883d59ec0282afe4b4a00b86775acd&amp;chksm=c3108cf67a7e1494972463d43bdc399686fa324a2587fd74aa3421139c4b82c52d43f20d1a09&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[数值模式 | WRF 台风方位角平均半径-气压剖面绘制教程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QiaBoEREYHyK3NJ8QeV2kbG5hxjYYm3uTGzx8AXJ1NkyfA9gJZ3KuP0rDf1Dtrhqaib9pmm4128SteDA15ElnZrHzWC7KXojbvzo/640?wxtype=jpeg&amp;wxfrom=0"/><p>WRF 台风方位角平均半径-气压剖面绘制教程前言上期做了格点数据计算台风方位角平均的教程，后面留了一个坑：wrf的怎么搞wrf当然没有现成的库直接用，直接手搓看看吧本教程做了一些优化，核心思路是：跳过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491455&amp;idx=1&amp;sn=fc4bcca54adb499e18a7082222f9f453&amp;chksm=c31f903c7b8deedaa5439a14fc648ad2a4e794121f952da0f9d2600bca1f09d6dd2fe66d70a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 05 May 2026 12:17:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从微分流形来看扩散模型同化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IlWY29v7tn8NuuWL0ZyVh1T2C5myFIaKttWEhesBjTicKRBt8da5fxll9y4uNQISG2f1PTBricpt5IDZD5EiaLF92qtFxO5G4ljrYTPFFJjfMg/300?wxtype=jpeg&amp;wxfrom=0"/><p>启发来自于资深读者的专业意见，然后用AI学习了些新知识扩展了一下。为了避免这篇东西一点儿可读性都没有，我把严谨的数学概念放在最后面，先让AI帮我说点儿大家听得懂的话：1. 什么是流形？简单地说，流形就</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491455&amp;idx=2&amp;sn=15bac22fe7ac15ee566aaaf8f1dcf2e5&amp;chksm=c31bdab8aa43bc50981faef5af064b73f7b23b414f5896df788653e7bcd355f5582027f7add8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 05 May 2026 12:17:11 +0800</pubDate>
     </item>
   </channel>
