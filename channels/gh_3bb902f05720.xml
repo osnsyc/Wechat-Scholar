@@ -10,6 +10,18 @@
       <title>gh_3bb902f05720</title>
     </image>
     <item>
+      <title><![CDATA[ICML'26｜越强的预训练编码器，生成效果越差？FLUX 团队新作 Self-Flow 解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJDc0Hctf5gE2zhneNUhpfj24TGibs6qZwdGroNcSf8or0ZDUA8HAshB3pHDKyokiczN6wuGz0dqHXCXdC1VAYBdTV9UUDSUianBQY/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨科技猛兽编辑丨极市平台极市导读 现有视觉生成模型过度依赖外部“教师”模型来理解语义，容易遭遇性能瓶颈。FLUX 官方团队在 ICML 2026 提出了全新的 Self-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247719034&amp;idx=1&amp;sn=16614bc1df27c3671c0dac5b9a92ce6c&amp;chksm=ed6e7986ac70730272f146cb19cff52c3355f476aef674aab30b5b59f7e06a2c5a00ce836f00&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Jul 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code与Codex六大组件拆解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJB8OnUnUa0fg4YJVpeDr2iah72dzickhaicTXfGPdLjSN7MmCiaoEWRciapJXLUJzsyo1dVdKjjPovfD3KWsicnVLC17A2bxvTE7yLxk/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨PaperAgent编辑丨极市平台极市导读 同一款大模型，装进 Claude Code 与 Codex 之后表现天差地别——差距不在模型，而在模型外面的那层壳：Agen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247719034&amp;idx=2&amp;sn=b5829c169f8b725e1ed07fe1f22838ea&amp;chksm=edb4559e8c481907ce40e7eaa5deba2f7d3917b2ed53b5c4b75a01c3ef4849e4d60c02d08ff7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Jul 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[小红书开源 BigMac：打破多模态训练「计算 vs 显存」的帕累托前沿]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJAiayqyQ3XbGvCXV9EVWiav5Hjhh9eoff4CZmUpeB2YfxXUWlOichhBzUVOGWCXab8LP7BiavgSKZucYkK0RoVhu3yBtmqEgB0ic1oU/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心编辑丨极市平台极市导读 BigMac 把 LLM pipeline 当作训练调度的主干，再把 encoder 和 generator 的计算插到依赖满足、不打乱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247719004&amp;idx=1&amp;sn=2ebb9a690146ad4dafb0ce4c23e48418&amp;chksm=edb045ca44ed1d34573e2168643d5aff19ce5b7f88c5afcd73f5934b3e1e8fbe43803142b618&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJDfuVfIibVmxrxcjn1MHsttgguvQnUt4QQYYaYwRK6pIftjIazg59VRF2j6XveACDrtP6POJotAqR07RYiax2H1RkAhibnGoq17gk/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨遥感与深度学习编辑丨极市平台极市导读 遥感目标检测模型普遍面临跨传感器、跨分辨率泛化难题，根本原因在于现有数据集类别窄、来源单一，且缺乏对地面采样距离和场景密度的显式建</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718489&amp;idx=3&amp;sn=d972d01bbdde665490e471bfb6c0bed4&amp;chksm=eda2c3e898b76cd7d460818c62e9d28d01af3d267d19d1e5e38a7325923e5ac04394ae192f64&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 29 Jun 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ECCV 2026｜MoKus：跨模态知识迁移用于知识感知概念定制，每条知识绑定约 7 秒]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJBuIVuE1Fk6CYzgbXGL2Tg856ZsZC6uiacuMuzH7nvM4gxrw8bvfFXXohahOEVN9WrtZ34ZdLnj8zkaCRPDs69wOianibj6Y5SJOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨52CV来源丨我爱计算机视觉编辑丨极市平台极市导读 多模态生成模型中，理解侧的知识能否迁移到生成侧影响图像输出，目前尚缺乏系统性验证与利用。MoKus 观察到"跨模态知</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718472&amp;idx=1&amp;sn=c9274333b63a62f5c347c65190331d46&amp;chksm=ede14d0643d56821d8d6fd3698da464763a325f2c119eecda766c7c71ec8a20053bfaaafa73c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2026｜把位置编码扔了，旋转等变性反而更强了——REViT 计算量降低 67%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJCFP883iaSedNND5azuGs8m8Oat8Fb9jHibcokyRWT96DMAKnFcQ1h4ibmiaNOty0lViaenFhxxQhFARnSe82EZHdwK4I0UW1tuicUrA/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨小书童来源丨集智实验室编辑丨极市平台极市导读 位置编码是 ViT 引入空间感知的标准手段，但也是破坏旋转等变性的根源；现有群等变方法为此引入旋转 RPE，带来显著额外开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718472&amp;idx=2&amp;sn=802c3bd0e4dc6a3f9521a2857c40ca87&amp;chksm=edd27d79f36bcb786ce8d925b5b5bcceff32f28e8a9851f95d5d99fd62801825d134db8e985b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 22:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

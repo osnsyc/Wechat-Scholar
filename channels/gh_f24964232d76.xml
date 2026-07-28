@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang Custom AllReduce v1 与 v2 实现原理详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZsQejdrTCr2V3405taCyn6alzaibE2xUoZL8H6v6Q28AvRWUGqpibzvMlrVyiaUqRm6OI7obcOjOu8HUk9Pwd62NGlmGFydQxLoU/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言TP 并行下每个 transformer 层至少有两次 all-reduce（attention o_proj 之后、MLP/MoE down_proj 之后），几十上百层的模型 dec</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532034&amp;idx=1&amp;sn=cf431c82df837a44a855bb8a2ec335be&amp;chksm=9eadc77247049d7ac8028c2913098a536355e46aee6ef58938a1a350ec339f5d2b2c554c0b0a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Jul 2026 22:23:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【博客翻译·译述】Triton 插件扩展：开箱即用的 TLX 与自定义编译器 Pass]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYcRbK1u8mrzW40KrUfn57lVaaZI7FAut5MvRYJmibxEyjib1wsNPmicjOgvcewicAxzrTBun1krNcI8X6vrEUB3m8DREsicSiamge7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Triton Plugin Extensions原文：Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532017&amp;idx=1&amp;sn=4a5ac09eddc9a1362845f595e6f2e1e7&amp;chksm=9e9c946e62f9b3926dada784c05ecf8eca906c640128ab86ef3ac1680aebb97edc2d4bc6db93&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYdicWbnMxqsBpAe1zPZeaK2Y710u42GQGCkNCaZjYcZ7ZX2WNEoiaicrUV61KSeB6xUiaZ0FibTaicf25ySsokZb0E7BcFwowKCFKkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天搜索MinMax-M2模型结构的时候搜到了这篇blog：https://github.com/datawhalechina/self-llm/blob/master/models/MiniMax-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531006&amp;idx=1&amp;sn=dd4f4e127331e6db989b7b59b24e729d&amp;chksm=9e3db6fdc7c118ab903da3d06f27cb2633d9e0db4e570da68fd8fde90b02e136f9b09e09f8fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Feb 2026 01:08:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang-Diffusion：为生产级视频生成而设计的高级优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbYJkibEibOAGiaPsu0K26lPickNPrHRkq7aVIaJQnO8zLjia3U5EM1IyYQErmZGoKLCYHgeteiaxv0iaic7Fhh7lQVrCOjoLRSbQicWic7U/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang-Diffusion：为生产级视频生成而设计的高级优化继我们的两个月进展更新(https://lmsys.org/blog/2026-01-16-sglang-diffusion/)之后，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531000&amp;idx=1&amp;sn=db6f3274c31c1b6f4ffe6f95c969977b&amp;chksm=9ee713feb730fc4ebb4c9c324e02dd8d9f6b2fccf85494e7f49065f5da6d5f37f80cce7c9cdf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Feb 2026 12:15:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
