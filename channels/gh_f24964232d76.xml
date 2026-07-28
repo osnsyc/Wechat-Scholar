@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang 和 Miles 为 Kimi K3 提供 Day-0 支持]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KbAAyIFP6sSPPTefVd9IC867Ke26pRypeNndeW1tyynqAVMuOH8btYt0jsQzD565KXBgia30D3jCdneckkaTPbsYTaLFxOs50c4/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文地址（https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support） 翻译于2026年7月28日10:00，后续更新请见原文SGLang g</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532081&amp;idx=1&amp;sn=0eab3f7bcfbf53aad815cebddd2bae98&amp;chksm=9e6f2288609bf8960722ec0c47011b505435809146419ff11f24bc9e514de0f3cc1ef6491716&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Jul 2026 14:47:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SGLang Custom AllReduce v1 与 v2 实现原理详解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZsQejdrTCr2V3405taCyn6alzaibE2xUoZL8H6v6Q28AvRWUGqpibzvMlrVyiaUqRm6OI7obcOjOu8HUk9Pwd62NGlmGFydQxLoU/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言TP 并行下每个 transformer 层至少有两次 all-reduce（attention o_proj 之后、MLP/MoE down_proj 之后），几十上百层的模型 dec</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532034&amp;idx=1&amp;sn=cf431c82df837a44a855bb8a2ec335be&amp;chksm=9eadc77247049d7ac8028c2913098a536355e46aee6ef58938a1a350ec339f5d2b2c554c0b0a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbXibbLVNicx8UAxHQMX4m3wGXoWFlkxoRhKSIOrKIOm9UPbU3c1Pc9yFMohPuE0WOIMjnia0a6YOrhDltXpN2G6Hy5FtibHjdqcws/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：https://www.zhihu.com/column/c_1938664963049763058 作者杨远航，连载中CUTLASS 笔记：导读本 CUTLASS 笔记系列将从一个最小的 M</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531084&amp;idx=1&amp;sn=3d385dbd3d4d1e1fa0b239f2d82c93fe&amp;chksm=9e065342e727d1298dd64cef48216ab513a899698e9c12f337cb2ac623016b42fbbac839fce9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 01 Mar 2026 19:01:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[datawhalechina/self-llm 模型图查阅]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYdicWbnMxqsBpAe1zPZeaK2Y710u42GQGCkNCaZjYcZ7ZX2WNEoiaicrUV61KSeB6xUiaZ0FibTaicf25ySsokZb0E7BcFwowKCFKkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天搜索MinMax-M2模型结构的时候搜到了这篇blog：https://github.com/datawhalechina/self-llm/blob/master/models/MiniMax-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531006&amp;idx=1&amp;sn=dd4f4e127331e6db989b7b59b24e729d&amp;chksm=9e3db6fdc7c118ab903da3d06f27cb2633d9e0db4e570da68fd8fde90b02e136f9b09e09f8fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 01:08:08 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-7-28）：月之暗面开源Kimi K3，全球首个开源三万亿参数级模型，扩展效率较K2提升2.5倍，推理成本仅为Claude Fable5的1/10]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFaQptNiahdtYaAZpxX1pGricBGRPzmmARt0CxicQ4Tiaa7rubVWpyHjD7oEp36trqNDcjf7IdgMZVRgcFuTysGmF8zJyAEEjsDMs6I/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Kimi-K3★Kimi K3是Moonshot AI发布的开源多模态智能体模型，总参数量达2.8万亿，激活参数1040亿，是首个开源的三万亿参数级模型。它基于全新的Kimi De</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247503043&amp;idx=1&amp;sn=edf47f44ec6f9bc0a28492ecedb92798&amp;chksm=c0af26da79087b381149b9b73bb71c78c49d34c2c3c20bf0c5c28b4ab671f9fa20fd21170107&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Jul 2026 12:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-7-27）：阿里开源OvisOCR2，0.8B端到端模型以96.58分登顶OmniDocBench v1.6，首次超越流水线方法，刷新文档解析SOTA]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFaqK8KH96yDibduLuOMpXnQvtDcCqAXuaEDTlzavy8TP2f8ib5xZpHOgFibibQMia2Vjzo0OTibTh7rzUroTTmDGYosG43BVAXGBdrws/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：OvisOCR2★OvisOCR2是一个紧凑的0.8B端到端文档页面解析模型。该模型基于Qwen3.5-0.8B进行后训练，能按自然阅读顺序将文档页面图像转换为Markdown格式</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247503033&amp;idx=1&amp;sn=5b2442f112d0ae8e931a7f3e25fa3665&amp;chksm=c0b32d91628783d2d082eca96ec5ee1c4273be10d9ef18be653f8c90740a1072dd92ff07db01&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZTKGy2Fj3cAtomjOMShRTHqGiaeH6Ol4IEKvSmgDvGxlKxicxnf4ZVMtgszDP4SToIaHkktN7jD48W2Hoxd9lHic1sFsoMwDzmoE/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Lance★Lance是字节跳动研发的轻量级原生统一多模态模型，仅3B激活参数，单框架支持图像与视频的理解、生成、编辑全链路任务，采用分阶段多任务方案从零训练，在多项基准测试中表现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502339&amp;idx=1&amp;sn=376d5e32e11418229d890dee4e00f216&amp;chksm=c072cc7b356bd5d1aa14c77fb297d0bc16d00ca2674c4293b926d2fdd1e0f54047c47677bb9e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 May 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-5-18）：上海AI实验室发布Intern-S2-Preview，通用推理、多模态理解与Agent能力兼备，核心科研任务性能达万亿级水平]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZHl2J1wCLXg95O2S0pDm35Q4eRpJcT0doz8nVrZbDMSwkGNwTDY58T8kquuJ3QODJXeIiaS4wXI0CR9GZ7s0qkbOsWJbqic2nDo/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Intern-S2-Preview★Intern-S2-Preview是一款35B参数的高效科研多模态基座模型，基于Qwen3.5继续预训练，通过将专业科研任务融入从预训练到强化学</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502329&amp;idx=1&amp;sn=1aa51138d143e67f345c508646248f95&amp;chksm=c0cf7f6e1778c816e31fecd0dc5a55436c2343de2b311a228a942d7fbba8876298d5da58064d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 May 2026 18:40:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

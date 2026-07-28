@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[Harness原生Agent新突破！微软发布OpenForge RL：在任意环境中端到端训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDLecibORubn9lyxJcFB4icZ8UGrjnprjj4LruZo5Q4cmNibULibIBeVHR9lkicz4IEYHFLz29Yzk1FpiaPEia7SMtib9Fia59U9y4DLzxkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在任意 Harness 中训练 Agent，为什么难以实现？目前的难点在于，harness 推理通常是有状态、多进程的。主流开放 RL 框架默认本地 rollout，难以直接复用原始harness；如</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606066&amp;idx=1&amp;sn=f9d0b0d338ddc14528605ed012136c95&amp;chksm=cefe4d0222018e92ca83356379b60cae26ac8f3a56dc14c565476c1b822b1a5d899c67b9cad1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Jul 2026 16:01:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Jim Fan、李飞飞团队新作：机器人也能「上下文scaling」]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDIT4VSwtDuib7MbbQVWGZEwKUxPRD7I4vZL5VHw7pibMqmakxSXm55KRiactM6ndTSGRUmgx185QhtmdMHxwqaiakDGX3mNYBAibalQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去，受限于极短的上下文窗口，机器人很快就会遗忘刚刚发生的一切。那么，机器人能不能像当前的大语言模型（LLM）一样，记住并利用更长的上下文？针对这一问题，英伟达高级研究科学家 Jim Fan 与斯坦福</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606051&amp;idx=1&amp;sn=245eeb0701fb24c99a499940ce9bf5a6&amp;chksm=cef433b5bca2d629dd2b52ee515c77e8d1ad160869fb35f8b0c5c3aab13b1a8f505e352eafe8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDLMYegIiaAicTuYwkjmyWZ3cW5cWpCDITMPaHP0qBNibISZL1jAdARmaA0GHYvOYynuLFrEGdlfRdIA8YGTGX6mJulJxKicVXCoyHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>打破传统大模型预训练范式，清华 00 后校友王冠团队再出新作：他们利用分层循环模型（HRM）取代标准 Transformer，提出了超越 Scaling 的高效预训练 HRM-Text。论文链接：ht</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605008&amp;idx=1&amp;sn=a53ae6f35a029415082a0c1d86678788&amp;chksm=ce9e39e0ca639f537cf82b5a42c7de03d8071e4400d75f2cc9f68c41707fcce5c11dd41c36b5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 May 2026 10:44:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Adam之后选哪个？浙大团队对23种优化器做了迄今最系统的评测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDINP6barvpsNn5Cls9Uialdt9ricibwrmrsQofXVUxSsClXczbgpfZiaRVOGSsTVTlUaJgd72EibCoPUXibfAL3FkGTfyrlicMicvPAaH0/640?wxtype=jpeg&amp;wxfrom=0"/><p>投稿作者：浙江大学 April团队在深度学习的发展历程中，以随机梯度下降（SGD）和 Adam 为代表的一阶梯度下降方法是现代模型训练的基础优化算法。然而，随着大语言模型（LLM）时代的到来，传统优化</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247604982&amp;idx=1&amp;sn=7778fb78214b7d684a18b37941cda89f&amp;chksm=ceaabab16183a5af9d2e2ea70dd1693fa1e6f2d8a84865c96b9b267f6bcecf518cb2771df974&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
