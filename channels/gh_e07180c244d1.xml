@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[无需训练的3D对齐新范式，打通单目视觉与机器人抓取的最后一公里]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWicuNXoYAHKFxrn1CL6b9Vwg4RVINxeyD2bAvJq5zyOZdowMxWUGiaWmamrpE9jM0LqvMXUUg58NZK0ZsqhWgW1XK25sIES8XS4E/640?wxtype=jpeg&amp;wxfrom=0"/><p>在具身智能领域，如何让机器人利用单目相机，将生成式 3D 模型“脑补”出的完整几何精准对齐到物理世界，一直是打通感知与交互的最后一公里。虽然 SAM 3D、TripoSR 等生成模型能靠单张图片重建出</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663514&amp;idx=1&amp;sn=b564fe2b05f777729f7781738dce9a73&amp;chksm=974cbcb6218b97c7178ccac6152a49481bb8e13f13b7eb5a508cf8a647a299f0a7ce1df8a1d8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Jul 2026 23:53:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[FUMO：先验调制扩散模型，解决真实场景单图去反光难题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWictwD8Iml8xib6AJGHBYraPSgRW6BTo2cZAtxVOXVRkwLYEoH5KjyLPIQiaicdx11xMcFD6sFicbawjX3n6kh786ePum493510kUTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>透过玻璃拍摄的画面，几乎都会出现杂乱反光。真实场景中的反光强度分布不均，反光纹理与拍摄内容深度纠缠，一直是单图像修复领域的核心难点。现有方法始终难以兼顾反光去除效果与画面细节保真。上海交通大学联合上海</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663490&amp;idx=1&amp;sn=ddf441f29cbe50e6e741301c6e521624&amp;chksm=97d770e6ab028d7ab67448893ca9c7b021dbe2623601d372545f68cda09c4357a6cd05a8d76e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWicUI1NMR0iaicDayawQIuia0Ria1mZRKLtxznK50S59j0b9X5jfiaJqYTJPcGv3OyB1DFfpU5NzApzpJjTooTibTmtqWhIod8rKJesRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在文生图模型的后训练阶段，奖励模型一直扮演着“裁判”的角色。它不只是给生成图打一个分，更会影响后续的数据筛选、模型对齐、RL 优化方向，甚至决定一个文生图模型最终会偏向怎样的审美、真实感和指令遵循能力</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661991&amp;idx=1&amp;sn=a62a8f438aa284e3d40de4a11198c8ea&amp;chksm=979b8ee7779a0c09aabd3e46f6465a80a5db69094972473bab55b8dace76aa4320b13774725a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 13 Jun 2026 23:15:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 Oral | MagicBokeh：0.1s 实现高倍变焦图像虚化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibEKORucy8A9jBBGxuviaYW0fFRiaB8lfRic0XI9QSs7S1uuqAOV2E91hd5sVq56AYGfetlmkDRSgFib1ax4epJuGoUUpYX3TOhDZ8/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是一篇入围CVPR 2026 Best Paper 决赛圈的论文(15 out of 16,092 submissions)。MagicBokeh 是首个专为高倍变焦虚化渲染而设计的统一方法。随着手</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247661976&amp;idx=1&amp;sn=eee9e21d2535a9c73559634f74929b01&amp;chksm=97d9eec2ac058ced558340abef5c484bf207a58464acb609611132a43b20a71c49b784a5c8e3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Jun 2026 22:33:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
