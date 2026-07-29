@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Kimi K3 技术报告英中对照 PDF 版来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmibLuaAbdNAaw7wEGzPVJh5arAM0NAWv5nWZanRgO58GBG4ZpJrNVmURH46ibAOrxr3YRmd8kZbjKpmLAS68tRVRXnbOZAG6vtY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi K3 并不是单纯扩大模型参数，而是围绕 超稀疏 MoE、百万级上下文、原生多模态和长程 Agent 能力，重新设计了模型架构、训练方法和基础设施。它代表的是一条较为激进的技术路线：用更大的总</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453069&amp;idx=1&amp;sn=b115abe16292f53acdbd987f3d9a0298&amp;chksm=bf6e693342cc25d907b0693d7e4c752b6c03f53549b7337beadcc6a71540fe7bac939aee6250&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Jul 2026 11:14:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi K3 硬核开源，技术报告都说了啥]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvl6dSMHYjgm8TVvXa8kuLTCV6gIZYNrHicMe1lsltIZSjFB6zlYQNgM2FHZtWVa9fASibOjAYWJXjMorGVgCTfrO6VFHtZF5cjKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨晚 11 点，月之暗面正式开放 Kimi K3 完整权重，技术报告也同步公开。2.8 万亿总参数、1040 亿激活参数、96 个 Safetensors 分片，整个仓库 1.56 TB，Kimi K</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453042&amp;idx=1&amp;sn=48c7b954a0375a24da23e71e8896383a&amp;chksm=bf80350b8328aaf61fb797769c5df0f7f5a864d6f434d875874bc2dc2950dfe81b000a52ce4b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[Agent Harness Engineering 详解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlXbh62iboX2MMbnBPorhlJg8JrcnA7mcicic4icNSNL0vwkvnN9jKUqibqTjYaEmLb3RpfPkh0gWg7vRnDjPVNRe1icKIiasPcmCkac8/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌工程师 Addy Osmani 在 4 月份发表了一篇《Agent Harness Engineering》。和他前几天发表的 Loop Engineering 属于同一条线：Loop Engin</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452287&amp;idx=1&amp;sn=4eb0c3634f423f98f07f53ce032ad7df&amp;chksm=bffdac394926cff5b5de1007f9c02d2331bab154932747ec204c83a7d98758e2e6c8bd6bd002&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 15:33:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ACL 2026 腾讯混元&amp;UNSW | 当奖励模型学会"量力而行"——E-GRM减轻LLM推理负担的完整方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvm2Eqq8CnHtx7iaiapzhuyLY6Xkl1a538iarEdqoEabYycp4gJVdxcfsl7DwNw27iagehvmu5iaZBPEJMcG4Y6yb3FmPD80uMrXczmc/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文题目：Reason Only When Needed: Efficient Generative Reward Modeling via Model-Internal Uncertainty收录会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452287&amp;idx=2&amp;sn=888f65ab1608f84b0d01136dcf5f9af5&amp;chksm=bf47494c4783fa720543abdc3539ec527ab94b0f343ea540a7a60e81d61bcfa533a74f4f6fc2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Jun 2026 15:33:09 +0800</pubDate>
     </item>
   </channel>
