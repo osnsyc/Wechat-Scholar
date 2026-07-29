@@ -10,6 +10,12 @@
       <title>gh_b81ad58dc224</title>
     </image>
     <item>
+      <title><![CDATA[今日开源（2026-7-29）：Liquid AI开源LFM2.5-Encoder，多语言双向编码器，覆盖15种语言，面向设备端高效部署]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFbWhTAyibVuSZPq5cUf3Xup7UrkABp5EsR1J4Hz9LibuRdaFG1sicxIvQdI2Jat5JKhfvwpdccnZq3p8rgIRWXeMf5miaC1NbZearM/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：LFM2.5-Encoder★LFM2.5-Encoder-350M是Liquid AI推出的多语言双向编码器，基于LFM2混合架构，支持英语、中文等15种语言，上下文长度达8k。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247503055&amp;idx=1&amp;sn=99dbb7582326d453dde6a97adb2bdc22&amp;chksm=c0e13222d3a5f3964d3d4b35d2adaabb29a5904e064b40801faed05190ee407d3be6a8cd5d8c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Jul 2026 14:31:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今日开源（2026-7-28）：月之暗面开源Kimi K3，全球首个开源三万亿参数级模型，扩展效率较K2提升2.5倍，推理成本仅为Claude Fable5的1/10]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFaQptNiahdtYaAZpxX1pGricBGRPzmmARt0CxicQ4Tiaa7rubVWpyHjD7oEp36trqNDcjf7IdgMZVRgcFuTysGmF8zJyAEEjsDMs6I/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Kimi-K3★Kimi K3是Moonshot AI发布的开源多模态智能体模型，总参数量达2.8万亿，激活参数1040亿，是首个开源的三万亿参数级模型。它基于全新的Kimi De</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247503043&amp;idx=1&amp;sn=edf47f44ec6f9bc0a28492ecedb92798&amp;chksm=c0af26da79087b381149b9b73bb71c78c49d34c2c3c20bf0c5c28b4ab671f9fa20fd21170107&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFbkusIrBrQ9LdZVDNVKMiaxPqM3Z2F08IHyhqLHZZVshu4uYbHNe6w73gND0h3Kn3G7M3MQcficNfibwh70mfvfC6kSoRJicUiaVHsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Nemotron-Labs-Diffusion★该项目是NVIDIA推出的三模式大语言模型，支持AR解码、扩散并行解码、自推测解码三种模式，仅需切换推理阶段的注意力模式即可实现无缝</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502349&amp;idx=1&amp;sn=104789683a3ec8092d9a03a96b26c069&amp;chksm=c0e34e69ebe7d7ae5989088a6baaab1346a467ee7f660d6723ed25e1234d611f7e18351c45b1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 May 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-5-19）：字节跳动发布Lance，轻量级原生统一多模态模型，3B激活参数单框架支持图像视频理解生成编辑全链路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFZTKGy2Fj3cAtomjOMShRTHqGiaeH6Ol4IEKvSmgDvGxlKxicxnf4ZVMtgszDP4SToIaHkktN7jD48W2Hoxd9lHic1sFsoMwDzmoE/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Lance★Lance是字节跳动研发的轻量级原生统一多模态模型，仅3B激活参数，单框架支持图像与视频的理解、生成、编辑全链路任务，采用分阶段多任务方案从零训练，在多项基准测试中表现</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502339&amp;idx=1&amp;sn=376d5e32e11418229d890dee4e00f216&amp;chksm=c072cc7b356bd5d1aa14c77fb297d0bc16d00ca2674c4293b926d2fdd1e0f54047c47677bb9e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
