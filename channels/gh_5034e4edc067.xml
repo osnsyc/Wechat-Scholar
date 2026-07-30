@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[一台 64GB M1 Max，硬是跑起了 2.8T 的 Kimi K3]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmoptlm3kicwUsQiczL4JjQDFdaMpTd6nt2HnqEHCXRD7IMlcFibeZmLstFq6svG1eehPzKMF2vtaECEMgUerIketG8thic38dI94U/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi K3 权重开放没几天，就有人盯上了一件看起来不太讲道理的事：能不能把这个 2.8T 参数的模型，放到一台 64GB 内存的 M1 Max 上跑？这个项目叫 Deltafin，仓库挂在 gav</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453088&amp;idx=1&amp;sn=d79e92034867fda1ae200729777885d0&amp;chksm=bf944391350d0411c16aec5a49738fb7b74826b963817bc721dfc339ae624de14b5d5c4767c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Jul 2026 15:55:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[只改两个设置，GPT-5.6 的 ARC-AGI-3 成绩翻了 3 倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmWicKzapkGHHuiaFaRAazTjUNgMsDVfvoN1gW1BcyCnicnibeibjaVspqEyVc5W10QT3U3z8ell4MeyJ9icRqhTbibUlc4icO61icOXTQE/300?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 昨天发布了一篇实验复盘。同一个 GPT-5.6 Sol，没有继续训练，也没有换权重，只给负责调用模型的运行框架打开两个设置，ARC-AGI-3 公开集成绩就从 13.3% 跑到 38.3</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453088&amp;idx=2&amp;sn=a24b82178c8887ccd2a4decd83999478&amp;chksm=bf305b2aaba540d9b57196daf056b3b2596a391db600f86605068473e6daaeda12c84d4bfe53&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Jul 2026 15:55:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi K3 技术报告英中对照 PDF 版来了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmibLuaAbdNAaw7wEGzPVJh5arAM0NAWv5nWZanRgO58GBG4ZpJrNVmURH46ibAOrxr3YRmd8kZbjKpmLAS68tRVRXnbOZAG6vtY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi K3 并不是单纯扩大模型参数，而是围绕 超稀疏 MoE、百万级上下文、原生多模态和长程 Agent 能力，重新设计了模型架构、训练方法和基础设施。它代表的是一条较为激进的技术路线：用更大的总</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453069&amp;idx=1&amp;sn=b115abe16292f53acdbd987f3d9a0298&amp;chksm=bf6e693342cc25d907b0693d7e4c752b6c03f53549b7337beadcc6a71540fe7bac939aee6250&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkwafhL6EZtZrx7JUhIiaA8WukwPObMqWPTNZj2tBdibF8Xjyy0tIdibUCmWt88HzKkCm6JJ3c38gnciaL6yD34qyvbPbThVFlxAW8/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌工程师 Addy Osmani 在 2 月发表了一篇：The Factory Model: How Coding Agents Changed Software Engineering。和他发表的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452319&amp;idx=1&amp;sn=619d532d374787e4c9ecb9675831c87d&amp;chksm=bfaa6b4002abf79c22ce7d81a1dc5db5a9b6b25985c4ae89720dba525086d53089441d0c24ed&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 20 Jun 2026 14:33:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code 实践指南：CLAUDE.md、Skills、Hooks、Subagents 到底该怎么用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlZhmgFXcvXa7ibRISUwKh6AqUibJArrJpnib57x1PgFMzUxs04NlzEkvmZBJByJGMIrEhhLqYnHicYIH8icY4CepIurKSsJibpQl9II/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude 官方博客刚刚发布了一篇 Claude Code 的实践指南：Steering Claude Code: CLAUDE.md files, skills, hooks, rules, su</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452304&amp;idx=1&amp;sn=35454404f2914b5d22f391649dc3edf5&amp;chksm=bfa519efaf97da6b3ca77ce3f76c533afd41f60485f884aa69264b117beb0e85e7b225300152&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 19 Jun 2026 10:11:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent Harness Engineering 详解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlXbh62iboX2MMbnBPorhlJg8JrcnA7mcicic4icNSNL0vwkvnN9jKUqibqTjYaEmLb3RpfPkh0gWg7vRnDjPVNRe1icKIiasPcmCkac8/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌工程师 Addy Osmani 在 4 月份发表了一篇《Agent Harness Engineering》。和他前几天发表的 Loop Engineering 属于同一条线：Loop Engin</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452287&amp;idx=1&amp;sn=4eb0c3634f423f98f07f53ce032ad7df&amp;chksm=bffdac394926cff5b5de1007f9c02d2331bab154932747ec204c83a7d98758e2e6c8bd6bd002&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 15:33:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
