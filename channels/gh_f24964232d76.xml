@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[PDL 在 SGLang Kimi K3 中的应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbCYMMNplNiaicjgGqXwpEicNpRiaucPkiaDdibD8pk7z0pICJ71aOMn50x1vJoyIERrorj5VFI5rEIh0MPFEibh1mZhwSDUViaicz4wjxc/640?wxtype=jpeg&amp;wxfrom=0"/><p>PDL 在 SGLang Kimi K3 中的应用Kimi K3 是一个 2.8T 参数的混合注意力模型。decode 一个 token 需要经过 93 个注意力层（69 层 KDA + 24 层 M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532111&amp;idx=1&amp;sn=76fa14acfc76421bad2f27583c504dd0&amp;chksm=9e91beb8d412329315e6955db5b5b39c635f0df44a52c87dba734776c9f54a944de9c6704f85&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 12:19:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【博客翻译·译述】让归一化接近“免费”：把 Norm 融合进 GEMM 与 Attention Kernel]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZUWdCl3BTDn18o5fnF2MPRu8IGtuBB42myGKviaiaM2fQvY579m5ySCFuzIJwZv1tz3RmMGlbTibvicqZ4dib2ocCtks5mx4LPLqys/640?wxtype=jpeg&amp;wxfrom=0"/><p>Towards Free Normalization原文：Towards Free Normalization: Fusing Normalization into GEMM and Attentio</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532101&amp;idx=1&amp;sn=650409258c812986dc72a7a458c2e170&amp;chksm=9ed7c4fcffa0ac6d01892941547ac1795a897ff636c4dc314e504b44539bff1c6bd52dc937b4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KahFH6aGImib2FE7dqsNvDGYicLCS6G9URNt04hz5b5EpwuJRTibKtm3bDs3icufo6xmRZ2wrLEo7t5a8mqCQibwAnNwQaxvWDiciaQgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：https://www.zhihu.com/column/c_1938664963049763058 作者杨远航，连载中CUTLASS 笔记 (2)：混合精度 GEMM kernel本篇将介绍</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531132&amp;idx=1&amp;sn=bc259e3b0d9535054e2b77eaf89ba854&amp;chksm=9e4bba8ce80bdd45c6718616e1e075849b0a67c234a4c9331a58454047b2f82c6631f87a5b96&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Mar 2026 23:18:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPU-MODE Leaderboards之nvfp4_gemv代码阅读]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KblX97N1MoMw25lLxKCRnoibBJTqqwBNQvCWb6BlCVjia3V6o6wUjlNJcvjZlG9Dd0iaY2VwpFyuS8uZaOZRI38ENllY7qfzWwsMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda 。0x0. 前言GPU-MODE 会定期搞一些 kernel 竞赛</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531098&amp;idx=1&amp;sn=b788ddcbeb7e1f39ac4d58329327869f&amp;chksm=9e1558e42296193486f2b56765b08eacf220d236a9dd5528c842abea3cdcdee2135c6c5395a7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 23:39:30 +0800</pubDate>
     </item>
   </channel>
 </rss>

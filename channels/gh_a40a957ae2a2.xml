@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[5亿Token使用后的真实感受。 早上看了一下DeepSeek-V4-Flash在OpenRouter上把霸榜好久的MiMo-V2.5挤下去，周使用量是6.92T tokens。 最近几天，我差不多烧了5亿Token，在不同场景中测试了一下DeepSeek-V4-Flash正式版的， 说一下结论： 相比Preview，Flash正式版的Token消耗明显变大了，主要思考内容更长更久，但得益于单价和缓存命中，相比于其他第一梯队的模型依然便宜得有些离谱。 复杂工程上，面对跨模块重构、模糊故障定位这些，能干，但经常会沿着错误方向连续推进，虽然榜单上超过GLM5.2，但我一些复杂场景，还是5.2效果更好，不过5.2贵呀。 视觉审美相较于之前有提高，比如做网页、游戏或者UI时，但比现在国内顶尖的原生多模态模型K3、Qwen3.8还是有差距的，比如在复现一些复杂3D渲染的时候，效果不如这些模型。 我还是觉得没有原生视觉模块，靠外部的理解，转成文本描述，中间是存在信息Gap的。 想说，DeepSeek在做多模态这一块一直挺一般的，识图模式我有试过，<a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="msff373l-4bfkdh" target="_blank" href="https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247500431&amp;idx=1&amp;sn=c33d0aa05d454798bb42b69b429d37e7&amp;scene=21#wechat_redirect">DeepSeek睁眼看世界了？闭上也行。</a> 梁圣自己说，多模态对产品和C端用户非常重要，但对于智能上限而言，不是当前智能演进的主线。 可能追求AGI的DS，可能更多精力在纯文本模型上？也可能本质原因是没有那么显卡资源？ 但是，现在真正干活时，很多人已经离不开多模态了。 页面出Bug，直接截张图；样式不对，直接圈出来把参考界面扔进去。谁还愿意花几分钟，把按钮偏了多少、颜色哪里不对、布局哪里塌了全部描述一遍？ 所以，V4 Flash正式版能不能到夯？ 我的答案是： 考虑到性价比，绝对夯得不能再夯，绝对斩杀一众模型， 但绝对能力、复杂工程上，仍然还不够， 也许V4 Pro正式版，能打爆现有的第一梯队模型吧～ 已经十分期待了。 PS：DeepSeek官方缓存命中真是太夸张了，在Agent时代，超长context需要复用，缓存命中决定了真实百万Token的真实消耗， 这可能就是昨天橘子老师说的，其他厂商的DeepSeek价格是官方10倍的原因之一吧～]]></title>
+      <description><![CDATA[<p>5亿Token使用后的真实感受。 早上看了一下DeepSeek-V4-Flash在OpenRouter上把霸榜好久的MiMo-V2.5挤下去，周使用量是6.92T tokens。 最近几天，我差不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501405&amp;idx=1&amp;sn=bd8f7bfed2041bb575e17bac1e029b82&amp;chksm=cea65d222bf64a706a32d51921de12080bedf1ebf3a57e54d9672eb6257ba00ff90ec4589e27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 13:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen3.8-Max正式版来了，彰显后训练威力～【附实测】]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRPB3AfgkSRKbUWAicGBWnS0QMRGL3BaYx9tfSAIOGgaNOhd8ghBxTxzVW7YOzicUrqTJnfl8t3xG5VJvia2QjsnDjEtf8yFHBiaysE/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。天下苦Qwen不开源久已！上次的开源，还是4月的Qwen3.6-35B-A3B和Qwen3.6-27B，算下来都四个月了～不过，今天Qwen3.8-Max正式版发布，离模型开源</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501403&amp;idx=1&amp;sn=230ee00b319d20cb63fb06c826382e48&amp;chksm=ce116e3cda5bc81e442eb85151570baa1848eb662e8aa912dd7bdf46d3894c7b88d862c658a5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRNcXiawKhebR0Jwcwa8xhdldCrRjoWT2YB3tCfEKsYpRV3sOib75EIndUx5j5yutYqS32RuzTZpXabwLmoWs88LoCQgxHl3YuzbI/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。DeepSeek-V4终于发布了，开源了两个模型DeepSeek-V4-Pro（1.6T，激活49B）和DeepSeek-V4-Flash（284B，激活13B）。HF：htt</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499488&amp;idx=1&amp;sn=d38d7720c5e83c37a7d6d3916bca5ffc&amp;chksm=cef5a42acaead685219b2180a82e11d1f8aef03a565f6975899cf11d030eb3fce6160b6dd325&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Apr 2026 15:33:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯开源Hy3 preview模型，看看效果如何~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRPR1nlpaODJshiayoXOVaICegoRibZrtOceI9fwz3iaHAprPuLz1pia1aJTQQBzkvqn55Sl4U9K01gaiaKRmP9uWMhKDyR8FicOK7lmI/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。腾讯今天发布并更新了混元Hy3 preview模型，其实不想测，因为上午小米的MiMo-2.5V也更新了。但是耐不住群友私聊催稿，吃完晚饭爬起来，测试一下。Hy3 previe</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499433&amp;idx=1&amp;sn=b32cdc741280ef61eda7b8ce004b49b1&amp;chksm=ce3cc59a1e4a48f98cca689a460b65ec91025b7f24f309003a91b4257ad960cae46f981d6618&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 23:59:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
