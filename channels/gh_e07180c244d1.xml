@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[微软开源Mage-VL：编解码器原生流式多模态大模型，砍掉75%视觉Token，推理提速3.5倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9NLzUjT4ga1XlwicyAqwtcjDM5PjxwaC82rQfnD7YvXGzaRibJdcpx0umrauVh5GyfPjeCoHyIMqibhLQLwpEjWIJ2W1Z9ibHsYR0/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能领域有一个著名的典故——“莫拉维克悖论”（Moravec's Paradox）：AI 能够轻松解出复杂的逻辑题与高阶数学，却在人类本能般的实时视觉感知面前举步维艰。在多模态大模型（VLM）处理</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663779&amp;idx=1&amp;sn=9bd02ad572ea5ee07d74ac52448524b6&amp;chksm=9704317480372a868d820fcf270924b10be4db4397de2645a134cea1a312dd55b5eb85f76d63&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 23:44:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TPAMI | 北大 &amp; 清华 &amp; 复旦 提出 SparseVLM+：修正注意力偏置，让「文本引导的视觉稀疏化」更精准]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWicu01DEyFHjAIA5ZNwMFZosp93iaKkekqTl2wbFTdKkicYyubsN2FyeEhceZYLelE9ClIFcsEQ0HExek44Pic38mkwaIRyvS7WrWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是 ICML 2025 会议工作 SparseVLM 的期刊扩展版 SparseVLM+，已被 TPAMI 接收。会议版本中研究团队提出了免训练、文本引导的视觉 Token 稀疏化框架；期刊版本在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663750&amp;idx=1&amp;sn=5635064cb147aee1fdac8b18cd49087d&amp;chksm=974ea30d8308b7d1fdcf4f3712c3bd95da4d14bab7893726db2ec905c92577a4fffa90871b1b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWibpFEKp7eE8JLa7Xict81fllMHtcrMgkjqH2wM0sQlrC1TczTrK8P3uEFNDvVz0ZcjuViaVSw7PsOwQrE97ptyIbibXByDKdRfeicM/640?wxtype=jpeg&amp;wxfrom=0"/><p>在文生图（Text-to-Image, T2I）领域，大语言模型（Large Language Model, LLM）几乎成了标配。但现有的主流架构里，动辄数十亿参数，其实只干了一件“体力活”——把用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247662277&amp;idx=1&amp;sn=01f13bc3613009d8fb7c8ebb4b1bd4a9&amp;chksm=979c1f35227e7a98efd7d5e41e2233fa601748fe0fd4f9eb916ea03d992d4d85b754625e8de3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 20 Jun 2026 23:50:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 Oral | 哈工大提出S²AM3D：首个尺度可控的三维点云任意零件分割模型，性能提升28.5%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWibwA3nOKPUPAvn0GEwX61fG54XYCBokwwB5Of7qYcMTElmAQ6c9cNWiaUwneFb82ns0aQSg3nmB6BHChNWVMbWG2ZxWDS006GcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>三维点云交互处理中，由于缺乏尺度控制而带来的“指代不明”，一直是交互式3D零件分割领域的痛点。比如当你用鼠标点选一个车轮时，算法可能根本猜不透你的心思——你到底是想要整个“车轮”，还是只要外侧的“轮胎</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247662260&amp;idx=1&amp;sn=1d3331194b671b8fd1202fc8f122b43f&amp;chksm=97d39ca9d5bdfb014187ca0c42a14904e27e87b6faacf1f15ac2cf77a0f50e606b228d9ddcb2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 19 Jun 2026 21:19:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
