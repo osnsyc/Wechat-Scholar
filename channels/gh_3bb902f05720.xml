@@ -10,6 +10,18 @@
       <title>gh_3bb902f05720</title>
     </image>
     <item>
+      <title><![CDATA[TPAMI | 北大 &amp; 清华 &amp; 复旦 提出 SparseVLM+：修正注意力偏置，让「文本引导的视觉稀疏化」更精准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJBice4zovoGd5RVhGwhuNwdM9JKMnlpBrzyqy7I8GojvzQqic9dPQPWjDqOn6yzemEiaRmLwKGSdMgWgU0ics9ia1MbVV4KvRMn9glE/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨张袁来源丨北京大学计算机学院编辑丨极市平台极市导读 主流方法用注意力分数决定删哪些视觉 Token，但 SparseVLM+ 发现注意力本身被位置编码「带偏」了，文本会</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247719167&amp;idx=1&amp;sn=965287a1a62fe1bc0ccb2748a914b39e&amp;chksm=ed3f39c74fc599135f9ee950d8c79e4aad60959c64226f566ac3eb215e3f48ccc05344e89b15&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯 Agent 记忆系统开源实测：10 秒记住你的习惯]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJB8icbpbw3ereRvdSQ3HAibx8qeOATDbrUCiaoCHDicLicPdZWIC2YOt0OpDYrNTH81oMub96MhRjA5wuA3Ryo9RBvQjOeAFKmwV5p8/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨李秀奇来源丨Datawhale编辑丨极市平台极市导读 腾讯把 Agent 记忆系统 TencentDB Agent Memory 开源了，GitHub 已经 1.1w</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247719167&amp;idx=2&amp;sn=3689dc0c3d9186fcd5f8f1f1d656cdfd&amp;chksm=ed0d68007cb6bcf7f13a239919f0465d3b19c4bfdc8547b6c805bc4d392d9e4705cdbd1fb12d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 22:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[极市平台十周年开发者纪录片首发「我与CV这十年」]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJD6SQ8g8H6kl3B6Vzia9I3ic32ia689ibxEG50YTmRmKOje0yxy4IibBZXdoSMNYXiagtPNXPNRiad5KXIKm7vw7p6zt5NDg75GSFCdac/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台十年里，CV从实验室走向产业，也走进了一批开发者的人生。“有人从一篇推文第一次看见CV世界，有人在比赛里理解实战，有人因为一篇技术文章被看见，有人靠CV赚到第一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247719161&amp;idx=1&amp;sn=25f8e5a9b4492be3df517564eaf3364b&amp;chksm=ed29e419010648f2f05e1d40b260e9df21bd59e4ce110ba35017462b8303e6b6045300ae1584&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJB3roOc1n6YITmjiampdOibeG6HnlHqo6CAHeLHXdG4BcFDq886j7Vhq6OTsj5zOUgukkJEhxic4iceXiaj4pdVCSibzmRNk3ddUSccY/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台作者丨荆纬策划丨邓莹莹编辑丨极市平台极市测评专栏本专栏由极市平台企划发起，每期围绕真实工程场景精选测评主题，并特邀具备一线实战经验的资深开发者担任测评人，以亲历者视角开展开源</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718677&amp;idx=1&amp;sn=43965e19241f0a0f168c5d4100502960&amp;chksm=ed3b7e18c99965b0e9478959d519587f5ed0ef628df9d7160a56729450f2c61e8e4e8bc7e4cb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 06 Jul 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2026｜让多模态大模型学会带着时间思考：北大与华为团队开源TaRO框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ruv2mHSiaSJBicPibqdpGuon9xOoQiaHkgaH4wf8R98lpmDzTnexibyJOEq4KNnn2lMxOw82icaVLXgHhdX9SWI1W51MgibZhJk7rLe7798zvNXQHY/640?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台来源丨机器之心编辑丨极市平台极市导读 针对现有多模态视频大模型推理流于表面、缺乏时间感知的问题，北京大学与华为团队提出了全新的时序感知推理优化（TaRO）框架。该方法通过模板</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718601&amp;idx=1&amp;sn=92c285f74fffe39564861cef34792ab2&amp;chksm=edaee51630a60b3883d86d811581d837afebfacec0f77c1f4ddab95e788cfbaa8b4df2f203cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 22:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯朱雀实验室发布AI-Infra-Guard技术报告：首个全栈 AI Agent安全红队框架分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ruv2mHSiaSJDjUfzjuooYRVCNX7icvScqnULP4O5GGayMXg89wMc0ljaNia1REEhMn5lH1l1dQFkcVxNpicSZsh9WOyfDqafbDianYfPqoOyx13E/300?wxtype=jpeg&amp;wxfrom=0"/><p>↑ 点击蓝字 关注极市平台编辑丨极市平台极市导读 针对传统安全工具难以应对 AI 基础设施复杂性的痛点，腾讯朱雀实验室开源了业内首个多层 AI Agent 红队测试框架 AI-Infra-Guard。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247718601&amp;idx=2&amp;sn=8ca2733bbaaba2589af4bca9cf9d9daa&amp;chksm=ed18ad972741264bbe790d9892b42e7d4036e67d372aa34310086a8e0945e4b031ae30d404f1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 22:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
