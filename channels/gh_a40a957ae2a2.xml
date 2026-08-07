@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[完蛋了，我用Seedance 2.5把AI博主们拍成恋综了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROfMUGUuk7gEteWPN5XEqibA6NzxVhyCWlgRkHpD6NtqAgeNJYnRuJOr0P9LDZqyiacFwjH4kmEud2WB98P8Vx07wMT3x2TpdMus/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。上次我不是做了我是男主的AI出海短剧吗？评论区竟然有人在许愿，咱们满足他，哈哈哈哈哈！恰逢Seedance 2.5出了，大家都在刷屏，我先拿我那帮 AI 圈的好兄弟们（甲木、苍</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501518&amp;idx=1&amp;sn=8451775aaa4a9f5c59cba28801205c2f&amp;chksm=ce2fe0f45c03f2379434530830d08983713e9bb62011fdd2dd1afb66eb41553f704380fb989c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 17:04:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[挖到一个宝藏级开源模型，太夯了！直播画面可以实时修改啦～]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRMnqnQYSL1ZcTHUYBySWZ10pMD9c9Uib29vWm03qlN5uGyvle03fe7xWppWUH7F7V6mMePHiaib57b5j4a1UTsMbY631Zib4qrJwd4/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。昨天发现了一个宝藏视频编辑模型-JoyAI-Video-Edit，是京东开源，没想到吧。注意，它做的是流式视频编辑。摄像头画面一边进来，模型就可以直接根据文本指令来修改视频呈现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501457&amp;idx=1&amp;sn=4509d8d7b72c8123b6bc8a4803a16c6c&amp;chksm=ce01a9ae25e930d20f926f102d775dce9e78431d7890a726d6bef7bc8623308059571f66b2cf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRO3iaRcfnqliaW9SgDrbxj35ib4hQQSNroDD8RB23da7FvXYtzsmdkA4X2mTJv7cm3nRn3vJPFGk2XEGxicrtd1IgCibu2CyQz8eg3I/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。大模型上周也是真卷，Qwen3.6-Max-Preview上线了，Elephant模型被认领了，Kimi-K2.6开源了，小米MiMo-V2.5更新，混元Hy3-Preview</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499542&amp;idx=1&amp;sn=47360f24130db42aaad9d333506c9039&amp;chksm=ce016c98c64e9aba013d3c431ab119de04efe57158983097a3f9e67e83f1c9691bea2a5ab226&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Apr 2026 09:29:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[昨天发完<a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="moed8il5-jh4y25" target="_blank" href="https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499488&amp;idx=1&amp;sn=d38d7720c5e83c37a7d6d3916bca5ffc&amp;scene=21#wechat_redirect">DeepSeek的解读和测试内容，</a> 群里细心的小伙伴问了一个问题，就是测得是high模式还是max模式， 很明显是high。 我相信很多人在一手测试的时候，都不会注意，或者说用的都是默认参数， 因为我在网上搜索的时候，好像没人提这个点。 我今天又测试了3千万 Tokens， 使用max之后，在coding和agentic方面，有了很大程度提高，尤其是coding方面。 如果详细看论文，你也会发现，max模式下的各项分数比high高出一大截。 网上一些说工具调用和skills无法使用的， 我在max模式下，也没有出现。 一些常用工具设置max模式方法： 如果你用claude code，可以执行， claude --effort max 如果你用openclaw，配置上增加， "thinkingDefault": "xhigh" 如果你是代码调用，你直接增加参数， reasoning_effort="max" 详细可以看官方文档， https://api-docs.deepseek.com/zh-cn/guides/thinking_mode 重新测试之后， max模式下，DeepSeek-V4-Pro的效果还是可以跟GLM5.1、K2.6这些模型一较高下的。 之前有问题的case，都出来了！ 虽然比国外御三家还有差距，但是在国内绝对是能打的了。]]></title>
-      <description><![CDATA[<p>昨天发完DeepSeek的解读和测试内容， 群里细心的小伙伴问了一个问题，就是测得是high模式还是max模式， 很明显是high。 我相信很多人在一手测试的时候，都不会注意，或者说用的都是默认</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499494&amp;idx=1&amp;sn=527a44a4fa98bfac6c90c0ef23edb659&amp;chksm=cee1a09a1490e24efad06beda679a6efe6d5e225ae322d8aa7d15efdd955f25c5e12f8327123&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 25 Apr 2026 21:25:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
