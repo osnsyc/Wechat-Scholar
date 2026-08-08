@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[ECCV 2026 | NeoMap：无需训练，从视频模型中“找到”新视角]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibyVAksYzSv2uEGykicAOgyzWjbwrj34SrjPYreRic1lK0jXdGBLza35WQcicEjVu4dbibQvIr88y3YFEyhfyJPrVIjPJfMxWxplTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>从单张图像或单目视频出发，NeoMap 不重新训练视频模型，而是在模型已经学到的世界中寻找正确的新视角答案。当相机移动到“看不见”的地方给定一张照片或一段普通单目视频，我们能否移动相机，生成真实、连续</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663903&amp;idx=1&amp;sn=9b820f48a3ec4d15cb65f70631eda87f&amp;chksm=9776e4356bc4af6b4df083dbbb5f944f8e69336bb039799bc1a2c08cad227bb5ebe8a5e930e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 12:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NUS提出One Anchor for All：仅更新0.03%参数，用英文数据实现统一多语言多模态安全对齐]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8CSTC8fMQuh5fgulOEbItI5Uy3SVOy3WEncD1A7LOIEU8RIKp6V5MbkP1qKstzNaTOmQTGeaZPF4qKMVwqccaBDOmUKsxic2bc/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大视觉语言模型走向真实应用，安全问题也从单一的文本越狱，变成了更复杂的组合攻击：危险意图可能藏在图片里，也可能被换成模型相对薄弱的语言，再配合一段看似正常的指令诱导模型回答。面对这种多语言 × 多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663902&amp;idx=1&amp;sn=326aa0946d14b5739dffd8a4e4be2949&amp;chksm=972da51e75a1def6bece4e460bf60feae918ce778a828484e73d9be027112fdf8ff84742f89a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWib5iaRe3kysETicFe4TmqLCXgtYQbwonG2icibvENmUibgxlibOgPicRMr50JCpZuNbu426mzB5zUwkl2iaApECBOYCHU1MsHT6221su8I/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇工作由香港大学和字节跳动 Seed 团队合作完成，香港大学博士生郭瀚中担任第一作者。如果说文生图模型的目标是“从无到有”画出一张图，那么图像编辑模型面对的任务往往更像一次精密手术：该改的地方要改到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247662523&amp;idx=1&amp;sn=a0399f2b5cff08acdbad3ab7b297051d&amp;chksm=97a0f37832370aab99a323d0b544af4b175c732b1c1e04c9b4957f73047d2048afa88165b6d1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Jun 2026 23:28:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从奖励最大化走向分布匹配：华科大等提出扩散模型对齐新范式 TMPO]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibicMiamwwQPB4mGCn8LR50VibePhsKB8nU6AzbvRG4ib7ctKlGxPib3XWVo3VYuKQdR7NQBlPMeR8THVRQz0a15kYmp1MU6Xn62olI/640?wxtype=jpeg&amp;wxfrom=0"/><p>用强化学习（RL）来对齐扩散模型，已经是生成式AI领域的常规操作了。无论是让模型更听话的提示词对齐，还是提升画面质感的美学对齐，RL都展现出了巨大的潜力。但我们却常常看到这样的现象：AI画出来的图，虽</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247662485&amp;idx=1&amp;sn=a35a337ca4aa80de5dbb81340a9d81d1&amp;chksm=977d2e413c2679cd632fbe360da3f7766723410f6a91813fee6a40f3270ed096dd4b42226027&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 23:58:06 +0800</pubDate>
     </item>
   </channel>
 </rss>
