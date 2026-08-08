@@ -10,6 +10,18 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[智谱&amp;清华唐杰：LLM Memory最新全景综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwDuvffFt3tYBQCDt5fYlIqicXwEvqEOo4kY2jlH3ZmIibqvJpgSTvKyFDkibgeqQiczOynlWqXXicf20uh0VPDRqd6TLeE3ibo0OZCv0/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！过去两年，记忆这个词在LLM圈子里被用滥了——KV Cache叫记忆，RAG叫记忆，Agent的向量库也叫记忆，Titans的测试时训练还叫记忆。每个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509715&amp;idx=1&amp;sn=5b8305e9a4cdc01818802f4ffce9be97&amp;chksm=c30bbd09c5d86083ee584080557b0903f4a4a36610e87fbfd146103f9f6af7e2fdd01e9da3eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 11:38:45 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek-V4-Flash接入Codex与Claude Code一手实测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBxicf9DmmA2t5SogXt140VFZiaaPEhgrSD0iadsaYdkMnHNXOjaoW1qibO41A2MqibMT6bRiaahibroCkO19Bp2yET7OqvRtldwg3ABw/300?wxtype=jpeg&amp;wxfrom=0"/><p>近期，DeepSeek-V4-Flash-0731发布并开源，284B 参数仅 13B 激活，Agent 基准反超 V4-Pro-Preview。Composio 做的一次实测：他们把 DeepSee</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509715&amp;idx=2&amp;sn=e9c05a9d9ed575833dd5d32b8bc015c7&amp;chksm=c30eb1ebb7d9428c63dab87fcf80b713223fdb1567887e243e7a8e450b8e433dcd2994d5db15&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 11:38:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[自进化机器学习Engineering来了，清华出品]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwB8bdeLN6OJS26icVhKlUyTPM3PbeB8LovRKnBsCmvr2SnV4qTyQ9J5xR5F1xYXPbZhibyPFicH8y8NZKbGGicwHLS6zUsua2LicViaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！继Harness/Graph Engineering之后，今天分享Frontis.AI与清华的最新自我改进（RSI）机器学习工程（MLE）。开源了一个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509694&amp;idx=1&amp;sn=a5cdc4d95ef0087d7a41b553ac6d30fb&amp;chksm=c3327f33187d6f8bbc31e0d6db2457e078425266006f869212e2639bfe082e6434994fc24b31&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/12P3TZE7WmRHgaERVQbMNeUeza5qhKCCyj3KnicYib2tIum419ibnicBElZSRfcEria9gBaeVWl9HWgrPYKZhnaibzWibkQwNZN4AC9LDZ8aYkicKkM/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是小扬。今天为大家分享的是关于RAG检索的新论文。RAG系统有个老大难：chunk切细了精确但搜索空间爆炸、又慢又贵；切粗了快但一个chunk混进多个主题，cosine相似度被语义噪声拖垮。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508772&amp;idx=2&amp;sn=8f87b5e883384c416507a6680252f3af&amp;chksm=c38a8dcc069f04b1503f4ecab4850885a44f51519724e3cf17d877350298d915ec081fcd6578&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Jul 2026 11:27:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一篇Loop+Harness的自进化Agent最新综述]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBsVvXGNxP7YrouYjnJy4NBo7xR1TDQCiahxfhIzsImIF8KQsNDHI2KlKTDibkpzLK9TZ5Q7eePTDaqIucBRUicwCRp2J0WFIicw0E/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！一个在你睡觉时仍在运行的Loop循环，并不自动等于一个会学习的Loop循环。经验能否在每一轮迭代中存活下来，完全取决于它最终沉淀在哪里。今天分享一篇清</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508769&amp;idx=1&amp;sn=1c079514aee90450f55fccb41c7ec282&amp;chksm=c300d6aa883453e0bb8ef3f35ba44e329c1dbbebc771f1e262966fa6b5f283de07ca2dca1080&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 08:23:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重磅！DeepSeek开源最新DSpark技术论文]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwD3sQNiawKdnxmnObSr0o3DfGn8rfTCjpLS3q7pjzHOIXHbh2vHdzod3tcJEbjsBxz2powkpdrJEZgxuytbDNS8gkCt3RdUVgjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！DeepSeek 开源了自家 V4 生产环境正在跑的推测解码框架 DSpark。DSpark技术报告也公开，梁文峰署名。在线部署中，DeepSeek-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508752&amp;idx=1&amp;sn=3844947e89a9e343a6a94d6d78a2d105&amp;chksm=c38da47a94847142d605d3d057bb949499a347c371f350f481dd8fcaecf6a4c0753657f4798a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Jun 2026 08:33:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
