@@ -10,6 +10,18 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[搭一套100%本地Coding Agent最佳实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwCWAjbwfVjZebNuGZGCStiaYGvwpj5t7s1vYOovzKhLoprJGE1t38icoWRcL3C5ib0cPWCZ3TNnxpiajQEFBZia3nicq4uicfTMnHqTAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！继上篇：Coding Agent（Claude Code与Codex）六大组件拆解，今天分享一篇完整教程：用开源工具 + 开放权重模型，从零搭建一套完</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509760&amp;idx=1&amp;sn=2e9c080a4be8953cc69838ee621d0529&amp;chksm=c352d9a52a5d9382bbb4b1ecc3012148c6de9edc0a00a70a9cc584397adfd60471fa649bf4f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 11:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[炸裂，清华连发2篇Agent Skills]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0DOaHQeiaNPFwbDRDhTdw0Faqwib5c6heOgo4BQFqBRAcrxUQQQ4tWOiaSwkGlvS3g8sdibfpOA70XLnlvVia4IpQKiam1tN9ojo8epxpzGORvcns/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是学姐阿玲Agent Skills正在变成 LLM agent 的装机必备——一段指令、一个脚本、一组依赖，装上就让 agent 多一项本事。但Skill一旦火起来，两道难题立刻浮出水面：技</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509760&amp;idx=2&amp;sn=8cad404467811af0b0bc05271008e7e4&amp;chksm=c3c4f822c8963e2656e1dbab826410a8e8c962ea5d0775aa75a83be6b5476961a859ff5f57f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 11:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[智谱&amp;清华唐杰：LLM Memory最新全景综述]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwDuvffFt3tYBQCDt5fYlIqicXwEvqEOo4kY2jlH3ZmIibqvJpgSTvKyFDkibgeqQiczOynlWqXXicf20uh0VPDRqd6TLeE3ibo0OZCv0/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！过去两年，记忆这个词在LLM圈子里被用滥了——KV Cache叫记忆，RAG叫记忆，Agent的向量库也叫记忆，Titans的测试时训练还叫记忆。每个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509715&amp;idx=1&amp;sn=5b8305e9a4cdc01818802f4ffce9be97&amp;chksm=c30bbd09c5d86083ee584080557b0903f4a4a36610e87fbfd146103f9f6af7e2fdd01e9da3eb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwDrLL7HasTLzMAs5zLo0CY2yxjWywVUGh91uRYiaMCia0dcJIBmlP6qn68P5ZApRbQZgiasq3AUbjkUlmHex0BISa1RLT5bVWtgHU/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！2026年6月30日，AI圈发生了一件巧事：Anthropic和OpenAI在同一天、同一个方向，各自放了一记重手。Anthropic端出了 Clau</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508789&amp;idx=1&amp;sn=daeca0a79793dcf618729896fb80eed0&amp;chksm=c3b0b938c79e2e0bcacdde8ca4f60d444004f7446aea0c0c612fb60b650b2a8e0a5b5bb98a96&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Jul 2026 11:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[封神！这5本书彻底把Agent讲明白了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBj28ky09E8ezS1tiasPaSo7mKiaKqpxfecqhictV1ks8Hf8BZhbUW4nbPaIuotEKBUGfb4OfKpqKtVzLlHobrMNWlMBLEoBeJQB4/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，清华团队开源的PilotDeck，将Token成本狂降70%，对Agent的讨论又被推到风口浪尖。它有意思的地方不只是自动写代码、做网页、跑流程，而是开始解决Agent落地里的硬问题：任务之间怎</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508772&amp;idx=1&amp;sn=22e6c4ce6dbd287feea8251681afcc36&amp;chksm=c398aa0d8a096d0e3d87596e37bf426894d7e46d22ab9b547e7bc6fa69d3164ad4bf11ebdbdb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 11:27:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RAG创新了，MCompassRAG装上了语义指南针]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/12P3TZE7WmRHgaERVQbMNeUeza5qhKCCyj3KnicYib2tIum419ibnicBElZSRfcEria9gBaeVWl9HWgrPYKZhnaibzWibkQwNZN4AC9LDZ8aYkicKkM/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是小扬。今天为大家分享的是关于RAG检索的新论文。RAG系统有个老大难：chunk切细了精确但搜索空间爆炸、又慢又贵；切粗了快但一个chunk混进多个主题，cosine相似度被语义噪声拖垮。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247508772&amp;idx=2&amp;sn=8f87b5e883384c416507a6680252f3af&amp;chksm=c38a8dcc069f04b1503f4ecab4850885a44f51519724e3cf17d877350298d915ec081fcd6578&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 11:27:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
