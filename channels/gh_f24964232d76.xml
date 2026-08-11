@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[基于 Agent 在 SGLang Diffusion 中让 Torch Compile 完全退役，细数 Torch Compile 七宗罪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYG3xyugYxYdNWun66dVsu22VibHoLR2fZYDGxGyqe79RDL9icHEH1KkcRBLAiac3nWWRZMzia2tdh28BLmCCtaaL6mohpFNoJzluc/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 核心论点Diffusion 领域苦 Torch Compile 久矣。从 Diffusion 模型发明以来似乎 Torch Compile 一直在各个 Diffusion 模型中进行加速，P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532133&amp;idx=1&amp;sn=17965ee38abbbbc7ce50f2630cb9e43b&amp;chksm=9eadf6a723a5f07068eb82c097964b030c3357aa4afc90c2dfee88e8030b4e4acd4dffe98768&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Aug 2026 18:15:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[生产环境实测 TPOT 狂降 48.8%！腾讯混元三大算子进了 SGLang 主分支]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/JGW0bUOic27VQHZuB6AazDrsyibd1PpltRyKvo6QyTLiaTngAoQiazB6lROAQWIxokOOnaZEAaxT8kCpgMfkCva5FHIMgFmku3h6e2P1zUG7vqM/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯把自己生产环境里跑着的算子库，搬进了 SGLang 的主分支。01发生了什么8 月 7 日，LMSYS Org 发布技术博客：腾讯混元开源的算子库 HPC-Ops，三个核心算子（Attention</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532122&amp;idx=1&amp;sn=085e6ed10271d04e5693ad65aa4302f6&amp;chksm=9ed2ed7f46aca9806816d3d7ee10c6ac74e12df9d4a1c32567c979d669fbdcc8c87d920dc4b3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaBM85PQ20ZKphFmAO4gy3hgw10mclX4Lwh48nnIQGWl28qUDo87heib9Et9ar2duuibXUplKlSt2aE5kUmQIfA7BE6XciaYsicQEU/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：https://www.zhihu.com/column/c_1938664963049763058 作者杨远航，连载中CUTLASS 笔记 (3)：Tiled MMA本篇将解析 GEMM 算</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531187&amp;idx=1&amp;sn=0db7b2e0ad6130c7cea456fc35c4da65&amp;chksm=9e8467df063e4c863ee6440fb76272469bc07d516bd31eab86203531ae6c57c4ea1a39df514b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Mar 2026 22:36:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[chardet 从 LGPL 变 MIT：一场 AI 重写引发的开源风波]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbnW3cKicIJARjT2gJFGXq6YPKtgicpp73A45AiaqduFbMticmzldAmblaXvbP1pLTqvbprtrNqx0uaRdwheuTye8H66qstMK1kmYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言相关帖子：https://github.com/chardet/chardet/pull/322https://github.com/chardet/chardet/issues/327</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531165&amp;idx=1&amp;sn=2cce8bbb64847dccc9383cddb9e9e381&amp;chksm=9ecb2e1e5a0ccbd5c5d84c1641c19a4bfd0db4c80ac20b8ad8cfe297da9191e14ed194a09519&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Mar 2026 18:09:36 +0800</pubDate>
     </item>
   </channel>
 </rss>

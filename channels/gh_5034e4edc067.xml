@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[小扎又开源了：面向 Agent 的 30B 模型，24G 显卡可跑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnqr46cxTDBvclf5x1bTlvJGvWorwVGYXfBZjydNVelHdviaIybjuhTIv5ZjKC7K7LkVhXeNGqR536LHNmxLfbvZHfGWahtdbhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Meta 今天开放了 30B 稠密模型 Muse Glimmer 的权重，小扎随后在 X 上亲自报信，强调它可以在本地运行。他还预告，Muse Spark 1.2 也会随后开放权重，并在末尾点名了 A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453318&amp;idx=1&amp;sn=ad761946f80f6f3daf0903cbf2254315&amp;chksm=bf56e8ad151c1d39cfc7a5424bc5b9cb60e996fc33470ffee4b4256ee1c25fe0b089c2c0b6bf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Aug 2026 22:31:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[给 DeepSeek V4 Flash 加了一双“眼睛”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvl5oEwnMicTLU3bPvr9tx9BqeRcRDib2ojjqpD0WsNPuIX4bLrrb5rNEHnsI13cgfJP8uXyzGDlVYGU8yc3OWAKokkfyKjaKDAoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p></p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453300&amp;idx=1&amp;sn=996594141c4ebe0b78f27602add99366&amp;chksm=bff346cdcf41026c998453e2705742315878ffdb73653718389237929193f6b2629c99005b5a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvm1L50fTaHwlNNjMXu0Sl0rTux1hvJhj5MTQ6Jgg055C7tOJCFfsB8CpcuoJmZibTCe8wKenKSojEED1cx1ib02xiaUG3M6wv2cXc/640?wxtype=jpeg&amp;wxfrom=0"/><p>DSpark 是 DeepSeek 为 DeepSeek-V4 设计的一套推测解码系统，目标是在不改变目标大模型输出分布的前提下，让线上高并发生成 token 更快。论文要解决的问题是：传统自回归解码</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452455&amp;idx=1&amp;sn=8a4de775df2d1b06ab6a8d7a9402c67d&amp;chksm=bf14e6bdf94ace17c0141dbe7945fddff3b7cca0fdef907bd3c1aa1ed46cdd73557c7ab9e733&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 29 Jun 2026 18:36:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek DSpark 详解：10 个概念看懂 V4 推理为什么能提速 85%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvl6EXJQkNB0SFZcxYEaYJLEDZWGiaVickF1DtdiacyTgo2o0A5nia8WocEJxiaTaFgJCkmkLaIuInGjTHHYoHbBKpEOaiaICnuJrjRqo/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek 近日开源了 DeepSpec 代码库及对应论文 DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoreg</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452441&amp;idx=1&amp;sn=3eeabb13f99cf4e629367e99116ddc34&amp;chksm=bf3eddece8a392c554d00c06f1b38a77af0812bceb1aeea08acc608fc8a000a4ae348e46b749&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Jun 2026 22:47:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
