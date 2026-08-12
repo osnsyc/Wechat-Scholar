@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[腾讯开源的这个Agent 记忆系统太强了，Github已经19.8k Star了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRPKgvaW58Xk5Wg96BwqUhlEI4zTvnlKsRDdK4LS9YjXFz5WeknAianxOOSWYlUtcydA6OIASHabyiczv69cZHFoichiawffHXTrqac/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。我在5月初的时候，分享过一篇文章聊聊 Agent 的记忆系统，到底应该记什么？，里面有分析到腾讯的一个开源项目TencentDB Agent Memory，那时还刚开源不久，G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501582&amp;idx=1&amp;sn=42a1072f0cfb3062a74a22243fb4e4af&amp;chksm=ce9a134c676a8e7f8f6f168a25769a6cf70154b40093b95c26100d71a16211945c89ec557fb6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Aug 2026 13:23:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Meta真的好久没有声音了，就在昨天，开源了一个新模型Muse Glimmer， 还有Muse Spark 1.2也马上要开源了 Muse Glimmer，一个 29.6B 参数的Dense多模态模型，支持文字和图片输入，拥有 131K+上下文。 模型主要面向本地 Agent，专门训练了多步执行、工具调用、代码任务和失败重试。 Meta 还提供了两个 4bit 版本，配合 DFlash 推测解码，在 RTX 5090 上推理速度大概233.4 token/s，Apple M5 Max上推理速度大概50.2 token/s 从指标上在 MCP Atlas、DeepSearch QA 和 SWE Bench Pro 上超过了 Qwen3.6-27B、Gemma4-31B，更像一个明显偏向本地 Agent 的模型， 难道，之前那个开源的King要回来了？ 不过，Qwen3.8-27B马上要开源了，大概率meta又会被按在地上爆锤了， 还不知道Qwen3.8-27B整体效果如何，但总比3.6好很多，因为3.6真是一大堆问题。。。 最后，把这个月的已经开源的模型做了整理，新增16个开源模型， 详见，https://github.com/liucongg/awesome-open-llms]]></title>
       <description><![CDATA[<p>Meta真的好久没有声音了，就在昨天，开源了一个新模型Muse Glimmer， 还有Muse Spark 1.2也马上要开源了 Muse Glimmer，一个 29.6B 参数的Dense多模态模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501578&amp;idx=1&amp;sn=1ab2513367c3f43ba8d19902960485d0&amp;chksm=ce3a822bb610af4ce1c3b3eca2b2313e06db3dff3bf4ab67b56f51fb5fc929e6faa0e250a889&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRP9mH5UvericlvbJFw8E5Jgia15YvyCichLib57FxogYleKlAnc35cLbINfx9xo5cG6SfbLiaMjvxXbqWOicMzFeTatiafo5vGjGRNg8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。又到月底了，我们持续进行国内开源模型总结。这一个月，各种Skills纵横，hermes热度取代openclaw成为Agent新贵，GPT-Image2炸裂效果，让有图有真相成为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499658&amp;idx=1&amp;sn=e7315fa32e074a349f4e7c555b78c7b4&amp;chksm=ceb12fd89e50d84c916e3ba6c8c9dc5f64192194e42f8aa8950b12cb77e3bd08553eed42b5c5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Apr 2026 10:20:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚当爸没多久，我已经琢磨怎么AI带娃了~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROyfdtCcEcyz6iaVzZrFIJXaFehxjic5ibtGoncBMkv9dH2LQuMuHFFoHp4KTibxn1mlRdHMXtsZPY7sanKDqEGd8ZeIMFFY8WJOq0/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。对这就是我准备做的带娃神器，有了娃之后，才发喂养真的是一大难题，也许很多人体会不到，但是我现在经常问的一个问题，就是孩子几点吃的，是不是饿了。我一开始，尝试用软件解决这个问题，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499598&amp;idx=1&amp;sn=0941b1c2672d6940d3df944e8902ed27&amp;chksm=ceb7441040149c05cd895c67a3742a1751ef523f1dcc43c5d60c07302a33307e277167584b6b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 19:49:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
