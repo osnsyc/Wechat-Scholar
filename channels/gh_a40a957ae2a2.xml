@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[Meta真的好久没有声音了，就在昨天，开源了一个新模型Muse Glimmer， 还有Muse Spark 1.2也马上要开源了 Muse Glimmer，一个 29.6B 参数的Dense多模态模型，支持文字和图片输入，拥有 131K+上下文。 模型主要面向本地 Agent，专门训练了多步执行、工具调用、代码任务和失败重试。 Meta 还提供了两个 4bit 版本，配合 DFlash 推测解码，在 RTX 5090 上推理速度大概233.4 token/s，Apple M5 Max上推理速度大概50.2 token/s 从指标上在 MCP Atlas、DeepSearch QA 和 SWE Bench Pro 上超过了 Qwen3.6-27B、Gemma4-31B，更像一个明显偏向本地 Agent 的模型， 难道，之前那个开源的King要回来了？ 不过，Qwen3.8-27B马上要开源了，大概率meta又会被按在地上爆锤了， 还不知道Qwen3.8-27B整体效果如何，但总比3.6好很多，因为3.6真是一大堆问题。。。 最后，把这个月的已经开源的模型做了整理，新增16个开源模型， 详见，https://github.com/liucongg/awesome-open-llms]]></title>
+      <description><![CDATA[<p>Meta真的好久没有声音了，就在昨天，开源了一个新模型Muse Glimmer， 还有Muse Spark 1.2也马上要开源了 Muse Glimmer，一个 29.6B 参数的Dense多模态模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501578&amp;idx=1&amp;sn=1ab2513367c3f43ba8d19902960485d0&amp;chksm=ce3a822bb610af4ce1c3b3eca2b2313e06db3dff3bf4ab67b56f51fb5fc929e6faa0e250a889&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 17:33:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当汽车公司认真在做世界模型，世界真的变了~]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRPtUWW3GypEJIBKuYMk7p4thmNxvNbP9zEyticKvmk8x7dzKjiczD9YYgVx77AuaZxbQEuOckEhIibF5miarQpZvKbw7Fib26vGntYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。前阵子在整理7月开源模型，发现一个有趣的事情，就是开源的具身智能和世界模型突然多了起来。阿里的RynnWorld-4D开始预测机器人操作中的外观、深度和运动，蚂蚁推出实时交互世</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501539&amp;idx=1&amp;sn=f7471db5c71c9d38aac192924e06e56f&amp;chksm=ce9ea231a5cb6e01fd4d0403ec82590341eaaa9c27a126b1675f7db2e664ea00c86716852b49&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROyfdtCcEcyz6iaVzZrFIJXaFehxjic5ibtGoncBMkv9dH2LQuMuHFFoHp4KTibxn1mlRdHMXtsZPY7sanKDqEGd8ZeIMFFY8WJOq0/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。对这就是我准备做的带娃神器，有了娃之后，才发喂养真的是一大难题，也许很多人体会不到，但是我现在经常问的一个问题，就是孩子几点吃的，是不是饿了。我一开始，尝试用软件解决这个问题，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499598&amp;idx=1&amp;sn=0941b1c2672d6940d3df944e8902ed27&amp;chksm=ceb7441040149c05cd895c67a3742a1751ef523f1dcc43c5d60c07302a33307e277167584b6b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Apr 2026 19:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[分享一个 Image2 的提示词库，Github已8K Star]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROiaEcwkUGbycsVwYn58yMUjDSxtIjq8d4UosCRuFUwEHofwIUfiap9qB3ej5qTVdGNmLws7bq4UTRibZjPzIYDExkWd3EEggWNEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。前段时间GPT-Image2太火了，大受震惊，但作为没有什么审美，生图创意不足的我看说，看别的Case，学习十分重要。今天刷到一个GPT-Image2 的提示词库，8K sta</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499568&amp;idx=1&amp;sn=841c67e7bb7429e5ad2a20cb744514f2&amp;chksm=ce59a7bead4d92e623fb24063182e52ee374b2a3b8c5ac806139389f02fd819ba344ec5341c7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 22:11:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

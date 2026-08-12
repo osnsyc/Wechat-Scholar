@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[Bengio团队新作：强化学习重做符号回归，后验采样提速10倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeArA685neQchxBNYOWf6kLn2QRWicgD47JtQDhYib9V8k1Y5ltDyrbiacdYrd3EVloiaPrq9Nzn9Yth5DunJ3EJBLbFibQkIFh0ibuD8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最大熵 RL 让策略不再只追逐最优公式，而是直接学习表达式、常数与噪声的完整联合后验。给定一组实验数据，能不能让 AI 自动找出背后的数学规律？符号回归长期试图解决的正是这个问题。但在真正的科学场景中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722121&amp;idx=1&amp;sn=bf561fba2170601eaaad883ea53a2f6a&amp;chksm=9778418ba651ca44d906f4f6c59a76dd3c9fd95a8aa566916ca7b852a36d8dae33920be014b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 18:39:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[免蒸馏，只改一个Loss！5行代码实现扩散模型4步生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBYb3LZDkaktFBA8cZk2uAM7mB1QjHTFW9fDOPtV5ewxic88rFVwtyr3GialVCZO7uia2jhso3tvlC4EFWxDNeBQ40eHflht8icdwA/300?wxtype=jpeg&amp;wxfrom=0"/><p>©PaperWeekly 原创 · 作者 | 赵楚洋单位 | 京东探索研究院研究方向 | 扩散模型、多模态生成扩散模型的少步生成，或许不需要复杂的蒸馏和额外训练目标。我们发现，只需将传统 Flow M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722121&amp;idx=2&amp;sn=d710a67accdd70cb16d4b02f7776a88e&amp;chksm=97239089b71d919420aa7d7db5161ba41307c3b2013dfb6877f42b1f3a7807f0db307e76b6ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 18:39:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[苏剑林重新审视交叉熵：LM Loss还有哪些选择？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBE3CIpuTjcvoyGib6kvHhGNTibLXMsS2E2D6JVoPTesu1g59m5h5YVQQs7ECKYia43khG1LfPXia2icqIrCrThgzMWBuQ8crwthhrk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Softmax 和交叉熵为何总是成对出现？答案不只是“大家都这么用”，而是藏在概率预测与 Loss 的数学结构里。©PaperWeekly 原创 · 作者 | 苏剑林单位 | 科学空间研究方向 | N</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722077&amp;idx=1&amp;sn=30e85278605c483ac9acb9d0439b7c7b&amp;chksm=978cb81383fe1401942c1afbeaaecc78532b917163a482be7d435edc05042e79344959ea586b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAOeGo50wlxA8OpyM5sfE0dErLg9mkPzaZiaIZffibGeVEf9JypNdUhj3koj5IrcHJsxAwnshOLoiaXbh6VCqIHzqz3bao9SjyThw/300?wxtype=jpeg&amp;wxfrom=0"/><p>上线后的视觉模型，面对的从来不是一个静态测试集，而是一条持续变化的数据流。自动驾驶摄像头会从白天驶入黑夜，从晴天进入雨雾；视频分析系统会不断遇到新的光照、视角和场景；医学影像模型也可能因为采集协议、设</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721419&amp;idx=2&amp;sn=421c3231bb12d366ecec9e7e402cdd17&amp;chksm=974f5260c2c5922b12be504de75182ba92221de12deb786fd282a96c63b25c29067b88cf0bee&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Jul 2026 22:03:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI科学家再聪明10倍，科学也快不起来：瓶颈是300年前发明的「论文」]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDpYibcZIibW52icRC52DJbjQBNtlnUFK7JnQM9ohocgsWW94RnAHHZdRk56jib7JntC8N3xKMcSibqz9rlfUK3Bj6kG9EWcs0ibRkPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>自动读文献、做实验、写论文之后，AI for Science 的下一步，轮到科研协议本身。©PaperWeekly 原创 · 作者 | 刘嘉晨单位 | 密歇根大学研究方向 | AI for Scien</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721384&amp;idx=1&amp;sn=0ce5dd283c6fd4a6562c6e8740d6d5a0&amp;chksm=9765dce6422555ab435ddc92c63d36beabe7b75c9e3714f5b209f691105b282c8f2647e82151&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 14:20:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2026 | 南大SAME稳住MoE，缓解多模态持续微调双重遗忘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeDefyaIwmTjnWV0VclA2VArNBxSkEe1wJjN27Gr5nswT7WHic9PYuhzibD7ZfGNzdFXcUDIFcpxAw5UcU75glgDJy6bB3WhPoayo/300?wxtype=jpeg&amp;wxfrom=0"/><p>多模态大语言模型（MLLM）通过指令微调获得了强大的视觉-语言理解能力，但真实部署场景中，模型往往需要持续学习新的任务、领域和回答格式，这使多模态持续指令微调（Multimodal Continual</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721384&amp;idx=2&amp;sn=e2beadbc4f7dcc7287ea1dc9406f9b09&amp;chksm=970bc7fc601e34a835e860399fbf1d77b43c441834101188ad2fe6bc29ca1c918aaa36901543&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 14:20:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
