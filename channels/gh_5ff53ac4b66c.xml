@@ -10,6 +10,18 @@
       <title>gh_5ff53ac4b66c</title>
     </image>
     <item>
+      <title><![CDATA[智谱RL框架Slime重磅更新：开源GLM-5.2训推对齐方案！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIakDDUFiastvJzxib34XVb3EUWn00TNje09MstylMQTZzjdDcS2uwBiaapicOBpNs2fDNvG1hHDWo6nP1rwPichRaC90GqfFgI1YjsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：BugMaker大模型强化学习训练里，有一个问题很容易藏在系统底层。Rollout端负责生成样本，训练端拿到这些数据后再计算一次。同一套模型、同一份权重，两边算出来的对数概率（Lo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450011548&amp;idx=1&amp;sn=98ba0d3db3537c9a854abbd8e196947d&amp;chksm=b0126419528aaeaa8acf1a412b191dcd301161e7ee056e85a668de148b7aa279853c864e925d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 10:42:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[管控Agentic云运维冲突，港大×微软这套系统级底座夯爆了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zJVQUll3YIYF49KXKMwT5sM3ky2icAYszjpuFf5OFDTSTqZPXSj8icRJA16UibVMIGIp0Ip4jETScZJqT14FD2vgJUttCyicGT1G88e2tvSUibRI/300?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：金水现代云基础设施早就不是一个人管一台机器的时代了。计算、网络、安全、监控各自负责不同模块，Terraform、命令行、控制台，再加上各种大模型驱动的智能运维 Agent，全部一起</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450011548&amp;idx=2&amp;sn=f1c65119099bf5a8234898bb441c559e&amp;chksm=b02a31afe044aab13bd4fc4a4c3c4cb55ce690c4537f5e84ea79baeba8d3da5a9dfec04d46ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 10:42:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek Harness浮出水面！本土对标Claude Code、Codex]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIa5xEQTldn2pxhT0BTNCG4r4CBdRuQAPcD8KWKVaL2E9baO1TgxuXeaLhuYwWHty73orZc6j5fV2Z6WI0DaqfoiaYrw0PTzrRYU/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：林夕8月1日，DeepSeek Harness团队负责人崔添翼在X上发了一条中文推文。他说，如果开发者正在做Agent Harness相关的开源项目，希望第一时间接入DeepSee</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450011515&amp;idx=1&amp;sn=b83474d432b3b0cbf206fd08da0b1e61&amp;chksm=b0e33a337baadfd7183d1584b48de3a0ed64ded6e29a882c81b7e8b2996d1aca5d4f47e448dd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIYbdbgDBEM4Rfp1viblMz96ae5ajnooliaYcV9mSwFDhyBl4ewoslN9m0y0EJkSLDria2L8a49ZIn0TJmhbfHP2b5CAicOa3J6fcsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：林夕AI编程Agent正在完成一次关键迭代，从传统单次对话执行，升级为目标驱动的自主闭环作业模式。相较于普通GUI桌面AI工具，原生终端AI在本地工程调度、批量文件处理、长任务迭代</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450008830&amp;idx=1&amp;sn=4ab484415700a069fedc9ec10c1193ff&amp;chksm=b07d5f3b8860fa45d4c3cd7242e4fc2be31baf2ccbc1d09c74fe863482082b9e9d0e89272fb9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 29 Jun 2026 09:59:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从“会操作”到“可信操作”：多模态Computer-Use Agent的技能学习与安全边界｜MMSkills核心作者邵帅「AgenticAICon 2026」预告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIYpdWPCp6KSamO7VuT1sMibveoDfeOgC6CsEWwTd7VKroypibdNcnkOG2dBMicW625bXQyq3lkVvv16V90rJJqWCTJAUAWkCxUBug/300?wxtype=jpeg&amp;wxfrom=0"/><p>7月2-3日，智猩猩主办的2026中国AI智能体大会（AgenticAICon 2026）将在杭州君悦酒店正式举行。MMSkills核心作者邵帅已确认出席，将在7月2日分会场二下午的Computer-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450008830&amp;idx=2&amp;sn=452c2479c4a3685f4e31d5803c297d6f&amp;chksm=b095332eb3fdd84820c5f2edb4f81b084933c1cf71a1236e0188f10a3327b15ccb580bad778c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Jun 2026 09:59:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Tag的国产开源平替来了，还有保姆级教程！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIYUeIJMoTaozWeF5pvm28CEXMicibiaggibQbZQm3HdkEhPBOqMxNbLBorg6eqelxgBYpPd1XxHLJyg9hvHod2K1u6rzwjnWuaj0ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：没方2026年初，OpenClaw 因为能够接入飞书等通讯协作工具，引发了不少关注。过去我们使用智能体，通常需要主动打开一个工具，把任务背景、项目资料、代码路径、需求细节一遍遍告诉</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450008783&amp;idx=1&amp;sn=cb8b4eca916da96a1ad53291dbf178e8&amp;chksm=b07566043b89d7927415728f935b4c2f4393fca5f34d0ce258676ac391bc67673d6232dea69b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 27 Jun 2026 13:09:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
