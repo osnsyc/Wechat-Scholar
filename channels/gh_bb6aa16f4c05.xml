@@ -10,6 +10,12 @@
       <title>gh_bb6aa16f4c05</title>
     </image>
     <item>
+      <title><![CDATA[GeoTransolver：英伟达要做工业CAE仿真的大模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/bsGyUfqWxkFmvBsaWXRvoKVuFNuChMWicJx46OESeax50YGDENtx1CBdktbmL8IZacA4FFvRFIoQjGgZXttNd3Y9EDQLt0tDDmBEwdKWhibQE/640?wxtype=jpeg&amp;wxfrom=0"/><p>GeoTransolver是一种新型的Transformer架构，专为CAE中的物理场代理建模而设计。它旨在解决在复杂、不规则几何域上进行高保真度物理模拟时面临的挑战，如几何异质性、多尺度特征、长程依</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzAxNTk3MjgxMQ==&amp;mid=2247494021&amp;idx=1&amp;sn=e81489237628dc278ac06feb9d7be9ba&amp;chksm=9a90ac580a304efe8f0fa2a5997eef481c84433f751a9fc1297fb515f82611f6fcdbb123fd25&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 17:10:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NanoFluidX基于SimLab前后处理提供的4大解决方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/bsGyUfqWxkHg8kQW4iby9uGjRn7s32lewM8wcYurl1GW1mPMhqTKF84cbtkTjOccLfiaiahQI4W4aLSIkxqgLmaZwb4IAxOJPM2D3qbgiaNl4v8/640?wxtype=jpeg&amp;wxfrom=0"/><p>SimLab是HyperWorks套件中的一个多物理场预处理器。几乎不需要进行清理和简化，并且无需保证几何形状的连通性和密封性。可以创建全套的nanoFluidX边界条件，并且有针对传动系统润滑和车辆</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzAxNTk3MjgxMQ==&amp;mid=2247494014&amp;idx=1&amp;sn=f973e7ba6a70710197ba1e55d5ccfb66&amp;chksm=9a4e25df300906d5859f7760a3a4a10510660f92ad41987a68c7cabe211a5fcc5c9e4734dcd5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/lX9IY9b0ADWejr22Y4wGsKbwvxs236GqRGMc3PqAwwXIpse916HXe0bEo5XHB98iaJIzNBibuA8BvAEwOPqhVwvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>SimSolid是Altair推出的一款无网格分析软件，无需进行几何模型处理和网格划分，可直接对CAD模型进行加载求解。SimSolid 支持所有典型连接 (螺栓、粘结、焊接、铆钉、滑动) 和线性静力</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzAxNTk3MjgxMQ==&amp;mid=2247493488&amp;idx=1&amp;sn=0a70bfd0837d279971e750c0dfbd26ee&amp;chksm=9aa4813f7b4a394b7484d91279a0b69453f6380dd76633567642a3c39072db0a707b5737175d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 28 Jan 2026 17:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SimLab通过实体焊缝进行焊接连接]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/lX9IY9b0ADU2hNic0CsVggmz50qQHzsFCPMiaO2ZH9oibHshT1DkV6RtWicn3kyNczLBTm6ZFNGt5HtuibHPTug9vFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在SimLab中创建实体焊缝焊接连接分为两步：第一步创建实体焊缝，详细方法可参考文章《SimLab创建实体单元焊缝进行焊接连接方法详细介绍》；第二步将实体焊缝和被连接的实体部件进行连接以实现焊接连接。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzAxNTk3MjgxMQ==&amp;mid=2247493483&amp;idx=1&amp;sn=21dd7ee9df32ea7d8ca7f4878236ea92&amp;chksm=9a85ec8fbdcf09cab1fcdf99e0def281d3a75889375ee60a45a3035e47bc0b798d422fde566e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 17:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
