@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[ECCV 2026 | ETH&amp;Meta提出Map-Det3D：前馈3D重建先验加持，流式输入下实现精准度量级3D检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW98ImHGek1wAJRcAxSCJLDouMOJPNuH2YibV7vN0gjovIf3k0kEzjv6HUuLNLuX70nXbEiceRJibOHIzHH8lchI781l21bUCqU2v4/640?wxtype=jpeg&amp;wxfrom=0"/><p>“横看成岭侧成峰，远近高低各不同”——单张 RGB 图像因缺乏绝对深度与物理尺度，让感知系统在三维物理世界中宛如“盲人摸象”。传统的“先 2D 检测再估计 3D 属性”范式在遇到相机内参变化或场景迁移</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663981&amp;idx=1&amp;sn=be1ec90cf12513bece973851945a5030&amp;chksm=97b6acd72f6e0b9f234a3d1af5fee9bd141b912c0181fc21440f60e1554c2fb5aa1240f7ae47&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 22:37:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ACMMM 2026 | 把二维修图升级为 3D 操作！浙大 PhyEdit 给物体操作补上几何常识]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9siaVXfK7P9xHDwDd5hEFYewWS8LQiajxwSzYZBqiaiaa1X1NEvhInia9u0OE2XUbKw9agXTLPRqqZfn5RSibdVVbs5WPx3ccEDOKyk/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果让图像编辑模型把一个物体“向左挪”，大多数模型都能完成；但如果要求它“向镜头方向移动”，结果就经常不对：物体位置变了，大小却没变；明明应该挡住背景，却仍像贴纸一样浮在画面上；同时移动多个物体时，还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663963&amp;idx=1&amp;sn=d6e7c3b6227bc66efc7e89281ce4c4d5&amp;chksm=9744c58c19e279d58c6f7a714ee30011deac9909edccf199fd348904c3dd4d9f9e5623842138&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9Yj9VITwPhRMOHejWB29yicLWLoAG4sahDo2o7u2q584Yico2Xv07kdLmU3qThQWCgwiaONrGrzTlgAbj4Hsj46Kslr8SwzGlPIU/640?wxtype=jpeg&amp;wxfrom=0"/><p>扩散Transformer（Diffusion Transformers, DiT）如今已成为高保真视觉生成领域的黄金标准，像广为人知的 FLUX.1 和 HunyuanVideo 等模型，其生成效果</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247662772&amp;idx=1&amp;sn=0fd763bb2998c78af80b7f02e0926148&amp;chksm=97614abfef8e460c7458854f740e29096eb8f9b6b381b5fd15be38aa03eada1d3c047dbfbeb6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Jul 2026 23:55:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DomainShuttle：让主体在开放域视频生成中自由穿梭]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWiciaR8393OSZQLiaLrEv38jH0DbBRsibTemVxsRrdW86cicO4z7TXFXtAm1PWgKSibsDdiciaYwibvAB6xOicmxMj7yIvEwPxtrVw4Y9gh0/640?wxtype=jpeg&amp;wxfrom=0"/><p>主体驱动视频生成（Subject-driven Text-to-Video, S2V）正在成为视频生成里非常关键的一类能力：用户给一张或多张参考图，再输入一段文本，模型需要把参考主体稳定地带入生成视频</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247662731&amp;idx=1&amp;sn=13a37d53be3c5e6071fd938bc53c9a50&amp;chksm=97e58d6af5bf2c5e243acdfbf416af0940b92c24b02a0404bdca5a62cbcffdea73cf5b01deee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 23:38:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

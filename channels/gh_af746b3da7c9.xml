@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[Coding Agent 自主解题很强，但用户改一行代码就"翻车"？自所团队提出 SWE-Touch 揭示共享工作空间下的能力缺口]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sZacK8kLo5xJugJuxykBx3QuKXTLJMcmfmlSoA9gO3dcPhTx2bSacEQrfAnhqJxddrWAQiaKz3zibmmibN8PlamC8icGvKCC9CjcT4/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，基于大模型的 Coding Agent 已成为软件开发领域最活跃的研究方向之一。SWE-Bench、SWE-Bench Pro、DeepSWE 等评测榜单上的解题率不断攀升，头部模型已经突破 8</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247548349&amp;idx=1&amp;sn=70795ef0fc87b4b05181f0bdcead3e3b&amp;chksm=eaab18099f0a3853cac5856154d305e2d481325b059d8343afabf86c7d116e164aff4402e032&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 00:25:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TACL 综述 | 别只卷架构了——长文本模型的能力天花板，其实是数据决定的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sYib4h1UsWktIzKGGDfz63UMOpNQJLbxVjxrv7DiarFtoYDSd639n1tiao4SXJAezibRictEHZ6peM53osuVlRkoto5IBXebrNhkjNc/300?wxtype=jpeg&amp;wxfrom=0"/><p>📄 论文信息none !importantData Foundations of Long-Context Language Models: A Survey论文地址： https://direct.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247548349&amp;idx=2&amp;sn=885cebcb7deee43e4c759b96a2833e9a&amp;chksm=eaeceeffaf1cdc4510b7bcbea14e22ef2d407bc7c9a4c93f259e5c6597f09ca8aae8e17817ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 00:25:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[拟合接近满分，外推却会跑偏：Meta 给缩放律加了一个指数]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sbeWfeaNTbj2NqCicPWc9tavjTBmvq3Ejw4bgs2se3rl3Ft3cVaFCbicZlefyq9jiamIp4DOa7LgGYfwHicJRKjIicuc09tHheQUFMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>训练大模型前，团队往往先用一批小模型估算“大模型该做多大、数据该喂多少”。但常用的 Chinchilla 缩放律虽然在已知区域拟合接近满分，一到模型和数据极不平衡的昂贵边界，预测就会系统跑偏。Meta</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247548319&amp;idx=1&amp;sn=8d734df36766440f26d0a809882fd4c7&amp;chksm=eaa3d0faba35edfa98769710ff0ebdb210091efe9a07a8aff7ae36d0b844f5b5376cd63faba5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sYiclZtUPNeStIW6xuKKdDCUaGwaUFnbc2BkFC2Pbj4xiazBZvCIjIaVzxWqKnHiaQX2xicGLxndmxxJLiarsAURCWKOTXAH4QicpwU8/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月18日在苏州，抖音AI创变者计划「AI游戏主题」黑客松，开启属于你的极限冒险！</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547508&amp;idx=1&amp;sn=c3585864625e7497d4d60b8804366bc8&amp;chksm=ea5ef23906091ae7a01cef664c6cad12060f8ceccd439f2ee7579d101fd1b76518a21c69ee57&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 21:09:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[静态稀疏已死：Flux Attention 开启长文本 LLM 自适应推理新时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sbjBE11xQLrHVTAa0YmJFB1gcyQCNsZ8QliaEXRkApVp3RkuYmkTjFdiclDFwu6fCskI8GCJjZgWpfJU8OJA5HuJNhfgDalu21yo/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：http://arxiv.org/abs/2604.07394代码：https://github.com/qqtang-code/FluxAttention长上下文 LLM 高效推理的核心矛盾，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547499&amp;idx=1&amp;sn=af6e4fb3050de02fba8b199107330e06&amp;chksm=eab526bd44b610ca5f797bbddb2d54fd8eb8b8849a0d18accdbf4e5a6e8e92545ec479d2a07a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 22:16:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw热潮之后，倒计时最后一天 | 线上预约、线下报名]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sYHbbaeUsvYmnkHqavplN25K06JnP0kPrJUWficIGSnicffPgTrNs5micEerKlARiby5bSYiaAKwXtKq65780ibJtH87SpY8qY8WHBGc/300?wxtype=jpeg&amp;wxfrom=0"/><p>主题OpenClaw热潮之后主办NICE、上海交大人工智能创新协会时间2026.4.11 14:00-17:00 北京时间13:30-14:00 签到登记线下申请详细信息与地址见：热潮之后，一场关于</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547499&amp;idx=2&amp;sn=cc81078c8e72f9b74d57c8497d1ba157&amp;chksm=ead786183d433cc8499d105f09e9cbb1dbd49895b3234ecc0670ea54d5ed55daf3e631c94310&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 22:16:23 +0800</pubDate>
     </item>
   </channel>
 </rss>

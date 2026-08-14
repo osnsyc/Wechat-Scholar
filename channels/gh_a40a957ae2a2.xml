@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[Deepseek Harness Github Star瞬间10k+，恐怖如斯。 说一下晚间测试DeepSeek-V4-Pro的感受， 如果你是普通任务， 基本上看不出DeepSeek-V4-Flash-0713和DeepSeek-V4-Pro-0813有啥区别。 但DeepSeek-V4-Pro-0813还是比DeepSeek-V4-Pro-Preview要好的， 只不过Flash-0731给大家的惊喜太大了，又便宜、又好用、缓存又便宜， 看来后训练的提高针对超大模型，还是有点难度，也许跟原始预训练模型， 猫佬说Pro原始数据层面上有缺陷，我觉得有一定道理。 所以，这么看是不是抓着K3继续做后训练才是王道呀，哈哈哈哈， 我对DeepSeek-V4-Pro-0813的测试感受是不如K3、Qwen3.8Max。 我刷到网上有种论调，是梁圣故意没训练完，没放很nb的模型，我觉得没必要， 还有貌似昨晚的时候DS模型也有问题，我今天晚间测试的时候，没有像网上说的那么拉，现在应该是稳定版本了。 还有就是恰逢，DeepSeek还涨价了， Flash的缓存只从0.02涨到0.05，巅峰涨到0.1 Pro的缓存从0.025涨到0.15，巅峰涨到0.30，感觉Pro性价比可能就没那么高了。 最后，DeepSeek-Harness开源了，不知道是不是适配Pro效果会更好，测完再评论。 Github star已经10k+了，涨星太恐怖了 https://github.com/deepseek-ai/deepseek-harness]]></title>
+      <description><![CDATA[<p>Deepseek Harness Github Star瞬间10k+，恐怖如斯。 说一下晚间测试DeepSeek-V4-Pro的感受， 如果你是普通任务， 基本上看不出DeepSeek-V4-Fla</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501584&amp;idx=1&amp;sn=db145caa5eabd7c147ca4eb3c873f810&amp;chksm=ce916d4f4ed131e01f9f01869eb87043b32faf4b7572740c725dec1c0ed5490e3e8f1eefa7f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 21:39:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯开源的这个Agent 记忆系统太强了，Github已经19.8k Star了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRPKgvaW58Xk5Wg96BwqUhlEI4zTvnlKsRDdK4LS9YjXFz5WeknAianxOOSWYlUtcydA6OIASHabyiczv69cZHFoichiawffHXTrqac/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。我在5月初的时候，分享过一篇文章聊聊 Agent 的记忆系统，到底应该记什么？，里面有分析到腾讯的一个开源项目TencentDB Agent Memory，那时还刚开源不久，G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501582&amp;idx=1&amp;sn=42a1072f0cfb3062a74a22243fb4e4af&amp;chksm=ce9a134c676a8e7f8f6f168a25769a6cf70154b40093b95c26100d71a16211945c89ec557fb6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROIXAnh32KYdw4d0bsPNL6xqCdZ4iahWV6eRzHwqOsibcA3ibC6UBZQG7TlwvtkGSAuoBRdrJEIVf7d4tdLZs2fJR7hG0Su6bUqWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。DeepSeek又发新论文了，果然是放假之前必作妖，说好的中国人不卷中国人呢？这次论文介绍的是多模态大模型，提出了一个全新的推理框架，把空间标记（bounding box 与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499685&amp;idx=1&amp;sn=5661aba0328581c77b27e30bb56dfe65&amp;chksm=ce2865d4dc92ad711c86b7f6358cb4328328543f1b4dfe6ce985e48abd3260e080df233ef06c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[4月模型汇总，心心念念的DeepSeek开了，国内头部模型比御三家还差多少？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRP9mH5UvericlvbJFw8E5Jgia15YvyCichLib57FxogYleKlAnc35cLbINfx9xo5cG6SfbLiaMjvxXbqWOicMzFeTatiafo5vGjGRNg8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。又到月底了，我们持续进行国内开源模型总结。这一个月，各种Skills纵横，hermes热度取代openclaw成为Agent新贵，GPT-Image2炸裂效果，让有图有真相成为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499658&amp;idx=1&amp;sn=e7315fa32e074a349f4e7c555b78c7b4&amp;chksm=ceb12fd89e50d84c916e3ba6c8c9dc5f64192194e42f8aa8950b12cb77e3bd08553eed42b5c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 10:20:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
