@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[手部关键点检测提升的"笨"思路：仅多用0.83M参数预测可见性，定位立地起飞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9FdHLby5icIGuXDKoVusJDUM1qic9rcYzby7Rn55yy4F4dwmMgw8s8sUoTBsfsQxvfxheYll5CLcBy7SYDfDqpnibsWbqB96nib3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>在手势姿态估计（Hand Pose Estimation, HPE）领域，即使关节被物体遮挡、手部自遮挡或截断在画面之外，现有的主流模型通常也会强行预测出全部 21 个手部关键点的位置。这种“知其不可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664015&amp;idx=1&amp;sn=0857872b5aa9b5981e2309c991ddfe8c&amp;chksm=9766480856092c8b43a81c2081d99424e795d587cdd36495547e5359f28c7dabb27acdf0459e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 22:59:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ECCV 2026 | ETH&amp;Meta提出Map-Det3D：前馈3D重建先验加持，流式输入下实现精准度量级3D检测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW98ImHGek1wAJRcAxSCJLDouMOJPNuH2YibV7vN0gjovIf3k0kEzjv6HUuLNLuX70nXbEiceRJibOHIzHH8lchI781l21bUCqU2v4/640?wxtype=jpeg&amp;wxfrom=0"/><p>“横看成岭侧成峰，远近高低各不同”——单张 RGB 图像因缺乏绝对深度与物理尺度，让感知系统在三维物理世界中宛如“盲人摸象”。传统的“先 2D 检测再估计 3D 属性”范式在遇到相机内参变化或场景迁移</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663981&amp;idx=1&amp;sn=be1ec90cf12513bece973851945a5030&amp;chksm=97b6acd72f6e0b9f234a3d1af5fee9bd141b912c0181fc21440f60e1554c2fb5aa1240f7ae47&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8CujyNBHGn2JPgicnQUG6n8QHAreSwJAv5lObAficRz4FcTeEnMEncoBSAbzic2vNSkfxBFpghFF3P4nDKEzqmmT3hmiaWicY6jPEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读文生图模型已经能生成逼真的场景、复杂的风格和精致的构图，但一旦图像里出现文字，问题往往立刻暴露：招牌变乱码，菜单不可读，海报排版混乱，文字内容和图像语义对不上。很多工作尝试从模型结构、文字编码或后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247662817&amp;idx=1&amp;sn=a4149e90eeca9b2fd131d1b0be1c9cd7&amp;chksm=97a9f105775b4f02ecf08d6c6015377b01eaa0cfae828acf275e3ee51251ac497e4e2389bffa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 06 Jul 2026 21:15:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ECCV 2026 | 免训练即插即用，DiT推理加速新方案：浙大提出ResilPhase， 5倍加速下画质近乎无损]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9Yj9VITwPhRMOHejWB29yicLWLoAG4sahDo2o7u2q584Yico2Xv07kdLmU3qThQWCgwiaONrGrzTlgAbj4Hsj46Kslr8SwzGlPIU/640?wxtype=jpeg&amp;wxfrom=0"/><p>扩散Transformer（Diffusion Transformers, DiT）如今已成为高保真视觉生成领域的黄金标准，像广为人知的 FLUX.1 和 HunyuanVideo 等模型，其生成效果</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247662772&amp;idx=1&amp;sn=0fd763bb2998c78af80b7f02e0926148&amp;chksm=97614abfef8e460c7458854f740e29096eb8f9b6b381b5fd15be38aa03eada1d3c047dbfbeb6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 23:55:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

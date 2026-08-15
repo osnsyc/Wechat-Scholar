@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[智谱发布GLM-5.3：开源的“安全之盾”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLYFfVX1Qo1ibzXnqiaF00YWLS8ePpfBuXAe0YQJolByHib14jVkPpYPfvz3UBsfnzLHKNsbmQR0TYpeJweNxl9HwuQkWQMMyLFiak/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天我们发布GLM-5.3，与GLM-5.2相比，基座模型没变，但通过极致的后训练Scaling大大提高了模型的智能上界：数十倍的长程任务环境、更丰富多样的环境类型、超长的后训练时间。我们发现充分的模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606288&amp;idx=1&amp;sn=4167ee25b5b77be29e97ccd24f64b314&amp;chksm=ce6aeddeb1c5b68e0215cb9147bbaffedabf160550ae5adc16f40ac9a1a402a4c773bc151b05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 18:05:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚，Google DeepMind团队Nature发文：重新定义AI Agent治理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLrjyyMNul6M7ibbfVcu1mibOvauLfiazVAsBKia2Dyiah75oVcdkcpfVEuhI5ewof8uogDH6xgl5REy0uDFcCPDU8iajrnZVubaUibw8/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent 的有效治理，正面临一个根本性困境：因难以刻画不同 AI Agent 特有的属性差异及其各自部署后的影响，我们不清楚应该依据什么判断其风险，进而分别实施有效的监管。无论是欧盟《人工智能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606281&amp;idx=1&amp;sn=88a9eba07a7717b2424de1dc568f4e83&amp;chksm=ce3adf83b72ae07e86c0ba08586b1242ac2e650cb11306f64372db59711a9c937acce2139eb0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLEaIYfXZ0Una8OCyQeqcrsTJIpzXjeyFrWQ5ahEu0ibQeA4e4sJ2sLpUIIhZQs2FibYHs3zqkcT1qHwgCOOaIn1FsW5j20Zww0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>更多的机器人示范数据、更大的视觉-语言-动作（VLA）模型，再配上更懂“物理定律”的世界模型，就可以实现“通才机器人智能”吗？这是当前具身智能的主流研究范式，但一篇刚刚发表在 arXiv 上的研究论文</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605267&amp;idx=1&amp;sn=acd97c47c59c725a01b5e288c779bf64&amp;chksm=ce016deed5c1193bec2c27f14ac752d366b7650c4d43631517d8425872520dae43402cc03081&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 09 Jun 2026 18:51:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent自进化新范式：孙立超团队提出OpenSkill，刷新多项基准SOTA！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDJVaQIQlwjAnY6GyR32V2OcqHXpuZhvLJdIZEeNNAXq34wfoMABAzic6pwSWtc62icxuNHtuVLd58TNhYKZ0YMP3OYGWzriaun6Vw/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前，自进化 Agent 的持续学习，大多数依赖成功轨迹、现成 skills 或明确反馈。但在真实部署中，Agent 也因这些前提难以同时满足，无法继续积累经验并迭代。针对这个问题，里海大学计算机科学</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605249&amp;idx=1&amp;sn=5479a597f11a5d5f572e617b7ce6f524&amp;chksm=ce895e57d47fddd3c918c54e942e34e84710adba0bae53132738f6240516dc4f05afaa805953&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Jun 2026 17:00:28 +0800</pubDate>
     </item>
   </channel>
 </rss>
