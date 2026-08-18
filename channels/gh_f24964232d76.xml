@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang 中的 CUDA Graph 进阶指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYYYxS2s8ibiaRnhaEIqYeyQpIgyLw221tRItDFHyibXubR1xUo8oXQRiaZoOp6CfGyoUzxtpcDA4Wh6Sztx0T4elhicNFs9z5jaZJc/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 中的 CUDA Graph 进阶指南作者：SGLang TeamTL;DRCUDA Graph 的目标是消除 kernel launch 开销，但要在真实的推理引擎中尽可能接近这一理想收</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532153&amp;idx=1&amp;sn=35b9807f5736251bc22aff025fcde7dd&amp;chksm=9e823fcb7f09ce0ea5f3e29422025680301865b2a854acb80a0e8a94de880b282bad843555a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Aug 2026 10:28:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[基于 Agent 在 SGLang Diffusion 中让 Torch Compile 完全退役，细数 Torch Compile 七宗罪]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYG3xyugYxYdNWun66dVsu22VibHoLR2fZYDGxGyqe79RDL9icHEH1KkcRBLAiac3nWWRZMzia2tdh28BLmCCtaaL6mohpFNoJzluc/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 核心论点Diffusion 领域苦 Torch Compile 久矣。从 Diffusion 模型发明以来似乎 Torch Compile 一直在各个 Diffusion 模型中进行加速，P</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532133&amp;idx=1&amp;sn=17965ee38abbbbc7ce50f2630cb9e43b&amp;chksm=9eadf6a723a5f07068eb82c097964b030c3357aa4afc90c2dfee88e8030b4e4acd4dffe98768&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZI9tZdQhOicIodNSiboUKPTALkHBTvmddTHbHUCZ2RJZZy9lluIgzkgynicuQQOwUn3libhpVYXibyfBg72KnXZzVBnvIyvphMcmeI/640?wxtype=jpeg&amp;wxfrom=0"/><p>攀枝花米易枇杷简单介绍和联系购买方式如果你想在每年春季购买攀枝花米易枇杷欢迎联系我，国内包邮，目前是2026年3月10日，现在98一箱5斤大果包邮。米易枇杷，四川省攀枝花市米易县特产，中国国家地理标志</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531195&amp;idx=1&amp;sn=da0d089e0aced529bc876b01cb269d4d&amp;chksm=9e9e7d5d07612b59bde9160a5a4d61361db5bc2bdd9dfbd01325abf7156c45de493f2936930f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CUTLASS 笔记 (3)：Tiled MMA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaBM85PQ20ZKphFmAO4gy3hgw10mclX4Lwh48nnIQGWl28qUDo87heib9Et9ar2duuibXUplKlSt2aE5kUmQIfA7BE6XciaYsicQEU/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：https://www.zhihu.com/column/c_1938664963049763058 作者杨远航，连载中CUTLASS 笔记 (3)：Tiled MMA本篇将解析 GEMM 算</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531187&amp;idx=1&amp;sn=0db7b2e0ad6130c7cea456fc35c4da65&amp;chksm=9e8467df063e4c863ee6440fb76272469bc07d516bd31eab86203531ae6c57c4ea1a39df514b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 22:36:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
