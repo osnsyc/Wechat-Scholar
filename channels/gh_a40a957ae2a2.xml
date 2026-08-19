@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[唐杰的最新X，告诉我们，现在的MoE模型训练的都还不够充分？ 刚刚智谱的唐杰老师发了一篇X， 我有一些自己的想法， 我的理解是，其实现在的MoE模型，在执行任务上的训练还是不够充分。 针对于模型执行任务来说，现在大多数超大模型都是MoE了， 专家的激活，哪些专家更好的使用、组合，是靠post-training不断优化的。 那么这种持续的后训练，是否对于Dense模型也生效呢？或者说，提升有多大？ 其实没有做过，现在最大的Dense模型貌似是405B的llama3，（24年7月发布？） 但那个时候，大家对RL的探索也没那么强， RL是DeepSeek-R1带起来，那已经是25年1月了。 所以也没有人知道1T的Dense模型的上限在哪儿？ 1T的Dense的推理成本想想都觉得恐怖， 但也许，超过1T的大模型，会有额外的智能涌现，不知道，也没做过相关的实验， 是否会出现奇点？ 正因为成本问题，现在大多数模型都采用Moe模型， 才能不断通过后训练提高效果，让更多的专家，更好的组合起来。 但GLM5.3的提高，在实测下来，我的大部分场景体现不出来，因为我不做安全，不清楚， 所以，也许模型的MoE专家的配合，靠后训练，可以真的不同领域单独提高。 参数拉高你的领域能力上限，后训练让你无限逼近 欢迎，讨论，批判，指正。 原文截图放到评论区了。]]></title>
+      <description><![CDATA[<p>唐杰的最新X，告诉我们，现在的MoE模型训练的都还不够充分？ 刚刚智谱的唐杰老师发了一篇X， 我有一些自己的想法， 我的理解是，其实现在的MoE模型，在执行任务上的训练还是不够充分。 针对于模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501980&amp;idx=1&amp;sn=62a497fae78c606bd96eca89de26be5d&amp;chksm=ced2dbcce62b405ffeeafeb9aa0bdc6a7c2c833cbfacf73b223d8c436d689a4365056e14fc17&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Aug 2026 15:22:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[豆包这波算是GUI Agent玩明白了，操作电脑无比丝滑～]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRPLyvM8Xa519C9qd5wwSakNVUhXUMnibdNSlniahDPxZB1Om9QmkGs6JnNKJrETP8iaDp83ErUATqStaibu00NySZ777emWo8GpOBY/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。前阵子，不是豆包跟飞书团队合并了吗？这几天，豆包更新了Agent非常刚需的能力，手机远程控制电脑，新团队效率起飞。你可以在手机上给家里或者公司的电脑派任务，也支持连接多台设备来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501978&amp;idx=1&amp;sn=d0b70fe6870fa7625a9e4ab6fa733fea&amp;chksm=cef053f2bf07f23c9bb1bcd43960873fd3fb7ceae6e09fc87091fa8265623e060eb36eec27a3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROUCek2VTzEyibrgTb17zcibHYATgWycIz4uQDkGvEKPXwFhHeskEWiajhUZ3F9gkHPgZU7OFl51Rks9b7k5NKlLVyteZUrtq8csg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。我最近刚离职，一直认真想一件事，怎么全职做一人公司。对，就是全职，了解我的朋友都知道，我其实很早就在运营的自媒体账号，业余时间也会做一些toB企业的落地工作，现在大火的OPC变</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499759&amp;idx=1&amp;sn=f5bb827b6086acb6b68882c830479113&amp;chksm=ceb380735eff5a927ad18060134488535e1eff3e20e0924e67b842eb740dd616432ba906de21&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 20:33:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[文心5.1预训练成本打到6%？搜索榜国内第一]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRPGibMFdicYvJjD1lM1Iroc9NhJlibI3qVBRNn7UBibjLicJ3Go0vh2ZP3aJicgSSugUL4UjIgFwHZnyvN83fwZKfYDQgLJ7AHFqJwzA/640?wxtype=jpeg&amp;wxfrom=0"/><p></p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499744&amp;idx=1&amp;sn=909a13ca4f46c270c05c5826022661ad&amp;chksm=ce63c0dd18eb93761bb9a06a6c04ce1dabb501a1fb79ac48b6bbe93cca6220ec1303570b3102&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 14:30:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
