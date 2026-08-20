@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[重新审视 CPU 资源作为语音模型 Serving 过程的一等公民]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYBJ8E9vqKMMWpck4TziaWtEEiccHjcibZUmpN7eeB8Iq2uPgq7ribjN4MZzW6DFA29QWNg0SbDHNZaq8SBRCDJDepBd6qYbGgpak0/640?wxtype=jpeg&amp;wxfrom=0"/><p>重新审视 CPU 资源作为语音模型 Serving 过程的一等公民从 2023 年 SGLang 项目启动开始，我们一直对于 long context inference 有非常大的投入。最初的时候，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532167&amp;idx=1&amp;sn=e4f4edb73b3cfc8a484f37bb4169b5e2&amp;chksm=9e0ba940764353fecd58af01d181acfbeb6f05e290be71b1cac63c721d7520ba1f9a08d79a59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 12:06:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[狂揽顶会！大模型下一个爆点找到了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka0uNkG8jibJSy2ibc5SuqQGK9l8iaw3H2wA7f0cKvMMYtIUXn4ZOILGpObL7yMiaibcJicCd2RbFqkOj5Ha5M0f21queE1N2M4RP2D4/640?wxtype=jpeg&amp;wxfrom=0"/><p>做大模型，不同资源条件的实验室，难度完全不一样。所以在选方向之前，先别问哪个最火，先问问自己有什么：多少卡、什么数据、三个月能不能跑出第一组结果。了解情况后，就要看方向跟资源的匹配度了，那每天都有大量</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532159&amp;idx=1&amp;sn=dc50cefe9c8df5619024649ef4b639c9&amp;chksm=9e243c41b1f4170b9dfc1b96a263d810601dfd73f955d856ea84307705de10f6bb44deff7369&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZDzgF3vasEsbq8SQDGWicibibIIviaaTDXPpKLvYssO9D6icqAnRqoXibzBgibgCYDNDmdSiaTszoxicl46ica9daOvwZEsAxVTxI7SiczUE/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天在 OpenAI 开发者计划，开放申请｜Codex for Open Source 这里看到OpenAI也宣布了Codex for Open Source 计划，面向开源开发者提供支持。然后以S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531215&amp;idx=1&amp;sn=037678dfbafb573ad3a006ce2da3e934&amp;chksm=9e04abc6232986e5661f6321d30b81f268748358189cf2e1224a1aa7bc79ebaabaf57ce2d17e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Mar 2026 21:55:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPU-MODE Leaderboards之vector_add histogram 以及一些有趣发现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbSprymGkDLDd1wvc5zgXa2AHtcGsnoJ3ZSQIFQiaKQs0Ok7bbr86eSJ9grhduyKfv9KWUzH0uDRYNZyAcdFlYgEcAPI8fX4cSY/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的课程笔记，欢迎关注：https://github.com/BBuf/how-to-optim-algorithm-in-cuda 。vector_add链接：https://www.gpumode</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531209&amp;idx=1&amp;sn=d3c843030225fb3bad2c39ba8084b483&amp;chksm=9ef03ccac8fc20723c529e87f6f4524a90c6263143f375930d24b4bc56910921af312c883896&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Mar 2026 16:07:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
