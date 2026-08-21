@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[小红书也发大模型？IMO满分？是刷子还是夯子？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRMuss8XRichqUtz8l7brCew6B0E4zzVeP2e2gBzTULckrQ0QdBIrRAuia2plJU2t5TNib4Mr2LB4m6BxNaAgDVicoTUovU4HicZO2ck/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。回归模型测试，小红书的这个dots3-note-prev模型我几天前就想测了，这是一个总参数280B，激活参数16B，上下文512K的多模态模型，你可以理解为，跟Hy3、Dee</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247502022&amp;idx=1&amp;sn=8e14fc8211e8d1bf6e0cf533fcd7082b&amp;chksm=ce608ed2b0870616a709df148d282738b6d6c084da26cfa560fb0000e7eac51a04702fb81a95&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 11:35:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[唐杰的最新X，告诉我们，现在的MoE模型训练的都还不够充分？ 刚刚智谱的唐杰老师发了一篇X， 我有一些自己的想法， 我的理解是，其实现在的MoE模型，在执行任务上的训练还是不够充分。 针对于模型执行任务来说，现在大多数超大模型都是MoE了， 专家的激活，哪些专家更好的使用、组合，是靠post-training不断优化的。 那么这种持续的后训练，是否对于Dense模型也生效呢？或者说，提升有多大？ 其实没有做过，现在最大的Dense模型貌似是405B的llama3，（24年7月发布？） 但那个时候，大家对RL的探索也没那么强， RL是DeepSeek-R1带起来，那已经是25年1月了。 所以也没有人知道1T的Dense模型的上限在哪儿？ 1T的Dense的推理成本想想都觉得恐怖， 但也许，超过1T的大模型，会有额外的智能涌现，不知道，也没做过相关的实验， 是否会出现奇点？ 正因为成本问题，现在大多数模型都采用Moe模型， 才能不断通过后训练提高效果，让更多的专家，更好的组合起来。 但GLM5.3的提高，在实测下来，我的大部分场景体现不出来，因为我不做安全，不清楚， 所以，也许模型的MoE专家的配合，靠后训练，可以真的不同领域单独提高。 参数拉高你的领域能力上限，后训练让你无限逼近 欢迎，讨论，批判，指正。 原文截图放到评论区了。]]></title>
       <description><![CDATA[<p>唐杰的最新X，告诉我们，现在的MoE模型训练的都还不够充分？ 刚刚智谱的唐杰老师发了一篇X， 我有一些自己的想法， 我的理解是，其实现在的MoE模型，在执行任务上的训练还是不够充分。 针对于模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501980&amp;idx=1&amp;sn=62a497fae78c606bd96eca89de26be5d&amp;chksm=ced2dbcce62b405ffeeafeb9aa0bdc6a7c2c833cbfacf73b223d8c436d689a4365056e14fc17&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROicZSBupvGaYy1VH0LXaWcIaHpgza87dfNrUP4MPTky1siaGXvo7dlzk011SO0ASQ3ul4yk45p8yV8ashVTWYakNy7eKr2ZtibHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。前几天刷到一个x，我醉了， 说DeepSeek泄露用户的聊天数据，输入<think>会吐一些内容，这不就是幻觉吗？跟泄露用户的隐私数据有啥关系，就是special token</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499777&amp;idx=1&amp;sn=64f35d9ca38f9c8bdc894e9b45c61670&amp;chksm=ce5519aaf906c39122e3ed7598239da051a31f92fd7a949578bfcf32f42840277974208d0b88&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 12:12:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[闷声搞了一年OPC，离职了，不装了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROUCek2VTzEyibrgTb17zcibHYATgWycIz4uQDkGvEKPXwFhHeskEWiajhUZ3F9gkHPgZU7OFl51Rks9b7k5NKlLVyteZUrtq8csg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。我最近刚离职，一直认真想一件事，怎么全职做一人公司。对，就是全职，了解我的朋友都知道，我其实很早就在运营的自媒体账号，业余时间也会做一些toB企业的落地工作，现在大火的OPC变</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247499759&amp;idx=1&amp;sn=f5bb827b6086acb6b68882c830479113&amp;chksm=ceb380735eff5a927ad18060134488535e1eff3e20e0924e67b842eb740dd616432ba906de21&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 20:33:39 +0800</pubDate>
     </item>
   </channel>
 </rss>
