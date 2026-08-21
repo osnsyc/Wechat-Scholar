@@ -10,6 +10,24 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[DeepMind又改Transformer了：深层激活回流，小模块反超全量微调]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBWSc39qGicXmGmo5VItqyoxGibmnLPzmjrCcfQms9TEVEcovzaqIGzolK1e9TsDz0lnSVtQT7WhnwIg1lnlodmsJzzNvRJTuImA/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepMind 最新工作证明，优化大模型未必需要继续堆参数。改变 Transformer 内部状态传播方式，同样可以释放新的性能空间。模型训练结束，Transformer 的架构就彻底定型了吗？De</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722323&amp;idx=1&amp;sn=3f367652f84a5b858839519efe644f92&amp;chksm=971284df5672bf717696bf8903797f0fe7e62bd802cba750cf40f6b8041e2d4bc06a2dda5fae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 19:33:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICML 2026 | 从专才到通才，OmniShow极简干预统一多模态视频生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCLDiaTDn9D5wwMBxsuIV7ZHogy8RibDclraHicEng831ADiawriag2JK2So4iao4ibfCpzGn3lOPicaeRsFXjTK2ib9Shf2ktMKwSBnhHs/300?wxtype=jpeg&amp;wxfrom=0"/><p>给一个强大的视频生成 base model 加新能力，业内的惯性做法是"缺什么补什么"——要支持 reference 就挂一套保形象的网络，要支持 audio 就再接一套驱动模块，要支持 pose 就</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722323&amp;idx=2&amp;sn=d7a47de148030db17ed1c64728ef8dc4&amp;chksm=97920e9cb111ee912209d7358bcef1d135ad964304b09084b2c7c1e43450abf55371c1fffc73&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 19:33:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播预告 | MBZUAI康健教授：面向生成式推荐的语义ID学习与解码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBnOej65ueCEojJaBAH8QmOcXz30U0afNMy2cjARoicNWQe1qalUfHSfibmjC9rrhFib7YsnUzl2Axc1Tov3feGYVCohic8iaH67uTw/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly × 星弧 STARC 科研觉醒AI前沿讲座 直播主题 面向生成式推荐的语义ID学习与解码 直播嘉宾 康健MBZUAI 助理教授 直播时间 2026年8月22日（周六）10:0</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722323&amp;idx=3&amp;sn=68102d75e47d5aa2c65868cacfc493a0&amp;chksm=972f80991af3f10de8fcd018b7ce789bec272952092d98c47fb564f49654e0b4605d3f5ce74d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 19:33:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek V4 Flash不换模型，只靠「自验证」反超Fable 5]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeD3BDciaL7Z4xM5moU9WgPyO2x4Z6tG8bPjdB878x9WY9CXt4TIPPRtmb46cXu5AcoevTEdbI8FpzPMTzQ9G0hvFbRp7vWVzOC0/640?wxtype=jpeg&amp;wxfrom=0"/><p>把成功率拉到与 Fable 5 相近水平，DeepSeek 自验证单任务成本约 0.11 美元，不到后者的十分之一。一个连自己都会答错的大模型，开始自己给自己挑答案了。DeepSeek V4 Flas</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722281&amp;idx=1&amp;sn=0b58c9f238549bdf1def79be509f745c&amp;chksm=9796d483320c144c980ae8593754239a1d7268dc2ed730b49637656cbf9249cdd8c98adce02e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeC365O8UwoctjLFmJGBOBN29fvCKjZnbOnzqoeXuLKTFmvoHm7QhGVx8Ikj2g1JQQqG0xKsTB3Y4teYwHszDXHzsgonzhokrDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>哪些问题值得回，哪些实验可以不做，这套 skill 先帮你排一遍。EMNLP 2026 rebuttal 刚刚收官，NeurIPS 2026 也将在 7 月 22 日出分。就在这个节点，港大 NLP</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721623&amp;idx=1&amp;sn=8c8a8dd4af9e92482a2b3e074b131c40&amp;chksm=9784d21baacfc25945b629cc83afa2bdbb19cf8dd9e1cef9c00c9765fb8ad3191cc424124bd4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Jul 2026 21:42:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中科大等团队开源长视频Agent：剪辑翻车，只改出错片段]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAibaW66mooIooFchECjPptEM4ZbC6rIuvlobc1wz65yxI2YK8HticAI4gA8T7S6NUdGMgD2Nfibym48IPlVR0FKoLXPt85jzWk2c/300?wxtype=jpeg&amp;wxfrom=0"/><p>无需从头重来，只要定位一个故障的中间工件，就能让跑偏的 AI 剪辑“悬崖勒马”？近年来，大型语言模型（LLMs）在长篇视觉叙事中展现出卓越潜力，生产方式正迅速从单一模型生成转向面向生产的智能体系统。但</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721623&amp;idx=2&amp;sn=c00ae9524aec612a5a5c836e9a458944&amp;chksm=970d1c414b97d3600f93b2073f8535bfd317b931adebaae67fa7df3c69fd66921e97f53cba50&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 21:42:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[视觉版「下一个token预测」找到了？何恺明等押注视频生成]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeClAW8uIHevok7GicX2luKXfaBHk45ZeyJVHPvfadVtZ1pfbDicq2AwzFibiamniaibMazTQzJ9M0moic1uafMkBnBVThwMumdLGmOBZE/640?wxtype=jpeg&amp;wxfrom=0"/><p>何恺明、Andrew Zisserman 等视觉大牛联手，把文生视频模型做成了多任务感知模型。靠着预测下一个 token，语言模型逐步把翻译、摘要、问答甚至推理收进同一套系统。计算机视觉却仍然高度分工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721599&amp;idx=1&amp;sn=63e0de309d9d6fb5aecf15a302ff15df&amp;chksm=97a5311f04b087b2d8c6704232d798f12734bfa74cc21d44a8bd4ca5bc9d8b757dab6fdc3028&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 19:16:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人大×小红书开源UnityMAS-O，多智能体实现联合强化学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDnG0ibcX1omnzIHosISEoib8K99U8rgxHCO0NaCIGnm2LC8ePt4W5JRJKibH5u3AKS4LqTYxzTNtxpl5qxjN5dW5rcNo8sEOlROI/300?wxtype=jpeg&amp;wxfrom=0"/><p>角色、工作流、模型映射和奖励都可自定义，UnityMAS-O 让多智能体系统拥有统一的强化学习优化接口。©PaperWeekly 原创 · 作者 | 陈逸群单位 | 中国人民大学博士生研究方向 | 多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721599&amp;idx=2&amp;sn=379a8064b9ae1a916e717f25301ec44d&amp;chksm=97eb3b34a87880d42eb0077dbb2afb3f591019696a0be991c17134f8050c0dd92ee840a2d3b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 19:16:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

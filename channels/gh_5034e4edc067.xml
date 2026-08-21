@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[榨干 H20：将 DeepSeek-V4-Pro 推理服务推向极限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkv1pO0n5XiczvS3afNWUeZXbPbZYcmX9wxYvKkoDqCM2LNdy748Jk0SaVtlrEq0p4mSBKviayVXvPq3bpV5NsyoibreCn5BQ0KJ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>LMSYS 团队刚刚发了一篇 DeepSeek-V4-Pro 的 H20 服务优化文章：Pushing the Limits of Serving DeepSeek-V4-Pro。解决的问题很直接：一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453568&amp;idx=1&amp;sn=3c0ae8689d564c74e787865adab8ff6e&amp;chksm=bfdbf51c5fb74bdd506c6a7c87b9dfe170b453d0d3ea5114ab3a8e0b669c8be628c292bfa430&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 21:06:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[LlamaFactory 作者又搞了个新东西：Agent 开始自己造 Agent 了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkMXzicEyYVhEekibd3IMQD6bRaY60yBOf6nz2attGKhovyAib0Cvm6icCmI5Fc2AUZfkAotMJuGxKnsep9FaDmh9g6AxZx8ZHeXos/640?wxtype=jpeg&amp;wxfrom=0"/><p>LlamaFactory 作者郑耀威最近在 GitHub 开源了 PenguinHarness，一个让 Agent 创建并调优其他 Agent 的自动化构建平台。几年前，LlamaFactory 把模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453545&amp;idx=1&amp;sn=c98f59020251b53105380e1f1464cb3d&amp;chksm=bf2c21f86e6630aa181bb357d0542eb0394aae6c1e2ca5ac7690706657ec4b5b72422e182c66&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[Claude Code 团队成员详解 Fable 5：长任务开始前，先找未知盲区]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkkibGmbVuYLUJzE1kUPFRw7jTBc75IMY8tosLiaL1G7VdWWHvDfeib6lT3icFHY1qPH6gwBibQQKYFMXW6nfnqcS6gZZWlRsmH13wQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 一旦开始跑长任务，最容易出问题的地方在于：它会很顺手地替你补全世界。业务约束没说清、代码历史没讲透、交互偏好没有定义、review 标准只存在脑子里，最后都可能变成模型在代码里</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452610&amp;idx=1&amp;sn=5d7ef9b3a96d7c66b322d7cf2152b72c&amp;chksm=bf4e0434cdf7fe8926a0448b46ed37735f7e7b63e6d1427d8c8bed1004393f9c76433b8db6fd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 05 Jul 2026 12:45:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PPT Agent 的“记忆盲区”：MemSlides 让幻灯片生成从一键产出走向局部修改审计]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmZ7ibCwia1ZpmC0dcxg4lrRQxRnQGXq7RbOz5aHDC0w4MKj21eZic3Cd0ZKicx5WEfyLqpBStbKxHDo63K6x0KWNRb6TLOsWquvicE/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文: MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with M</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452610&amp;idx=2&amp;sn=86eb0103f57349acc109a05999d85f41&amp;chksm=bfb8cb34026d3f888bc1566f047099e1210cb19ae4efdf3cd945585536c8a2a52072430b9245&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 05 Jul 2026 12:45:32 +0800</pubDate>
     </item>
   </channel>
