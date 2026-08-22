@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[全局损失对得上，图像局部可能全错：LoTA-N2N 拆穿了单图去噪的平均数幻觉]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/swpukQFIAUOwfAtM3WECXiaDK9sfF9gpcTusKRBoWNP0NektzA0R8NcJ3FcbGUOqgN9VT8o8R9Ckib5lGlC8viaoT8hdA0FqYoqsGxwiasBBJEY/640?wxtype=jpeg&amp;wxfrom=0"/><p>你只有这一张照片，干净答案根本不存在夜里随手拍了一张照片，放大后噪点满天。你想让网络把它修干净，却只有这一张带噪图：没有同一场景的干净照片，也没机会重新拍一张。普通监督学习在这里卡得很直接。网络输出一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485199&amp;idx=1&amp;sn=3774673217fd3b053363de6881beec5f&amp;chksm=97fe3729d91b8aac7152086b825cdc4fc2cf55691b4c5747e8b052c2768ed2ea2403dfde71a5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Aug 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SNM-VFI：先把运动算清楚，再让扩散模型补它算不出的部分]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOLAia0gJOqXT9R1pPzavuNXesFS6kJN7lvObmnDVfkxanqTXSxtDEFllh3S21JHQbG11vEo7qo9iaicXibQVaq82xu2Bx4gdA6DYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>慢动作视频里那些被“补”出来的帧，到底是算出来的，还是编出来的？这是视频插帧（Video Frame Interpolation，VFI）一直绕不开的问题。给模型相邻两帧，它要凭空补出中间不存在的画面</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485192&amp;idx=1&amp;sn=9b128721801b903b94f88f1e409441c4&amp;chksm=97e65f21df78c5e4e5ef51f8cccd69c24ea67cc1b260322bd4c1124af7104cec8b422ee9f9ce&amp;scene=0&amp;xtrack=1#rd</link>

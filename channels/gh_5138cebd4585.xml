@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[AutoResearch神话破灭：大模型离真正自主科研还有多远？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAlSj7KsOb5ZSCf9K7ZSmmsF4j0vTHAaSz4H90RW54lI4EZwmoic1RZ1by1BRMfJrSjWGjsb8D4y1dPAkAlElaIl6DL9UJoOdSk/640?wxtype=jpeg&amp;wxfrom=0"/><p>读论文、写代码、跑实验之后，科研 Agent 又拿到了一项新能力：主动寻找最能排除错误假设的关键实验。AI 自己做科研，曾被认为是大模型时代最具想象力的方向之一。让 Agent 阅读论文、提出假设、编</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722361&amp;idx=1&amp;sn=658f056f13fa2edd790bcea25eb28a8f&amp;chksm=97b5f75feee3f45bb12385d4ab555f127445df123bd0f5236ab65322e7084f954283f5490197&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 22:30:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICML 2026 | 一步错不再全盘输，浙大BEACON让长程Agent成功率近翻倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBKfZuatssIYXLILiaY2B0a6zfy4VibJcsgseeYrbsicAUCYCuv8LFF9oGzH5YBOiciaTjndHIUicK9oibSS6YickCvLgFOAJYPJamkglc/300?wxtype=jpeg&amp;wxfrom=0"/><p>引言：任务是一步步做的，奖励却只看最后一步从网页购物、家居操作到科学实验，语言智能体要完成的任务越来越长，一条轨迹往往包含 30 步以上的连续决策。用强化学习训练这类智能体时，一个老问题变得格外突出：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722361&amp;idx=2&amp;sn=5a006b50943113b0c6017e795dbada36&amp;chksm=97c59bf5202644b7f9a7bdd1feb5ce5dd87da96355e33d42217c184bb6055917dc478f03ff86&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 22:30:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepMind又改Transformer了：深层激活回流，小模块反超全量微调]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBWSc39qGicXmGmo5VItqyoxGibmnLPzmjrCcfQms9TEVEcovzaqIGzolK1e9TsDz0lnSVtQT7WhnwIg1lnlodmsJzzNvRJTuImA/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepMind 最新工作证明，优化大模型未必需要继续堆参数。改变 Transformer 内部状态传播方式，同样可以释放新的性能空间。模型训练结束，Transformer 的架构就彻底定型了吗？De</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722323&amp;idx=1&amp;sn=3f367652f84a5b858839519efe644f92&amp;chksm=971284df5672bf717696bf8903797f0fe7e62bd802cba750cf40f6b8041e2d4bc06a2dda5fae&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDJmrAZeiaRVnYYGSJQNCCjG6ibp4qXEY5icX3fRg8VOeyvwjHzYOtBSzflkYWZHHS9UvKefOBeoX0ic8avGTSrzXmL9MEyWxlf2r8/640?wxtype=jpeg&amp;wxfrom=0"/><p>模型权重保持不变，研究 agent 却在 100 轮筛选中重写了自己的搜索、上下文与评测机制。100 轮改写，约九成候选版本未能通过评测，真正刷新历史最佳的只有 7 轮。Weco AI 让一个研究 a</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721660&amp;idx=1&amp;sn=d83e012a94601ad35aacb132e5f9493f&amp;chksm=9742a57d92e9268112647c319a4378a4217796019385695a16803682e56efab056788c888a48&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 23:23:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AgentCompile让大模型做“编译参谋”，CUDA推理平均加速5.66倍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeD5XdYu4neZeZgbfYLYUCchM5a6q05sgtCUNzOr3th8Kfrkb1aP75Jn8KUMIcDqCSm6roD8iafvaY4kdbmicVz7qaYb5AvptD5CQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型进入真实应用，推理成本正在成为限制落地的重要瓶颈。一次生成任务背后，往往包含长上下文预填充、逐 token 解码、KV cache 读写、矩阵乘法、注意力计算和大量框架调度开销。PyTo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721660&amp;idx=2&amp;sn=44cb0132b3ef6e7e7d9c20f368d97980&amp;chksm=97b2b3c522bcfd1275c5d9a532299ccad55ed2a71e8bfa15b66f8151cb9f9afeeeeb1a0fbab2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 23:23:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026出分倒计时，杰出AC开源Rebuttal Skill]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeC365O8UwoctjLFmJGBOBN29fvCKjZnbOnzqoeXuLKTFmvoHm7QhGVx8Ikj2g1JQQqG0xKsTB3Y4teYwHszDXHzsgonzhokrDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>哪些问题值得回，哪些实验可以不做，这套 skill 先帮你排一遍。EMNLP 2026 rebuttal 刚刚收官，NeurIPS 2026 也将在 7 月 22 日出分。就在这个节点，港大 NLP</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721623&amp;idx=1&amp;sn=8c8a8dd4af9e92482a2b3e074b131c40&amp;chksm=9784d21baacfc25945b629cc83afa2bdbb19cf8dd9e1cef9c00c9765fb8ad3191cc424124bd4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 21:42:24 +0800</pubDate>
     </item>
   </channel>
 </rss>

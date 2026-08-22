@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[Z-Image 团队系统研究 Pixel-Space 文生图：从 Latent 预训练到 0.2 秒生成 1K 图像]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWib3buibkPC1CVbBGLW7DCbajeCs1wwF1BzcibHP79f3bnE3uCoU0q35bEEM2WT9AafN2zGu3NWclqfXLMJHlTtaa7g3IibRNEg0nM/640?wxtype=jpeg&amp;wxfrom=0"/><p>在今天的文生图系统中，VAE 几乎已经成为一块默认的“中间层”：先把图像压缩到 latent space，再由 diffusion model 在 latent 中学习和生成，最后通过 VAE dec</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664409&amp;idx=1&amp;sn=2d4739cbc12e09e643bdc16305bce325&amp;chksm=972b497e34aa9a8c6887885274436e5f3735c867680a7ba41e766bfcab67917478889b0f3659&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 18:20:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[IJCAI DDL 2.0 Best Student Paper Award | 北航等提出LatentGuard：在隐空间中修复自动驾驶大模型的安全逻辑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9HAom7zINDgoJuB0ajtVhkGwhvE3n9z3qHsTh8Zpb064WiawRED51CmEBUg32wOL2bRMuD1esG3bVubnEUjEakmQkQVrUibbON4/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，北京航空航天大学团队的论文 “LatentGuard: Safeguarding Autonomous Driving VLMs via Latent World Logic Repair” 获</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664409&amp;idx=2&amp;sn=86d6c5345083ba8a4a4c648f3fd4f420&amp;chksm=97344e617cd31ccabf56d355cdea59ca0bf53c229e4f7977b34e946ac942769c6901be1eac45&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 18:20:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICML 2026 Spotlight｜AI不只要“看懂”图片，还要读懂它为何让人动容：EEmo-Logic统一情绪理解新框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9xqep61lcH7smKp2C5Q2sxqUwcbWGZTWubTib9ZQfNniaGcEOgicwZdmC9UTAPLHnKJqFgU2tK6nkH5QhaK9CmMB1qibXGApbMnzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>同一张图片，有人先感到喜悦，有人注意到惊讶，还有人觉得它略显俗套。对人类来说，这种混合而微妙的感受很自然；对多模态大模型来说，却远比“图里有什么”更难回答。过去的图像情绪分析，往往只要求模型选出一个主</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664347&amp;idx=1&amp;sn=8b78e8921d5b57b0ac47d4487fd5959e&amp;chksm=97badac50d1cc4bf4a3de9051e339ebfcab41a78ffa12aec89dea2e7ea61e7271c9b777f0e47&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8cExNAKpIczfvHv6iaDKiaWVIkxWaUh9TicpByZmsbjsRP7GJ2lQUb4vamwj7vfFFsSMDv6Bf9Mx3toTspjHXorib1woZoY7IsMF0/300?wxtype=jpeg&amp;wxfrom=0"/><p>一个多模态模型可以正确描述图像，也可以生成逼真的视觉内容。但这是否意味着，它的理解与生成建立在同一套一致的内部表示之上？当模型根据复杂指令编辑图像时，它是否准确定位了需要修改的对象？当模型生成视频时，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663246&amp;idx=2&amp;sn=6a5bd6304ff66e030c27cb120d4a82d1&amp;chksm=9702538169b8e1a029a7bcb348938dbc1a63969311c61eecda7618bcdf269693b9976a7b7d59&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Jul 2026 23:15:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【科研福利】探索Transformer理论边界，17个热门细分方向、350+篇高分文献及源码免费领]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9Lqh5aibicuicUKpsEGRsWkjGYjN2GwNBXaQ5XIlq5N1nS8Kstf4sKFrQpJEGzfMGzibkZfzIa7wqgZQvn5VKjwmGE3siaASvlmzBU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Transformer依然是当下的绝对主流，但简单套用和魔改已经过时，深度和创新性才是顶会审稿人的菜！比如ACL26上关于局部注意力为何有效的论文。此外，解决Transformer的固有缺陷；跨界融合</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663240&amp;idx=1&amp;sn=6e40a64d479ebda98ed183c07be4cba7&amp;chksm=9741f3dcd8a06babd817cef7fdcedc95b6ed93c891a14147261d9072eba69d944786d095fa7f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI圈最残酷的真相：99%的人，连入场券的影子都摸不到！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gN8cLfJicwibvd6kibZibNfpgUttia70AzldGwB27ywx87WFTRvGrcbTER7ianatNMGSlnEyibHWwic3EC8EtF5oQPibZPaJMcjh63aGVfep2GbWBHfg/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家有没有注意到一件事。国内随便一所大学，发了一篇SCI三区、四区，甚至只是被EI收录，官网和公众号就能欢天喜地挂一周喜报："我院科研成果取得重大突破"。但同一时刻，NeurIPS/ICLR/CVPR</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663240&amp;idx=2&amp;sn=c500d9a0b16b3df933e9878e16305a90&amp;chksm=97b93887200d59d9a797ebc8b4c1300af90906f7244ed0b9f5164f376d7ec7a83e807efebfd3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 12:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
