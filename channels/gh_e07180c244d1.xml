@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[南开程明明实验室提出OraRL：不用思维链，标注即rollout，大模型强化学习又快又准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9iayxdKjps2HO8bGVX2ppPFMC2xAQzbhY5oVzyp9MnOnGkjF6OBicBjAGfUzpYbdDQo5aNfia8lFwGLRx6Oo95Sy3KCf8SuVBCb0/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇分享论文 Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs，南开大学程明</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664530&amp;idx=1&amp;sn=cdf597d130e5691401793364a4311e8a&amp;chksm=97bf7dacd4d828ea6ad443d7d10a8d44bf9903599aaabebac6e9725174e3219866560082afb7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 21:14:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ECCV 2026｜DDE：让视觉语言模型在测试时学会识别噪声]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9hcPiaWSib7FuPOG6SHOeBLdxyskLKMkYYdSWvTeDCsn2mzYy2sgcSibxhfpbzPT6Kw53DKdMy388tE90az6scpgRvXNLJhYErYE/300?wxtype=jpeg&amp;wxfrom=0"/><p>在真实应用中，视觉语言模型（VLM）接收到的测试流往往并不干净。除了属于已知类别的样本，还可能混入分布偏移样本、未知类别样本和各种 OOD 噪声。模型需要一边适应新的视觉分布，一边准确分类已知样本，并</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664530&amp;idx=2&amp;sn=76be3d93d549d916d79c505dad180dd3&amp;chksm=97a991eef26f0efa1b6d02cecc56dc1b0042d83cbf9a2e28fa884281c926bcca350c4877e9d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 21:14:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TGRS 2026 | 北理工提出RDANet：攻克红外小目标检测中的尺度与场景相对退化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWicqiaGgLGyHzZcgOnXuq2CR1s7mZzVHFo4xCukh72XHjxHicBTBH7tFDPJXVpWlZTVZyFGGfLJ7fpuG6cPeqfGyxgItwqbomUdB0/640?wxtype=jpeg&amp;wxfrom=0"/><p>在航空预警与遥感监视中，红外小目标检测（IRSTD）堪比“沙里淘金”——目标往往仅占寥寥数个像素，微弱对比度深陷于汹涌的背景杂波中。近期被 IEEE TGRS 2026 录用的论文中，来自北京理工大学</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664470&amp;idx=1&amp;sn=3c7144321c95b1d2e240898694fc98fa&amp;chksm=9762ee182d4c73af581d8d520e07acf29afbb1192f31cd061bb1e41e091fa126454b1107a006&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWicU2CQBAric9ncojh00vjcdBjYiaUbaxhLvOCSAKkp7XR37xaV2IN2HhY8VXyI2gx84ZgiazrrsGuRCbHExScfsBuhtruIiaibr2lRI/300?wxtype=jpeg&amp;wxfrom=0"/><p>导语在人工智能飞速发展的今天，大模型的参数量正从百亿迈向万亿，序列长度从1K扩展至100K tokens。伴随这些数字跃升的，是几何级数增长的计算成本和碳排放压力。近期，一篇题为《A Survey o</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663358&amp;idx=2&amp;sn=5a65d975a7196da1e2fe08ca12448cda&amp;chksm=9789eeb5f43650240750dbd4b561d1a1dd8ef6d107f30626b0805323ce6ab9c8dbd2bd39b34f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Jul 2026 23:07:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ECCV 2026 | 湖南大学提出 MedSynapse-V：把医生的“临床直觉”写进隐空间，医疗多模态诊断平均提升 3.9pp]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibDNfo7bPp8NaC2T6Z1lXeq3w4icdCmHW6mJ47mG1mdjH7EJ07WonCJkR1R9JF4stK6czHjJD66gNsV3Vkic1OApXLD6fAbSSsHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文标题：MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution作者：C</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663312&amp;idx=1&amp;sn=3be3cb712b1dfc8e6a96da8b8c53e6f3&amp;chksm=97d2de134ff03d0ab8f9fc13e30b29d4c02a3c19cb6ea2a2d5671f328b876c8fed2376668d56&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Jul 2026 22:55:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ECCV 2026｜Pistachio 全面开源：用可控视频生成，重新构建视频异常检测与理解 Benchmark]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWibbibPviaCtBrRs2GP4snnOyfXVEibWlmjYL91L5HcYF5tOicyvbrrkMyQDGR9wcdL99UjlhzBCK9Uwodia8u3MgHoFmAZmeOT2G5oo/300?wxtype=jpeg&amp;wxfrom=0"/><p>本文为粉丝投稿。近日，我们的工作 Pistachio: Towards Synthetic, Balanced, and Long-Form Video Anomaly Benchmarks 被 EC</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663312&amp;idx=2&amp;sn=7705c9f664f9ca3499d8025b43c69e1a&amp;chksm=973adc53446d07e69acab4ea63758ae53160363d831106d4340df57b65239e6af0677c6ee94b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Jul 2026 22:55:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
