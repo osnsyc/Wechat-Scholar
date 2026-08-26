@@ -10,6 +10,12 @@
       <title>gh_2687fae329dc</title>
     </image>
     <item>
+      <title><![CDATA[仿真中位移解收敛了，应力结果就正确了？当然不是！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/czPkr0aDycB05pPLeRJEYVnGib4hL3IKUav4ElzibUYeAHsZqU8gicsFm9QmibAxqJqGqiaYXVeYibzac9DHb12zrDsaX1yTATb95HaRWGCf674yI/640?wxtype=jpeg&amp;wxfrom=0"/><p>危机：位移收敛后，应力仍可能不可靠！ 1）外推有误差 2）平均会掩盖 3）云图能骗人 4）奇异点永不收敛一、外推：从高斯点到节点的猜测有限元先求解位移，再由位移求导得到应变，由</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513455&amp;idx=1&amp;sn=9ebde6257d1a12926d04a5c3a4e92014&amp;chksm=c124fa44c676a0fe6b81fc18af90ea0f54a0ed9757087aae8b10f81d3785b7e3dcaf9146a8f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 11:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[只有真正的工程师，才懂博集华仿的价值]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/czPkr0aDycAoq9ILRqc0YMHQ3HMrEfyUclr0jBEpq7XqplIia6P15VgTzpGxTQUHHAMJQlXZoEGux3NpEkWibuH3ibcNzhv8aPFjojibv0sgz8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>我是2025年10月被裁员的，43岁，985本硕，自动控制方向，18年工龄，做过IoT、电力电子、工业互联网，失业前在一家外资水泵企业做预测性维护系统，持有国际振动分析师三级认证（CAT II</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513446&amp;idx=1&amp;sn=6bb039a9afd01b4e7eea220bf0d00194&amp;chksm=c175ebcfb054ef438ca4c8952a82a8c878f70fc39762a5073d20f2e6a53c18f245cfa6d5aefc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/czPkr0aDycA6NibHRjdiaqjkpjU3Llg0Gib1ykgS93GZ1dPTfIQMbk7I2koibpLH4egPsXlNhpZ77O8WZGF5hOKGlX8HwsMozcE3ViaMp3iaIeLaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>前几天，有人问有没有618促销活动。金卡（含七套课程）银卡（含四套课程）会员是保价的，降价就无法向之前学员交代。经过研究，我们推出轻量级会员。精英卡：任选两套课程 + 一次一对一总监交流会下列课程中任</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247512987&amp;idx=1&amp;sn=2ef34f246056bd66f674e4bb58ced2ac&amp;chksm=c1de30bf54b63e0ea36fa90700059a2c9228d539b55d30919d47cac84e2d142123feb23081b0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Jun 2026 11:09:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[钢板对环境：自然对流占65%？辐射换热占35%？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/czPkr0aDycBNoq5WA1Lw5JzQnmKgFBAWUnsQujg2ow4ECI0SYVoJo7bycLTO1eEibwDSKyMSVhibArNGCGAxQaVvClEyB2NficqqYmafFUQWGY/640?wxtype=jpeg&amp;wxfrom=0"/><p>1自然对流与辐射换热博集华仿上文《传热分析：解密换热器的热辐射》介绍，大部分情况下，可以忽略壁面与环境的辐射换热。本文做了参数相关分析，验证结论。2自然对流博集华仿设环境温度为22，自然对流换热系数为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247512979&amp;idx=1&amp;sn=bd4d56ba85b520a300368a9a74c35704&amp;chksm=c1337a6c6b71181f81f40397bda3b8e1c6b87a9bc267eb8f9d109f97acdab330439a7ee4ea8a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 14 Jun 2026 07:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
