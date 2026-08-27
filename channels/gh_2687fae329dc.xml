@@ -10,6 +10,12 @@
       <title>gh_2687fae329dc</title>
     </image>
     <item>
+      <title><![CDATA[实体单元、壳单元、梁单元的适用场景与连接定义]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/czPkr0aDycADfnAG7dPL7UwBF6tRQ8xeFgJCTxiar5c3xyUTqcBn8tZve8FkGqvOXia5ZWPqoO3D3zt9SodD8PQuQkQ3Pe9E3oDpw1vRtHrWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>同一个零件，可用实体单元、壳单元或梁单元来离散。选单元不是几何偏好，而是物理假设的选择。一）实体单元无任何几何简化，实体单元节点一般具有三个自由度。最直观，最常用。适用：块体、厚壁容器、局部应力集中区</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513461&amp;idx=1&amp;sn=425f3497ad3354583e56db3a68117898&amp;chksm=c1d116bf0f1901e29d3919bcceb86053e4053903936a1617b03fca04473230dd4728532ad339&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 10:43:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[仿真中位移解收敛了，应力结果就正确了？当然不是！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/czPkr0aDycB05pPLeRJEYVnGib4hL3IKUav4ElzibUYeAHsZqU8gicsFm9QmibAxqJqGqiaYXVeYibzac9DHb12zrDsaX1yTATb95HaRWGCf674yI/640?wxtype=jpeg&amp;wxfrom=0"/><p>危机：位移收敛后，应力仍可能不可靠！ 1）外推有误差 2）平均会掩盖 3）云图能骗人 4）奇异点永不收敛一、外推：从高斯点到节点的猜测有限元先求解位移，再由位移求导得到应变，由</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513455&amp;idx=1&amp;sn=9ebde6257d1a12926d04a5c3a4e92014&amp;chksm=c124fa44c676a0fe6b81fc18af90ea0f54a0ed9757087aae8b10f81d3785b7e3dcaf9146a8f9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/czPkr0aDycBnWWaw3SXEY3as25aAs6bPMoOdj13BZia9yz8mibxcSSiciaucc58rFWQ2iaBfiaKEm66ULXugqCH2tXYNXZ4XFo4qnCNWcicax5Ldm0/640?wxtype=jpeg&amp;wxfrom=0"/><p>1哪些因素影响仿真结果？博集华仿最近支援学员的实际项目，遇到了一些共性问题。哪些因素会影响仿真结果？1）材料参数，非常容易解决。因为材料数据可以查。比如钢的杨氏模量范围是190-210Gpa，不管设置</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513010&amp;idx=1&amp;sn=f80fcdd9d00788ad71defae47a686076&amp;chksm=c16306a41a5b1fa79f0ced467640d92bfec96828be5f1c715b20b8cc9df7e127a0807f9b1389&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 19 Jun 2026 11:58:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[618大促：任选两套仿真课程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/czPkr0aDycA6NibHRjdiaqjkpjU3Llg0Gib1ykgS93GZ1dPTfIQMbk7I2koibpLH4egPsXlNhpZ77O8WZGF5hOKGlX8HwsMozcE3ViaMp3iaIeLaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>前几天，有人问有没有618促销活动。金卡（含七套课程）银卡（含四套课程）会员是保价的，降价就无法向之前学员交代。经过研究，我们推出轻量级会员。精英卡：任选两套课程 + 一次一对一总监交流会下列课程中任</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247512987&amp;idx=1&amp;sn=2ef34f246056bd66f674e4bb58ced2ac&amp;chksm=c1de30bf54b63e0ea36fa90700059a2c9228d539b55d30919d47cac84e2d142123feb23081b0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 11:09:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
