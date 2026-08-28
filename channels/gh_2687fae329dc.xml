@@ -10,6 +10,12 @@
       <title>gh_2687fae329dc</title>
     </image>
     <item>
+      <title><![CDATA[梁壳单元共节点是很多人的误区：很多人不懂]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/czPkr0aDycAJAnibEsibSia7THezpFmGKCRGytHoxosthMrtFFxVibuWUicpOGd12cia1ibmYSfU1nSNMDGwYsJk7hxdXqfQ9X5junUpHRSUloxibyE/640?wxtype=jpeg&amp;wxfrom=0"/><p>1梁壳单元共节点是很多人的误区博集华仿当梁单元与壳单元固接，是否直接使用共节点？以下是笔者前作中读者的投票：很多读者选择了可以。大概能猜到理由：因为梁单元节点有六个自由度，壳单元节点有六个自由度，所以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513516&amp;idx=1&amp;sn=0aa89109ec9e93c7bde2ce2acd6f8165&amp;chksm=c18f630417684e6c3580b4e27821540581fbc4298b148b70f4fdd1c9f353eddfb7948c2da903&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 11:12:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[实体单元、壳单元、梁单元的适用场景与连接定义]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/czPkr0aDycADfnAG7dPL7UwBF6tRQ8xeFgJCTxiar5c3xyUTqcBn8tZve8FkGqvOXia5ZWPqoO3D3zt9SodD8PQuQkQ3Pe9E3oDpw1vRtHrWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>同一个零件，可用实体单元、壳单元或梁单元来离散。选单元不是几何偏好，而是物理假设的选择。一）实体单元无任何几何简化，实体单元节点一般具有三个自由度。最直观，最常用。适用：块体、厚壁容器、局部应力集中区</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513461&amp;idx=1&amp;sn=425f3497ad3354583e56db3a68117898&amp;chksm=c1d116bf0f1901e29d3919bcceb86053e4053903936a1617b03fca04473230dd4728532ad339&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/czPkr0aDycBQ8ktrRt6ibkQsndEHSNBXpa3iaeMNV1Bxnhj5aI8acYpBttE2JpgSIv8yn1iciaOIiaoBDZhcb49FH43aYxIibHT7LK2fnloaOPIM4/640?wxtype=jpeg&amp;wxfrom=0"/><p>1应力大的两个原因博集华仿仿真中应力结果大，只有两个原因：1）该处有应力集中或应力奇异2）该处分担的力本身就大类似情况，某构件振动大，也有两个原因：1）该构件发生了共振2）该构件承受的激励本身就大2应</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513023&amp;idx=1&amp;sn=cb8c6b6f702be32500622e74563e0e63&amp;chksm=c1460f341b0575053b213496df50aae07117c3f816e0c9dccb847441f91c5db5a2ab92380d52&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 21 Jun 2026 11:35:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超级干货：以学员项目为例，深入解读哪些因素影响仿真结果！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/czPkr0aDycBnWWaw3SXEY3as25aAs6bPMoOdj13BZia9yz8mibxcSSiciaucc58rFWQ2iaBfiaKEm66ULXugqCH2tXYNXZ4XFo4qnCNWcicax5Ldm0/640?wxtype=jpeg&amp;wxfrom=0"/><p>1哪些因素影响仿真结果？博集华仿最近支援学员的实际项目，遇到了一些共性问题。哪些因素会影响仿真结果？1）材料参数，非常容易解决。因为材料数据可以查。比如钢的杨氏模量范围是190-210Gpa，不管设置</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513010&amp;idx=1&amp;sn=f80fcdd9d00788ad71defae47a686076&amp;chksm=c16306a41a5b1fa79f0ced467640d92bfec96828be5f1c715b20b8cc9df7e127a0807f9b1389&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 19 Jun 2026 11:58:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
