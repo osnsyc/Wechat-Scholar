@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[吴恩达参与斯坦福新作：丢掉中间推理Token，长思考最高提速3倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeD5rbjobPhpAlYXPwiaQiadEcbX1ic1QnxuLuvBuKocSLc8dUKnOnsaPxS7PyrO1HZWInB8dNoRIWiaRNdpYx1wSvUOt87cWkDlBqc/640?wxtype=jpeg&amp;wxfrom=0"/><p>推理链越来越长，模型未必需要记住全部历史。Prefix Sliding 只保留任务前缀和最近窗口，让长思考不再背着整条推理链前进。一条推理链越来越长之后，模型究竟需要记住多少？按照标准全注意力的做法，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722518&amp;idx=1&amp;sn=1622aeca4752be01bcf454d0039699f1&amp;chksm=97283ba9e8c5e03b27328211d7c2c477b794cd2f7b7f863dcc9f717772ca32ee0da7ebec0692&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 21:54:34 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[哈工深提出图像修复新方法：一张图一套策略，测试时动态调整]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDibstXOb774E2Z9HuMJsXXdiarfDUM8M1a7B6999kX5OiagrbtmicyxZ8PcUovVqoBW35t66DD5rtbCJjGatG3aj5jhpknZhEmiaao/300?wxtype=jpeg&amp;wxfrom=0"/><p>背景挑战图像修复面对的退化天然具有很强的输入依赖性。即使属于同一种任务，不同图像的退化程度、空间分布和频率组成也可能截然不同。同样是低光，一张图像可能主要存在整体照度不足，另一张图像真正缺失的却是暗部</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722518&amp;idx=2&amp;sn=e55414cdddabfd4ac735c8a327313660&amp;chksm=97034ee5b9e03456fdccccc9726fc293f44412c19bbb30f41322f3a78b157bfda00d34d2e937&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 21:54:34 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[李飞飞团队重构具身智能接口：「视觉轨迹」成为世界模型新语言]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeAOcWH4Rq2IiaghaJdxzLeBew2ly8yzicwWq0zxzeACW2hKkyfG8k4QllOxVbH3jm0H89A4vCl5wiaNdkLokvdicVjicH6Oog9eqZLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>动作指令很适合让机器人执行，却未必适合让世界模型预测未来。李飞飞、吴佳俊团队尝试用视觉轨迹补上这层接口。李飞飞、吴佳俊团队，最近又在机器人世界模型上推进了一步。这项工作从策略模型和世界模型之间的信息接</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722484&amp;idx=1&amp;sn=e029fbc66cfcf32f1e544713bd322b92&amp;chksm=97f64313a89dd83b325f5a42edefa2126e9b974bf71ae0c52f845bfaa5ccc56e6964d65e6f43&amp;scene=0&amp;xtrack=1#rd</link>
@@ -295,18 +307,6 @@
       <title><![CDATA[Transformer一作新研究：免验证集，只看权重和激活锁定过拟合]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBZbwpjmibTR6t7TTMzw4cp61dBIGEhrGHwR0iabZbODel1DZ83YYlCSnQjHsh2HpHtRZ4SexEyJiczOY2qPzLD9jg7CiaerRNfbek/640?wxtype=jpeg&amp;wxfrom=0"/><p>训练损失还在下降，模型内部的计算方向却已开始扩散，过拟合可能比验证曲线更早留下信号。大模型什么时候才算真正学会？训练准确率接近 100%，可能只是记住了答案。训练损失一路下降，也不代表泛化能力仍在提升</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721835&amp;idx=1&amp;sn=4e7b98d1549be4c5293d226a10c1a5b8&amp;chksm=97a8d08859ec257ed72ef50ca3beb24bb4a9ec54e80cf4adcc6056b5834a243050fb6ae9055f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Jul 2026 20:33:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICML 2026 | AI Scientist真会科学发现吗？30个前沿模型无一过线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeD5SH091KcSyO9YCb61a1BnviaoSgD9QmaSsa3pbmSHaeEbnOPPhZzb9HxPNvstQPoPr7JGfAybDm3syCNfDqm58amUibSLr4lq8/300?wxtype=jpeg&amp;wxfrom=0"/><p>近一年来，用语言模型 LLM 构建 AI Scientist agent 层出不穷，正在成为学术界与产业界共同关注的方向。从文献综述、假设生成，到自动跑实验、甚至发现超越人类数十年努力的新算法与数学证</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721835&amp;idx=2&amp;sn=b7bc0bf8a49aac11e9002e6fc868f0b9&amp;chksm=9720142912c6e41d1206ca12eb40541cc2d1d7583e62d3334e7a91745c623aa899bf652ec74c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Jul 2026 20:33:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ADRR | 树间机动与枝上栖息兼备的空中机器人：TreeSpider树冠探索新方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBFaq0ib0aWyMMJuuia9OBwkCvOlz1XGVHiaPMGTNmN7xl1Oy4F3jBxGuDq6zMesQXI8LeNUia85WTQwptjicSmpLshWMyCtic5bSyIw/300?wxtype=jpeg&amp;wxfrom=0"/><p>研究背景森林树冠层是开展生物多样性调查、微环境观测与生态过程研究的重要空间，但其结构复杂、枝叶密集、可达性差，长期以来一直是环境监测中的难点区域。近年来，无人机与空中机器人在生态监测中的应用快速发展，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247721835&amp;idx=3&amp;sn=457480afc9bf320890897181a0095322&amp;chksm=9766537fb559a83c1e14a4c2c23cac20f5990d0a5da2e95170ac66a65f69339fecf354cf256a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Jul 2026 20:33:43 +0800</pubDate>
     </item>
   </channel>

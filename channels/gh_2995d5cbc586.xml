@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[残差收敛了还在漂移？凭什么Hessian特征值就能看穿退化场景？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hLQNSiaGTv3ta5l6IX7wAjiaUHibqNoIgwZibGxOAgic0UN94sDo0TZUfQV2PLyoPWf7II9AqtrzHjzR9DytbvHSvLRFUhHR0dkyzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在SLAM后端优化中，退化并非传感器故障或数据异常，而是环境或运动激励不足，导致某些位姿维度改变后残差毫无变化。如果优化器“管不住”某个方向，位姿必然漂移。必须区分两种情形：系统固有不可观（如VIO的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247749754&amp;idx=1&amp;sn=fb4164d8a8f2cfd4b287a0358d353ab0&amp;chksm=faa31c91794ffd77d5dc1df2aa7783752dad9ed9a1d55a4a2216e4c01cbade8d6a3e7fa939f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SuperMap：联合几何-语义一致性的4D时空语义SLAM及其在视觉语言导航中的应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gzfXC5mBqiaMGrwGVsJWjJIcXGeEVV9ysgWiaQGk1vGA4JpAE1el1le6tlFJ55SbgqKec1EsWvxtwvTahyyJhvHkwXAlZ3ziasuM/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械臂抓取和焊接软件，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247749754&amp;idx=2&amp;sn=f31201b14415255be8f4c4c218b57231&amp;chksm=fa61f3a60bd319aea72da3b03ab52e3b93f2ad9488f3a0f10cba97e408f6ca4834fd143f3df9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ICLR 2027 倒计时不足 1 个月，截稿延期一周但转投仅有一天，这些细节不注意直接Desk Reject！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hwhtOaxmOhSdMl0DlhFSnY9fwzELicZIQwHqKmPa3PBcuPcl9DANo9kiaib8JdVKA4jAhNUYGLDLlIqI23OLpyPALfmIyXu4jLaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据 ICLR 2027 最新官方公告，投稿时间线已发生重大调整：摘要提交截止日期推迟至 2026 年 9 月 18 日，论文全文提交截止日期相应延后至 9 月 25 日（均为 AOE 时间）。这一变</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247749733&amp;idx=1&amp;sn=5400794eb4dd8b4180bb2b524408e501&amp;chksm=fa6ec4d3950d59b933030243dc2a82ec10a65cc66834ac8786915230acee936c21e5604137de&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4ia2N0cSh4iasFm07Z6X6Uic3PWdt12NPfWGyhK5oPu1iaicJZYqTyZic0f96pKZzSxZPmmI3LK0cnSAp7ibdrzZufbV7GPNhXLFIoe24/300?wxtype=jpeg&amp;wxfrom=0"/><p>一 产品介绍苏州三迪斯维出品的3D相机采用主动结构光技术，拍摄速度快、成像精细、方案成熟稳定，针对不同应用场景物体可输出高质量点云数据图，精度高、速度快、环境自适应性强，不用系列适用场景不同，分别如下</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748856&amp;idx=2&amp;sn=58deb5bdd1a168bde48d96bc797ce270&amp;chksm=fa1669cde4a03d0b369198a557be871d8323edb35980d03391e74ca8d643bbff8fd878996e43&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Aug 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SA-LIVO：激光雷达和相机「按方向选择性融合」，无GPU稳跑10Hz，12.3ms/帧且内存暴降6.3倍！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4g4KarFdhqOibic1CgicM1e19Yzew0GkSGds8rRic6O3ztS9UBEdkCiaZon4DJibduvw6jNibyAOialK82r7WHZHl7du9ia6C9ySbsGzK5s/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械臂抓取和焊接软件，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748838&amp;idx=1&amp;sn=430a626ee4d5b35b2915b59d02e0a4f7&amp;chksm=faa526692bfb89a892092eeb27d5538bb1fa199f3295fd5a632cb0554960c0d7c6fbda29d5ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Aug 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[国内首个双目散斑3D重建系统教程[理论+源码+实践]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4hqot4R6M7xmIeFcn4QYJk0W9w8DOvnH6hYswhU5lWPy3Tm2G1eAq9vhnnDj2ubpbyY03fSbw74ZfKPsrAaufvJ114cxv0fmWM/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、 课程背景随着智能制造、三维检测、数字孪生等领域的飞速发展，高精度、高效率的三维形貌与尺寸测量技术已成为工业质检、逆向工程、医疗影像及科研探索中的核心需求。散斑投影三维测量技术，作为一种非接触、高</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247748838&amp;idx=2&amp;sn=640c57b9d6de0da402df651f73e35f0d&amp;chksm=fa6c225ab28b46a7ea798c213fcdee2f0c70e7a16aa481d1fceea01272d6a1072494d79828dd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Aug 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
