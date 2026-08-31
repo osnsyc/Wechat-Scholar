@@ -10,6 +10,12 @@
       <title>gh_2687fae329dc</title>
     </image>
     <item>
+      <title><![CDATA[仿真误差的最大来源：边界条件 or 材料参数 or 网格划分？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/czPkr0aDycCWdDPcVnceIia0y6g9mETYXg70y4z3pp6Kb3AnXeLJhc5AKryTGYunibBSITicRQhsN8KGp3mrowXcXa0IWy6G4bCSNeE2wTIBSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1边界条件 or 材料参数 or 网格划分博集华仿在工程仿真领域，一个常见的困惑是：材料参数已经标定准确，网格也经过收敛性验证，但仿真结果与试验数据仍然存在显著偏差。很多时候，问题的根源不在材料模型和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513528&amp;idx=1&amp;sn=befd5eca1f2b0f6d68d3ac87b3d68788&amp;chksm=c1a230a8a7e7dd777806da2033299096436635c5a38ced10d0bb8ff0319ad822c40eddc32070&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 07:58:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[老法师编写专业有限元仿真报告：六个秘诀]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/czPkr0aDycAKLvg4FwjAH9mtyOoXu4h0KkIeoljuQYTwKWIfWzdXomviaIU47Iw6qwychn3iaQNWUf8PLz3t5eeoToKKGWnAV68K6shKLXYmc/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多仿真报告云图完整、色彩绚丽，却在技术评审环节被退回。根源不在计算精度，而在报告中缺少可追溯的假设记录、可验证的边界说明与严谨的结论表述。本文仅列出评审中最关注的六个核心板块。1模型理想化博集华仿有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513524&amp;idx=1&amp;sn=673b0addd4e48178d3a8d40a91e4bda1&amp;chksm=c1d64e5b15a23defd59e22dcb28a20274b50528b0d5315989ff44b384e0cee27c79081e96808&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/czPkr0aDycDCyZzhvDsOLu3CibIyMmjBsgiczpycFbp8dmgHrKE2zMnEsk9ib86715YLibYN5HibzEUv3KQeFJTYN0td6FKAdWyjTJlvs4XrPmsU/640?wxtype=jpeg&amp;wxfrom=0"/><p>1振动理论那点事博集华仿线性振动理论主要指两方面：1）振动方程的建立。根据矢量力学的牛顿第二定律或达朗贝尔原理，或根据分析力学的拉格朗日方程或哈密顿原理，或根据虚位移原理等各种力学理论，建议振动微分方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513056&amp;idx=1&amp;sn=c3a1e0a46f1797bd6d3688f34b26ba80&amp;chksm=c1412d034ebd4427fb0c4bb74b0baabe53eb0e6e16ff1e6a6f748a68baf01c552e7392e9d2ab&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Jun 2026 17:49:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么要学单自由度振动（仿真对标理论）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/czPkr0aDycDEILNMiauENnI9DzYXpokibA6WK1RYvhOfiaU0hgzsYebXMDK1BuqLYWBoCGJlojBD5kqibyx3qkicibRNfxpSvka583py94GXZjWOE/640?wxtype=jpeg&amp;wxfrom=0"/><p>1为什么单自由度振动很重要博集华仿几乎所有的振动理论书籍都从单自由度振动开始讲解，但实际振动系统都是多自由度（无限自由度）。这里面有两个核心原因：1）单自由度振动，简单；2）无限自由度可以简化为多自由</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkwNzMwNDk2Mw==&amp;mid=2247513047&amp;idx=1&amp;sn=876557723e305104dc57a506b1242bd1&amp;chksm=c106da09c4cc4eda7cdc8800b8323271fe62bae9875d1bd51ff45a636f42bc8817e4cd54f9de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 13:09:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
