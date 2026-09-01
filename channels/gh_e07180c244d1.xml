@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[分久必合：统一伪造图像检测 | Unified Fake Image Detection]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9PGtzy2oNnaZE7PaxQjGPjicnPucN7MsWrg9IACCEvXOkIUWnKkpJBMiaZaXwz3HQ6gFsEicN5Wmes7v7ibMrcHs5cwTrGYZHXTeI/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：周吉喆原文链接：https://knightzjz.github.io/blog/unified-fid.html大家猜猜看下面这张聊天截图用了什么伪造手法：选项：两张聊天截图（真图）进行了</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664739&amp;idx=1&amp;sn=1390e7e3cd7420d56685e042511962d6&amp;chksm=979238f128aa73d6935723b2827de942cd4a7d5b302087a8d0ead99ef894f9a14f16d2e9bed3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 23:24:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当大模型用于灾害遥感：谷歌GeBDA实现端到端密集建筑物定位与毁损定级，F1接近SOTA专用模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9O622pDjE52CtdQZkzH5fYnBkxB4kPKaEBTUVJJAcNkV90ptLicqDwEQGIZpj9pVdde2dnyoNNuHFIRdSNHdpP5P8K7ia6hYuug/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近吉隆口岸的地质灾害引发全球关注，本文介绍一篇最新的VLM用于灾害遥感的谷歌的新作。自然灾害救援“兵贵神速”，利用卫星遥感影像迅速绘制建筑物毁损地图关乎生死竞速。然而，传统遥感方案高度依赖单一任务的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664739&amp;idx=2&amp;sn=78168f959c19561392cb68f094359293&amp;chksm=97958dffc7f7a18bb4ce054b4cfc4ea9aa3876354662b724e0a5ca5f344a4e4b148496522fca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 23:24:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[阿里达摩院与清华浙大等提出ClinFusion：以视觉为中心的医疗多模态新范式，超越顶尖商业大模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW8paZSpygHvxnYN9mHEflMmpKJYtSicDZjEwjjZugN8nUEvpwYzjxAzPlVAupl8SiaN7un7MozM0p57oEOzbayfY4dnZTn2siafEc/640?wxtype=jpeg&amp;wxfrom=0"/><p>在现代临床中，从二维 X 光片、病理切片到三维 CT、MRI 序列，视觉证据承载了绝大部分关键诊疗决策。然而，现有医疗多模态大模型大多受制于单体编码器架构，在异构影像吸收与临床评估上面临严重失真。为此</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664700&amp;idx=1&amp;sn=c1bd12d7974536f6cacb1982b6237846&amp;chksm=9716b26030ba5114a12ee9c3b7e006d909f7371e2ab06e25ae91ac21685f83ff41ba3d5fe3c0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWictwD8Iml8xib6AJGHBYraPSgRW6BTo2cZAtxVOXVRkwLYEoH5KjyLPIQiaicdx11xMcFD6sFicbawjX3n6kh786ePum493510kUTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>透过玻璃拍摄的画面，几乎都会出现杂乱反光。真实场景中的反光强度分布不均，反光纹理与拍摄内容深度纠缠，一直是单图像修复领域的核心难点。现有方法始终难以兼顾反光去除效果与画面细节保真。上海交通大学联合上海</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663490&amp;idx=1&amp;sn=ddf441f29cbe50e6e741301c6e521624&amp;chksm=97d770e6ab028d7ab67448893ca9c7b021dbe2623601d372545f68cda09c4357a6cd05a8d76e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Jul 2026 20:52:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[华科等发布FilmWorld：首创动态电影世界建模，超长视频并行渲染延迟降至O(1)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWib3BUMFzox8knksicfZQyHBNP5lAibszicghEqxfB80QywAk0oQPYfoJhhwxRsFPeF3tcd1IoSuBE6OSLukqoqlLY8M8vDbZ7Noeo/640?wxtype=jpeg&amp;wxfrom=0"/><p>古人云“一沙一世界”，在生成式 AI 领域，如何将一本动辄数千字、充满隐喻的小说，完美具象化为一部画面连贯、剧情不崩的电影？这无异于在数字世界里“凭空造物”。尽管 Sora、Wan 2.7 等模型在单</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663478&amp;idx=1&amp;sn=d8ed3597ecc70673a547d4a43567f8f5&amp;chksm=97c01387fdebc1c0aa222fc5186fa3c9960600587bb8461efbda6e05c46c3f209b639ea8fb6a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Jul 2026 13:36:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[征稿启事｜从感知人到理解人：ACM MM 2026 HUMA 2026 Workshop]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9iavl3rI8VAicmIwPrtKTZnWl8AjIX6ZE6fCIb8PDZ6r3Kk2ia2ryUzVp2GHZtBJLIWibEDUSReeVwRH059yuQRaIwibqK0lBPibT5s/300?wxtype=jpeg&amp;wxfrom=0"/><p>The 6th International Workshop on Human-centric Multimedia AnalysisACM Multimedia 2026 · 巴西里约热内卢 · 2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663478&amp;idx=2&amp;sn=d030567d8e92473bf8fe33b0a02b3561&amp;chksm=97cc5d9354bffa15de8d0b29f2c028ffd909d9cd4abd738d6fd2507cde72e432024d81a405da&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Jul 2026 13:36:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
