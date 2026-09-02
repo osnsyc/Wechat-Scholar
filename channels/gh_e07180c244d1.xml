@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[ECCV 2026 PhyGDPO: 增强视频生成模型物理一致性的强化学习新框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWibxXxaGXsViaHB2hb8QtAnMs0xjMNc5AHq9pRibVxW4CqqB2H4FQa6yb9xwicRIt8qsgRq5ElFGOOnQdbUFLuBLZ4icNDXHWqUpBco/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文为粉丝投稿。这篇工作提出了一个新的 offline 强化学习框架 PhyGDPO 来提升文生视频模型的物理动态一致性。文章首先提出了一种筛选物理密集场景的视频数据管线 PhyAugPipe，然后从</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664784&amp;idx=1&amp;sn=fba595712e58556c69986f1655701ad0&amp;chksm=977f886c8eabaf915f2ba2f2ed0ea7087e46b23855f6124a79958ba508897e01a712251b7702&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 01 Sep 2026 23:39:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[分久必合：统一伪造图像检测 | Unified Fake Image Detection]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9PGtzy2oNnaZE7PaxQjGPjicnPucN7MsWrg9IACCEvXOkIUWnKkpJBMiaZaXwz3HQ6gFsEicN5Wmes7v7ibMrcHs5cwTrGYZHXTeI/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：周吉喆原文链接：https://knightzjz.github.io/blog/unified-fid.html大家猜猜看下面这张聊天截图用了什么伪造手法：选项：两张聊天截图（真图）进行了</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664739&amp;idx=1&amp;sn=1390e7e3cd7420d56685e042511962d6&amp;chksm=979238f128aa73d6935723b2827de942cd4a7d5b302087a8d0ead99ef894f9a14f16d2e9bed3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWicuNXoYAHKFxrn1CL6b9Vwg4RVINxeyD2bAvJq5zyOZdowMxWUGiaWmamrpE9jM0LqvMXUUg58NZK0ZsqhWgW1XK25sIES8XS4E/640?wxtype=jpeg&amp;wxfrom=0"/><p>在具身智能领域，如何让机器人利用单目相机，将生成式 3D 模型“脑补”出的完整几何精准对齐到物理世界，一直是打通感知与交互的最后一公里。虽然 SAM 3D、TripoSR 等生成模型能靠单张图片重建出</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663514&amp;idx=1&amp;sn=b564fe2b05f777729f7781738dce9a73&amp;chksm=974cbcb6218b97c7178ccac6152a49481bb8e13f13b7eb5a508cf8a647a299f0a7ce1df8a1d8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Jul 2026 23:53:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FUMO：先验调制扩散模型，解决真实场景单图去反光难题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWictwD8Iml8xib6AJGHBYraPSgRW6BTo2cZAtxVOXVRkwLYEoH5KjyLPIQiaicdx11xMcFD6sFicbawjX3n6kh786ePum493510kUTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>透过玻璃拍摄的画面，几乎都会出现杂乱反光。真实场景中的反光强度分布不均，反光纹理与拍摄内容深度纠缠，一直是单图像修复领域的核心难点。现有方法始终难以兼顾反光去除效果与画面细节保真。上海交通大学联合上海</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663490&amp;idx=1&amp;sn=ddf441f29cbe50e6e741301c6e521624&amp;chksm=97d770e6ab028d7ab67448893ca9c7b021dbe2623601d372545f68cda09c4357a6cd05a8d76e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Jul 2026 20:52:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
