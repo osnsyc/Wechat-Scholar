@@ -10,6 +10,12 @@
       <title>gh_b373ac3dbb07</title>
     </image>
     <item>
+      <title><![CDATA[CPO 封装玻璃基板选型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/z15oeWf8fzGyfHibqRjdbfMgnXQMz1o0cvO6ia1gxibMWSib9ZJmQAWX8l3HS6VcgFLCEyF4sZ9xyaN7laOopnknA1tmJqreCGG19pkocqrLubI/640?wxtype=jpeg&amp;wxfrom=0"/><p>CPO 封装是几十 Gbps 的高速场景，还要在玻璃上做通孔（TGV）和后续湿法加工，所以玻璃基板的选型有几个硬指标：热膨胀系数（CTE）要匹配硅芯片、高频介电性能要好（低介电常数、低损耗）、不能含碱</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4ODI1NTEzOA==&amp;mid=2247494838&amp;idx=1&amp;sn=2f844f31ba2de43b2caea5eea7a58e53&amp;chksm=ceb19094f4abb93fa3293239693df7b31a0fb0601b6074a1fd872dac8c338357d9e0c08c3d76&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 11:12:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[先进封装的散热，为什么比传统封装难上一个数量级？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/z15oeWf8fzHTqP1zsSyff9v4PdsicXhOTA5G9bgTcJPVq6lyjQRGka0DS8ibthhhoK17YGxDdLBoe8OyoTLIvM58QjSVlltiaLRMfyf3egwMQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>散热到底靠什么？热量从芯片传到外界，本质上遵循一个很简单的关系：温升 = 热功率 × 热阻ΔT = P × R_thP（热功率）：要散掉多少热；R_th（热阻）：热量传出去有多困难，热阻越大，同样的热</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4ODI1NTEzOA==&amp;mid=2247494823&amp;idx=1&amp;sn=307ba20e783da1f71dc99bd6ca4cb0ab&amp;chksm=ce7f1f450b2920f7600496d43fd34665ff1c4060ccf12e2ba7ef3c56f1f87091d42c51c7ca82&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/z15oeWf8fzFKu8XVibDdJ1oQicuuW4ozibPC2SdBvHnMpO8D2ia0GBKAIcDXLLvDmoRic7S5PK6fM4PQ6l9prMD6BgsZp8sJRJemciacMhPw5tVc8/300?wxtype=jpeg&amp;wxfrom=0"/><p>FIB / TEM 打样代工3nm 节点切片分析，本地化产能，价格更实在FIB 制样 + TEM 分析一站到底，最快 24 小时出结果——高端工艺切片，不用再排长队、付高价。一、我们能做什么（FIB</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4ODI1NTEzOA==&amp;mid=2247494564&amp;idx=2&amp;sn=5b77ab8eb93a090da5be91381b8e4d85&amp;chksm=cef169cf2b46de16d21a07ad1b5ed9cec3da35c1a0b3fa459be3bbbc930e03f0f353bf091a6f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Jul 2026 09:31:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么EUV只能用反射镜？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/z15oeWf8fzGh5mDjRBgCwPUcNHEU3PMIt9ksvl7jicI2IWaqLU4CRwWIf4Xk6FJgIJz4YHVWuHPORCTfrqBrvVcD3M9IPSfvUNF7VCibtf7Hc/640?wxtype=jpeg&amp;wxfrom=0"/><p>EUV 光为什么只能靠反射控制光路？EUV 光（13.5nm）会被所有材料强烈吸收，穿不透任何透镜材料，所以没法用透射式镜片，只能靠反射来控制光路。一、根本原因：EUV 光子能量太高，被所有材料吸收光</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4ODI1NTEzOA==&amp;mid=2247494562&amp;idx=1&amp;sn=7f5fb5b803eab997f8d881acb011b1c8&amp;chksm=ceb28941e7eb6081bf6f80334cf009dd5ae24dcd3b1ecb087adb7a709001d6b8bd85ce0d46c2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Jul 2026 08:37:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
