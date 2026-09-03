@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[EMNLP 2026 | 当投毒数据看起来完全无害：仅用无害数据实现隐蔽 LLM 后门攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW8iaIOricOjcia7XKuY5ykbAickJMGLu27ic9ZiaN7ToJ0FmDhFialyzpuMK1Hic3hMePZThtzrXAhGjUufia45IYVYodFLjByHojz0OCjo/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大语言模型（Large Language Models, LLMs）通过大规模预训练和监督微调（Supervised Fine-Tuning, SFT），在问答、写作、代码生成等任务上展现出强</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664806&amp;idx=1&amp;sn=98e0864ed05bdddd8299406113973c6f&amp;chksm=97aad48255e6bf10ceec705f35c9e8f034732575625c0bbdbf347ca62280548538bf074f1f96&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 22:42:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ECCV 2026 PhyGDPO: 增强视频生成模型物理一致性的强化学习新框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWibxXxaGXsViaHB2hb8QtAnMs0xjMNc5AHq9pRibVxW4CqqB2H4FQa6yb9xwicRIt8qsgRq5ElFGOOnQdbUFLuBLZ4icNDXHWqUpBco/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文为粉丝投稿。这篇工作提出了一个新的 offline 强化学习框架 PhyGDPO 来提升文生视频模型的物理动态一致性。文章首先提出了一种筛选物理密集场景的视频数据管线 PhyAugPipe，然后从</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664784&amp;idx=1&amp;sn=fba595712e58556c69986f1655701ad0&amp;chksm=977f886c8eabaf915f2ba2f2ed0ea7087e46b23855f6124a79958ba508897e01a712251b7702&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibzO1aFd84og7uby7sib01qCiaY5btdUXmwfTeJ0RelE3kZcOffbHuDdeCcpP0McQSetFmMVUZgy2dsaUHazAnNkl80DLQ0STMsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>如何从一段视频中获得完整、稳定的 3D 物体？过去，这个问题大致沿着两条路线发展。一条是 3D 重建：把不同视角中真实观察到的几何逐步拼接起来。它擅长忠实恢复“已经看见”的部分，但在输入视角有限、遮挡</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663561&amp;idx=1&amp;sn=dfacbb6e6cdb1258979b21d8a9695a9e&amp;chksm=97c225879cc474965a43ef5d9ef532dc3a91c84f625e88ea505b53f17be707cf256572c79081&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Jul 2026 15:48:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无需训练的3D对齐新范式，打通单目视觉与机器人抓取的最后一公里]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWicuNXoYAHKFxrn1CL6b9Vwg4RVINxeyD2bAvJq5zyOZdowMxWUGiaWmamrpE9jM0LqvMXUUg58NZK0ZsqhWgW1XK25sIES8XS4E/640?wxtype=jpeg&amp;wxfrom=0"/><p>在具身智能领域，如何让机器人利用单目相机，将生成式 3D 模型“脑补”出的完整几何精准对齐到物理世界，一直是打通感知与交互的最后一公里。虽然 SAM 3D、TripoSR 等生成模型能靠单张图片重建出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663514&amp;idx=1&amp;sn=b564fe2b05f777729f7781738dce9a73&amp;chksm=974cbcb6218b97c7178ccac6152a49481bb8e13f13b7eb5a508cf8a647a299f0a7ce1df8a1d8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Jul 2026 23:53:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
