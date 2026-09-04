@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[上海AI Lab提出Harness-of-Harness：迈向持续改进的多日自主软件开发]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLQib4gm5mPCdCK1HI32gDOU0BWmYRibmCrNJ444u9eKkMSQsaj65JGRGkXfKib2iaRiaoiaMKXykZ7bTNiczM7x2sskiak0FLcKtKSYeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于大语言模型（LLM）的 coding Agent，已经能够完成代码生成、仓库级问题修复等任务。然而，当目标从“解决一个局部问题”变成“从零构建一个完整、可运行、可部署的软件系统”时，真正的挑战就不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606637&amp;idx=1&amp;sn=ea58437173adbb2cda47b6a8734b501f&amp;chksm=ceabbc2b60bdbaf7cdd74bef5578f6a1ab53e9122d417baaa9b384a4011c87de2010969d02a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Sep 2026 15:58:16 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软新研究：无需后训练，只加4个Token，滑动窗口注意力反超线性注意力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDI68G6iaayJXBwZSfC7J8LCGcEN1CYxJVkbs2UBcoFOV6Q51l5QytibyPxe3OHdBTfQAmXgIQ3kXdjK4jo774a25Lr62KpicRPH98/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型（LLM）上下文长度不断增加，推理阶段的内存占用和能源消耗正逐渐成为实际部署中的关键瓶颈。标准全注意力机制会为每个新 token 保留此前所有 token 的 Key 和 Value，K</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606597&amp;idx=1&amp;sn=e281d3d8011c81d324ff083a6b63e734&amp;chksm=ce82ba0546b96725210a3666760cc7956395e8703e5b83aea21d654f3e66f678af00f94e6d91&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDIGdGibQC9HRTkVbfibleFnjt95O1C5tHty7ziaMXGxC0V7w6qAjShT14pchicMHfEpo7LtibVuPS62ia6SiasicYneaokmBa3zFBwSwQk/640?wxtype=jpeg&amp;wxfrom=0"/><p>投稿作者：荷兰莱顿大学团队随着在信息检索和推荐系统中的应用不断深入，大语言模型（LLM）为统一建模搜索和推荐这两种主要的信息获取路径提供了新的可能性。搜索刻画用户主动表达的即时信息需求，推荐反映用户历</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605601&amp;idx=1&amp;sn=46cf1b7988d7b772feaa4c33d0a92600&amp;chksm=ce37ed81b50786a5b3790551ecc144596d0f34bb3fba052dc7dcdabacc9316c882203b4ac0f0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Jun 2026 12:13:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无限OCR：用“参考滑动窗口注意力”R-SWA实现长文档一次性解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDKwbCBnx7dT7mrpkHpqctQNWVwXlrtlXPPYroiblZILH2EkCpfibkBHt7JwrEV7MOv7cJvNicStKTT0icCjTQc9vUiasq6CcjVKd5jQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>端到端 OCR 在过去两年迎来新一轮热潮，以 DeepSeek OCR 为代表的方案将大语言模型（LLM）用作解码器，借助语言先验显著提升了识别精度。然而，这类方案存在一个内在缺陷：随着输出序列不断增</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605574&amp;idx=1&amp;sn=c33a866a9b50fef22da43c8fe4383af2&amp;chksm=ceae2cb23b0623b4e8b74ec888b347210a5c4e7b5fdaa3f31d73b7d9a6597bd17ae81f1a31ba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 19:36:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
