@@ -10,6 +10,18 @@
       <title>gh_6fec50c6ef0d</title>
     </image>
     <item>
+      <title><![CDATA[不用上云了NVIDIA一口气放出13款本地AI利器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrTZZ1qC0e1sic6Y2rDXy9EtaC1IZssQCdFYgbkGBicpFloDPA36k3sZBicL5XfX0DZSsJEicNngY4nJEb4oln30bDNVwaNZ5SFVae8/640?wxtype=jpeg&amp;wxfrom=0"/><p>整个 8 月，NVIDIA 把本地 AI 这个赛道给炸了。短短半个月，13 款新模型、新工具扎堆上线——从自家的 Nemotron 3.5 Lightning，到联手 Meta 推的 Muse Gli</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498944&amp;idx=1&amp;sn=bc7b485397fdea514ff3807a0cef29a7&amp;chksm=c12f8a6d403f729281a0c3bae0ee4910cd42f5b08d19133c06ae98177760cfe9b483d78e6e19&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 06 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI Agent 悄悄闯祸，日志却一片绿灯：可观测性怎么做]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQd1fP6voy8ap8eMDoJeFUFhLpuZm8Q5QAiaOKib792Ac5t2liaVll2zTaOicOgiajANgJ3ROwLMNj75giccNbbW2Nyuk5kLIwDm6FKg/300?wxtype=jpeg&amp;wxfrom=0"/><p>来看一个真实的故障。你们团队上个季度上线了一个 AI 客服 Agent，专门处理你们 SaaS 产品的工单。它读邮件、查客户账户、核对退款政策，符合条件就直接退款，全程不需要人插手。这个 Agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498944&amp;idx=2&amp;sn=180fcc90785cf3c17b3fe368b32fa21e&amp;chksm=c11885f703ad9f28e97e0429ef36a2645099211e09180313662312fbe9c5d505269dc2ccb318&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 06 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[算力也能当资产卖了NVIDIA联手6大巨头砸5000亿]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrSt2EZgR4FBgVjtrCAErl4dibhgJexia8txyJ3wsic3EZ1hKFJtgB3lXngpR4OZDYibRt1icC1Ej5nB5r4RFRprDWVlpXONsshFNXDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>算力，正在变成一种可以打包、定价、投资的资产。NVIDIA 宣布与阿波罗（Apollo）、贝莱德（BlackRock）、黑石（Blackstone）、博枫（Brookfield）、高盛（Goldman</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498945&amp;idx=1&amp;sn=fb632b8accabba44ab01733ac9a538c4&amp;chksm=c115f901ebb997f6310cde784b18cda2afd995f376072b48fd06f79b352bd6f8ddfe507e6eb5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvpahkeDuRekWN7Hzicricbb49WU2JlD6YZVF81rFKX8W0f8pwS7sdv486icYklQ3sps1vrBZ4zHfjpag/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读即使在裁剪高达10-30%的训练数据之后，AdaPruner仍能显著提高模型性能。值得注意的是，这些改进伴随着内存和计算成本的大幅节省。定性和定量实验表明，AdaPruner在很大程度上优于其他最</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498276&amp;idx=1&amp;sn=22b5ad8db4f9ef8cd9325bb7f72181b6&amp;chksm=c1bceed8a64e5cbf0ef26542102bb10b3858ada13ae1b002093d0f0a9965333bc7c9c9eb47ae&amp;scene=0&amp;xtrack=1#rd</link>
       <pubdate>Fri, 01 Nov 2024 04:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[数据集裁剪：通过检查泛化能力的影响来裁剪数据集]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvp93SPXFNUm1HiaKicVCwtJ9mS4VSJd067UEqXLCMdCJ1pokAdPXbtAlzmoyXkicKl3UtfsgENJaE7pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读所提出的方法在CIFAR-10数据集上修剪了40%的训练样本，使收敛时间减半，同时测试准确率仅降低了1.3%，这一表现优于之前的基于评分的样本选择方法。摘要深度学习的巨大成功在很大程度上依赖于日益</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498252&amp;idx=1&amp;sn=e3d0b3dc8cde0fabe65fd5207953814f&amp;chksm=c1c729023f86237d9931f12dd07c19cbadb7e205300dda1cedbe2d59c4bc109c957fd8895a68&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 31 Oct 2024 04:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[超越scaling laws：通过数据裁剪来降低资源消耗，同时不影响甚至提升模型效果]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvofz1sM9QicyCsWBic3VuYHJa8ajgQgUFalhZ69YtDL8PdYH2Oo2ScoDvEHLEseOLZD0mQGqwd9prhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读本文关注的是错误率随数据集规模的变化，并展示理论上如果能够获得一个高质量的数据裁剪度量标准，该标准可以对应该丢弃哪些训练样本以达到任何裁剪后的数据集大小进行排序，我们就可以超越幂律缩放，甚至可能将</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498218&amp;idx=1&amp;sn=a5a4ba0141a9aa6f6f142dde145b2e85&amp;chksm=c18986cf1e145626f67a95815073e1dd4645a4950f3631fa0a7e82fbda8e6b3866f1ba2c3855&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 30 Oct 2024 04:00:00 +0000</pubdate>
     </item>
   </channel>
 </rss>
