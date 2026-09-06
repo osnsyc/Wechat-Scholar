@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[GPT-6 Astra 最佳实践，OpenAI 这份指南讲得很细]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlIxTgBjhhsygsxyLPicesXxJiajSGicwZxm50Wob4ibmpGwM5pxxJiax9S7oISFBO1p5xphGpDLNKBM6RqpUpErU5OBLDwc9BwB1xA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文译自 OpenAI 官方指南《Using GPT-6 Astra》。下文中的“我们”指 OpenAI。简介GPT-6 Astra 是我们迄今最智能的模型，在电脑操作、网页浏览、软件工程、科学和专业</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454057&amp;idx=1&amp;sn=46a6edf974ccd1eedf571806800839ed&amp;chksm=bfe6d9548e508cd79ce5e9bac99d8017dff4f0504ca5e3f2e82bc40c34e3ae0d9dfb6cf29cb1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 06 Sep 2026 13:19:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT-6 Astra 实测，34 分钟帮我做了一个本地 PDF 工具]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnzXbmwhgQZWVDe7ibXX712tdd6O4fDLMSTUmUibauv6uDIAibxOJJb3BxgOicrE1VaXRnXhEE9NfZRB7mbYDzVh8fzWOzfibcFFPpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天还以为 GPT-6 Astra 要再等两天，没想到今天上午就用上了。正好，我一直想把常用的 PDF 处理功能搬到本地，这次就拿它试试。给自己做个每天都能用的工具熟悉 AINLP 的朋友应该知道，我</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454037&amp;idx=1&amp;sn=52748703d0f12b5bfb6ed542561e3589&amp;chksm=bfadeb30fa0fe621069e44af4ed71ac0186f084f91ad4c1f0419dcaaa2ce9d7892cbf50e9b8f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmKC9ohItFbchiaxIK4L36TzJFSUOSIrDyOTcdJhTeSJcY6ET7HbYA0Oryg1BBJusYRT5leXe7Oc9bkvB3Q3I39hgeiaZCrpXJhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个 Agent 用久了，System Prompt 往往只会变长：模型漏做一次，加一条；工具走错一次，再加一条；某次没等确认就改了文件，于是把“先询问”复制到三个位置。模型升级了，这些旧补丁还在原地</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452891&amp;idx=1&amp;sn=0f13e9940abd2ab6b8de35588e914150&amp;chksm=bf7fa3f5f4575b6e750a0975c498fc7d843376c2cbfe894e64a82696f40c3be49cc92ee76b7c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Jul 2026 17:38:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cursor 把最难的 1% 交给 Claude Fable 5]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlm41O8f47iaZQBG6rWB7DZHraQ8NhhTN4VvLvzicb9Sn1Mc3lejoXSqICe5pfnRiaHC9YlUDtatyibOf3IOCmibrz0CKnjermiaXuy8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 最近发了一篇关于 Cursor 的故事，主角是 Cursor 负责模型评测的工程师 Nate Schmidt。他的工作有点像给 Coding Agent 做试车：市面上每来一台新车</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452870&amp;idx=1&amp;sn=0fe1d28bfd797ad4ab1b15b4f7086536&amp;chksm=bf52d8169a316cf00f4bf5e240aa388212ea2afc6771c5f047ec71212da24f1eae740311bbe1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Jul 2026 18:31:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
