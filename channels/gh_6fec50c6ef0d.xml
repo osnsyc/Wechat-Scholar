@@ -10,6 +10,24 @@
       <title>gh_6fec50c6ef0d</title>
     </image>
     <item>
+      <title><![CDATA[TinyFormer ：把 YOLO 与 DETR 合体，专治微小目标"看不见"]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrRicHq9PDQZUef7cI5HcErOUvqtW4picva6uiaIsiaMYsklfnfJkSt2uERDBMnibpjLyrgGO0pgZ6mYTLE0RSFDg6XicLrhpyU7l15JM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话导读：TinyFormer 把 YOLO 的精准定位与 DETR 的无 NMS 集合预测合二为一，并在最早期就保住空间细节，让微小目标不再在推理前"消失"——在 COCO 上创下 60.6% A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499116&amp;idx=1&amp;sn=9361e839400dea9fbc725dfda8e260dc&amp;chksm=c12bade7074fc5e3fddf6899d51dfc7aedf07ad50000c9bd20633305b46ab49aeb259e1e1d7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code高手都在用这12个模式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQLEbPw8SyOIC9M3BtNYhFxd9Sydwib9vzXLQR0TonRrUjt0QqpBJUiatFN6NMJfPU6icMa76jZF6PrT38VZD7TXzeibiat4TPomHdE/300?wxtype=jpeg&amp;wxfrom=0"/><p>上个月，我第三次看着 Claude 帮我删错分支，这次没再甩锅给模型。问题其实出在我自己——每次开新会话都从零开始，没有结构、没有约束、更没有可复用的配置。一句提示词丢过去，逐个点授权，得到一个半成品</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499116&amp;idx=2&amp;sn=75d71bd59fdcf745fc99f91b1bd6a056&amp;chksm=c196ffa254b880c8a311878139f79269e01bc4bd6173c5b141a2aee705d45ab5049a996cd93e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[5200人跪求的功能，Claude Code偏不给，原因还真硬]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrQqLLlTY9lWYEwp4tdPU5QzwWYVkN82ebcyz1IHb31dhPSy4OKBycrMlJicdhf3AibMibiaoF9YXTEjFB3mNqlgibDxiaGvbuTRUU4Hc/300?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 的 issue 跟踪器里，躺着一条超过 5200 个赞的功能请求。整个列表里它呼声最高，要的东西就一件：让 Claude Code 读 AGENTS.md——所有其他编码代理都</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499116&amp;idx=3&amp;sn=9f351061b3c853004e67ca2a9a0cec6a&amp;chksm=c14aa1b3cd2126bd46a8eb2dc9d65f2db4d4a926bf3d7ddaa004b327b43219b69c9a2639949f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DEIMv2:实时目标检测遇上 DINOv3]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrTa3yPH96Jrb3Xib3IQcSkLJ2FR0wYKmO8TGuEfAUAbvasAov85cpFruqVJnBTnQIKEPeKUnwGqHqxlRCjdTibqotrJPKpQn0B3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>实时目标检测遇上 DINOv3：DEIMv2 用更少参数刷新 SOTA一句话导读：把 DINOv3 的强语义特征塞进端到端实时检测器，再配一个轻量适配器补齐细节——DEIMv2 在八个模型规模上全面超</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499009&amp;idx=1&amp;sn=69083a63fe4631ebd998e4305ef79309&amp;chksm=c1694a7c56bd0bea61cab4edafdb8e57126c4f0d3909d0e8f31ec2924f458402191a878b53c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvqk3zpr4BUqibicYiaKayViagia1lI40ms7LfJZcxqEDPVrahdG0nw16gzzEcM5oHfwb75CyZSw2SmXvLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读通过这种新颖的范式，我们在COCO验证集上，使用R50作为检测器的主干网络并训练12个epoch后，分别整合一个或两个基础模型，将最先进的基于查询的检测器DINO的AP（平均精度）从49.0%提升</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498422&amp;idx=1&amp;sn=482f670922af4a4d5275d81cccb6bf58&amp;chksm=c1cf65e7745e9cb9a67522ed9fa51304f281cda94ea1447a6f954c2c95a9857978e0bbc38076&amp;scene=0&amp;xtrack=1#rd</link>
       <pubdate>Tue, 24 Dec 2024 01:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[基于拓扑集合约束的动态蛇形卷积用于准确分割管状结构，如血管和道路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvrOVibGibWh0xoOKrUW8Kg1ULFBrib0SmWCPQfSIfXiarRJO42sfeu1xOeEKwOBX2hicQFT93UQH5YfZQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读在本研究中，我们注意到管状结构的特殊性，并利用这一知识指导我们的DSCNet同时在三个阶段增强感知能力：特征提取、特征融合和损失约束。摘要准确分割拓扑管状结构，如血管和道路，在各个领域中至关重要，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498398&amp;idx=1&amp;sn=d0ce30dd732e0b335d040830e1adc877&amp;chksm=c17e0ad3fd0492ed520ccb582afd1646d4b8982d9ac72b45cd3fed1a525514b137a3ed4ef93f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 11 Nov 2024 04:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[LDConv：线性可变形卷积，将参数数量增长修正为线性增长]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvpVjzuJ1ia8a4prKJuia9oBnOAZotRBNoXxI1ezicPuXF3K4NYlDeSWibbsN5pV1taM1Y59Oj86IBS04g/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读LDConv将标准卷积和可变形卷积的参数数量增长趋势修正为线性增长。摘要基于卷积操作的神经网络在深度学习领域取得了显著的成果，但标准卷积操作存在两个固有的缺陷。一方面，卷积操作局限于局部窗口，因此</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498368&amp;idx=1&amp;sn=356ffd50dc47d4250912dd4f22f06fdb&amp;chksm=c118e0d63e33b3777ffdc8fce695b2edc176c2d107025286e8daa07e40240c026040f0f88e3b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Thu, 07 Nov 2024 04:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[基于拓扑几何约束的动态蛇形卷积用于管状结构分割]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvonEKlEZkK7W8cZt5y65Ke3mdmRz0HQ6qmRRxdQia3c2M3M4EkAygzVwyLl8UuqhgebBFFVM6vkicIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读在本研究中，我们注意到管状结构的特殊性，并利用这一知识指导我们的DSCNet同时在三个阶段增强感知能力：特征提取、特征融合和损失约束。摘要准确分割拓扑管状结构，如血管和道路，在各个领域中至关重要，</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498342&amp;idx=1&amp;sn=9d70e5f0d61686e2cd342a2a56e93ee5&amp;chksm=c15fef4f527d3a6ccf168aa7325e7f7df6855fd369fcb283988e274f5e0308bf21363d159ef5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Wed, 06 Nov 2024 04:00:00 +0000</pubdate>
     </item>
   </channel>
 </rss>
