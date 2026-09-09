@@ -10,6 +10,24 @@
       <title>gh_6fec50c6ef0d</title>
     </image>
     <item>
+      <title><![CDATA[基于 YOLO 与 RT-DETR 的边缘端深度感知坑洞检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrRHOpo6YJuShVCakPXutNtuEpfjooMKMjicViclcuSp1DhuhFYyQdDhBNfDydwf6ucuL65nqudqjlOaibsoEdPPOH5rPcERv7ewkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于 YOLO 与 RT-DETR 的边缘端深度感知坑洞检测原标题：Depth-Aware Pothole Detection Using YOLO and RT-DETR at the Edge下载</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499115&amp;idx=1&amp;sn=880b7abe39520c00106e3206b1af41cc&amp;chksm=c194e06a66ff76feb989b5eaa3f4b34fd3eca83e2833a808223ef2ce5a3a1875a60cc092b0f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[还在怪提示词？Claude拉胯全怪你文件夹太乱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQ4ZO64kBk11R40PmpPM5mlQgVnDj5XWUAejIt4O9Mz2Wc5YeaiauFJQ1XDqBVuzGqic9jeLyIKIiagxY0JPMW3U9jia4SET1YFNlg/300?wxtype=jpeg&amp;wxfrom=0"/><p>Claude 给的活儿不行，很多人第一反应是：提示词没写好。但问题可能压根不在提示词上——它就藏在你那个乱七八糟的文件夹里。final.docx、final_v2.docx、new_final_REA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499115&amp;idx=2&amp;sn=4dc295f0acf874dd124c8295f2113ca8&amp;chksm=c1f2ddafdb6309a0142d90f14a08c9175185fecf7e476879514bb5a7ee529ad97f2a56b109cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code 用了半年才搞明白，全靠这8层配置]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrStweyFiafV8FtiaHcVbsyxFuK0wmb89iciacrWricrKIlkUoFHbJIea0YJ96T3icvlKXy0OzlcOWQ7rwwTBs4RC31O2H8SswyDDfDibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>打开终端，切到你的 AI 项目目录，执行 tree .claude。大多数用 Claude Code 的工程师，执行完这行命令，看到的不是 "command not found"，就是一个孤零零的文件</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499115&amp;idx=3&amp;sn=abe656acbd1726c7db504afdc11eec56&amp;chksm=c1f289cdb8ae4cecf16666a1554c12775a74e30e490b521af688d2fb41c44a63fbe6141140c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TinyFormer ：把 YOLO 与 DETR 合体，专治微小目标"看不见"]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrRicHq9PDQZUef7cI5HcErOUvqtW4picva6uiaIsiaMYsklfnfJkSt2uERDBMnibpjLyrgGO0pgZ6mYTLE0RSFDg6XicLrhpyU7l15JM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话导读：TinyFormer 把 YOLO 的精准定位与 DETR 的无 NMS 集合预测合二为一，并在最早期就保住空间细节，让微小目标不再在推理前"消失"——在 COCO 上创下 60.6% A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499116&amp;idx=1&amp;sn=9361e839400dea9fbc725dfda8e260dc&amp;chksm=c12bade7074fc5e3fddf6899d51dfc7aedf07ad50000c9bd20633305b46ab49aeb259e1e1d7c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvo5DWfkRY4GAN1gZU4ia0Q73FvAl9J82HdNFXz6z5G19ZGKGGLVtweybyBOvM99DNqlaRb3GhvRjyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读我们的方法显著增强了各种DETR模型的性能，最多提高了5.3% 的AP，而额外的参数和训练成本几乎可以忽略不计。摘要我们介绍了D-FINE，这是一种强大的实时目标检测器，通过重新定义DETR模型中</p> ]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498495&amp;idx=1&amp;sn=a9aa12008f57082895bfc8b42ad32fde&amp;chksm=c17ccd7278136ac3a83423ba3e35c4eb33f6be14e7ddd8dd3cd09018d0a8794bea3cc6cab8d3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubdate>Tue, 14 Jan 2025 02:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[InfoBatch:通过无偏数据裁剪来加速并实现无损训练]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvoI2Fz8FIOXjzAOt7B9M26uibpYPJp2oCLZCS5kU9MRp6R36lF5NbDHias1I1DFcXlgibDUImoSGlevg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读作为一个即插即用且架构无关的框架，InfoBatch在分类、语义分割、视觉预训练以及指令微调任务上始终能够获得无损训练结果。摘要数据裁剪旨在以较低的整体成本获得无损性能。一种常见的方法是过滤掉对训</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498472&amp;idx=1&amp;sn=804589202fbe15dc92bba63dfcea6e57&amp;chksm=c1e7998771d8c52f92947bbc601eb273ad44baae1d78cf02790ab2d2db45a779fbd9c1989cde&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Mon, 13 Jan 2025 02:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[DEIM: 在DETR中使用多对一匹配的策略加快收敛]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvrwkFiar72NrvAhNKXpcxwG9QxVicN0xnphYOWP3TmjCksH1X8CcqHgb8tLD3R2uhUVKYWvIwbZFG9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读与RT-DETRv2配合使用时，DEIM仅需在NVIDIA 4090 GPU上训练一天就能达到53.2%的平均精度（AP）。摘要我们介绍了一种名为DEIM的创新且高效的训练框架，旨在加速基于Tra</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498443&amp;idx=1&amp;sn=cabe520445f6798c1b832320a585c08f&amp;chksm=c1aa27898ed909094f8f6ea6f79e05c08490528673ab9d44088a3eea44e5f16f7caf0cd6fff8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Fri, 03 Jan 2025 01:00:00 +0000</pubdate>
-    </item>
-    <item>
-      <title><![CDATA[Frozen-DETR: 使用冻结的基础大模型来增强DETR的能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KYSDTmOVZvqk3zpr4BUqibicYiaKayViagia1lI40ms7LfJZcxqEDPVrahdG0nw16gzzEcM5oHfwb75CyZSw2SmXvLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读通过这种新颖的范式，我们在COCO验证集上，使用R50作为检测器的主干网络并训练12个epoch后，分别整合一个或两个基础模型，将最先进的基于查询的检测器DINO的AP（平均精度）从49.0%提升</p> ]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247498422&amp;idx=1&amp;sn=482f670922af4a4d5275d81cccb6bf58&amp;chksm=c1cf65e7745e9cb9a67522ed9fa51304f281cda94ea1447a6f954c2c95a9857978e0bbc38076&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubdate>Tue, 24 Dec 2024 01:00:00 +0000</pubdate>
     </item>
   </channel>
 </rss>
