@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[DeepSeek-V4.1-Flash技术报告深度解读：长程 Agent 如何重新分配预算]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmiagEsxsT1jibEQ7sTO48Y5yU4uWbIL7V3QOgp1rTnGdPoictkQCFsbrQyKIlxhWoibtu3uPibk8WXPWs9mdPvz8D8BPZ8G2ibD9qMI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个长程 Agent 继续执行任务之前，往往要先读入已经积累的消息、代码、工具结果和日志。输入越来越长：⁠缓存未命中的部分要做 prefill，命中的部分也要保存和搬运。计算、HBM、SSD 容量和带</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454187&amp;idx=1&amp;sn=73df03e5b3d9389d62f86ef859dd7c42&amp;chksm=bf36c58a5d8bc77ac85749b46146630483c637be257d7cba41586ca62e9686f2ea2299385878&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 17:32:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌 DeepMind 放出一张 1PB 基因图谱，90 亿种 DNA 变化全覆盖]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvk9VtPzv7gTE39NWZtAcZAlr8x2oJQMLy89KlIGWcgiaIOH27FqJsGLfDSge9bdhZD2YnwiaA8KrXwakjicMmsX337CTfy97icvYS4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google DeepMind 把约 90 亿种可能的单字母 DNA 变化的预测影响提前算好，放进了一个可以直接搜索的数据库。9 月 8 日发布的 AlphaGenome Atlas，让研究者可以在普</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454142&amp;idx=1&amp;sn=6285bb4e0dac422e9729d49881b43edb&amp;chksm=bf530184ed9216d0af5543025c68cd3dac3001fdec7b3590b7062d3c9849785d07ce3613c1d1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[Cursor 让上千个 Agent 组成智能体蜂群重写 SQLite，先打了七万次架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlh99kibtickWntTNIrYUMicwYPRLt4Svsl9lhLtzapwQykPo1wHt0sHstDHM2ojDLhURAfeicQXLmzWbMgbUkJxNObhmFRnVib8e0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cursor 最近公开了一轮智能体蜂群（Agent swarm）研究。简单说，就是让一群 Agent 围着同一个目标协作。它想解决一个很现实的问题：coding agent 已经能接住一个文件、一个功</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452940&amp;idx=1&amp;sn=e77156f9974fa207a597dcf15d95e279&amp;chksm=bf938d8359074013653264ae5bdd1e3215c5c8cf59e9940745584064338667a7686568db6255&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Jul 2026 17:17:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gemini 3.6 发布：智力没涨，干活时间先砍了一半]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlLnhxdEcp7MXh49jM9CIpxq2Ev6nD55V2VTmic21jeTcDKOMmjRkD0Oz7ISo1f3we5TiaNmoltH7UxPsbNH8NCEEtBkfE1ZtS1A/300?wxtype=jpeg&amp;wxfrom=0"/><p>Google 在 7 月 21 日一口气发布了三款 Gemini 新模型：Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。其中 3.6 Flash</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650452940&amp;idx=2&amp;sn=973b3bb8d99dcf19e35fcbb1c82eee1e&amp;chksm=bf4a70d4e9492f4dc142a869bdb9c82e08db5ccc68cc7abe6e39eebf71e21ffce062b1d82cf6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Jul 2026 17:17:46 +0800</pubDate>
     </item>
   </channel>
