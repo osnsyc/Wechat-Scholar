@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang 某些模型的 CUDA Graph 为什么会有上百条 decode cuda stream？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KY06mkPtZjSdIcwurNynPnuYIsKeSIiau3vziaawXgMGrSVQILK07bjKHAEiakialB9SW9mJL8z6Ps7tJaElC6hMeX5KiaiaWlt9lu6s/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 某些模型的 CUDA Graph 为什么会有上百条 decode cuda stream？0x0 先看这张超难受的profiler图最近优化 DeepSeek-V4.1 Flash，打开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532369&amp;idx=1&amp;sn=c66ae32b023352b98ecb31835eea8e8f&amp;chksm=9ed3b52a7b43fe9446b3356d4eaefb446bd0e64efef7fdddef5df13075b31316998f09928054&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 14 Sep 2026 23:09:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SGLang 的 DeepSeek-V4.1 Flash Day 0 优化实录：4×B300 上 BS=1 达到 764 tokens/s]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Kb9y6ZM6RhpbnwfHfdZ8tUNj72Klaiaoyb3TcrF7rA8qnOHssC95AdpvPHjSWXzEdxYrWdvicJLrzj1JYnpCTZYyW9uB0c2GwQc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 的 DeepSeek-V4.1 Flash Day 0 优化实录：4×B300 上 BS=1 达到 764 tokens/s0x0. 前言本文提到的 DeepSeek-V4.1 的 Da</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532351&amp;idx=1&amp;sn=5c975540efde1b6c2494cd92d24a5a5b&amp;chksm=9eb485fdfc5fba9c2758cc88efaa0fee6f0ebe0bb584531f04ffbcf025479d98f676b48c8a78&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KaarG00lKMiaFYVRnoarvEhwx7dLFDDNMyUa0GSY0DaU6I3qduyX406BFEGMPZfnHz4xlTG0MQChWYuhzWd3HLwvsUaQxibMto6E/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新体会最近用Codex在SGLang中蹬了一堆个人感觉算是比较solid的PR和feature实现，这里复盘下。基本都是我来出思路和中途干预，然后Codex来实施，我基本没写什么代码。放在之前古法时</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531324&amp;idx=1&amp;sn=8a6052d414d0865b50a6bedd444bc0b0&amp;chksm=9e4983854a4f4f9d0db7f44715e19c3384b0854e5760d318fc16244fd90cdd366bf60552192d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Apr 2026 18:06:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness Engineering 时代的失败经验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYFtswHHRzLrjpQxVeqYhWUibQmnXssNZShBSJ5gdI3VqbB3WuR2iaqQehnu1G5zClK7uauIhgEVIFCds5KTbFGQAe8pEAFEHIibI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Harness Engineering 时代的失败经验原文：https://zhuanlan.zhihu.com/p/2021229438939965162 作者：杨远航编辑于：2026-03-30</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531306&amp;idx=1&amp;sn=6867158f184b1830d24befb8997a51a0&amp;chksm=9eae39cfa7350a6cc4a8f279231a28a63eae423307514c4e4d02dbde1e991fe57094e76e4c6d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 09:08:18 +0800</pubDate>
     </item>
   </channel>
 </rss>

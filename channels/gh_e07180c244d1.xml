@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[商汤SenseNova-U1.5发布：无编码器无VAE，原生统一8B模型斩获多项开源第一]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW81B6mocbpEJKiaGehzd0CicSVoMaoExKsSIFDE2dWoTAWLJqGbvMzpGic96ERhLn3eI0bqrRYtsyCnFrzmtPg76ib5B0ibdUeZBATc/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前主流多模态大模型在架构上普遍面临一道“无形隔阂”：模型的“眼睛”依靠外部预训练视觉编码器（如 CLIP 或 SigLIP），负责抽取高度抽象的语义特征；而其“画笔”则交由变分自编码器（Variat</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665253&amp;idx=1&amp;sn=44a75866e30df295e3d82986f30dc4dc&amp;chksm=970ab9151a3b251adcc3815ef47f7e6c93829fae9b9a8e81234e760a0d2209d108d66add2233&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 14 Sep 2026 19:49:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CLIP×DINO 鉴伪新范式｜两大视觉基础模型联手，专治没见过的假脸]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW8btXrZcN7dRKKVXgZZ63dJegLATHMlSAxEUibzhW258v0kHTx6PLGRgZWOoPqTKuqDGFMECE7H3TBW4jM50BTfzWOVSBvGC1q4/640?wxtype=jpeg&amp;wxfrom=0"/><p>同一张假脸，一个模型判断为真，另一个却能发现异常。面对不断变化的换脸、表情驱动和整脸生成技术，鉴伪器的难点已经不只是记住训练集里的破绽：当伪造方式改变，它依赖的线索还有效吗？北京交通大学、清华大学与蚂</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665207&amp;idx=1&amp;sn=8b027b18d4c1126b13c90bceb71316e2&amp;chksm=973e90d77a6d91fde6f73644365071cef77407164989c0eb6ab5df4f211b336d5313b78cb638&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWibYYpewqaLA3062RKHTqbm0lSZ0AJqKkFI177eKqbjichAanw9WQgDfZUZV54DnPU4C8LTA8zBOPnYkRJu3JrMgp2lUXk1qn6to/640?wxtype=jpeg&amp;wxfrom=0"/><p>如同孙悟空凭“火眼金睛”看穿妖魔伪装，在智能安防与海洋监测中，跨越可见光、红外与 SAR 等异构成像匹配同一目标，核心也在于透视模态差异、抓准身份本质。针对传统方法局限于单一模态、忽略频域畸变的瓶颈，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663923&amp;idx=1&amp;sn=4cc6dfa569e132011c0caeb8795ee81f&amp;chksm=97db839521ab17c6ddb7969eadcedd8320db678a07e76930a27ec36ae8eaca93dcad84dde6e9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Aug 2026 23:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ECCV 2026 | NeoMap：无需训练，从视频模型中“找到”新视角]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibyVAksYzSv2uEGykicAOgyzWjbwrj34SrjPYreRic1lK0jXdGBLza35WQcicEjVu4dbibQvIr88y3YFEyhfyJPrVIjPJfMxWxplTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>从单张图像或单目视频出发，NeoMap 不重新训练视频模型，而是在模型已经学到的世界中寻找正确的新视角答案。当相机移动到“看不见”的地方给定一张照片或一段普通单目视频，我们能否移动相机，生成真实、连续</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247663903&amp;idx=1&amp;sn=9b820f48a3ec4d15cb65f70631eda87f&amp;chksm=9776e4356bc4af6b4df083dbbb5f944f8e69336bb039799bc1a2c08cad227bb5ebe8a5e930e3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Aug 2026 12:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
