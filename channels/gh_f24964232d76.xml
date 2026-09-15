@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[最懂科学的开源基础大模型『书生-S2』发布：科学能力比肩顶尖闭源，通用性能居开源第一梯队]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaM9PIB136jqGOKZWMNpvMxSlU3SzdcpjJGh5YavWtVickp7eibX7JspW2hYfAmakWFNUUbC30iaIBvt4yiaZrxTvXvp8D5NkBp710/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月13日，在2026浦江创新论坛（第十九届）人工智能赋能科学研究专题论坛上，上海人工智能实验室（上海AI实验室）发布书生多模态大模型 S2（以下简称“书生-S2”）。重点提升了长程科研能力与智能体能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532376&amp;idx=1&amp;sn=b127105c68d1e7b1762fd47b97ec4300&amp;chksm=9e68e38175a53f2849a852bb755e5c90cf76cf4c7b508aef518db8cc18f0712a461281e35537&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 15 Sep 2026 16:45:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SGLang 某些模型的 CUDA Graph 为什么会有上百条 decode cuda stream？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KY06mkPtZjSdIcwurNynPnuYIsKeSIiau3vziaawXgMGrSVQILK07bjKHAEiakialB9SW9mJL8z6Ps7tJaElC6hMeX5KiaiaWlt9lu6s/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 某些模型的 CUDA Graph 为什么会有上百条 decode cuda stream？0x0 先看这张超难受的profiler图最近优化 DeepSeek-V4.1 Flash，打开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532369&amp;idx=1&amp;sn=c66ae32b023352b98ecb31835eea8e8f&amp;chksm=9ed3b52a7b43fe9446b3356d4eaefb446bd0e64efef7fdddef5df13075b31316998f09928054&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYJcWj59jw0oIicHx39e51T5f6NKickGHmxnh86KZDE8iboolhz2DEBUMiaxBx8icJwn6hWrLxcVymAvzfR3vlBNK1Kh9c6JwYIopSE/640?wxtype=jpeg&amp;wxfrom=0"/><p>欢迎关注：https://github.com/BBuf/SGLang-Auto-Driven-SKILLS 用Codex/Claude Code一起自动驾驶SGLang开发。0x0. 前言SGLan</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531332&amp;idx=1&amp;sn=fe6067f5ca6a98beb2eff4d396b859f0&amp;chksm=9e812605e76de265227c7ffa1f106d7d3ece854cd2747075ad8abeb831ee09fd03791b4f0f91&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 13:44:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Codex在推理框架上能蹬出什么优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KaarG00lKMiaFYVRnoarvEhwx7dLFDDNMyUa0GSY0DaU6I3qduyX406BFEGMPZfnHz4xlTG0MQChWYuhzWd3HLwvsUaQxibMto6E/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新体会最近用Codex在SGLang中蹬了一堆个人感觉算是比较solid的PR和feature实现，这里复盘下。基本都是我来出思路和中途干预，然后Codex来实施，我基本没写什么代码。放在之前古法时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531324&amp;idx=1&amp;sn=8a6052d414d0865b50a6bedd444bc0b0&amp;chksm=9e4983854a4f4f9d0db7f44715e19c3384b0854e5760d318fc16244fd90cdd366bf60552192d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 18:06:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
