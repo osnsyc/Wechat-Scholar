@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[苏剑林解构Scaling Law：优化、架构、数据的三重奏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmGNVw2RLcOEmdc7P9SiabMhnRwNREoNm2bNY1zWGXgGCIr92ssNLHcXDJRAs771icficqibSNia0FNIHLrP9DxH58fZntIBqkC0OlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章由苏神发表于科学空间，尝试从数据误差、优化误差和架构误差三个角度理解 Scaling Law，并串起学习率、批大小、模型规模与训练数据之间的关系。对于想弄清“模型该做多大、数据该用多少、训练预</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454411&amp;idx=1&amp;sn=623c47a25179de44c14da4ef42f88750&amp;chksm=bf1831a47f6670b544bcb65cb6a68777d28c83e9a93e3bcce9b5bb218d9deb2566b818486f44&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 16 Sep 2026 21:03:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[万字长文读懂 RSI]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlua1kh6klubiaaCrvutffmbRnCrlY0wCW8Tpeu3D3oRXl0l0iaclof8XQUhFZtxAkugQrZ5oNcQbdBFTVl5uDTRyiaE1Dic4AJHXc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Prism-Shadow 的 Awesome RSI 项目，整理了递归自我改进（RSI）相关的方法、系统和评测基准，并提供可浏览、筛选、比较的研究图谱。下面这篇中文导读来自该项目，从改进对象、更新方式</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454389&amp;idx=1&amp;sn=1c243e38c29f80b7e9fd1cd73e8fa7ca&amp;chksm=bfd89243d6d001c48919e2570f05d3a8e597f1f5d94d5032e9deb831824e4d31359dedb700cf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmdNXUMWFWAIZNBwyXXBPtXrbXX0rVLNr7gyqrhswxhwAJofmfFiafcXcicPJ3O6pWm2EmIJej3IxmOaUAicWYQoYbMyNhz1Iyu9M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Opus 5 才刚上线三天，一份长达 13.5 万字符、号称“完整系统提示词”的文件就被人端上了 GitHub。一个名为 leaked-llm-prompts 的公开仓库里，出现了 An</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453034&amp;idx=1&amp;sn=e6d316e24b84951c8cebda32ae39b376&amp;chksm=bfdc3f83ae48d8082a2de824a7c40aa3f25eff81f0ca73a7e73cd2e7053843ca01ea9b7b9a78&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Jul 2026 14:37:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code 的系统提示词，只剩不到 20% 了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlw35OyynyPPmCPswicNmmH65WMXnGlju6kGHToeDb3obxFrhWDlh2LEiaoSD56yHl6ybibicibjov1rTXJfH7Uo9zk2RiaHgYcfW9go/640?wxtype=jpeg&amp;wxfrom=0"/><p>给 Coding Agent 加规则，几乎成了一门装修学：它犯过什么错，就往 CLAUDE.md 里加一条；它再犯，再加一条。加到最后，Agent 每次开工前都要先读一本员工手册。规矩越来越全，人却越</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453027&amp;idx=1&amp;sn=46fc11dea196b77a325270be713f0601&amp;chksm=bfc25a252c223d11dd11b91c5f08f13ea252aa80f5fc40719ee9a5744bbb426189905c8c2e0b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Jul 2026 16:51:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
