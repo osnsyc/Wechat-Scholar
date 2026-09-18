@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[离递归自我改进还有多远？智谱晒出了 GLM 的工程实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlQcSGib5mibBBA7Ch9Kz8ibwypRAM75R3DZiaRxlDcicBwaQINibHtYJPNcgvJR4rYDvbNvVgdaIjPiamQnia8GOK5Rn7j9UAFDAfdtGo/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，智谱发文披露，GLM-5.3 驱动的 Infra Agent，参与优化了承载 GLM-5.3-Flash 的推理系统。工程师与 Agent 共同推进，让模型从初始适配到生产就绪用了不到两周，端到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454438&amp;idx=1&amp;sn=675aee8a85a92c142e32475a835ec257&amp;chksm=bf110b2543e055bbe3c3831f07d9c9ef16d1769d23a7bbd35b847ab2433ae055cf585c33ea24&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 17 Sep 2026 21:40:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[苏剑林解构Scaling Law：优化、架构、数据的三重奏]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmGNVw2RLcOEmdc7P9SiabMhnRwNREoNm2bNY1zWGXgGCIr92ssNLHcXDJRAs771icficqibSNia0FNIHLrP9DxH58fZntIBqkC0OlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章由苏神发表于科学空间，尝试从数据误差、优化误差和架构误差三个角度理解 Scaling Law，并串起学习率、批大小、模型规模与训练数据之间的关系。对于想弄清“模型该做多大、数据该用多少、训练预</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454411&amp;idx=1&amp;sn=623c47a25179de44c14da4ef42f88750&amp;chksm=bf1831a47f6670b544bcb65cb6a68777d28c83e9a93e3bcce9b5bb218d9deb2566b818486f44&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvl6dSMHYjgm8TVvXa8kuLTCV6gIZYNrHicMe1lsltIZSjFB6zlYQNgM2FHZtWVa9fASibOjAYWJXjMorGVgCTfrO6VFHtZF5cjKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨晚 11 点，月之暗面正式开放 Kimi K3 完整权重，技术报告也同步公开。2.8 万亿总参数、1040 亿激活参数、96 个 Safetensors 分片，整个仓库 1.56 TB，Kimi K</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453042&amp;idx=1&amp;sn=48c7b954a0375a24da23e71e8896383a&amp;chksm=bf80350b8328aaf61fb797769c5df0f7f5a864d6f434d875874bc2dc2950dfe81b000a52ce4b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Jul 2026 11:22:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Opus 5 系统提示词疑似泄露：13.5 万字符都写了啥]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmdNXUMWFWAIZNBwyXXBPtXrbXX0rVLNr7gyqrhswxhwAJofmfFiafcXcicPJ3O6pWm2EmIJej3IxmOaUAicWYQoYbMyNhz1Iyu9M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Opus 5 才刚上线三天，一份长达 13.5 万字符、号称“完整系统提示词”的文件就被人端上了 GitHub。一个名为 leaked-llm-prompts 的公开仓库里，出现了 An</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453034&amp;idx=1&amp;sn=e6d316e24b84951c8cebda32ae39b376&amp;chksm=bfdc3f83ae48d8082a2de824a7c40aa3f25eff81f0ca73a7e73cd2e7053843ca01ea9b7b9a78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Jul 2026 14:37:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
