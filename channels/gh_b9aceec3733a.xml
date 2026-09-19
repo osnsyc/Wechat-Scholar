@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[想让扩散语言模型一次吐出一整块字，堆模型堆算力都白搭——瓶颈是喂进去的那撮噪声只装得下 log k 的信息]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUPicxSfgPW3sOiab50PKXAHI5rYUAw9udPq1ZibcjGtmH0kxfgdMleZ4blajwxqQvhXkSUO5wuM6BoWznFPibBdX1LfzgUX4zVL6eI/640?wxtype=jpeg&amp;wxfrom=0"/><p>你用大模型写东西时，等待光标一个字一个字往外蹦，那种延迟感其实是有物理原因的。自回归模型(就是 GPT 这一路，autoregressive，简称 AR)天生一次前向只吐一个 token——每个字都要</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485552&amp;idx=1&amp;sn=b8b59777b2dff8a3c4213ef8a6af01c6&amp;chksm=975f80369d0f3ee5825f6326abff3202287a4b03a669eca02b95557859baab4e3da62023d6f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 19 Sep 2026 07:10:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[夜里拍的照片去完噪反而"发紫"，真凶不是去噪网络，是一个被相机记错了几个数值的"黑"]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUMwbz36ia9gpVCiaCj7Fa67IzDLpThxpicUtfibe635icv81Fia6fUL11z2x79VvEpm53LlJiawk2JVDGkl8xV1hKpwS8pm1IicSnBK7uo/640?wxtype=jpeg&amp;wxfrom=0"/><p>夜里在阳台随手拍一张，画面暗处本该是黑的地方，泛着一层洗不掉的紫。你以为是手机没拍好，其实照片早就被"修"过一遍——每张 RAW 图进来，都要先过一遍去噪网络，把暗光下爆表的噪声压下去、把亮度提上来。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485450&amp;idx=1&amp;sn=d8045cb79bba7e94693c74af294558a9&amp;chksm=977a31eb9cb678908c729f4fc1ee773de3fbefd031371355cf432e2bc4c122dc7e77801f7c7e&amp;scene=0&amp;xtrack=1#rd</link>

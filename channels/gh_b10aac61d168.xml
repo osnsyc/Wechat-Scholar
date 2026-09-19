@@ -10,6 +10,24 @@
       <title>gh_b10aac61d168</title>
     </image>
     <item>
+      <title><![CDATA[重磅！英伟达开源SoL-Pi Harness，Pi同等表现节约一半Token]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdWqoZ1icE7WCskfM924icBDUcXxQaPMPvov0XRSkibszibh9UTMpCkZquvDmeoowicObibfTBfhibNZ0pw86IJvNV3TIyxoaGsTZApq6E/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读英伟达、南洋理工大学和麻省理工学院团队提出SoL-Pi，让自动研究循环直接优化Coding Agent外层框架。在51项EdgeBench任务上，它与Pi表现相近，却把记录到的Token流量减</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745271&amp;idx=1&amp;sn=ca9038bbb54ccdae8b659c3a4599bd6d&amp;chksm=ce0f1df3fd54519aabb9f13df3660bae08918a5a970176c2aaaa8ef1bf1085bf9cd7a497ea53&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 19 Sep 2026 08:06:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[单臂机器人把衣服转开再折好，实机零样本成功率75.6%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdWds7aiarKm1h65IMLnOWVpkAGcic4EvnpZ9ovgzjwZlhWoViaJ7nExnr03uMBKYZQicjLYH8Km2kQXjD8ciceIVCLmHVYvjzxOAjYk/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读南洋理工大学、香港大学和中国科学院团队提出RotateIt，让单臂机器人抓起衣服后绕固定点快速旋转，借惯性张力分开重叠布层。策略只在仿真中训练，面对八件没见过的真实衣物仍取得75.6%展开成功</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745271&amp;idx=2&amp;sn=94da13b0825b1c4c557c9cfe2ac8547a&amp;chksm=ce7740e9a6251f7f55a1aaf717ea43aad6912ff2c094b70fac051be9ed90be6a0c48fab43945&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 19 Sep 2026 08:06:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[别急着用LLM做表格预测：只用约6%标签，经典模型就能反超]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdUmuUXeZe16gdWNjlYEN4Nd4pWTu1CpicHjzLfaSnA0KceyFBe5h4LL323xuTBlItJIQPduJfME7uh90micly9HOlbHibe3snJgjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读宾夕法尼亚大学研究者把“直接提示冻结小型GPT”与“收集标签训练经典模型”放到18个表格数据集上比较。观察到的性能交叉点中位数约为完整训练集的6%；在86%的案例里，手头已有标签量就足以让经典</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745271&amp;idx=3&amp;sn=15566d1f242cb163f4f90ca2dbb538b6&amp;chksm=ce4f3892ac52facd8b54438760c3a25f5713a6c1f4734184e9a9d53eacf4ecfaf6f9afe0fcd6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 19 Sep 2026 08:06:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek发表最新论文：突破KV缓存压缩极限！百万Token更省内存]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdXJPqroUicqDkkdmzk6iaCotf7xK4w71ZIcBUgGwCaeYNzTCxGEZIRVJHicsoBw2icVSbMUsibXPKbicjujWQgvLUq3Zv7IzJiaVCYGAo/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读DeepSeek推出多模态模型DeepSeek-V4.1-Flash，主干参数为552B，最长支持100万Token上下文。它把全局KV缓存降到每Token 890字节，约为DeepSeek-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745255&amp;idx=1&amp;sn=08e3cf9bda32f24cb35c441cb05ea11d&amp;chksm=ce4d15125071295ef93f4e5a9805a901e629fe55c05ebc3716164f63ee0d634409e53f4229e9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -289,24 +307,6 @@
       <title><![CDATA[计算机视觉学术速递[9.11]]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdVvFXF1BjXkq4O1LGEyYf7RXcz81QfhVC8NbEtremxk2QibFuIPwyyFhbEtAMTQryovaehxQygbLeiabsAEIXPNpdGzPmepRS3SQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-09-11 | CS.CV计算机视觉 | 共 75 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 多模态与视觉语言模型 6 篇2. 具身智能、机</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247744267&amp;idx=3&amp;sn=edc6481141b6e7e4cd26fd1955681e83&amp;chksm=ce6d2c291db499a165648108da90ffd0f9ba20dd6892ac5eb33187b8f2bee62d63b707b27e09&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 10:37:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自然语言处理学术速递[9.11]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdUodSvC9jeHquIlEoMfcnIicL8AmHcXPxfdPbUkfFscvAZKuQGpgWvne7LGQMw8pYLh4fXwvWCgBfRd6YO3VvhW6XDBtc2YDzYI/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-09-11 | CS.CL自然语言处理 | 共 59 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 大语言模型与基础模型 28 篇2. 机器翻译</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247744267&amp;idx=4&amp;sn=19ed7f21f7dbcb4dc79189e9c38d025c&amp;chksm=cedcb13e84718ade7a98c41265a0590c2a558b43c7a90d7d9e8bd6bc63161897f656098aa1e3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 10:37:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器学习学术速递[9.11]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdWP38gKBdB0ABZR5fwMDX8ib3jCovaaKQ0Ur6mefWPH9rCPc024XqgXyJkdBWdpdO8HYucicSlmgutm2fjnmN8ViaicI9hqKqYpfk4/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-09-11 | CS.LG机器学习 | 共 73 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 深度学习架构与训练方法 4 篇2. 表示学习、自</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247744267&amp;idx=5&amp;sn=fb87f94cf913a4e09ec7520e5f34a1b2&amp;chksm=ce7731b20a3933a644e4f27fd03b4fde30f740592e08e82e46c909669038b4b4164b60e7a556&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 10:37:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人学术速递[9.11]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdUHk0jkuD9ibX70Ifmd5iczeUibQ6Zjq5zbmHBeeqoVIibUGOOuibYiaxYSNgGlTNj75LgWfbAH5NsnicbOnkNqGNPglnmnFhKzaibJK7M/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-09-11 | CS.RO机器人 | 共 38 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 机器人学习与模仿强化学习 2 篇2. 运动规划、控</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247744267&amp;idx=6&amp;sn=1622d7bbff0bd819cbbf5b7cd6b02f08&amp;chksm=cebf3629f2196f7b6b1da88ded43b757d9d5048fa975327463867f16998d51967b74e510481d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 11 Sep 2026 10:37:33 +0800</pubDate>
     </item>
   </channel>
