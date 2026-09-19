@@ -10,6 +10,18 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[刚刚，Anthropic公开内部RSI落地方法论]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwCq6e1XSCSkeIFIr2TaZdDiaCFxFtXzBVTdvTichvjOOArsBqaD3Uv4rIF1Oef1EiaJaxibZKAINibvPPg4r9aKyd2qhW7tTDXgXWWM/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！近期，Anthropic发布长文公开了内部RSI（Recursive Self-Improvement）的落地方法论：AI在多大程度主导下一代AI，研</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247511931&amp;idx=1&amp;sn=7a700a474138078ffe0c5e41a39f0432&amp;chksm=c36d57f02646a5c219d2a3e6450a6fefa2d5bc52652f324aa47d5da2beef095f7154c264378d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 19 Sep 2026 11:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[拆解GPT-6 Astra背后的Loop技术细节]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwDHSQhlhT1WMiaAXJ0RSicgzpuSuyVFV61Sibya5SuAdf5Lic9c2PFUiacl1BcHd1qB8KfcCR4nlb0gia0fB7cqtEj4zUeLFPkJvzdpE/300?wxtype=jpeg&amp;wxfrom=0"/><p>GPT-6 Astra发布前两天，The Information 放出一篇报道，说 OpenAI 在这个模型里用了一个秘密技术——recurrent depth（循环深度）。这家国产厂商悄悄开源了个超</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247511931&amp;idx=2&amp;sn=0c0b7996729808d4bff429deb7fe4419&amp;chksm=c366dd6f8236fbb39489eb7a044cf7f43dde261ed399e5b351db4e1a1ffb00fdc2d9bb5fe37e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 19 Sep 2026 11:23:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[我天，彻底被SenseNova-U1.5技术深度惊到了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwD94cico1P5TJGSn282qyT4Jd2FQjt2VAErZ6b7biaJEqAKv5x4V4CB3eRnricibJ3oSTVKqor0AEhfQHLLkEmlWViaAATBzkU3YeYY/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！这两天刷 alphaXiv，好家伙，DeepSeek 带着最新的 V4.1-Flash 在 KV 缓存压缩上大杀四方，霸榜。往下滑，旁边同一天发的 S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247511813&amp;idx=1&amp;sn=4f682e44b5625d838eae2db513078a42&amp;chksm=c35083bda57f1489c1d4db5d0001b16f58f2305e2ea0ca49b98b3af6e5727a998e62347d4b28&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBMcBUpibJ50VMGfGyAKdGLL7GkZweRrPzBq8wwMUBTuK10EbtwYIp43P40DoPFduTWtkuQb455KtbpYfBnLMVuPN2geIQ5m0VQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！期待已久的DeepSeek Harness（dsh）项目开源了，直接就冲到 55K+ star，主打：一切皆是插件（DeepSeek Harness:</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509885&amp;idx=1&amp;sn=1a1cd2f1535bc91267ad7d54d26e84d2&amp;chksm=c33bf36b1cb8505b5d650bb7466a0342eb16cb014117073971ffb07082ae5ce121d923a36859&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Aug 2026 11:26:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek Harness背后还藏着一篇新论文]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwCKlDUgUibQSic2gMeZ67qxKS9wswm7M3iaMXLmpjOxFJHlAVwG49ElHC2YMmQa9zJ5YXaougKOnXwAT5kW5a717yia5TVz170Ddtw/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！DeepSeek Harness开源了，一起公开的还有一篇关于核心技术Cordis的论文，由北大和DeepSeek-AI合著。Cordis：一种面向时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509885&amp;idx=2&amp;sn=5556d38f62af9a6ca66ee0f3607f4b81&amp;chksm=c3652d207420400b3ba74e5bcef9293e4342bababc0344ea2c6284fb2023a2d6ff4a7fbbe5f6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 11:26:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[150篇12大顶会最新工作，具身智能一次看透]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwAHldW1m4cl8vVPV66TdJHm6zMs1paicd5lgCZ2wuoKmHicaQjU8tCZmvsYWiaoFJTvyKF2Eefmcghgf0sUEs55ibIC4zjwibIlZG6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去一年，从VLA、机器人Agent，到世界模型、强化学习与大模型融合，具身智能相关的工作正在快速增加。相比起已经卷上天的CV、NLP，具身智能目前仍处于快速探索阶段，很多关键问题还没有得到解决，这也</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247509829&amp;idx=1&amp;sn=dc4f68fca057583e5b05481c6148a012&amp;chksm=c3eebd3b2111f4b0a91dbca07d060f9555d73f55552556c89b9471847cd16ef4ac75bb1fbc0b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Aug 2026 11:16:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
