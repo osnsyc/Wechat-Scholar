@@ -10,6 +10,18 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[雷达系列 | 如何滤除雷达的径向干扰]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QjS8W3dssDBzwASC8PU7micQ7R0b9TLcAwefzMKosJzhCDtdEgVyavEFbxoR2xaibAOFhbic058eYaicahaQzovWTMIYAEBH5W9pAc/640?wxtype=jpeg&amp;wxfrom=0"/><p>雷达系列 | 如何滤除雷达的径向干扰一、引言如果你经常处理基数据，一定见过这样的场景：一张本该平滑的 PPI 图上，突然冒出几条笔直的"亮带"——它们从雷达中心向外辐射，显然是杂波。这就是径向干扰（R</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491961&amp;idx=1&amp;sn=3115ddc4b3e657e871e49599df0b9d56&amp;chksm=c320b51c37bf409b78e8b2d05a50902751454f8dcd6dd05a53b08d7291fb621517a2dcd104d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 16:31:57 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[集合卡尔曼滤波器的子空间锁定]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/IlWY29v7tnibTC9p3FxjhQlzaSfAicR1Aiaqc9WiccwqRxMsoWiaicsibgiaq5kAGGicuBvCvh16N59KLq6KZC0lZpAFlpsmicRjRk7weYzfh0BAPsdtM/300?wxtype=jpeg&amp;wxfrom=0"/><p>推导 ETKF本推导遵循 Bishop et al. (2001) 与 Tippett et al. (2003) 的标准 ETKF 形式。1. 设定与符号考虑背景集合 ，（模式维数 常达 –， 仅</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491961&amp;idx=2&amp;sn=9e45931882c0bc6b0e92a1aa5c1bb7dd&amp;chksm=c3cb536e6d82a46f2650391bbe37de92e341534c6e1e2f1625e66c01ccb091703bf588c0b0b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 16:31:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[气海拾遗 | 2026-09-19]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjcdZfYuJdCkk278fLoXibZXD1WUwib016A7W2JIicveE2rIFPk2ChHP2X5Kznu1Ot9xpW4KhPayPCNm0DkcJOlIicutn5Bs9umOq0/640?wxtype=jpeg&amp;wxfrom=0"/><p>气海拾遗 | 2026-09-19模式·新引擎赤道大西洋海表温度季节变化的物理过程Physical processes to cause the seasonal change of the sea</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491955&amp;idx=1&amp;sn=e546f8d2f2178d0f45a767df5e2a9b40&amp;chksm=c38bbf941abaae777431e3f95e4957492972331db833dea3b5c7d6184858bebdbb583f3886e9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjYwXYVEiaOb5hJKyQZHgia2UORKUmlyib717dfeppVJVib1TnWDjuPkjbtOEpA6tgD5jAyJkefAic96epf7CqdRsFWfOuSFCbg3NibY/640?wxtype=jpeg&amp;wxfrom=0"/><p>如何定制你自己的文献日报在某一期气海拾遗栏目下有读者询问栏目是如何制作的，那么在此简单说一下整体流程以及主要代码，完整代码会放在末尾读完这篇教程后，你会得到一个可以长期复用的小工具：每天或每周自动检查</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491652&amp;idx=1&amp;sn=2a1f8b662fe1f13926a944e5ce9dd230&amp;chksm=c3d13608ee60cbd9a15e1fdae8f6a31e334d929d3e2f5f9744884980b26bad0c4aefb112615c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Jun 2026 13:42:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码实战 | cfgrib外的新选择，如何以rust为后端加速读取grib数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QgRTAiajqZhO3icvBC05XqlzmTa05bfLBb3icGiagLQF7R8Y2PF9icFibQXUZeUcUszHsluPIzvajHSvfibE4XLGibyQSMkNgZBibK3o1kM/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | cfgrib外的新选择，如何以rust为后端加速读取grib数据作者：气 python 风雨运行环境：Python 3.11 + gribberish + xarray + matplo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491648&amp;idx=1&amp;sn=e8ec0a8dc3d0b391a13ad051aebc7aa4&amp;chksm=c3dc8f49bd0d4401f66b8d2834bc3fc3c5f6f8147df6f555c9d52beb7ffcd2811d5ba319917c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 13 Jun 2026 08:43:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[气海拾遗 | 2026-06-10]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QiaHdOCWq0HkSgott9lUjxSxfTClr1OqZ98ROUDpNMIvVbefjRiaXU1ClhkplGcaa8icS9MOCMo3riaAiaYTNTsqWXcBFFQpnN6ic0bE/640?wxtype=jpeg&amp;wxfrom=0"/><p>气海拾遗 | 2026-06-10模式·新引擎水平湍流扩散控制的热带气旋最大风速半径下限A Horizontal Turbulent Diffusion-Controlled Lower Bound</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491642&amp;idx=1&amp;sn=c1eed3731e275de5d04aa5faab751de0&amp;chksm=c392da23eea372f3e853e0685d28f148ac125c7a82cd51e416d4b691669827e98382eb09d374&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Jun 2026 14:45:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
