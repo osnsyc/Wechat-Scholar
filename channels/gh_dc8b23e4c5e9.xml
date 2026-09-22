@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[Qwen-RobotManip 技术报告解读：先对齐、再扩展，38,100 小时开源数据炼出可泛化的机器人操作基础模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIib3QN6FI8aa6TR55EEbDicSibqcH2ddnP5DTga8rxo5H8GAv3DvuBlyjzk5jenPtgtpibIYqj0ibwDZrgvjexbvUTkBXWVhZXResaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型和多模态模型之所以能成为"基础模型"，靠的是一套经典配方： 把异构数据对齐到统一的表述形式，然后用海量低成本数据规模化训练 ，让不同来源的训练信号互相强化。这篇文章要回答的问题非常直接：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485767&amp;idx=1&amp;sn=31167257ab2377a5df6bd83699e8b167&amp;chksm=c095d5e9ce99dadb6de471cec81c02444d84cc2efbee579d447ee12dd11b59c85dae917623de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 21:43:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GLM-5V-Turbo 解读：面向多模态 Agent 的原生基础模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI87AVqXoWZA90R3jdibNDscCBWA9V344IGUIXydhicuFT1mr0iaiaDpVvMiafReicF7Fy9pCicneQNlwHUj56Lpian665rtUZJ1mAdRiatg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话概括GLM-5V-Turbo 这篇技术报告的核心，不是单纯再做一个“看图更准”的 VLM，而是把 视觉感知、语言推理、工具调用、代码生成、GUI 操作、长程任务执行 放到同一个 Agentic</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485747&amp;idx=1&amp;sn=94d7ad1ba2eed719e60b0be6157b1500&amp;chksm=c092c761d2513a8764d993b520bb5e3ccbaf2042530e97e417e80eeebba0408bf6d5d8936886&amp;scene=0&amp;xtrack=1#rd</link>

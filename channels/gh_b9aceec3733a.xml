@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[夜景照的天空发红发灰,越去雾越脏——因为这根本不是雾]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/swpukQFIAUN3wK124ia2UY9qwxFejkO5ZO8Is0a8RIJMbu2J9eYYXrR9Gq4RIWhYRydPwc1MYapQGnINgIaicQ2BkszgH5ib5qu6MUeKwva28A/640?wxtype=jpeg&amp;wxfrom=0"/><p>在城市里拍夜景,十有八九会遇到同一种扫兴:明明地面的灯火楼宇都拍清楚了,天空却糊成一片橘红或者灰紫,一颗星都看不见,像蒙了层脏玻璃。很多人下意识就去套一个去雾(dehazing)算法,结果往往更糟——</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485590&amp;idx=1&amp;sn=197253290d17eff2d1c8002197626803&amp;chksm=973f39835e84f5dc6838224e7c45d49566045138df5e113c93a67f648769eeee43d7e55e2ed7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 07:27:51 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[去噪该用 L1 还是 L2?争了这么多年,可能一直在拧错的旋钮]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOndEoCgJ4UmjmYXvVhZEs1wXfV8sEynbHibZHcUt73By281xy8UcoiaSvz3F9QUaYWGic33b9gUTcl3jibGTKABPAQhJuEHDrvx2c/640?wxtype=jpeg&amp;wxfrom=0"/><p>调降噪模型的人多半都纠结过一件事:重建损失到底该用 L1(绝对值误差)还是 L2(平方误差)。经验上大家都知道 L1 更"耐脏"、出图更干净,论文里也基本默认用它。围绕"为什么 L1 比 L2 好",</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485589&amp;idx=1&amp;sn=331252399684a118c995a155da1380f7&amp;chksm=973c1085d2ae05645955ccd56262ec216517b7e18911d172413b3f681745932eb65442ef6957&amp;scene=0&amp;xtrack=1#rd</link>

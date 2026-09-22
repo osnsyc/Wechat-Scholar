@@ -10,6 +10,12 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[RISC-V 指令集架构详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/XOYhOkUDlAEKDnhB1uDxyLoaLcGvEvb6gEQU4p0p6KVzB3K7b0tOqgwK5lg6gkbqDe4q8C7O0UPia9yEnOiccxh2LibeLn8jRpL6QGcHa32gWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. RISC-V 概述1.1 起源与背景RISC-V（发音为"risk-five"）是一种基于精简指令集计算（RISC）原则设计的开放标准指令集架构（ISA）。该项目始于2010年，由加州大学伯克利</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247621594&amp;idx=1&amp;sn=05f7c4021a33a18a773e04e86c7e4796&amp;chksm=fa270b6ce458047e3e2401136f737363714fed18d2cc9c9dec7a65bbb5a05b3f72e9857f9284&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[RISC-V操作系统开发：同步与锁机制——自旋锁实现与临界区保护]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/XOYhOkUDlAHRBn8OyZBVdicQRmlgavHIqdtdYJpPVPs0EAjC13Yib2bzibE8Xor9yOXxadTuQasnicZ1o5INPlx1QLgky8PN9sibQz5agm1QBmiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>同步与锁机制一、概述09-lock 引入了操作系统中的同步机制——自旋锁（Spin Lock）。在多任务（尤其是抢占式调度）环境中，多个任务可能同时访问共享资源（如 UART），导致数据竞争和输出混乱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247621557&amp;idx=1&amp;sn=52e73b72f1b4f2affb5445ff6e131184&amp;chksm=fa15557a8b040935dd81cc3baa0471fad757aafe4ff250e739e8b6fb1b8cbd41f735c3496a67&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/XOYhOkUDlAG6KzhuLhAVdJIqnFe7HCDXZ1T2ao0j5kP4mQFgeul83nqX4NIPvuf0rj1OOmlytQGtJichYeoPhJX0ZH95eUcN9rZzNnox0tpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 走进具身智能教学前沿当智能体从屏幕走向真实空间，机器人正在成为人工智能教育新的重要载体。为贯彻落实新一代具身智能发展方向，推动具身智能技术与职业教育、工程教育深度融合，宇树科技股份有限公司联合古</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247620556&amp;idx=1&amp;sn=7b495c408cce7647ae84303e47af6e4a&amp;chksm=fa33ff16ef6e40171ac7e3e9b0db0b0f9bdc46d793945a953b8b02cff3038d2b00df306e9764&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Aug 2026 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新品发布！古月居联合OpenLoong开源社区、ProbotSys 博乐世发布“双足具身机器人产品”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/XOYhOkUDlAFp0euMvXOrk9ibE0qbHnuznSgl5sK3ic8VzRRgzoksdhogZ2pCY4R3pFCRDA4ofUPBcEasGI7ORXJIGm8Lj9ibQeIn6UADDboG0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月5日，古月居联合OpenLoong开源社区、ProbotSys 博乐世发布“双足具身机器人产品” 。当下，具身智能与双足人形机器人产业进入高速发展期，技术创新、科研探索、人才培养需求同步</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247620546&amp;idx=1&amp;sn=7540861bcd74125a00bda37add17240e&amp;chksm=fa64398c1dc0be4624816328b693bfd852bf75539fced6e0c8a89d3576294ac54ec8cbbfd9a5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Aug 2026 14:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
