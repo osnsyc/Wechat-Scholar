@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[小米开源 MiMo-V2.6 双模型，罗福莉：我们选了最难的那条路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmxHHHsKMicsibbdLWicD4KKyKjMExnBZ0gCT8iclAgw672En1JjnCXyhwjJgnNa0D1SWZVcehZGqnwx2CGwC6icKQlsFc4PdukQTEo/640?wxtype=jpeg&amp;wxfrom=0"/><p>小米今天发布并开源了 MiMo-V2.6-Pro 和 Flash。罗福莉随后写了一篇长帖。她给出了一个很重的评价：在她看来，这次工作背后的研究创新和工程挑战，超过了她曾部分参与的 DeepSeek R</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454499&amp;idx=1&amp;sn=50f098d954f0079814aa9befd1095116&amp;chksm=bfd2e7f217ee16ef7f4c820e91dd5690e09d8329514836ae7aac1688f4fb873f029fe2955052&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 13:20:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Jev 入门指南：System One 模型能做什么]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvk3Vq9iaQc9ECp7e0wcR4DMjP3KDlonBnmLKX4yVsBLkqbe2ic0txRLSUhgiaPGmwyDk98zfP4FsQG3BC7klDwUOU5OdFQ0icQKg7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Jev 最近引发了不少讨论，但它究竟适合做什么？Elvis Saravia（@omarsar0）写了这篇入门指南，从工单分流、模型路由等场景讲清它的用法。以下为全文翻译，文中的“我们”指原作者及其团队</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454478&amp;idx=1&amp;sn=192099f7350821b93f541c9d9fc61c0a&amp;chksm=bf205fa183690d4cbdcec2d4355d0169deab453d8d87cc202c6268f14dc8f9e88ef451ef9fce&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmWicKzapkGHHuiaFaRAazTjUNgMsDVfvoN1gW1BcyCnicnibeibjaVspqEyVc5W10QT3U3z8ell4MeyJ9icRqhTbibUlc4icO61icOXTQE/300?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 昨天发布了一篇实验复盘。同一个 GPT-5.6 Sol，没有继续训练，也没有换权重，只给负责调用模型的运行框架打开两个设置，ARC-AGI-3 公开集成绩就从 13.3% 跑到 38.3</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453088&amp;idx=2&amp;sn=a24b82178c8887ccd2a4decd83999478&amp;chksm=bf305b2aaba540d9b57196daf056b3b2596a391db600f86605068473e6daaeda12c84d4bfe53&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Jul 2026 15:55:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kimi K3 技术报告英中对照 PDF 版来了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmibLuaAbdNAaw7wEGzPVJh5arAM0NAWv5nWZanRgO58GBG4ZpJrNVmURH46ibAOrxr3YRmd8kZbjKpmLAS68tRVRXnbOZAG6vtY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi K3 并不是单纯扩大模型参数，而是围绕 超稀疏 MoE、百万级上下文、原生多模态和长程 Agent 能力，重新设计了模型架构、训练方法和基础设施。它代表的是一条较为激进的技术路线：用更大的总</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453069&amp;idx=1&amp;sn=b115abe16292f53acdbd987f3d9a0298&amp;chksm=bf6e693342cc25d907b0693d7e4c752b6c03f53549b7337beadcc6a71540fe7bac939aee6250&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Jul 2026 11:14:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
