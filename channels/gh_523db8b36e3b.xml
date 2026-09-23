@@ -10,6 +10,12 @@
       <title>gh_523db8b36e3b</title>
     </image>
     <item>
+      <title><![CDATA[Physical AI 系列（四）：机器人进入工厂和家庭，怎样判断它真的有用？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/a1teoCHF2SvKJriatiahyy4yxYm7MAPwJkXuXextqicsj13P68NfkvtDp0IcyCrHowXy2HwsZFdUZPhHvLUwE41M7LlR2RmK3VXpFxqZp3XI1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击“计算机视觉life”，选择“星标”机器人AI干货第一时间送达大家好，我是小六。前面三篇，我们从物理任务的困难，一直讲到 VLA、世界模型与 WAM 的技术机制。现在需要把这些模型放进一个更现实的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&amp;mid=2247624294&amp;idx=1&amp;sn=9b4190e637ea71abe1f8434c31d8450c&amp;chksm=96e6ae6682d238df8111fc59e5703a6ddc0da93b22cc80fa1f7cfb4b8d725439332b58878f9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 19:07:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Physical AI 系列（三）：VLA 会生成动作，WAM 又多解决了什么？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/a1teoCHF2Su8NKxeFggwjKCA3K4TIrMUlH1MhVKf8Mbb7vmYuIYXaTVMDezjxIooowASiaNZibaqlOMQn3xHaCD3P4zKy2wkYD5w0oj3K9U2M/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击“计算机视觉life”，选择“星标”机器人AI干货第一时间送达大家好，我是小六。上篇梳理技术脉络时，我们看到两条路线逐渐靠近：一条从视觉语言知识走向动作，另一条从预测世界变化走向策略学习。这也带来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&amp;mid=2247624289&amp;idx=1&amp;sn=46371eae882ca8a39ad2b0e4ab774a66&amp;chksm=9683de24f4a9ce8efe379ebb8478166a1068a66627464385bbe14c321f022a3653ec8a5a81c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[3D场景图系列（三）：从“看见一间房”到“记住一个世界”，3D场景图六年进化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/a1teoCHF2SvArxCN1b2qvZ4jtu1L9XHkYGAWL6s7tlhfCG0dvcQRhlwbrO4SO9FOs0vPLmciaqsezChdPiaeOxuffMiaeTbJiczrgTwbdu9icubQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击“计算机视觉life”，选择“星标”机器人AI干货第一时间送达大家好，我是小六。前两篇我们先把问题和概念讲清楚了：机器人缺少的不只是一张更精确的几何地图，还缺少能组织对象、空间、关系、状态和历史的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&amp;mid=2247623916&amp;idx=1&amp;sn=394c8e5c48d501cf53a6dcf7f3909a7f&amp;chksm=96d85ad410e59d37d1a72ae3f8d95047802e251dcb49444acba56d4903b29befdf7c28810ef0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Aug 2026 20:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[长窄走廊+白墙+高反光退化场景，机器人如何精准动态重定位？（可开源交付）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/a1teoCHF2SsCCgvA1OCEGXuvnWMmPCYTYvAnPsqGTeRF9xgFNDw3bun7C1tYUmGjhyPQWmWJPd0j1R4NDO8ibescTCNYAgSeKjicHE1wkGT0s/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次测试选取了对重定位较为苛刻的真实环境：大白墙特征稀疏，场景相似度高，同时存在高反光地面，演示我们的重定位功能，包含静态场景重定位、动态场景重定位两种模式。 第一步进行实时建图，构建完整环境地图</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&amp;mid=2247623916&amp;idx=2&amp;sn=0192bf703942c2184c354ac9435bf4b1&amp;chksm=96e042b65ee4c59e99ddf86ac573e4554780602197e372106882ede56db79288aad31ec10d84&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Aug 2026 20:00:00 +0800</pubDate>
     </item>
   </channel>

@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[DeepSeek-V4.1-Flash 深度解读：把 KV Cache 压缩到极限的百万上下文 MoE 模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIiciaVu36npxkdyVOxUHV0XIpuUB2t0zKQDfUsqicpOUQlP70FMVibbWyV5AdPRHBSCS4eLKKUFeiaGlb7Yu5o986a96YSA5ib1c0VVU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在长上下文 Agent 越来越普及的今天，模型的工作负载正变得越来越 "输入重"（input-heavy）：动辄几十万 token 的上下文要 prefill，海量的 KV Cache 要存进 HB</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485791&amp;idx=1&amp;sn=5d386b0c1617b5ce7c99c3debaeb1d85&amp;chksm=c07f0b9cb0ca771c6e84c7311b189608260c9d001e3c54dfd100413949edf57754dc38e3e7ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 21:41:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen-RobotManip 技术报告解读：先对齐、再扩展，38,100 小时开源数据炼出可泛化的机器人操作基础模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIib3QN6FI8aa6TR55EEbDicSibqcH2ddnP5DTga8rxo5H8GAv3DvuBlyjzk5jenPtgtpibIYqj0ibwDZrgvjexbvUTkBXWVhZXResaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型和多模态模型之所以能成为"基础模型"，靠的是一套经典配方： 把异构数据对齐到统一的表述形式，然后用海量低成本数据规模化训练 ，让不同来源的训练信号互相强化。这篇文章要回答的问题非常直接：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485767&amp;idx=1&amp;sn=31167257ab2377a5df6bd83699e8b167&amp;chksm=c095d5e9ce99dadb6de471cec81c02444d84cc2efbee579d447ee12dd11b59c85dae917623de&amp;scene=0&amp;xtrack=1#rd</link>
