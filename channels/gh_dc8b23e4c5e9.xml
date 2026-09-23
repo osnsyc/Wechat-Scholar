@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[LingBot-VA：用"因果世界模型"重新定义机器人控制——先想象未来，再决定动作]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaI99kibpN5Vr03uVk2Lt5zmQn37ouTCHzeQzMFTfFgpBYjpFEjANSQqLAufx8neGpr6lVJh37ShkDkicGvdg3lGcW3clibT4LtEtrI/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天解读的这篇论文来自蚂蚁集团旗下 Robbyant 团队（由 Mingyu 等人主导），提出了 LingBot-VA ——一个把"视频预测"和"动作推理"统一进同一个自回归框架的机器人操作模型。它</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485848&amp;idx=1&amp;sn=3c02151a0fe344506d029f1b20b92fc9&amp;chksm=c03b7cc5c6835b5c1799d7a5c3e4e665439e982cb31ddd668d3dc47cf389e1c2903f0c803dc0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 09:47:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek-V4.1-Flash 深度解读：把 KV Cache 压缩到极限的百万上下文 MoE 模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIiciaVu36npxkdyVOxUHV0XIpuUB2t0zKQDfUsqicpOUQlP70FMVibbWyV5AdPRHBSCS4eLKKUFeiaGlb7Yu5o986a96YSA5ib1c0VVU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在长上下文 Agent 越来越普及的今天，模型的工作负载正变得越来越 "输入重"（input-heavy）：动辄几十万 token 的上下文要 prefill，海量的 KV Cache 要存进 HB</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485791&amp;idx=1&amp;sn=5d386b0c1617b5ce7c99c3debaeb1d85&amp;chksm=c07f0b9cb0ca771c6e84c7311b189608260c9d001e3c54dfd100413949edf57754dc38e3e7ee&amp;scene=0&amp;xtrack=1#rd</link>
