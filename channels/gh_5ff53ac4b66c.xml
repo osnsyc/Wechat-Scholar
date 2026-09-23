@@ -10,6 +10,18 @@
       <title>gh_5ff53ac4b66c</title>
     </image>
     <item>
+      <title><![CDATA[北大团队实测：同容量HBF承载KV Cache，延迟最高达SSD的5.5倍！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIZKLiaPOfYFDiarpdvOIqy691WrIhwnmu1FP67ia292WZE7uejIfWmiaT3nXT2Bgvhkba0BsWt4eoiaayTNX0FVGpTjegb2QSxCNR9o/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：BugMaker大语言模型（Large Language Model，LLM）推理有一本绕不开的账，KV 缓存（Key-Value Cache）。模型每生成一个 token，都要把</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450017035&amp;idx=1&amp;sn=b74fb60849b50d20c8bb71a7b7450d18&amp;chksm=b0a0759f504504769736466c4d7b9008ef355c9dd129ac16d815ad82a5d06795b1d785c3f4f7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 15:41:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Reward Hacking盯上AI评分标准！NUS×北大提出生成式Rubric压力测试新基准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zJVQUll3YIbK7JzteOjwUBMPeNgJxWRUEzRrsrdY47NEVnbhlYiagaL2y4YtBmwvErkicH2AFlNib410kM5s0FEHk32O7J5UsDXzZnhIjbh3vI/300?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：金水现在越来越多人让大模型自己写评分标准（rubric），再拿它当奖励信号去训模型、当裁判去评答案。可这些标准，真的靠谱吗？9 月 15 日，新加坡国立大学、北大、中科院自动化所、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450017035&amp;idx=2&amp;sn=9a9ed5f97fdaf0bdfb1e4a796aabe8e0&amp;chksm=b0c2a583459e7476928b89391bc9d1336b742bd20fe7231300d81dec6aca343fa4ddf9dcb053&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 15:41:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[小米MiMo-V2.6技术报告公开，以大规模RL迈向RSI！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIZeEIBE7cnK0X4YZ3AdWs2hCicMmCNLQPdiaae2hkVTBBDriaFOCiaI7MLfJxt05YtQcfTwGVDkY6DbrLZMYibzPlhk0KWE9EwfZJT0/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：金水今天，小米 LLM-Core 团队公开了 MiMo-V2.6 系列技术报告，并同步开源了模型权重、RL 框架、多域任务环境与轻量蒸馏模型。论文题目：MiMo-V2.6: Sca</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450016977&amp;idx=1&amp;sn=9c7ad99d43886d4dce9457261d48643a&amp;chksm=b0d9b6e9d897b905c455cfc839a37759604a52a407ebd514766bdeb21a02c99a6b061a44f302&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIb4u7UIV1rXkJJIrfiaB3qnoHBx1yaWKpoRUZM7rOXA0WQgy0jwhtVXp7jnBBwGysouqb0a64ZU1mLPvrAuR1fhZYHyicM3AjCzc/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：没方刚刚，DeepSeek Harness又更新了。更新指令：npm install -g @deepseek-ai/dsh@next更新完会发现多了一个模型：DeepSeek-V</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450012678&amp;idx=1&amp;sn=50389a544c660e90d5d8e2c73a031b3b&amp;chksm=b0b92d04df5203f7769c64e5325636477981350cfce816f184c4260cc778cedfc141ce1ff9e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 17:07:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[突发！DeepSeek网页端疑似灰测新模型，“I'm doing”又出现了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zJVQUll3YIaKAjLr6X4O9HlfPxsibxczfsiao8pV3Ca0mfHazNAJlZgIWazzD9e8CshV8vdfENCTf8lDnTVG7JricibR6xoqtIfVmnicsnfxwz8s/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：林夕8月19日下午，DeepSeek网页端突然变了。部分账号的思维链里，重新出现了「I'm doing」。最初，DeepSeek V4 Pro在7月下旬开启灰度测试，那一版的思维链</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450012496&amp;idx=1&amp;sn=990a3b49cb4b24a83f772686389acf93&amp;chksm=b09c82202b88bb4df87fb870eaf1d5bdcc52e8407c4b025990eeb7da5b335444af420f2c7ca5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 14:07:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[突发！唐杰长文谈Scaling Law：GLM-5.3为何转动后训练旋钮]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zJVQUll3YIaFib4ibNIbMXZHPdPc8qVEf2jfjcfaTyhSh5S8lf6oKK6Yder8CwR7S2gjVmf3n89kRMcsicYMLRbNL1f4ICFX5S8fzVCauT2XKc/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：金水GLM-5.3 最近正式发布，社区里的反应相当参差不齐。有人兴奋，觉得国产大模型又往前迈了一大步，AA 指数（Artificial Analysis 评测）直接拿了 60 分，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450012397&amp;idx=1&amp;sn=ac334cf46a0929f85d45ebad9694336a&amp;chksm=b0bf763b2d28af3101117298d8a7f438a04506ecbc5b78ec9b9bb6e7e60e5fdca1596ed76985&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 18:03:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
