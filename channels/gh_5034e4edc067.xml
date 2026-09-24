@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[梁文锋署名，DeepSeek 晒出 38 万沙盒的 Agent 训练场]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkTRoeJMjnHvojG0lZI5QAjnaF9PJ4TGXQ2Fa1nVticUvN3yAoA9bBmicY5BbWhNjCmmVGedOfvXYKHEzNfV5Ysg28Ka3mKWuogQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek 前几天公开了一篇新论文，梁文锋在作者名单里。论文写的不是新模型，而是一套让 Agent 真正动手的训练基础设施：DeepSeek Elastic Compute，简称 DSec。这篇</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454565&amp;idx=1&amp;sn=0f2342e596697b454eed43b5f42dd21f&amp;chksm=bf290704cfa2375ee55e667912e20ecb4a660da2db765076082096c03ebdee1c96a5a114db73&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 17:02:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[小米 MiMo-V2.6 技术报告深度解读]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnhFPf13IE0bPX9b9dMlm4icaZypPhXmx4W0ialX8ibPJOD4JZqpib8iaicOHhZjqQaZCkDgXuNTXRvmSnqibAXCeibLZ9xBAxmuR1U0KM/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天小米发布并开源了 MiMo-V2.6 Pro 和 Flash，同时拿出一份 44 页的技术报告，这里面小米交代了一条更长的训练链：先准备能处理长上下文和多模态任务的模型，再让它在不同 Agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454551&amp;idx=1&amp;sn=849dace23a8b668a4bd717fdf7953008&amp;chksm=bf6e16b54b90038804b5db359682c0a59d73fda3819d974d305a0f68cfb75c233f924427a970&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnogooUSa7EJArNC5nrpictiaxWiabbOLJwZM1vP0uPam9EfLszDI3OF3jga6vo60Wsc2icF8DZmuAjTVYyxjgvbe2IUxzPNqdJvYY/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天凌晨，OpenAI 宣布下调 GPT-5.6 Luna 和 Terra 的价格，当天生效。昨天看到 Tibo 说，这周的主题是“智能便宜到不值一提”，我还以为 Codex 的周额度要重置，然后使劲</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453102&amp;idx=1&amp;sn=2230db6a250a3750bb61fb60e5129b26&amp;chksm=bf88fbe158e9ead1b0e4a39b6a3378c4cda1dd5671de894b7680b47ede03631031ac84e5e487&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Jul 2026 13:23:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一台 64GB M1 Max，硬是跑起了 2.8T 的 Kimi K3]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmoptlm3kicwUsQiczL4JjQDFdaMpTd6nt2HnqEHCXRD7IMlcFibeZmLstFq6svG1eehPzKMF2vtaECEMgUerIketG8thic38dI94U/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi K3 权重开放没几天，就有人盯上了一件看起来不太讲道理的事：能不能把这个 2.8T 参数的模型，放到一台 64GB 内存的 M1 Max 上跑？这个项目叫 Deltafin，仓库挂在 gav</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453088&amp;idx=1&amp;sn=d79e92034867fda1ae200729777885d0&amp;chksm=bf944391350d0411c16aec5a49738fb7b74826b963817bc721dfc339ae624de14b5d5c4767c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Jul 2026 15:55:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
