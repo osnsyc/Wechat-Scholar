@@ -10,6 +10,12 @@
       <title>gh_184d6798db0d</title>
     </image>
     <item>
+      <title><![CDATA[数值模式 | 在超算安装WRFDA的简单记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QhAcX4Gw4UkfmkywxdhOfKQJfdgvbXDLnxhC1zN9ZRI1seHv1ajJ86dgrXQib5G5XKXz7pPfRE654eXicxic7InRTUS15IElZ0uW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>数值模式 | 在超算安装WRFDA的简单记录由于环境更迭，不得已又要装一遍WRFDA，此处做简单记录首先去整一个WRF安装包，解压之。在安装之前需要module load需要的模块，这是超算的优势之一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491967&amp;idx=1&amp;sn=8facb04ea2557a89ce2463e8ebfc6073&amp;chksm=c30d51d555720e9832d449832219528f5261aea3b2a2d523385684cf20d9f2f706ed89249e6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 18:46:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[雷达系列 | 如何滤除雷达的径向干扰]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5QjS8W3dssDBzwASC8PU7micQ7R0b9TLcAwefzMKosJzhCDtdEgVyavEFbxoR2xaibAOFhbic058eYaicahaQzovWTMIYAEBH5W9pAc/640?wxtype=jpeg&amp;wxfrom=0"/><p>雷达系列 | 如何滤除雷达的径向干扰一、引言如果你经常处理基数据，一定见过这样的场景：一张本该平滑的 PPI 图上，突然冒出几条笔直的"亮带"——它们从雷达中心向外辐射，显然是杂波。这就是径向干扰（R</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491961&amp;idx=1&amp;sn=3115ddc4b3e657e871e49599df0b9d56&amp;chksm=c320b51c37bf409b78e8b2d05a50902751454f8dcd6dd05a53b08d7291fb621517a2dcd104d5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/8iaZOnD9R5Qg8vkV1xtWj7eyCK0AatQibX47q7yTtLqawBg2LoUQgcFZp9Ydg34XTdiakNjHfOfro8ThHBZQOCHMPy2wcicQh4q1zxuMEuJVkZc/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码实战 | 使用skyborn计算并可视化 WRF 的 DCAPE前言老实说dcape这个函数之前就是为了计算wrfout设计的，如果用metpy的一维计算可以算到天荒地老起初是在wrf论坛看到有人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491658&amp;idx=1&amp;sn=d4e7d56f1e74f14f22eee5e7379945cb&amp;chksm=c36843a005b07f040c335347f4d46c13776f8f4b35fd70a21ab7e3101d6a7dcd2d5918121e4e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 17 Jun 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[气海拾遗 | 如何定制你自己的文献日报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8iaZOnD9R5QjYwXYVEiaOb5hJKyQZHgia2UORKUmlyib717dfeppVJVib1TnWDjuPkjbtOEpA6tgD5jAyJkefAic96epf7CqdRsFWfOuSFCbg3NibY/640?wxtype=jpeg&amp;wxfrom=0"/><p>如何定制你自己的文献日报在某一期气海拾遗栏目下有读者询问栏目是如何制作的，那么在此简单说一下整体流程以及主要代码，完整代码会放在末尾读完这篇教程后，你会得到一个可以长期复用的小工具：每天或每周自动检查</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDYxNDYzOQ==&amp;mid=2247491652&amp;idx=1&amp;sn=2a1f8b662fe1f13926a944e5ce9dd230&amp;chksm=c3d13608ee60cbd9a15e1fdae8f6a31e334d929d3e2f5f9744884980b26bad0c4aefb112615c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Jun 2026 13:42:54 +0800</pubDate>
     </item>
   </channel>
 </rss>

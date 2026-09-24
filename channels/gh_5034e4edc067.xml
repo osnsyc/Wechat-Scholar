@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[小米 MiMo-V2.6 技术报告深度解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnhFPf13IE0bPX9b9dMlm4icaZypPhXmx4W0ialX8ibPJOD4JZqpib8iaicOHhZjqQaZCkDgXuNTXRvmSnqibAXCeibLZ9xBAxmuR1U0KM/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天小米发布并开源了 MiMo-V2.6 Pro 和 Flash，同时拿出一份 44 页的技术报告，这里面小米交代了一条更长的训练链：先准备能处理长上下文和多模态任务的模型，再让它在不同 Agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454551&amp;idx=1&amp;sn=849dace23a8b668a4bd717fdf7953008&amp;chksm=bf6e16b54b90038804b5db359682c0a59d73fda3819d974d305a0f68cfb75c233f924427a970&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 21:51:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[小米开源 MiMo-V2.6 双模型，罗福莉：我们选了最难的那条路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmxHHHsKMicsibbdLWicD4KKyKjMExnBZ0gCT8iclAgw672En1JjnCXyhwjJgnNa0D1SWZVcehZGqnwx2CGwC6icKQlsFc4PdukQTEo/640?wxtype=jpeg&amp;wxfrom=0"/><p>小米今天发布并开源了 MiMo-V2.6-Pro 和 Flash。罗福莉随后写了一篇长帖。她给出了一个很重的评价：在她看来，这次工作背后的研究创新和工程挑战，超过了她曾部分参与的 DeepSeek R</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454499&amp;idx=1&amp;sn=50f098d954f0079814aa9befd1095116&amp;chksm=bfd2e7f217ee16ef7f4c820e91dd5690e09d8329514836ae7aac1688f4fb873f029fe2955052&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[一台 64GB M1 Max，硬是跑起了 2.8T 的 Kimi K3]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmoptlm3kicwUsQiczL4JjQDFdaMpTd6nt2HnqEHCXRD7IMlcFibeZmLstFq6svG1eehPzKMF2vtaECEMgUerIketG8thic38dI94U/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi K3 权重开放没几天，就有人盯上了一件看起来不太讲道理的事：能不能把这个 2.8T 参数的模型，放到一台 64GB 内存的 M1 Max 上跑？这个项目叫 Deltafin，仓库挂在 gav</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453088&amp;idx=1&amp;sn=d79e92034867fda1ae200729777885d0&amp;chksm=bf944391350d0411c16aec5a49738fb7b74826b963817bc721dfc339ae624de14b5d5c4767c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Jul 2026 15:55:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[只改两个设置，GPT-5.6 的 ARC-AGI-3 成绩翻了 3 倍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmWicKzapkGHHuiaFaRAazTjUNgMsDVfvoN1gW1BcyCnicnibeibjaVspqEyVc5W10QT3U3z8ell4MeyJ9icRqhTbibUlc4icO61icOXTQE/300?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 昨天发布了一篇实验复盘。同一个 GPT-5.6 Sol，没有继续训练，也没有换权重，只给负责调用模型的运行框架打开两个设置，ARC-AGI-3 公开集成绩就从 13.3% 跑到 38.3</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453088&amp;idx=2&amp;sn=a24b82178c8887ccd2a4decd83999478&amp;chksm=bf305b2aaba540d9b57196daf056b3b2596a391db600f86605068473e6daaeda12c84d4bfe53&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Jul 2026 15:55:29 +0800</pubDate>
     </item>
   </channel>
