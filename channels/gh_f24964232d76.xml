@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[百度百舸演讲：用 Agent 优化 SGLang，从改Kernel修改到端到端验证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZ4OsRGm1UWNzf6kYH58y6zhPy5vu8r9ACW7x9Q4QyU0oRwEwo9y3euSUHExV78FPBLv7fZe21yJicLJFJ9ryfxbBMoE9ImOpMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在百度百舸和SGLang联合举办的Meetup上做了一次分享，主题是如何用Agent优化SGLang。现在让大模型写个CUDA kernel不算稀奇，但做过性能优化的朋友都清楚，把代码写出来，只是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532435&amp;idx=1&amp;sn=e984eff0b3b776c254bc740fa06b4c70&amp;chksm=9e1c3ea25eb82ca67d5b26c24b377c3a4e598416d50ded68d6da80de41ab438b31b754a76a49&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 20:31:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT-6 之后，Transformer 还有哪些值得研究的方向？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2Kbm66r0JXQT06bky9ZE0DMPqvMf0Pj7aMkbt8PKrFicxVdVemyzpfYROTwuHMxVREPM7AibDxkTFERElFiau3maLG3VB3ongoetlY/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近AI圈又被一个名字刷屏了：GPT-6，可以说各种大模型一直层出不穷。那现在还研究Transformer会不会太老了，都被研究完了？实则不然！就说GPT6也被曝出用了Loop Transformer</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532396&amp;idx=1&amp;sn=c888cbb415c2aebe9734da1194630620&amp;chksm=9e4cf00021d218bbeb1155c38092a48f7d0cafe738fc7a8d2434cc8aeb49edd8499effcdeb22&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYsmmvjWYnfkBvtYicMPj0nIxr5ibRGabJh7ovcP6DnTky0zlTseCGiaFK8S1x3ErINmfce0MAegWBPzKRlBFGFuHOxXSFW3SHOvc/640?wxtype=jpeg&amp;wxfrom=0"/><p>欢迎关注：https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS 一起自动驾驶推理框架使用和优化Agent 是如何加速开源推理框架算子开发/模型优化/模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531381&amp;idx=1&amp;sn=f0f40d440f1c8cafb9920d833d0962ed&amp;chksm=9e0ce78b8584d682c59d7d6a54115ee069aa992b059672aa2d6a8c8d0ff76c8b41b6b2a79d35&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Apr 2026 21:22:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何评价 OpenAI 最新发布的 GPT-5.5 模型？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYf4t1Zb9ldbKDRftcM2rwkYibuMxt8nd2gbWyIuaXw6UDeJRpQ2u9fckEwE0QicVmO2heLdzMuTJjicakniceicAVhAt0dbwCTicTc0/640?wxtype=jpeg&amp;wxfrom=0"/><p>我的原回答：https://www.zhihu.com/question/2030834616181970293/answer/2031698932464604239https://github.co</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531361&amp;idx=1&amp;sn=87fcb6e0bd7ef8ef82b6499d54003891&amp;chksm=9e00df3acd3c6eb39bb852047092148610d59ecca3a8b117d9cae906c3b9be4015625eaecd16&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Apr 2026 12:08:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
