@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[图像修复不走 VAE，直接在像素上跑 Diffusion 靠不靠谱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOobYqDyl9VcPHzVZCfibhITTnlTJicFQo4cPJf2UzCibHNLZEPQXJd1SF1KJnicTTkpMjZh0ib1PbErhnzVM1UWZSLAhroia5cTFKnc/640?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型现在几乎是图像生成和修复的标配，可主流做法有个绕不开的前置步骤：先用一个 VAE（变分自编码器）把图像压到潜空间里，再在那个低维的潜表示上跑扩散，最后解码回像素。这条路径很成熟——Stable</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485613&amp;idx=1&amp;sn=490329f2ef731eafd96d8f465cd9ce64&amp;chksm=9771a57fe24aded0193b97b2835a02524432283ea9a6ce1a1d7e4a547e6e64aaafa04fff13b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 26 Sep 2026 07:44:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[逐帧改视频为什么总在崩，以及怎么不重新训练就修好它]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNl1kKB8MAia2Lkz2mWQoxE5B69SiaLmWvwRgRxk6SOj8nYibSdhrDP93Wib2RecV8WSK0vn6ddMpX1dHApaPov5HxtNnztgianib7aQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>图像编辑现在已经很成熟了。你给扩散模型一张照片，说一句"把这只大象改成蓝色""换个背景""把桌上的杯子去掉"，它多半能干得干净利落。可一旦对象换成视频，麻烦立刻就来了。最省事的想法是：一帧一帧地用图像</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485594&amp;idx=1&amp;sn=9a0358ebe290a4fec1326ee722f8b62e&amp;chksm=971855a5b4e716d1ff18585c0f48d3fc59f14428f69903403c2328b58e88c5c03b50b6df8310&amp;scene=0&amp;xtrack=1#rd</link>
