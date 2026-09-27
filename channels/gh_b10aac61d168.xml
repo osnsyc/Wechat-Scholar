@@ -10,6 +10,30 @@
       <title>gh_b10aac61d168</title>
     </image>
     <item>
+      <title><![CDATA[编程Agent开始教机器人，字节Seed把代码解法变训练数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdVd6Z9JDVBN0MMFhzVJfN0xpI1S12ywvo7j7pwwWqrxbUA72VYPZNMP008LYuQy91rEVd3PVtzGhZCTrk0WKRWBuXQBDdPl4H8/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读字节跳动Seed、耶鲁大学、普林斯顿大学、卡内基梅隆大学等机构提出EmbodiedSWE，让编程智能体先在仿真中为长时序机器人任务写出可验证解法，再将单个解法扩展成多样训练轨迹。仅用这些仿真示</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746539&amp;idx=1&amp;sn=614f7872eaa92f06b7ff46962930b28f&amp;chksm=ce19df00fec85de742c7f296548b9ce6b9dac9fef8c6bcdd2d65a270b9da04e034bed08bceff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 11:04:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[边缘CPU跑视觉模型，近乎不掉精度平均快1.81倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdV4dzjYwvuibyQ1ZxAC7aiaeklKgM8AF0xCCgwAbWMEtoeypo8wwfibZ9NRaDYwREVt27165iaCId7tLhiboXknoDFkATpd6D6O7edA/300?wxtype=png&amp;wxfrom=0"/><p>论文导读 巴塞罗那超级计算中心、加泰罗尼亚理工大学系统测试了13种混合精度量化敏感度指标。梯度方法在8个模型-硬件配置中4个发生灾难性失败，Jensen-Shannon散度则为零；再配合K-Mean</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746539&amp;idx=2&amp;sn=ba879b08e7cf23c19d58bd285357862a&amp;chksm=cef3a5967bc279938dc8ab705c01638c29f3c795e0950214602ce2956d8c135646f7d0d1f0d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 11:04:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机器人先在脑中试错：一个模型同时管硬物、布和绳]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdVt6m30RvMBLslxxoJS1jLavmIdoibvDxcq9D593t2ic8cyISQYxnyc6DkatDJJw4j8QehQxd9m4icQlIfXcv3bBCJn2YEbMrd3vs/300?wxtype=png&amp;wxfrom=0"/><p>论文导读 明尼苏达大学提出PointCast，用同一种3D点集表示预测刚体、布料、绳索和多关节柜体在机器人动作后的变化。架构只有19.8M参数，在仿真四类体系中三类排名第一、刚体排名第二，并能冻结后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746539&amp;idx=3&amp;sn=59787539c4faae162218464d5c43cec5&amp;chksm=cef40bb9f7d0e24e3c2dbe24d66b374e7ae0bbb71ae9e79224c5471283e1c291aa719ec2f1f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 11:04:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[清华让人形机器人只看深度图踢球，直接25自由度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdVKbGcqnBwiaRs9FiadiaEicTVDEbW7SORyMiaqSZmPTtqZktcyRxWVBdGaCxL8IzMCJB9CgNgK5cibcPARzc47GQxLbxuMwhGW6m4icM/300?wxtype=png&amp;wxfrom=0"/><p>论文导读 Noetix Robotics、清华大学提出DAVIS，让人形机器人仅根据头戴深度图、本体历史和任务指令，直接输出25自由度关节目标。系统在仿真与Noetix E1真机上展示了定向射门和盘</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746539&amp;idx=4&amp;sn=0fffa9ee013192cbda4779fc7d67076e&amp;chksm=cebebdc405aa3637de6992268caff5bae017c9ef3c5a6ee5ab3f3d1e81248fedd997d1a79f36&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 11:04:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[阿里搞出397B提示导演WanPE，30秒视频好评率暴涨50个点]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdVU7lXib3w4dIrmricBibAML5ewg5ex5VaicSXQcXOVNKIAvkFLK6e8Pf0Mx8K95pDI3Lx5ibpcRkpeChic9VHvbQLIeFVCqicxxXibPx0/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读阿里巴巴万相团队联合南京大学、复旦大学、清华大学做出一个397B参数的提示增强模型WanPE。它把用户的简单一句话扩写成导演级分镜计划再驱动视频生成，30秒视频的人类好评率相对原始提示暴涨50</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746407&amp;idx=1&amp;sn=73ccc955942456eb059b58e72b9adbc2&amp;chksm=ce40ba3d9388c61d6ff52d23285f06897de2640600bd9372fea1f9d4471b88f42fea22d1bdac&amp;scene=0&amp;xtrack=1#rd</link>
@@ -284,30 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdWqoZ1icE7WCskfM924icBDUcXxQaPMPvov0XRSkibszibh9UTMpCkZquvDmeoowicObibfTBfhibNZ0pw86IJvNV3TIyxoaGsTZApq6E/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读英伟达、南洋理工大学和麻省理工学院团队提出SoL-Pi，让自动研究循环直接优化Coding Agent外层框架。在51项EdgeBench任务上，它与Pi表现相近，却把记录到的Token流量减</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745271&amp;idx=1&amp;sn=ca9038bbb54ccdae8b659c3a4599bd6d&amp;chksm=ce0f1df3fd54519aabb9f13df3660bae08918a5a970176c2aaaa8ef1bf1085bf9cd7a497ea53&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 19 Sep 2026 08:06:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[单臂机器人把衣服转开再折好，实机零样本成功率75.6%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdWds7aiarKm1h65IMLnOWVpkAGcic4EvnpZ9ovgzjwZlhWoViaJ7nExnr03uMBKYZQicjLYH8Km2kQXjD8ciceIVCLmHVYvjzxOAjYk/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读南洋理工大学、香港大学和中国科学院团队提出RotateIt，让单臂机器人抓起衣服后绕固定点快速旋转，借惯性张力分开重叠布层。策略只在仿真中训练，面对八件没见过的真实衣物仍取得75.6%展开成功</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745271&amp;idx=2&amp;sn=94da13b0825b1c4c557c9cfe2ac8547a&amp;chksm=ce7740e9a6251f7f55a1aaf717ea43aad6912ff2c094b70fac051be9ed90be6a0c48fab43945&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 19 Sep 2026 08:06:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别急着用LLM做表格预测：只用约6%标签，经典模型就能反超]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdUmuUXeZe16gdWNjlYEN4Nd4pWTu1CpicHjzLfaSnA0KceyFBe5h4LL323xuTBlItJIQPduJfME7uh90micly9HOlbHibe3snJgjA/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读宾夕法尼亚大学研究者把“直接提示冻结小型GPT”与“收集标签训练经典模型”放到18个表格数据集上比较。观察到的性能交叉点中位数约为完整训练集的6%；在86%的案例里，手头已有标签量就足以让经典</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745271&amp;idx=3&amp;sn=15566d1f242cb163f4f90ca2dbb538b6&amp;chksm=ce4f3892ac52facd8b54438760c3a25f5713a6c1f4734184e9a9d53eacf4ecfaf6f9afe0fcd6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 19 Sep 2026 08:06:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek发表最新论文：突破KV缓存压缩极限！百万Token更省内存]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdXJPqroUicqDkkdmzk6iaCotf7xK4w71ZIcBUgGwCaeYNzTCxGEZIRVJHicsoBw2icVSbMUsibXPKbicjujWQgvLUq3Zv7IzJiaVCYGAo/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读DeepSeek推出多模态模型DeepSeek-V4.1-Flash，主干参数为552B，最长支持100万Token上下文。它把全局KV缓存降到每Token 890字节，约为DeepSeek-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745255&amp;idx=1&amp;sn=08e3cf9bda32f24cb35c441cb05ea11d&amp;chksm=ce4d15125071295ef93f4e5a9805a901e629fe55c05ebc3716164f63ee0d634409e53f4229e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Sep 2026 12:07:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人工智能学术速递[9.18]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdXPTkiafthG5vJxBCTUr4K6kDQPeo8cicdLFr5tOPria0OIB7KtAjGbvZHvaJyjtpSQiatpUQictlS9hWtDSYNztlDeCv8tOlZu0ab0/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-09-18 | CS.AI人工智能 | 共 89 篇[机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准快速导航1. 智能体、规划与决策 17 篇2. 知识表示、推理与符号</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247745255&amp;idx=2&amp;sn=4bd0bf1f9263d7cdd9210fbe281c003a&amp;chksm=ce3f6ea99607ef86c254a20759684553aeb2b60e01124703b15e30a912718286471f0fa122d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Sep 2026 12:07:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
