@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[世界模型要记得久又记得准，几个记忆专家得相乘不能平均]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOWWx4Kdp9wT8iclbdguAMSCw8R2QuFO7ibFRDZtd5fXRj8hPhYjnEHILx08SuFw693NBbGcnC9GtsgoQsqWd1PHCJIUxSdVCOzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>世界模型这两年火起来，说白了就是想让模型学会「脑补世界」：给它一段画面和一个动作，它接着往下预测世界会变成什么样。你在一个虚拟房间里往前走两步、再左转，它得把你转过去之后看到的墙、家具、光影都画对。它</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485614&amp;idx=1&amp;sn=b581decf17d89462b8c737591bf76dfb&amp;chksm=97b6ba4094884c904cfa3afbdee75ae5d1392378ea7324974d0bd00f73c709adac0cbcaf048f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 06:59:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[图像修复不走 VAE，直接在像素上跑 Diffusion 靠不靠谱]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOobYqDyl9VcPHzVZCfibhITTnlTJicFQo4cPJf2UzCibHNLZEPQXJd1SF1KJnicTTkpMjZh0ib1PbErhnzVM1UWZSLAhroia5cTFKnc/640?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型现在几乎是图像生成和修复的标配，可主流做法有个绕不开的前置步骤：先用一个 VAE（变分自编码器）把图像压到潜空间里，再在那个低维的潜表示上跑扩散，最后解码回像素。这条路径很成熟——Stable</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485613&amp;idx=1&amp;sn=490329f2ef731eafd96d8f465cd9ce64&amp;chksm=9771a57fe24aded0193b97b2835a02524432283ea9a6ce1a1d7e4a547e6e64aaafa04fff13b1&amp;scene=0&amp;xtrack=1#rd</link>
