@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[微软提出Agensh：去掉中心调度器，让1024个Agent自组织协作]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDK0y1BbP0xFyKeKYSbHLQUY2aia7WbS1szGWnjInIrvQpOGlo47GRdg7qezpjIdT8fPNTSjnbFjWpiaSbz0QB4w9iaB2RBdInwnYU/640?wxtype=jpeg&amp;wxfrom=0"/><p>相比于单 Agent 的序列执行，多 Agent 系统可以通过并发执行降低整体任务延迟，进而提升复杂真实任务的处理效率。然而，当系统规模扩展至成百上千、甚至上万个 Agent 时，如何让它们更高效、更</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606737&amp;idx=1&amp;sn=f799b013647fdf73eec1a35310d669db&amp;chksm=cebdf484ca90272f935effd8f167ca37591feed4b1d97980b7780424d627aeef056c8073518b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 15:47:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌「递归自我改进」新研究：让Agent在“梦”中迭代探索策略]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDKdIMsYPVCNbdVFW4AbbFlicahuL9HPeFg9ZOyo5JDCymc5EBfmKPKzrVDRybzzEwCcOKxIF1HpHOeA0blN1sEXR7ZWBNHa1HoE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 必须通过“做梦”来实现递归自我改进，而历史，就是它梦境的世界。递归自我改进（Recursive Self-Improvement，RSI）正成为自主 Agent 的重要发展方向之一。在这一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606712&amp;idx=1&amp;sn=6efa224103f327a23bc21b825c6048d1&amp;chksm=ce3259071f45ced83568eadaa859794b54e96fe6f3c8b3d635e96252e43a46e22c41b233d28b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLIylxdMmST4JCz8dub6IjFUEQ0NkRQzxOzHW6EWDHFUnfUHnOYHvXbon1h270MibJW3BTmSWSHr3DmsrvM0qHXU8OaN1icHs9j4/640?wxtype=jpeg&amp;wxfrom=0"/><p>你是否想过，当机器人进入真实工厂后，它能否像人类一样：阅读操作流程（SOP）？理解任务要求？根据环境变化自主决策？完成复杂的物料搬运任务？当前，AI大模型尽管已经展现出惊人的推理能力，但要真正走进工业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605671&amp;idx=1&amp;sn=f232c808da993ab2acafb148ade264ef&amp;chksm=ce0387957891352f3e900e9e6299142a27a1462eaa93af4dce144f8b6affd5aced4507c6cbeb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Jul 2026 12:04:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[复旦邱锡鹏团队提出「上下文世界建模」：无需微调，VLA即可适应新环境]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDKh0KcxLslwNfC7QaOYPV4Xc5HYwc0Fpz7aicWmTX2DVmJxAdvmonI20pWvsSWtmkFSyASBCgFwarDoetk4hpLV6LOhTdIhESrk/640?wxtype=jpeg&amp;wxfrom=0"/><p>视觉-语言-动作（VLA）模型，在部署时往往会遇到一个问题：一旦相机视角、安装位置或机器人形态稍有变化，性能就可能会下降。以往的“上下文学习”（In-Context Learning ) ，通常把上下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605670&amp;idx=1&amp;sn=85703f4212f88e07593961b9f44cc306&amp;chksm=ced52d47cc6c34b891209e304f4e8b29ab765e1898c55aae54f2877137e81d28cc7680b2ad47&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
