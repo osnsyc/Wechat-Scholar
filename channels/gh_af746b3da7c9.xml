@@ -10,6 +10,18 @@
       <title>gh_af746b3da7c9</title>
     </image>
     <item>
+      <title><![CDATA[Uni-Agent：规模化长程智能体训练框架——实践与经验分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sYiaW4cxkkVzoUGficicGE4L2O5HenZvw38UcQKgQMQCHiadKfNrZlxAs6iaYMUqlI1CLGKibN1iaCiaiacibUYaJib37l7InEWUderbLYCHc/640?wxtype=jpeg&amp;wxfrom=0"/><p>近一年来，AI 智能体发展迅速，Claude Code、Codex 等编程智能体展现出了令人瞩目的能力。这一进展离不开新一代基础模型在推理编程方面的提升。然而，对于开源社区而言，如何有效训练这些模型仍</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247548667&amp;idx=1&amp;sn=0b5894f78d2de096eda80f1c04a84fc5&amp;chksm=ea3c7f42a2dc2db0b641c71aa63b4f5b282159817ab0bbbdde93a84e39a27ae727a5016dbaca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 00:27:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RSI Workshop | AI 自我改进的机制、证据与边界]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sYOwL9FMEYTkJqicyO39wib2Kib21wcguowybnxChEQ2W6n4GBsZynEbGer4YwYMfRpmJm9q3lUZxFjLkacARwLvz1yugyLZMHHVs/300?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 不再只是完成任务，而是开始参与设计实验、改进训练环境与调整自身策略，递归自我改进（Recursive Self-Improvement，RSI）便从一个设想，变成了值得认真研究的问题：一次改</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247548667&amp;idx=2&amp;sn=b4b4228a9a6f7882a7e52d36fa37aa68&amp;chksm=ead53068c529ca6ee677cfd9b264b77061b694bfa7487280e443f4257048a47973a26a77f2b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 00:27:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一点点偏差，为什么会把大模型 RL 带跑偏？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sbr7SgHS9JZzPCicMziaNr8Ssbh1dBv1h4TsVnSuX7fVyH6o7aWo0XnfSrrC1PBz1Orbk25liaTjIPEBvZJcIKle5aMfh8YSDWrO8/640?wxtype=jpeg&amp;wxfrom=0"/><p>同一份模型权重，采样端与训练端也可能给出不同概率。Together AI 的新论文把强化学习更新拆成学习信号与漂移，提出 Score Centering 校正后者。本文从直觉、公式到原始实验，解释它为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247548614&amp;idx=1&amp;sn=68056f9700f16d8360c8ab1d067c9655&amp;chksm=ead96a15c239debc2b24a94d5eb33c61dc5ce9b6d24809e3c85399946d1816551a1b859cfa21&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sbGGtDbunvBMRru0KteeGnOpNhibScHSChPPBCibwQia4cib7ROEWAuiak1UkozTMumZLWrKmaKKdVjMibJHxoiczdu5e3Af9gc6ibmZSo/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI INTELLIGENT AGENT × SCIENTIFIC RESEARCH基于 AI 智能体（Claude Code）的自动化科研工作流构建与应用实战课三天两晚 · 全实操 · 深度研修班直</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547757&amp;idx=1&amp;sn=33092fb5d3bba48f6fccdc977b490c40&amp;chksm=ea06f97057abfc74cffe8c9d9412a5a51dfca44092e3a06405f2b8b9d352de8fd3c559a2a933&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“这个怎么组装？”一句无害的问题，如何让AI产生危险输出]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gx2bNxGW2sbJvhvF6hD4iaIk8zqEZicWYtqpEt53gG4oE6UQhV0DKtaBxpjUzhbpUodwOtcicwUMZzcCIjJ3F0KEK6CROUPLY9P5J9depOQTHY/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 ICLR 2026 AIWILD Workshop Best Short Paper AwardAmazon团队提出“视觉排他性”新威胁模型，揭示前沿多模态大模型的重大安全盲区Yunbei Zha</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547738&amp;idx=1&amp;sn=fcdbb38cba45a929e06b5a77874e0ed6&amp;chksm=ea9d283692692a90541be5d0d28bdfee72a8e0b818b30f75824a15ae4cd28b1caac6696f0d3d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Karpathy公开附议：AI Agent 的输出格式，正在从 Markdown 走向 HTML]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gx2bNxGW2sYiaSGSEoQCK528rUg88O9xq91QW9zUe2wgHdttDdhDkTzl4m2USW8VlbEI4CUVATKIBiaYb8ECp1JnOr8lGz0icNibFw9etIU2JdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>让 Agent 写万字方案或代码审查报告，结果打开文件看到满屏的 ### 和用特殊字符硬凑的“颜色标注”，瞬间失去阅读欲望？随着 Agent 处理的任务日益复杂，作者在代码审查与架构规划等场景中已感受</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&amp;mid=2247547728&amp;idx=1&amp;sn=bd1db8d96231ad0f62cadf45a0deca57&amp;chksm=eaf9df32a25fa125f268c124a3e5d39937a98f5d6a918baf43f446301693d2b60fd87f86832b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
