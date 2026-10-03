@@ -10,6 +10,18 @@
       <title>gh_6fec50c6ef0d</title>
     </image>
     <item>
+      <title><![CDATA[面向多类电池检测的模式增强 RT-DETR]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrRficy1re62sZhb6NzDnFiaVYByJjSYUUzzPPcoseWeBNdqcJ41JDFp3SDqVWLSrR3OYjXWIprL0kIWwicMCVLzNw31jia7MuXOrYM/640?wxtype=jpeg&amp;wxfrom=0"/><p>◆ 原标题Pattern-Enhanced RT-DETR for Multi-Class Battery Detection◆ 下载https://arxiv.org/abs/2605.13670废</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247503740&amp;idx=1&amp;sn=d312dfd517b045fc7171ce989020954b&amp;chksm=c1b090a55eabc5ae0b7298fc02ea1c9df0865a23cf685b80a979e7e657510849c464358c5e18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[别让AI幻觉成厂商的免责金牌]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQVXn885xET2xP5dFNCiaquM1VrFcZQBbOUzTbNN0hQCmP7EVTDJv5K21GNRHBokyicQicrE66vricZ55EzfAWfuyYBdYvWQQACOPc/300?wxtype=jpeg&amp;wxfrom=0"/><p>“幻觉”这个词，把一场工业级的信息事故，包装成了一种人畜无害的小毛病。哪个拿薪水吃饭的专业人士，敢把事实编得这么理直气壮，早就被扫地出门了。临床上的幻觉，轮不到AI来碰瓷先看词典。幻觉的定义清清楚楚：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247503740&amp;idx=2&amp;sn=efeb0b0b59ca18d186160b24a136d770&amp;chksm=c19d6c6ceec8daf8c03451292b4de289aaf37bc35e517967b0851e458d99bf6d3e30b56b1af9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MDS-DETR：带掩码重复抑制器的 DETR]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQricElbKMDPPTZKxiaKmj6Q1kDic4qEacP2ZDd233kSCIrDajBkFIQMS8v6g1fYhtb7ia6GlACuxgNhTdHP6djjxAvS5PcpedmV38/640?wxtype=jpeg&amp;wxfrom=0"/><p>◆ 原标题MDS-DETR: DETR with Masked Duplicate Suppressor◆ 下载https://arxiv.org/abs/2605.23507DETR 靠一对一匹配实</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247503692&amp;idx=1&amp;sn=a769ec2561c31470b6ab4e3147edb89c&amp;chksm=c1443e3c6fbfdd12ea0038da46635f6d3f1b2d0bc4ec0f8f3a7d1080074f5979b8b2cc5b919d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrStweyFiafV8FtiaHcVbsyxFuK0wmb89iciacrWricrKIlkUoFHbJIea0YJ96T3icvlKXy0OzlcOWQ7rwwTBs4RC31O2H8SswyDDfDibw/300?wxtype=jpeg&amp;wxfrom=0"/><p>打开终端，切到你的 AI 项目目录，执行 tree .claude。大多数用 Claude Code 的工程师，执行完这行命令，看到的不是 "command not found"，就是一个孤零零的文件</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499115&amp;idx=3&amp;sn=abe656acbd1726c7db504afdc11eec56&amp;chksm=c1f289cdb8ae4cecf16666a1554c12775a74e30e490b521af688d2fb41c44a63fbe6141140c7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 09 Sep 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TinyFormer ：把 YOLO 与 DETR 合体，专治微小目标"看不见"]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrRicHq9PDQZUef7cI5HcErOUvqtW4picva6uiaIsiaMYsklfnfJkSt2uERDBMnibpjLyrgGO0pgZ6mYTLE0RSFDg6XicLrhpyU7l15JM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话导读：TinyFormer 把 YOLO 的精准定位与 DETR 的无 NMS 集合预测合二为一，并在最早期就保住空间细节，让微小目标不再在推理前"消失"——在 COCO 上创下 60.6% A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499116&amp;idx=1&amp;sn=9361e839400dea9fbc725dfda8e260dc&amp;chksm=c12bade7074fc5e3fddf6899d51dfc7aedf07ad50000c9bd20633305b46ab49aeb259e1e1d7c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code高手都在用这12个模式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQLEbPw8SyOIC9M3BtNYhFxd9Sydwib9vzXLQR0TonRrUjt0QqpBJUiatFN6NMJfPU6icMa76jZF6PrT38VZD7TXzeibiat4TPomHdE/300?wxtype=jpeg&amp;wxfrom=0"/><p>上个月，我第三次看着 Claude 帮我删错分支，这次没再甩锅给模型。问题其实出在我自己——每次开新会话都从零开始，没有结构、没有约束、更没有可复用的配置。一句提示词丢过去，逐个点授权，得到一个半成品</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247499116&amp;idx=2&amp;sn=75d71bd59fdcf745fc99f91b1bd6a056&amp;chksm=c196ffa254b880c8a311878139f79269e01bc4bd6173c5b141a2aee705d45ab5049a996cd93e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
