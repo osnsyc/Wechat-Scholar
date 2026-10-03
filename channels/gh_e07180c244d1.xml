@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[上海交大&amp;帝国理工等提出TurboClear：单步消除物体与伴生阴影，算力骤降40倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8pWlqPyfoJ26cGFaOBqBkiaWtRG7o7aPND6NFiaB8a9JrF4f37IicHWTzHjCktFaasLGBHk0BOpu5DQx5ib4USkusUbcbhJnXIib9Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实图像编辑中，擦除一个物体从来不仅是涂抹掉物体轮廓本身。物体投射在地面的阴影、水面的倒影或半透明玻璃的折射痕迹，往往会蔓延至常规涂抹掩码之外。如果模型只按掩码消除，往往会在边缘留下显眼的倒影残渣；</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665871&amp;idx=1&amp;sn=e0a74b99f2411744f235d18d33bc79fd&amp;chksm=978ceddcd9ce80fb05b4b806fc3d231e88fb3cca9f2826bbdebc9117cddf7920fc54b5c8c6f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 23:15:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[光照变化下，机器人如何稳定操作？RawVLA 让相机 ISP 为动作服务]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9GNPOic1OfeDY3GuRnSICSPu94kAAo6KVfR9bnOjhTXJ94PYyHpiandFYo4z4icicJ6sQsgmMyV1xOQpZy4Bm4DedDPjEX4h9trXE/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文：RawVLA: Embodied Neural Image Signal Processor for Robotic Manipulation作者：Shuhong Liu、Heng Zhou、L</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665854&amp;idx=1&amp;sn=16f6fd3898965c5f71f062e38730fdec&amp;chksm=97bf9ec349ed6cfe73276cc1a3e8ba0925a674a447f7b81b49e2550985f07e7cfa9cf1465744&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[Z-Image 团队系统研究 Pixel-Space 文生图：从 Latent 预训练到 0.2 秒生成 1K 图像]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWib3buibkPC1CVbBGLW7DCbajeCs1wwF1BzcibHP79f3bnE3uCoU0q35bEEM2WT9AafN2zGu3NWclqfXLMJHlTtaa7g3IibRNEg0nM/640?wxtype=jpeg&amp;wxfrom=0"/><p>在今天的文生图系统中，VAE 几乎已经成为一块默认的“中间层”：先把图像压缩到 latent space，再由 diffusion model 在 latent 中学习和生成，最后通过 VAE dec</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664409&amp;idx=1&amp;sn=2d4739cbc12e09e643bdc16305bce325&amp;chksm=972b497e34aa9a8c6887885274436e5f3735c867680a7ba41e766bfcab67917478889b0f3659&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 18:20:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[IJCAI DDL 2.0 Best Student Paper Award | 北航等提出LatentGuard：在隐空间中修复自动驾驶大模型的安全逻辑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9HAom7zINDgoJuB0ajtVhkGwhvE3n9z3qHsTh8Zpb064WiawRED51CmEBUg32wOL2bRMuD1esG3bVubnEUjEakmQkQVrUibbON4/300?wxtype=jpeg&amp;wxfrom=0"/><p>近日，北京航空航天大学团队的论文 “LatentGuard: Safeguarding Autonomous Driving VLMs via Latent World Logic Repair” 获</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664409&amp;idx=2&amp;sn=86d6c5345083ba8a4a4c648f3fd4f420&amp;chksm=97344e617cd31ccabf56d355cdea59ca0bf53c229e4f7977b34e946ac942769c6901be1eac45&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 18:20:01 +0800</pubDate>
     </item>
   </channel>
