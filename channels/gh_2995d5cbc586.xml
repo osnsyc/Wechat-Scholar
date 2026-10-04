@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[3DGS落地三座大山：稀疏视角、伪影、端侧算力——顶会与工业界如何破局？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jFHw4rrdTCJdy0h61BA65IEwOdyrjmJSrnqcHYQsnAzfYHHicrxydFvDg5WqXa5urz2KtPh8sQEbiab37MW6TaQT1jE9WVq1YicY/640?wxtype=jpeg&amp;wxfrom=0"/><p>3D Gaussian Splatting（3DGS）以数百万可学习的各向异性高斯椭球显式表征场景，凭借可微分光栅化实现了实时渲染，在渲染速度上比NeRF快8~12倍。然而，3DGS的“原罪”在于：它</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247751819&amp;idx=1&amp;sn=1ba6b5f063c270f5d04967b6d18af478&amp;chksm=fa8c9d381a7daa503ad1d5210ab3e9e1c2486adf060a415128d27a4fb6e12f225f8e64adbaea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[双视角线结构光三维重建与点云拼接：改进Steger中心提取提速71.8%，改进ICP配准提速12.97s，测量精度达0.067mm]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jlDUz4Ew7pGP0jaXTtdxC1VugXrufxcyvkuNAdjOmzv3vJ77PjsicE2fu20vFK2GqoL9BYmxdqQ2GZuW7AfrKFKMibVme4DyyX8/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械臂抓取和焊接软件，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247751819&amp;idx=2&amp;sn=1a11aee04eb445c8ee654b58de6f23af&amp;chksm=faf8a7be47bc1d00dcea7c18a7a8538a04e00276c249580a7808c3d0806e947855df0739da7e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SLAM开始记住过去了：为什么下一代三维地图需要时间记忆？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iaL4kpYn6ibO7IpzW0oJeABrhXgFHPbINr8jXgPx6CNsJOgHUEHY08sEP85gM4hiaoao26EfskRRic6GpD1agdY8xliahSiaT8QWpsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>SLAM过去解决的是“我在哪里、周围有什么”，但这还不够。当机器人只在一个环境中短时间运行时，一张静态地图基本可以满足定位和导航需求。可一旦运行周期拉长到几天、几个月，甚至更久，问题就变了：办公室里的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247751758&amp;idx=1&amp;sn=0ef53ad419d7dc429c591ead41d415dd&amp;chksm=fabbaea92620b8b83d160dad2cc46d75240619bc347c15468d9f6b4bdd5be2b06e08b2276060&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jJREib28pKIU6ZEXyT1WwP4xwvzHvibtew3MERJUs9Pf3ZobrESqfBaw3pSiaFYyYtiaumUbHcZEqUs0hiaB5ddJynKdeH7Y6bbus8/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者供稿直发 | 文末进3D视觉交流群3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247750642&amp;idx=2&amp;sn=70febdcfa1a056a04c0e8781526bbfa3&amp;chksm=fa23652313e8ff610d6cc210d19bbe8bbad087a44a83760b5b4b70cdb5fdc6f46a383d4e3d1d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 10 Sep 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3DGS落地最后一公里：50秒训练、8倍压显存、1042 FPS渲染，全链路效率革命]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4iauz6c5OjU0pJkBAPclh3bReF1uTibgf2xjR2vot1JIk4o0yHJSU5bEa984ozAtibR5BF4yokzBVicFngqFFyVAyhQwBxeKFfIV38/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械臂抓取和焊接软件，手持扫描仪(支持定</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247750474&amp;idx=1&amp;sn=155c9f0dded39a0e7cddf8e7cbb2d9c9&amp;chksm=fa69b4ef7c7d3357911dd8f88809e938d59cc75e4b27996496de0169aa0c4611038b975ff72b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[硬核实战+涵盖最新算法：全网首个双目散斑3D重建全流程教程来了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4ge2493uWzE6Fiatp2XUCCiaJiaDh0ib7lwuPsGCib06qhjbs83KkrL392NlcIl03VPxhyeMvxEh6zouN4CezwjybNBht1su21rzGDM/300?wxtype=jpeg&amp;wxfrom=0"/><p>一、 课程背景随着智能制造、三维检测、数字孪生等领域的飞速发展，高精度、高效率的三维形貌与尺寸测量技术已成为工业质检、逆向工程、医疗影像及科研探索中的核心需求。散斑投影三维测量技术，作为一种非接触、高</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247750474&amp;idx=2&amp;sn=47501a2399e9e38a5fa40343975a7f1e&amp;chksm=fa0c84d448ece925ded45d256144b7b0aef5848bfaadda49a4469503e1a1d5f5cb1b6b4f4fd6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
