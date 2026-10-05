@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[端侧实时感知新标杆！通用线性骨干网络GTR开源：覆盖检测、分割与深度估计，4090仅需1.9ms]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8hjOCdCAicQiaJ5kqz1YvzIiaUoUogtIRaXl7xSgPqicHST8rRgDVq33ibZft5ibAJmcqgyia636icC9HbbydoKpj4cd7Oyt5gT5WJiaGM/640?wxtype=jpeg&amp;wxfrom=0"/><p>在计算机视觉的高分辨率密集感知场景中，二次计算复杂度一直是 Softmax 全局注意力的绕不开的瓶颈——随图像 Token 激增的计算与显存开销如同沉重镣铐，让边缘端部署的“极致精度”与“实时吞吐”常</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665892&amp;idx=1&amp;sn=996f48f67880a4580cd33b4910c1b2ca&amp;chksm=97495a6b23dc51e7525f7c6950837ff397b53219fed1b6cfddc540e69ed2fccbb6358a1a49b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 23:25:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[上海交大&amp;帝国理工等提出TurboClear：单步消除物体与伴生阴影，算力骤降40倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8pWlqPyfoJ26cGFaOBqBkiaWtRG7o7aPND6NFiaB8a9JrF4f37IicHWTzHjCktFaasLGBHk0BOpu5DQx5ib4USkusUbcbhJnXIib9Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实图像编辑中，擦除一个物体从来不仅是涂抹掉物体轮廓本身。物体投射在地面的阴影、水面的倒影或半透明玻璃的折射痕迹，往往会蔓延至常规涂抹掩码之外。如果模型只按掩码消除，往往会在边缘留下显眼的倒影残渣；</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665871&amp;idx=1&amp;sn=e0a74b99f2411744f235d18d33bc79fd&amp;chksm=978ceddcd9ce80fb05b4b806fc3d231e88fb3cca9f2826bbdebc9117cddf7920fc54b5c8c6f4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9kGWcPwKJfCDic1m2cnfHdPEmIbv8TC1CA1iaeDrxgrebMTXZnEty2RL8UPBtmEiaY65m1aVsKzBu0BtXOUiceo76uvSkibaCfvN6g/300?wxtype=jpeg&amp;wxfrom=0"/><p>在复杂现实场景下的半监督视频目标分割（Semi-supervised Video Object Segmentation, VOS）任务中，严重遮挡、目标频繁消失与重现、微小尺度以及密集同类干扰物等极</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664435&amp;idx=2&amp;sn=d1eb8a3b570ebb404040d84635fada78&amp;chksm=97c8a887271eec8a3a8424d3b868588044eda5a5c56e52b1187a073169232d39ed80065d1e0e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 22 Aug 2026 23:11:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Z-Image 团队系统研究 Pixel-Space 文生图：从 Latent 预训练到 0.2 秒生成 1K 图像]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWib3buibkPC1CVbBGLW7DCbajeCs1wwF1BzcibHP79f3bnE3uCoU0q35bEEM2WT9AafN2zGu3NWclqfXLMJHlTtaa7g3IibRNEg0nM/640?wxtype=jpeg&amp;wxfrom=0"/><p>在今天的文生图系统中，VAE 几乎已经成为一块默认的“中间层”：先把图像压缩到 latent space，再由 diffusion model 在 latent 中学习和生成，最后通过 VAE dec</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247664409&amp;idx=1&amp;sn=2d4739cbc12e09e643bdc16305bce325&amp;chksm=972b497e34aa9a8c6887885274436e5f3735c867680a7ba41e766bfcab67917478889b0f3659&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 18:20:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
