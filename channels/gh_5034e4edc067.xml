@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[让 Claude Code 写推理引擎，解码比 vLLM 快 90%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmClAlsXYfWGfk8wYEVMroXztoY8PiaPljgMB0DWPvUcsualmbykn2e2ohHmkQswhuXI8I18aGE4LaGFwTSel01AWxtsibHRVra8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Baseten 工程师 Shawn Rushefsky 分享了一次实验：给 Claude Code 一张 GPU，让它为指定模型写一套推理引擎，再持续优化到跑赢 vLLM。Claude Code 使用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454821&amp;idx=1&amp;sn=7dc9fca09ea050dfed621de1c861a4b8&amp;chksm=bf0be35254195b726343b6a4030bc5208e43c20bfe826f0f09cf6d65eae7f5c27c9ff4f3e39b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Oct 2026 11:15:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软提出 ScholarEvolve：用论文进化 Agent Harness]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlTIv7SM0E3lDbVV2NJlr3ib8BhXCgLDqd3MNJh1AEvcK5zj1RDGGLvcG6icreGEL8ZSGloiakXpNdCibfqgLT6wTCHibPHbolfRfkE/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软与加州大学圣巴巴拉分校（UCSB）的研究者，前几天公开了一篇论文，提出 ScholarEvolve：从已发表的 Agent 研究里寻找改进办法，把它们写进运行框架，再用真实任务检验效果。它改的是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454795&amp;idx=1&amp;sn=bd735f4271fc0f1ac8180429254151b2&amp;chksm=bfdf0aec86e666f21d0d89e00e0cf9871ca36538573038e588d283dfe9c746e97fe726210d95&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvleu6ObHiamwkXykhA74Y54oGY1hhWWaHhV2JpQaibl4xBtDCCib9tD5C1jP8nLor9wB17WuIgsibDGbrRVXeHBeibtS2j4IkoTm2mQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 刚刚公布了一项由尚未发布的 Claude 研究版完成的数学成果：它把黎曼猜想相关的关键下界从 41.6% 推到了 67.2%，主论文、简版证明和 Lean 形式化仓库也一起放了出来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453327&amp;idx=1&amp;sn=566c233ab43c401507de44a98dc008c1&amp;chksm=bfd20f3d3b531156f4ac29d9a5938c5c1156ed5eed7ce0f133b39f64e18b89e6aba2a292e7b7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Aug 2026 12:06:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[小扎又开源了：面向 Agent 的 30B 模型，24G 显卡可跑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnqr46cxTDBvclf5x1bTlvJGvWorwVGYXfBZjydNVelHdviaIybjuhTIv5ZjKC7K7LkVhXeNGqR536LHNmxLfbvZHfGWahtdbhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Meta 今天开放了 30B 稠密模型 Muse Glimmer 的权重，小扎随后在 X 上亲自报信，强调它可以在本地运行。他还预告，Muse Spark 1.2 也会随后开放权重，并在末尾点名了 A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453318&amp;idx=1&amp;sn=ad761946f80f6f3daf0903cbf2254315&amp;chksm=bf56e8ad151c1d39cfc7a5424bc5b9cb60e996fc33470ffee4b4256ee1c25fe0b089c2c0b6bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 22:31:39 +0800</pubDate>
     </item>
   </channel>
 </rss>
