@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[欧洲自己的万亿大模型：Mistral Large 4 发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkicnR6AuCLnc5uYk2icwqr9UiaFkhsEB58CDyuImbm179W53Lic3f560wmzAJ8AxDtzQSnmJ0w3u2wKmk4oVpiaORGGROqhERoktJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>法国 Mistral AI 的新旗舰 Mistral Large 4 来了，还带着一个昵称：Le Chonk。这是一个原生多模态 MoE 模型，总参数约 1 万亿，每步激活约 500 亿参数。它支持文</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454873&amp;idx=1&amp;sn=772eee0606fb8e8ca454dc3db512375b&amp;chksm=bf5d09f034f7fedd67dbbcabb6698bcd967d96f978de7a4fb4eef48ff64f1be5c3079f161851&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Oct 2026 11:19:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让 Claude Code 写推理引擎，解码比 vLLM 快 90%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmClAlsXYfWGfk8wYEVMroXztoY8PiaPljgMB0DWPvUcsualmbykn2e2ohHmkQswhuXI8I18aGE4LaGFwTSel01AWxtsibHRVra8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Baseten 工程师 Shawn Rushefsky 分享了一次实验：给 Claude Code 一张 GPU，让它为指定模型写一套推理引擎，再持续优化到跑赢 vLLM。Claude Code 使用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454821&amp;idx=1&amp;sn=7dc9fca09ea050dfed621de1c861a4b8&amp;chksm=bf0be35254195b726343b6a4030bc5208e43c20bfe826f0f09cf6d65eae7f5c27c9ff4f3e39b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnOFh5h9JzicjEYwo1QWtPrfcLOaiaHP7h8PmJzBz8GRJdpSnJYLHBYIfyzPI87OOKxHXV0SUyYZJIvKl6TdvJCf6vtjuVusYB0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>这两天，一篇论文在圈内迅速走红，仿佛人人都得到了一部武林秘籍，不过人人都能得到的葵花宝典，还是葵花宝典吗？这篇名为《Stealing Reasoning Traces from Proprietary</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453348&amp;idx=1&amp;sn=e10937b55ba0e29658bb59201f30393a&amp;chksm=bf94fe3092d716f8f94821e4af94299aa1f36ed4be22acd034756ef4c8f20decad3844538750&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 12 Aug 2026 16:51:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Claude 神秘模型挑战黎曼猜想失败，却把关键下界从41.6%推到67.2%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvleu6ObHiamwkXykhA74Y54oGY1hhWWaHhV2JpQaibl4xBtDCCib9tD5C1jP8nLor9wB17WuIgsibDGbrRVXeHBeibtS2j4IkoTm2mQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 刚刚公布了一项由尚未发布的 Claude 研究版完成的数学成果：它把黎曼猜想相关的关键下界从 41.6% 推到了 67.2%，主论文、简版证明和 Lean 形式化仓库也一起放了出来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453327&amp;idx=1&amp;sn=566c233ab43c401507de44a98dc008c1&amp;chksm=bfd20f3d3b531156f4ac29d9a5938c5c1156ed5eed7ce0f133b39f64e18b89e6aba2a292e7b7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 12:06:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
