@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Claude Managed Agents 上线动态工作流，Agent 自己编排大任务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlos4748oD1y193EnSz4Wicg9Pz7t1ugVfRmgWp9tGq6xTRb2YfvOUjMdGkkdiaa3s1Rg6icnJFLeKsO0rteqoAKzwyqK1H4yicVtk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 把动态工作流带进了 Claude Managed Agents，就在这两天，这项新的多 Agent 编排能力进入公开测试版：接到一个复杂任务后，Claude 可以自己写一段程序，把</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454967&amp;idx=1&amp;sn=34e15126db04c77ce2bf8c33f39bac46&amp;chksm=bf880415d07044b845871aabf49e25bde8853229085f07dcf971b98fb48ad9b5650333b25792&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 15:15:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软开源 Agent Lightning v1.0：把真实 Agent 接进强化学习]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnibw3YnIu8V1cOiaiag4famBGXfTU7Rp9ZVicCWsQuiacasyLfULRdMOubZxZaMJfalDbE06oBLoiaRubrU31u7RwHwN2WAibic7aojoc/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软开源 Agent Lightning v1.0，一套面向 AI Agent 的强化学习框架。它主要给已经搭好 Agent、希望继续训练底层模型的开发者用：保留现有的工具调用、上下文管理和任务执行流</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454946&amp;idx=1&amp;sn=71235c287d3ac8172878fb4f04087e12&amp;chksm=bf00f05f76846cab20a29f63923a492b28ec302ee954e8dac6e3ab2994c1264615f17cb24d2b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkxpVKQQibep2nKn6K2d3UiaQTlAf88PK2XXC4E7WAX92KRl01pnyZSoGU5gDU5hGgu7ibFtSEarYSOkkiaSwcftdLPrJBu64tbvXU/640?wxtype=jpeg&amp;wxfrom=0"/><p>前天晚上，DeepSeek 把自己的 Agent 框架 DeepSeek Harness 开源了。我也第一时间跑了一遍：DeepSeek Harness 终于来了，体验很丝滑！！装好 Node，一条命</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453472&amp;idx=1&amp;sn=d3f00102b31590a3e1dbe59fed704079&amp;chksm=bf15eb659407af583b0a86ccd5b955be39c4be2d83bb7ad0588251ed346b73e9db9e8a509444&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 15 Aug 2026 12:07:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek Harness 终于来了，体验很丝滑！！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkYJYRrNCXSPosMEme0HcVJf46yYiaUt6q9jMspwvGtdTiam0PZ6Nc2zS8TqVv8SF41zzFPw7qXfSy4uc6yuq5yUGG4ZxZY3oo5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek 昨晚开源了 DeepSeek Harness（dsh），刚开始看到时是这样的：现在 star 已超 5 万+，还在快速上涨：它目前还是开发者预览版，但东西已经能跑：装好 Node.j</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453424&amp;idx=1&amp;sn=e9ea2e68a29655b3290682d9845ee8c7&amp;chksm=bf550c92417e9fbc9401e4ea45d624700da6f5007a17212ed63ff30eb7bfe9b3dbc16420f974&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 09:51:43 +0800</pubDate>
     </item>
   </channel>
 </rss>

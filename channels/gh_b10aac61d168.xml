@@ -10,6 +10,36 @@
       <title>gh_b10aac61d168</title>
     </image>
     <item>
+      <title><![CDATA[海报别靠嘴排版！复旦等让AI照着画布摆文字和图片]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdXFEenqlRHvFYa0xRunWK86NNlPnpPqXnfaggyCqtID8L9lIaXb2nYFbRj7icFXc1cPsA0U2r8N7deLwI6VdeJpFuncMQ76fOMI/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读复旦大学、微软研究院等机构提出Compo，让用户在画布上安排图片、文字和位置，再生成海报。输入可以明确某个人物放哪里、文字写什么、哪些部分保持原样。它将布局要求变成空间约束，减少仅靠长提示词描</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247747608&amp;idx=1&amp;sn=31312e8de73b8a3f786b88919e9ab302&amp;chksm=ce982c1a3efa04ad3abb559a8778e2189a926f32e2b23fc490f4395f267ded808159de001bbb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 15:52:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[视频生成自带分轨！谷歌等把人声和乐器声分别交出来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdVhQO6ibJlXBdlJiahZAtIXKdJhUwTzJHsvzddNCzPmLv9R1uX3YLFcvicDa9YbIicosN9B97RFxibl7TZRKYuga800pzKVEvAZtarI/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读谷歌、特拉维夫大学等机构提出SepGen，生成视频时同时输出混合音频与两个独立声轨。示例包括演唱与乐器、人声对话等场景。同一模型还可以接收已有视频和音频进行分离，让画面中的发声对象参与判断声音</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247747608&amp;idx=2&amp;sn=b26475901a98907af5a2b7c427e911d2&amp;chksm=ce5b68c9e94fb61dbfaeac6fa02bddec35f90220477ae469761b24c004b540b461c69f73ba02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 15:52:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3D看着像，距离就准？浙大等拿100个场景直接量]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdU2J6QbcpgGudovNXs0tTksibLccD7VcmyHKtTW33TwqZFibdicIb1EYRctzkcN4SsbjTdOCpCICqEkAMNyd6IlpgSP2Ziag9wsdjw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读浙江大学、浙江工业大学等机构提出Pumpire，用100个真实场景检查三维重建的距离是否准确。它比较模型给出的点间距离与实测值，并考察深度信息对结果的影响。桌椅看起来像原场景，还需要量一量，才</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247747608&amp;idx=3&amp;sn=eaab3863afb175e6ad6c44de1ad045ca&amp;chksm=ceb6ea3245f5c4586ff2eb190f1544ece827b1cf9fdafe4fdcb0948a9cb1ce35cd9368dd983d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 15:52:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[视频人物转身回来别换脸！快手等给生成模型留住中间记忆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdVg7VFNQ1lPKUJqdAPlwBH8ibrzba6bcxO5TqA0VSB3J9J0kmvAJH5SEOV5ExGbLG4icHQa2Igia7eLAL2yPMfvMlARYdP5hvf0gM/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读南京大学、清华大学、快手、上海人工智能实验室等机构提出Memory Forcing，为视频生成保留开头、近期和中间事件三类记忆。它让模型在视频继续变长时，还能查到早先发生的内容。在1.3B模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247747608&amp;idx=4&amp;sn=abfe1edd2551a14bbb452de9a99849f7&amp;chksm=ce884cc25903ce663f63de3de613bed35f85ebd008dc692c5763218bcddc5297251dc3997919&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 15:52:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[别再来回聊！AI临时做个表单，对话3.4轮降到1.2轮]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdWvRnyfhrQbRCibrf9ap15UKictnSCXCw4zqc50qSVkx1GpXvD9DL0KlUDEzdW9mm0lYWv25QEGJe3eGiaDb1FVT6qBdEZHlN6hrc/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读微软研究院、香港大学等机构提出GenUI-Harness，让AI遇到模糊需求时临时生成一个可操作的界面。用户勾选偏好，AI再据此完成数据库任务。论文的用户研究中，交互从平均3.4轮降至1.2轮</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247747608&amp;idx=5&amp;sn=0f54fb9616191aebf7afc4fb9785f4ff&amp;chksm=cee518111e17fde31bfbc27452d6a25666b1abdfcdbfd19fb0ce8103f5bd8c9f961f82b997f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 15:52:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Gemini宣布直接调用Opus 5.5！Claude接管一切，超级Agent时代来临]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdVIU0pukic3zyZFCunQgNjEgKweWTCdsNFc9S2R0esm9Fn32Euf29pZL0kP4ch0XvG9bNkoRob1yMV8Kb3DVPl7750deEHLf7cQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>10月8日，马斯克表示Grok Bot将按任务外包给Opus 5.5进行处理。就在刚刚，谷歌在 Google Cloud 发布会上宣布将 Claude Opus 5.5 与 Sonnet 5.5 集成</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247747566&amp;idx=1&amp;sn=7d26898a85ac6df5160867f7d4d84e07&amp;chksm=ced09d8e8d53fc25807d8244c9c513686b2dceb8ae4eb1b3dbbdc81a4937ea7d80b4c50cd056&amp;scene=0&amp;xtrack=1#rd</link>
@@ -278,36 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdWFJUlTibb90zLqDefrMiaFsZTvKD21NBdBanTbthibkeJUj2RriaaU9OiaZv2gXSiaibIkc5ETtNjuwN0kAILzRicbzpuXObTYn9YUlO4/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-10-02 | CS.LG机器学习 | 共 270 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 深度学习架构与训练方法 27 篇2. 表示学习</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746975&amp;idx=5&amp;sn=5109f715c37799ba530c325b3b3814a9&amp;chksm=ceb87341d348cfc633bad93d41498cdaccddc6cea70bcc538052164eabb7fe8d564f43c8f6b6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 02 Oct 2026 17:44:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人学术速递[10.2]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdWGXgtskJfYZpA13kRQMXmbiarB7SAe5XlWpmRwmgGYwR2fskOw8UKj4L7ibPQpQFXVc7LQ3dQhLY76epsciaAxnOzXEaA1nlvlZY/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-10-02 | CS.RO机器人 | 共 83 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 机器人学习与模仿强化学习 2 篇2. 运动规划、控</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746975&amp;idx=6&amp;sn=490f9b44d8c6f5d7eb440216f1c9c35f&amp;chksm=ce75c81aaf54f2739ef43b2d5cf2fafc6669471d8258c1b53534c9f4ab42ccf4205fc3f71fa9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 Oct 2026 17:44:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[语音与音频学术速递[10.2]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdUlM9sR6bDufxQCRoQd2dDOdFS1IBjrQ3b9ZutSeD06cyefOQeMemXkonO3aib4euvCr9UkT5JhUCFHhf09FSfN1z1dhkGgrwTM/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-10-02 | CS.SD语音与音频 | 共 17 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 语音识别与关键词检测 1 篇2. 语音合成与声</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746975&amp;idx=7&amp;sn=352499aa58e5d174811bcce7d32a84e8&amp;chksm=ced5d7fbb931cb22220d24ccb2c4be279317ad7200a68c3f04840a52972fb4712270768de28f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 Oct 2026 17:44:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[统计学学术速递[10.2]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdUmqSoE6oVDbkOnL2lId73Xg7ewY9wxbD7Y8eNCIHXMjic3mP4bSia7KX8k1pB2dAPSJtib3lBE8yUafib1eBF2iaiaspzOa3Kyx4pXk/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-10-02 | STAT统计学 | 共 58 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 统计理论与方法 5 篇2. 贝叶斯统计与概率建模 5</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746975&amp;idx=8&amp;sn=90e89576d848dd9b0476d77470b6f0cd&amp;chksm=ce534b1ad8e7f6b8a2c4697c461b6af1dcb1f720ef702aa0bd62bf5871d4927b2a6d3e12d0e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 Oct 2026 17:44:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不管A÷还是O÷都是÷，OpenAI Pro老套餐额度砍半并上线500刀新套餐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdXOJHOeApSJ46mtiafYxgRFx4QicUtSu67MZDvHgNHplz7XZxFnkQJz7s5wiajMdfpkpN9ufgVcuiaK0spuI5sF5xLutHw3gdQRzuE/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读OpenAI重新开放每月200美元的Pro 200，但新订阅额度已缩水；现有用户也将在10月30日从20倍Plus用量降至10倍，价格不变。一个月前，Anthropic刚把Claude Code“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746797&amp;idx=1&amp;sn=ade69e2fac8fc594fb3eb270b831aebf&amp;chksm=ce18eaf805e8e24684706cf725e891fea8582dd4219869edf4c356ac1d7c085bf5eab2845ffe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 16:42:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看懂多视角还不够：Google等团队让大模型先在脑中拼一遍3D]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdXFBB1pgpz41AlTfnibPj6CRrQcPD0ak2h5cTwp2UMRDPBRNtI3N39TLE4o0XltL7fmAbTWUCLvSgz3XwrDJrcexZQB0ghicclZ8/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读韩国科学技术院、苏黎世联邦理工学院、Google、慕尼黑工业大学等机构提出Imagine3D-LLM，让多模态大模型回答前先把多视角照片压成紧凑三维场景。它在多项空间推理和3D理解基准上持续超</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247746797&amp;idx=2&amp;sn=ff518f6028a93fc39a8b549726eb8b3d&amp;chksm=ce75df1ec81ddf66e7696b567a14cacaed194e3a33d768c32ccad8023b60e20ef85df45f4488&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 16:42:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
