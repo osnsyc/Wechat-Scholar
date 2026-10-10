@@ -1,14 +1,20 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title><![CDATA[机器之心SOTA模型]]></title>
+    <title><![CDATA[机器之心SOTA]]></title>
     <link>https://mp.weixin.qq.com/</link>
-    <description><![CDATA[机器之心SOTA模型公众号]]></description>
+    <description><![CDATA[机器之心SOTA公众号]]></description>
     <language>zh-cn</language>
     <image>
       <url>https://wx.qlogo.cn/mmhead/ciaIftfPzwlqVV4uGbvEOrJtup44iavdXZ3yKog9qnPkNQQ5O1Pbcn7UJGqTZS9k5NNUGZpibYic4T8/132</url>
       <title>gh_b81ad58dc224</title>
     </image>
+    <item>
+      <title><![CDATA[OpenAI推出GPT-6.1 Sol Ultrafast加速服务档，AutoTrust开源JEV-27B-VL多模态决策模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFbuKXhE2tqWEhkdDH07nWtscHg7t1ygtBLEkuXqr56aJj4fYdtSlN7f3sKFbejyJOSWuTLaHr2XsSSEB7gAFoHGibkkoSSIQae4/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 9 日，今天值得关注的更新覆盖模型响应提速、多模态决策与音视频生成：Sol 开放 Ultrafast 服务档，决策模型尝试直接输出选项与概率，视频模型则继续补齐角色表演、声音参考和本地生成能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247503825&amp;idx=1&amp;sn=107ad6dbb12ceee7603a874c3184da4c&amp;chksm=c04dd30c891706d8f2d7515824816755e56612f1ffbec2df6594ae8233672c0098bf7999ea28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 18:11:41 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[Anthropic发布Claude Haiku 5.5，Mistral开放Mistral Large 4公开预览API]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFamCReUsTFH0XEheD1NVwTsCxpns31RIHfwTZGVucH8DxjtoNHdACMoY2IQDs9QE1kFLO9vs0mdhQbzpVpZWz5loPQycPUxe3o/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 1 日至 8 日，值得关注的项目覆盖 Agent 任务、多模态检索、图像编辑、实时语音与翻译：Claude Haiku 5.5 为高频任务提供可调推理强度，EmbeddingGemma 2</p>]]></description>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UibyxhuYSuFbRKQHlicaYk3q5LicnW1Vibtzjky4VdcQbvh0W6iccf7LpYgu4HoXNk54GgTKuyWQnzMJPEhZVpOlfbIBo1cm1kLRoqWLWYRLUASE/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：VideoChat3★VideoChat3是一个参数规模为4B的通用视频多模态大语言模型，旨在实现高效、通用的视频理解。该模型能够处理从细微运动到长达一小时的叙事视频，并支持精确的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247503010&amp;idx=1&amp;sn=5ec04d393d0906346bcbf132598ab3b3&amp;chksm=c0cc072a1894126a97ef757eeb4641b24063695184f4fe66c27653ecdbe5fb72a1135cea9728&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 23 Jul 2026 15:09:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日开源（2026-7-22）：微软开源Mage-Flow，紧凑生成栈媲美顶级大模型，覆盖文生图与指令编辑，4步蒸馏版实现极速推理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UibyxhuYSuFYDYiaFecZfliaFqJEyNHzMlPGibUkHKdnBXmicHlwrFPDeujLknphLGemiaTq8cPhiaAZwFqFv7IRlNtTLA8qKic2CbdfDOBE3v7mytA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🏆 基座模型①项目：Mage-Flow★Mage-Flow是一个由微软开源的高效原生分辨率基础模型，专为图像生成与编辑设计。该项目并非一味追求超大参数规模，而是通过精心协同设计分词器、骨干网络和系统基</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&amp;mid=2247502999&amp;idx=1&amp;sn=97cb43f3bc35aa2fb24009b1f94c43f2&amp;chksm=c0d1695ecb783865e55f602cd49da6fcc38315994437a134117190eb08a864b382a893caa92d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Jul 2026 13:52:20 +0800</pubDate>
     </item>
   </channel>
 </rss>
