@@ -10,6 +10,12 @@
       <title>gh_895a8687a10f</title>
     </image>
     <item>
+      <title><![CDATA[从 Sigmoid 到 SwiGLU：一文读懂神经网络激活函数的设计逻辑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/HfgeUqzZiafzZQcC5rhRMswr5UZ2NCEHQfR6FU7y0jgm0w4RwCJHSM3U55HQnEd11jeN24sqHicf5gnC7uNvBw5BMX9Tw8eGPwYCY53hthXTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方“AINLPer“，添加关注更多干货，第一时间送达更多精彩内容->专注大模型、Agent、RAG等前沿分享！引言在神经网络中，线性层负责对输入数据进行加权组合，但如果网络只包含线性运算，无论叠</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247505380&amp;idx=1&amp;sn=01a2ebef510447e14a937766f65444b8&amp;chksm=fbc6e820e81a32836049d4a06a32bbde3d418841d7fce17d92494bd613d5777a4aeb345cb82d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 10:30:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[知识蒸馏：小模型如何在“师父”头上“青出于蓝”？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/HfgeUqzZiafxJc7Iics8FKG2Q1kQhu9U0oKHJh7GR8KtcTRYBfuicuDMCqbA91AAOibyrtPrMVVsr5SPvlG9J0sYJ9YTKmGy58xh6jQRdghhclI/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方“AINLPer“，添加关注更多干货，第一时间送达更多精彩内容->专注大模型、Agent、RAG等前沿分享！引言性能最强的AI模型，运行成本也最高。它们依赖专门的硬件，占用大量内存，每处理一次</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247505367&amp;idx=1&amp;sn=f2750dd1359349c25d1e6910be654d5e&amp;chksm=fb0d1e760360d1c4bf03e42839c584782373b0b16d5e5636cc9f7cfe4e4ff6889eb16941b5a6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -301,12 +307,6 @@
       <title><![CDATA[Google发布！一文了解21种Agentic设计模式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaZVNrnw6VMJkU57SVEAnJC73VMKmDMBLksynowTOzAwfW98K099sib79zKZuBhmkQMfUGnWAGQTpCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>介绍由谷歌工程师Antonio Gulli撰写，关于构建智能系统的实战指南。全书系统性地总结了21种智能体设计模式，旨在帮助开发者构建可靠、高效的智能系统。结合LangChain、CrewAI、Goo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247504821&amp;idx=1&amp;sn=2452ca9c378c9d24035aa0a5850233f8&amp;chksm=fb424ba34ab539c07c0e00154735637fa22b4808a20f2693a86d1ba45cbc1648261ed088319d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Dec 2025 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[模型大一统？1100多个模型殊途同归，指向一个「通用子空间」！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1BQYN3xneiaboiaDbI4UHMpA7vu2GMsSic6Xh0kqUa0HrvR0zGjJPwLFnz3TGGT8WEjiaWYySYY9X5ceJ4s5rdNrhg/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方“AINLPer“，添加关注更多干货，第一时间送达更多精彩内容->专注大模型、Agent、RAG等前沿分享！模型架构的重要性可能远超我们之前的认知。最近，约翰斯・霍普金斯大学的一项研究发现：1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&amp;mid=2247504821&amp;idx=2&amp;sn=5b91e1a0e6f68b0f3b207723eb2adf82&amp;chksm=fb8b061e124d1afaac6d919cfe64d2af5e287a3430a769a68bf255286d19bbf0fd58c1308a9d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Dec 2025 10:00:00 +0800</pubDate>
     </item>
   </channel>
