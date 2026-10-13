@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[你看到的"锐利"是怎么生产出来的——USM 锐化的原理与代价]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/swpukQFIAUP5nkOxkHt74D8wFsRhCEa0ZwtFU1GCoPzGre53er7psV8icwc6U2GqEiaASF8TpMewQYMy1FHNqyv3jMx2EEib9jcNqYmHoYEdqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手机拍出来的照片，从传感器出来是模糊的。不是镜头对焦不准，而是光学系统的物理扩散、去马赛克插值引入的平滑、以及降噪步骤有意压制的高频，共同造成图像天然偏软。你在应用里看到的那张清晰照片，经历了一个主动</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485703&amp;idx=1&amp;sn=3a4710db3ff9a79161c103fb3b3f9290&amp;chksm=9757469ce3fe16321bf8798cdd9f5b653084ba6a5e6024f2da1a2e39a668b35c4c1b329ef0d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Oct 2026 07:48:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[手机人像模式是怎么知道哪里该虚化的]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOnURGfWvl9Zcib37yBSvHBtjxmuDU6wKibDRCh7ueB6q32VmwZiacXcI6zp7lwCzUDVH2mQC7YmB9VvpVaqxHDSiaKeZcN3JnwQpM/640?wxtype=jpeg&amp;wxfrom=0"/><p>拍一张人像，背景渐渐模糊，主体轮廓清晰，虚化圆润自然。这看起来像是焦外成像，但手机镜头的物理光圈太小，靠光学根本产生不了这样的效果。你看到的虚化，是从深度估计开始的一条完整计算流水线做出来的。第一步：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485702&amp;idx=1&amp;sn=3979f5e4c53c6fe0907a8cecdda68762&amp;chksm=97e92695c3a3dec5cc34e7e8eec07b8f47b6f9d605f7d6b06c71dbd30a81dc0e60d2b807c369&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOLAia0gJOqXT9R1pPzavuNXesFS6kJN7lvObmnDVfkxanqTXSxtDEFllh3S21JHQbG11vEo7qo9iaicXibQVaq82xu2Bx4gdA6DYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>慢动作视频里那些被“补”出来的帧，到底是算出来的，还是编出来的？这是视频插帧（Video Frame Interpolation，VFI）一直绕不开的问题。给模型相邻两帧，它要凭空补出中间不存在的画面</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485192&amp;idx=1&amp;sn=9b128721801b903b94f88f1e409441c4&amp;chksm=97e65f21df78c5e4e5ef51f8cccd69c24ea67cc1b260322bd4c1124af7104cec8b422ee9f9ce&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[放大三百五十倍之后，你看到的不是事实，而是一次有约束的想象]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNFUoK1h0LLsRS6w9Z6vB1rUWz9ftuwX05EXiaQO5wp6wdszFM48XQuC07M8lJY2va5L06SEIH3yI3yKCQmTZ9hsaPK8sQaKiciaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>把一件运动衫随手拍下来，然后不断放大。两倍时，你能看清针脚。十倍时，原本模糊的织纹开始显现。再往上，屏幕里出现细小纤维、毛刺、经纬交错的结构，甚至连每根线的粗细和反光都像是清清楚楚。问题来了：这些细节</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485191&amp;idx=1&amp;sn=919b6f58506675e8bdde90e9bafff1bd&amp;chksm=97cb089d6dce570fde16a6b09a69b4b8ca1315b2182aeb2a4e5463dbcf3e6c0757b88999095f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
