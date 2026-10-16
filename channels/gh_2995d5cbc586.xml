@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[NVIDIA重磅开源GATOR：随手拍照片重建完整3D物体，姿态精度96.4%，无需物体隔离与标定，直接输出场景对齐完整3D资产]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jI72kCdGBLdWQp2pT8YI1qibKcDsiaGjUfLqBsQuTC8ZIgwHRb2ZamFA2v5N6xuSGEKPJyicK8HVzFyuSXiagFF20aj2oQXBEKla0/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械臂抓取和焊接软件，手持扫描仪(支持定</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752192&amp;idx=1&amp;sn=536a67d90dfd2531bfc05e7d8df378be&amp;chksm=fa785ffdf64aeaa99e6d0ecfdeeeb6d2b0bce84720b4d466900eb5cc93064006990107e42808&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[交互式+易操作+标定精度高 | 一文详解相机内参+相机和激光雷达外参标定！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jD43ShqLmJf9RicK7IaRSgR2VK7K7dTMw5svsXlNTR8JZpqNsFs3ItMXoyPUJ3cficYCJWByJHrkicWGMqKKdKtIVCT0kPCCLtnU/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好！最近在使用HandBot-S2进行相机和激光雷达内外参标定，在标定过程中，踩过坑也收获不少。总结以了几个方面的内容，希望能帮你少走弯路，高效搞定标定！一 内参标定1.1. 相机内参是什么？内参</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752192&amp;idx=2&amp;sn=233686d48c19a71faaf073f8d15186aa&amp;chksm=fa6aaf9a0f40b14e25f5ba8b223db6b951a62a8c2050c89d9ca45c12cf2963310a43f5848dac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SLAM最大的难题不是定位，而是「记住」：机器人如何理解不断变化的世界！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jqQPm7rT1YUGIKxuKlibSqMkGnbrZEqVowJb9IgquX7u3siczhqo1GoR3kfUR7Yicnt0LCBQecJdxwF756Byhsghricec0LAricO5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去二十多年，SLAM（同步定位与建图）主要围绕定位精度、几何建图、特征匹配与全局优化展开，帮助机器人回答“我在哪里、周围环境是什么样”的问题。但当机器人从短时间、单次任务走向长期运行时，新的挑战逐渐</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752156&amp;idx=1&amp;sn=904485d56e9df2462db8c59da4c63be4&amp;chksm=fa325815dacd547454927f0889320dd94b074bdae23f06711fd2428a5de7798e41c0b41ea9fc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4gMDbgYiahHCsE5jLlXwE7XSTvBwrO3J2eNHjmZCBibV9zeUha2RWFaWLs2LJqV2a9RGvKwpJugIOYnsk3GmiaEZQ1gx81yBWHEEE/300?wxtype=jpeg&amp;wxfrom=0"/><p>HandBot-S2是一款硬件和数据开放的三维空间扫描仪，集成了3D激光雷达、3目相机（前左右）、IMU、RTK等模块，多传感器通过硬触发实现毫秒级同步，并提供标定好的内外参数，使用者可以获取所有原始</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247751481&amp;idx=2&amp;sn=8fd44ac842aef850087b107edae9a078&amp;chksm=fa0346628b529d375f5324f181f97517d3be4afe27fb305c82623e629cac50ce19f437f3af38&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 22 Sep 2026 15:22:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ICLR 2027取号量破6万！已超历届投稿量总和]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4hib3qAKia4hTWUafKCzsDP1VywicCgN0Azdtv2UL6Su74Fiaj2C1LebWPbY77khMOSMJ2qTbwwpPSSoryV9haMLrkbXHmbrAKr0P0/640?wxtype=jpeg&amp;wxfrom=0"/><p>ICLR 2027 摘要截稿后，OpenReview 取号量突破 6 万，已超过 ICLR 2013—2026 年历届投稿量总和（约 55,972 篇）。但取号不等于最终投稿，全文截稿前仍可能有人放弃</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247751397&amp;idx=1&amp;sn=17f8da8131b6d5da8e10aac2422da4bf&amp;chksm=fa4c38effe1afdf936c603c3518bd19b7fb84f681c90511ae27a093184d86fd9d10e70705320&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SIGGRAPH Asia 2026 | 港科大X腾讯联合研发MVID：让世界模型看懂材质与光照]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4gvruo3QxibsFqZweD2Usrr8EmCsjyUx6dj9cfNx57yO3tFiavQNK7HHvwZnz1KKJLnkDQ1ZL4haazv54apby78znRQBukiazyFV4/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达作者供稿直发 | 来源：3D视觉工坊3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247751397&amp;idx=2&amp;sn=f48e781a430da8decf9a954945ebfc97&amp;chksm=fa39065bdd08717e62f1ee7177624fdd2377c48539bb6e16d4ecca36c2d1d64badb7dafc049c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
