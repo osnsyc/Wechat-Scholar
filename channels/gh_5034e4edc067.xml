@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Databricks：如何让 Qwen 3.8 27B 微调快6倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnicCUiaDxickx3xM6iccXCSxvh7pfLou8dzjUEn0yNqSuQy0L6Onv2opDZWz1pUicX8643zicXqJwqRyMlhHuwem1kfdZNCkxib3jZEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPU 平均利用率已经达到98%，训练却还能快6倍。Databricks 这篇博文写下了排查过程、算子变化和数据打包细节。以下为全文翻译，文中的“我们”指原作者 Bruce Fontaine 和 Pa</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650455265&amp;idx=1&amp;sn=088bbe477d0709676a30f831f72cd699&amp;chksm=bf37da8cd950b3d4f434ebf6d0dac9c687adc05b4aadaa1c08ab8ec4021b9a9b3ea40082a82b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Oct 2026 13:21:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[辛顿首篇联名 RSI 论文：智能爆炸可能近了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvk9VicsumEL3lgA92rorib41wGfM1qrHpNpYcfRpkWazLfF6GZMIpFwFHjXbTCibf0OaibhLKhhEgvu5WfQaBuCYWLib4J0icRrwx9Mo/640?wxtype=jpeg&amp;wxfrom=0"/><p>辛顿等 22 位研究者联名发表了一篇递归自我改进（RSI）论文：当 AI 接手 AI 研发，技术进步会不会快到触发“智能爆炸”？论文 9 月 28 日公开，由 GovAI 的 Alan Chan 和剑</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650455155&amp;idx=1&amp;sn=b629d9e819fe734a358b76f92898c263&amp;chksm=bfd778d9b6f41753a673304c9e683458e97068e59f1917118821ca4eb8334828f4dc41e0fe10&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkP7XoreOib8koQy0L6X3X4ZiaibPiaC8WnOpYCH9M6C2h1Yo1Iq1ybIiceT9FhJt6p3v7S2KuJoyu37knUp126Vy3b1jXU9YmOrGHk/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天，Anthropic 发了一份 27 页的《Claude Code 创业公司指南》。整份指南来自对十多家创业公司的访谈，想回答一个很现实的问题：Claude Code 真塞进公司日常之后，究竟怎</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453610&amp;idx=1&amp;sn=52f308b647e45905573a12633870bd9e&amp;chksm=bfae47e751cbaeb4196073906f801ba029a548feec82c5b7b32ffd477320649e7d3a0e03877c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 22 Aug 2026 22:23:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Coding Agent 已经学会了写代码，但它为什么还是会“失忆”？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlheJITg8kKqibXZicIzHRicEiaHK7pJLXqncMTh5iaKT6hyaOA8cyEma90MI8rLEF6qC2wN1gRZVeKuiczIJpCQD2IZ6AicQFuAGRHC0/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去一段时间，Coding Agent 的能力提升得很快。从理解代码库、定位 Bug，到修改多个文件、运行测试，再到完成更加复杂的软件工程任务，Claude Code、Codex 等工具正在逐渐从“代</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453590&amp;idx=1&amp;sn=3213ef22c101b50b0bc1cb07b0e8c125&amp;chksm=bfa98404dcd2388898d0f6274b7907132c3a6eb0d10e7387c83eec0a15d4372227d0e9cb73bd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 21:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
