@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[DeepSeek V4.1 全景：跨层共享 KV、mHC、Engram 查表、有界重放 | SGLang 技术解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZQtvw5SLbY4DgfrtvpfGfNrSx4ibcjcrkwFx6O4RgZOAllEtEs4UCFVvvo9YpxodZp1mTaic2opbBNxrz1m7VcFhYwWhk4JYlUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本期「SGLang 技术解读」：DeepSeek V4.1 全景。三个反常识的设计：40 层里只有 4 层生成长距离 KV、其余层都在复用；模型带着两张共 189 GiB 的查表；prefill 时后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532586&amp;idx=1&amp;sn=2a9f97f969df69799524b496dc6babc4&amp;chksm=9e72d865f97b6ca8839c3a7e2985c419e48a275be0198866903100c73cb0c4dffdc8a517b686&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Oct 2026 23:07:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Step 5 Preview 首日支持：混合稀疏注意力、两个 MoE backend 与 day-0 RL | SGLang 技术解读（中英字幕）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYA3qBTwbe0oaCFMYfVia8ghoGWDr1I5TbrETZyeLq50yUoibhB1F9MbGKPPAMt3fXgEIQnVdXu8xYoAKIFnmafTzqSU52JcSEib8/640?wxtype=jpeg&amp;wxfrom=0"/><p>本期「SGLang 技术解读」，根据 SGLang 博客《Step 5 Preview: Day-0 Inference and RL Support with SGLang and Miles》，结</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532509&amp;idx=1&amp;sn=b835a4266aa030661eae3748bf28faba&amp;chksm=9e521e5c04a4172d35078ad4af419238111d63a0e52d7e75f366cc7ff7689963263ed777cb84&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZNDj5t7fovd8VOeDRz0ntBiclibumFvW2gSFQYKq6ialUnh5uOzoKpzoJvwySzKNVpUdUNRH7SHdTyzsxk72uuNZ48u9OH3asvzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang SOTA Humanize Loop：让 Codex 自动追推理性能到 SOTA0x0. 前言先宣传一下这个仓库：AI-Infra-Auto-Driven-SKILLS(https://</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531556&amp;idx=1&amp;sn=20a9c901eca9385a7211e951ec2a4bc7&amp;chksm=9ebbe329b66db3e1b816c33b8c0f742bc990739c8bf2f96430917ddd17385c044c3685313c5d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 22 May 2026 15:35:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[青稞社区SGLang DeepSeek V4回放解读之在SGLang上部署和优化DeepSeek-V4]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaORuuoXzv7dYPmqtkpXB0valMyAKI49l5FF3Bqia04p2B61ZJH1wE0KPT9TW70roriaMxD4syWg8icFicROLcNkqa2YfE1Teib69qg/640?wxtype=jpeg&amp;wxfrom=0"/><p>全文由Codex+GPT5.5创作，做了一些人工的校验和检查，但是不保证所有细节都是完全正确的，学习时请注意思考和鉴别。这篇是对青稞社区 SGLang DeepSeek V4 回放中「Deployin</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531549&amp;idx=1&amp;sn=a8fa812779b54c918406ce0d815b1b6f&amp;chksm=9ea67b5756b91712bc84621fee470ee5526d90ab367b93ce1e2ef863ccc0374f3b626f0edb82&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 20:52:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
