@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[SGLang 低延迟模式：Kernel 与运行时]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaXlyTeeib1J3poQqPxxrAh6wlHib3wibDUyGQCqxbJ1LwIJiauic3nLZ9dJ6RRm2FBla4U5t2Y9PC4ic1v8icibwW6Np7TNsUT0y3Nkj4/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：SGLang Low-Latency Mode: Kernels and Runtime（https://www.lmsys.org/blog/2026-10-18-sglang-low-lat</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532609&amp;idx=1&amp;sn=5aa5ca929c52ba23f41dd8469d3313f0&amp;chksm=9ef60cce40dcc0684b1ec33fc58b2aee0a9cdabcdf91e888d5c9666d49909db4e25053e6825c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 10:36:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[24GB 显卡怎么跑 60GB 视频模型？逐层 offload、INT8、近似 attention | SGLang 技术解读]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZ3K9KSDNqqictJLlHDvlV3NM59eeOroedpHJlegpb3G5unsK60OU05jorcePFalibjXokLs1D1CWaS29EtIicxIVvqnCMLIAfv5I/640?wxtype=jpeg&amp;wxfrom=0"/><p>本期「SGLang 技术解读」：MiniMax-H3 的 DiT 光 BF16 权重就有 61.7 GiB，SGLang 让它在一张 RTX 4090 D（24GB）上跑起来并提速：逐层 offloa</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532593&amp;idx=1&amp;sn=890d9839e836941b051ba985a8a216d7&amp;chksm=9e88afac3923c05c3d845c8420e3e810d33cd055f749b9a119ab4ce1e3b7b08d3bcce9240dc7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZicP0zuNyj2l14xWPVfu9Ff83aCfbibgvfztYPQX1vbExckGgm9zvTicNM7XwcXqBJn5Bc6vIw0ab7kVpCCibftuYvdNicoRViaMmr8/640?wxtype=jpeg&amp;wxfrom=0"/><p>【翻译】在 Codex 中使用 Goals：长时间工作的持久目标来源：OpenAI Cookbook，原文为 using_goals_in_codex.ipynb。 原文链接：https://gith</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531580&amp;idx=1&amp;sn=2316fc1c24066fa42fc9f241aa9655c5&amp;chksm=9e1f5de344411e72b69c1abba257ce0deb231e6b7d9da52baec6158be04bac0691b5c3115665&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 13:15:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让 Agent 自己优化 CUDA kernel，并在 MLSys 2026 FlashInfer Full-Agent Track 拿下前三]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KagyFRnVTaLnJw4icTqQBk6ryNibKtruAAOLs0eLc15aPiaeic9kjxuEpoicYfRyH7t0D3DhxtiaQKI5a611hmDB7Aw83Oiafibj4cZNHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>让 Agent 自己优化 CUDA kernel，并在 MLSys 2026 FlashInfer Full-Agent Track 拿下前三仓库：https://github.com/mit-han</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531569&amp;idx=1&amp;sn=b3ec1834009b082f1f3383bf93dc3d74&amp;chksm=9efaa245571fc3787f3e2d4987380a6164885c6fa4f73931c82fe543531666bee62aa90c6d9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 12:48:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
