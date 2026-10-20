@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[蒸馏一个Agent，到底要蒸什么？首篇「系统级综述」来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCZckq8q4R2buN9jrQRTfbXicGsib8uuLPulTUCC1Z42GEGfaEEUOKaoJXkme82nWTJ4azzRxVGHHXIzGdyaqXNU0RuHicgED8Ffw/640?wxtype=jpeg&amp;wxfrom=0"/><p>从蒸馏一个模型，到蒸馏整个 Agent 系统。Agent 的任务求解能力来自模型、可复用资源与执行控制的共同作用，知识蒸馏也因此需要从模型层面扩展到完整智能体系统。这篇 57 页综述以知识在学生智能体</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247723504&amp;idx=1&amp;sn=e81af41ba28ca17028f8bdaa2c3abc93&amp;chksm=977252fcf34ec96922bf23e549017011b9ad2c0c0eaf8ee59a8f3d0ccb77456768f7c398a898&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 20:01:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026 | 会进化的不止Agent能力：安全守卫也能做成可迭代的Skill]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAMcGsJ2WZSTzibrAVywRL4DNFA5pSv63tAMibV44uicjK8YM7AJtlYF9Gtl06r8vZWOPUHkls8OgBWTpiaboWtqojtAIbsbS2WqibY/300?wxtype=jpeg&amp;wxfrom=0"/><p>今天 Agent 系统里几乎一切都在进化：能力靠 Skill 持续积累，经验靠记忆不断沉淀。只有一样东西是静止的：安全防御。它通常是一份手写的策略文本，写完的那一刻就可能开始过时，而攻击手法每天都在变</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247723504&amp;idx=2&amp;sn=91e06e58ac5f247fb67d8bb4cc80f883&amp;chksm=97ef9c106de0734472e4bdd5f92a824f1e737f1853e1aeb9e3ea535a3872f7b95dccf087c757&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 20:01:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[天下苦Self-Distillation久矣？1.2万卡时实测：最能打的还是GRPO]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeAwauUY38ZMYKagicpJAzAlLsnYvbbxJibgrlbkwuqPa2LWMSrNrxrBspnGCKadCnGuVJWNyPBRETIOBE3JMwncqNdU3mZVibibLQc/640?wxtype=jpeg&amp;wxfrom=0"/><p>自蒸馏论文一篇接一篇，可真把这些方法放到同一套环境里比较，原本的优势还能保住吗？论文里明明有提升，自己复现却很难跑出同样的结果。浙江大学、蚂蚁集团的研究团队在复现 Agentic RL 的 Self-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247723484&amp;idx=1&amp;sn=e6ccded71a2cace84ff971e1eb5197b4&amp;chksm=97403a987a30a8de3d6d9954ed3b757382c3310b2f21d0f72abb9e8e7e33150f71de882a5f8f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -295,18 +307,6 @@
       <title><![CDATA[华为奥林帕斯奖再启全球挑战，聚焦Agentic AI时代存储新难题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDuYzB133Wf6FSEUGhU7SrcfibP586OKjsZ59H3BJyZfUJzmgeNxze30200hlSvqg7CZxaVNHaJibblic7sMzqV735JEGJE0RTjUU/640?wxtype=jpeg&amp;wxfrom=0"/><p>面向全球科研团队，新一届奥林帕斯奖发起新一轮技术挑战。计算世界里，有两个尺度，相隔了几十年。一个是 bit。它几乎和现代计算一样古老。照片、文档、模型参数，最终都要落成无数个 0 和 1。几十年来，存</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722622&amp;idx=1&amp;sn=7ac1b205591d0c0c146bfc58668d549a&amp;chksm=97b4a6d18114c8899036c0d30009bbb40df76afd7469e42e4cd02655fc20e48889bac6fcf94a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 18:04:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[入选CVPR 2026与ICML 2026：从关系不变到旋转不变，重塑视觉水印]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCySTRibHzeCWdKHwibraLw3hia7AiaMEnQpg5lUTrIAdHduAogQyAm9fGMrmNiczeJTrThHOSk5AHQhxPucVbuHZbe0Bc7jW09RkDc/300?wxtype=jpeg&amp;wxfrom=0"/><p>两项工作沿着同一条研究主线展开：与其让水印网络穷举所有可能的攻击，不如找到变换前后仍然稳定的结构，并把内容身份锚定在这些不变量上。当图像被改写，所有权证据还能留下吗？生成式 AI 正在改变视觉内容的生</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722622&amp;idx=2&amp;sn=d059838ffba269434339e74e3709ef6c&amp;chksm=97bf761ced60ead9475fa398abf30bc29162bc696f163e4dea689217ba2e32553b701c4ffa27&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 18:04:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预告 | 纽约大学孔令京教授：可迁移、可解释与可控机器学习的因果AI]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBnOej65ueCEojJaBAH8QmOcXz30U0afNMy2cjARoicNWQe1qalUfHSfibmjC9rrhFib7YsnUzl2Axc1Tov3feGYVCohic8iaH67uTw/300?wxtype=jpeg&amp;wxfrom=0"/><p>PaperWeekly × 星弧 STARC 科研觉醒AI前沿讲座 直播主题 面向可迁移、可解释与可控机器学习的因果人工智能 直播嘉宾 孔令京纽约大学数据科学中心助理教授 直播时间 2026年9月5</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722622&amp;idx=3&amp;sn=6a42f5d76575b593ceeec7bdcf22c29d&amp;chksm=979ba53071f1f54784b290447228d2435abbad0947b79a34582f423743fc873bf97f5085a072&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 03 Sep 2026 18:04:19 +0800</pubDate>
     </item>
   </channel>

@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[24GB 显卡怎么跑 60GB 视频模型？逐层 offload、INT8、近似 attention | SGLang 技术解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZ3K9KSDNqqictJLlHDvlV3NM59eeOroedpHJlegpb3G5unsK60OU05jorcePFalibjXokLs1D1CWaS29EtIicxIVvqnCMLIAfv5I/640?wxtype=jpeg&amp;wxfrom=0"/><p>本期「SGLang 技术解读」：MiniMax-H3 的 DiT 光 BF16 权重就有 61.7 GiB，SGLang 让它在一张 RTX 4090 D（24GB）上跑起来并提速：逐层 offloa</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532593&amp;idx=1&amp;sn=890d9839e836941b051ba985a8a216d7&amp;chksm=9e88afac3923c05c3d845c8420e3e810d33cd055f749b9a119ab4ce1e3b7b08d3bcce9240dc7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 20:26:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek V4.1 全景：跨层共享 KV、mHC、Engram 查表、有界重放 | SGLang 技术解读]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZQtvw5SLbY4DgfrtvpfGfNrSx4ibcjcrkwFx6O4RgZOAllEtEs4UCFVvvo9YpxodZp1mTaic2opbBNxrz1m7VcFhYwWhk4JYlUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本期「SGLang 技术解读」：DeepSeek V4.1 全景。三个反常识的设计：40 层里只有 4 层生成长距离 KV、其余层都在复用；模型带着两张共 189 GiB 的查表；prefill 时后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532586&amp;idx=1&amp;sn=2a9f97f969df69799524b496dc6babc4&amp;chksm=9e72d865f97b6ca8839c3a7e2985c419e48a275be0198866903100c73cb0c4dffdc8a517b686&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KagyFRnVTaLnJw4icTqQBk6ryNibKtruAAOLs0eLc15aPiaeic9kjxuEpoicYfRyH7t0D3DhxtiaQKI5a611hmDB7Aw83Oiafibj4cZNHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>让 Agent 自己优化 CUDA kernel，并在 MLSys 2026 FlashInfer Full-Agent Track 拿下前三仓库：https://github.com/mit-han</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531569&amp;idx=1&amp;sn=b3ec1834009b082f1f3383bf93dc3d74&amp;chksm=9efaa245571fc3787f3e2d4987380a6164885c6fa4f73931c82fe543531666bee62aa90c6d9c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 23 May 2026 12:48:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang SOTA Humanize Loop：让 Codex 自动追推理性能到 SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZNDj5t7fovd8VOeDRz0ntBiclibumFvW2gSFQYKq6ialUnh5uOzoKpzoJvwySzKNVpUdUNRH7SHdTyzsxk72uuNZ48u9OH3asvzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang SOTA Humanize Loop：让 Codex 自动追推理性能到 SOTA0x0. 前言先宣传一下这个仓库：AI-Infra-Auto-Driven-SKILLS(https://</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531556&amp;idx=1&amp;sn=20a9c901eca9385a7211e951ec2a4bc7&amp;chksm=9ebbe329b66db3e1b816c33b8c0f742bc990739c8bf2f96430917ddd17385c044c3685313c5d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 15:35:46 +0800</pubDate>
     </item>
   </channel>
 </rss>
