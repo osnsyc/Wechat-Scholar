@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[其实最近关于Jev的讨论两级分化也挺严重的， 你会发现，很多觉得就那样的，是在大模型火之前做过NLP或者搜广推的人， 因为Jev这种分类模型，不不不现在叫策略模型，之前bert时代，我们在业务上就一直在使用， 经历过人工智障时代的人，知道分类题做成演示不难，放进复杂业务里长期高精度、稳定地做对很难。 另外一部分，觉得很强，system1， 在与LLM进行组合使用的时候，很多高频场景，决策场景可以大量节省token的消化。 R1 之后，我们越来越习惯靠更长的思考换取能力，但很多业务问题确实被过度think了， 把高频决策交给快模型，把少数疑难样本交给 LLM，时延和 token 成本都有下降空间。 现在各种decision模型层出不穷，当然有蹭热度的部分， 但是也确实说明，时代是一个轮回，Jev找到了一个好的生态位，决策。 今天我想说的是，Jev两个特点，快、泛化， 但在真实业务场景，其实通用的Jev类型的决策模型根本达不到业务所要的准确率指标， 因为业务是千奇百怪的，当然我们可以把规则塞到Prompt中， LLM通过Inference-Time Scaling来增强模型智能，但Jev决策模型，只能依赖的是模型本身的能力。 不吹不黑，之前在给很多企业做落地的时候，因为有并非、时延的要求，就是利用选择题的方式来解决高频业务问题的， 在不训练的情况下，Jev类型模型很难达到可用的指标， 这也是为什么，我前面说大火的Jev模型让业务后训练又活了。 当然，已经有很多老板在咨询Jev决策模型要怎么去做了， 我把3年前的那套理论有搬过来了，只不过底层从Bert变成了以Qwen为底座， 从原来512的长度限制，变成了可以接受更长的上下文。 但不同的是，Jev把一个明确问题提出来了，我们需要RLCD（面向校准决策的强化学习）， 其实做搜索、推荐的同学们，应该比较了解，核心就是如何有真实soft标签来进行对齐， 我们之前会用对比学习，改造loss的方式，现在也有一些开源方案，在尝试用评分规则约束概率， Jev的方案并没有公开， 我觉得这一部分才是正在的护城河，也许是一套方法论，可以让输出的概率，跟真实的概率分布更一致。 最后，真是一个轮回， Jev类型决策模型因为并非、速度要求，大概率会是小参数量模型（100B以下）， 难道说微调的需求真的又回来了？]]></title>
+      <description><![CDATA[<p>其实最近关于Jev的讨论两级分化也挺严重的， 你会发现，很多觉得就那样的，是在大模型火之前做过NLP或者搜广推的人， 因为Jev这种分类模型，不不不现在叫策略模型，之前bert时代，我们在业务上就一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247503734&amp;idx=1&amp;sn=4773fce718e70815e4a615ac62ba62ea&amp;chksm=ceb9d0ab18b1af63f7553e193d25897dd6224490ab4cc677fe6ac0bfce30412ee583ac2a56ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 13:43:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用了Qwen-3.8 27B两个月后。。。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRPvKDFYx8aDTTqh4HwWH1sNaDdvaDPic7pbWOicnaXIk6YHhK0yibpz926vibzOYzhcU8JgI0JThIOCWiaQ2bYiaF8O8IbaZawSkCZI0/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。Qwen-3.8 27B已经开源2个多月了，这两个月基本上逢人就推，一些之前做的tob项目用的本地化模型，也都更新成了Qwen-3.8 27B。Qwen-3.8 27B本身能力</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247503732&amp;idx=1&amp;sn=24e72a16219c175853532bab083de5bd&amp;chksm=ce05ed8a51b4a9cd3fa5e7f0b22dc59863401ff6bee8ec21bed92790f79cc9bca1927207035f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRNuW7u7NW1FKmT6vJqEdIuibicYu2dXMaavicUEaMU3WiaYPhq2v20XiaTATMIfbNZfBq5Ij8BwZ77sC3WQ2PqWafjAe1BibMyO9wHmE/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。今年WAIC真是逛到瘫，17号中午就进去直播了一下午，然后晚上还陪某人（急性咽炎）去医院打针。没事儿，算你直播公伤18号上午8点又跑去了徐汇场，跟苍何、栗噔噔一起逛了一圈。那边</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501019&amp;idx=1&amp;sn=7fea6d574f9aa70f7029a4b7a85fc433&amp;chksm=ce1a79eea76aed329fc59ad30d52b0bd0faabbac69dda4c1ee0515b1a232aed5f255a29ca7a4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Jul 2026 11:32:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[逛了一天WAIC，我发现一个不太一样的多端协同Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRP83CPo8I4dmR6ibbxTW7zRyWL8wIXrG6cCdQPhQDGDFSxhx5aIZ7icdypfvdu5L8yakNUoHa6R1qB8JIoywM1DWeEsCpMKgC728/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。昨天WAIC探展，真是累麻了，第一次直播，没想到这么累，我还穿了这个外骨骼，在逛展的时候，依然感觉腿要废了，真佩服那些可以一直播十几个小时的人了。搞AI最后拼的就是体力逛展的时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247500979&amp;idx=1&amp;sn=4b1c07b652da53c2fca4f21ea948628e&amp;chksm=cef699e05f76720845fb8aed0931d2ddb1721f43632c882a811509cc4792344c32479e2a5384&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Jul 2026 13:26:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
