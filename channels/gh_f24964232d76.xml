@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[LLM Attention 演进：MLA 与权重吸收，KV Cache 还能怎么压]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BvJriaWk4hQtN4SrMo0raTzUFlhnVdfcd17rUYmeu7WTOsAvic0ChcrYwiaHnMXyxLeicNp8ugEwsmAjjNX6rDVLM6q7lNxtztsgKt3aTNJ8Pm4/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方蓝字关注我 导语这是「LLM Attention 演进」系列的第二篇。上一篇讲 MHA → MQA → GQA，靠削减 KV Head 压缩 KV Cache。本篇讲 MLA——不动 Hea</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532618&amp;idx=1&amp;sn=34ee021a3e79bc60ca06af44a4b6d4fd&amp;chksm=9e2bac35e9a27a68d6bc03de6645754e8b68066abdcd1c85487ec6e84104c9ce0bf0178cd9e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 11:49:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek 开源推理框架 DeepInfer 拆解：一天 155 万亿 token 的 V4.1 Flash 推理系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaiaboBaUlE7KBRskWgl2Of5iaq3dzwyUfW5Jrydg1B8onPUYiaU6wvJgxkbx4xNeQ8ppvibrdjHD60qIeEbXIkMNhsr3PTwIpPaics/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek 开源了推理框架 DeepInfer，同时放出编解码组件 deepseek-recipe 和 V4.1 Flash 大规模线上部署的技术报告：单一集群每天 155 万亿 token，按</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532616&amp;idx=1&amp;sn=7be5ec245724511d7a924fd1945471fb&amp;chksm=9ecb88325117dc19903ba493f833ccd6d5c04aa439442a80aeb0c7dc888b0c7e90487d2b3f24&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka2KQYjnib1LdHsMOhswOcyjgnCh5zKGv9zfteD4c6hiaAInibvP80rxlgtvuIvZThUJOwoYdcEgL9LibHg2GKAdd6WFCarWOH3AFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 不再只是工具，组织本身开始被重塑。过去一年，"Agent"这个词从实验室走进了生产环境。工程师们开始真正面对一个新的问题：不是"AI 能不能做到"，而是"我们能不能把它跑稳、跑对、跑出规模"</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531604&amp;idx=1&amp;sn=759bb9db9cc3834f8a518d35bba1696b&amp;chksm=9e57172d4db9930aaf7340bbcae33bc114669441a90fd9eaaab8c3ae58127b72f6376caf3e9e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Jun 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI-Infra-Auto-Driven-SKILLS v0.1.0：给 Codex / Claude Code 的推理框架工作流]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaycXgVOiaicOibXNldQfuhvB6Yexf3U9bibibd8pqnEqEv9kaysGibWCibDacjb5jh1RCTKJWrd5rDbIUCfqaRdLwIROpzXpJ0JMS2BY/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI-Infra-Auto-Driven-SKILLS v0.1.0工程地址：https://github.com/BBuf/AI-Infra-Auto-Driven-SKILLS，欢迎 star 和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531591&amp;idx=1&amp;sn=173bae5c97301187ce02495795f93773&amp;chksm=9e5eab91b73b18ae4ff204c29973bb77e9d391eaeaff771f9fbb2dcb6e2b2a5b2cfd51717d5e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 22:55:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
