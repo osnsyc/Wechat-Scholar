@@ -10,6 +10,18 @@
       <title>gh_c3787dd12b7d</title>
     </image>
     <item>
+      <title><![CDATA[ROS2 与 Gazebo 仿真]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/XOYhOkUDlAGfqxNufd99c70ysKLwusr2fkvN4RC5ClOjaIsWldnALutwSvZ2rDvt0FRyWWpZLibeAiaKWwkawEJ4dYZeJ22gqLqMt86Htxqjc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、为什么搞机器人要先搞仿真搞机器人的人都懂这个痛：一台入门级的差速底盘加激光雷达，大几千块，高端平台动辄几万；每次测试要搬场地、摆障碍、充电；真正棘手的偶发故障——比如某个墙角导致定位跳变——实车上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247622303&amp;idx=1&amp;sn=5d22f5a6de8d1ee465fb2a0555f413e6&amp;chksm=fad92149c820d2e0a4695f839b976086e45a8c57fe08cdca7ec1653f3968a43eb6564528b233&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 17:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[芯明：用空间智能技术为物理AI打造感知数据底座]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/XOYhOkUDlAEibVcvzZkAHckGrldWbibo3PdS1IBToIJL3RKmziayOaDFhgzvcqgewzsicSliale7bBmgZfw0jd1dHVzO2tGD7jS6zQYLaCS3S160/300?wxtype=jpeg&amp;wxfrom=0"/><p>10月16日至18日，ROSCon China 2026在上海举办，全场汇聚超千位行业观众、300余家企业，共同碰撞机器人开源生态的创新火花。大会期间，芯明发表了题为《如何用空间智能技术为物理AI打造</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247622303&amp;idx=2&amp;sn=7ecc3957da1413858adaa6390f40c8e9&amp;chksm=fafd512ca140573d65ae1809961a3f9eae46ee37375a3993a033327deeeec7d740a7a8159e16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[边缘 AI 部署实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/XOYhOkUDlAEUufXp4RYRWZ4ibicAhFyVY5iblRYicAYtOX0JWpjd5fd1RtqS4pL12dVnWFPQicOPhHrk3LO9NficuQFdA2OGA0naJXtIEeLicDR9Ls/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、TensorFlow Lite 简介一提到 AI，大家脑子里都是云端的巨无霸模型。但实际产品里，大量推理需求恰恰发生在最不起眼的设备上：智能门锁要认人脸，农业大棚要数虫害，仓库 AGV 要识别二维</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247622253&amp;idx=1&amp;sn=089f8f029d920752cbb33cf7065e27b6&amp;chksm=fabf802bb5b86b3c41324e40070d4f1c1eafd5445eb7ce395307121a7573e03619636d1a16e7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/XOYhOkUDlAHRBn8OyZBVdicQRmlgavHIqdtdYJpPVPs0EAjC13Yib2bzibE8Xor9yOXxadTuQasnicZ1o5INPlx1QLgky8PN9sibQz5agm1QBmiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>同步与锁机制一、概述09-lock 引入了操作系统中的同步机制——自旋锁（Spin Lock）。在多任务（尤其是抢占式调度）环境中，多个任务可能同时访问共享资源（如 UART），导致数据竞争和输出混乱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247621557&amp;idx=1&amp;sn=52e73b72f1b4f2affb5445ff6e131184&amp;chksm=fa15557a8b040935dd81cc3baa0471fad757aafe4ff250e739e8b6fb1b8cbd41f735c3496a67&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 20 Sep 2026 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[USB通信协议详解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/XOYhOkUDlAFzNdTbe91TvG9emQmK4w2SQTk4Tz9xeKKpjzz1Ugs2RYDWSXnAsn8wvcxWOOmt1IibS22AIEf5J5A2Wxytibq5CugldWvf493gI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、USB协议概述1.1 什么是USBUSB（Universal Serial Bus，通用串行总线）是由Intel、Compaq、IBM、Microsoft等公司在1995年共同推出的一种外部设备连</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247621548&amp;idx=1&amp;sn=a4f1d0418cf1d894a805693b5115f332&amp;chksm=fa924f51083eca364696fd6bbb0baf3f1159807d2cb1eeabffd8c0d0d253c08430b4a57ef08a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 19 Sep 2026 17:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI时代的编程方法论：从氛围编程到驾驭AI，程序员的终极进化之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/XOYhOkUDlAEXSZzQiavxQCAicLOQaibMDaVia8qk9onLJ6opqj3gk9HEakdC50p2qFicIoHSWrGsJ58eaGrpnqHvSIqTaHZHPNoHlocvpt85E4M4/640?wxtype=jpeg&amp;wxfrom=0"/><p>当下AI早已不是编程的辅助工具，而是彻底重构了软件开发的底层逻辑。从前靠手写代码、堆砌时间、熟练语法就能立足的编程时代，已经彻底落幕。很多人疑惑：同样使用AI大模型，有人效率翻倍、单人撑起一个项目，有</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&amp;mid=2247621535&amp;idx=1&amp;sn=68f3c9450e2c7cdd776b8bd3e9924f17&amp;chksm=faeb2f8ecee8f50d40ac3bc08bd244a8bf05437c106b0b135b340891dacc882707ecaeb7f4df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Sep 2026 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
