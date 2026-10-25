@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[不止 DeepInfer：SGLang 正面对比 DeepSeek 推理引擎（中英字幕）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZOV4Lf0g0oXFyLldohLVZLcZ34ku4F8o3dwgRWbXo4tCxMaZRCxpsoErUVic3jdEY5pkwsxMAP4aEf35UCn2MB4H4LOH8RItcE/640?wxtype=jpeg&amp;wxfrom=0"/><p>上期拆解了 DeepSeek 开源的推理引擎 DeepInfer，这期看 SGLang 用 DeepInfer 自己的 benchmark、同样的硬件正面对比：prefill 吞吐最高 1.04 倍，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532632&amp;idx=1&amp;sn=839bceea166797a83f1dc2f50a778f65&amp;chksm=9e8ef85c0671c2d26975adf9e9febed37c0bdabebbab1c301e2b1081a37d8971339356d28c6a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 14:06:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi K3.1 Pro 技术解读：后训练把 RL 做大之后，离最强闭源还有多远？（中英字幕）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaS2UjibRHhSiaoFWqTxibfxalVRiccylDt9fnPf1qHGL6RCPMlxhiaWsib2QbXSL5nm46Ns9VLbwW2iatJBncxWmg5nXFDVDygsDPJibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>K3.1 Pro 今天凌晨发布，让 Opus 5.5 读完官方技术博客和 API 文档，做了个 13 分钟的讲解视频，带中英字幕。 这次架构没动，和K3一样，提升主要来自后训练，RL 的算力加了很多。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532625&amp;idx=1&amp;sn=8ed973b752ec294c8574b88576ec3f1d&amp;chksm=9ef65aae79b09a6ad59addaba92810749f7d36481963226ca84d3e7490552c8220e3da97055f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZcibIXdPj7NnicYeSiahwX0ZUZpGmvuEBupxQLd6L9TSZ5PibT7YEMR6u6zINUeBYXCpDQxEeWBQHias5jiamibNyS1soZk6OFgGKdjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景本文记录最近使用 KDA（https://github.com/mit-han-lab/kernel-design-agents） 优化 SGLang Diffusion Kernel</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531641&amp;idx=1&amp;sn=1d3ed80fd3f1298863c6b0adbf695c40&amp;chksm=9e8f8c1ca740e50ad9820311be8309b10e319c5c1305377d5498631cadf800078a3424108cd2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 07 Jun 2026 16:13:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Boson AI × SGLang 正式发布 Higgs Audio v3 TTS：面向语音智能体的实时可控语音合成]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZJb8RPOIbcHwXX3gWJgv0dhcYJ13IINiaPicQEK6GRTdvvic0rsKUlvn78W3OFtZFANDU8KcgCwSH4MiaISsMlfbc9ibjGnI3pPJoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Boson AI × SGLang 正式发布 Higgs Audio v3 TTS：面向语音智能体的实时可控语音合成Boson AI &amp; SGLang-Omni 团队SGLang-Omni 团队SGL</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531630&amp;idx=1&amp;sn=6ec8d720e24671fe08f5dc977a59d335&amp;chksm=9e7fbba2c08530543750981a7fc2561cce61c26718b99e676cacaff51f1e05e2483dc1cba674&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Jun 2026 01:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
