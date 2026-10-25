@@ -10,6 +10,18 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[刚刚，Anthropic公开内部Sub-Agent+Loop最佳实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwCLXh4O8rr1FfCIgFJ6iaJ9jTQTkEGMQ49oUcbW8t7AYnMWCjGSnfA4nxKWmyamKVjZHyMQUSCJKcePjdvUJFT7ILzeckIHtibms/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！Anthropic官网发了一篇很不错的Agent工程实践blog，主题只有一个：subagent 不是越多越好。Agent记忆的尽头尽然是RAG在多个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512983&amp;idx=1&amp;sn=8efcc860529c324380eb2502adee3928&amp;chksm=c392209c7c2ec579ce837279b8fcfcd83799474672afb68c65f431459bd63c631b61694e8d07&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 10:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[英伟达：全新Agentic世界模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwBUZ4jxFHHv7VdjJRTvZznnu0YOexX0ibIUBFAadtnecicUyoCULiatDicUe8eXekiaxGNa6PILPICAx942peg9qpEgEkTbIAH7PEa4/300?wxtype=jpeg&amp;wxfrom=0"/><p>把「写代码」塞进世界动作模型（WAM），机器人学会了边规划边执行从模型到Harness，港中文Agentic Robots全面综述UC Berkeley、NVIDIA最新AW-0，把这两条路线焊进同一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512983&amp;idx=2&amp;sn=c228c6123a1cf9ce0cbb50ba1f691830&amp;chksm=c3868fc5583ec0bfa49d11f1cf5423e2e5de0670c87f34b3131f634f01cde98bcbfe2fdc6a52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 10:29:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[智谱&amp;清华唐杰：全新统一大模型，GLM-5.5核心技术]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwCFAkFD4JYlflE9KRjV4bvYNRicR3QQhhhN0H7lrico7kibsKrZdwhPRcX8bkdWUekxVOVNIsr9Mg4V4RSBLO8Jx6ZeAxINmtjuRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！一篇唐杰署名的论文被疯转：智谱内部的统一多模态模型 GLM-Omni 首次公开，社区直言「GLM-5.4/5.5 剑已出鞘」，被视作下一代 GLM 的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512942&amp;idx=1&amp;sn=e87d4515b938ea3251606fa9a567d776&amp;chksm=c3b08c3e99373a1f1a1e5aea80585e9ecd2f0e94343b12fed54655318e68a34c95cea914967f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwAJF5icPK6wMdOPEM6gVMkIyENltte9UD1M0kib0Xn1T9ibK4PHxlkMIrBJhK8DTezSicUecDnHPwXJpiaOg3GqjrEfOnib3aCJLc1fw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！RSI持续火热，Google最近发布了RSI自我改进新范式：Dream-RSI，让AI Agent在梦境中自我进化。一、递归自我改进的痛点递归自我改进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512074&amp;idx=1&amp;sn=6efdac9bb456ff10c496c64993e578b6&amp;chksm=c33514758e928d77227a744a0c7de1019c14d403c414f791bd40bd11e45c3da12fe76f10b98e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 22 Sep 2026 14:26:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Jev应该这样玩，赢麻了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBtGobkhiaw2icvh7uicMsDvbkiaaDfuKoeswx183VyhfhM4ME1QE7SARt4YUfxhvnVvGTpj9ZT4icQ9smibZ5SnFOpxJWFOFqYCUna0/300?wxtype=jpeg&amp;wxfrom=0"/><p>这个近期被全网被玩出花的模型叫 Jev，来自 TypeSafe——创始人 Diogo Almeida 是前 OpenAI 成员，参与过 ChatGPT 背后的指令跟随研究。Jev 不是更强的聊天模型，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512074&amp;idx=2&amp;sn=6dc59f9017f9d867604ecf615d7d7860&amp;chksm=c314689fe5baf92e9e3cc6adb2b471087af061713bbadca29e0012bd680d636cb0a705ad5160&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 14:26:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness AI：AI 时代的6个工程追问]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwAppKtEzdZcHo6H8jYdseia2fDhaiciaGdUZH3T89Aj2xjyFGhqxJdCHfOTb3oFn5TWNKDoWqQcgjRrxUtW8P98I8uYpAdo80vdcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>现如今，AI 不仅会写代码、会做测试、会调用工具，甚至已经能自主完成复杂任务。当 AI 从“回答问题的模型”演变为“能够行动的软件系统”，软件工程面对的挑战已经不再只是如何训练模型、如何部署模型、如何</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512016&amp;idx=1&amp;sn=a8eeb42b27b316c7e43bef6414a77581&amp;chksm=c3bd7348a787aabc4e2e45d543f9bfdf19d4ffc677cf41a9a10e54bf7429a59a2c86c2cb1382&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 11:36:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
