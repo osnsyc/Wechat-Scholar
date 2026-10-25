@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[一张灰度图，怎么自动把"物"和"底"分开——大津二值化（Otsu's Method）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/swpukQFIAUMROUJTvFT7icsnzwwicOY0DKRiazS78O8KxO7PDIHyqtQF4Xh4HQDjYO2MXfzXicx6j75L4IHbdicLWlnQ9aBGBSGnvG9IicMKxianicY/640?wxtype=jpeg&amp;wxfrom=0"/><p>你有一张灰度照片，想把前景物体和背景分开，变成一张黑白二值图（前景白、背景黑，或反过来）。最直觉的办法是选个阈值：亮度大于它的归前景，小于它的归背景。但阈值选多少？128？100？150？每张图的光照</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485794&amp;idx=1&amp;sn=1d516ec22e4416205fd9e130ffab530a&amp;chksm=97d36177bf382da02aa5aefbfc5171247c72be6b9d5fa12e04eca309546b8e93ae44f74d3e5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 07:08:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[电脑是怎么"看见"一条边的]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNvUMiaEEDiaMVYZEoX2YgPWzKhWEaSlUx3f3Qj441yRLOkjzQ7Ntt9TibSDPNMHAo78jRViceFSmicpdm0AiaPfmUDuTC4MLRN1Re5c/640?wxtype=jpeg&amp;wxfrom=0"/><p>你一眼就能看出照片里物体的轮廓——杯子的边缘、人脸的外形、马路的分界线。这件事对人毫不费力，但对电脑来说，它看到的只是一大堆数字（每个像素的亮度）。怎么从这堆数字里，自动找出"哪里是一条边"？这是计算</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485793&amp;idx=1&amp;sn=a995b1dfc60ea5ec0e64e31a05446dfc&amp;chksm=97aebfac535c1322768a41d05f4310eeae3caf15485ac928df45d46df9b5c6f8551a93b795a6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUMnNJFXh0IuXBLv4hYick71pHXn1GWgwUmdCicwj8cdXszQKTp5OfBrsN88O3xNLTKuHGethXplAbBgVxXk7sdpgOwtk6T8icsNE0/640?wxtype=jpeg&amp;wxfrom=0"/><p>室内拍窗景时，手机相机经常交出一张很矛盾的照片：沙发和墙角暗成一团，窗外天空却白成一块。暗部需要往上提，亮部需要往下压，而且这两块区域就在同一张图里。把“曝光”滑块整体推高，只会让窗外更糟。论文 Fi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485298&amp;idx=1&amp;sn=bb3cd43bf373b0b957c9b13b4fbfc4e0&amp;chksm=97ac63aeafe923ed9fba4e59f8a7405319a542cd06d7d66b312397a844d66cec3cc06514702e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 06 Sep 2026 07:36:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[把光子扔掉，白墙反而能测出深度：二阶纹理如何改写聚焦测深]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUMXpZMia3CfN7EHEJLWSh3LgibaOBj0I8uBqCVVVibANE2hic30aKGzVYV8PSy7KcymLJ7T1hSeuftwvonceVqEBcWiaA6toZ7Xt0Hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>拿手机对着一面刷白的墙，或者一只素色陶瓷杯去对焦，镜头常常会来回拉风箱：近一点、远一点，还是找不到真正清晰的位置。墙面明明就在那儿，为什么相机就是判断不出距离？不是相机“看不见”墙，而是墙面没有足够明</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485297&amp;idx=1&amp;sn=ee6e1b8dc7f0876973d8bbb1ee14ae5a&amp;chksm=97167fc50dabca88765e3162cca7242c68ebabd344b98414e5ceaeac51c5d820a5b634b6ed10&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 14:14:06 +0800</pubDate>
     </item>
   </channel>
 </rss>
