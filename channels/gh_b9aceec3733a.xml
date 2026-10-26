@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[手机扫描文档，为什么能把纸和阴影分开——明明明暗差别那么大]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNwm1ueBVlGjtylQYH66avYibgrm0PmaBSWyZcI6qCyUVLCR83Wnj9PbDY9sQKUXUepY1XtzCWcY3ib3MCn97K674vsewFSc9k9E/640?wxtype=jpeg&amp;wxfrom=0"/><p>你有没有用过手机里的"扫描文档"？把一张合同、一张发票放在桌上，随手一拍。桌上光很不均匀，左边靠近窗户一片亮，右边被杯子投了一道斜影，纸本身也微微发黄。拍出来的原图是这样的：左半边纸是纯白，右半边的纸</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485830&amp;idx=1&amp;sn=8e35ea25375e025e48ba8b6644f7ed09&amp;chksm=977875715371f95bd07c4dc496a4aaa28c143b23240a2aba34b0a8f1c27e27b902e2789e4312&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 06:54:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一张灰度图，怎么自动把"物"和"底"分开——大津二值化（Otsu's Method）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/swpukQFIAUMROUJTvFT7icsnzwwicOY0DKRiazS78O8KxO7PDIHyqtQF4Xh4HQDjYO2MXfzXicx6j75L4IHbdicLWlnQ9aBGBSGnvG9IicMKxianicY/640?wxtype=jpeg&amp;wxfrom=0"/><p>你有一张灰度照片，想把前景物体和背景分开，变成一张黑白二值图（前景白、背景黑，或反过来）。最直觉的办法是选个阈值：亮度大于它的归前景，小于它的归背景。但阈值选多少？128？100？150？每张图的光照</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485794&amp;idx=1&amp;sn=1d516ec22e4416205fd9e130ffab530a&amp;chksm=97d36177bf382da02aa5aefbfc5171247c72be6b9d5fa12e04eca309546b8e93ae44f74d3e5a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNicWYlPRGFfupvC7YRfhNul7ye1vKaYAegXeQVp6eur7JibyHPoknvrLhtNTVic3waOCggxaynBAh5DrDok42NFxtSCQr1o1co1U/640?wxtype=jpeg&amp;wxfrom=0"/><p>你给人像抠图，轮廓大多能过，真正卡住的总是耳边几根飞发、发梢半透明的细丝，以及头发和背景颜色接近的那一圈毛边。连拍留下的几张“糊了、抖了”的废片，很多图像管线会先把它们对齐，再把相机抖动当噪声消掉。P</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485344&amp;idx=1&amp;sn=4167bfedd3f16039ba2b9301c04380b1&amp;chksm=97d841807981f9a8b26f649fcb1e411a66e8f6a75494f77dd401be7308ae53e603ac220c1db1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 07 Sep 2026 07:51:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一张照片，两种曝光方向：AutoLumNet 如何把“不能乱序”写进网络]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUMnNJFXh0IuXBLv4hYick71pHXn1GWgwUmdCicwj8cdXszQKTp5OfBrsN88O3xNLTKuHGethXplAbBgVxXk7sdpgOwtk6T8icsNE0/640?wxtype=jpeg&amp;wxfrom=0"/><p>室内拍窗景时，手机相机经常交出一张很矛盾的照片：沙发和墙角暗成一团，窗外天空却白成一块。暗部需要往上提，亮部需要往下压，而且这两块区域就在同一张图里。把“曝光”滑块整体推高，只会让窗外更糟。论文 Fi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485298&amp;idx=1&amp;sn=bb3cd43bf373b0b957c9b13b4fbfc4e0&amp;chksm=97ac63aeafe923ed9fba4e59f8a7405319a542cd06d7d66b312397a844d66cec3cc06514702e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 06 Sep 2026 07:36:51 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Anthropic：何时把子 Agent 并入主循环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkvvN0JlCDfNmar9K6ibrKdlI53QjiazrzpI7GdB5tpgyjGZucWiaMPcrZUM8PrlZUfbjXicEEU1eaP6TVXqjHmEFFGcnX63cRmk10/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 应用 AI 团队在企业实践中发现，有些子 Agent 并回主循环后，效果反而更好。这篇由 Diane Sarkis 撰写的文章，讨论哪些分工值得保留，以及如何逐步迁移。以下为全文翻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650455751&amp;idx=1&amp;sn=2705e0a8c6aac8f8aa40969d6cdb49b4&amp;chksm=bff64fb4c1cffa1adac0f90430c2e47c16f9865c678c59aebd2df4ad2096a9d923217d98f40c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 18:37:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi K3.1 Pro 发布，多项跑分直追顶级闭源模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmE7tj8sXs3pAEibbYV7sceP4Iw4XMK9fXo1DO0QQypg3ic2LHaAeibhubBzN9bY3uGJEAxXjEFa4Wn3rQ9glw8VPHziauicPJGQWdU/640?wxtype=jpeg&amp;wxfrom=0"/><p>1024 程序员节，Kimi 送来了一次挺有分量的更新。月之暗面今天凌晨发布 Kimi K3.1 Pro，这是 K3.1 系列的第一个模型，也是 Kimi 目前最强的 3 万亿级参数模型，支持 100</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650455673&amp;idx=1&amp;sn=7131d82982a14342e102368e9b5409b1&amp;chksm=bf133269a283956e020a5aae9f30a902384f0c112507717e5ae81fd512b43d90d980b3dd129b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnOgMGAaETic3LjWGWHu2RvrZZCOsz16iaiaAJf0kwoIDY88gp2QjVhpja5ktj7G4A1P8UDibt7wDZyO3uluapFAsuBTybnLkwuvaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 把过去一年与多家团队落地电商 Agent 的经验，整理成了一份最新的实战指南： A guide to the anatomy of effective commerce agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453906&amp;idx=1&amp;sn=0dc7efb8dc7c765100eb419bf9794906&amp;chksm=bf946ba24889619e59baa3ea60bbff31d92136e18f98ac56baa2354da7e366991ef7bd3649b1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 03 Sep 2026 14:37:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Codex 记忆系统要大改了？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmF0ZiaQiaq5Piazacs4k5L8CDR6iahhT37FhicAeQfPmgkonjBVC0npX2JO39WAvu9xaAKx7f79iby6sbob3P7RmwLwRqOApk4g0ygo/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天，开发者 Nico Ritschel 在 X 上扔出一句话：Codex CLI 快要告别 compaction，改用上下文硬切换，再配上笔记和完整历史检索。这条帖子很快有了 11 万次浏览。他随</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453889&amp;idx=1&amp;sn=c0b51e8219a46b7c336a033b3cc743aa&amp;chksm=bfbfb9a84b1f132f5cfa954463b44adf34fb08efd041ffb747d4e777d266fe02d462958935ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 22:32:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
