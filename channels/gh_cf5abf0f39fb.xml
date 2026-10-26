@@ -10,6 +10,18 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[一篇多模态Agentic框架最新前沿综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwCFAkFD4JYlflE9KRjV4bvYNRicR3QQhhhN0H7lrico7kibsKrZdwhPRcX8bkdWUekxVOVNIsr9Mg4V4RSBLO8Jx6ZeAxINmtjuRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！LLM 带火了 Agent，但当 Agent 开始看图、听声、看视频时，整个架构该怎么变？马里兰大学、牛津、KAUST、NUS这篇 60 页综述首次以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247513014&amp;idx=1&amp;sn=b2768db5e1d492e4b51d5c429691122a&amp;chksm=c3e312aed13a3cb99fb43230fed8093204c120164d7cbd9be0ee8a4bd65c377dd6885bc32c4c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 11:01:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌：用了20年的Softmax竟藏了2个Bug]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwDXCYTmURWsyiaVHfKy6ibddFnY8fnvkqaeUW1BmfqH8pqmUXvLd3Fhczks6ha0PuVefDo2IEwRACpyX5dQUOcLEHsScoDYUO2WM/300?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！softmax 加交叉熵，大概是深度学习里最「不值得怀疑」的组件了。所有框架——JAX、PyTorch、TensorFlow——的实现都遵循同一套教科</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247513014&amp;idx=2&amp;sn=b58f074a6103308be4ddf866b163f5c2&amp;chksm=c327718fadb3a574784739e7daf6938670d3fb6e7c4ad8ab5fc9b9d3cbed29f87b8a257be0ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 11:01:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚，Anthropic公开内部Sub-Agent+Loop最佳实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwCLXh4O8rr1FfCIgFJ6iaJ9jTQTkEGMQ49oUcbW8t7AYnMWCjGSnfA4nxKWmyamKVjZHyMQUSCJKcePjdvUJFT7ILzeckIHtibms/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！Anthropic官网发了一篇很不错的Agent工程实践blog，主题只有一个：subagent 不是越多越好。Agent记忆的尽头尽然是RAG在多个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512983&amp;idx=1&amp;sn=8efcc860529c324380eb2502adee3928&amp;chksm=c392209c7c2ec579ce837279b8fcfcd83799474672afb68c65f431459bd63c631b61694e8d07&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwBk8HO579nLYMqudE1YjwAplmlxEhC3ibAQ0yWmp1zeibJGtlBtc2BxxniccdQufYhEhVu0HCSxXtNUd6voSM2vqZ44ia3STibicTHHk/640?wxtype=jpeg&amp;wxfrom=0"/><p>2022 年 ChatGPT 上线之后，强化学习就从一个小众领域，变成了夹在"聪明的基础模型"和"有用的产品"之间的那一层。到了 2026 年，训练大模型要回答的问题早就不是"要不要用 RL"，而是—</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512114&amp;idx=1&amp;sn=a9ac3987ad822d725d40740bb2fd1fad&amp;chksm=c3035158f85df8adc180ff0327f26795c3caf952d67727b2c9faabc1d1ec9cabc978490e10c6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 24 Sep 2026 11:20:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2篇Jev技术综述，豆包工作多Agents火出圈]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBGZpBbiaH4azxbNHPwxHwcdu0AibephPo6JYMVdEoNx4OAmsBThwRIIiaugRiaFYoLpbEXe9o2CbYxwwB6CUqicb9JAVCY43GYSGibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！写技术综述、做产品调研、科研选题，是无数打工人和科研党逃不掉的痛。面对一个刚出的爆款模型或前沿方向，就拿最近大火的System One模型Jev来说，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512108&amp;idx=1&amp;sn=e32522ba93347310fb86c0945aabd735&amp;chksm=c3f8e12ae8983d50bed7808bfcfbb815f93f4980aa39b82dddd88cb7f2d1231eb492f4580476&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 12:14:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌全新RSI范式，更好，更便宜]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwAJF5icPK6wMdOPEM6gVMkIyENltte9UD1M0kib0Xn1T9ibK4PHxlkMIrBJhK8DTezSicUecDnHPwXJpiaOg3GqjrEfOnib3aCJLc1fw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！RSI持续火热，Google最近发布了RSI自我改进新范式：Dream-RSI，让AI Agent在梦境中自我进化。一、递归自我改进的痛点递归自我改进</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512074&amp;idx=1&amp;sn=6efdac9bb456ff10c496c64993e578b6&amp;chksm=c33514758e928d77227a744a0c7de1019c14d403c414f791bd40bd11e45c3da12fe76f10b98e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 14:26:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
