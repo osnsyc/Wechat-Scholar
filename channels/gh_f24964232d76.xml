@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[PyTorch、JAX 的 softmax 藏了两个 bug：DeepMind 新论文讲解（中英字幕）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYkMT6AHns2VnYsB6p73kAOwLmic7eFYnGCEdibqGU9Z976qQ2bU7hWjsD2fkic0lqPdtdxdxGphdqehc8XmLaibeu4tgx8qgwu4QI/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepMind 新论文指出 PyTorch、JAX 里标准的 softmax 和交叉熵有两个数值 bug：模型很自信时正确类别的梯度被舍成 0（Softmax Collapse），蒸馏时学生贴近老师</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532642&amp;idx=1&amp;sn=b8b06965237e12690097341e87474e3f&amp;chksm=9ef44aba444d64f7150e5b55e723c703f2840688c39391b34816d3dc43b7cf955a144237e802&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 22:43:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不止 DeepInfer：SGLang 正面对比 DeepSeek 推理引擎（中英字幕）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZOV4Lf0g0oXFyLldohLVZLcZ34ku4F8o3dwgRWbXo4tCxMaZRCxpsoErUVic3jdEY5pkwsxMAP4aEf35UCn2MB4H4LOH8RItcE/640?wxtype=jpeg&amp;wxfrom=0"/><p>上期拆解了 DeepSeek 开源的推理引擎 DeepInfer，这期看 SGLang 用 DeepInfer 自己的 benchmark、同样的硬件正面对比：prefill 吞吐最高 1.04 倍，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532632&amp;idx=1&amp;sn=839bceea166797a83f1dc2f50a778f65&amp;chksm=9e8ef85c0671c2d26975adf9e9febed37c0bdabebbab1c301e2b1081a37d8971339356d28c6a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Kb5Nky2nQzTNKY6micWX9AchbvqpDuiaM5RMqkSaxu7bVNvpKwqBBWs0ichXmBl3Bq5dRyiapeiaIQPuBaLks8SjFlCHEHkoR5ErzBk/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面：本文对 Codex /goal 的源码（rust）阅读和分析由 Claude Opus 4.8 完成。我做的事情是给它指阅读方向、询问我感兴趣的细节（状态怎么存、续跑怎么触发、完成怎么判定、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531662&amp;idx=1&amp;sn=bbf4e5392b832ed00f0c9dffd889362a&amp;chksm=9e6e2b7883fc9b236c8513c8f44606d36148fb1d092ab1cd0df3327327702a9d72fe0d7eeb81&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 20 Jun 2026 14:15:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[分享下 KDA 优化SGLang Diffusion Kernel 需要注意的一些坑和prompt实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZcibIXdPj7NnicYeSiahwX0ZUZpGmvuEBupxQLd6L9TSZ5PibT7YEMR6u6zINUeBYXCpDQxEeWBQHias5jiamibNyS1soZk6OFgGKdjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 背景本文记录最近使用 KDA（https://github.com/mit-han-lab/kernel-design-agents） 优化 SGLang Diffusion Kernel</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531641&amp;idx=1&amp;sn=1d3ed80fd3f1298863c6b0adbf695c40&amp;chksm=9e8f8c1ca740e50ad9820311be8309b10e319c5c1305377d5498631cadf800078a3424108cd2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 07 Jun 2026 16:13:40 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Resin 开源，让 Agent 为 DeepSeek-V4.1-Flash 等模型写推理引擎]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlvFcnSB68FDUI5jpNoQJB7RQBYx5jtibjKzJgszy8FWI7k4GcYFResEiaT9o23uMhBW7KA3vOzDOqDLEn3AiaTiaThic5Jo9ujjWp4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Eric Zhang 开源了一个叫 Resin 的项目，让 Agent 为 DeepSeek-V4.1-Flash 等模型编写推理引擎：调度、缓存和服务接口复用现成底层，Agent 专注于指定模型和硬</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650455831&amp;idx=1&amp;sn=ed1e895d6beb02d5f1e1a9154525bd2e&amp;chksm=bf237163e0849a9adf252e892b820ab84c472131ade02da2d9eb74bdcdb278e4ad98a09ff91b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 20:33:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic：何时把子 Agent 并入主循环]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvkvvN0JlCDfNmar9K6ibrKdlI53QjiazrzpI7GdB5tpgyjGZucWiaMPcrZUM8PrlZUfbjXicEEU1eaP6TVXqjHmEFFGcnX63cRmk10/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 应用 AI 团队在企业实践中发现，有些子 Agent 并回主循环后，效果反而更好。这篇由 Diane Sarkis 撰写的文章，讨论哪些分工值得保留，以及如何逐步迁移。以下为全文翻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650455751&amp;idx=1&amp;sn=2705e0a8c6aac8f8aa40969d6cdb49b4&amp;chksm=bff64fb4c1cffa1adac0f90430c2e47c16f9865c678c59aebd2df4ad2096a9d923217d98f40c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlnlQdFm8S19aOfBUMmEE25ibqZsQ5H14PSavzVIYWfd1qgmjS49dm8vtPJCGswmTJV4SicXnLFBRqeBkpC5FL83DCaasYap9VQ8/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPT-6 Astra 正式发布了。图 1：OpenAI Developers 官方 GPT-6 Astra 模型主视觉昨天我们还在聊 Codex 的记忆系统要更新，今天 OpenAI 就把答案一起端</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453927&amp;idx=1&amp;sn=edd4193829a29e4d62cc6b32986820c3&amp;chksm=bf0abd090159b9ad283c1fe25677a58832fc0ebcffbe4b5cf4b33bd411b45617e1df3144adaa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 04 Sep 2026 07:58:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重磅！Anthropic 电商 Agent 实战指南发布了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvnOgMGAaETic3LjWGWHu2RvrZZCOsz16iaiaAJf0kwoIDY88gp2QjVhpja5ktj7G4A1P8UDibt7wDZyO3uluapFAsuBTybnLkwuvaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 把过去一年与多家团队落地电商 Agent 的经验，整理成了一份最新的实战指南： A guide to the anatomy of effective commerce agent</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650453906&amp;idx=1&amp;sn=0dc7efb8dc7c765100eb419bf9794906&amp;chksm=bf946ba24889619e59baa3ea60bbff31d92136e18f98ac56baa2354da7e366991ef7bd3649b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 14:37:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
