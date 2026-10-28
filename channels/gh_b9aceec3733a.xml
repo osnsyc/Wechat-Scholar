@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[在噪声中找一条直线，靠的是让每个点"投票"——霍夫变换]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNvBx11pgqibg3bVUImWgtL9icmT8Ih8q9yRicr75H5HA20jq15RmJOjEvGas3ugfV3Jg1O1eWwhxN1Qd4fJUvU0jrK6yfoWoOmY0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一条直线，在理想情况下很容易找：两点确定一线，再验证其他点是不是也在上面。但真实图像不是理想情况——Canny 给你的是一堆边缘点，有真正属于直线的，有属于圆弧的，有噪声，有断裂，密密麻麻几百个点。你</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485831&amp;idx=1&amp;sn=a5d84580bbee1daf6c71af00f9169afc&amp;chksm=97b0392b87e5f41ced83d2b4bafe87fcfdb9cbd2c17167c7578738c5f52e77af1984208273a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 07:22:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[手机扫描文档，为什么能把纸和阴影分开——明明明暗差别那么大]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNwm1ueBVlGjtylQYH66avYibgrm0PmaBSWyZcI6qCyUVLCR83Wnj9PbDY9sQKUXUepY1XtzCWcY3ib3MCn97K674vsewFSc9k9E/640?wxtype=jpeg&amp;wxfrom=0"/><p>你有没有用过手机里的"扫描文档"？把一张合同、一张发票放在桌上，随手一拍。桌上光很不均匀，左边靠近窗户一片亮，右边被杯子投了一道斜影，纸本身也微微发黄。拍出来的原图是这样的：左半边纸是纯白，右半边的纸</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485830&amp;idx=1&amp;sn=8e35ea25375e025e48ba8b6644f7ed09&amp;chksm=977875715371f95bd07c4dc496a4aaa28c143b23240a2aba34b0a8f1c27e27b902e2789e4312&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/swpukQFIAUP8GVFMn2FuLqZ0qlfYC7qeibzNTs8mCak2T0VfSuEsJwDMCWCaUpHibekYlP7hnaMibzzBL8DvYNDaQ7sI6PQpmhVHRvoYT11fLU/640?wxtype=jpeg&amp;wxfrom=0"/><p>同一块彩色卡片、同一台手机，白天放在窗边拍，红色可能往橙里跑；晚上搬到屋里，在暖光 LED 台灯下再拍一次，绿色又像蒙了层黄。要是旁边再开一圈 RGB 氛围灯、电竞灯带，或者直播补光灯，画面里的蓝和紫</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485363&amp;idx=1&amp;sn=59c5a9af891e1758312827e566b13268&amp;chksm=97f27ffb918e1a7a6e41718d7b303b13b2c2c4eaf09cd4379b5a0655c3ec6eb44e0893e307df&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 08 Sep 2026 08:00:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你连拍时甩掉的那一帧，可能正是头发丝抠图缺的答案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNicWYlPRGFfupvC7YRfhNul7ye1vKaYAegXeQVp6eur7JibyHPoknvrLhtNTVic3waOCggxaynBAh5DrDok42NFxtSCQr1o1co1U/640?wxtype=jpeg&amp;wxfrom=0"/><p>你给人像抠图，轮廓大多能过，真正卡住的总是耳边几根飞发、发梢半透明的细丝，以及头发和背景颜色接近的那一圈毛边。连拍留下的几张“糊了、抖了”的废片，很多图像管线会先把它们对齐，再把相机抖动当噪声消掉。P</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485344&amp;idx=1&amp;sn=4167bfedd3f16039ba2b9301c04380b1&amp;chksm=97d841807981f9a8b26f649fcb1e411a66e8f6a75494f77dd401be7308ae53e603ac220c1db1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 07:51:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
