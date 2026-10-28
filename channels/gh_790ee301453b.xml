@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[苹果Personal Agent新研究：能帮你干活儿，不等于真了解你]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDJOINYhRBh7HTic8BzeqJknibQSicicyjHAMvq67HBnVR9cuo34FiaoUGcFPXiaN9W6cPffJELR6GOTia5GPslEWfBqbUNfJ4o6e3vGL4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Personal Agent 目前已经能够独立完成许多复杂操作，但在决策时仍面临一个问题：什么时候应该直接推断，什么时候需要向用户追问。例如，用户要求预订平时常去的餐厅，Agent 可以从历史记录中判</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247607111&amp;idx=1&amp;sn=1e15882b3c606a720a50cebb92fd9b0e&amp;chksm=ce040e0010a51a2a59a6f5e15a7eeb2a851d9eef3d62128c7d164c90a1dabae99c6557662f7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 15:20:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent记忆新突破！Meta团队提出Self-Direction：一次失败，终生不犯]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDLeuyq98Sf2J2ibRHCSCSk6UMd5sa82J2R7AP9NkSZvbtNC6fqSC3AYC3VJyica9KMiaAzSibiapk2iaUtJ6UnG3PVcAey6SKf7K9AMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 在一个任务中改正了某个错误，换个会话却可能重复犯错。把纠错经验写进上下文或技能文件，后续仍要需要检索，还会占用上下文空间。如果通过微调把经验写入模型，又要承担额外训练成本，并处理新旧能力之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247607084&amp;idx=1&amp;sn=f84c360b557c6f366bf922bc95ce924e&amp;chksm=ced3ec23f4f5807711b0e3813ceacb2286d15eb45ad5831041ec409bafb67b96b4100b795c8a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDK3VtmycolFicyEN9y0rdhHrbPcKCIuhyqw6OnArrianTe0lsarewfOhepaqeNIG4gGSMHcnHR9r7gF7yvjiaQTicQH1G463C0KEdU/640?wxtype=jpeg&amp;wxfrom=0"/><p>即使没玩过一个新游戏，人类也能凭借游戏规则，判断它是否公平、有趣。人工智能（AI）系统要掌握这种能力，就需要学会如何灵活处理未遇到的新问题，并决定下一步行动。关于这种能力究竟是如何实现的，一篇最新发表</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605965&amp;idx=1&amp;sn=efad68f766a54c69dc410b99bf01dd93&amp;chksm=ce1fe99468f0a4c8e9929d00277fc58858dc412f2f733ef18d9b3ad1744df1c0c9b8c5af68fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[强化学习新突破！清华团队提出「单rollout异步优化」方法，可稳定训练1000步]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDL1RlOaiceXJ6YPXBSjlXRlq9e2IFVYT0CAS5PAYEpicDohX67s2wSF1iabAf0enLKyo8YIGpL2gsoSxR28RIhbHBfgGFYaEDs938/640?wxtype=jpeg&amp;wxfrom=0"/><p>在长程 Agent 和 coding 任务中，如何提升强化学习（RL）效率，仍是当前的核心难题。目前，现有 LLM RL 流水线多采用同步、批量式流程，往往需要等待整批 rollout 完成后才能更新</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605937&amp;idx=1&amp;sn=acc46bbcac535bf3d2425d5f33572f07&amp;chksm=ce578c1e7aa785f66e7b93ff97955a9b60362e463da261dd46c95dde6b3623b621593f65c37a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Jul 2026 09:46:52 +0800</pubDate>
     </item>
   </channel>
 </rss>

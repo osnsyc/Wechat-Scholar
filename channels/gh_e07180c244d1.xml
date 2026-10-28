@@ -10,6 +10,18 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[Omni-Woodpecker：全模态幻觉可以在模型内部免训练纠正]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9GxHk3oQOQuVFuC3g0STMbVxa0mdRX8uibC92vkCKzBMHPHWOo7Y2qO1ZA4S4O2bDiaWHtQIslfDGyXAaRGqAGPIMw2dP7RKzico/640?wxtype=jpeg&amp;wxfrom=0"/><p>全模态幻觉可能并不来自于证据编码的失败，而是融合表示中证据与先验的失衡。OWP 在解码之前，于模型内部重新平衡二者。全模态大模型（Omni LLM）把大语言模型的能力从文本扩展到语言、视觉和音频的联合</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247666780&amp;idx=1&amp;sn=735b3ef0ee1b6e583dd208cb2af6e94f&amp;chksm=9782e40c30eebba0085bc6952882fdf61c12a9a5ab44aa8da2bc9d53fc8a72cf81f17227794d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 12:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[HybridCUA：让电脑智能体学会“何时点鼠标、何时敲命令”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWicUzGnIjyRH7MH7kXnQ7ca7eOnFMvuvmWDJ0rppnfcsFv45ZciaZeLicEqHIibRd2PD6WzFaciaxxj9XKo215jCuicChTI6qllsjp68/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，基于多模态大模型的电脑操作智能体（Computer-Use Agent，CUA）发展迅速，已经能够像人一样观察屏幕、点击按钮、输入文字，完成办公、编程、系统设置等真实数字任务。然而，“像人一样</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247666780&amp;idx=2&amp;sn=b75a0cfd1dbef2b5dbac19cdfc840f30&amp;chksm=976abd3752ed989d9419480da9a8c232b7e1f24f211dc2a1fdd244bfb8f8d0172e8f08f2f9c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 12:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[102 页综述逐章精读：视频基础模型如何「读、写、共享、交互」世界]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8SC0QBbq4ZsPB3jibvDTj3bibGibLjo63UjiaY4wzutK4XWsadLzCxj0DBrGmOxjYbuBo12oF4jKS3WZiaNOkuCcO0mUc0rw7jo4KI/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读能回答视频问题、能生成流畅画面，是否意味着模型已经理解了世界？我们在这篇综述中给出的回答是：不一定，而且这两件事需要分开检验。 视频只是潜在动态世界的局部、有损、按时间排列的观测；真正需要检验的，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247666781&amp;idx=1&amp;sn=dd0ce25d5dfcf1ff35c618d402a22361&amp;chksm=97854a0e32adb0f5e54408e2fd97240a4374949e13d3c94215ce68f0c4387363fc3cb8999944&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW806mkicWVEnVnQZgbdJiaRnBjXJwn5qunviakJebgwwfN5FSkEnsHCTNKia5uictibiaIBWLgDRCAIic5LPF9eFEicdKfPRTUB34kPicgic0/640?wxtype=jpeg&amp;wxfrom=0"/><p>“千呼万唤始出来，犹抱琵琶半遮面”——这句诗恰如其分地道尽了当下视频生成大模型的现实痛点：用户输入提示词后，往往需要经历数分钟乃至数十分钟的漫长等待，最终只能被动接收一段无法即时干预的成品，与即时通讯</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665492&amp;idx=1&amp;sn=da8e65c8f9bd262508a92681c1fe2670&amp;chksm=97cdc622e5264ec211061961659392177911a0d804a61ab0a93fe663de2ec840634741fff0b0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 19 Sep 2026 23:45:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[单线程CPU破局神经图像编解码,126ms解码1080p!微软亚研院&amp;中科大开源极轻量图像编解码器PULSE]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW8WOmnvOoKuqHxiceZVPwp3l5Ll4lOiasAxBbWrxNnd3gumBhicl0c0073knzjdscaqZJJLMpFBI98fJpc89kMNHWiaPcmckpBRA10/640?wxtype=jpeg&amp;wxfrom=0"/><p>在神经图像压缩（LIC）领域，高压缩比与低算力消耗向来犹如“鱼与熊掌不可兼得”。近年学术界的前沿架构虽屡破率失真极限，但接收端动辄数百 kMAC/pixel 的庞大算力开销，使得解码在无独立加速卡的边</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665446&amp;idx=1&amp;sn=1ba87577a76a3ba3474082cd58036eda&amp;chksm=97492f76a2c2b8d4f1c38a03dcb201dce507aa7942505de2d3d4106967c17ba87c7571a259bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 18 Sep 2026 23:51:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ECCV 2026 最佳论文提名 | 石溪大学提出Poppy：冻结RGB大模型，偏振引导单目法线估计MAE直降26%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibsicDsQy0U5K26y0nvQxWibqsvS7uye9KeUVc6FbzXxjicdIWLPxT23b9icbhTRWcxsL0ERgWFuTgMg3Ff5ZsMGuKvqxeEdzMT02k/640?wxtype=jpeg&amp;wxfrom=0"/><p>在自然界中，蜜蜂与深海甲壳动物能凭借独特的“偏振视觉”，轻松看透水面波光与阴影伪装；而以 MoGe-2、Marigold 为代表的大模型，纵有海量 RGB 数据加持，面对强反光、纯色弱纹理和低反照率暗</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665393&amp;idx=1&amp;sn=9fe10a943b42427e591e55ef1a4f8976&amp;chksm=976f86061969b5a8f73eaf69f5a21fe557a76e76997337dcc1c97536462c0d9b822a57c3d871&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 17 Sep 2026 23:03:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
