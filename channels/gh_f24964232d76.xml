@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Claude 写了 90% 的代码，谁来 review？Claude Code 团队的代码评审流程（中英字幕）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbPPGhaQomCYdjlnMdNCL9qc0k7e13cHRuFnOQFpCu8Vh0gAjsYZLXGicSZrEAJURMQDJg9icI8af3icRoZ9nAT1aWiaHyHFgKAw68/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude 写了 Claude Code 约 90% 的代码，Anthropic 每天合并的改动从 2500 涨到 3 万多，连 git 都换成了自研的 Scion。这期讲 Claude Code</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532649&amp;idx=1&amp;sn=8bb5902e5abb9e277dff6f2562a91949&amp;chksm=9e48ac1bdb2725aaa954dc9d72497e4e6f1af5ec47e3996131b2e35f5f6fa2c32b34c5b9290a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 21:36:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PyTorch、JAX 的 softmax 藏了两个 bug：DeepMind 新论文讲解（中英字幕）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYkMT6AHns2VnYsB6p73kAOwLmic7eFYnGCEdibqGU9Z976qQ2bU7hWjsD2fkic0lqPdtdxdxGphdqehc8XmLaibeu4tgx8qgwu4QI/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepMind 新论文指出 PyTorch、JAX 里标准的 softmax 和交叉熵有两个数值 bug：模型很自信时正确类别的梯度被舍成 0（Softmax Collapse），蒸馏时学生贴近老师</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532642&amp;idx=1&amp;sn=b8b06965237e12690097341e87474e3f&amp;chksm=9ef44aba444d64f7150e5b55e723c703f2840688c39391b34816d3dc43b7cf955a144237e802&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZLD4RJHN6l82IWTlMRpG4V9HEQEEcecjHkaEqjRRb6jiaqsYrKwlYToIicNIskPBSZR5IW5RMtVEkgDX2sAosEBAVlmHicfcU45o/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：Flight Recorder: A New Lens for Understanding NCCL Watchdog Timeouts 原文地址：https://pytorch.org/blo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531676&amp;idx=1&amp;sn=2a05887c64f3282839861163acab8622&amp;chksm=9e816e7224f9bd49dc7800613e117a09cdca3443aaa9a4f02a58753c71ee13c1a34bb3d6644a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 22 Jun 2026 19:09:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Codex goal 代码解读：原生长任务目标的实现，以及它和 Humanize 1.0区别的一点理解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Kb5Nky2nQzTNKY6micWX9AchbvqpDuiaM5RMqkSaxu7bVNvpKwqBBWs0ichXmBl3Bq5dRyiapeiaIQPuBaLks8SjFlCHEHkoR5ErzBk/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面：本文对 Codex /goal 的源码（rust）阅读和分析由 Claude Opus 4.8 完成。我做的事情是给它指阅读方向、询问我感兴趣的细节（状态怎么存、续跑怎么触发、完成怎么判定、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531662&amp;idx=1&amp;sn=bbf4e5392b832ed00f0c9dffd889362a&amp;chksm=9e6e2b7883fc9b236c8513c8f44606d36148fb1d092ab1cd0df3327327702a9d72fe0d7eeb81&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 20 Jun 2026 14:15:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

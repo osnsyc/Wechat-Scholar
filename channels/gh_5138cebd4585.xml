@@ -10,6 +10,18 @@
       <title>gh_5138cebd4585</title>
     </image>
     <item>
+      <title><![CDATA[不同Harness的Agent Loop怎么做？Claude Code、Codex等6套方案详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeBKibDoqG6vnRxCibforfB3VrX4OAxS9KJCwIh3ub4C8U8DFa3lUsX1IZLVsaibRMEGfEYaHl9yUZf2rAqVicNG0eZy3EdVo9d54Pc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个看似简单的 Agent Loop，真正做成 Coding Agent 有多复杂？Agent Loop 的基本流程并不复杂。模型发起工具调用，Harness 执行后将结果返回给模型，模型再决定下一步</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247723690&amp;idx=1&amp;sn=45d9e380d52eef997f5c62db01f73888&amp;chksm=97d376cca0a39cb5e237f612a3a3c46726cd8ca07e40861bc7d86222d3d66276ff7bd8518b8a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 20:06:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[你的模型会剪辑吗？阿里、上交推出CutCraft，六大维度专测剪辑指令]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeDQK86pVr4TNfxcYln2nzYrsAjy7Qx69z291kCBTibrHsI8SyyRIu3ldFdGIFDZAgJGpSqGicgo31OziarJEphxEy0brnCNhxwfj0/300?wxtype=jpeg&amp;wxfrom=0"/><p>现如今多镜头音视频生成模型越来越强，生成的视频画面流畅、叙事看起来通顺。但画面连贯≠会做专业剪辑。很多 AI 视频可以产出观感丝滑的成片，却做不到基础剪辑要求：控制镜头数量与时长、实现、实现特定类型的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247723690&amp;idx=2&amp;sn=8ac5a894d395ee9d3f0115ebb53087ff&amp;chksm=9795fd2cbb9acb61c17c6deaf9db8d6642ade2b3cf8a1753ba813370b0c1d60dd2440b693da7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 20:06:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[华为三张算子榜被AI「屠」了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeCROMVZX3t0pCPaOBRT2Hia8V1Nbswe56qoCPwicaTrqVDicljNmkBaGbDzv5oxFibU3MiawnAjT7sadZcqXH545ZBQ3Pibo10sTNJ6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek 刚把推理框架开源，AI 就在相关算子上跑出了更快的实现，连底层 Kernel 优化也开始卷起来了。同样一款大模型、同样一块芯片，换一套更高效的底层算子，推理速度就可能拉开明显差距。D</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247723668&amp;idx=1&amp;sn=815a11fabadd6a665c82d84ddb95a50b&amp;chksm=976d52dc450ea53d5f8f78d2ec7864de3916437016910360f3ac4fc5e5c5b1c2d2368ea82696&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCCqzX0VfCNv8s3UMYhEnOWcic6qN1GiaEBiaia9iaxIafibBn4f3mTxicG41LHdDvx1qRlIWDFmTorzib2diadIt9GYCyhlY1juM6JIvRo/640?wxtype=jpeg&amp;wxfrom=0"/><p>访问官网，开启申报报名复制前往百度奖学金官网，PC端报名：https://scholarship.baidu.com如有疑问，欢迎通过邮件联系我们：scholarships@baidu.com手机端可</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722869&amp;idx=1&amp;sn=019b5fbcafb25fc486379f2bb25f3883&amp;chksm=9735803249890aba72e4a478283ceeb17540f33ebb1669bd6c2170603c8518e7a35125c990fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 14 Sep 2026 12:15:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[EMNLP 2026 | 从去噪动态入手，DynHD锁定扩散大语言模型幻觉]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/nFNzd9xjFeCcOYeibBZcdKpd1YjJmDVyt9BszpibRo89oUSShpFicdHcUCkq0wIFengZqb2gEVL2HNobOSAXGicvicqe9IKIzU2VgFduSZsIanHs/300?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，Diffusion Large Language Models（D-LLMs）逐渐成为自回归语言模型之外的一种新生成范式。与传统模型逐 token 生成不同，D-LLM 会从大量 mask 出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722869&amp;idx=2&amp;sn=185f8f4614839910cd6254fafb03a9c6&amp;chksm=9720180270f114e0eb02fd98a6867c83d35fcf83c2621a3a65084312087272dc3706cd509063&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 14 Sep 2026 12:15:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[做科研越来越像炒股：4万篇ICLR论文回测，追热点是对的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nFNzd9xjFeBiblvkhX17cIxlCnuILP3wcdfVjoibvxnCjjIrqXvm6sLDicttYlrssw6EE2cYWOnRoBjsDbVDNNFpzlqe7B4OdibFibgVzicZRiaNt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>十年 ICLR 数据里，热点会持续升温，录用红利却未必一直都在。©作者 | 鸭基米德单位 | 新加坡国立大学炒股有一个很出名的因子叫 momentum：过去几个月涨得好的股票，接下来一段时间大概率还会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&amp;mid=2247722830&amp;idx=1&amp;sn=95d3e4d03feadd3912d659e704aa9fa7&amp;chksm=97bc15bd9497d386db7e49c432a9a5b9adda661bc34de11f5bbce79444af2f36284a57723ae9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 13:40:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
