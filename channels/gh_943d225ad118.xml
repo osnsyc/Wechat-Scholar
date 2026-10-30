@@ -10,6 +10,12 @@
       <title>gh_943d225ad118</title>
     </image>
     <item>
+      <title><![CDATA[SFT、OPD 与困难样本：重新思考 RL 前的蒸馏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/LmjpBAklWpEZib0W0KAITOqlXjjPGRp6v4HjsmjcIKBoCc0VPMIzrPiaibxEsQ223mDg5kJ1DxKFlbZruvxBU8rLVkjzv51RfmIQ2dornAicowc/640?wxtype=jpeg&amp;wxfrom=0"/><p>开始之前，先思考一个问题：一道题，学生模型采样八次都做错，专家模型能做对。你会怎么让模型学会？继续跑 RL，还是拿专家解答做 SFT？如果只有对错奖励，这八条全错的回答在 GRPO 中优势都是零，本轮</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486638&amp;idx=1&amp;sn=e889212b54bcadf972a3d65848dd8b86&amp;chksm=c17a9f0349ed28661e339d433cccfa90cd4238bea39df96406b7a8b557b0776db221e973594c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Oct 2026 09:25:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大模型位置编码（PE）演进万字详解：从 Sinusoidal 到 RoPE，再到百万上下文]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/LmjpBAklWpHribWmDAIQdmOJKzQbuzVicAPGgPIpSxiamqhvLWC9jUYsiaJSXNy0wiarWYPqfHzibhsMBdHvIUuOONOsdD7TNOhicGFSyia5ezibUU8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>笔者最近在参与一个多模态项目的开发，需要处理图像和文本的混合输入。出于好奇，翻阅了 Qwen-VL 系列的实现源码，看到 MRoPE 把 head_dim 的频率对切成 T/H/W 三段分别旋转，觉得</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTkwMDY4Mw==&amp;mid=2247486633&amp;idx=1&amp;sn=8a6c4a4bef597e40d30ffe8bfc6c2e3e&amp;chksm=c1f94e02ec8f117e56ad503661b53be5979fc66edba24826c704564ae8a4ff6bb1a8a46b02fb&amp;scene=0&amp;xtrack=1#rd</link>

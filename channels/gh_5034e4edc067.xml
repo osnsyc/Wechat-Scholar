@@ -10,6 +10,18 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Agent 后训练学习指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvneExGHSeqGsqbGc5xJW2IR0RNySgKTjqWhUTbbtQwHw5PZd3piauCrwbGgnQKBNwBvmX2Pia3qjGIK3UU8v7xtvbUiayrpvcWdq0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hugging Face 的 Ben Burtenshaw、Sergio Paniego 和 merve 整理了这份 Agent 后训练学习指南。从监督微调到蒸馏、强化学习，再到真实环境与大规模训练，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456049&amp;idx=1&amp;sn=3a343aaf2e8103ee256940e65535993d&amp;chksm=bf3ccbb42ee4a0ed85746019b3a2ea7cd89263be44932414f371453f4aa96a944e2bcc066d84&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Oct 2026 10:23:15 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2026｜训练策略变强，推理就一定变强吗？MemoraX AI 联合天大、阿里提出 MIPI]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvn3WjWOnBUtgBFw26BRaZCExCWwl4u1ibdRC0hgQfgXT6EzQoOYw4FJczFCD2deNxcXkr6LfG5ynohj7E3GPFHrnU7QlKKwC4bE/300?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型强化学习（RL）中，训练过程的优化最终需要体现在模型的实际输出上。然而，训练引擎与推理引擎即使共享模型参数，也可能因为数值精度、解码实现和计算后端等差异，产生不同的输出概率分布。当训练端的更新</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456049&amp;idx=2&amp;sn=b8428e3f048a140ac140f0a1c85d22c7&amp;chksm=bfd606e02486d0a0f4a486dea6761a400147d078c8e4b44bfd8c9602fc00af31a8c50d94163b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Oct 2026 10:23:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Gemini 4 Carbon 登顶，谷歌又杀回来了！！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmp7aRjhUibVTgaIhicK8XsmznanIicXgLqgfVOoEVZmg0ibFBp89XmORibc6EOiaWpI0wTjq343ZXmutfxKpxVuewIDs6ibpVG3rOYW4/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天凌晨，Google DeepMind 发布 Gemini 4 Carbon。这次的新旗舰把重点放在自主编程、长程任务和网络安全上，刚亮相就登上 Artificial Analysis 综合智能榜第</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650455969&amp;idx=1&amp;sn=b74edf1dd0e30bd3becac1d2145e4cac&amp;chksm=bf6407ac2b8913f563fbde6ac015b26f2162769771b83841b0992d2d4b221b8e70ea512fcbdb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmiagEsxsT1jibEQ7sTO48Y5yU4uWbIL7V3QOgp1rTnGdPoictkQCFsbrQyKIlxhWoibtu3uPibk8WXPWs9mdPvz8D8BPZ8G2ibD9qMI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个长程 Agent 继续执行任务之前，往往要先读入已经积累的消息、代码、工具结果和日志。输入越来越长：⁠缓存未命中的部分要做 prefill，命中的部分也要保存和搬运。计算、HBM、SSD 容量和带</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454187&amp;idx=1&amp;sn=73df03e5b3d9389d62f86ef859dd7c42&amp;chksm=bf36c58a5d8bc77ac85749b46146630483c637be257d7cba41586ca62e9686f2ea2299385878&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 10 Sep 2026 17:32:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌 DeepMind 放出一张 1PB 基因图谱，90 亿种 DNA 变化全覆盖]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvk9VtPzv7gTE39NWZtAcZAlr8x2oJQMLy89KlIGWcgiaIOH27FqJsGLfDSge9bdhZD2YnwiaA8KrXwakjicMmsX337CTfy97icvYS4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google DeepMind 把约 90 亿种可能的单字母 DNA 变化的预测影响提前算好，放进了一个可以直接搜索的数据库。9 月 8 日发布的 AlphaGenome Atlas，让研究者可以在普</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454142&amp;idx=1&amp;sn=6285bb4e0dac422e9729d49881b43edb&amp;chksm=bf530184ed9216d0af5543025c68cd3dac3001fdec7b3590b7062d3c9849785d07ce3613c1d1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 22:03:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6 Astra 玩转 3D：从 Blender 建模到 Unreal 交互漫游]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkmdiczqiaXVE5cc2koHe0LCDo7zu86VZ8T2icH6fibuuJXJlvzhhKmvGuQJBa4XTWzYUicyBEMuCFte4wahJ3EItAtwHJibupyYYgnE/640?wxtype=jpeg&amp;wxfrom=0"/><p>没想到 GPT-6 Astra 这次最出圈的是用 Blender 玩 3D，各种教程和 demo 满天飞。OpenAI 开发者博客分享了 Thomas Ricouard 用 Astra 搭建 3D 住</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454097&amp;idx=1&amp;sn=d2f15607d3d0b05810e92383f3b180ed&amp;chksm=bf15b186c9f437b3175736483dc4047e9df3724a950ea778bf206b8025c69c3510f59aa05cda&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 09:37:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

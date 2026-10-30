@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[二值图上的毛刺和小孔，怎么用一把"探针"擦干净——形态学]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUPeCclg3icYR7LLxQKWaV4icLBfkR2DhRxWEYI1CbC7YAOd3M1SSY1oXhq4qkGr9G25N56CX3jhQyUuNykSn0uibWKJZ2xlM2KwZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>上一类做法（比如大津二值化）能把一张灰度图变成黑白两色的二值图：前景白、背景黑。但结果往往不干净——前景里混着几个黑色小孔，背景上散落着白色噪点，物体边缘毛毛糙糙，两个本该分开的物体被一条细线粘在了一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485832&amp;idx=1&amp;sn=504bfbd40c360cc876a655805171e7e3&amp;chksm=97e1cb19919390c78dba21092a8813299509f1ee04acfc06feb570db335937ca51b2b85ce25b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Oct 2026 08:15:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[在噪声中找一条直线，靠的是让每个点"投票"——霍夫变换]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUNvBx11pgqibg3bVUImWgtL9icmT8Ih8q9yRicr75H5HA20jq15RmJOjEvGas3ugfV3Jg1O1eWwhxN1Qd4fJUvU0jrK6yfoWoOmY0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一条直线，在理想情况下很容易找：两点确定一线，再验证其他点是不是也在上面。但真实图像不是理想情况——Canny 给你的是一堆边缘点，有真正属于直线的，有属于圆弧的，有噪声，有断裂，密密麻麻几百个点。你</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485831&amp;idx=1&amp;sn=a5d84580bbee1daf6c71af00f9169afc&amp;chksm=97b0392b87e5f41ced83d2b4bafe87fcfdb9cbd2c17167c7578738c5f52e77af1984208273a4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUPH6NkeZYO7dkXTwtwsAJjCtv6c0g7N4icRjOGyJUVk491rTYWZRA3GjLT7H8fTtYeXUntwKMnSslzuUVytlwI4xpOadwbzZloc/640?wxtype=jpeg&amp;wxfrom=0"/><p>你拿手机拍玻璃橱窗，画面里总有一层甩不掉的反光；仓库相机面对黑色塑料件和金属件，RGB 颜色、纹理都差不多，分类器却经常分错。偏振成像能提供一条普通 RGB 没有的物理线索：光的线偏振状态。这条线索通</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485364&amp;idx=1&amp;sn=6dd657a47db23537142d27cb8f11c98e&amp;chksm=9712ae7f9682483d2ad61d801474f70c80159a5b1d2a4ec1eb1c2bffe7611becf81585c757fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 09 Sep 2026 07:44:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[同一张色卡，换盏灯就变色：C²LUT 想把相机色彩校正从一条直线掰弯]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/swpukQFIAUP8GVFMn2FuLqZ0qlfYC7qeibzNTs8mCak2T0VfSuEsJwDMCWCaUpHibekYlP7hnaMibzzBL8DvYNDaQ7sI6PQpmhVHRvoYT11fLU/640?wxtype=jpeg&amp;wxfrom=0"/><p>同一块彩色卡片、同一台手机，白天放在窗边拍，红色可能往橙里跑；晚上搬到屋里，在暖光 LED 台灯下再拍一次，绿色又像蒙了层黄。要是旁边再开一圈 RGB 氛围灯、电竞灯带，或者直播补光灯，画面里的蓝和紫</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485363&amp;idx=1&amp;sn=59c5a9af891e1758312827e566b13268&amp;chksm=97f27ffb918e1a7a6e41718d7b303b13b2c2c4eaf09cd4379b5a0655c3ec6eb44e0893e307df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 08:00:40 +0800</pubDate>
     </item>
   </channel>
 </rss>
