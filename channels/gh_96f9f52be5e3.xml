@@ -10,6 +10,12 @@
       <title>gh_96f9f52be5e3</title>
     </image>
     <item>
+      <title><![CDATA[MMA-Sim：同一矩阵运算，为何不同 GPU 有精度和数值差异？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FkDx3ORhNPTREMlY1gfgZZ3T5nv235NLDOUP4MKNRkYbBVo1C5KiaAYysXHqAUE2ic7jIotJ3UDUhicjxZ0IMvHkCv9PnccjQN6hMDvzjCmUk8/640?wxtype=jpeg&amp;wxfrom=0"/><p>（本文阅读时间：16 分钟）同样的模型、同样的输入、同样的随机种子，换一块 GPU 运行，结果却可能不一样。在大模型时代，这类数值差异不只是工程上的小麻烦，还可能影响模型质量、实验可复现性和训练稳定性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&amp;mid=2649508937&amp;idx=1&amp;sn=d7f610fa97f8b8614a4030a84ed60074&amp;chksm=831ceafb756ee8ad810e47ac29d4d799ce018d7e7b92f5a91c261fecd36edcbc52d65fc6c55d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 29 Oct 2026 17:36:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agensh：探索 1,024 个 agent 的自组织协作]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FkDx3ORhNPRqRibnpNgkBHFRuucEGfj4g7AQdLWQNS4n7rv5hbda467Ksvf1m7v7KebWZZ3Uml5zQeZd4QJP3QgfibgR83Lia6MRribNnruPGN8/640?wxtype=jpeg&amp;wxfrom=0"/><p>（本文阅读时间：16 分钟）随着大语言模型能力的不断提升，AI 智能体（AI agent）正在从独立解决问题，走向多个智能体并行协作。然而，当智能体数量增长到几十个、几百个，乃至上千个时，如何高效组织</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&amp;mid=2649508917&amp;idx=1&amp;sn=ce4466afd1fed7a59a880c8898cff092&amp;chksm=83c9a4a14fabf805ec58521e77e11aac1562e041243d2a149d11de5d7f4cbb88a6ef077840e8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FkDx3ORhNPQKkQlibLmKV9vUqVgiabX1wk7Tia3KwuicQU4frbFNExUTa4se944qicZcrY5FYdkZ9pEg36hibFCRicrgydwxL9E3wQo7LqW3djlU2M/640?wxtype=jpeg&amp;wxfrom=0"/><p>（本文阅读时间：8 分钟）我们习惯了向AI提问宇宙的奥秘、代码的逻辑、生活的常识，但很少有人追问：当诚实与善良发生冲突，AI该如何选择？在缺少相关数据和信息的情境下，AI是否能做出符合人类普世价值观与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&amp;mid=2649507867&amp;idx=1&amp;sn=e68714ec3724987bf4ea74b04ee3e81d&amp;chksm=83e149dc73ce3971077f2f70751a91b49736248e46cd52c89d0278452174ea49284f8e3156bc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 17:03:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI解码脑疾病，开启精准诊疗新可能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FkDx3ORhNPQrcia5qRfv50UgwjlbabOomJYXrTicOE1NdV5zKYibcNFvKfQ8J1vSrpwXlFXHDq6zwLYnHUegVr94xwOcxhEHc3v3FBnsWMUqHU/640?wxtype=jpeg&amp;wxfrom=0"/><p>（本文阅读时间：10分钟）编者按：阿尔茨海默病、帕金森病等神经退行性疾病，长期面临早期难诊断、药物难入脑、病程难预测等挑战，困扰着无数患者与家庭。如今，人工智能的跨越式发展，正在为这一领域带来新突破。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&amp;mid=2649507860&amp;idx=1&amp;sn=7c432fc07cc80d7cb2159f8a61ba372b&amp;chksm=8323a5a075d89333eb05a3bbe5c5e91e6efd72cf2c2dede04580ffe7296ec4144a6164331295&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 18:11:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

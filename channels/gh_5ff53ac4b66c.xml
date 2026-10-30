@@ -10,6 +10,18 @@
       <title>gh_5ff53ac4b66c</title>
     </image>
     <item>
+      <title><![CDATA[DeepSeek Harness更新，直接调用Codex、Claude Code做任务！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIZj1BSN9O71LF9IUw2BvWyU1mbWhH3vvBC8YOwwETQO1OX4jKlOJCxiaxvWSPho53cWESSHI9o6S2EO0lH4p7T47sicw7Fpv8Y8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：林夕10月28日，DeepSeek Harness发布v0.2.2-alpha.2预发布版本，新增实验性 subagent_oar 工具，可将独立任务委派给本机的 Codex CL</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450020207&amp;idx=1&amp;sn=1fe6419f20e9fe25d0b8f0c471e3febc&amp;chksm=b0393865baad2a135ff8c19b9c309cb8ed154767fd6d87a962b41b7371ac7aa777da935fd697&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 29 Oct 2026 19:21:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[仅训练主智能体！NUS提出多Agent编排学习框架，让工作流随任务生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIZgylSiaB0fz2IImcRL14rsbM5AZzSKAafMuDiaGgZhF9FBEtel2iaRFycETgzXDmJ0cGFu7OwAuEnPP383jILEFfFkvHJgDbhHD4/300?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理论文作者投稿何时需要协作？如何分工、传递信息并验证结果？DynaFlow 将这些决策交给一个可训练的主智能体。面对一道数学题、一个科学问题或一项多跳检索任务，多智能体系统应该安排多少个角</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450020207&amp;idx=2&amp;sn=dfd2d1138c0c4367c6cde26158668a29&amp;chksm=b02704d9dff83a621d52215886ea30d39af61670745b50ec7d6ac0c05c74f3723938480886e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 29 Oct 2026 19:21:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[字节联合开源RSI统一实验底座，Agent自进化策略可搭配组合！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIba03VIjvMWzBWqcn3u1eg2nZUFoLF8ubECRc8RZBibsriaOfYyG76UbDxCTKtoFhfsGb5wVCqic2LicaQunkicdFwpBcTrGRS63FFc/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：林夕近日，字节跳动、上海交通大学、加州大学伯克利分校等机构联合提出开源框架RSIHub，将AHE、Hyperagents、A-Evolve和GEPA等进化方法，接入同一套执行与评测</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450020064&amp;idx=1&amp;sn=a02d6a851e3bd9d8c7ae4b267bd856bc&amp;chksm=b0441631bd6181d9ea44d2e9b3fd04e832393b3fb81b19b635df33de35ab087579b46bfd0586&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zJVQUll3YIZjt2icIvrTCn2a8QT7QlvibgmLbcRicum1JYdnHNpNrrMYsrQgT9KNT9lQhFchUyFwqAXM1PHkbFibwvb5vqUjo1Syywicbd9KwEt0/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：BugMaker8 月 21 日，RadixArk 发布并开源 Miles v0.1。它当时就已经把 SGLang 多轮 Rollout、完全异步 RL、TITO、MoE 路由重放</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450017251&amp;idx=1&amp;sn=e71d274d5d514af3d4b41c966c0ef2a8&amp;chksm=b07af0226af00b16a7f065d3f6cd94d956917ae55253fc51d746d3ad51b1fd3af3c5d8919c23&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 26 Sep 2026 11:19:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek Harness大更新，狂补工作台能力！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zJVQUll3YIZzGsvEkj3CjeicqMAytbcfiako5SOn0iaPCia2jBZW3513yp1IttcALRJaFRDp5us4wUCjdI8NUhwU9bcfXHq7JK12tIQeQ0V7Bu4/640?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：没方DeepSeek Harness 又迎来一波大更新。这次发布的是 0.1.7-rc.1，相比单纯增加几个新工具，这一版更明显的变化是 Web 端的整个 Agent 工作区正在被</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450017248&amp;idx=1&amp;sn=13a043c497aaa27a6074acf16f1a4249&amp;chksm=b051552e8fb7a548158734f98cf46b239d399c55e3cdaf6ab8c705125d7befcc023a4801b8f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Sep 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[上交大联合提出Draft-OPD方案，思考模型推测解码实现5倍无损加速！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zJVQUll3YIZ9KrjGTD2vFFhZb0bEIo1yibpqKkWRVbb5Ux7QYtHm3zrZxR4vTxaFIeIiaEQUhlLtYlyyKNGRGjgwG1ztuwoOKMYBk9dt23VoU/300?wxtype=jpeg&amp;wxfrom=0"/><p>智猩猩AI整理编辑：金水大模型推理成本越来越高，已成为推理链（CoT）与长文本时代的共识。投机解码（Speculative Decoding）是目前主流的加速方案之一，即用轻量草稿模型先“猜”一串 t</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&amp;mid=2450017248&amp;idx=2&amp;sn=cabd5cea7064ff868588bf8d448d84bc&amp;chksm=b03ce589ba82a2774f40f44a78170c874276c1414d3394719d55749c4b493c216c27de07dcb1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Sep 2026 13:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
