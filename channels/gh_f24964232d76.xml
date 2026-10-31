@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[逐火之旅，但主角是两个 Agent：Humanize 2 与 Flame Chase 技术解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka1ogiaAvwpDNuwHwey5wVFk46bWCElaKugZqywB5YhXwC8BkjWTKAicQiaBeoZaMqribG3js3FUecsiaTPiarHa3gHoVm5KgULnGExw/640?wxtype=jpeg&amp;wxfrom=0"/><p>上期讲了 Humanize，这期讲 Humanize 2 和其中的 Flame Chase（逐火之旅）。Humanize 2 把流程从 CLI 的 hook 里搬了出来，hmz 自己就是运行时，一个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532656&amp;idx=1&amp;sn=96bb04c0a57e98c7c7eb01e44047032a&amp;chksm=9ed82fa23ef34ea9af035bba0948f90bf0452d8c14be974eac66ba8a41e1b6733ba446c1d83f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 30 Oct 2026 17:55:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude 写了 90% 的代码，谁来 review？Claude Code 团队的代码评审流程（中英字幕）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbPPGhaQomCYdjlnMdNCL9qc0k7e13cHRuFnOQFpCu8Vh0gAjsYZLXGicSZrEAJURMQDJg9icI8af3icRoZ9nAT1aWiaHyHFgKAw68/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude 写了 Claude Code 约 90% 的代码，Anthropic 每天合并的改动从 2500 涨到 3 万多，连 git 都换成了自研的 Scion。这期讲 Claude Code</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532649&amp;idx=1&amp;sn=8bb5902e5abb9e277dff6f2562a91949&amp;chksm=9e48ac1bdb2725aaa954dc9d72497e4e6f1af5ec47e3996131b2e35f5f6fa2c32b34c5b9290a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KbkC8fARLjibdGCVhQOx76hhhhOoevpAEKgNgicyOUb1SWx7QhjiauC02D8y1OejHklLeic0lWG9WVK54TyFia0piaBsTuvcv9XJuIdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：SGLang Close to the Metal 原文地址：https://gestell.ai/article/sglang-compiled-output-review 作者：Gestel</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531681&amp;idx=1&amp;sn=3aec14d9c0225100cd5d49a099494f3b&amp;chksm=9e9af2a011be76f7495fc2d1e69a120f5c670169ea1cb743ac66596f8e83807e678d4d93e5d8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Jun 2026 16:31:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客翻译·译述】PyTorch Flight Recorder：理解 NCCL Watchdog Timeout 的新视角]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZLD4RJHN6l82IWTlMRpG4V9HEQEEcecjHkaEqjRRb6jiaqsYrKwlYToIicNIskPBSZR5IW5RMtVEkgDX2sAosEBAVlmHicfcU45o/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：Flight Recorder: A New Lens for Understanding NCCL Watchdog Timeouts 原文地址：https://pytorch.org/blo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531676&amp;idx=1&amp;sn=2a05887c64f3282839861163acab8622&amp;chksm=9e816e7224f9bd49dc7800613e117a09cdca3443aaa9a4f02a58753c71ee13c1a34bb3d6644a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Jun 2026 19:09:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
