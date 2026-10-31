@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[JustGoal：通用Agent跑赢专家库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI8cPJpRYJmR3bLibLIRWer5iaUWrrK7CDXAKsP2MT2tbMNglXXIOgknstpph898UVBAOb0aI04m8BYqZKcjooE5YzecOia5D84NWo/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型训练和推理的效率，往往取决于少数几个 GPU kernel，但高性能实现仍需要专家围绕硬件反复调优，耗时可达数周甚至数月。随着基础模型变强，一个关键问题浮现：专用 Kernel Agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486161&amp;idx=1&amp;sn=4ea755005b435a85934553915ea8aa60&amp;chksm=c098f8ccf05ff47afe3ae8a80fdf26520e480a767ccbee24f155d346b425755bb077358c5f41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 Oct 2026 10:03:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ResearchBoost：四项训练提速2.60倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaIicMvQrUfGvjet7QXDBp15rczqLC5T2tmJlBrhzKxJMWlzsPWU7HWOPTK26wxkAuViaxuMMt13bgDlRGwHianKiabfV29CgE29Aevo/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究代码里，一个 kernel 变快，并不等于端到端训练一定变快；数据等待、同步、通信和重复计算，都可能吃掉局部优化的收益。ResearchBoost 把这个问题作为 AI4AI 的切入点：让 Age</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486156&amp;idx=1&amp;sn=1566e4735b46c671b4a6a2ea8d0438af&amp;chksm=c02b99d3a6e052dbb58604da1de4a1320b0e7b55ae6113874b4caad53d9af5c532a7bd0285f1&amp;scene=0&amp;xtrack=1#rd</link>

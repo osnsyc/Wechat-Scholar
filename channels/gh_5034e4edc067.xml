@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Mistral Large 4 开放万亿参数权重，西方最强开源模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmYibHrib1qibdlgc4BOVibBpzHTm5Dsv90N6rb0MBFv7aG3IdFxvkVZ83PuvLN0j2vIcq54hwP5nDRh0mIg6taT2Y36rS6TCq2FNk/640?wxtype=jpeg&amp;wxfrom=0"/><p>这两天，法国 Mistral AI 放出了 Mistral Large 4 的权重。这个昵称叫 Le Chonk 的旗舰模型，本月初刚开放预览，经过三周追加训练，又把编程能力和推理效率往前推了一步。U</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456096&amp;idx=1&amp;sn=60cdc745fb978989b288901647051e32&amp;chksm=bf6b70031d0146f66545ef2a83322294d54922f47828638f53f36b8f7a4ffc9103bcd2b816ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 Oct 2026 11:15:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 后训练学习指南]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvneExGHSeqGsqbGc5xJW2IR0RNySgKTjqWhUTbbtQwHw5PZd3piauCrwbGgnQKBNwBvmX2Pia3qjGIK3UU8v7xtvbUiayrpvcWdq0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hugging Face 的 Ben Burtenshaw、Sergio Paniego 和 merve 整理了这份 Agent 后训练学习指南。从监督微调到蒸馏、强化学习，再到真实环境与大规模训练，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456049&amp;idx=1&amp;sn=3a343aaf2e8103ee256940e65535993d&amp;chksm=bf3ccbb42ee4a0ed85746019b3a2ea7cd89263be44932414f371453f4aa96a944e2bcc066d84&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnjLUeuLmpwLl2ibzBQicbNNsRDphv1Y6T9MaR7icgVnouJdMTyyZbXR2wN8g7wTO3mkp8DegIDe24YOosvMme5eplbW5CgFWibZuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我是一个三维建模小白。这次 GPT-6 Astra 的 3D 能力很吸引我：它能调用 Blender 搭建模型和场景，还能继续制作展示视频。我也想试试，一个零基础用户，靠描述需求究竟能做到哪一步。动手</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454273&amp;idx=1&amp;sn=ed878119a2e778cf6883c611c9f01527&amp;chksm=bfe7a756641c2e27fe1bde1baea2137c97531bbba78dcb8199b278ba8b7675201a3971ab5db4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 11 Sep 2026 19:52:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek-V4.1-Flash技术报告深度解读：长程 Agent 如何重新分配预算]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmiagEsxsT1jibEQ7sTO48Y5yU4uWbIL7V3QOgp1rTnGdPoictkQCFsbrQyKIlxhWoibtu3uPibk8WXPWs9mdPvz8D8BPZ8G2ibD9qMI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个长程 Agent 继续执行任务之前，往往要先读入已经积累的消息、代码、工具结果和日志。输入越来越长：⁠缓存未命中的部分要做 prefill，命中的部分也要保存和搬运。计算、HBM、SSD 容量和带</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454187&amp;idx=1&amp;sn=73df03e5b3d9389d62f86ef859dd7c42&amp;chksm=bf36c58a5d8bc77ac85749b46146630483c637be257d7cba41586ca62e9686f2ea2299385878&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 17:32:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
