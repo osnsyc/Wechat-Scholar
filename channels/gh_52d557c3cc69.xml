@@ -10,6 +10,12 @@
       <title>gh_52d557c3cc69</title>
     </image>
     <item>
+      <title><![CDATA[fuzzer 跑了万亿次都没抓到的 bug，被写数学证明的 Claude 抓住了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/n4iaQjlOL7qTOO0FmxIYAuiaiaze3TSEuVwUEKqDqiaNZdb01XCDuOtlTF6DQ9xmMaeGZwk84CIYVcZ8sc0Oltic2omkYqISzLg4Ka4COzxeDACA/640?wxtype=jpeg&amp;wxfrom=0"/><p>软件行业有个著名诅咒：seL4，人类历史上验证得最彻底的操作系统内核，写代码用了 2 人年，形式化验证用了 20 人年。空客的飞控代码值这个价，剩下的 99.99% 软件不值。所以形式化验证 40 年</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MzY5MzAyMw==&amp;mid=2247515273&amp;idx=1&amp;sn=ca534ae8f503519f642c432ab63e91ff&amp;chksm=ceaf11bf4ed999ace13e3018aff89941df54e0b7ebfb94b04640cb97df8bfe3a17c5ff47ba41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Nov 2026 09:10:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯混元把"记忆"三层全开源：一个只负责"写记忆"的 3B 激活小模型，跑赢了 Claude Opus 5]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/n4iaQjlOL7qRiaT9X4ulhWAv18TOiagrcQiaDlbs9ybLZKXyTl88ISpMoEcqicDO6MVomNSem8OMHbYow4jwIWh3N43WARFbKXWfs5lArXnXwAUE/640?wxtype=jpeg&amp;wxfrom=0"/><p>给 LLM agent 外挂长期记忆，这两年成了显学。Mem0、MemOS、A-MEM……框架一个接一个，但几乎所有框架都有一个共同的隐含假设：找一个通用大模型，配上框架特定的提示词，让它负责往记忆里</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MzY5MzAyMw==&amp;mid=2247515263&amp;idx=1&amp;sn=b890d5167aabadabbd7846f0065dd8db&amp;chksm=ce4f2a5d0b049ccbbb857da1d2edb9d19702f56a839954f47790f120789aed3a17dd369bfd8e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/n4iaQjlOL7qSAc5CdY1RicwQ4LoOHDxqIKv69ia2oT1eP9PLPGkv179HY1yZpTIS0uQIEqfzq9ViafcMmtqsNwsA24Voshh9iaHSIPqiae0McUfgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>交换实验、白熊效应与双跳推理本系列五篇① 当AI有了意识窗口② 给大脑装上探测器：Jacobian透镜③ 模型在想什么：言语报告与内部推理（本篇）④ 拔掉工作空间会怎样：消融实验⑤ 读懂AI的内心：安</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MzY5MzAyMw==&amp;mid=2247514706&amp;idx=1&amp;sn=4d69fcface9ca17e97886f1f22df55f2&amp;chksm=ce2785089f990ef73ea6fbdca2a24ee602552e8fc0a51db92d03617d9a7b2ee9d03f109fb7e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Jul 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给大脑装上探测器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/n4iaQjlOL7qQlugAPe37yWsFiczvstWS3eTNpfIZzvtQSTbjUMiaZt3icrF5fpeicNHLGCtT3fcPicJpqUVRoIibVaRq1RwbkeImL9av7x2KkBL4Ys/640?wxtype=jpeg&amp;wxfrom=0"/><p>从logit lens到J-lens的进化本系列五篇① 当AI有了意识窗口② 给大脑装上探测器：Jacobian透镜（本篇）③ 模型在想什么：言语报告与内部推理④ 拔掉工作空间会怎样：消融实验⑤ 读懂</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MzY5MzAyMw==&amp;mid=2247514702&amp;idx=1&amp;sn=e1f80aa33639a047b42241005ea34a0f&amp;chksm=cec702a1fd6f710a6880d3989b4887faa6ce2920494050af625b86a7ddf4a9fb2e905595045f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
