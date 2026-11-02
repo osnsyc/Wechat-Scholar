@@ -10,6 +10,12 @@
       <title>gh_52d557c3cc69</title>
     </image>
     <item>
+      <title><![CDATA[你的 agent 架构，是不是照抄了公司的组织架构图]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/n4iaQjlOL7qR1u66siaek04u3tuiciasVg9qvzbg8nxW2cuITy9nypadkf0QJMHIJd7MglMjntQH2a0q5Ju3X17BePibpVRnyZZblHN1DN2VVhSc/640?wxtype=jpeg&amp;wxfrom=0"/><p>这两年搭 agent，圈子里有种默契，subagent 越多，架构越高级。路由 agent、规划 agent、各领域专家 agent，上面再罩一个编排器。图画出来方框套方框，特别有安全感。10 月 2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MzY5MzAyMw==&amp;mid=2247515274&amp;idx=1&amp;sn=43814f2f006a903ebd07f19dac2352d2&amp;chksm=cee1810453b3a4cc759d5da9f12cac3d127b74e19c8e46f020a1eb2d030718652d0e81c67331&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[fuzzer 跑了万亿次都没抓到的 bug，被写数学证明的 Claude 抓住了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/n4iaQjlOL7qTOO0FmxIYAuiaiaze3TSEuVwUEKqDqiaNZdb01XCDuOtlTF6DQ9xmMaeGZwk84CIYVcZ8sc0Oltic2omkYqISzLg4Ka4COzxeDACA/640?wxtype=jpeg&amp;wxfrom=0"/><p>软件行业有个著名诅咒：seL4，人类历史上验证得最彻底的操作系统内核，写代码用了 2 人年，形式化验证用了 20 人年。空客的飞控代码值这个价，剩下的 99.99% 软件不值。所以形式化验证 40 年</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MzY5MzAyMw==&amp;mid=2247515273&amp;idx=1&amp;sn=ca534ae8f503519f642c432ab63e91ff&amp;chksm=ceaf11bf4ed999ace13e3018aff89941df54e0b7ebfb94b04640cb97df8bfe3a17c5ff47ba41&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/n4iaQjlOL7qQyzIcJpNLusq0RRXx5MdjhJ8nWuzgMj24iaWUOFKMdmC4zDohktZbCVaSJ6m9DicVBqHpFWyWn7cXZnR8jqicCayrJuuKYMQJn6Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>消融实验：自动处理不动，审慎处理崩塌本系列五篇① 当AI有了意识窗口② 给大脑装上探测器：Jacobian透镜③ 模型在想什么：言语报告与内部推理④ 拔掉工作空间会怎样：消融实验（本篇）⑤ 读懂AI的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MzY5MzAyMw==&amp;mid=2247514710&amp;idx=1&amp;sn=82e985114185c0ddbcb11922fcbdd7a3&amp;chksm=ceb769fd24a7d8b52288ea217debb4a5474109881608ad06ca41a1f981fef409e67c98f825c0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Jul 2026 13:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[模型在想什么]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/n4iaQjlOL7qSAc5CdY1RicwQ4LoOHDxqIKv69ia2oT1eP9PLPGkv179HY1yZpTIS0uQIEqfzq9ViafcMmtqsNwsA24Voshh9iaHSIPqiae0McUfgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>交换实验、白熊效应与双跳推理本系列五篇① 当AI有了意识窗口② 给大脑装上探测器：Jacobian透镜③ 模型在想什么：言语报告与内部推理（本篇）④ 拔掉工作空间会怎样：消融实验⑤ 读懂AI的内心：安</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MzY5MzAyMw==&amp;mid=2247514706&amp;idx=1&amp;sn=4d69fcface9ca17e97886f1f22df55f2&amp;chksm=ce2785089f990ef73ea6fbdca2a24ee602552e8fc0a51db92d03617d9a7b2ee9d03f109fb7e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
