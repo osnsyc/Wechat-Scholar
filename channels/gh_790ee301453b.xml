@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[自进化AI新突破！Meta提出「路由式持续学习」新架构：API成本可降低72%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDIibRzJIYWdlEoUaN5B76klicllhmicibza4z2pd3CxghudX0OtDAicF5AbCXic9CAVHSkiavlOvW4UUCNP86wtGZ9Ys04uiaYWuFpjiago/640?wxtype=jpeg&amp;wxfrom=0"/><p>面对相似任务时，让 agent 复用彼此积累的经验，是一种自然的思路。遗憾的是，并不存在一种在所有场景下都好用的经验保留方式，也无法提前知道某段经验会对哪些未来问题有帮助。对于持续运行的 agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247607220&amp;idx=1&amp;sn=ac410720b5726a148b36c1c5da7ebcd1&amp;chksm=ce315e5646fa8b251b6bdc0fe8d5fa1d307d6f90243de46ce848b2788bb414c47841079b5394&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Nov 2026 17:53:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[伯克利团队「Agent Teams」新研究：持续自进化，突破GPU内核优化局部最优]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDL4Ppia1G2WibQxAgEaXkTcxt9ick7Hv3dtRLTcXyiciaYPJCML05cUCq7tpthPFMWAqBawNQ8nDCP0aSMoODIT8TNicibfBqc7g6lXyU/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPU Kernel 优化，并不是简单地把一段可运行代码改得更快。面对真实生产环境中的 Kernel，coding agent 需要在硬件指令、内存布局、并行策略和整体架构之间反复探索，虽能在初期取得</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247607174&amp;idx=1&amp;sn=1e81d905959eaa157066362ec24fb75e&amp;chksm=ce25e9217a9b09b8d30c58bfbe14c939522c70cc22c9f8ed2e35aaec991556cefa7c09f4a9ee&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDL38jECBECLPVkUibdbsHfAMgSUaBBmticFEx4wKUEuaDOibnhKRfoaB46MPbpxsXuKziaIkZmicTrTnOLfnzda0ZIib9GhnFSdULkS4/640?wxtype=jpeg&amp;wxfrom=0"/><p>如何让交互式 Agent 能像人类一样学会“事后复盘”，更好地处理长程任务？如今，强化学习（RL）已经成为重要的后训练范式。然而，在长程 Agentic 学习中，基于结果的 RL 仍存在监督缺口：失败</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605993&amp;idx=1&amp;sn=cec98b8cc624906eba95c66f4364b757&amp;chksm=ce5778c768d1c7d968cc11bf92560ae108ac230577ec4303d1eb93268d802d89b5bba978a4cf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Jul 2026 11:58:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通用机器人迎来“珠峰级”考试：人类登顶满分，最强AI还在山脚]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDLWmwicBHwQXJ3HlUicLFLYiaE6wfHSmvT6b5icBaagfFib2a1zYStibx0HtIolVYdtxrrHwia4HiarPwoZxia7LbQ7T5MqdO0IKHxKWKWE/640?wxtype=jpeg&amp;wxfrom=0"/><p>具身智能时代，通用机器人策略距离“登顶”还有多远？现有基准仍难以回答这个问题。不少基准依赖简单、短程或技能范围狭窄的任务；仿真评估效率高、易扩展，但难以反映真实物理部署能力；真实世界评估更接近实际部署</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247605978&amp;idx=1&amp;sn=0119e2343331b09549553b5d90a13b71&amp;chksm=ce327d78d5ebd8958c10791c1f7fd3039a25d078c4ef9c30bd87f4ae09900530c0ebd67a74c9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
