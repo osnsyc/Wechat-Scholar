@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[都快2027年了，多模态还有什么值得研究？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KazPVwvzNNeZvkRze5pKNmzZ0icOdnFkXGemA40vZsJH19uma328ELo1HM0ehI6pLwPfELsn6I9qBd2kMiaN4uHWYibRNu85Dcu70/640?wxtype=jpeg&amp;wxfrom=0"/><p>多模态是一个特别容易陷入信息差的方向。很多时候，你没思路是因为始终局限在自己熟悉的那几个方向上。而多模态其实有很多值得关注的细分领域，从融合机制、模型架构到具体应用，不同技术路线之间也存在不少可以借鉴</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532686&amp;idx=1&amp;sn=ca1f4939cf8486869619b2a1eae4dd15&amp;chksm=9ec53b28fb4db0acfdb013fa5ac919aefd9427f1f3bca74c49881a4d721349d20225c525f071&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[做了一场 SGLang Review Agent 攻防实验]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYYcMXcyoibGs4AFaTNXpXgo1XHZzuQckX1q5HFiahK9n9gLiahibSdzvnCFLGRPicjaxicqvukW5wzEv2BM0oh6AQMumNszDn9qac7I/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周把一个 review PR 用的 agent 接进了 SGLang 的日常流程，想法很简单，PR 太多人看不过来，让 agent 先过一遍，低风险的PR Agent直接全流程接管了。结果四天里七十</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532691&amp;idx=1&amp;sn=dbaf5524b3d13453bac0f33baecaea21&amp;chksm=9eb09da40051be1833e89ccde98042d48e6fad516ebb9c278d727b21422577cfd7692f1bc2d7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYJTUtWYGmicrbKb3r8ic9lWF34XUQjKwkeem2ys3wmARt1d3FiaMWfx37A062jd8z3Y3iaoTKcrOhqqlEDBxy3rib5yMBKicCgZmwTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文翻译自 LMSYS Blog，原文 slug：2026-07-06-dspark-sglang。GitHub 原文在 lm-sys/lm-sys.github.io 仓库，路径为 blog/202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531707&amp;idx=1&amp;sn=ad061986d69d2abbfde6eb7c2a3d4f2c&amp;chksm=9e2c9502bb8190a09867a135fe14e17dfad8be41360749400a2bee31ef234f01472653bc1726&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Jul 2026 22:27:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用 Agent 助力 SGLang 开发的初步探索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYHJS81BRZYNau43LWhvdiaAv4p9tCx2VHSwEH6pdMdicO5sxQA7ia3WkJuVn4nZMeZpf0IhUlcOkZuRngAEicAf3gYORZrvocDVW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>使用 Agent 助力 SGLang 开发的初步探索日期：2026-07-02Agent-assisted SGLang developmentSGLang 开发越来越不像一次孤立的代码修改。一个仓库</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531695&amp;idx=1&amp;sn=49dd837ab01957c2d7b511ad4a69fb25&amp;chksm=9ed97bb169c6674c6e2ad84f234f8fdc8ffeefef6564f5cf3247f6dd476fb9dbc51be632dff5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 23:40:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
