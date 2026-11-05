@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[显存放不下的 MoE 大模型，消费级显卡怎么跑？SGLang Paged Experts 技术解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KaRWraHVualpRyl72ibsBSykXTdAG0kuPSGSGh1gouaiaKTqnKH7wibfye3pkabGuG3DvdTicuYWtPTsPCSCZ2j4kicHYciaYFAOjKhk/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 的 Paged Experts 让消费级显卡也能在本地跑显存放不下的 MoE 大模型：每层显存只放 K 个常用专家，全部专家放在锁页内存里，缺哪个搬哪个，计算一直在 GPU 上。视频用一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532698&amp;idx=1&amp;sn=2b34dd923bb1c03a41492a245a3f9c15&amp;chksm=9ee433db0778c369946f179d6929aee6c570572c4e173cc2a3842c7fb917c82279d7fee05290&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[都快2027年了，多模态还有什么值得研究？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KazPVwvzNNeZvkRze5pKNmzZ0icOdnFkXGemA40vZsJH19uma328ELo1HM0ehI6pLwPfELsn6I9qBd2kMiaN4uHWYibRNu85Dcu70/640?wxtype=jpeg&amp;wxfrom=0"/><p>多模态是一个特别容易陷入信息差的方向。很多时候，你没思路是因为始终局限在自己熟悉的那几个方向上。而多模态其实有很多值得关注的细分领域，从融合机制、模型架构到具体应用，不同技术路线之间也存在不少可以借鉴</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532686&amp;idx=1&amp;sn=ca1f4939cf8486869619b2a1eae4dd15&amp;chksm=9ec53b28fb4db0acfdb013fa5ac919aefd9427f1f3bca74c49881a4d721349d20225c525f071&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZJXumVjyDH362t6jlnNNy24nGUFlQObgfAKRwE52mqqib7ibPeFexzIqDUGTUDkAKZEv5lXyBK7aysFmctyTrTkCRacYeCRpDsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎 https://www.zhihu.com/column/c_1938664963049763058 专栏笔记转载，已获作者授权CUTLASS 笔记：导读本 CUTLASS 笔记系列将从一个最小</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531846&amp;idx=1&amp;sn=305cc2a541d85e849c3ea700189662e5&amp;chksm=9ef14c9a51d1b0a7d9f469078a8e5c533020daa30c7849882251aaeac50456eaf9cd29321a42&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Jul 2026 21:17:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang 中的 DSpark：置信度驱动、可变长度验证的推测解码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYJTUtWYGmicrbKb3r8ic9lWF34XUQjKwkeem2ys3wmARt1d3FiaMWfx37A062jd8z3Y3iaoTKcrOhqqlEDBxy3rib5yMBKicCgZmwTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文翻译自 LMSYS Blog，原文 slug：2026-07-06-dspark-sglang。GitHub 原文在 lm-sys/lm-sys.github.io 仓库，路径为 blog/202</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531707&amp;idx=1&amp;sn=ad061986d69d2abbfde6eb7c2a3d4f2c&amp;chksm=9e2c9502bb8190a09867a135fe14e17dfad8be41360749400a2bee31ef234f01472653bc1726&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Jul 2026 22:27:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
