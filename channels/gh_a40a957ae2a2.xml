@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[一张截图，直接续出《影之刃零》3A级过场，这个模型有点东西。。。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeROQ4gzMGhYBAkyQBtvQNHOlMyR6CMH6Djx2DSHiby1TH4XJ00FGwqwjpnzRTvzfC59AHf12J1H5MyjsUG0eicyuGcBNN9cRFaZSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。这是我就拿《影之刃零》的一张截图，加了一句话，做的视频，是不是很逼真。第一眼看到的时候，我还以为他下载了一个游戏唬我呢？整体的音乐、画面、运镜全部都是模型自己驱动生成，还真有点</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247504550&amp;idx=1&amp;sn=81c720997a00ec7f1accf340a3b7f6a3&amp;chksm=ceeb8862338d5e0ebaea6d55ce050a6bc4461bc7b62c745e932c779f2eb6688ff7c016defc79&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Nov 2026 14:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Hy4正式版 + WorkBuddy，直接拿大结果。。。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRMIE6ILd89UPeibpjicFczVZ0KfLykFKwjNTI9vZrjPpicUMzG1cfj2701EcC4TMZWHZlRIKOIgbkRqdVOUxGxpuiakZjxlSobnBK4/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。混元Hy4终于发布正式版本，距离Hy4 preview开源已经过去2个多月了，第一时间测试完之后，发现，后训练的神易主了，原来可能是GLM，现在只能给到Hy了，真没想到混元Hy</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247504495&amp;idx=1&amp;sn=8ad4d6456a493d35673500e16f3ed0f9&amp;chksm=ce1179504e0b102d93f7d0b271a255f67f2121cec6d7e0cbbc5bc39b6832a7857d69076ad02d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRMnqnQYSL1ZcTHUYBySWZ10pMD9c9Uib29vWm03qlN5uGyvle03fe7xWppWUH7F7V6mMePHiaib57b5j4a1UTsMbY631Zib4qrJwd4/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。昨天发现了一个宝藏视频编辑模型-JoyAI-Video-Edit，是京东开源，没想到吧。注意，它做的是流式视频编辑。摄像头画面一边进来，模型就可以直接根据文本指令来修改视频呈现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501457&amp;idx=1&amp;sn=4509d8d7b72c8123b6bc8a4803a16c6c&amp;chksm=ce01a9ae25e930d20f926f102d775dce9e78431d7890a726d6bef7bc8623308059571f66b2cf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Aug 2026 21:26:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5亿Token使用后的真实感受。 早上看了一下DeepSeek-V4-Flash在OpenRouter上把霸榜好久的MiMo-V2.5挤下去，周使用量是6.92T tokens。 最近几天，我差不多烧了5亿Token，在不同场景中测试了一下DeepSeek-V4-Flash正式版的， 说一下结论： 相比Preview，Flash正式版的Token消耗明显变大了，主要思考内容更长更久，但得益于单价和缓存命中，相比于其他第一梯队的模型依然便宜得有些离谱。 复杂工程上，面对跨模块重构、模糊故障定位这些，能干，但经常会沿着错误方向连续推进，虽然榜单上超过GLM5.2，但我一些复杂场景，还是5.2效果更好，不过5.2贵呀。 视觉审美相较于之前有提高，比如做网页、游戏或者UI时，但比现在国内顶尖的原生多模态模型K3、Qwen3.8还是有差距的，比如在复现一些复杂3D渲染的时候，效果不如这些模型。 我还是觉得没有原生视觉模块，靠外部的理解，转成文本描述，中间是存在信息Gap的。 想说，DeepSeek在做多模态这一块一直挺一般的，识图模式我有试过，<a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="msff373l-4bfkdh" target="_blank" href="https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247500431&amp;idx=1&amp;sn=c33d0aa05d454798bb42b69b429d37e7&amp;scene=21#wechat_redirect">DeepSeek睁眼看世界了？闭上也行。</a> 梁圣自己说，多模态对产品和C端用户非常重要，但对于智能上限而言，不是当前智能演进的主线。 可能追求AGI的DS，可能更多精力在纯文本模型上？也可能本质原因是没有那么显卡资源？ 但是，现在真正干活时，很多人已经离不开多模态了。 页面出Bug，直接截张图；样式不对，直接圈出来把参考界面扔进去。谁还愿意花几分钟，把按钮偏了多少、颜色哪里不对、布局哪里塌了全部描述一遍？ 所以，V4 Flash正式版能不能到夯？ 我的答案是： 考虑到性价比，绝对夯得不能再夯，绝对斩杀一众模型， 但绝对能力、复杂工程上，仍然还不够， 也许V4 Pro正式版，能打爆现有的第一梯队模型吧～ 已经十分期待了。 PS：DeepSeek官方缓存命中真是太夸张了，在Agent时代，超长context需要复用，缓存命中决定了真实百万Token的真实消耗， 这可能就是昨天橘子老师说的，其他厂商的DeepSeek价格是官方10倍的原因之一吧～]]></title>
-      <description><![CDATA[<p>5亿Token使用后的真实感受。 早上看了一下DeepSeek-V4-Flash在OpenRouter上把霸榜好久的MiMo-V2.5挤下去，周使用量是6.92T tokens。 最近几天，我差不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501405&amp;idx=1&amp;sn=bd8f7bfed2041bb575e17bac1e029b82&amp;chksm=cea65d222bf64a706a32d51921de12080bedf1ebf3a57e54d9672eb6257ba00ff90ec4589e27&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Aug 2026 13:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
