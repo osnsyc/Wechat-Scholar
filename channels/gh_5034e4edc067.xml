@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Kimi K3.1 Pro 正式开源，2.8万亿旗舰用上 DeepSeek Sparse Attention]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvn9ICBw71lBu22zhicibybLRxYWiaiaM9ozPOPldkCzxBvdetmU1hlrOpCOXqxAlKdDx9TibquKicp7iaANtELNo1SOSXIOPP0gtPHVR8/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天凌晨，月之暗面放出了 Kimi K3.1 Pro 的完整模型权重，vLLM 同步提供 Day-0 支持。此前已经在 Kimi、Kimi Code 和 API 里用上的这款旗舰，现在可以下载到自己的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456418&amp;idx=1&amp;sn=852a78c85e98da09e9c910f447f42226&amp;chksm=bf40df8f8238916b7aa2d730ef4da484cb413b2785dc62b89021f14aa418d1d3571f2e869231&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Nov 2026 11:20:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT-6 Astra 直接改千问权重，数学成绩变成 6 倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlxegicznficm5vBzenEUkjXKH2sBvJeuKTh91pNZoGamfGIluPicxib86vC2MNTnJMnZ9d82iceUiboqzn1ab80hv9ic3Mo1IibrBApSU/640?wxtype=jpeg&amp;wxfrom=0"/><p>MIT CSAIL 团队最近让 GPT-6 Astra 做了一件挺大胆的事：直接打开千问 Qwen3.5-0.8B 的权重，找问题，再动手改。不用梯度下降，也不允许写训练循环。最后，Astra 改了约</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456351&amp;idx=1&amp;sn=c5d24d5bf8de0bb26b0e0cfcb2e18348&amp;chksm=bfd4bbeaa2608f136ecfb3b031aad2cb1ae6c05441cb9d9223ee25636fa104f49d18917c8e8b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmGNVw2RLcOEmdc7P9SiabMhnRwNREoNm2bNY1zWGXgGCIr92ssNLHcXDJRAs771icficqibSNia0FNIHLrP9DxH58fZntIBqkC0OlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章由苏神发表于科学空间，尝试从数据误差、优化误差和架构误差三个角度理解 Scaling Law，并串起学习率、批大小、模型规模与训练数据之间的关系。对于想弄清“模型该做多大、数据该用多少、训练预</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454411&amp;idx=1&amp;sn=623c47a25179de44c14da4ef42f88750&amp;chksm=bf1831a47f6670b544bcb65cb6a68777d28c83e9a93e3bcce9b5bb218d9deb2566b818486f44&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 16 Sep 2026 21:03:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字长文读懂 RSI]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlua1kh6klubiaaCrvutffmbRnCrlY0wCW8Tpeu3D3oRXl0l0iaclof8XQUhFZtxAkugQrZ5oNcQbdBFTVl5uDTRyiaE1Dic4AJHXc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Prism-Shadow 的 Awesome RSI 项目，整理了递归自我改进（RSI）相关的方法、系统和评测基准，并提供可浏览、筛选、比较的研究图谱。下面这篇中文导读来自该项目，从改进对象、更新方式</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454389&amp;idx=1&amp;sn=1c243e38c29f80b7e9fd1cd73e8fa7ca&amp;chksm=bfd89243d6d001c48919e2570f05d3a8e597f1f5d94d5032e9deb831824e4d31359dedb700cf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 15 Sep 2026 20:01:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
