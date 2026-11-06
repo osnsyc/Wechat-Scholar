@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[让 Agent 写出快的 CUDA kernel：先估算、读 SASS、公平对比 | SGLang PR 讲解（中英字幕）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Kb3yYAjTBWApheVW3xUEPxB4OMBdLCZy0yvfSicwGZZSbWTibXL1xtO1e8fwaFt5n83B3XwRmS30e1cZF30Ok3GpbX7UWTR8JF5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 有一份教编程 Agent 写 JIT kernel 的 skill，PR 48380 给它加了一页 CUDA 性能指南。视频按指南的顺序讲：先按形状估出 kernel 时间的下限，再对照</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532705&amp;idx=1&amp;sn=28fa63eb31e8fa162ba51f7b14fc1c77&amp;chksm=9ef8015385a50cbc2144f2e0a50e4ce1dac947de20858bdd734c791d719d749bfc9714549fa3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 09:28:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[显存放不下的 MoE 大模型，消费级显卡怎么跑？SGLang Paged Experts 技术解读]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KaRWraHVualpRyl72ibsBSykXTdAG0kuPSGSGh1gouaiaKTqnKH7wibfye3pkabGuG3DvdTicuYWtPTsPCSCZ2j4kicHYciaYFAOjKhk/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 的 Paged Experts 让消费级显卡也能在本地跑显存放不下的 MoE 大模型：每层显存只放 K 个常用专家，全部专家放在锁页内存里，缺哪个搬哪个，计算一直在 GPU 上。视频用一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532698&amp;idx=1&amp;sn=2b34dd923bb1c03a41492a245a3f9c15&amp;chksm=9ee433db0778c369946f179d6929aee6c570572c4e173cc2a3842c7fb917c82279d7fee05290&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaAonx5nBicHqDDlHZY4qBkgRNPvmDQsUwY9pSgYZFUoJibY7BA4alIYqV7Hbz7SriaAmT2IwhW5S1zicALQkk8AHSgCYRebR1DBibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎 https://www.zhihu.com/column/c_1938664963049763058 专栏笔记转载，已获作者授权CUTLASS 笔记 (7)：Swizzling本篇主要介绍 SM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531985&amp;idx=1&amp;sn=3cc09222457ff7d72e2902119d2525e9&amp;chksm=9edaf219d837b460aa99ff02442c55a441960e63772044d979b899a57a7c662659cc14c8751e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 18:59:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CUTLASS 笔记上半部分（转载）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZJXumVjyDH362t6jlnNNy24nGUFlQObgfAKRwE52mqqib7ibPeFexzIqDUGTUDkAKZEv5lXyBK7aysFmctyTrTkCRacYeCRpDsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎 https://www.zhihu.com/column/c_1938664963049763058 专栏笔记转载，已获作者授权CUTLASS 笔记：导读本 CUTLASS 笔记系列将从一个最小</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531846&amp;idx=1&amp;sn=305cc2a541d85e849c3ea700189662e5&amp;chksm=9ef14c9a51d1b0a7d9f469078a8e5c533020daa30c7849882251aaeac50456eaf9cd29321a42&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 21:17:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

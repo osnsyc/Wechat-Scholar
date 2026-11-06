@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[GPT-6.2 没来，GPT-6 Cyber 来了，主打安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkmGvBTaPMP3QwZDHb7nbxa1sKer3UdvLaKHiaMfxkUxaib37K6H0RoeooI955gq73A3lGvFLeFapO3WNQGibhiaExRoRnQ0ht0T8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>这两天推上盛传 GPT-6.2 Sol 和 Astra 发布，结果今天它们没来。来的却是GPT-6 Cyber，一个基于 GPT-6 Astra、专门面向安全研究的模型：查找漏洞、验证利用方式、提出修</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456496&amp;idx=1&amp;sn=51ad0964b6a46557a35edfbd1036149a&amp;chksm=bfe91c8530d5caa41b9a34e08f56b5cf0acaa13e85bb698b7c713f18216feaf760c35b236497&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 10:36:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi K3.1 Pro 正式开源，2.8万亿旗舰用上 DeepSeek Sparse Attention]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvn9ICBw71lBu22zhicibybLRxYWiaiaM9ozPOPldkCzxBvdetmU1hlrOpCOXqxAlKdDx9TibquKicp7iaANtELNo1SOSXIOPP0gtPHVR8/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天凌晨，月之暗面放出了 Kimi K3.1 Pro 的完整模型权重，vLLM 同步提供 Day-0 支持。此前已经在 Kimi、Kimi Code 和 API 里用上的这款旗舰，现在可以下载到自己的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456418&amp;idx=1&amp;sn=852a78c85e98da09e9c910f447f42226&amp;chksm=bf40df8f8238916b7aa2d730ef4da484cb413b2785dc62b89021f14aa418d1d3571f2e869231&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlQcSGib5mibBBA7Ch9Kz8ibwypRAM75R3DZiaRxlDcicBwaQINibHtYJPNcgvJR4rYDvbNvVgdaIjPiamQnia8GOK5Rn7j9UAFDAfdtGo/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，智谱发文披露，GLM-5.3 驱动的 Infra Agent，参与优化了承载 GLM-5.3-Flash 的推理系统。工程师与 Agent 共同推进，让模型从初始适配到生产就绪用了不到两周，端到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454438&amp;idx=1&amp;sn=675aee8a85a92c142e32475a835ec257&amp;chksm=bf110b2543e055bbe3c3831f07d9c9ef16d1769d23a7bbd35b847ab2433ae055cf585c33ea24&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 17 Sep 2026 21:40:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苏剑林解构Scaling Law：优化、架构、数据的三重奏]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvmGNVw2RLcOEmdc7P9SiabMhnRwNREoNm2bNY1zWGXgGCIr92ssNLHcXDJRAs771icficqibSNia0FNIHLrP9DxH58fZntIBqkC0OlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章由苏神发表于科学空间，尝试从数据误差、优化误差和架构误差三个角度理解 Scaling Law，并串起学习率、批大小、模型规模与训练数据之间的关系。对于想弄清“模型该做多大、数据该用多少、训练预</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454411&amp;idx=1&amp;sn=623c47a25179de44c14da4ef42f88750&amp;chksm=bf1831a47f6670b544bcb65cb6a68777d28c83e9a93e3bcce9b5bb218d9deb2566b818486f44&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 16 Sep 2026 21:03:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
