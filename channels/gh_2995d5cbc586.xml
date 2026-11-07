@@ -10,6 +10,18 @@
       <title>gh_2995d5cbc586</title>
     </image>
     <item>
+      <title><![CDATA[双目相机怎么测距？视差、深度计算与标定精度，关键到底在哪一步]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4g3EZJRH16AGq0ml3JJaDHG9sIvuCt1UdOSBo909Vwn7icx0AmbFDxhPgdG4YhRicqKP3OkiaDJGBxAs0DQZNibEibacbO4nJG3LibM8/640?wxtype=jpeg&amp;wxfrom=0"/><p>双目相机测距的核心逻辑并不复杂：视差是物理原理，深度公式是数学基础，而标定精度才是整套系统性能的底座。深度计算公式为Z=f×B /d（Z为深度，f为焦距，B为基线，d为视差）。由此可以直观看到三个核心</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752946&amp;idx=1&amp;sn=f9971290dbdddfd485edf6821997dd6c&amp;chksm=fa9084fa928128d3b9ba78b68c48cc4c97a07069dc8a68e5ec53c302901e5ca53c9c3e37dd65&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[重磅开源 | 端到端自动驾驶屠榜，首次研究交通信号对规划器的影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4iatf4OBkb7ibxWzlWW0YBpFD3t3Z0Uu4TXltv9FJX1N1yZq1771BW5fTqJ971hBuX4SsG430VEib36eAtWl87e1opKggfk16XCtE/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械臂抓取和焊接软件，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752946&amp;idx=2&amp;sn=46e353ace7586de288d2a8a88177802e&amp;chksm=faaa75de6a52443b37682e28e21789fcfb4fe56e5a6718946ae115408e6b2e7ec04a25ee3be8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[张正友标定、九点标定、手眼标定到底怎么选？选错层级，精度从一开始就是歪的]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4g3JFdRF0FN76ibgpLDu83ibX9xmUM4yic8pYjqicalIvRfqaYIsR5LgUCu89LmHZG6HxYgzJibs1ccWOiaw3JNOPj9Uoj6GQ3YL2y6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>张正友标定、九点标定与手眼标定并不是并列替代关系，而是从底层光学校正到跨系统协同的层层递进：张正友标定是所有视觉系统的成像精度基础，九点标定是平面抓取场景的轻量化坐标对齐方案，手眼标定则是覆盖二维到三</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752927&amp;idx=1&amp;sn=0e31989166ac46190aa1134a02bf7193&amp;chksm=fac848bf1888523a5564ee466adc7ad767d526b5b9ec1affe6539f42e63ab41d1efd59ee3191&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ysw15j4FS4g6s155PV3cV6mWbJ4qOOXRlKiaxcUyRibZZq13xAMcia59Xf1uib8qVjILRG4ibHOLE2TIIFk0Gq4Y81zWNURdiabHFTrHLqncanI3A/300?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达来源：3D视觉工坊3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械臂抓取和焊接软件，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752137&amp;idx=2&amp;sn=2aac1f9741a4acc2bacea78616d20f6e&amp;chksm=fabc84690130a21138639ff41d96efb9c230c0af8068bedf1710d6b6b2ca841d08cc43f210af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Oct 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS'26 Spotlight | 哈佛重磅开源MoSE3：从3DoF到6DoF，每个像素都能给出刚体位姿]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4jkOHMMoStQEVicj5EUmwibJJkKeicIrBqSnI8cCtDdKicwlhFsvnnI9KS2XY3CNngOOvLZP9eEsVvzlV6xESLwoaIQBMWqoXFpHlE/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击下方卡片，关注「3D视觉工坊」公众号选择星标，干货第一时间送达3D视觉硬件汇总，包括结构光3D相机(支持室内外，焊接，机械臂抓取等场景)，相位偏折术、散斑、机械臂抓取和焊接软件，手持扫描仪(支持定</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752042&amp;idx=1&amp;sn=7977a757b2ae62357188f4d8df8aa259&amp;chksm=fa2c5a79a21bfd4a2ace4b69f85cf729b2a2c448a115adb1bc75a5bb883b3243e84d60da2038&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苏州三迪斯维！SD-M系列！三合一高精度结构光3D相机！支持户外和焊接场景！支持面阵扫描、摆动线扫和固定线扫三种模式！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ysw15j4FS4gaIP9jYjktoxXYo3luyaibRNSLN56LJVOib9XJRvCOZ04ribzhkL8ibe80ODRtRckbpu9ybGN4ov8vHcuaXzpJGncy29SgCTUdkP8/300?wxtype=jpeg&amp;wxfrom=0"/><p>一 产品介绍苏州三迪斯维出品的SD-M系列三合一3D相机采用主动结构光技术，拍摄速度快、成像精细、方案成熟稳定，针对不同应用场景物体可输出高质量点云数据图，精度高、速度快、环境自适应性强。支持室内外高</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&amp;mid=2247752042&amp;idx=2&amp;sn=93e981023edaf41f1e6eeb5a35f32aee&amp;chksm=fafb44482d5647845cc652a110bf77e80b9685ceda8a4bc6e27b6f3e46d57f47b076764ada1d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

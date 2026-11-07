@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[让模型学会图文并茂地表达：南大联合美团LongCat提出IntReal，从真实数据、细粒度评测到训练优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibuASG7bo7pufDZQNlSJv5TRu8piaZRpmQqEWeo7IqaOUTvnTrPDYeLC9xExmENia3zSLSiblW9ZbRNnViaDuBvicxj7meDb9dEk7bU/640?wxtype=jpeg&amp;wxfrom=0"/><p>现有的统一多模态模型（UMMs）已经具备了生成图像与文本的能力，但如何让它们在真实场景中图文并茂地讲故事、写教程、做旅行攻略？随着文本与图像生成、图像编辑能力的不断提升，图文交错生成正成为统一多模态模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247667082&amp;idx=1&amp;sn=64a62797b53f58be1be246e628a342a9&amp;chksm=97930b9592613b892bbb036a057ef9d2a655196b567ca25fb5459ecabdd430dc3a2f3e71108b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 22:26:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NeurIPS 2026 让医学多智能体学会"何时协作"]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGWib0H31eojXBiaDHBPjkjoCMueNhJnRibtU96GX0sbsQtMvkF9G60I36CgvxtqH7CBoMBHzFSxk2XFAXBY9Mn7k9Bn9G5rZTmb5dQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，多智能体系统（Multi-Agent System, MAS）在医学视觉问答（MedVQA）和多模态医学推理中表现亮眼：多个大模型扮演不同科室的专家，通过多轮讨论共同给出诊断。然而，这类系统想</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247667004&amp;idx=1&amp;sn=5a13157b9336abf9e0216f5b44697622&amp;chksm=97a31cfc248ec798a486ec69904fc24de9a8ad5a6e3c60913a4109764535da5372a6ea794609&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8hjOCdCAicQiaJ5kqz1YvzIiaUoUogtIRaXl7xSgPqicHST8rRgDVq33ibZft5ibAJmcqgyia636icC9HbbydoKpj4cd7Oyt5gT5WJiaGM/640?wxtype=jpeg&amp;wxfrom=0"/><p>在计算机视觉的高分辨率密集感知场景中，二次计算复杂度一直是 Softmax 全局注意力的绕不开的瓶颈——随图像 Token 激增的计算与显存开销如同沉重镣铐，让边缘端部署的“极致精度”与“实时吞吐”常</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665892&amp;idx=1&amp;sn=996f48f67880a4580cd33b4910c1b2ca&amp;chksm=97495a6b23dc51e7525f7c6950837ff397b53219fed1b6cfddc540e69ed2fccbb6358a1a49b5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 04 Oct 2026 23:25:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[上海交大&amp;帝国理工等提出TurboClear：单步消除物体与伴生阴影，算力骤降40倍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8pWlqPyfoJ26cGFaOBqBkiaWtRG7o7aPND6NFiaB8a9JrF4f37IicHWTzHjCktFaasLGBHk0BOpu5DQx5ib4USkusUbcbhJnXIib9Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实图像编辑中，擦除一个物体从来不仅是涂抹掉物体轮廓本身。物体投射在地面的阴影、水面的倒影或半透明玻璃的折射痕迹，往往会蔓延至常规涂抹掩码之外。如果模型只按掩码消除，往往会在边缘留下显眼的倒影残渣；</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247665871&amp;idx=1&amp;sn=e0a74b99f2411744f235d18d33bc79fd&amp;chksm=978ceddcd9ce80fb05b4b806fc3d231e88fb3cca9f2826bbdebc9117cddf7920fc54b5c8c6f4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 Oct 2026 23:15:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
