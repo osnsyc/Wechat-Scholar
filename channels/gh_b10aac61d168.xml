@@ -10,6 +10,36 @@
       <title>gh_b10aac61d168</title>
     </image>
     <item>
+      <title><![CDATA[摸起来又软又暖！帝国理工、MIT把软硬和冷热装进同一块触觉面板]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdUvV9VBQFiaVSBrjzEZZrbgjqOanl8Ucp8w4KibjUezHC8JWVgiayJiaDQhTNeO63d0xvnnY3c2wcL5CajY73yFl7pXeuN53mW9HCo/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读帝国理工、麻省理工、杜克—新加坡国立大学医学院等机构研究团队做了一块能同时调软硬和冷热的触觉面板。它用收紧颗粒改变刚度，再用皮层水道输送热量，测得刚度增加约300%，表面可达到约10至50℃。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749064&amp;idx=1&amp;sn=21f38f3a4c9a1b1c52a32a0787208141&amp;chksm=ce2d1e09a6465445de01f75b7fa9137331e50a8cd990f8059484622e2d6f2b93a09c4fcaa48d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 11:23:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LLaMA权重压小5倍多！不重训，用共享字典给大模型减负]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdUIrD6dQZiaice74jJU6Qm7IZjMpBXNTKDSPNWRO2HyRUrEoxqNupTavFgROXyl6hIVZSjHlTqrpj4b4pLEmE6T7D9eEtQCPWv6U/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读哥伦比亚大学、首尔大学研究团队把已经训练好的语言模型压成共享字典和各层的少量差别，再接上剪枝与量化。DictLLM在LLaMA-7B上达到约5.1倍压缩，WikiText-2困惑度增加约2.9</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749064&amp;idx=2&amp;sn=84aba792e8e4802ee7ba06a0c5161ff8&amp;chksm=ce9113ef0905341cccf4b504a8dc74cde4400035deda6c01fc116b4ee061904caf3456ce1758&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 11:23:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一句话删贝斯再调混响！5亿参数AI编辑30秒音乐，多项操作一起做]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdUAIY11mz3micnSJ21h7iacnfS3uHRlISdCPTzg5WeSVQENtZAk9nshH13OEn6jevTOWXHZWEOMNQ6ETLIiazuLUxjMyVhn2FYX48/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读给一段音乐下指令，既删掉贝斯，又给其他乐器调整音效，不必把要求拆成多个模型。佐治亚理工、台湾大学、索尼计算机科学实验室东京等机构提出ProCraft，用5亿参数模型编辑30秒混音，支持7类操作</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749064&amp;idx=3&amp;sn=5ad5f60845138c03cf8984f8ac4bd06a&amp;chksm=cef86526a3d474da79c11f5d3c0475bf381316d9615e357da1176dc947cbaca82c985a566f0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 11:23:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[模型参数剩四成，测试成绩还能涨？微软等参与把每轮新计算分开记]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdWH4FiaG5wy8CEzqTQ0eCxlyF3MQ9aCR8dTgNC3nasMDhc2eialNwibGQLo74ibsODUR7O0wzQTqWia2Fc8np9rfUjiadSqpDHE2dFqI/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读同一组网络模块反复算，能不能少存权重，又保住语言模型表现？威斯康星大学麦迪逊分校、加州大学圣芭芭拉分校、加州理工、微软等机构提出Loopback：旧输入单独保留，每轮新增计算另外记录。匹配训练</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749064&amp;idx=4&amp;sn=f296335e4ce1749c51ce32f12dc284f1&amp;chksm=ce3fac48a69f0623dd3c6fd712b056cd3c4b185e19531f901d6c7017d65a9c1933b53641e754&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 11:23:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[说错一个词不用重录？4100万对语音教AI改字、加笑声]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdUg0FOgfg7SBwtP7YI0n7HciabRU5VYe2icfBic1ac1cXkdnXa4jPFyibe6t2Ugpff06SWauvGe7A4ibRf0D0fwMSUwn0ibE0heyCEAw/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读录音里一个词说错了，可以直接指令替换；还可以删除一段话，或补进笑声。上海交大、上海创智学院、北京通用人工智能研究院、天津大学等机构构建VoxCanvas-41M，包含约4100万对中英语音编辑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749064&amp;idx=5&amp;sn=759986fb1c40e4da5763660593aa7ef3&amp;chksm=ce0a388d54c4a43a8cd74c84484cddc352b8b22465711843cc538cba23003d94d046d2947692&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 11:23:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[显存装不下就搬进内存！华为昇腾 FlashOffloading 让GLM长文本吞吐提升1.91倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdXf4UHIZ07fWdeK1icmGWV1lwRbrRuu512OMOLGefNKZnog3FTtpatbkOc6LJx8iaPplicWFn47ZS2YTziaVeXYW5Wofz4aWXZrzMY/640?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读长文越读越多，模型保存的历史缓存也越堆越大。华为、上海交大等机构提出的FlashOffloading把完整缓存放进主机内存，用显存热缓存接住当前计算，并把搬运与计算重叠。在GLM-5.2、昇腾</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749062&amp;idx=1&amp;sn=0290eca06c6489e540ea2f92b068adb6&amp;chksm=ce3bd416b8beabc95c6ca2aa03e5dcd89ac6230124d3b5164316ca6dd1c4c7d529a3d67e36d5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -278,36 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdWskYCWfBFY3zBGdnmgB4zTXXibic0qSoHS9VD9h0KnfqJo7Rv5Gnic74l1EZ9B6VKictcrpszq8RGia1bictKe7JPsdtY7UbVwiardSo/300?wxtype=png&amp;wxfrom=0"/><p>论文导读 麻省理工学院、康奈尔大学、维也纳工业大学和Liquid AI团队，把网球第一视角视频拆成位置、轨迹与触球时机等七项预测任务。受测模型中，最佳触球时间平均误差为0.14秒，球的当前三维位置平</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247748624&amp;idx=4&amp;sn=c11fbaba62e5bb4c3073777802523bd2&amp;chksm=ce9cd9eebbdcfdc815eab440e15070dab26f1234206bcb081e8be89858bc4b6df037ce8a0ff3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 29 Oct 2026 17:20:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3D重建换成六边形小片，同等模型内存画质最高多7.38dB]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdXBz4ejucMl8D9elNMNE6Czx1hoHLPGoR1w9HJuVHp5ywGhHpTVp4cV8hHq875sibEQgA5ichyvk5iaTdK0XGg2Nic5OpLGPHdAT5k/300?wxtype=png&amp;wxfrom=0"/><p>论文导读 约翰斯霍普金斯大学团队提出Hexels，用带颜色变化的六边形小面片表示二维图像与三维表面。在34个场景的比较中，相对同等模型内存预算的2DGS，各数据集PSNR提升4.53至7.38dB，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247748624&amp;idx=5&amp;sn=7ae003d851c498a35337a3cbd4800ddd&amp;chksm=ce9787bb09052d56e1b562e5f65959f729e1c60350cf8f76cb0635f544515d834a47e86086f2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 17:20:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[只给目标让AI写GPU算子，10项里8项快过人工库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdUnMdDCYm6AyOcR9aibhrsduptgHH8tpFC0bbic5BfwC19L6ynCoFAKQMxwHsOdiaCmys8QByWlkia7HlBPIwsK5m0Thvl1jTTbEss/300?wxtype=png&amp;wxfrom=0"/><p>论文导读 清华大学、面壁智能、哈尔滨工业大学和中国科学院大学等机构提出JustGoal，用“只给目标与约束”的通用代理配置，检验GPU算子优化需要多少专门流程。在NVIDIA B200上，它在10项</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247748624&amp;idx=6&amp;sn=e6006311d36e547aff5f9d6802b4abb5&amp;chksm=ce590d10635129736b5c612f871fd853a03bb6b54f7354204a356a3204cdcb629258da7d04df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 17:20:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最强总结！十大时间序列前沿模型！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdXHE8mzA6cFL7ceLw6msvTYUXhrOwSCt6ml6blg2lP6MGhPIGwghCGmPiazb5Z2rNJZ41cgQDp7F3dqVuqLSshBDD3SzFawhbd0/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周有位读者给我发了段话，大概意思是：下载了 300 多篇时间序列论文，真正读完的不超过 10 篇。每次想找一篇，都要在 arXiv、GitHub、知乎之间来回跳半小时。希望我多做一些时间序列的论文推</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247748523&amp;idx=1&amp;sn=0b9889cdd8fb0267088f49d77fbb09a5&amp;chksm=ce1c2051e8f5d7a6fb769548661ea3d2a7b63409270f30ff1614760a29330e901b91b7a7a989&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Oct 2026 09:58:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一张4090连续造世界37.5分钟！旧画面记忆先搬进SSD]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdXenDMbocsp6Z0VBhKiaTVMicia2LMRbnQ2ZJCjaX6B2wLHoev2JsCad1ABPNBQKNqmoFxEK9fJicCg6O1LibHlhtG0cZ2rOBibXoeXQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读电子科技大学研究团队让世界模型把旧画面的缓存放进GPU、主存和SSD三级存储。WorldPager在一张RTX 4090、32GiB主存和一块NVMe SSD上，持续生成37.5分钟视频，主存</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247748523&amp;idx=2&amp;sn=171b0ddc5fce6f26b142f6cc8d598f98&amp;chksm=cec343272b04990a5708f704b24649bee93fe049319d8d3bacec8a9b5c109673a73989e376bd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Oct 2026 09:58:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[视频训练先别拆成JPEG！北大、清华让载荷少58.7%，读取还更快]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdWMlkJ4sia2EIwXM9DAPTob5DkTXAeqjicib0r1ibrHrSrJvmeKqgrfhJ06fy05ibS5td7ONUQYvVk6sZUPuibIJc6YvqocBaZChfO3U/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读北京大学、清华大学团队重新设计了AI训练视频的编码与读取方式：抽到哪帧，就尽量只重建它和必需的参考帧。在三套机器人数据、画质接近的比较中，H.265 DDRA配置相对论文采用的LeRobot</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247748523&amp;idx=3&amp;sn=77d9d6a3bbdbd129907a1d5bcc5d61cd&amp;chksm=ceeec72a490120e712b22d88fe6d4e870e972bdc1efc9cec9e8fcaff73552a476c7e8eed2054&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Oct 2026 09:58:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

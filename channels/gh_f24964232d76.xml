@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[DCP 的本质（上）：长上下文 decode，KV 分到 8 张卡后怎么精确合并]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZjiaBRlwoL6mNV7vABXyuMdoJFlib0UiaRibdLOz2Fmn8MCO3yvLcMmhKlYZY9K6lNCJF5JYHDI7rROzz96LN4DmQejdCD8hAxRnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>DCP（decode context parallel）上下两集的上集。长上下文 decode 每一步都要读完整段历史 KV；DCP 把同一个请求的 KV 按 token 轮流分到各张卡，各卡算出局部</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532717&amp;idx=1&amp;sn=eb2935cad0dd99b90cd89ba4a1c5ef29&amp;chksm=9ee62a5bf1649ce495d77ee920808037c220750d5672922ab55db30f75f1f337a7013ec299bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让 Agent 写出快的 CUDA kernel：先估算、读 SASS、公平对比 | SGLang PR 讲解（中英字幕）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Kb3yYAjTBWApheVW3xUEPxB4OMBdLCZy0yvfSicwGZZSbWTibXL1xtO1e8fwaFt5n83B3XwRmS30e1cZF30Ok3GpbX7UWTR8JF5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 有一份教编程 Agent 写 JIT kernel 的 skill，PR 48380 给它加了一页 CUDA 性能指南。视频按指南的顺序讲：先按形状估出 kernel 时间的下限，再对照</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532705&amp;idx=1&amp;sn=28fa63eb31e8fa162ba51f7b14fc1c77&amp;chksm=9ef8015385a50cbc2144f2e0a50e4ce1dac947de20858bdd734c791d719d749bfc9714549fa3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka3VMMyfs38n3MpaDticjPLkMWdtHKhIxibkN9FEsfYpm7B9MOyScEdGUFuicWFlBIX45AzTYQ9mBKnrw7Fia4ibtKddF47yRawbm5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近看了一下腾讯 HPC-Ops 里的 gemm_bf16xfp32 kernel。它计算的是 BF16 激活乘 FP32 权重，源码在这里：https://github.com/Ten</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532004&amp;idx=1&amp;sn=716fa5b7e44a68144bc8bb7b6d95c780&amp;chksm=9e341e73a6bc2f4795604f1259fbb024807afc996801374b3499f0da5b8d65ba83f1137eedd8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Jul 2026 21:58:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CUTLASS 笔记下半部分（转载）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaAonx5nBicHqDDlHZY4qBkgRNPvmDQsUwY9pSgYZFUoJibY7BA4alIYqV7Hbz7SriaAmT2IwhW5S1zicALQkk8AHSgCYRebR1DBibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知乎 https://www.zhihu.com/column/c_1938664963049763058 专栏笔记转载，已获作者授权CUTLASS 笔记 (7)：Swizzling本篇主要介绍 SM</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247531985&amp;idx=1&amp;sn=3cc09222457ff7d72e2902119d2525e9&amp;chksm=9edaf219d837b460aa99ff02442c55a441960e63772044d979b899a57a7c662659cc14c8751e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 18:59:14 +0800</pubDate>
     </item>
   </channel>
 </rss>

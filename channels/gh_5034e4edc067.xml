@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[刚刚，Anthropic 公开 Claude 记忆设计，Agent 也会离线做梦]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmefQw1whglUdiavFqt2NXJ3T1w3lO7KiaFG7K5a7jUs6mqa3tmSic7icYn2DLdIiaoGzpNv8wX312ukdspfvxRSP6tZRnRuu2P86Fg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 刚刚发布了一篇新文章《The components of agent memory》，公开了 Claude 的记忆设计。这套设计把记忆分成四层：会话记录保留经历，笔记提炼值得记的内</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456570&amp;idx=1&amp;sn=823c6ebcab979592336690f46ab12776&amp;chksm=bf72fbfaf13b10a7fc80ebb69dd1181376f639f39c13215a8835775013b0e53b5c26afcc702b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 12:10:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT-6.2 没来，GPT-6 Cyber 来了，主打安全]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvkmGvBTaPMP3QwZDHb7nbxa1sKer3UdvLaKHiaMfxkUxaib37K6H0RoeooI955gq73A3lGvFLeFapO3WNQGibhiaExRoRnQ0ht0T8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>这两天推上盛传 GPT-6.2 Sol 和 Astra 发布，结果今天它们没来。来的却是GPT-6 Cyber，一个基于 GPT-6 Astra、专门面向安全研究的模型：查找漏洞、验证利用方式、提出修</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456496&amp;idx=1&amp;sn=51ad0964b6a46557a35edfbd1036149a&amp;chksm=bfe91c8530d5caa41b9a34e08f56b5cf0acaa13e85bb698b7c713f18216feaf760c35b236497&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvk3Vq9iaQc9ECp7e0wcR4DMjP3KDlonBnmLKX4yVsBLkqbe2ic0txRLSUhgiaPGmwyDk98zfP4FsQG3BC7klDwUOU5OdFQ0icQKg7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Jev 最近引发了不少讨论，但它究竟适合做什么？Elvis Saravia（@omarsar0）写了这篇入门指南，从工单分流、模型路由等场景讲清它的用法。以下为全文翻译，文中的“我们”指原作者及其团队</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454478&amp;idx=1&amp;sn=192099f7350821b93f541c9d9fc61c0a&amp;chksm=bf205fa183690d4cbdcec2d4355d0169deab453d8d87cc202c6268f14dc8f9e88ef451ef9fce&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 21 Sep 2026 17:16:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[离递归自我改进还有多远？智谱晒出了 GLM 的工程实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvlQcSGib5mibBBA7Ch9Kz8ibwypRAM75R3DZiaRxlDcicBwaQINibHtYJPNcgvJR4rYDvbNvVgdaIjPiamQnia8GOK5Rn7j9UAFDAfdtGo/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，智谱发文披露，GLM-5.3 驱动的 Infra Agent，参与优化了承载 GLM-5.3-Flash 的推理系统。工程师与 Agent 共同推进，让模型从初始适配到生产就绪用了不到两周，端到</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454438&amp;idx=1&amp;sn=675aee8a85a92c142e32475a835ec257&amp;chksm=bf110b2543e055bbe3c3831f07d9c9ef16d1769d23a7bbd35b847ab2433ae055cf585c33ea24&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 17 Sep 2026 21:40:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
