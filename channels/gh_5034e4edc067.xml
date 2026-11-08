@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[MoE 训练终极手册]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvl5apAPR2Lkmjxh1kqmtrwpKz0Mj4U66H3FjpLgSFj9fueBL54ia1JeuWOL74QAibu3AUCeD2xqgbFibt0vYrGL8z6U3Re1Tes0Fc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hugging Face 发布了一份免费的《MoE 训练终极手册》，从准备集群、跑通第一个模型，一直写到推理部署和 RL 后训练。配套代码、55 幅交互图，以及训练中踩过的坑，都放出来了。The Ul</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456593&amp;idx=1&amp;sn=e6567dbd59c4ff5adefd021dd8be42ad&amp;chksm=bf04fcf6a3070b6c753ca81204475bef3fe0a697298f703d8167b0acdcc46e2cd349f55df7ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Nov 2026 09:49:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚，Anthropic 公开 Claude 记忆设计，Agent 也会离线做梦]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmefQw1whglUdiavFqt2NXJ3T1w3lO7KiaFG7K5a7jUs6mqa3tmSic7icYn2DLdIiaoGzpNv8wX312ukdspfvxRSP6tZRnRuu2P86Fg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 刚刚发布了一篇新文章《The components of agent memory》，公开了 Claude 的记忆设计。这套设计把记忆分成四层：会话记录保留经历，笔记提炼值得记的内</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456570&amp;idx=1&amp;sn=823c6ebcab979592336690f46ab12776&amp;chksm=bf72fbfaf13b10a7fc80ebb69dd1181376f639f39c13215a8835775013b0e53b5c26afcc702b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmxHHHsKMicsibbdLWicD4KKyKjMExnBZ0gCT8iclAgw672En1JjnCXyhwjJgnNa0D1SWZVcehZGqnwx2CGwC6icKQlsFc4PdukQTEo/640?wxtype=jpeg&amp;wxfrom=0"/><p>小米今天发布并开源了 MiMo-V2.6-Pro 和 Flash。罗福莉随后写了一篇长帖。她给出了一个很重的评价：在她看来，这次工作背后的研究创新和工程挑战，超过了她曾部分参与的 DeepSeek R</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454499&amp;idx=1&amp;sn=50f098d954f0079814aa9befd1095116&amp;chksm=bfd2e7f217ee16ef7f4c820e91dd5690e09d8329514836ae7aac1688f4fb873f029fe2955052&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 22 Sep 2026 13:20:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Jev 入门指南：System One 模型能做什么]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvk3Vq9iaQc9ECp7e0wcR4DMjP3KDlonBnmLKX4yVsBLkqbe2ic0txRLSUhgiaPGmwyDk98zfP4FsQG3BC7klDwUOU5OdFQ0icQKg7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Jev 最近引发了不少讨论，但它究竟适合做什么？Elvis Saravia（@omarsar0）写了这篇入门指南，从工单分流、模型路由等场景讲清它的用法。以下为全文翻译，文中的“我们”指原作者及其团队</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454478&amp;idx=1&amp;sn=192099f7350821b93f541c9d9fc61c0a&amp;chksm=bf205fa183690d4cbdcec2d4355d0169deab453d8d87cc202c6268f14dc8f9e88ef451ef9fce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 17:16:06 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -10,6 +10,18 @@
       <title>gh_cf5abf0f39fb</title>
     </image>
     <item>
+      <title><![CDATA[刚刚，Anthropic公开Claude内部记忆架构设计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwD6z8DkoaJibcPp64Ke5Kq24uoYQBRf7bPd8C0qia5icJNNMgKvsKMjhCFCegicTDdzS6cibWiaVrK9qz410IFicxOwoUOKwzxXeEV8N8/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！Agent能跨会话记住事情，并不等于它真正拥有长期记忆。更难的是：该记住什么，错误记忆由谁修正，新会话又应该先看什么？Anthropic发布最新长文《</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247513461&amp;idx=1&amp;sn=bfbb3a740b360d2fb1ea15858d55bdcb&amp;chksm=c3ab11636340048c85f8f4191f736555d8023c5bffbe4170f3ea8d62feb30ee5878bfd1e3585&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Nov 2026 10:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Multi-Agent持续进化！EvoTeam群体协同发力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwDhID1D9LRRbYVpmGnkO75VBPcgk41T2z1a4FTcRNb28VDxIG3NibuzVHibd3lbdQictGFycnzTu056kTicRpD9gBcurD3D0mUHLoI/300?wxtype=jpeg&amp;wxfrom=0"/><p>完成 100 个任务之后，一个Multi-Agent系统，究竟应该比完成第 1 个任务时成长多少？如果第 101 个任务到来时，系统仍要重新摸索分工，反复出现相同的信息交接问题，那么过去的任务只是增加</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247513461&amp;idx=2&amp;sn=e5115064319dc85fcf0de87bdcea61d8&amp;chksm=c3fcf78e98e6a5e77c97428c2310393180f3681fe818201ec5a173ef3b07d996ebfe55ca75ca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Nov 2026 10:49:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大一统！蚂蚁首篇全模态Embedding综述]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwCqTZh25kmD8UhvcR0vn3XiavQ8H0tzhVWI2u3l5xOdDo9cPODiafQOvmMmgTRdHg6vib6L4icvsNibhSeXlC2lxe30pN4icuL1p6FQM/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！Embedding模型是搜索引擎、推荐系统和RAG的幕后基石。生成式AI中，GPT-4o、Gemini等已实现文本、音频、图像、视频的统一输入输出，但</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247513422&amp;idx=1&amp;sn=096613a87136c614311fcd21005c4fc9&amp;chksm=c3f0a60690f2bd6f0a09bf3350a34a232ce6df49a1a1e0acd66ab1d011d6054ea6961ed6cb6d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/5gibgibpTuuwBHg2rlJCv9uBUf1ibpc4nkvPiaIn8rxTxfhvh9KJDB9VQ80T5sSvVGsBdxjWCIOC69A438iboHLg77v66EETFPJZYfjypkSea4FI/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！继字节的3篇RSI，Google的2篇Skill，Meta超级智能实验室 一天之内连扔2篇突破论文。第一篇《Context Language Mode</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512496&amp;idx=1&amp;sn=606e58d272df2b77f733715218c3fdd4&amp;chksm=c3ff2af6c5bcb620f9c0326356eb2cb3df99d0acab860fe90a4fd935fb6732d3be3469f50191&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 09 Oct 2026 16:47:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent新突破Spotter：分钟级完成任务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwBG88XNdaXWxGshzTquibBw6S3seOKovAp0RDGia4OCUFaArEGvU5LJcZqX8E4XWkxMSPnHcOicpusBNj37VYEV3T0Fkb7lBHwib0Y/300?wxtype=jpeg&amp;wxfrom=0"/><p>VLM 驱动具身模型的 Robot Agent 正成为开放场景机器人操作主流，但现有系统多为 VLM 主导：VLM 逐步规划、具身模型仅作工具，使 VLM 处于执行关键路径，系统时延随任务长度而非出错</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512496&amp;idx=2&amp;sn=a9089b69addb4116994d39ae88c1744a&amp;chksm=c30ffcd0f6e8a5543e921dad91a70e6ff8c04955ec32cf6ad5cf3c413759b53142b95da606fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 16:47:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[彻底，被豆包工作Agent惊艳到了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5gibgibpTuuwCjD1VOGx77dibnxVCXHZDpNr6IKYdwib39pyIGicKMWnxrlOxz53CEn1jqHxJKtZriaDxkvUAzX5FRzXAy4ibkibZ9aROEvZ9mVEfE0/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是PaperAgent，不是Agent！今年AI顶会差不多开完了：ICLR、AAAI、ACL、CVPR、ICML（12月份NeurIPS），接收的Paper也都放榜。每次面对几千篇论文，整理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&amp;mid=2247512418&amp;idx=1&amp;sn=8d74c2d9720ec66a3c9dfc02d9c08119&amp;chksm=c31f46bc86d261aba5f4a0331781ffdc9b1d2b2960be2b033c43636d5ba9bd28cd7e4704d1f0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 10:56:46 +0800</pubDate>
     </item>
   </channel>
 </rss>

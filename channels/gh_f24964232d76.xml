@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Kimi K3.1 的 DCP（下）：分布式 top-k 怎么做到精确，cookbook 怎么部署]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYsoHULx3V4IxuT5UW5kUSMx654xWDWtRtADSjtjybhgl4iabBEYD4hDagXWo04vhS3OjQ4nod39xMWHia9GgKGNQUBr3GWw3OSc/640?wxtype=jpeg&amp;wxfrom=0"/><p>DCP 上下两集的下集：SGLang 怎样在 Kimi K3.1 上用 DCP。93 层里只有 24 层 DSA 用 DCP，KDA 状态不切，KV 和 index-K 按 token 切；分布式 t</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532730&amp;idx=1&amp;sn=af09ce0bf24221281bfbb6e0a35bcf75&amp;chksm=9ece6f018b064d9e5999df4942917fbf694d95c261fb485a4077d94d02eeee3f3d19db9f9dd4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Nov 2026 09:24:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DCP 的本质（上）：长上下文 decode，KV 分到 8 张卡后怎么精确合并]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZjiaBRlwoL6mNV7vABXyuMdoJFlib0UiaRibdLOz2Fmn8MCO3yvLcMmhKlYZY9K6lNCJF5JYHDI7rROzz96LN4DmQejdCD8hAxRnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>DCP（decode context parallel）上下两集的上集。长上下文 decode 每一步都要读完整段历史 KV；DCP 把同一个请求的 KV 按 token 轮流分到各张卡，各卡算出局部</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532717&amp;idx=1&amp;sn=eb2935cad0dd99b90cd89ba4a1c5ef29&amp;chksm=9ee62a5bf1649ce495d77ee920808037c220750d5672922ab55db30f75f1f337a7013ec299bd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYhWeDibG4OJYorv6ZMyicRMq0piaibXmzCBic8Zuj5aE8GaZ4hw7a8YiazHpRU9ccMMicXzjMRXRJicjcjelL47ReGibpPK40FkyHeTMjs/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. TL;DRSGLang 的 GPU kernel 原来分散在 jit_kernel、sgl-kernel、各子系统的 triton_ops 和具体模型文件中。sglang.kernels 将</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532012&amp;idx=1&amp;sn=c63726abda39df09e7b845436c8a31cb&amp;chksm=9ed800e15e840ba014441ab5eac50adc1434417e087b4a4c56ccdc0459e9d939b484109d7613&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 23 Jul 2026 21:27:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[HPC-Ops gemm_bf16xfp32 Kernel笔记：FP32权重拆两个BF16跑Tensor Core]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka3VMMyfs38n3MpaDticjPLkMWdtHKhIxibkN9FEsfYpm7B9MOyScEdGUFuicWFlBIX45AzTYQ9mBKnrw7Fia4ibtKddF47yRawbm5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言最近看了一下腾讯 HPC-Ops 里的 gemm_bf16xfp32 kernel。它计算的是 BF16 激活乘 FP32 权重，源码在这里：https://github.com/Ten</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532004&amp;idx=1&amp;sn=716fa5b7e44a68144bc8bb7b6d95c780&amp;chksm=9e341e73a6bc2f4795604f1259fbb024807afc996801374b3499f0da5b8d65ba83f1137eedd8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 21:58:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
