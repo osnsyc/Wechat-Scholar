@@ -10,6 +10,12 @@
       <title>gh_5034e4edc067</title>
     </image>
     <item>
+      <title><![CDATA[Anthropic 详解 Claude 记忆：笔记、Dreaming 与 Wiki]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvlvTiceVOwXsRumhEMCuVWZO3De1V66nkSK6q6kS59EegfF0U56mV1fa2akgu5scO3L2hzUddg1T43ZzOyx57ic6vhTDUvVHyxOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 这篇工程长文讨论了 Claude 怎样留下经验、纠正记忆，并通过分层组织和离线计算让后续任务更容易找到所需知识。以下是全文翻译。智能体记忆的组成索伦·克尔凯郭尔曾写道，人生只能回头</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456664&amp;idx=1&amp;sn=71bfd3f5ea3f7a2c8e43be8b47b02500&amp;chksm=bf6169eb08699d23c41f562dbf95301a5ed8e49560987497492ea5f176c620e4edd661ccc957&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 11:21:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MoE 训练终极手册]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvl5apAPR2Lkmjxh1kqmtrwpKz0Mj4U66H3FjpLgSFj9fueBL54ia1JeuWOL74QAibu3AUCeD2xqgbFibt0vYrGL8z6U3Re1Tes0Fc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hugging Face 发布了一份免费的《MoE 训练终极手册》，从准备集群、跑通第一个模型，一直写到推理部署和 RL 后训练。配套代码、55 幅交互图，以及训练中踩过的坑，都放出来了。The Ul</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650456593&amp;idx=1&amp;sn=e6567dbd59c4ff5adefd021dd8be42ad&amp;chksm=bf04fcf6a3070b6c753ca81204475bef3fe0a697298f703d8167b0acdcc46e2cd349f55df7ae&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/QsOstc0fpvnhFPf13IE0bPX9b9dMlm4icaZypPhXmx4W0ialX8ibPJOD4JZqpib8iaicOHhZjqQaZCkDgXuNTXRvmSnqibAXCeibLZ9xBAxmuR1U0KM/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天小米发布并开源了 MiMo-V2.6 Pro 和 Flash，同时拿出一份 44 页的技术报告，这里面小米交代了一条更长的训练链：先准备能处理长上下文和多模态任务的模型，再让它在不同 Agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454551&amp;idx=1&amp;sn=849dace23a8b668a4bd717fdf7953008&amp;chksm=bf6e16b54b90038804b5db359682c0a59d73fda3819d974d305a0f68cfb75c233f924427a970&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 23 Sep 2026 21:51:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[小米开源 MiMo-V2.6 双模型，罗福莉：我们选了最难的那条路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/QsOstc0fpvmxHHHsKMicsibbdLWicD4KKyKjMExnBZ0gCT8iclAgw672En1JjnCXyhwjJgnNa0D1SWZVcehZGqnwx2CGwC6icKQlsFc4PdukQTEo/640?wxtype=jpeg&amp;wxfrom=0"/><p>小米今天发布并开源了 MiMo-V2.6-Pro 和 Flash。罗福莉随后写了一篇长帖。她给出了一个很重的评价：在她看来，这次工作背后的研究创新和工程挑战，超过了她曾部分参与的 DeepSeek R</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&amp;mid=2650454499&amp;idx=1&amp;sn=50f098d954f0079814aa9befd1095116&amp;chksm=bfd2e7f217ee16ef7f4c820e91dd5690e09d8329514836ae7aac1688f4fb873f029fe2955052&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 13:20:14 +0800</pubDate>
     </item>
   </channel>
 </rss>

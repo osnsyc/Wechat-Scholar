@@ -10,6 +10,24 @@
       <title>gh_6fec50c6ef0d</title>
     </image>
     <item>
+      <title><![CDATA[GLM-5.3-Flash每秒16token，128K照样跑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrRnXzeEdmCjuPABcvvWKB70DTa0AHPSXdq2PxuQ3orMZtBiboUB3iaACAnengyOJHhHBCnmSyyvFSiaMEIfTdEjrmunnyzYP0bHoI/640?wxtype=jpeg&amp;wxfrom=0"/><p>3210 亿参数的模型，塞进一台 128GB 的小机器，还能开 128K 上下文，每秒吐 16 个 token。有人把这套实测数据连图带表全贴了出来，结论却出人意料：能跑，但未必值得跑。一台机器，一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506025&amp;idx=1&amp;sn=ca16f37fa7ccb22b5efed6e3f9717110&amp;chksm=c1c050352321d7de7abef4e4dd683948a0556b1df3a708e6582759a841c4fbf881021103d5db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 08:19:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI编程诀窍036：把管理员密钥交给 AI？这是引狼入室]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrT8uLAC2gzJpx9icRTdbL6uRicaRialGCMHicKOxPtAlicibQr3wNC2RukRdujcVvYfm0KSknTaQZjJbxg7PRkViccEd7pMjoQKAO9iaW4/300?wxtype=jpeg&amp;wxfrom=0"/><p>最常见的错法 ❌把一个 AI 智能体直接接到生产环境的 API 上，还顺手塞给它一把管理员密钥——这么干的人不少，理由也差不多：给每一次工具调用单独划权限，太琐碎，先记着，回头再弄。省下的是几分钟的麻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506025&amp;idx=2&amp;sn=79b1435e3f580d44b8b5c269312b356d&amp;chksm=c179b698f88ce07ec8ed0ac0d424413b9bba2b7a4419c6cef1f340e079c1e85f01928a5364d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 08:19:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用 n8n 加语音 AI Agent，20 分钟赚 4.3 万刀]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrS2hqLlnjvUUjJ32FFbv8ZM41ibibpdxo6K7ibvIega9QgtSraPiaoqMJOLyVJkRarXW4DMtpsRITS1MLfp9IgDallbIgiadYNFmAuw/300?wxtype=jpeg&amp;wxfrom=0"/><p>最近 AI Agent 圈子有个挺实在的变化：它不再只是演示里陪你聊天的小玩具，而是真能接到日常活儿里、帮人把重复劳动卸下去的工具。这一波好几个真实打法凑在一起，正好拼出一份「普通人能抄的作业」——</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506025&amp;idx=3&amp;sn=8e8a042f5d2b55a93e94262233589829&amp;chksm=c123d789da34c246bbfd4fc54a9d6bdb53b6688ef4b59025404b6244948d6863bbc0a7e97eb5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 08:19:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[调低推理档位，DeepSeek V4.1 Flash省一半钱]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQx75gdLFXRUPJTia4zFS7mN9g3ZVickHz5bhfIhzJxR7ReDcEW0CRz6qctXJ3EsNRQicK4Qx1DG96ibUdNuTSNfBObdCicLyINwmibI/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多人调模型有个习惯：思考档位一路拉到最高，觉得给得越足，活儿干得越漂亮。一家专门做模型评测的机构把这个默认动作拆开来量了一遍，结论挺扎心。七款顶尖模型里，有四款把档位调到最低，仍能保住八成以上的分</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505970&amp;idx=1&amp;sn=342d2da88eebfb1c6449f6432e6d9e0a&amp;chksm=c14b4105127203621ea3b11e125aa01054dc00ef141b60a8b68e874831b0b6fdb63bc355abb0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrQrjgjnCPQ4Gkba2dibYrnGlgmPY0wsQvt4XfsGoZq1iajdYnZIGW6r1eoD3OdS2WWqIFNDG5dPS7uA26UrlFb1Lia5eibTHR2GSLc/300?wxtype=jpeg&amp;wxfrom=0"/><p>让大模型写一份 PRD，它多半会交给你一份漂亮的谎话。小标题齐整，语气专业，用户故事一条条列得清清楚楚，边界情况也都起了名字，文档看着滴水不漏。可这层漂亮，往往是金玉其外：语言模型天生擅长把“文档形状</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247504752&amp;idx=3&amp;sn=c2a221253f3a94ac5fa71a3045372a70&amp;chksm=c10f1c825fb46673eea7beea377ef57af3cfe59de6a4f577ffad7888bf9d37b8396f44b1b8d8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Oct 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Tactile-AD：基于视觉触觉感知的小型工业部件异常检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrT2UKX0g2V7T9Oic07e2mfl0Od0QtuX5heBNic7gpw5y2mOaqa69kOIfIMFFx11sFgatNYOTxSoyZ6LoQZCekRJyYNlJ66yS9dus/640?wxtype=jpeg&amp;wxfrom=0"/><p>◆ 原标题Anomaly Detection on Small Industrial Components via Vision-Based Tactile Sensing◆ 下载https://ar</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247504687&amp;idx=1&amp;sn=505f1e67559f28f41b422c2e65854c46&amp;chksm=c14f93f22afa9a588c6b8397018874c74ca2a0c08ce082b1fe7cb6d0f5438435266e6905a90c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Oct 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 智能体，正是 DBOS 等待多年的那类负载]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrRJdn7S34GWzLgxqmbFDaj8sPaM6gia4TN69E2Ig1zm5nth3ibjExc1GFW9Gy28ricdaulg6bw1hIh0suKddXjPttrKqvSujqREss/300?wxtype=jpeg&amp;wxfrom=0"/><p>DBOS 的务实出路，未必是取代 Linux。它更可能变成智能体沙箱里的持久运行时。最近重新琢磨 DBOS，发现这条老思路被智能体带回了风口，颇有几分应运而生的意味。2020 年的 DBOS 论文提过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247504687&amp;idx=2&amp;sn=806eefb8d483d2342a3438b1d99a24a0&amp;chksm=c1a315543f4a26c8f324273f34db43f817d1abf24e7a6e53fa3076634e54698863964c327eaa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Oct 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT 出图 2.5：不比谁画得美，只比谁改得准]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrQR62XJu41K9ZKNo4l74yhjsdwWz2LiaaU0AUC5pZ5yAlBtUaibsD1Tn96rHEeHUx8LNlFMhDOKtpode1rk5icvhrUzEAwb1XwPfk/300?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 新出了 ChatGPT Images 2.5，重点不在“能不能画出更漂亮的图”，而在“能不能按你的意思把图改到位”。官方口径列出不少升级：细节更锐利、光影和材质更自然、参考图保真更强、多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247504687&amp;idx=3&amp;sn=b2d8f1a3fa5c2361c7e4d9699db1babe&amp;chksm=c1286bf5464b0c82c2440815ab99697db3413da6f51df57a9df0cf36a6e98e139c771870a65a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Oct 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
