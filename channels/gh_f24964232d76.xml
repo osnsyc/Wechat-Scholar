@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[AI-Infra-Auto-Driven-SKILLS 仓库介绍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYibB0IEMVfwFHyqYGSibau885YSJuQrLRG0naNJZSticu6icknk6PB2TibgSLLtLgzibsEzQlD1T0jVZNofnVCZSW2AYWMteyEx4bKs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这支视频的讲稿、配音、双语字幕和每一帧画面，都是 Agent 自己做的（Claude Opus 5.5，extra 挡位），照着开源仓库 AI-Infra-Auto-Driven-SKILLS 里的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532737&amp;idx=1&amp;sn=49e233cc1271ffe5165fdb6801bca715&amp;chksm=9ef7ad5eb2cdb1cddbc8ff9d3af998333a016392d05cb37c1c36d207934f2f58259ff772a656&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 13:38:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi K3.1 的 DCP（下）：分布式 top-k 怎么做到精确，cookbook 怎么部署]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYsoHULx3V4IxuT5UW5kUSMx654xWDWtRtADSjtjybhgl4iabBEYD4hDagXWo04vhS3OjQ4nod39xMWHia9GgKGNQUBr3GWw3OSc/640?wxtype=jpeg&amp;wxfrom=0"/><p>DCP 上下两集的下集：SGLang 怎样在 Kimi K3.1 上用 DCP。93 层里只有 24 层 DSA 用 DCP，KDA 状态不切，KV 和 index-K 按 token 切；分布式 t</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532730&amp;idx=1&amp;sn=af09ce0bf24221281bfbb6e0a35bcf75&amp;chksm=9ece6f018b064d9e5999df4942917fbf694d95c261fb485a4077d94d02eeee3f3d19db9f9dd4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYcRbK1u8mrzW40KrUfn57lVaaZI7FAut5MvRYJmibxEyjib1wsNPmicjOgvcewicAxzrTBun1krNcI8X6vrEUB3m8DREsicSiamge7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Triton Plugin Extensions原文：Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532017&amp;idx=1&amp;sn=4a5ac09eddc9a1362845f595e6f2e1e7&amp;chksm=9e9c946e62f9b3926dada784c05ecf8eca906c640128ab86ef3ac1680aebb97edc2d4bc6db93&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Jul 2026 20:58:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent 驱动的 SGLang Kernel 一等公民化：sglang.kernels 的设计与实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYhWeDibG4OJYorv6ZMyicRMq0piaibXmzCBic8Zuj5aE8GaZ4hw7a8YiazHpRU9ccMMicXzjMRXRJicjcjelL47ReGibpPK40FkyHeTMjs/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. TL;DRSGLang 的 GPU kernel 原来分散在 jit_kernel、sgl-kernel、各子系统的 triton_ops 和具体模型文件中。sglang.kernels 将</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532012&amp;idx=1&amp;sn=c63726abda39df09e7b845436c8a31cb&amp;chksm=9ed800e15e840ba014441ab5eac50adc1434417e087b4a4c56ccdc0459e9d939b484109d7613&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Jul 2026 21:27:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
