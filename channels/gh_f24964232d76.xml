@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[Claude Fable 5.2 发布：一支由它自己制作的十分钟发布片]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KY6m1986M9bCCzkZrxTv7wIaiaSj5Dgz9FQ3h3l154cOLtdUic6X4S4YKSeXrzbnRkvia5gQHWPYGGpHsSGzsnmVsjw86ANwDtZuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>11 月 9 日，Anthropic 发布了 Claude Fable 5.2。这是一支非官方的发布解读：脚本、画面、图表、动效、配乐和剪辑都由 Fable 5.2 完成。片子顺着官方博客的五个部分讲</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532744&amp;idx=1&amp;sn=e33657f19edace6d3ff53828364c9120&amp;chksm=9e3c926866b67f11ca0ddda7162881485eefab3e64962e3970a76d67950a879e6630c35c4255&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 12:02:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI-Infra-Auto-Driven-SKILLS 仓库介绍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYibB0IEMVfwFHyqYGSibau885YSJuQrLRG0naNJZSticu6icknk6PB2TibgSLLtLgzibsEzQlD1T0jVZNofnVCZSW2AYWMteyEx4bKs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这支视频的讲稿、配音、双语字幕和每一帧画面，都是 Agent 自己做的（Claude Opus 5.5，extra 挡位），照着开源仓库 AI-Infra-Auto-Driven-SKILLS 里的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532737&amp;idx=1&amp;sn=49e233cc1271ffe5165fdb6801bca715&amp;chksm=9ef7ad5eb2cdb1cddbc8ff9d3af998333a016392d05cb37c1c36d207934f2f58259ff772a656&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZsQejdrTCr2V3405taCyn6alzaibE2xUoZL8H6v6Q28AvRWUGqpibzvMlrVyiaUqRm6OI7obcOjOu8HUk9Pwd62NGlmGFydQxLoU/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言TP 并行下每个 transformer 层至少有两次 all-reduce（attention o_proj 之后、MLP/MoE down_proj 之后），几十上百层的模型 dec</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532034&amp;idx=1&amp;sn=cf431c82df837a44a855bb8a2ec335be&amp;chksm=9eadc77247049d7ac8028c2913098a536355e46aee6ef58938a1a350ec339f5d2b2c554c0b0a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Jul 2026 22:23:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客翻译·译述】Triton 插件扩展：开箱即用的 TLX 与自定义编译器 Pass]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYcRbK1u8mrzW40KrUfn57lVaaZI7FAut5MvRYJmibxEyjib1wsNPmicjOgvcewicAxzrTBun1krNcI8X6vrEUB3m8DREsicSiamge7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Triton Plugin Extensions原文：Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532017&amp;idx=1&amp;sn=4a5ac09eddc9a1362845f595e6f2e1e7&amp;chksm=9e9c946e62f9b3926dada784c05ecf8eca906c640128ab86ef3ac1680aebb97edc2d4bc6db93&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Jul 2026 20:58:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
