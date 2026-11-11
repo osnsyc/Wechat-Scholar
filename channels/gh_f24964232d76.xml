@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[22,195 次提交，长成了一座城：SGLang 的年轮]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZRjic2gxFW7leYIweM716Mq6AMAL0icIdgXHJVaV72yzQnDgxf3PlGTbiaJicl6yflpRAbshicCIQibA8u6yPzQlDs9kzamv4P2Vsuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>把 SGLang 仓库 1,038 天的 git 历史渲染成一座城：每个文件是一栋楼，行数越多楼越高；每过一个月，城市向外长出一环，像年轮。22,195 次提交、2,334 位贡献者、408 万行代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532751&amp;idx=1&amp;sn=64ab96e0223405fa77cce83aa570d54f&amp;chksm=9e2b1563266c9ffcf7b7627b30101f49d8f204a725d663d0778a269a95c05a9435e83f2e9347&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 12:18:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Fable 5.2 发布：一支由它自己制作的十分钟发布片]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KY6m1986M9bCCzkZrxTv7wIaiaSj5Dgz9FQ3h3l154cOLtdUic6X4S4YKSeXrzbnRkvia5gQHWPYGGpHsSGzsnmVsjw86ANwDtZuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>11 月 9 日，Anthropic 发布了 Claude Fable 5.2。这是一支非官方的发布解读：脚本、画面、图表、动效、配乐和剪辑都由 Fable 5.2 完成。片子顺着官方博客的五个部分讲</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532744&amp;idx=1&amp;sn=e33657f19edace6d3ff53828364c9120&amp;chksm=9e3c926866b67f11ca0ddda7162881485eefab3e64962e3970a76d67950a879e6630c35c4255&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KbAAyIFP6sSPPTefVd9IC867Ke26pRypeNndeW1tyynqAVMuOH8btYt0jsQzD565KXBgia30D3jCdneckkaTPbsYTaLFxOs50c4/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文地址（https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support） 翻译于2026年7月28日10:00，后续更新请见原文SGLang g</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532081&amp;idx=1&amp;sn=0eab3f7bcfbf53aad815cebddd2bae98&amp;chksm=9e6f2288609bf8960722ec0c47011b505435809146419ff11f24bc9e514de0f3cc1ef6491716&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Jul 2026 14:47:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang Custom AllReduce v1 与 v2 实现原理详解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KZsQejdrTCr2V3405taCyn6alzaibE2xUoZL8H6v6Q28AvRWUGqpibzvMlrVyiaUqRm6OI7obcOjOu8HUk9Pwd62NGlmGFydQxLoU/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 前言TP 并行下每个 transformer 层至少有两次 all-reduce（attention o_proj 之后、MLP/MoE down_proj 之后），几十上百层的模型 dec</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532034&amp;idx=1&amp;sn=cf431c82df837a44a855bb8a2ec335be&amp;chksm=9eadc77247049d7ac8028c2913098a536355e46aee6ef58938a1a350ec339f5d2b2c554c0b0a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Jul 2026 22:23:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
