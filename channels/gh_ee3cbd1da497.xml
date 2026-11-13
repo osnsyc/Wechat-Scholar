@@ -10,6 +10,18 @@
       <title>gh_ee3cbd1da497</title>
     </image>
     <item>
+      <title><![CDATA[EMNLP Best Paper | 压缩线性注意力里的长轴Q，困惑度大幅降低]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/NNRB91r8oSXu5TZbLFbkvCkGhAdxmb0dQtXeibZicRdfib8JH86IKjpUzqQtn7YrvNMIGco4Y4icgTiaK9PKDHnbJBZibplwIqibWKztntZ3lZI9z8/640?wxtype=jpeg&amp;wxfrom=0"/><p>线性注意力把已经见过的内容叠进同一块记忆。要找的那一句，和其余句子加在一起。softmax 会让这些句子去抢一份固定的总质量。线性注意力为了把计算从平方改成线性，把这场抢省掉了。这篇是 EMNLP 2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619366&amp;idx=1&amp;sn=77f1436b2ad30384bea3f182912ef4a8&amp;chksm=e94a265054368348dcb9e56be1443e12d9c004bd6c9a4b88bf108bb964a3f7e3892b4d83416f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 16:50:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ACL 杰出论文 | Train-Free的逐步剪枝，效果好于传统Prune]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/NNRB91r8oSVtDODS1ibrc3oNsRU1d9WDh92JR2HVsAIkvlpuYy6QgRibqVBKDkkoq47FRF8alZsacP0Ego7JJGUicVb2avm1K46JialfNfYARXM/300?wxtype=jpeg&amp;wxfrom=0"/><p>把每一层都剪掉同样的四分之一，看起来很整齐。层和层的用处并不一样，有的层里大片都是闲的，有的层里闲的很少。按层去逼近原来的输出，保住的是每一层看起来还像原来，不是整句还像原来。这篇是 ACL 2026</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619366&amp;idx=2&amp;sn=32c30415f789a9f453c0ab7a1afcb691&amp;chksm=e93b269be595c31a1c34ec875c1ec78b4a79054e274d5fc10750d38357ee46b3ca404b202fa8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 16:50:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌官方版Jev？ Deepmind发布Gemini Decision！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/NNRB91r8oSUz4XFPANM0k7OXWXtTekbYeZrqk8GzzHRS6Ck0JNpj74Q1RTygW490eWiap6fJYtiaQq1Yl6V8kQhicXB2Z12gxa3vnZiaoDGzlTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>11 月 11 日，谷歌 DeepMind 的 Min Choi 和 Felix Yu 放出 Gemini Decision 1。一次请求里最多放 1000 个问题，可以是是否、从选项里选，或者按档打</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619349&amp;idx=1&amp;sn=a45ef5f9adabaf2607c15bdc323d9520&amp;chksm=e9f886eef1d74bb5865cc9c702871575a307b4759b1cf6b971cc79a4fd029c03cee1038d4d29&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AIR6eRePgjPdoG7Ne8ibGsnn7iatP5ibZKRibfa7Y7NwBCptSExylUibOKcMVS92iaDACN5kw2ibeIhEf2v8c0KuYx96Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>“问渠那得清如许，为有源头活水来”，通过前沿领域知识的学习，从其他研究领域得到启发，对研究问题的本质有更清晰的认识和理解，是自我提高的不竭源泉。为此，我们特别精选论文阅读笔记，开辟“源头活水”专栏，帮</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619058&amp;idx=1&amp;sn=f7ee9146fad5d108e1cc0531be22067e&amp;chksm=e9333387748ff9dc639c821b16f46cec6b8f6906cad59a5d15ff1cf80c57bde768c14ee15d0b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Jan 2026 18:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【他山之石】不止于Prompt：揭秘「神经网络可重编程性」]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AIR6eRePgjNkhEAcUQAEaLlGTUsDVEjsc2PUaYCKFlEpohq9WP5DHBQgfp7aSGW1ics0laicRcdmSOaEmwQ1XV8A/300?wxtype=jpeg&amp;wxfrom=0"/><p>“他山之石，可以攻玉”，站在巨人的肩膀才能看得更高，走得更远。在科研的道路上，更需借助东风才能更快前行。为此，我们特别搜集整理了一些实用的代码链接，数据集，软件，编程技巧等，开辟“他山之石”专栏，助你</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619058&amp;idx=2&amp;sn=85e5c2def5b499826261dd155d56297e&amp;chksm=e903ad4ba548cb75915d632838524cc4fe7ba597112ca7c141754198b29c41bc3a5765cb7856&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 18:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【源头活水】思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/AIR6eRePgjNkhEAcUQAEaLlGTUsDVEjs0Ku77mZ5tncnuxD3TIb5QaJN1YuZHmRF1O4nrors3aIqIq2zInJXiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>“问渠那得清如许，为有源头活水来”，通过前沿领域知识的学习，从其他研究领域得到启发，对研究问题的本质有更清晰的认识和理解，是自我提高的不竭源泉。为此，我们特别精选论文阅读笔记，开辟“源头活水”专栏，帮</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619051&amp;idx=1&amp;sn=f67719b0265929f576de46409ee60530&amp;chksm=e90f2f3fc60358d06ec3b50e36cd41a99afdc5b2dade1d29869f168dc6cef033061168084a9a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Jan 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
