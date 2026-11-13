@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[床前明月光，AI 为什么知道下一个字是「疑」？｜把它的脑子拆开看了一遍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KbtYjpSWIrGTaJ6TIGtE3B8ibgndkMvEVHiacMia73xLvxS410UZc6XzPWEacZYr5LOK3icr7sicH1cqibfWq4t1RCibkT4PHtYJpHpHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>给 AI 一句「床前明月光，」，11 毫秒后它接出「疑」。这支片子把这 11 毫秒拆开：6 个字换成 6 个编号，每个编号变成 2,560 个数，穿过 36 层、1,152 个 attention h</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532778&amp;idx=1&amp;sn=dd984bf415a473f496a51db583f9b8e6&amp;chksm=9eec875ee9088cca50e4e5fc1d4f8146b005ec244f2eff7b17c93f709aba828cc7d54cbc570a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 07:55:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenRSI × SGLang-Omni：为 AI Infra 规模化 RSI]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KaSef9icFvfp7ibnl587SergvZcJxWFInEhhwII7QFw25pkuzXRX3FGctF6QL2Tlme0ppafSicTFeVnbNoic77ibp4lLN65phSujs54/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenRSI 把递归自我改进（RSI）扩展到真实世界的 AI 基础设施上。我们的 agent 持续运行性能优化循环，每一项收益都由独立的验证器确认；人负责定义每个问题，并在最后审核改动。在与 SGL</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532764&amp;idx=1&amp;sn=809deb181cf36a33c7154457be4f98c9&amp;chksm=9e1302ac9dc97d82618dd8f76f9e74e17b6c25b3b2599aa4d1331cf3485aa234ccbc4b11984f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbCYMMNplNiaicjgGqXwpEicNpRiaucPkiaDdibD8pk7z0pICJ71aOMn50x1vJoyIERrorj5VFI5rEIh0MPFEibh1mZhwSDUViaicz4wjxc/640?wxtype=jpeg&amp;wxfrom=0"/><p>PDL 在 SGLang Kimi K3 中的应用Kimi K3 是一个 2.8T 参数的混合注意力模型。decode 一个 token 需要经过 93 个注意力层（69 层 KDA + 24 层 M</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532111&amp;idx=1&amp;sn=76fa14acfc76421bad2f27583c504dd0&amp;chksm=9e91beb8d412329315e6955db5b5b39c635f0df44a52c87dba734776c9f54a944de9c6704f85&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Aug 2026 12:19:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【博客翻译·译述】让归一化接近“免费”：把 Norm 融合进 GEMM 与 Attention Kernel]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KZUWdCl3BTDn18o5fnF2MPRu8IGtuBB42myGKviaiaM2fQvY579m5ySCFuzIJwZv1tz3RmMGlbTibvicqZ4dib2ocCtks5mx4LPLqys/640?wxtype=jpeg&amp;wxfrom=0"/><p>Towards Free Normalization原文：Towards Free Normalization: Fusing Normalization into GEMM and Attentio</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532101&amp;idx=1&amp;sn=650409258c812986dc72a7a458c2e170&amp;chksm=9ed7c4fcffa0ac6d01892941547ac1795a897ff636c4dc314e504b44539bff1c6bd52dc937b4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Aug 2026 21:31:16 +0800</pubDate>
     </item>
   </channel>
 </rss>

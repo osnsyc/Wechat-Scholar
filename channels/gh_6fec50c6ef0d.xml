@@ -10,6 +10,24 @@
       <title>gh_6fec50c6ef0d</title>
     </image>
     <item>
+      <title><![CDATA[Qwen3.8单卡700tps，本地党这次真赢了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrTibVEpA64ricmta80ibBcOZWdXXMU6ClY7gHd0EdTlFjibsicaXx6bGLuGV5TPa66m2MgXo5zoa32D6KzgOocu70p5YAqTb7KAAzE4/640?wxtype=jpeg&amp;wxfrom=0"/><p>本地跑大模型最磨人的是等。一条提示词丢进去，光标闪半天才蹦出第一个字，再好的模型也用不顺手。这两天社区里连着冒出一批实测数字，把这道等待砍掉了一大截：单张消费级显卡跑 27B 模型，速度被推到了以前</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506225&amp;idx=1&amp;sn=4c83320ae549b7c68f1654a1ea33ce07&amp;chksm=c1aaa68acc33e372265bee771861ab2649f4187f1e965c051a3ef6758ee997c27d5a84d321ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 07:34:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI编程诀窍040：提示词正在打架？让 AI 列出矛盾处，这 4 个坑先看清]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrSUfEoNgUswLcWD4nkSqJFgTm5YESSic7EenkC0IfU6gIsJRxwzLTadaiaGIrA3cMkxofI6Rx8ibj5iboqYKXoKyWROeZwhqqoZYXw/300?wxtype=jpeg&amp;wxfrom=0"/><p>你的规则互相打架时，替你拍板的是 AI。常见错法你跟 AI 一起干了几个小时、几天、几周，控制台一直热着。提示词写了一堆，智能体、指令、记忆、技能越叠越高。干着干着你把业务摸清楚了，主意也改了几轮，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506225&amp;idx=2&amp;sn=d1530ac4719af72586fda5f1e878fc16&amp;chksm=c1feac00b23c1a3f00d9c0cee741d68023d9e731b3ca4949c08d86e720dfbce731ce037b807a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 07:34:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GPT Image 2.6发布！在图像双榜上击败2.5]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrSnib36Ke8e9hZ9SwCqMG6v2HTglf1Nh7cH8rk49y0aBLk2p2t9yo2DZWArwlEXW8AaZEA4UEia4u1LSUiazojZia0TUiamENR9HmlI/300?wxtype=jpeg&amp;wxfrom=0"/><p>图像生成这块，最近出了件挺反常的事：同一家公司的两款新模型，把文生图和图像编辑两张榜的前二名全包了。更反常的是这两款的走法完全相反。一款把出图时间砍掉近一半，另一款主动变慢，反倒坐上第一。质量涨了，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506225&amp;idx=3&amp;sn=ba21325af47839d1536741cdd8709388&amp;chksm=c192b754a664115dd67f763e372abd3ff707fb20ab416356f11f3b94d4e60225f8967f1c185e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 07:34:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[FlashState让GLM 5.3 Flash吞吐翻三倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrRjLEVe73jPejicaJ8XsVakIJZwcwLmJW0R6HIz7EFibc76iaFXZmiaiadgwbKHqODMUzEVHp01FDCZyDYBuKMPhqWzLzrAL5Ocl4SY/640?wxtype=jpeg&amp;wxfrom=0"/><p>让一个编码智能体干活，它其实是在一圈圈地循环：模型提一个动作，工具去执行，结果追加进对话，然后整段对话重新发回模型。一轮又一轮，上下文越滚越长，可其中绝大部分，服务器上一轮刚刚算过。等于每翻一页，都</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506149&amp;idx=1&amp;sn=33cda4498cab05d30bab74844d45f3ec&amp;chksm=c155c39c3c2038c5caa1d51773d568669bd8651c49cc7f735207bbfd923b6e45d5dae7c474f7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrRoziaFqtPU48QWeKibgNue3DmcibIR3qVB6BpmrfddkHpuSCsCdfwwA5U1E4Ce77nKqxfRJq3NviaVR9PQPR4Xq18ZPjAPQ4kevrs/640?wxtype=jpeg&amp;wxfrom=0"/><p>◆ 原标题Better Matching, Less Forgetting: A Quality-Guided Matcher for Transformer-based Incremental Ob</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505249&amp;idx=1&amp;sn=e76937bfc98e294b5d992db2629f0059&amp;chksm=c19b47c06fbf566c60147c6b189f96a50dd50829dbc23c38af4cb25d1ccb9a754c1eec3b9363&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Oct 2026 10:19:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI编程诀窍025：每个技能配本错题集，AI不二过]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrTbxjiaKic60mtFkvauLSMtf1VF6PLusbj5Cm7yfPAjfDBne8VSf1xKOD12rWJYRYd4L867jv8gYjeTACqsZazYyHxAzQO8ClQJ8/300?wxtype=jpeg&amp;wxfrom=0"/><p>只走顺路是不够的。一句话说清：给每个 SKILL.md 配一本 PITFALLS.md（错题集），让 AI 永远不再犯同样的错。常见误区你花大力气写了一份漂亮的 SKILL.md，AI 大部分时候照着</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505249&amp;idx=2&amp;sn=b27e956e8a7f235fcd82e3d39f0dbfa7&amp;chksm=c160f8cc4ceb3cd7ac8f8aeb6e1ca826be6d398c987c9a5ae0374fbf3431e87afac985d8393b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Oct 2026 10:19:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让 AI 接手项目不跑偏，这 8 条指令写法照抄就行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrSKMPVjNvn3empuXQGz0DDkapA74mxAJXLfCFH2gL54Tpgn4tsp1Oe1R6QUXwyfPjpHrr8iat8agU38XwYlhoRAiakfWINciaicDIc/300?wxtype=jpeg&amp;wxfrom=0"/><p>「把这篇文章加到我网站上。」把这句话丢给写代码的 AI，麻烦立马就来了：它是该写个草稿，还是直接改本地项目？要不要开浏览器检查页面？要不要顺手发布？你心里想的是一个结果，它停在另一个地方。文件确实存下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505249&amp;idx=3&amp;sn=f499ec7ec1898e0f4bb33e5c7c35abed&amp;chksm=c13eb2291f89c6013feb085e5d28078faad36227b4c91eee90add6e9648f883db67c3185ccf7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Oct 2026 10:19:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个无语言基础模型足以实现通用视觉异常检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrR2yz4OAkKs6xPXicnFTsAIw74hEOMGtWp7YgwVyYOvPibLqsvqHWz7naJhVMic424qcRkDibHVicY9Yq5YAfjMHiaq75wQHHrL0sGRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>◆ 原标题One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection◆ 下载https://</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505166&amp;idx=1&amp;sn=0821ec47602f28d5fa2d7d140f7f6409&amp;chksm=c12c641982eb796b576be5a3ef8c369c40ad9603c9d19b805a6235ad95a16e42b2db02fbc8ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Oct 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
