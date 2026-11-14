@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[Ego2Robot：四条路径把人类视频变成机器人操作能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaI86UicCc9zMIn0ylS31XibGLwbiaEBASXbGT8TU1ukGZYGRkzXBEKo2WNe8ias71au3FOmr6vibYbOFR7W8L66KXALuDgH2BfntUH3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇综述回答的问题是：没有机器人动作标签的第一人称人类视频，怎样真正转化为机器人可执行的 manipulation 能力。它的重要性在于，人类视频容易规模化，却始终隔着形态、视角、动作空间和接触动力学</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486293&amp;idx=1&amp;sn=9a45c3f77b4c777afc0ed1ed124d1ba7&amp;chksm=c0a80298654d2123fdad1546241ed21f3ff17e49d13c7a2e9dc3a4ad03d8ae2df0ab74c4e1e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Nov 2026 10:19:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Evolving Infra：解耦算力与 KV，平均 6.2 秒切换节点角色]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI9at7C9dHibn9tUicADJSnJw5UkTsiaK7je1lJTtLShg0MYqqicFcCSaiauk5AGTzEn55CVhRialIfHSSImpafBibV2x4loicibvtOqEOMI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 的多轮请求既会反复复用长前缀，又会因工具调用、子 Agent 和上下文压缩不断改变计算与缓存需求，传统 PD 分离架构因此容易出现节点角色切换昂贵、负载估计失真和 KV 误淘汰。Evolv</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486268&amp;idx=1&amp;sn=b1d42b67932998f2bd004632f4b56087&amp;chksm=c0fe16b5dade002c54dbb6f15635365a24cb685f1338d34b0af7c7619d749f1ba173b9f7b087&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI88zutKm1jPiaZNEeJiaLMwPDib6R9bo1UcfqednAgias3WjibL6v3ufRAo94CEAviaT368kUbibjHpujPmUvu8NZZ5cVxVdZ3vQe1gdY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文要解决的核心问题很直接：为什么多模态模型总是采用 “语言主干 + 外挂模块”，而不是像语言一样被原生建模？LongCat-Next 给出的答案是：把视觉、语音都离散化成 token，并和文本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485549&amp;idx=1&amp;sn=7dc90af47eeecfec55a71d1a44745500&amp;chksm=c0a0ba3550a58cb8273278059e3ca5b4f5e129692abf35d0cff1bbded8fb91e22a11d1188f4c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 22:16:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么 Self-Distillation 会“越训越短、却越训越笨”？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaIicXTTqaIF9bGibTAzqiboicvF87uUQYZmUw4JfeaMABHYaGxczf3T0iaLNfbNB7SxX8zYYNib7SkwWwgOuBvLhgqjrXSBZAFyxxF0m8/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 一句话先看懂这篇论文这篇文章的核心发现是：Self-Distillation 在很多任务里确实能让推理更短、更快，但在数学推理这类高泛化需求任务上，它可能会压制模型表达不确定性的能力（epis</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485504&amp;idx=1&amp;sn=814ccf42a5faa864d27a9981159367b9&amp;chksm=c0f4c8885aeb078163ec194fcf2fd42e7af8345181e3361c5aabc484e3e43ceea9b5d056dc6f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 21:44:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
