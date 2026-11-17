@@ -10,6 +10,18 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[CUA Generalists：把具身任务变软件，同一Agent四项竞赛进前六]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI84zALHG65KSdVfKeXtYaTzwwpnzhXAcpicBcWnWjITV67sJAc1ia9YRCzM3dXXZexjtfeAy8VKxxjAjfzGTibIbiahbYrVcgP9es8/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇工作要解决的问题很直接：能否不为导航、3D 分割和机器人控制分别设计专用 Agent，而让会操作电脑的通用 Agent 直接完成具身任务？作者的核心做法是把物理环境包装成软件：屏幕呈现环境观察，键</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486299&amp;idx=1&amp;sn=aaaef285e07d56c07961d2795b3eb7a0&amp;chksm=c0feeb594f94d8d7197712aa5d7f111e3966141430a35306c7f8364d2f63b95a96f53e252d34&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 21:34:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[EmbodiedGPT：思维链规划查询视觉特征，闭环驱动机器人]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaIibOTpD0GJ5LIGO4yg3tqB9Xs18LyiaLLnCqqxXjl6ntuTiciauOmCtGXyzzSxyweEpISu62gQZZxo2eXZGIf188mic860DMZnztVoo/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇工作解决的是多模态大模型“会描述、会规划，却难以直接驱动机器人”的问题，同时希望降低具身数据标注与大模型训练的成本。其核心思路是：先用带 Chain of Thought（CoT，思维链）的第一人</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486295&amp;idx=1&amp;sn=b28eefff9cc0127b2101ab75d82deb66&amp;chksm=c02669b7366ae801fe8bee622c392c63cbc4ea74839960c38d247da6fd35358bb1ce3770e291&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Nov 2026 10:53:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Ego2Robot：四条路径把人类视频变成机器人操作能力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaI86UicCc9zMIn0ylS31XibGLwbiaEBASXbGT8TU1ukGZYGRkzXBEKo2WNe8ias71au3FOmr6vibYbOFR7W8L66KXALuDgH2BfntUH3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇综述回答的问题是：没有机器人动作标签的第一人称人类视频，怎样真正转化为机器人可执行的 manipulation 能力。它的重要性在于，人类视频容易规模化，却始终隔着形态、视角、动作空间和接触动力学</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486293&amp;idx=1&amp;sn=9a45c3f77b4c777afc0ed1ed124d1ba7&amp;chksm=c0a80298654d2123fdad1546241ed21f3ff17e49d13c7a2e9dc3a4ad03d8ae2df0ab74c4e1e1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIicViaKyh3KA2W0YmyB2icMbsJ5XiaraicIsRYKumZ0l1U74jYiaggh8QY6PCoMCMTSwT98gpkDTvJeAWVfvop709y3mSONS2WnjJ6icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先说结论这篇论文解决的核心问题是： 现有 RLHF 系统要么灵活但慢（单控制器），要么快但僵硬（多控制器） 。HybridFlow 通过“层次化混合编程模型 + 3D-HybridEngine</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485594&amp;idx=1&amp;sn=8c3fbb9e644aa100fd64a3bc8da0f273&amp;chksm=c07017b9098352427d6433a2ba21875f82e17640488c251c9ce75ddff0ca407f1bd34c3d9c02&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Apr 2026 22:29:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Meta-Harness：把“调 Prompt”升级为“自动进化整套 Harness”的端到端方法解读]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI9YPicmWCSwa0FhcicUib6Iq9EITF7NNzDOdqWJZFNyWwKiaUTDGtBU2Po5pMGeVYVfIiaP7owPCjmt5wMWDMeMfVVg2bicTYNQhnpm4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先看懂这篇工作要解决的问题很直接：在 LLM 系统里，真正决定效果的往往不只是模型权重，还包括外围的 harness（记什么、检什么、怎么喂给模型的代码）。作者提出的 Meta-Harness</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485559&amp;idx=1&amp;sn=e9bac8bfd67c2a1433fa6e33c4a4a5aa&amp;chksm=c015487a9134ab72c0f41dd8d3dea71f78131890946cc51cfa4411137bd52fd3aa5f50fa31dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Apr 2026 21:36:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LongCat-Next 解读：把视觉和语音都“词元化”，统一到一个自回归大模型里]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI88zutKm1jPiaZNEeJiaLMwPDib6R9bo1UcfqednAgias3WjibL6v3ufRAo94CEAviaT368kUbibjHpujPmUvu8NZZ5cVxVdZ3vQe1gdY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇论文要解决的核心问题很直接：为什么多模态模型总是采用 “语言主干 + 外挂模块”，而不是像语言一样被原生建模？LongCat-Next 给出的答案是：把视觉、语音都离散化成 token，并和文本</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485549&amp;idx=1&amp;sn=7dc90af47eeecfec55a71d1a44745500&amp;chksm=c0a0ba3550a58cb8273278059e3ca5b4f5e129692abf35d0cff1bbded8fb91e22a11d1188f4c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 22:16:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

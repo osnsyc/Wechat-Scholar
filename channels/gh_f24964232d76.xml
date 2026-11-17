@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[DGX Spark 跑 124B 的 Ling-3.0-flash：三个优化，单用户每秒 36 → 103 个 token]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYottTAXSlYGJkXBgiaWoaFyPsBNKfVnfHDUib1pNbHvRwjiaywicRdJPYz9U3Ov6sA2Oniaqfo9jY6RwiarmTzcfr1dibd4IuicVzCKh4/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：NVIDIA 技术博客《3 Ways to Boost MoE Inference on NVIDIA DGX Spark》，作者 Yang Liu，2026 年 10 月 27 日。原文地址：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532799&amp;idx=1&amp;sn=8c042450ffdc2c78d4fe4a954ccdc211&amp;chksm=9e1b80d9a336e0f442e551ce2a31a389689760886bfac846a0d3e8605578d84476682b4899d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 10:33:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[床前明月光，AI 为什么知道下一个字是「疑」？｜把它的脑子拆开看了一遍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KbtYjpSWIrGTaJ6TIGtE3B8ibgndkMvEVHiacMia73xLvxS410UZc6XzPWEacZYr5LOK3icr7sicH1cqibfWq4t1RCibkT4PHtYJpHpHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>给 AI 一句「床前明月光，」，11 毫秒后它接出「疑」。这支片子把这 11 毫秒拆开：6 个字换成 6 个编号，每个编号变成 2,560 个数，穿过 36 层、1,152 个 attention h</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532778&amp;idx=1&amp;sn=dd984bf415a473f496a51db583f9b8e6&amp;chksm=9eec875ee9088cca50e4e5fc1d4f8146b005ec244f2eff7b17c93f709aba828cc7d54cbc570a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbiboxPmfwFveiajTmChBmicYZ2xX0knyO420gH8Pp6zySIeVb08pic9zzzhiciaLDLL2icicyAoenoX8icNia8RibIScM3JOhc6ibQCRRMoIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPT5.6Sol + Claude Fable + 人工共同创作SGLang Custom AllReduce v1 线程模型和工作原理细节上一篇《SGLang Custom AllReduce v</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532120&amp;idx=1&amp;sn=625df22eaf6a5e3c130dc3654ba4a2dc&amp;chksm=9eeab3f78f59df44c4cbef1bb85f6dab2f5621ca00eb8b51eb971cd225af3edee260f1acfa1d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Aug 2026 17:37:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PDL 在 SGLang Kimi K3 中的应用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbCYMMNplNiaicjgGqXwpEicNpRiaucPkiaDdibD8pk7z0pICJ71aOMn50x1vJoyIERrorj5VFI5rEIh0MPFEibh1mZhwSDUViaicz4wjxc/640?wxtype=jpeg&amp;wxfrom=0"/><p>PDL 在 SGLang Kimi K3 中的应用Kimi K3 是一个 2.8T 参数的混合注意力模型。decode 一个 token 需要经过 93 个注意力层（69 层 KDA + 24 层 M</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532111&amp;idx=1&amp;sn=76fa14acfc76421bad2f27583c504dd0&amp;chksm=9e91beb8d412329315e6955db5b5b39c635f0df44a52c87dba734776c9f54a944de9c6704f85&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Aug 2026 12:19:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
