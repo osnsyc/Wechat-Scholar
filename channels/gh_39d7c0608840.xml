@@ -10,6 +10,18 @@
       <title>gh_39d7c0608840</title>
     </image>
     <item>
+      <title><![CDATA[谷歌没公开的 Vision Banana，纽伦堡工业大学开源了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0AdbSpdX3JdibOvfFh7gm0Nk9V0Iny509E0lMO4gsMSRBkg7doVhbc9XOFOTuqmPOn0bDXAxpibSEiaIVWkibp3LRHqmK8W8yTxBZzsicQhkicmlc/640?wxtype=jpeg&amp;wxfrom=0"/><p>读完记住： Open Vision Banana 用公开的生成器、数据和训练配方，复刻了谷歌没公开的 Vision Banana。零样本 Cityscapes 到 73.9 mIoU，但它不是“模型突</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcxMDIyMzg4Ng==&amp;mid=2247487075&amp;idx=1&amp;sn=d451897db609d7a9209b01b37cf98b1c&amp;chksm=f40f84298b44db40022b191f20b24e2c9a09d3f5f619b72e22a8b104028aaa5482e086ff9912&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 23:25:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[31.7B 生图塞进一张 H20：微信 WeLM-Image]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0AdbSpdX3JfOnhxZ4tFmwn0NVicXmDOuZJPllveY3V7wUbBffKu2ELezq5aE4AmIQxRMxP1hS740QvNEwDIJflQXUIU94AbsVHskt6yQ6Eicg/300?wxtype=png&amp;wxfrom=0"/><p>微信视觉团队发了一份报告：一个模型、一套权重，同时做文生图、修图和多图参考——给四张图换装、拼场景，也不用换一套模型。31.7B 参数塞进一张 H20，Turbo 版 8 步 4.98 秒出 102</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcxMDIyMzg4Ng==&amp;mid=2247487075&amp;idx=2&amp;sn=c3372ebc64ba8c5326280f059bd5dca9&amp;chksm=f46d3b094e9959ab5dbf1c842ba42d3ef6e61b6d1084a1eb693b692ed1a0a653f647b339b00e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 23:25:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[纽伦堡工业大学开源 OVB：画图做感知，零样本 73.9]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0AdbSpdX3JdhrWeAqVopED4TNqIdfKIiaXtBDOb2XpUVViagto1aetRShQSvVnocp9BpyZ06uZv9nIAgobXWHtHIpmPiaH2UA8fw4sV2PYaQzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>把语义分割的答案画成一张彩色图片，让图像生成器“画”出来——这是 Vision Banana 的思路。它很强，但数据、权重、代码全不公开。Open Vision Banana 用公开的 FLUX.2-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzcxMDIyMzg4Ng==&amp;mid=2247486906&amp;idx=1&amp;sn=39f91c183e7cd18d462cb9710a0acc90&amp;chksm=f4cba42817286e6a856c4723df01cd5de2684ab66ffb3ee0701f4c6c264dd88e7db966310172&amp;scene=0&amp;xtrack=1#rd</link>

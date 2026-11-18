@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[去年手写 megakernel，今年把它删了：Together Compiler 是怎么来的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2Kb6kk6I8p6qm3UtPLXaNK8w7Ud2acuF2Dc6TPVEFoU461p5Kticnt8f5pJ7sEHAFUCGEX4bkKm8vnrqomYUc5DKibldjAWhgiccmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：Together AI 博客《Last year we built megakernels. This year we deleted them: The road to Together Co</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532854&amp;idx=1&amp;sn=66a5722faae8ef7d0a061c69e128793f&amp;chksm=9e838b6de37bf749ae03087e07e0a883661e462f09b1615435d47e0eebb0898794eb8da29daa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 19:44:18 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DGX Spark 跑 124B 的 Ling-3.0-flash：三个优化，单用户每秒 36 → 103 个 token]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYottTAXSlYGJkXBgiaWoaFyPsBNKfVnfHDUib1pNbHvRwjiaywicRdJPYz9U3Ov6sA2Oniaqfo9jY6RwiarmTzcfr1dibd4IuicVzCKh4/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：NVIDIA 技术博客《3 Ways to Boost MoE Inference on NVIDIA DGX Spark》，作者 Yang Liu，2026 年 10 月 27 日。原文地址：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532799&amp;idx=1&amp;sn=8c042450ffdc2c78d4fe4a954ccdc211&amp;chksm=9e1b80d9a336e0f442e551ce2a31a389689760886bfac846a0d3e8605578d84476682b4899d1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/JGW0bUOic27VQHZuB6AazDrsyibd1PpltRyKvo6QyTLiaTngAoQiazB6lROAQWIxokOOnaZEAaxT8kCpgMfkCva5FHIMgFmku3h6e2P1zUG7vqM/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯把自己生产环境里跑着的算子库，搬进了 SGLang 的主分支。01发生了什么8 月 7 日，LMSYS Org 发布技术博客：腾讯混元开源的算子库 HPC-Ops，三个核心算子（Attention</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532122&amp;idx=1&amp;sn=085e6ed10271d04e5693ad65aa4302f6&amp;chksm=9ed2ed7f46aca9806816d3d7ee10c6ac74e12df9d4a1c32567c979d669fbdcc8c87d920dc4b3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 08 Aug 2026 19:26:45 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang Custom AllReduce v1 线程模型和工作原理细节]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbiboxPmfwFveiajTmChBmicYZ2xX0knyO420gH8Pp6zySIeVb08pic9zzzhiciaLDLL2icicyAoenoX8icNia8RibIScM3JOhc6ibQCRRMoIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPT5.6Sol + Claude Fable + 人工共同创作SGLang Custom AllReduce v1 线程模型和工作原理细节上一篇《SGLang Custom AllReduce v</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532120&amp;idx=1&amp;sn=625df22eaf6a5e3c130dc3654ba4a2dc&amp;chksm=9eeab3f78f59df44c4cbef1bb85f6dab2f5621ca00eb8b51eb971cd225af3edee260f1acfa1d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 17:37:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
