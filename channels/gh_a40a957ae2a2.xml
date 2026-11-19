@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[这个巴掌大的RTX Spark盒子，让我实现了Token自由！！！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRNA8OL7NLxCWNRM5batpTB1D8ZZ0YCxWD0BIYOsYtGOX3VOibvXCQNC4HYa9GMwibajpqv0S9lACTSESVEKiaVdg13sUEIiaXRXLnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。自从NVIDIA推出RTX Spark，我就想搞一台试试，统一内存，配上CUDA生态，还有Windows加持，这不妥妥的本地部署模型一体机了吗。正好前几天有一个华硕的朋友，说他</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247504934&amp;idx=1&amp;sn=d16ddd5ee9ca4359b9f939b602c4a7f5&amp;chksm=ce54c31a5b1178ebe95ef1a1f0b34f7882a9573ae71b5797e6c76d093973bc45f64a6a530b11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 16:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[挖到一个本地部署的开源视频模型，16显存就能跑，还嘎嘎快！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRP2RQygS0tbZHe37B8Yhxm4qNU9T7rDrJlG2phu1AFfymibkGZWwLJVgNdjzib6fPHjWa7rP0UCgnIYzSUlEsvhF76hwJyblqPqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。我前几天分享了24G显存，本地部署Qwen3.8-Flash-Next还是Qwen3.8-27B？群里有个小伙伴问，想找个能本地跑的视频模型，花点电费做 AI 短剧，我脑子里当</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247504871&amp;idx=1&amp;sn=2a77fbd29dce0ee92b08e4a38ee352a6&amp;chksm=ceeff2e0454eb6aa6216027c2f02e776fe7edbfde3388724b97170bb30879b02fd349147a12a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRNWcujnmNSSma3icck463BTymKQq69QzVhvoZuB70TjwkU4zPLtLKwbVDuYoNVbqmdN1XpK7iaicHd3eNy0TmudLicUlmuIhHvq104/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。昨天DeepSeek Harness开源，瞬间10k+，现在已经84.5k了，感觉晚上或者明天必定可以100k+，这就是中国速度，哈哈哈直接用最近新发现桌面Agent分析一波，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501631&amp;idx=1&amp;sn=a9d30c6a082249a42aa58d5ac430a5ec&amp;chksm=ce78df12d0c5c4fdbdc39a07a522c48ee3fdada11be9e4a47c9ba2063c134d12eeaa78d7e0d9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Aug 2026 18:28:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Deepseek Harness Github Star瞬间10k+，恐怖如斯。 说一下晚间测试DeepSeek-V4-Pro的感受， 如果你是普通任务， 基本上看不出DeepSeek-V4-Flash-0713和DeepSeek-V4-Pro-0813有啥区别。 但DeepSeek-V4-Pro-0813还是比DeepSeek-V4-Pro-Preview要好的， 只不过Flash-0731给大家的惊喜太大了，又便宜、又好用、缓存又便宜， 看来后训练的提高针对超大模型，还是有点难度，也许跟原始预训练模型， 猫佬说Pro原始数据层面上有缺陷，我觉得有一定道理。 所以，这么看是不是抓着K3继续做后训练才是王道呀，哈哈哈哈， 我对DeepSeek-V4-Pro-0813的测试感受是不如K3、Qwen3.8Max。 我刷到网上有种论调，是梁圣故意没训练完，没放很nb的模型，我觉得没必要， 还有貌似昨晚的时候DS模型也有问题，我今天晚间测试的时候，没有像网上说的那么拉，现在应该是稳定版本了。 还有就是恰逢，DeepSeek还涨价了， Flash的缓存只从0.02涨到0.05，巅峰涨到0.1 Pro的缓存从0.025涨到0.15，巅峰涨到0.30，感觉Pro性价比可能就没那么高了。 最后，DeepSeek-Harness开源了，不知道是不是适配Pro效果会更好，测完再评论。 Github star已经10k+了，涨星太恐怖了 https://github.com/deepseek-ai/deepseek-harness]]></title>
-      <description><![CDATA[<p>Deepseek Harness Github Star瞬间10k+，恐怖如斯。 说一下晚间测试DeepSeek-V4-Pro的感受， 如果你是普通任务， 基本上看不出DeepSeek-V4-Fla</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501584&amp;idx=1&amp;sn=db145caa5eabd7c147ca4eb3c873f810&amp;chksm=ce916d4f4ed131e01f9f01869eb87043b32faf4b7572740c725dec1c0ed5490e3e8f1eefa7f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Aug 2026 21:39:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
