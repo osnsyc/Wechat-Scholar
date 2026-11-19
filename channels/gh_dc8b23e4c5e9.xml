@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[ScaleVLA：冻结552B视觉骨干，提升少样本机器人控制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIib56mLzjlWUQ52TnZJF8F3E7HYHO1ZMVCYx9Djic7N3hggxZYwQr1oZojEvgtmpGJvvfxuibZM7GpBlpiat2ReibSKXaY6cE36Pytg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章要回答一个直接问题：参数规模高达 552B 的前沿 VLM，能否成为比常见 2B～32B 骨干更强的机器人策略表征基础？这个问题很重要，因为机器人示范数据昂贵，而策略真正需要的不只是完成训练内</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486304&amp;idx=1&amp;sn=974cafe8eedb3046f72754b0ca52eb5b&amp;chksm=c081377947ac39c210f662f248bef978eadec19ca695d2ad0621673a8cc484608a927197869a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 22:16:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CUA Generalists：把具身任务变软件，同一Agent四项竞赛进前六]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI84zALHG65KSdVfKeXtYaTzwwpnzhXAcpicBcWnWjITV67sJAc1ia9YRCzM3dXXZexjtfeAy8VKxxjAjfzGTibIbiahbYrVcgP9es8/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇工作要解决的问题很直接：能否不为导航、3D 分割和机器人控制分别设计专用 Agent，而让会操作电脑的通用 Agent 直接完成具身任务？作者的核心做法是把物理环境包装成软件：屏幕呈现环境观察，键</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486299&amp;idx=1&amp;sn=aaaef285e07d56c07961d2795b3eb7a0&amp;chksm=c0feeb594f94d8d7197712aa5d7f111e3966141430a35306c7f8364d2f63b95a96f53e252d34&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIibRcBsQyXz1xHhHG6aRP6IB53Mb3Ca9VKib86CibaQ3ud8aCeJebslJhWQ0E1MibYbVDMY71DTiakicV53pYquzHdQA373qbialcgvib4/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek-V4 这篇技术报告的核心，不是单纯把参数继续做大，而是试图解决一个更基础、也更现实的问题：当推理越来越依赖长上下文和 Test-Time Scaling 时，传统注意力的二次复杂度</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485618&amp;idx=1&amp;sn=316669f6b47f7a920b65cd68357c3bc0&amp;chksm=c0007d12213e32fa1ccc6e1864375490306c381da280f7590bfaec6a73529369d00349820a0d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Apr 2026 21:21:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[HybridFlow 解读：把 RLHF 从“能跑”推进到“可编排、可扩展、可高效”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIicViaKyh3KA2W0YmyB2icMbsJ5XiaraicIsRYKumZ0l1U74jYiaggh8QY6PCoMCMTSwT98gpkDTvJeAWVfvop709y3mSONS2WnjJ6icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话先说结论这篇论文解决的核心问题是： 现有 RLHF 系统要么灵活但慢（单控制器），要么快但僵硬（多控制器） 。HybridFlow 通过“层次化混合编程模型 + 3D-HybridEngine</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485594&amp;idx=1&amp;sn=8c3fbb9e644aa100fd64a3bc8da0f273&amp;chksm=c07017b9098352427d6433a2ba21875f82e17640488c251c9ce75ddff0ca407f1bd34c3d9c02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Apr 2026 22:29:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
