@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[MMFlash：加权视觉依赖词元，无损加速 VLM 解码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI9rHKM3AwQIRadTFpZdia3sBU2fQOtgdRNurbuQia2Oarvg2TxbEohvkPpHoO9MvicdUW0uQbeSBiaEOiaiahgYvaKFyiabVwx9V2S1Ss/640?wxtype=jpeg&amp;wxfrom=0"/><p>视觉语言模型（VLM）在生成图表答案、视觉推理结果和视频理解内容时，仍受自回归逐 token 解码的速度限制。MMFlash 要解决的关键问题是：扩散草稿模型虽然能一次提出整块 token，却特别容易</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486314&amp;idx=1&amp;sn=f6173f05257b83b13de013709d6c0361&amp;chksm=c015f319c1330d771897c7f400efa44ac2e9ea15e293e74e37cc1563109e391e06a4380c0242&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 19:10:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SIM：记忆改进过程，让智能体框架跨模型续优]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIiciaAWW74vFAKXI4p64xr7gyvkGCbAVQibOuX6bNicA5AnKggWhJc2P0blLUL7uEYNUCT2FsdJ7Azs62LSUI6q54m63ThgCCGT7yc/640?wxtype=jpeg&amp;wxfrom=0"/><p>当任务基准或底层模型更换时，已经优化好的 Agent Harness（智能体运行框架）往往不知道该保留什么、修改什么，直接迁移甚至可能比原始框架更差。这篇工作研究持续递归自我改进（Continual</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486313&amp;idx=1&amp;sn=8a4f3c57bede6334eb71fc4cd175dc72&amp;chksm=c063b37f6cd17306d644a5d4bdc62b079ebb66c1c8ee05dbae321cc966fd6bdf6c4f99213bb1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIib3QN6FI8aa6TR55EEbDicSibqcH2ddnP5DTga8rxo5H8GAv3DvuBlyjzk5jenPtgtpibIYqj0ibwDZrgvjexbvUTkBXWVhZXResaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型和多模态模型之所以能成为"基础模型"，靠的是一套经典配方： 把异构数据对齐到统一的表述形式，然后用海量低成本数据规模化训练 ，让不同来源的训练信号互相强化。这篇文章要回答的问题非常直接：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485767&amp;idx=1&amp;sn=31167257ab2377a5df6bd83699e8b167&amp;chksm=c095d5e9ce99dadb6de471cec81c02444d84cc2efbee579d447ee12dd11b59c85dae917623de&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 21 Sep 2026 21:43:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GLM-5V-Turbo 解读：面向多模态 Agent 的原生基础模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI87AVqXoWZA90R3jdibNDscCBWA9V344IGUIXydhicuFT1mr0iaiaDpVvMiafReicF7Fy9pCicneQNlwHUj56Lpian665rtUZJ1mAdRiatg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一句话概括GLM-5V-Turbo 这篇技术报告的核心，不是单纯再做一个“看图更准”的 VLM，而是把 视觉感知、语言推理、工具调用、代码生成、GUI 操作、长程任务执行 放到同一个 Agentic</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485747&amp;idx=1&amp;sn=94d7ad1ba2eed719e60b0be6157b1500&amp;chksm=c092c761d2513a8764d993b520bb5e3ccbaf2042530e97e417e80eeebba0408bf6d5d8936886&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 21:01:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
