@@ -10,6 +10,18 @@
       <title>gh_6fec50c6ef0d</title>
     </image>
     <item>
+      <title><![CDATA[8GB显卡跑Hy4 Flash，Maya四档量化任选]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrSSnQydGQSZJ9vd5XEib9nmia80O2DzeojH3FWM0CBACibDbMkgIuCLwIo1IlDhmuySj3g16Cz4VhMqt7U51Ibf1Cthh4rvLDyovU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一台只有 8GB 显存的家用显卡，把 2200 亿参数的 Hy4 Flash 跑起来了。这不是段子，是本地推理工具 Project Maya 刚放出的 v1.1.68 版本干的事。这一版给腾讯的新模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506666&amp;idx=1&amp;sn=fad2c98b47faa8b6ab9734482b39789b&amp;chksm=c1a15369ae204c3018b0cfc433d04b5e93c0fbd49ef084e1079079a8e468774cb2dc23ee4428&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Nov 2026 08:56:55 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Qwen3.6靠占位符学会多步推理，CoT监控要悬了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrSwrkcSKspwDkZJkiaCwm7fzYjGO1fntW1OU4yE54w4oUsLwrjXNG3a6J5jibmY1UrpcpCjXReY8libsibicptiaLfMnpxUyaodlLwFY/300?wxtype=jpeg&amp;wxfrom=0"/><p>想看清大模型是怎么想的，最省事的办法就是让它把思考过程一步步写出来。可要是它压根不写，答案却还是对的呢？最近有项实验把这件事往前推了一大步：给模型喂一串全是「.」的占位 token，它照样能在里头完</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506666&amp;idx=2&amp;sn=ef23728d22eae2ea50b5c7e7fe87860d&amp;chksm=c18ebcf8d20cbc5c2be9e5e548d10a8ce7e65ac53c5c8c16c0e5366837fb6490d0e8b48ccdf7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Nov 2026 08:56:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[220B Hy4 Flash塞进64GB Mac，省22GB内存]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQLVibb7pNKSdAYwYlqvFcgdAVnkGU4sVNkUicObNM4yqpzmZlRD4XMrHoMGv7CHiaOicBbGB6ic0iczuCUvYJ5L7ciaISGBODH0uicZKs/640?wxtype=jpeg&amp;wxfrom=0"/><p>一台 64GB 内存的 Mac，能跑 2200 亿参数的多模态大模型？这事一周前还像天方夜谭，如今真有人把它跑起来了。腾讯的 Hy4 Flash 开源后，一个本地模型团队紧接着甩出量化版：把内存占用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506613&amp;idx=1&amp;sn=0b9a8361d782cb7524550db8d6b46700&amp;chksm=c1a837d21a0616e3e3fda3183d71a919b91109383b49588ff64582622c5c41df997c2c7a7f8a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrTbUv26Ucv7x3sMtxex8Bk0XTgLwmkPDXHKibSbvlYqafQibicfmibWRZd707oiaZI5wN4heb4MFx9ic7xPUiaYd939Zg26UhYd5BqHh8/300?wxtype=jpeg&amp;wxfrom=0"/><p>(图：2026 年的推理模型已自带校验与节奏控制，旧式满篇叮嘱的提示词反而成了噪音)收益效果不降反升：OpenAI 内部数据显示，砍掉代理提示词里那些重复的指令、冗余的例子、无关的工具描述，评测得分反</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505706&amp;idx=2&amp;sn=9bd413ca0735babd95b9a5a45e9b3ddf&amp;chksm=c1dceebd5635fee6a6ae92aefe4b83eb52e0cf322cafeee46a3e0210853280906cd43e5b09ea&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Astra对决Argon和Opus5.5谁更强]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrSysIodKvGSR79sUicyLBCwyHS73JkiaYTSF4uHjT1zanyTFT5g9hcoPdjWxCms0z3ZkBz37QCJscovoJ2iblqR65JVMr2KInoNOQ/300?wxtype=jpeg&amp;wxfrom=0"/><p>跑分榜上谁第一，看久了也就那么回事。真正让人心里打鼓的是另一件事：把手里一件具体的活儿丢给它，两份互相打架的项目材料、一张真实的获客表格、一份要交出去的报告，它能不能干得漂亮。最近有这么一场实测：把</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505706&amp;idx=3&amp;sn=dd4b5f5c3f96e710dff351a1fee87ad6&amp;chksm=c11be8b0a6f9076117063558af79c2e8318645a3df15ee1306437036a2606e66382ba3a1702f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[免训练跨域少样本分割：不训一个参数，把 DINOv3 的潜力全用上]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrTtdQopstFJUYoRR8ic6vMpoGU2BpazOGQnG0yC2PHb9Lia4ZoZ3PZkG0WkXpdd5s2DwUyMPicPNGY3eBulgIuibYTicbR1REmtIs7c/640?wxtype=jpeg&amp;wxfrom=0"/><p>原标题：Training-free Cross-domain Few-shot Segmentation via Robust Semantic Representation and Matching</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505627&amp;idx=1&amp;sn=2f735437c56bb84e03543c917eafd6e4&amp;chksm=c1b35d52c4c62292260b5d4fe9e2b5bc0f0972e4979976b72fc96e23055539f651e60e2d3937&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Nov 2026 07:43:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
