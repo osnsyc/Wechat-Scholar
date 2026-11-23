@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[AI生图的第三种范式：System One「快思考」，78毫秒生成一张图]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDLAq6AKwgI60oI4NcNXysvumkgG6K1fE7kbBSJcFkHC0JPjRK6yAgkefQ9FZ06aKMpMY1nicp62jlNgKScruNqic2SHl1XibcP5Os/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前的 AI 生图主要由两种范式主导。自回归模型逐个 token 生成图像，扩散模型则通过迭代去噪生成图像。这两种方法通常都需要对单张图像进行多次序列模型评估，从而增加了推理延迟。那么，是否存在能消除</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247607525&amp;idx=1&amp;sn=5e242bb934393313ec85b8c529e9b2c2&amp;chksm=cea43f6ddbc25b6db27b74f1577d4c3efaa9409a73eb309b241d58e3d635a868f74f5c3b3aa4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[首次！AI成功改写自身权重，UIUC等团队：迈向RSI的必要一步]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDLq9b9HS2hD9OXnIFyMrA3GVZMZbibVurv3VvUibxxXP8Gic9URv9yz8Ko4y1tjnD7SGXwn71JiaJ01HjTl88Tug6tHh3gRAW5Cyt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>语言模型能否仅凭自身推理，定位自身权重中的问题，并在无需重新训练的情况下完成自我修正？来自 UIUC、斯坦福大学、普林斯顿大学、耶鲁大学等机构的研究团队展示了 Self-Rewriting。在获得自身</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247607513&amp;idx=1&amp;sn=23cf0e422a89bf09d91b55c312ccb8db&amp;chksm=ce8a4c286daa65214db7a92a85f6ce877c57de5a4687bb3a4916ed86b4cae9e646c1c04fa74b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDI2XAYdAAQzAibd6RE689qkMje48Aagv9xfYZXWkfgM2AA2OySLicBNxeXMsthB8nCMiacgQTrsWSmJSBkh2ukJiaOftyFibZQNibIiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 研究智能体（AI Research Agent，AIRA）已经能够自主提出、实现并评估机器学习实验，但在前沿任务上的进展始终受制于成本：写出一个候选方案只需几分钟，而验证它是否有效却可能需要数小</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606394&amp;idx=1&amp;sn=0f26b8ef7e0dbf7b766eb120db113614&amp;chksm=ceedbb6ea3cbcc7929b03cf8efa5660b87ef6e961f777e8ba4a7ed36760e50a76a3bfb5e8b43&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Aug 2026 20:15:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[清华联合NUS发布大语言模型记忆机制综述：从计算副产物到核心架构维度]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDI64TEjonKvY7RnBolWA42LR5xqhJOyUXvnJqyiao0uBKPyWFiareick6TPulGLQA1CFa5GJU5VHvibiazXSnBWuwjz4M9aYM7icU86k/640?wxtype=jpeg&amp;wxfrom=0"/><p>在过去数年里，大语言模型（LLM）能力的跃升在很大程度上被归因于规模法则（Scaling Laws）——即参数量、训练数据规模以及计算预算的协同扩张。然而，随着模型推理上下文的不断拓展、长程复杂任务的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606384&amp;idx=1&amp;sn=764a87f4412ff02334fc7bbbb39d5f67&amp;chksm=ce335d518cde459d1adf88f030d71bfffdda2dca2bde1cb03ef3972e9a013e4faeb100a078d5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Aug 2026 12:15:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
