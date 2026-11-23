@@ -10,6 +10,12 @@
       <title>gh_b9aceec3733a</title>
     </image>
     <item>
+      <title><![CDATA[手机拍月亮，为什么拍出来永远是一个白点]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUPvteMZibQz6wsjwhr3P7bicIyiaO6n1TUwqhQRO6TRVbXD1xqibw5icJG2px0g1ZggA2AMulNO8iaRKEyhTwwM9sNPMmSr3nAAAM1L0/640?wxtype=jpeg&amp;wxfrom=0"/><p>中秋、或者哪个晚上月亮特别圆，你会想拍下来。举起手机，切到最大的变焦，对准月亮。取了半天景，终于把它框在中间。按下快门。相册里，屏幕上那个有环形山、有明暗、有质感的月亮，变成了一个白点。有时候白点周围</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485920&amp;idx=1&amp;sn=994fdea26a8ed1f87d4d3599b45324d8&amp;chksm=971cd3ec40a4609b88c76cc5cc32210aebc885fdf9e3c8ad181ce261d5fd7bf777f4ac6cc496&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 07:41:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[按快门时孩子刚好笑了，拍出来却晚了半拍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/swpukQFIAUMkkXviaydabEmZt0AkFYkuGDtpviaePyHH50j1YheLvNXQz7KI15QjvVxj7oIPLicT6V7s71h26mSX8p5Nk9fDLAic0gCBSPH8ia70/640?wxtype=jpeg&amp;wxfrom=0"/><p>拍小孩、拍宠物，最让人 frustration 的一件事：你看见那个表情了，抬手，按下快门——照片里表情已经没了。孩子转头了，狗跑开了，烟花已经散了。你明明按的是那一刻。旁边有人用相机拍同样的画面，抓</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485919&amp;idx=1&amp;sn=b18bb531e0af7d9e099679748aa31542&amp;chksm=97176bceb4dbc6a98b54e4e249a18ea409f8aac4695e0514087fcb93edc5d8ccf02508694b79&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOWWx4Kdp9wT8iclbdguAMSCw8R2QuFO7ibFRDZtd5fXRj8hPhYjnEHILx08SuFw693NBbGcnC9GtsgoQsqWd1PHCJIUxSdVCOzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>世界模型这两年火起来，说白了就是想让模型学会「脑补世界」：给它一段画面和一个动作，它接着往下预测世界会变成什么样。你在一个虚拟房间里往前走两步、再左转，它得把你转过去之后看到的墙、家具、光影都画对。它</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485614&amp;idx=1&amp;sn=b581decf17d89462b8c737591bf76dfb&amp;chksm=97b6ba4094884c904cfa3afbdee75ae5d1392378ea7324974d0bd00f73c709adac0cbcaf048f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 27 Sep 2026 06:59:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[图像修复不走 VAE，直接在像素上跑 Diffusion 靠不靠谱]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/swpukQFIAUOobYqDyl9VcPHzVZCfibhITTnlTJicFQo4cPJf2UzCibHNLZEPQXJd1SF1KJnicTTkpMjZh0ib1PbErhnzVM1UWZSLAhroia5cTFKnc/640?wxtype=jpeg&amp;wxfrom=0"/><p>扩散模型现在几乎是图像生成和修复的标配，可主流做法有个绕不开的前置步骤：先用一个 VAE（变分自编码器）把图像压到潜空间里，再在那个低维的潜表示上跑扩散，最后解码回像素。这条路径很成熟——Stable</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzE5OTA5MTAyOA==&amp;mid=2247485613&amp;idx=1&amp;sn=490329f2ef731eafd96d8f465cd9ce64&amp;chksm=9771a57fe24aded0193b97b2835a02524432283ea9a6ce1a1d7e4a547e6e64aaafa04fff13b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 26 Sep 2026 07:44:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
