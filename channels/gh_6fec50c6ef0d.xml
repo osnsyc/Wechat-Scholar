@@ -10,6 +10,18 @@
       <title>gh_6fec50c6ef0d</title>
     </image>
     <item>
+      <title><![CDATA[Inkling-2-Mini单机峰值448token每秒]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQ16rPIR3kK6SlDsXZDaDQyF4niaAbFoufnkg2A0ZMGQOWfLpROFrKuXQL5JtcOLIU9A8EBzzV36Q2sWxgQ1cQvqYTCKsvib6p3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>一台 DGX Spark（GB10）单机跑 Inkling-2-Mini，用 SGLang 加 DSpark 做投机解码，聚合吞吐做到 276.66 tok/s（C16），峰值摸到 448 tok/</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506796&amp;idx=1&amp;sn=a46fe69872569b8c151fa1ba5b2f2090&amp;chksm=c175374c48ce68923a3d789b6ccc2c3b4dc9cf1f189e2bdd682ced33d6f8faf0e6cb9bb2a81a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 08:16:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源大模型还是闭源大模型？多数团队最后选了两个]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrRXWlNb7q1M0Cia9kFQib4yUgIETLfbZbL1nk2RagMlkX8POiaPSluLTJicn9a7hFF0Eia86Sq7Qqpaic1mDuozsvmwRYac5eySyjtX0/300?wxtype=jpeg&amp;wxfrom=0"/><p>如果你正为选开源大模型还是闭源大模型犯难，这篇帮你把这笔账捋清楚。入手之前，先问自己和团队几个问题。先把各自的长处摆一摆。闭源的前沿模型，在最难的推理上依旧领跑；开放权重（open-weight）的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506796&amp;idx=2&amp;sn=0dd74fdca5478114a06d9d8b364fedb1&amp;chksm=c14b59f9e2579c0c548d375e5559d8987d19cb659d87e26d1d12aeccfaaa359683a90327aa55&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 08:16:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Inkling-2-Mini发布！20GB跑出10倍加速]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2tDg2pWHTrTgO5VzsQhTN9GoyylENUUzLeD9PHo7zZAozPkmTh5pxw31KXwSCL4zFkJYcFLGkpUrcDhic0nvqxkJDPucCvoau1831eEW1D1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型越做越大，动不动几百GB的权重，普通人的笔记本只能干瞪眼。这两天，一家实验室丢出一个有点反常识的新模型：264亿参数，权重压到20GB左右，一台内存够用的笔记本就能本地跑，还在显卡内核生成的基准</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247506690&amp;idx=1&amp;sn=4018bc3239a74e6346dfb1d22a51da96&amp;chksm=c1dafbe471a1ad1d87adada7f08dbbfd3336fcf8a0cebebbad8c68a5ecab58a5337cdc7b6f2a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrTthDDQia3W5rQaB33Bh7Q0zdftRe0HnPwuDVQADtuaU8gSYMsIXhcDU58k2iaYXk9J8qcsTrZrnCje5Mia47icJcJvzkVcDjwjwLc/300?wxtype=jpeg&amp;wxfrom=0"/><p>所有测试都亮起绿灯，未必是你以为的那个意思。一句话结论：先把会失败的测试写在前头，明令禁止删除——否则，AI 会替你把测试删了、把你的修复回退掉，然后跟你汇报「搞定了」。常见错误你让 AI 去修一个挂</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505826&amp;idx=2&amp;sn=8a9534746c3e59dc5e635e5886dd36fc&amp;chksm=c17a91aaa9f35f2a85682ce5a9f5cf69d27dabd4a1e0fa4f01dd486cf4b5ca55b91cd1bbf626&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 接手遗留代码：先考古，再动手]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrQG82QKluYj4S9fnfXvZCevzdnPvnL1Gs228vpEgnpvsbL5mt16VQW5JicKiaaAhEHgnibUjhAeLxf4qqX5tRxQp8u8KichHp5eNlE/300?wxtype=jpeg&amp;wxfrom=0"/><p>AI 编码智能体越来越能干：翻仓库、追依赖、改多个文件、跑测试、自己纠错。给它一个说得清的任务，那些过去要开发者耗上半天、在各种工具间来回切的活，它能一口气干完。很多老系统正好积压着一堆没人愿意接的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505826&amp;idx=3&amp;sn=fd0b86143529603c530de3cbaf2bf138&amp;chksm=c1d852992279ed46cd8223e84ccf9fba9c94e1056b5d36214ef37ae1a364f97c67342c90f537&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek4.1Flash本地72tps，老卡2.7倍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2tDg2pWHTrTIHVVQBFDmKGIHhm8icL3MRHaxGxEGficqgenCgP5UrhCJwqSWEoYXX1icMZIJhY2KTsESFaSFuIeWj3icltU0jFXowiaicKEL4tMk8/640?wxtype=jpeg&amp;wxfrom=0"/><p>本地跑大模型这条路上，这两天冒出两组挺扎眼的数字：一组把解码速度推到每秒 72 token，另一组显卡一张没换，只换了运行引擎，速度照样往上蹿一大截。两条路子完全不同，一个靠堆机器，一个靠抠细节。堆</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5ODAzMTkyMg==&amp;mid=2247505751&amp;idx=1&amp;sn=f5b3d98c23ff90497612cf85c14754fc&amp;chksm=c1f57472108f6f99c6b1e6bdeadaa24c9079b4f07b198952a4156a240118117c94cc66902ed3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

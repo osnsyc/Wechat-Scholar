@@ -10,6 +10,36 @@
       <title>gh_b10aac61d168</title>
     </image>
     <item>
+      <title><![CDATA[论文解读 | 训练数据越多越好？303个数据集揭示大模型背后的数据规划策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdV5nmdVxK75bBLjE0f6lSOGDB96KvFI0pfgruPr8eqsvYBxus5smyMOzkC7uVMANNRlkpMJI4Jtsvxm3jSs7yibU2jOOk1Viabdc/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型的表现，很多时候取决于学过哪些内容，接受过怎样的数据训练，以及在实际任务中是否经过充分评测。模型能读懂合同，却提错付款日期；回答看起来完整，却找不到原文依据，问题可能不在模型规模，而在训练和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749866&amp;idx=1&amp;sn=91582da595518278fedd45d323e41893&amp;chksm=ce40f76d08a6c2650ab2a315d9d49709ed8eb130e94bddd48a0d92dacb246b7494f654f334a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 09:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团LongCat给百万Token编索引，速度达DeepSeek稀疏方案的4.7倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdVqEuEZAsk0du1XyYxibXm4Yo8Pc0OiambicLbPXTYvXgxENNKc55vOH2Xgws2JNBKoB0GPxHeaxuEWmibo4YoePibicicujlKBqGWYHc/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读美团LongCat团队给长上下文加了分页索引，模型先确定哪些历史页值得细看，再在这些页里挑信息。在1024K Token的实验下，历史键检索达到DeepSeek稀疏注意力方案的4.70倍速度。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749866&amp;idx=2&amp;sn=51e26bf7befbcbfe6f44c3b577cce2d9&amp;chksm=ce063d37ab301f0ac7597e2f55fff2660ac6559b9ac86fa0d5d7f55cf93658f7e820e1214957&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 09:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[多人开会也只跑两次识别，AI转写在ICSI语料上快87%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdWvicuIHc1F7xl5O6BHKnmaEpvN7MrRhvl1no05EuXxKpck821VN4icbSbrZUqWhzcojMCukwsiayy4NYIpWKricVUSuVwCs8lfX88/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读约翰斯·霍普金斯大学、克拉科夫AGH大学和马德里卡洛斯三世大学等团队，把多人会议里的发言段分到两条活动流，只让识别器跑两次。在ICSI会议语料上，保留同一个分人前端，处理速度提高87%，计时对</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749866&amp;idx=3&amp;sn=39ba5acab18493560d54a2468c075a1f&amp;chksm=ce4b35c87a81e920d887aaaa44edb1250d811f3eb6650c880c54177407df1d5afd089aa536f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 09:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腕带读出手指怎么弯，清华等把陌生人手势误差做到5.06度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdWatibyFu3onT8Ej6UvA7MGSIsVRT9EUfPmj0ibRSSp8rpLYGU8A5ZNYPgiabp8icmLYWzjA9e2DJxlG72UwnHGticEM4EXvAU5nJNI/300?wxtype=jpeg&amp;wxfrom=0"/><p>论文导读SynapX、清华大学、米兰理工大学和中科院计算所等机构联合提出InterBand-EMG，用腕部肌电估计手指弯曲的过程。手腕的八个感测通道输出肌肉活动信号，模型接着追踪手部关节。SynapM</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749866&amp;idx=4&amp;sn=2ac258c3b07a957ec1f694811021ac51&amp;chksm=ce88ac9d76b9383f4457b9f85d8f094c7b47f3941ef9a583ff14a74678c1bb67ca3d1531d742&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 09:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[台球直径当尺子，AI从视频里算出白球平均速度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdV6RcGttap9CNyLMKKlYjYljXLmLXO3zLYjezwMBe8EGlDwlwcl63FunCsP7CWuDw0JCicOdzXMjubCYWxrVdGJwPZFq8KrRFfU/300?wxtype=png&amp;wxfrom=0"/><p>论文导读 加州大学洛杉矶分校、Envora和犹他大学做出SceneRuler。输入台球视频，再告诉系统球的直径，模型便能拟合白球的移动轨迹，从画面里的像素推到真实速度。论文样例中，白球在指定一秒窗里</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749866&amp;idx=5&amp;sn=d21cd6417020c2b7615f660fc70f6ab1&amp;chksm=ce509af1bd34678e0cec5e0c1ef4644f7c4fb1f6e0270b8d31e270d725bcb72d5c71d7d38cc3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 09:44:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[建议所有硕士博士都去学一遍，赢麻了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdXoH4dLiaiccSicDp1HSUstwwfph2DRdGicEE4aMfnal9TytDotktD4AXOwL2HZhcHfeqqnQ0f8TeSARq74BANN25zYqnxurfKDguU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近后台收到不少留言，话题高度集中：开题方向定不下来，实验跑通了但故事讲不顺，返修意见看不懂怎么回。年底到年初，正是论文集中投递和返修的时段。这些卡点往往比技术难度本身更消耗人——不是做不出来，而是不</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749774&amp;idx=1&amp;sn=189169907502a1ffdfdcce594c64d2cc&amp;chksm=cec146d6c5a7020388af4e50b3f6579f2a3a71608006df9003578f2d0768941bc4877efeeae7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -278,36 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdVFkz3GNBibezZEnm76ZIyrRY5jxgiaiaEggon4ia4XkAkRHPUqy6Al7TgLHRg4OLnkDq6TicbFqO51SfxhTHxHMia6nsCUbOaVxkibJ4/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-11-13 | STAT统计学 | 共 102 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 统计理论与方法 19 篇2. 贝叶斯统计与概率建模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749291&amp;idx=8&amp;sn=e2214eda034b48a2da5b4ec29c4bfce8&amp;chksm=ce53641b26e5553ecd36f17caf135ec23970b472e2615d9054e994fb8a3cbec87f0314c40e9a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Nov 2026 17:22:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Codex 全面进化！接管科研全流程：从文献检索到论文返修 Skills 全搞定]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdU36MMBRJ6TicZWAZiaKBmAUbOEA5WY7Mw7diak7OnHGEDeRpalYzNyOGu6Dl1089iawoj7KuFIS6cG6SZbrkicBRmlsWHCgG1tDQ8Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 GitHub 搜 “research skill”，能翻出上百个仓库。我猜你的收藏夹里也躺着十几个：看到“自动写论文”点个收藏，看到“一键出图”再收藏一个，然后……没一个好用的。我也经历过。不是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749226&amp;idx=1&amp;sn=7ca24c950e1e01f79879267bab120827&amp;chksm=ce1919f41cc11d02967b76c5735e53dfb8fa226e793516eb00a33d2414f159c67cc912212095&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 13:46:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人工智能学术速递[11.11]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdXgRiaFYEYUNtloRSgAXcX5oE30TIPoE0bPCbcL6YxplkE3RRfpkJ4ZyCjibNt6KmUceuhFvN1onbWdOxmQ2xVGvPrq5jNkcDP3E/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-11-11 | CS.AI人工智能 | 共 105 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 智能体、规划与决策 16 篇2. 知识表示、推</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749226&amp;idx=2&amp;sn=be5a13af03b8bbd03c13117c68c7b725&amp;chksm=cee5461e8e07e92c3965e53aab3a4be8f1e136434c561ff98988f1217ca651d755ca7aa41829&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 13:46:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[计算机视觉学术速递[11.11]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O7rs6BbcUdX5TbymQicDSgH4HH22Rgh3v85MnPibdK3hichP304xLXgzRmicwDmJsLKoLEuxMIlzruDl9mugtTx2I0iaicYOj1zoiaHsypK7xia6ZEc/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-11-11 | CS.CV计算机视觉 | 共 117 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 多模态与视觉语言模型 18 篇2. 具身智能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749226&amp;idx=3&amp;sn=22b3434927553185980efd68fef7eeb5&amp;chksm=cef65dfe5c2dd5dd89ccf643e82905b4891a469f8d0352a58ade53f6832d333d1e8969ad1002&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 13:46:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自然语言处理学术速递[11.11]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdX6zEdaVpmz3uKS5VkNZRDBvkcw1r3yv6kvfan3vOSJWq7GQN2Q8b95SuuS0E7LEarT0zR466apcM7lUSXxogBYQFgzC9OJvK0/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-11-11 | CS.CL自然语言处理 | 共 63 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 大语言模型与基础模型 27 篇2. 机器翻译</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749226&amp;idx=4&amp;sn=22baae10a3eed206357511c6437a63cf&amp;chksm=ce68dd5a89f928fb1eb9e64b2595cb147421c2f230f04cbf727555ba67936d0f9195b2823f7d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 13:46:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器学习学术速递[11.11]]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O7rs6BbcUdU1xd7FwZZudVzYFsVb7doT94JQjAMA0E5wX7sHtBrFawWzBKYn05vIUbw70qc7TM0poI7HL1Z6FGDjvZAYs9jQtQvu1KRZ5p0/300?wxtype=jpeg&amp;wxfrom=0"/><p>2026-11-11 | CS.LG机器学习 | 共 134 篇 [机构]信息由AI分析生成，可能存在错误，仅供参考，以论文实际显示为准 快速导航1. 深度学习架构与训练方法 9 篇2. 表示学习、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4OTEwNjMzMA==&amp;mid=2247749226&amp;idx=5&amp;sn=37aeff3c0ee31ae111be5e60fc8c3271&amp;chksm=ced3bd274c18d17a394b464435eb7e0af44a9aed0d1535865222d20213df36db01e0eecf074a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 13:46:24 +0800</pubDate>
     </item>
   </channel>
 </rss>
