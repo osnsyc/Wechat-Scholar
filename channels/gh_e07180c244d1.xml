@@ -10,6 +10,12 @@
       <title>gh_e07180c244d1</title>
     </image>
     <item>
+      <title><![CDATA[北大联合南大提出Spark-H3：免训练自适应块稀疏注意力，视频生成推理加速超2.4倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/P9MWBRYIGW9XBjLUrQGelt8PwdnL1VibRQ3QNPCyVqm7RcDsQoGjttvywxmUrlA3t0OPqETo4REd4aXEMBJZShtqr5gCUeE0XX3MsqCntfP8/640?wxtype=jpeg&amp;wxfrom=0"/><p>在长视频扩散 Transformer（DiT）的推理中，注意力机制的二次方复杂度犹如一道算力枷锁：传统块稀疏为了硬件规整而机械分块，无异于“削足适履”，打散了核心特征；自适应聚类虽能聚拢注意力，却因形</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247667900&amp;idx=1&amp;sn=59b75dcfb38ab8e640b2a325379b8c41&amp;chksm=97cc43a219e6de6c7f08938be67e4f6a41954b3386a8b5bc4a1f3db3b174e2d497c4c7994c72&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 17:24:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[苹果新开源的Depth Pro 2火了：攻克单目深度锐利度与时序稳定性的双重矛盾]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW8xQxbGuQZbSb4IljqCJSJkric68Zy2ia4rGkplV20223Xgbb0FQKlsr0cRZ2wZOmrju0dNc853xgcuBhHoibc5ia43wYTEiahLNEKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在计算机视觉领域，单目度量深度估计（Metric Monocular Depth Estimation）一直是三维重建、计算摄影以及空间智能等任务的核心基础。然而，现存算法长期受困于一个明显的二元对立</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247667843&amp;idx=1&amp;sn=63fde94f20ffedc9c3d064984abf3f93&amp;chksm=978dc7c05cc3884b61597952a58bf27a8b4791b5d543064199533cfd6de43d785e344b8d4ce6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGWibWjvLibKqgfJXPJpk9fFiaDmAa2ejXxiaG0ozEZR9GXQcOOH5Wud8wO8SYXgDYzx7j9Eh4ibAeUbiafCTRwPnrXeAkgIyRapMvbavU/300?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型和视觉语言模型不断进入医学场景，模型能不能“看懂一张片子” 已经不再是唯一问题。真实诊断往往同时依赖病史、症状、实验室检查、医学影像和病理结果，医生需要把这些来源不同、粒度不同的证据放在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247666371&amp;idx=2&amp;sn=fa7897666ea637f7195d2deb901f9d9b&amp;chksm=97f47ba3c370bf9fde32a3d9fba56d5a358168812502ce20a6dca3f582e9c21b0817c26b0515&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 Oct 2026 22:26:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NeurIPS 2026 | 不止记住摘要，OmniMem让长视频生成直接检索完整历史]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/P9MWBRYIGW9XITsDLicd3hnzGMriaghsLtlZRLLIPBg3ocXxCRo6PwqgoicvsSzJvSdHqvBicmtSBcLkibGUIUiciavJyeic3juH1hUPPZIe6OJhHD0/640?wxtype=jpeg&amp;wxfrom=0"/><p>生成长视频，难道只能一边向前，一边遗忘？删掉早期画面，主角容易变样；把历史压成摘要，又可能找不回关键细节。美国东北大学与Adobe Research提出的OmniMem，首次实现完整历史的长视频生成，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&amp;mid=2247666334&amp;idx=1&amp;sn=ebe9eb0c4f78513727229d26dbc2d200&amp;chksm=9777cf3f28e463bf26a3193be53f9e8b9b25cd12d1e125569d57cf98919767aa8a2c0700c020&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 23:09:01 +0800</pubDate>
     </item>
   </channel>
 </rss>

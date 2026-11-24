@@ -10,6 +10,12 @@
       <title>gh_dc8b23e4c5e9</title>
     </image>
     <item>
+      <title><![CDATA[JARVIS：数字孪生排练，2小时39分自主造电路板]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OyhRoUrLaIicC4iaqOYHib6wemnBRjjR3N4Sia2wWdVutiaIZuVV3QrI1lia5eQKBDCmqp4oVwGiaGeHazbRLibCvSVAFlINfwREKqV5oZ0wdvVduSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>电力电子硬件的迭代仍依赖工程师完成设计、制造、测试和复盘，JARVIS 要解决的是把这条链真正交给一个具身智能体。它的核心做法是：先扫描实验台并构建能运行真实控制程序的可执行数字孪生，在虚拟环境中排练</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486327&amp;idx=1&amp;sn=121af136de8bff0b250abe0b61ffaa4c&amp;chksm=c0abb1f13fc5343a1207ae358cbf51a4acd1f77e41686b970d10afce451e97ac6dc5c40d3be9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 22:01:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MMFlash：加权视觉依赖词元，无损加速 VLM 解码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaI9rHKM3AwQIRadTFpZdia3sBU2fQOtgdRNurbuQia2Oarvg2TxbEohvkPpHoO9MvicdUW0uQbeSBiaEOiaiahgYvaKFyiabVwx9V2S1Ss/640?wxtype=jpeg&amp;wxfrom=0"/><p>视觉语言模型（VLM）在生成图表答案、视觉推理结果和视频理解内容时，仍受自回归逐 token 解码的速度限制。MMFlash 要解决的关键问题是：扩散草稿模型虽然能一次提出整块 token，却特别容易</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247486314&amp;idx=1&amp;sn=f6173f05257b83b13de013709d6c0361&amp;chksm=c015f319c1330d771897c7f400efa44ac2e9ea15e293e74e37cc1563109e391e06a4380c0242&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIiciaVu36npxkdyVOxUHV0XIpuUB2t0zKQDfUsqicpOUQlP70FMVibbWyV5AdPRHBSCS4eLKKUFeiaGlb7Yu5o986a96YSA5ib1c0VVU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在长上下文 Agent 越来越普及的今天，模型的工作负载正变得越来越 "输入重"（input-heavy）：动辄几十万 token 的上下文要 prefill，海量的 KV Cache 要存进 HB</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485791&amp;idx=1&amp;sn=5d386b0c1617b5ce7c99c3debaeb1d85&amp;chksm=c07f0b9cb0ca771c6e84c7311b189608260c9d001e3c54dfd100413949edf57754dc38e3e7ee&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 22 Sep 2026 21:41:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Qwen-RobotManip 技术报告解读：先对齐、再扩展，38,100 小时开源数据炼出可泛化的机器人操作基础模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/OyhRoUrLaIib3QN6FI8aa6TR55EEbDicSibqcH2ddnP5DTga8rxo5H8GAv3DvuBlyjzk5jenPtgtpibIYqj0ibwDZrgvjexbvUTkBXWVhZXResaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型和多模态模型之所以能成为"基础模型"，靠的是一套经典配方： 把异构数据对齐到统一的表述形式，然后用海量低成本数据规模化训练 ，让不同来源的训练信号互相强化。这篇文章要回答的问题非常直接：</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkxMTg4MDkwMA==&amp;mid=2247485767&amp;idx=1&amp;sn=31167257ab2377a5df6bd83699e8b167&amp;chksm=c095d5e9ce99dadb6de471cec81c02444d84cc2efbee579d447ee12dd11b59c85dae917623de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 21:43:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
