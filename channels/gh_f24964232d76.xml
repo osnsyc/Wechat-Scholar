@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[RSInfer：首个 RSI 原生 LLM 推理引擎，秒级多卡热更新，真实 Agent 吞吐超越 DeepInfer]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KY6wDmkjMmNDpcJesWYEjhKHvicyScz3hXBrvypDa1rleQKapG2JsTGwP4fRCcrVaLhcGj83wx2EcpC8zOv6ichbCAZX5N7DnVp0/640?wxtype=jpeg&amp;wxfrom=0"/><p>RSInfer：首个 RSI 原生 LLM 推理引擎，秒级多卡热更新，真实 Agent 吞吐超越 DeepInfer关键词： 递归自我改进（RSI）、LLM 推理引擎、微内核热更新、TLA+ 形式化验</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532925&amp;idx=1&amp;sn=71f0b8683c428c33d12980e41bd2c4a1&amp;chksm=9ec2e464b7cc1230db66e452bd9157d75921b197dee1dc9bab31698229ecb1271b79c058fea7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 17:47:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek-V4.1-Flash 在 H20 上的七步优化：端到端延迟 13.6 秒降到 4.7 秒]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka2auet36kfk7tMQmPSoiasbmrfGcgp8v8p22gqgoPRCsplrpGnUJzXMZ4icxVaKjh9dBia3otuibP64GibnThh2lRM6lx4oaTeqJBo/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：LMSYS 博客《Optimizing DeepSeek-V4.1-Flash PD &amp; Colocate Serving on H20-3e》，作者 Siyuan Chen、Bingjia W</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532870&amp;idx=1&amp;sn=455b0e8e719c7173ae181b70d55042b8&amp;chksm=9ea3a12c3795ecc0a943ba86c9d2c1bb69ab390a7f50af7592d49052dc20028f37b71ca8d949&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYYYxS2s8ibiaRnhaEIqYeyQpIgyLw221tRItDFHyibXubR1xUo8oXQRiaZoOp6CfGyoUzxtpcDA4Wh6Sztx0T4elhicNFs9z5jaZJc/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 中的 CUDA Graph 进阶指南作者：SGLang TeamTL;DRCUDA Graph 的目标是消除 kernel launch 开销，但要在真实的推理引擎中尽可能接近这一理想收</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532153&amp;idx=1&amp;sn=35b9807f5736251bc22aff025fcde7dd&amp;chksm=9e823fcb7f09ce0ea5f3e29422025680301865b2a854acb80a0e8a94de880b282bad843555a3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Aug 2026 10:28:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于 Agent 在 SGLang Diffusion 中让 Torch Compile 完全退役，细数 Torch Compile 七宗罪]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KYG3xyugYxYdNWun66dVsu22VibHoLR2fZYDGxGyqe79RDL9icHEH1KkcRBLAiac3nWWRZMzia2tdh28BLmCCtaaL6mohpFNoJzluc/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0. 核心论点Diffusion 领域苦 Torch Compile 久矣。从 Diffusion 模型发明以来似乎 Torch Compile 一直在各个 Diffusion 模型中进行加速，P</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532133&amp;idx=1&amp;sn=17965ee38abbbbc7ce50f2630cb9e43b&amp;chksm=9eadf6a723a5f07068eb82c097964b030c3357aa4afc90c2dfee88e8030b4e4acd4dffe98768&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 18:15:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
