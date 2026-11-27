@@ -10,6 +10,18 @@
       <title>gh_ee3cbd1da497</title>
     </image>
     <item>
+      <title><![CDATA[ICML杰出论文 | 训模型时加入测谎仪，可能实则可能在鼓励更隐蔽的欺骗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/NNRB91r8oSVASoGFhMicAd3UHyyNiaydBJYGN2vibhMte6Zy2Aib0g2iado23sKTyJA8Z2ia6vxgk9Kz01VneCuqDBFmGUgibKUntjSyUgnH8z1A3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>让一个模型刷编程题，每道题只给一个测试用例，代码通过那个用例就拿满分。最省事的过法不是真解题，是把答案硬编码进去。FAR.AI 的这篇论文就搭了这么个环境：874 道 MBPP 题，模型为了拿奖励会自</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619574&amp;idx=1&amp;sn=f642b49eec3f93e0083d772268135045&amp;chksm=e9576a7bb986837b8f8bb2edd8eed9867466b10d64fc8058358c554e750ba2fdac0fd695e7f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 06:19:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Yandex也干了？「从头训练」的大模型AliceAI正式开源，数学能力领先一众更大强基座！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/NNRB91r8oSXcd1Y7O1dD4ZJ3ADSKf7h028VKWPAPaATx6Gia5J31a505mREkqoZlYxialKv4aQ8jV5TarU41RrPmBVMaypzG5h2t7dJ9ECx9I/640?wxtype=jpeg&amp;wxfrom=0"/><p>Yandex 把 AliceAI-Foundation-80B-A3B-Base 放上了 Hugging Face，Apache 2.0，从头训，而不是从某个开源基座继续预训。模型总参数 800 亿，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619566&amp;idx=1&amp;sn=6f5b4d5301390638efb8894b7fb9fbe3&amp;chksm=e9b3a6573c370bf35a1ef02f038ab5ca9741ffeab1066232ba9f7ef65d0e8369649a089af2ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 17:57:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT、Claude操控机器人延迟高？S-Lab提出异步多Agent架构！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/NNRB91r8oSWHTst1fdBDVsahAR25xbvLVVl5YgrUWlHraIQJtBuiaxTvKeNoxyapw9Jc4Kr2CDGIlQ9eOK75dsjoenicXauca5bQ9qcgcib1kA/640?wxtype=jpeg&amp;wxfrom=0"/><p>南洋理工 S-Lab、牛津和 ACE Robotics 的人把一台机器人拆成了一队持久编码 agent，每个成员管一组部件，一个 hyper-agent 负责调度，72 次真机试验里任务均衡耗时比单</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619557&amp;idx=1&amp;sn=3e1c1a06cf176c981a8c2bb443f765d2&amp;chksm=e94b3db4331170b5612e0f5b94f04a8c226d4d6346434cd622c931b6bbf3835d35d04c7d0003&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/NNRB91r8oSV8tvRw2w7oByK9HiaPaWcbdWZLufq8WgzUMG0dwwLiarqddBx3rMJWu5GvCmCXficOeOIYcZTGo4iaHBWUqWYbcNBq54E1Cvee85A/300?wxtype=jpeg&amp;wxfrom=0"/><p>“他山之石，可以攻玉”，站在巨人的肩膀才能看得更高，走得更远。在科研的道路上，更需借助东风才能更快前行。为此，我们特别搜集整理了一些实用的代码链接，数据集，软件，编程技巧等，开辟“他山之石”专栏，助你</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619121&amp;idx=2&amp;sn=32f3c040cb4c1ded0b48e08823e56584&amp;chksm=e96e01ee8d5b5afcf53fd69c428ae4646c649aa3b9cfffbb81ba788247f01373932bed0b4517&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Omni-Diffusion：首个基于掩码扩散的全模态大模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/NNRB91r8oSVpX4aHeUnCbGOEuZYqPIGoiaCAKro42AIy4aIv4N2DIdFgZJGwS4g0ALcdFrNp2tqkbD0L4AkbRicTAE9XRCI6zCxHGOgXWuUXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>“问渠那得清如许，为有源头活水来”，通过前沿领域知识的学习，从其他研究领域得到启发，对研究问题的本质有更清晰的认识和理解，是自我提高的不竭源泉。为此，我们特别精选论文阅读笔记，开辟“源头活水”专栏，帮</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619114&amp;idx=1&amp;sn=8633327937358d2c34599f0766d8dd7d&amp;chksm=e948af69574c3b622204d7b3ca35237c5cfc411bf314484b0ac5f3c0783ede78fddba1acedf8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 18:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【他山之石】图像检索进入 Deep Search 时代：DeepImageSearch 让 AI 理解视觉历史]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/NNRB91r8oSWYHCMXDOP6nu9EqJQZfYYokmY6ZWCtXS5vcykPXvnDlwlI5uSdPibvnov2vBkIM1IYTpvf3tbDGPibaQau4b9dFR8JPnNxkeWUE/300?wxtype=jpeg&amp;wxfrom=0"/><p>“他山之石，可以攻玉”，站在巨人的肩膀才能看得更高，走得更远。在科研的道路上，更需借助东风才能更快前行。为此，我们特别搜集整理了一些实用的代码链接，数据集，软件，编程技巧等，开辟“他山之石”专栏，助你</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&amp;mid=2247619114&amp;idx=2&amp;sn=1af0f240fb992c2f5e855ba027b3d2fd&amp;chksm=e9aea91ada683865565d535c013be245bfc1433e6ad3d1f13f191d5a404d1d6b203d7f0da539&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 18:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

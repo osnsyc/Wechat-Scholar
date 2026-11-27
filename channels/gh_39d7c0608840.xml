@@ -10,6 +10,24 @@
       <title>gh_39d7c0608840</title>
     </image>
     <item>
+      <title><![CDATA[边缘糊还是帧间抖？苹果 Depth Pro 2 都要]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0AdbSpdX3JfLywP91bvSRAxOlqm6w7wdo1qnP36IwYlh50vIsp41iaHvADCoavhN5oCiaOniaibO3ckojfCrKhgVqJekjjqqTiag9EQyoMSMI9fM/640?wxtype=jpeg&amp;wxfrom=0"/><p>拍一段猫在窗台打盹的视频，后期想虚化背景。逐帧估深度，猫耳朵会在某一帧缺一块；换成视频模型，耳朵边缘又糊成一团。苹果 Depth Pro 2 让 1 到 32 帧进同一次网络计算、按原分辨率输出米制深</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcxMDIyMzg4Ng==&amp;mid=2247487136&amp;idx=1&amp;sn=0e7f187c9e320a9428f0871f4fb3df19&amp;chksm=f4f31f435b3341644a6285560140de76120d1900b4668ea4bd420c0631c82afc84c4b4c02aef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 19:44:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[堆参数救不了长任务？智谱 GLM-5.4 让 28 层跑两遍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0AdbSpdX3JedfwuqJyzh7W01gWKJmrlNVXoH77DmkzS7jiaCLnvibSVq757sNzXgodrOFKJRWNscXSLttefOgXBCHEtv8RKn6yup99XnulGMA/300?wxtype=jpeg&amp;wxfrom=0"/><p>让模型在 FreeCAD 里画一只六轴机械臂，难在连续多步操作里：每一步都不能把前一步的约束弄丢。智谱刚发布的 GLM-5.4 把参数停在 750B，让 28 层循环跑两遍，官方称智能水平对标 2T–</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcxMDIyMzg4Ng==&amp;mid=2247487136&amp;idx=2&amp;sn=2ff59db753be4fb0c51db9020be59997&amp;chksm=f4457bbc544ee87fcdc6dc5c16296d5fd810f4eeea4cbb69b5f9be53b7e2ebfc2b7c60fc69f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 19:44:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[4K 训练不用整张图：阿里 Qwen-Image-HD]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0AdbSpdX3JdJhhQH95G3883mSW0tNyLzLuBPrf8xy6JpDUweWyyiaIpauWI8Ebtwjf7kic5k67diaYcibnaXLia1fraPuCnbmjGKrqpKRa0U81uM/300?wxtype=jpeg&amp;wxfrom=0"/><p>生成一张 4K 风景图，把局部放大，草地先露馅：叶片走向重复，石头纹理像被梳过。阿里 Qwen 团队的 Qwen-Image-HD 不整图微调，改成每次画 1K 一块，训练算力省 68%，总分反高 1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcxMDIyMzg4Ng==&amp;mid=2247487136&amp;idx=3&amp;sn=16ec7088daa3d0e4c9bfb832849565b0&amp;chksm=f45630b4700d5bc3f95938ad44d30490d47c7cd0d7054b36c3bc90758df600347ad6dda722a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 19:44:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌没公开的 Vision Banana，纽伦堡工业大学开源了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0AdbSpdX3JdibOvfFh7gm0Nk9V0Iny509E0lMO4gsMSRBkg7doVhbc9XOFOTuqmPOn0bDXAxpibSEiaIVWkibp3LRHqmK8W8yTxBZzsicQhkicmlc/640?wxtype=jpeg&amp;wxfrom=0"/><p>读完记住： Open Vision Banana 用公开的生成器、数据和训练配方，复刻了谷歌没公开的 Vision Banana。零样本 Cityscapes 到 73.9 mIoU，但它不是“模型突</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzcxMDIyMzg4Ng==&amp;mid=2247487075&amp;idx=1&amp;sn=d451897db609d7a9209b01b37cf98b1c&amp;chksm=f40f84298b44db40022b191f20b24e2c9a09d3f5f619b72e22a8b104028aaa5482e086ff9912&amp;scene=0&amp;xtrack=1#rd</link>
