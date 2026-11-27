@@ -10,6 +10,12 @@
       <title>gh_790ee301453b</title>
     </image>
     <item>
+      <title><![CDATA[港大团队提出RoboEvo²：迈向「递归机器人自我改进」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDJ6bywTU3fRuobzNP2j8nBDvWWb00kDknb0Oka7bcZ2fE2ibqicEZV0QicgwbkxAY1Ek3vXvibtwEicFvEbZKXT2aYkGgdOWkFMwF2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>人学一门新技能分两步：先想明白，再练熟。然而，机器人目前只能做到其中一步。尽管视觉-语言-动作（VLA）策略控制高效，但遇到陌生场景却往往要补人类示教；推理 agent 能凭广泛的先验知识调用机器人控</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247607594&amp;idx=1&amp;sn=b10f6f2ebcd9c6b7a70f3ffbdb2b5a9c&amp;chksm=ce77d07ef5b3c009c0db44e380ffa6bbd096e384feb702d0ae573491e9d3cd5854302553e3bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 09:13:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[斯坦福团队提出「递归集体智能」RCI：让多agent群体一代更比一代强！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDKFsqEiaibTXU4flp10klt5MXH8Nd7tk0BI0wea4JQLNnDzEokQ9cKnYTHVJKcM5LAZdNG1dgiaEWf4oVYQ6TwiaFMOwcgoU42mhAo/640?wxtype=jpeg&amp;wxfrom=0"/><p>让多个 LLM agent 组队解决问题，已经成为构建 AI 系统的主流做法之一。支撑这一做法的证据大多很直接：团队成绩超过单个 agent。然而，这类比较往往忽略了算力成本。一个多 agent 团队</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247607576&amp;idx=1&amp;sn=67ab3fca2a1b92d58874575e7bc090c8&amp;chksm=ce16464ffb04eebecb09747537d4fb8c5b24bba44faf3df7dedd28b8900caacf1b225f0667c2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1OK6lXCJmDJRW0RMR6KX5IAZgNGNxzn0I3UbsiaGRnWlAC1YF5aGSzOGTBPzEaQgk3IR2OJTLeEBlKicH8la7ZncC2Bf8xUK2iaoD7hn5RB6OY/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，围绕自主 LLM Agent 的工程实践，已经逐渐形成了一套较为清晰的技术体系：Prompt Engineering 激发模型能力；Context Engineering 组织信息访问；Harn</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606443&amp;idx=1&amp;sn=01687b2bfa294645e874aed803b03536&amp;chksm=ce01c3088638d5235405ebd4722e60ca87ea9dece1c03e6fcfc5d03a40ea30175cf561efc4a5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Aug 2026 18:08:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌提出EnvHarness：让静态环境随Agent一起进化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1OK6lXCJmDLLo7QJLGmlo8lEHJJSSkFeel5k4nMLMZhg7YtAmWxpJt53UpDfsc3h8KbEgVGnwQNfshMRiafrfM8u5q2P78ahRcXLWgibXMf8s/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型（LLM）正在从文本生成器转向能够浏览网页、修改代码和操作办公软件的智能体（Agent）。与传统 LLM 主要从静态语料中学习不同，Agent 的能力提升越来越依赖可交互环境：提供任务、维护</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&amp;mid=2247606419&amp;idx=1&amp;sn=aa80ee57b24a02c341326cf783332d61&amp;chksm=ce8f0284f5930fcf15ee009a3b65404a1cc0a67478b9135d0ccfe38eb999545c1ea3b85bc1d7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 18:00:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
