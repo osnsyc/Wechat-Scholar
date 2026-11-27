@@ -10,6 +10,12 @@
       <title>gh_a40a957ae2a2</title>
     </image>
     <item>
+      <title><![CDATA[Codex + OJO Plugin，完美解决我前端AI味过重的问题～]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRO0LpjVhOEejWbIUVGryFFTwejicaOlA2DBOIZkxu05rKr8bVUtKmgCfNwLjZYSlVqIcFbxEysjYXdfiaNdo0gbXZ4F1mPn3kmj0/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。我前几天不是搓了个公众号长文转小红书卡片的小工具嘛，实话实说，功能很全，但界面布局很丑，其实不光是这个小工具，平时用 Codex 裸写前端，很容易停在能用但丑的阶段。前几天就有</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247505243&amp;idx=1&amp;sn=617fd7d5e3745d817ae5dfdc43b00e86&amp;chksm=cef30d3b723adc00535ed9d97cf1b5a4895fed43b8526f572226ca3706b14c6ea88e564ca9db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 13:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[都2026年了，领域垂类大模型还有意义吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/oUDMrTdAeRO4YUKqTE7ZZD6FOPmfX8xd2spgF0ibro2A9StHKXC1yxV72W5XZVcN5DJhcHH4CHHSiaLy6BjG8KHSTt4wiaoQNiaeibPUFsCUlA7M/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。到了2026年，大家是不是已经很少听到领域垂类大模型这个词了，其实在去年的年终总结里，我就写过这个感受，还留了个问题，前两天，发现蚂蚁百灵开源了阿福背后的医疗健康大模型，又把我</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247505142&amp;idx=1&amp;sn=fc622d89ff42f0a256fa84e48909f851&amp;chksm=ce67f6010d98823c61eff5b3e79dbf4bfdf6a4f8a756cece0395274f8368433a704c32703a6b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/oUDMrTdAeRMuss8XRichqUtz8l7brCew6B0E4zzVeP2e2gBzTULckrQ0QdBIrRAuia2plJU2t5TNib4Mr2LB4m6BxNaAgDVicoTUovU4HicZO2ck/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是刘聪NLP。回归模型测试，小红书的这个dots3-note-prev模型我几天前就想测了，这是一个总参数280B，激活参数16B，上下文512K的多模态模型，你可以理解为，跟Hy3、Dee</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247502022&amp;idx=1&amp;sn=8e14fc8211e8d1bf6e0cf533fcd7082b&amp;chksm=ce608ed2b0870616a709df148d282738b6d6c084da26cfa560fb0000e7eac51a04702fb81a95&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 11:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[唐杰的最新X，告诉我们，现在的MoE模型训练的都还不够充分？ 刚刚智谱的唐杰老师发了一篇X， 我有一些自己的想法， 我的理解是，其实现在的MoE模型，在执行任务上的训练还是不够充分。 针对于模型执行任务来说，现在大多数超大模型都是MoE了， 专家的激活，哪些专家更好的使用、组合，是靠post-training不断优化的。 那么这种持续的后训练，是否对于Dense模型也生效呢？或者说，提升有多大？ 其实没有做过，现在最大的Dense模型貌似是405B的llama3，（24年7月发布？） 但那个时候，大家对RL的探索也没那么强， RL是DeepSeek-R1带起来，那已经是25年1月了。 所以也没有人知道1T的Dense模型的上限在哪儿？ 1T的Dense的推理成本想想都觉得恐怖， 但也许，超过1T的大模型，会有额外的智能涌现，不知道，也没做过相关的实验， 是否会出现奇点？ 正因为成本问题，现在大多数模型都采用Moe模型， 才能不断通过后训练提高效果，让更多的专家，更好的组合起来。 但GLM5.3的提高，在实测下来，我的大部分场景体现不出来，因为我不做安全，不清楚， 所以，也许模型的MoE专家的配合，靠后训练，可以真的不同领域单独提高。 参数拉高你的领域能力上限，后训练让你无限逼近 欢迎，讨论，批判，指正。 原文截图放到评论区了。]]></title>
-      <description><![CDATA[<p>唐杰的最新X，告诉我们，现在的MoE模型训练的都还不够充分？ 刚刚智谱的唐杰老师发了一篇X， 我有一些自己的想法， 我的理解是，其实现在的MoE模型，在执行任务上的训练还是不够充分。 针对于模</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&amp;mid=2247501980&amp;idx=1&amp;sn=62a497fae78c606bd96eca89de26be5d&amp;chksm=ced2dbcce62b405ffeeafeb9aa0bdc6a7c2c833cbfacf73b223d8c436d689a4365056e14fc17&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 15:22:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
