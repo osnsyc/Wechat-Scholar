@@ -10,6 +10,12 @@
       <title>gh_f24964232d76</title>
     </image>
     <item>
+      <title><![CDATA[DeepSeek 同一天更新四个底层库：读 DeepGEMM 的一万行改动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbXGDibJr78eHWiaMLklibF6yUFCByIm8YIqIHpmSLuwPVicmLX0icQXduQn1peC9FeHKxaajVcMJpAG6yCmdmnD5o6apGFE16ibrK0s/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 总结本文由 AI 阅读 DeepGEMM 公开仓库的源码和 PR 之后总结，发布前由人看过。文中的代码片段都和源码逐行核对过，但没有编译，也没有实测性能。标了「推断」的地方是读代码得出的理解，不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532957&amp;idx=1&amp;sn=71e9ffe7c7df2011b8b2a7696930fb84&amp;chksm=9e398a55a9dbc3b7a7dfaeb2bb2c2be1c9c1104ae8a7013cec7007fed6a33836bdd63870aff7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 18:49:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[文心 ERNIE 5.5 Flash 低延迟解码的六步优化：每秒 102 个 token 提到 1074]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2KbAlSTOYjC8zZzBJRssnASrYM7VL59ucax0icmxdvicugle8s4nX6IBbH3gvRb1qI0xknkHXxPXYBLdpOPcLgmWucgvXWiaBTu4I8/640?wxtype=jpeg&amp;wxfrom=0"/><p>原文：LMSYS 博客《Toward the Decode Limit: ERNIE 5.5 Flash at 1074 tokens/s on SGLang》，作者 Baidu ERNIE Team</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532937&amp;idx=1&amp;sn=579792a662ff89861409f21af1796e9e&amp;chksm=9edd1e84d8c8b25a84112d920f7b46995630951de36edd5954b086db1f3678924929e9a0f326&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gvzXpmzO2KYBJ8E9vqKMMWpck4TziaWtEEiccHjcibZUmpN7eeB8Iq2uPgq7ribjN4MZzW6DFA29QWNg0SbDHNZaq8SBRCDJDepBd6qYbGgpak0/640?wxtype=jpeg&amp;wxfrom=0"/><p>重新审视 CPU 资源作为语音模型 Serving 过程的一等公民从 2023 年 SGLang 项目启动开始，我们一直对于 long context inference 有非常大的投入。最初的时候，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532167&amp;idx=1&amp;sn=e4f4edb73b3cfc8a484f37bb4169b5e2&amp;chksm=9e0ba940764353fecd58af01d181acfbeb6f05e290be71b1cac63c721d7520ba1f9a08d79a59&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Aug 2026 12:06:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[狂揽顶会！大模型下一个爆点找到了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/gvzXpmzO2Ka0uNkG8jibJSy2ibc5SuqQGK9l8iaw3H2wA7f0cKvMMYtIUXn4ZOILGpObL7yMiaibcJicCd2RbFqkOj5Ha5M0f21queE1N2M4RP2D4/640?wxtype=jpeg&amp;wxfrom=0"/><p>做大模型，不同资源条件的实验室，难度完全不一样。所以在选方向之前，先别问哪个最火，先问问自己有什么：多少卡、什么数据、三个月能不能跑出第一组结果。了解情况后，就要看方向跟资源的匹配度了，那每天都有大量</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&amp;mid=2247532159&amp;idx=1&amp;sn=dc50cefe9c8df5619024649ef4b639c9&amp;chksm=9e243c41b1f4170b9dfc1b96a263d810601dfd73f955d856ea84307705de10f6bb44deff7369&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
